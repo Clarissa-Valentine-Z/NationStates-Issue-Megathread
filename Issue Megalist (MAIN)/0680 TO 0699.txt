@@ -1,0 +1,289 @@
+0680 TO 0699
+[b][anchor=680]#680[/anchor]: The Fault Is In Our Stars [Drasnia; ed: Helaw][/b]
+
+The Issue
+Your Astrological Advisor has yet again called for an immediate halt to all governmental activities. When questioned, she insisted that it must be done as the skies have been clouded over for several days, thus making astral readings too inaccurate for any important decisions to be made. Flanked by a colorful variety of different personalities and opinions, she has stridden into your office to warn you of great danger.
+
+The Debate
+1. “It is an omen of the oncoming storm!” cries your Astrological Advisor, tightly clutching her copy of the @@DEMONYMADJECTIVE@@ Horoscope and a mysterious blue book. “For years the stars have blessed us with their favor, but now that they are gone we can only assume that they have abandoned us! @@LEADER@@, for the sake of @@NAME@@, the government should do as little as possible during these uncertain and dangerous times. You never know what those Gemini folks could be planning!”
+
+2. “The government’s actions shouldn’t be dictated by such crackpot nonsense!” blusters @@RANDOMNAME@@, a renowned atheist and Gemini. “As a nation, we must strive to put aside our archaic astrological beliefs and instead focus on a logic-based approach. Only through this can we function properly as a political institution. If this means getting rid of all these so-called star prophets, so be it. Besides, they’re just big spheres of exploding gas!”
+
+3. “The problem is not in the stars,” laments astronomer @@RANDOMNAME@@, a Capricorn who is feeling somewhat under the weather this week. “Instead, it lies with our tools. We lack the powerful telescopes needed to see through this cloud cover. With a small contribution from the public, we can build a gigantic telescope that will give us pictures of the constellations no matter what the weather may be!”
+
+4. “Stars, huh, what are they good for?” says self-proclaimed ‘Alternative Diviner’ @@RANDOMNAME@@, while tossing a handful of asparagus stalks in the air. “We can’t just shut down the government every time a cloud is in the sky. This sort of thing will keep happening again and again and again. If you hire me, I will use more reliable methods such as asparamancy and tyromancy. That way, when I’m done divining, you’ll have delicious asparagus and cheese to eat afterward for no cost at all.”
+
+-----------------------------------------------------------------------------
+[b][anchor=681]#681[/anchor]: @@NAME@@'s New Year's Resolution: Lose Fewer Limbs [Milostein; ed: Ransium][/b]
+
+The Issue
+The @@DEMONYMADJECTIVE@@ New Year has arrived again and citizens across the nation are setting off fireworks that light up the sky in a beautiful and awe-inspiring display. Lighting up @@NAME@@’s roads, however, are the sirens of emergency vehicles tending to the injuries and fires caused by the explosive revelries. Your Minister of Safety has twisted your arm to personally investigate the situation, so you’ve reluctantly left your own New Year’s party to venture to the local hospital.
+
+The Debate
+1. A frazzled ER doctor, @@RANDOMNAME@@, begins lecturing you while distractedly stitching a patient. “I can’t take it any more! Every New Year, the number of patients in the burn ward explodes, and need for stitches skyrockets! Fireworks are clearly too dangerous for the untrained public to play with. We need to ban possession and use of fireworks without proper training. To keep the tradition of @@DEMONYMADJECTIVE@@ New Year alive, the government can sanction shows and hire licensed professionals for the celebration. And hey, if I weren’t suddenly getting so many emergency calls on the New Year, maybe I’d actually have time to watch the show.”
+
+2. “That’s not going far enough,” interjects a local bird watcher @@RANDOMNAME@@, who is standing by the window, binoculars trained on a vulture by the hospital morgue. “It’s not a celebration for the birds whose sky we’re shooting into! Animals don’t understand what’s going on when unnatural flashes and scary noises suddenly start bursting all around them. If they dodge the explosions, noxious smoke is sure to drive birds out of the sky, while remains of spent fireworks littering the streets pose a swallowing hazard for scavengers. Licensing fireworks operators won’t change this. We need to ban all fireworks, and find less inconsiderate ways to entertain ourselves.”
+
+3. “That’s ridiculous,” retorts @@RANDOMNAME@@ - Chief Technical Officer of the [i]Have a Blast[i] fireworks factory - who is visiting the burns ward to hand out free sparklers to the injured. “Thunderstorms happen all the time in nature, and animals survive those. Fireworks are fabulous fun! If some drunken idiots can’t read the clear safety instructions we supply with all our products, then, well, that’s natural selection doing our species a favor. In fact, we should legalize use of fireworks all year round. Then we can celebrate anything, anytime, not just the New Year.”
+
+-----------------------------------------------------------------------------
+[b][anchor=682]#682[/anchor]: Exhaust Every Option [Solborg; ed: Candlewhisper Archive][/b]
+
+The Issue
+Three days ago smog levels in the inner city reached a record-breaking high, with visibility so poor that a driver mistook a closed-off construction zone for an off-ramp and plummeted to his death. The public has raised the question of whether automobiles are emitting too much pollution.
+
+The Debate
+1. “This pollution has gotten out of hand!” gasps concerned inner city teacher, @@RANDOMNAME@@. “Just last week, my school had to keep the children from going outside because the air was burning their skin! You need to implement a tax on vehicle emissions, and fund scrappage of inefficient older vehicles!”
+
+[2]. “Legislating against polluting cars is not going to solve the problem, as car companies will always find some loophole or deception to trick the system,” observes CEO of IntraCoil Motors, Oolong Musk. “Electric vehicles don’t pollute locally, so if everyone drove them, we would have clean air in the cities. The government should fund the creation of charging stations, to give customers the choice to realistically switch to green technologies, like the new IntraCoil Model LXIX, available next month at your local dealership.” He winks at a nearby camera. [[color=blue]Must have private industry[/color]]
+
+[3]. “The government wants to do WHAT now?” yells Oil Tycoon @@RANDOMNAME@@. “You really want to put all those poor drillers and oil riggers out of work? You really want to wreck our nation’s petrochemical industries? Instead of listening to these crazy ‘environmental’ hippies, let the free market operate and self-correct! Besides, everyone knows those electric cars actually cause cancer anyway.” [[color=blue]Must have private industry[/color]]
+
+[4]. “Comrade, the problem here is that the Workers are not cooperating, like good Socialists should,” observes Party Member @@RANDOMNAME@@. “Require all of our Comrade-Citizens to carpool to a vehicle’s capacity, and you will more than halve the number of vehicles on the road.” [[color=red]Must not have private industry[/color]]
+
+5. Professor @@RANDOMNAME@@, who says @@HE@@’s from [i]The Institute[/i] - though you’re not sure whether @@HE@@’s talking about a research lab or a mental health unit - has one final idea. “All this jibber-jabber about cars has really got me thinking: why don’t we give people an alternative? With funding, my lab could build an amazing, floating Sky-Train! We’ll just need guide wires, lots of hydrogen, and some sort of clean propulsion system. Think about it! A SKY TRAIN!”
+
+-----------------------------------------------------------------------------
+[b][anchor=683]#683[/anchor]: Different Keystrokes For Different Folks [Intrapolia; ed: Ransium][/b]
+
+The Issue
+Several school districts across @@NAME@@ are debating whether computer science should be implemented into school curricula.
+
+The Debate
+1. "Hello, @@LEADER@@!" greets Radi Skarvoti, founder of the popular non-profit organization Program.net. "Computer science is a very important skill in today's society! It's a fantastic way to have students learn logic, engineering, and mathematics. Through my curriculum kids can learn programming all while doing what they like best: playing video games!" He shows you one of his online courses, where students are tasked with solving basic logic problems to navigate through a maze themed after the popular mobile game '@@ANIMALPLURAL@@ Vs Skeletons'. "Well, we don't want to overwhelm the kiddos, do we?"
+
+2. "Kids aren't gonna get anywhere with this Highlights-puzzle trash!" rants @@RANDOMNAME@@, a respected member of the @@DEMONYMADJECTIVE@@ coding community. "Starting in primary school, students need to start learning how to code in fundamental languages like J++, or Bison. If done properly it can still be fun. Look, here's something I taught my son to code the other day." @@HE/SHE@@ pulls out @@HIS/HER@@ Sprinux laptop, and shows you a game reminiscent of old arcade game Monkey Khan. "We'll need a tax increase to recruit a new cohort of teachers with computer science expertise, but programming literacy will increase exponentially."
+
+3. "Why should @@CAPITAL@@ dictate how I teach my kids?" demands @@RANDOMNAME@@, superintendent of a rural school distinct in the southern part of North-West @@NAME@@. "How about the centralized government butt-out for once and let individual school districts decide what's best to teach their students? If students in @@CAPITAL@@ school district want to learn about programming, great. But, by the same token, if parents in my district want me to dedicate an hour a day to teaching students about sheep husbandry, that should be fine too."
+
+-----------------------------------------------------------------------------
+[b][anchor=684]#684[/anchor]: Murder Most Deniable? [The Free Joy State; ed: The Free Joy State][/b]
+
+The Issue
+The popular radio host, Alexandra Lukin, Marche Noire immigrant and vocal critic of the country she fled, was found sprawled across the sundial of @@CAPITAL@@ Park at noon, dead as a South @@DEMONYMADJECTIVE@@ Dodo. Advisors have gathered in the shadowy recesses of your office, wondering what to tell @@REGION@@’s waiting press.
+
+The Debate
+1. “Marche Noire did this,” grunts @@RANDOMNAME@@, your implacable Minister of International Relations, wearing a hole in your carpet as @@HE@@ paces in @@HIS@@ Army-surplus boots. “Ms. Lukin was a respected resident of our country, and they killed her. Well, I say we show those Marche Noirian mouth-breathers that they can’t treat our household names this way. I say we hit them with a trade embargo. Kill any deal with Marche Noire. @@NAME@@ doesn’t want pretty wooden knickknacks, lobster, and truffles from murderers.”
+
+2. “Let’s not be excessive,” chuckles @@RANDOMFEMALENAME@@, Minister of Cover-Ups and International Trade, who coincidentally part-owns an authentic Marche Noirian restaurant. “@@LEADER@@, for the sake of trade, you must ignore this little protocol slippage. Take away Marche Noire mountain truffles shaved over a Marche Bay lobster linguini and served in a hand-carved hickory bowl and the @@TYPE@@ will riot. Perhaps it was an accident? Ms. Lukin slipped on an abandoned banana skin, fell back and landed on the knife in her own pocket. Trying to stand, she alas fell onto her knife a further forty-one times.” She jams a truffle between your lips.
+
+3. “@@LEADER@@,” whispers @@RANDOMNAME@@, Head of Secret Service, “no-one’s suggesting we let Marche Noire get away with murder. But it occurs to me that we have a one-off opportunity to strike at one of the thorns in our own rump. Consider Dan Couch, @@NAME@@’s most troublesome emigrant and muck-raking filmmaker, who has stirred anti-@@DEMONYMADJECTIVE@@ sentiment with his films [i]Bread and Circuses[/i] and [i]The Storm that Shakes the Amaranth[/i]. He’s hiding over in Marche Noire, making his incendiary drivel. My operatives can go and...” @@HE@@ slashes @@HIS@@ finger across @@HIS@@ throat.
+
+*4&5. “You’re really overthinking how Ms. Lukin came to be stabbed forty-two times.” @@RANDOMNAME@@ clucks @@HIS@@ tongue, while corking the barrels of your guards’ guns. “It happened because someone had a knife. Why did someone have a knife? Because people sell knives. Do you see where I’m going? Ban knives, and your whole problem goes away.” Ruminating, @@HE@@ tosses a precariously-hanging [i]Picasso[/i] into the bin and replaces it with a poster reading [i]Safety is Fun[/i]. “Best ban forks, too. Someone will put an eye out one day.” [4: [color=blue]Must not be vegetarian[/color]; 5: [color=red]Must be vegetarian[/color]]
+
+-----------------------------------------------------------------------------
+[b][anchor=685]#685[/anchor]: Externalities Palmed Off [Singapore no2; ed: Candlewhisper Archive][/b]
+
+The Issue
+A sunny neighbouring nation with a developing economy has been burn-clearing large swathes of rainforest to gain land for palm tree plantations. Weather conditions have carried the thick pall of smoke from the burning across a narrow sea strait, and into @@NAME@@.
+
+The Debate
+1. “The smog is affecting the young, the elderly, and the sick,” notes your Minister of Civic Welfare, as she holds a rose-scented handkerchief over her nose and mouth. “We have to send a strongly-worded letter to their government to request that they do something to stop the parties responsible, if they’d be so kind. I’m sure that with their own citizens being affected, and with us pointing out the ecological damage they’re doing, they’ll take everything into consideration and choose to be reasonable.”
+
+2. “They aren’t going to respond to that! They don’t care if their own citizens drop dead in the fields, they’re cynical profiteers who only care about the bottom line!” fumes @@RANDOMNAME@@, the Minister of Trade and Industry. “Let’s embargo all their palm oil products and encourage all our allies and major trade partners to do the same. That’ll teach them!”
+
+3. “Teach them what? That we care about abstract concepts like ‘diplomacy’ and ‘dialogue’?” rebukes @@RANDOMNAME@@, a hawkish Air Force Commander, pounding @@HIS@@ fist into her open hand for emphasis. “It’s clear that they won’t fold easily when there’s so much profit at stake, but if we bomb the government, whoever is still left will accede to any of our demands.”
+
+4. “And what will that achieve? Decades in a never-ending war, that’s what!” mocks @@RANDOMNAME@@, a slightly deranged scientist, who is staring intently at a snowglobe. “Instead, let’s build a protective acrylic-glass dome over every city, and connect them via enclosed tubes. We won’t have to care about the haze, difficult neighbours, or even climate change ever again!”
+
+-----------------------------------------------------------------------------
+[b][anchor=686]#686[/anchor]: Freemium Isn’t Free [Azura Manga; ed: Zwangzug][/b]
+
+The Issue
+Popular mobile game “Super Epic Mega Tap-Tap Fantasy” reported profits in excess of one billion units in the last financial year. While some of your advisors are delighted at the stream of taxable income, others consider spending in mobile games to have reached excessive levels.
+
+The Debate
+1. “This kind of marketing scheme should be illegal,” declares activist @@RANDOMNAME@@, pausing a game of open-source Pong. “Emphasizing spending for virtual items with no real-world purpose serves only to trick people who cannot help themselves and to fatten the developers’ wallets! Children who don’t know how hard their mommies and daddies work for their @@CURRENCYPLURAL@@ are learning that paying everything for nothing is okay! Do you want to have to explain why the next generation is full of gamblers?”
+
+2. “Illegal? A generation of gamblers? What exaggerations,” scoffs Norta Scamm, CEO of Extreme Colossal Fantasy Inc. “Supporting these ‘activists’ would itself be preposterous! We have the right to cater to our fans, and if some people don’t like our game, they can just not play it and keep their mouths shut around those who do! I worked hard to get my managers to make our developers make this game, and I, er, my company deserves to be able to earn money for its work!”
+
+3. “Have you ever asked any of us what we think?” challenges self-confessed “completionist” @@RANDOMNAME@@, scanning your office for the best signal. “We have spent thousands, some of us millions, on these games. It’s not a matter of gambling, but an actual mental health disorder! We need to raise awareness for these addictions, and companies that condone this ‘whaling’ can pay for our rehabilitation!”
+
+4. “Y’all see, this is why we don’t need no fancy app-lik-ay-shuns,” rails @@RANDOMNAME@@, occupying your lawn and shooing passersby off it. “Back’n my day, we worked sun up til sun down on our pa’s farms, an’ if we had any time to spare it was playin’ cards with friends at the pub! No fancy veer-chew-al items an’ games, just good old paper cards and shiny, round @@CURRENCYPLURAL@@! What y’all need ta do is get rid o’ these fancy-shmancy eye-phones and get back to what our country was founded on!”
+
+-----------------------------------------------------------------------------
+[b][anchor=687]#687[/anchor]: Marriage By Proxy Server [The 19th Century; ed: Wyethalania][/b]
+
+The Issue
+After an online petition that would allow people to legally be married over the internet reached over one million signatures last night, you awake to find your inbox inundated with emails and a crowd of petitioners waiting inside your office, all demanding you take action.
+
+The Debate
+1. “The internet is the only social life some of us have!” insists petitioner @@RANDOMMALENAME@@, whose MyFace profile says he is 6 feet tall, good-looking, and a popular country singer. “If I meet the love of my life online, we should be able to get married. It’s not fair that I have to be single my entire life just because my soulmate lives on the other side of the country and my mother won’t give me the money for a bus ticket.”
+
+2. “Oh, that’s a terrible idea!” chides your nettling aunt. “You have to be careful on the internet. You never know if the people you’re talking to really are who they say they are. Why just the other day, I was being courted by this youthful hunk of a gentleman on MatchMakers. But, when we finally met in person, the scoundrel was as old and flabby as me! It just goes to show that somethings like dating and marriage should only be done offline and in person.”
+
+3. “Preposterous, who wants a human husband or wife anyway? All they do is nag, lounge about, and lie all the time,” rebuffs IT specialist Trinity Tron from under your desk, as she upgrades your Wi-Fi router. “What we really need are artificial mates who truly understand us and can fulfill our every want and desire. You should just transfer funds from all those worthless welfare programs and into the tech industry so we can finally have the perfectly programmed partners we deserve.”
+
+4. “Well, pin my tail and call me a donkey. Y’all need to get out more,” cracks redneck plumber Larry Kableman from your private bathroom as he snakes a drain. “It ain’t healthy to be spendin’ all that time on the ‘puter. You oughta just disconnect the whole gosh-darn internet so all these idjits can get a real job like plumbin’.”
+
+-----------------------------------------------------------------------------
+[b][anchor=688]#688[/anchor]: You Don’t Have To Be Mad To Kill People... But It Helps [Liberamare; ed: Nation of Quebec][/b]
+
+The Issue
+@@NAME@@ was in shock after a recent mass murder, and shocked again when the suspect pleaded not guilty by reason of insanity, after a privately employed psychiatrist convinced the courts that he had no ability to tell right from wrong. @@DEMONYMPLURAL@@ are deeply divided over the notion of insanity pleas, and many angry citizens are demanding that you step in.
+
+The Debate
+1. “The only thing that’s insane is that you’re actually considering allowing this!” cries a parent of one of the victims of the attack. “Whether or not this man is insane doesn’t change the fact that my son is gone! This... murderer could have easily accessed psychiatric help and must take responsibility for his actions. He should face a proper jail sentence in a proper jail. All these insanity pleas do is give criminals an opportunity to abuse the system. We must show the scum of @@NAME@@ that they can’t hide behind so-called ‘pleas’! Justice must prevail!”
+
+2. “Actually, it is very difficult for the mentally ill to get the help they need in @@NAME@@,” reminds the suspect’s attorney after receiving a death glare from the parent. “It is not their fault that they’re suffering and any psychiatrist worth their degree would agree that many don’t have the mental capacity to determine right from wrong. We should be sending these people to mental institutions where they can be healed, not overcrowded prisons!”
+
+3. “The solution to everything is a compromise,” declares one of your staffers, who claims that working for you has caused him to go insane. “Require everyone accused of a crime to go through vigorous mental health testing to see if they are insane or not. This way, experts decide whether or not someone is insane at the beginning of a trial, leaving little room for errors.”
+
+-----------------------------------------------------------------------------
+[b][anchor=689]#689[/anchor]: A Sticky Situation [Dytarma; ed: Helaw][/b]
+
+The Issue
+While lounging on a curiously sticky bench in @@CAPITAL@@, you begin to notice that almost every passer-by seems to be mysteriously stuck to the pavement. Upon closer inspection, you realise that the ground is covered in chewing gum, which has in turn caused the unfortunate - and admittedly amusing - predicament that the pedestrians have now found themselves in. You are soon approached by a colorful mob of people, the majority of which are barely able to lift their own legs.
+
+1. “Every time I go on a run, I always find at least one piece of gum on my shoe!” screeches @@RANDOMNAME@@, whilst furiously picking @@HIM@@self up off the ground. “I always end up stepping in the stuff, and it’s always a pain to get off. Gum is a health hazard, and it should be banned before anyone else finds themselves chewing the pavement! If somebody has a problem with that, then they can just find something else to gnaw on.”
+
+*2. “Don’t listen to that gum-hating buffoon,” exclaims the CEO of Suborbit Gum, Minté Breff, while chewing loudly. “Banning gum will cause a tremendous uproar of unnecessary proportions! Gum can help people study and concentrate, all whilst they taste our selection of great flavours; something that the government would surely support and even subsidise! You can have my gum when you pry it out of my cold, dead mouth.” [[color=blue]Must have private industry[/color]]
+
+*3. “Don’t listen to that gum-hating buffoon,” exclaims the State Director of Oral Cohesive-Based Solutions, Minté Breff, while chewing loudly. “Banning gum will cause a tremendous uproar of unnecessary proportions! Gum can help people study and concentrate, all whilst they taste our selection of great flavours; something that the government would surely support and even subsidise! You can have my gum when you pry it out of my cold, dead mouth.” [[color=red]Must not have private industry[/color]]
+
+4. “Why not look for a different solution?” asks @@RANDOMNAME@@, as @@HE@@ helps @@HIS@@ son clean gum from his shoes. “How about we place more trashcans? Place a few here and there, fine anyone that doesn’t put their gum into them, and I guarantee that this problem will go away. All of this gum will give these trashcans a fresh and much more bearable smell!”@@HE@@ abruptly turns towards @@HIS@@ son, who has now wandered away. “Stop smelling the bins!”
+
+-----------------------------------------------------------------------------
+[b][anchor=690]#690[/anchor]: Hey! @@LEADER@@! Leave Them Kids Alone! [Nation of Quebec; ed: Candlewhisper Archive][/b]
+
+The Issue
+The government’s decision to oblige school children to recite the [i]Pledge of Allegiance to @@NAME@@[/i] on a daily basis is proving to be quite controversial. Some parents are upset with the inclusion of references to @@RELIGION@@, @@LEADER@@, and the use of language that can at best be described as ‘robustly patriotic’, and at worst criticised as bordering on neo-Nazism. They are demanding that you scrap the pledge as being incompatible with modern values.
+
+The Debate
+1. “We don’t need no thought control!” protests apparently grammatically-challenged parent @@RANDOMNAME@@. “I’ll be damned if I’ll allow the schools to brainwash my kids into joining @@LEADER@@’s fan club! Reciting this pledge is a violation of free speech and an insult to everything @@NAME@@ stands for. Schools should be a place of learning, not indoctrination! The children are the future, not another brick in the wall!”
+
+2. “I won’t have any of this dark sarcasm in the classroom!” shouts your Propaganda Minister @@RANDOMNAME@@, while eating @@HIS@@ favorite meal of meat and pudding. “There is nothing wrong with the Pledge, dearest leader. Don’t listen to these traitorous, anti-@@DEOMNYMADJECTIVE@@ hippies. In fact we should not only have the Pledge in schools, but also extend it to the workplace, the streets, and perhaps even figure out a way to force the people to say it at home. The most obedient and freedom-loving citizens love the pledge. Anyone who refuses to say it hates @@NAME@@ and anyone who hates @@NAME@@ is a traitor to our beloved @@TYPE@@!”
+
+3. “Perhaps there’s a compromise, yes?” suggests overworked fiction editor @@RANDOMNAME@@, keen to calm down the heated argument. “I agree that we should keep the pledge, but we should remove some of the more questionable phrases, and render it a little less nationalistic and jingoistic. Perhaps we could even give people multiple versions to pick from, and leave the odd space blank where people can insert their own chosen phrasing. Free speech is about choice, after all. No matter what we do someone is always going to be offended, but this is making the best of a bad situation.”
+
+-----------------------------------------------------------------------------
+[b][anchor=691]#691[/anchor]: The Prodigal States [Caracasus; ed: Genjs][/b]
+
+The Issue
+Yesterday, one of the areas that recently seceded from @@NAME@@ was forced to declare itself utterly bankrupt after having spent their entire budget on a gilded statue of their founder. Today, representatives from these new “states” have started reaching out to you to consider the possibility of reconnecting with the Republic.
+
+The Debate
+1. “Oh Violet, it’s all gone terribly wrong,” bemoans ‘King’ @@RANDOMMALENAME@@, ruler of the [i]Glorious Eastern United @@ANIMAL@@ Empire[/i] (population 12). “I thought it’d be awesome having my own kingdom and everything, but it’s actually really hard work! We’ve got no industry since Dave broke our woodcutting axe and even worse, every damn day I get bugged by idiots who want me to make decisions on everything from foreign policy to whether we should resize our football pitch... can’t they sort this out themselves? Please just take us back, OK?”
+
+2. “One little setback and you go running home to mummy,” sneers President-for-life @@RANDOMNAME@@ of the [i]Democratic People’s Republic of @@CAPITAL@@ Boulevard nr. 10[/i] (population 24), as she signs a series of executive orders. “Those weaklings over in the People’s Democratic Republic of Trout Hills were never going to last anyway. If you really want to help all of us, then make sure we can stand on our own two feet! I think what we need here is for you to provide a forum to promote more diplomatic links, trade and military cooperation with us smaller nations. It’d help you out, and we’d love to have real toilet paper again.”
+
+3. “I told you at the time this was a stupid idea,” sighs @@RANDOMNAME@@, Minister for International Affairs. “These idiots are too busy fighting each other or playing at king to even begin thinking about basic infrastructure, let alone functioning toilets. Seriously, you could spit across most of these places. Nonetheless, our agents report some of them are raising armies literally dozens strong. Enough is enough, Leader: let’s welcome back the ones who have seen the error of their ways, bring out the fatted calf and all that, and send in some of our bad hombres to forcefully annex the rest of them.”
+
+-----------------------------------------------------------------------------
+[b][anchor=692]#692[/anchor]: Game Of Drones [Nation of Quebec; ed: Ransium][/b]
+
+The Issue
+A jet airliner recently made an emergency landing into the @@ANIMAL@@ River after an engines failed during takeoff. Footage has revealed the likely cause of the crash to be a drone sucked into one of the aircraft's engine, and some are questioning the lack of regulations related to drone use.
+
+The Debate
+1. "We're lucky nobody was killed in the crash, but we might not be so fortunate next time," murmurs @@RANDOMNAME@@, your overzealous Public Safety Minister, while meticulously covering your letter opener with bubble wrap. "The problems with drones extends beyond planes, too. What if one falls out of the sky and decapitates an innocent bystander? We need sensible regulations of drones to make sure @@DEMONYMPLURAL@@ are kept safe. The public should only use drones outside of populated areas, at low heights, and only after passing a safety class."
+
+*2. "We don't need draconian regulations just because one idiot didn't read the instructions," rebuffs avid drone enthusiast @@RANDOMNAME@@, while using a drone to film the meeting. "By that logic we should ban microwaves, just because one person thought it was a fun idea to stick their head inside to see what would happen. It is the right of every citizen to enjoy everything drones have to offer. Besides, strict rules would blow drone sales out of the sky." [[color=blue]Must have private industry[/color]]
+
+*3. "Yes, private drones are a nuisance, but don't throw the baby out with the bathwater," begs @@RANDOMNAME@@, CEO of Pie In The Sky, a drone-based food delivery service. "You should ban private drone use, but allow unrestricted commercial drone use. @@LEADER@@, let me tell you, the sky is the limit. Just think about drone package delivery, drone private investigators, even drone dog walkers. Perhaps we could talk more about it," @@HE/SHE@@ gestures at a food-laden drone tapping at your office window, "over some lunch?" [[color=blue]Must have private industry[/color]]
+
+*4. “We don’t need draconian regulations just because one idiot didn’t read the instructions,” rebuffs avid drone enthusiast @@RANDOMNAME@@, while using a drone to film the meeting. “By that logic we should ban microwaves, just because one person thought it was a fun idea to stick their head inside to see what would happen. It is the right of every citizen to enjoy everything drones have to offer.” [[color=red]Must not have private industry[/color]]
+
+-----------------------------------------------------------------------------
+[b][anchor=693]#693[/anchor]: Bottled Up Problems [Noahs Second Country; ed: Ransium][/b]
+
+The Issue
+Panic has spread across @@NAME@@ after a study found some bottled water manufactured in @@NAME@@ to be contaminated by [i]E. coli[/i]. Consumers’ rights groups have called on you to address this problem, so you’re attending a tour of @@NAME@@’s largest bottling plant with some interested parties.
+
+The Debate
+1. “Bottled water is a scam!” yells consumer rights advocate @@RANDOMNAME@@, while getting glared at by various employees. “Did you know, tap water is tested way more often than bottled? Or that some greedy corporations take tap water and mark it up more than ten thousand percent? We need to make the public aware of this! All that is necessary is to advertise tap water, and cut subsidies to the soda industry. It is better for you, me, the environment, and everyone else!”
+
+2. “These claims are just ridiculous!” exclaims @@RANDOMNAME@@, CEO of Glowing Brook Spring Water & Industrial Waste Disposal, while hesitantly taking a small sip of @@HIS@@ product. “Our water has been tested by the best inspectors money can buy, and it’s been certified as organic. If anything the government should be promoting bottled water; perhaps with a public health campaign encouraging people to drink eight bottles a day to stave off dehydration.”
+
+[3]. “Yeah, tap water is pure, purely full of drugs, am I right?” rambles @@RANDOMNAME@@ while attempting to give you a high five. “So, yeah, you totally need to get those toxins out of bottled water, but then you have to address a bigger problem. Sure everyone gets high from the tap water, but some squares are being total party poopers by forcing their kids to drink bottled water just cause they’re like, drug free. Bummer, right? But I’ve got a primo solution man, we need to, like, mandate putting drugs in the bottled water too, that way they’ll be no escaping getting high. Far out, huh!” [[color=red]Must have compulsory drug use[/color]]
+
+4. “There’s a sensible solution to all this,” states health inspector @@RANDOMNAME@@, opening a bottle of water while wearing goggles and a respirator. “Hire more health inspectors! We can take some money from some less vital government programs, like welfare and the military, and then send in government inspectors to do daily testing on the water sources and filtration systems. Also, would it kill you to raise our salaries a bit? Because [i]E. coli[/i] in your next meal might.”
+
+-----------------------------------------------------------------------------
+[b][anchor=694]#694[/anchor]: Concussive Percussion [Drasnia; ed: Helaw][/b]
+
+The Issue
+While attending a performance by the @@CAPITAL@@ Philharmonic Orchestra last Thursday, 75-year-old baker @@RANDOMNAME@@ suffered an unexpected heart attack. Several music critics have attributed the death to the surprise of cannon fire used in the song “2012 Overture”, which the Orchestra was playing at the time. However, much opposition has been drummed up against the critics, and both sides have clashed just outside your office.
+
+The Debate
+1. "This could have been prevented, if someone hadn’t decided to include cannon fire in the performance!" presses @@RANDOMNAME@@, while @@HE@@ fumbles through a pile of sheet music. "We simply can’t allow this to happen again, and the only way to make sure of that is to ban any weapons from being fired during musicals and performances, and take a stern stance against overly loud music. Cannons are deadly!"
+
+2. "If anything, we should be encouraging the use of alternative percussion in music," poises @@RANDOMNAME@@, a renowned composer, while putting a fuse into a suspicious looking stick. "Take, for example, the crash cymbals. Whose idea was it to bang two pieces of metal together to make music? Boring! Nothing entertains an audience like explosions, gunfire, and the sounds of war. War... that’s it! We should bring in the military to give all musical performances an explosive touch!"
+
+3. "@@HE@@ has no idea what @@HE@@’s talking about," claims @@RANDOMNAME@@, speaking almost inaudibly. "Ask anyone, and they’ll tell you that a quiet, peaceful performance is one worth seeing. Like the crickets chirping, the birds tweeting, and the trees... treeing. I say we redirect some government funding to the musicians that make use of such natural and flowing sounds, to help preserve the fine predilections of the eardrum."
+
+-----------------------------------------------------------------------------
+[b][anchor=695]#695[/anchor]: How To Succeed In Business Without Really Paying Taxes [Pogaria; ed: Pogaria][/b]
+
+The Issue
+A junior filing clerk at the Ministry of Commerce and Revenues has just reported a highly unusual request: the Addison Cola Corporation has filed paperwork in an attempt to switch its legal status to “religion,” a tax-exempt category.
+
+The Debate
+1. “Of course business can be a religion,” claims Addison CEO @@RANDOMNAME@@, who was brought to your office to provide an explanation. “Many of our customers share a deeply-held belief that our product brings them enlightenment and inner peace, unlike the foul devil drink produced by those sinners over at Eckie-Ecola. Addison Cola also provides salvation from artificial sweeteners, with a blessedly refreshing taste! The government really shouldn’t be regulating these beliefs. Now if you’ll excuse me, I need to get my best people to start writing some prayers.” @@HE@@ then takes out his phone and presses option 6 on the speed dial menu.
+
+2. “This is just a mockery of everything that good and decent people stand for,” harrumphs High Priest @@RANDOMNAME@@, who was called in to provide a counterpoint. “Real religions have ancient scriptures, sacred music, and a code of morality to tell people how to behave. I hardly think advertising jingles qualify! This is nothing more than a blatant ploy by Addison to get tax-exempt status. The only way to return our great nation to a more righteous path is to deny their blasphemous request and allocate some government funds to prop up legitimate religions.”
+
+3. “I knew that weird pizza cult was just the start of something far worse,” says @@RANDOMNAME@@, your trusted Chief of Staff. “If we allow this, every corporation will want to become a religion! You know this is going to kill our tax revenue.” He sighs audibly. “The only fair solution is to outlaw all new religions, with harsh penalties for any of the rabble-rousers who try to break the law. I hear crucifixions are quite the effective deterrent.”
+
+-----------------------------------------------------------------------------
+[b][anchor=696]#696[/anchor]: No, Minister [Candlewhisper Archive; ed: Helaw][/b]
+
+The Issue
+The recently published memoirs of a retired senior civil servant have caused an uproar with their claims that it is the Civil Service, not the government, that runs the country.
+
+The Debate
+1. “I’m afraid the book is right,” sighs government Minister Jem Hacker. “It’s been the case for decades that unelected Civil Service clowns are the ones who really run this circus. We make policy, but they twist it and turn us around with tricks and paperwork till they end up doing whatever they want to. Accountability - that’s the key! I suggest that to work for government, you must be democratically elected. This should be true whether you’re a minister or a departmental bureaucrat. Once accountable to the people, the Civil Service will shape up!”
+
+2. “Not the right approach!” yells gruff union leader Brian Butcher, munching a shortcrust pastry and patting his rounded belly. “Trim the fat from the system, and put money back in the pocket of the working man! Shift a goodly portion of the Civil Service budget into the welfare budget, and you’ll be helpin’ the bloody poor, not the bloody bureaucrats!”
+
+3. “Shocking, leader, shocking,” murmurs civil servant Humphrey Pearby. “I absolutely agree with you about the Civil Service, and understand your instructions perfectly! I will immediately establish a Department of Civil Service Budget Oversight Committee for the Investigation of Pecuniary Distribution. Leave it to me, I will get the ball rolling, immediately! That is what you are saying isn’t it? Yes, Minister?”
+
+-----------------------------------------------------------------------------
+[b][anchor=697]#697[/anchor]: Conventional Wisdom [Libertypendence Park; ed: Ransium][/b]
+
+The Issue
+While planning the party convention for your re-election campaign your advisers have come to disagree on what the overall feeling of the event should be. They have turned to their natural means of making a final decision: bothering you about it.
+
+The Debate
+1. "One word: fireworks," states @@RANDOMNAME@@, chair@@MAN@@ of your political party, holding a wickedly thorned rose to the light. "Banal political speeches and rhetorical niceties just aren't doing anything; the people have grown tired of it all. Come to think of it, I'm sick of it myself, and that's really saying something. We really ought to put on an honest to goodness show here. Lasers! Music! Celebrity appearances! That should really push us up in the polls - and more importantly, your opponents down." @@HE@@ bends the rose until the stem snaps.
+
+2. "By all means, do that," sarcastically quips your Minister of Finance, @@RANDOMNAME@@. "You can give people all the bread and circuses you want, but when it comes time to follow through, no amount of flash will solve the real deficit: the deficit of trust. Give them the unvarnished truth, and spare them the unnecessary pomp and circumstance. I propose you read off a list of factual bullet points provided by mine and other departments. For example, did you know that in the last year, no fewer than 39,280 deaths have been attributed to that marshmallow bill you approved a while back? Fascinating!"
+
+3. "WHAT?!" bellows your Secretary of Defense, @@RANDOMNAME@@. "Millions of good, decent @@DEMONYMNOUNPLURAL@@ are fearful. They face the perils of globalism and an uncertain world order. Now's our chance to show @@NAME@@ what a REAL leader does in a time of crisis. Ride into the convention atop a tank, at the spearhead of a full armored vehicle convoy. Mount a three-story tall podium draped in a giant @@DEMONYMADJECTIVE@@ flag, and promise our people the world!" @@HE@@ pauses for a moment as a vaulting grin creeps up @@HIS@@ face. "Literally!"
+
+-----------------------------------------------------------------------------
+[b][anchor=698]#698[/anchor]: I Shot the Sheriff [Rohendia; ed: Candlewhisper Archive][/b]
+
+The Issue
+
+Recently, the Sheriff of @@Animal@@ County was shot dead, seemingly without any motive. Further investigation revealed that the shooter had legally purchased a gun two days before, but had a history of severe mental illness, psychotic breaks, and paranoid delusions. Now, the process of purchasing firearms is being questioned.
+
+The Debate
+
+1. The shooter, @@RANDOMNAME@@, swears that the killing was in self-defense, and strokes his teddy bear. “Me and Mr. Higgins here felt threatened by the police officer, so we had to defend ourselves somehow! You take away my firearms, and you’re taking away my safety! You start telling me I can’t have a gun because you don’t trust me, and BOOM, it’s slippery slope, all the way down to absolute tyranny!” He reaches for his sidearm to shoot you down, then remembers he has been disarmed. “Oh dear, Mr. Higgins, they’re eroding our liberties. You’re right, Mr. Higgins, that’s not good at all...”
+
+2. “Safety? You’re worried about your safety around the police?” asks @@Animal@@ Deputy Sheriff @@RANDOMNAME@@. “We’re the police force, for goodness sake! We protect the people! There I was, observing the town, waiting for a report and enjoying a bagel, then this madman shoots the sheriff dead and takes a pot shot at me too! Look, nobody is saying that people shouldn’t be allowed guns, but isn’t it reasonable to require a background check, a review of medical records, and a gun licensing system?”
+
+3. @@RANDOMNAME@@, local mall-goer and spoiled teen, offers a different solution. “Why don’t we just make a law that guns, have to be, like, really expensive? It’s not like those crazies are going to have a good job or anything. That way, only people who, like, are responsible members of society can get a gun.”
+
+4. @@RANDOMNAME@@, editor of [i]Socialist @@NAME@@ Magazine[/i] blows a raspberry at that idea. “What kind of nonsense is that? Letting the rich have all the power over the poor? I say that only the government is responsible enough to have access to firearms! That way, we can end capitalism and... wait, sorry, wrong proposal... I mean, we can end [i]gun crime[/i] and make a safer nation!”
+
+-----------------------------------------------------------------------------
+[b][anchor=699]#699[/anchor]: Pipe Down, Already! [British Wassoulea; ed: The Free Joy State][/b]
+
+The Issue
+Residents across your nation have been poisoned due to dangerous levels of lead in the drinking water. A particularly vocal quartet have arrived to tell you how they think you should handle the problem.
+
+The Debate
+1. “The government needs to fix our pipes!” shouts @@RANDOMFEMALENAME@@, a mother of four children, as she shows you the image of her teary-eyed youngsters shaking their empty [i]Princess Sparkle-@@ANIMAL@@ [/i]water tumblers. “Look at this report. Those old lead pipes are corroding and it is leaking into our homes. I cannot give this poisonous water to my daughters! Not only does it taste disgusting, it’s also a health hazard. You have to get rid of the old pipes and install new ones! Think of the children!”
+
+*2. “What’s this woman prattling about?” huffs @@RANDOMNAME@@, your notoriously penny-pinching Treasury Minister, squeezing a @@CURRENCY@@ until it cuts @@HIS@@ palm. “Everyone knows that lead’s not dangerous. It’s good for you. I heard it just this morning on talk-radio. As your body absorbs healthful lead, it seeps into your bones, makes them stronger, and works to protect against the carcinogens of environmental radiation. What we need, @@LEADER@@, is an extensive campaign to tell everyone the alternative facts about the many benefits of lead: posters, TV ads, catchy tunes...you name it.” [[color=purple]Must not have digital currency[/color]]
+
+*3. “What’s this woman prattling about?” huffs @@RANDOMNAME@@, your notoriously penny-pinching Treasury Minister, compulsively refreshing @@NAME@@’s balance sheet until @@HIS@@ computer crashes. “Everyone knows that lead’s not dangerous. It’s good for you. I heard it just this morning on talk-radio. As your body absorbs healthful lead, it seeps into your bones, makes them stronger, and works to protect against the carcinogens of environmental radiation. What we need, @@LEADER@@, is an extensive campaign to tell everyone the alternative facts about the many benefits of lead: posters, TV ads, catchy tunes... you name it.” [[color=purple]Must have digital currency[/color]]
+
+*4. “Replacing pipes would be so expensive, @@LEADER@@. Fortunately, I have an excellent economic opportunity for both of us,” asserts @@RANDOMNAME@@, CEO of Basani Water, looking over @@HIS@@ steepled fingers with a contorted grin. “People need water. We have water to sell. Simply allow us to add a small desperation levy, say double the price, and we can help the people of our nation while growing our economy at the same time. Sure, the cattle-class might not be able to afford it, but think of the economic incentives!” @@HE@@ sips @@HIS@@ company’s water from a champagne flute. [[color=blue]Must have private industry[/color]]
+
+*5. “Replacing the pipes would be so expensive, Dear @@LEADER@@. Fortunately, we can provide for the water needs of the whole @@TYPE@@.” asserts @@RANDOMNAME@@, [i]Manager of The Glorious @@NAME@@ Water Bottling Plant[/i], as @@HE@@ pours some of Mother @@NAME@@’s slightly-cloudy product into a shot-glass. “With increased funding for advertisements, we will teach that all good @@DEMONYMPLURAL@@ have a duty to buy our pricey...reasonable product, as sparking as a mountain stream.” Wincing slightly, @@HE@@ takes a sip from @@HIS@@ glass. [[color=red]Must not have private industry[/color]]
+
+6. “Let’s just add synthetic EthyleneDiamineTetraAcetic Acid to the water we’ve got!” giggles chemist @@RANDOMNAME@@ giddily, unaware of the blank looks everyone in the room is giving @@HIM@@. “Oh, for crying out glayven. It’s so simple that any child of five, with an advanced degree in chemical engineering, would understand. By giving the whole population preventative chelation therapy, we can guarantee everyone can drink the water, without wasting valuable time and money on repairing pipes or bringing in fresh water. And sure, a few people might get minor side effects, such as heart palpitations, nausea, fatigue, blood clots, and death. But most people will be fine. Probably. So if you could just sign here...”
+

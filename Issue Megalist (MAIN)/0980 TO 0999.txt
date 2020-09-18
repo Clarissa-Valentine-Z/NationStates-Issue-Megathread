@@ -1,0 +1,300 @@
+0980 TO 0999
+[b][anchor=980]#980[/anchor]: Small Claims [Nation of Quebec; ed: Nation of Quebec][/b]
+
+The Issue
+The small, barren, and uninhabited island of Hanshedrik is claimed by both @@NAME@@ and Skandilund, and for years both sides have playfully vied for its control. New satellite images have shown that the Skandilundian flag has been planted on Hanshedrik, along with a gift of danishes. As you have no other plans today, you have called for a meeting to finally solve the dispute once and for all.
+
+The Debate
+1. “Two can play at this game!” declares your brother while lusting after the very tempting danishes on your desk. “We ought to respond in kind! Let’s plant our flag on Hanshedrik, and leave them a nice gift of @@DEMONYMADJECTIVE@@ cheese. After all, mother always said there’s nothing wrong with a little friendly competition!”
+
+2. “Or we could simply give the island to Skandilund as a gesture of our goodwill,” suggests your sister, after one of the danishes mysteriously vanishes. “In a world full of hostile nations like Blackacre and Maxtopia, wouldn’t it be nice to have a reliable ally? Giving them Hanshedrik would be a sign of respect. Perhaps we could even invite them to negotiate a military alliance, all at the low, low cost of a worthless island and a bit of national pride.”
+
+3. “Excuse me? Don’t tell me you’re suggesting that we give those Skands OUR island!” roars your Defense Minister before @@HE_1@@ starts whistling innocently as another danish disappears. “Playtime is over. If these frozen hippies want OUR island, they’ll have to fight us for it! We must establish a military base on Hanshedrik and defend it at all costs. That means more funding for the military to make sure everything goes smoothly.”
+
+4. “Must everything come down to war?” sighs the rarely seen ambassador of Qaanpaluk, a mysterious, but wealthy, nation made of a series of frozen islands. “Technically, Hanshedrik belongs to neither @@NAME@@ nor Skandilund and therefore is not yours or theirs to give away. Our ancestors discovered the island centuries ago and it has a spiritual significance for us. We are not an unreasonable people. If you give the island to us, we’ll grant you access to some of our gold deposits.” Just as you are about to grab a tasty danish, you notice the plate is now empty.
+
+-------------------------------------------------------------------------------
+[b][anchor=981]#981[/anchor]: Westfailian Sovereignty [Australian rePublic; ed: Baggieland][/b]
+
+The Issue
+After the United Federation sent two police cars, a police helicopter, five drones and a wind-up toy into @@NAME@@ to capture “Mega Momo”, @@A@@ @@DEMONYMADJECTIVE@@ citizen and alleged terrorist, the government has called a special meeting to see what should be done about this blatant breach of sovereignty.
+
+The Debate
+1. “We need to modify our military – and sharpish – to keep those United Federation pests out of our national territory,” angrily growls General @@RANDOMLASTNAME@@, whilst marching a platoon of troops into your office. “We need to stop them from doing it again. Order the entire army to the border, and have them shoot any intruders on sight. That’ll learn them!”
+
+2. “Are you mad?” exclaims @@RANDOMFIRSTNAME@@ Banteen, one of your more queasy ministers, while trying to conceal @@HIS@@ worry beads. “The United Federation has Gigadeath 4000 planes, Smashtastic 2000 helicopters and Udienow 500 missiles, and we barely have glorified crop-dusters! We need to engage the international community and try to convince them to join us in enacting sanctions against the United Federation. That will show them we’re serious!”
+
+3. “Was it so bad for the United Federation to bring their coppers here?” sighs @@RANDOMNAME@@, your Border Patrol Chief, while rolling @@HIS@@ eyes at the other speakers. “Mega Momo is a terrorist and if the United Federation police got him first, then good for them! In fact, if other countries want to cross our borders to arrest someone, we should let them. Then there’d be fewer criminals for us to worry about.”
+
+-------------------------------------------------------------------------------
+[b][anchor=982]#982[/anchor]: Your Move, @@LEADER@@? [Candlewhisper Archive; ed: Zwangzug][/b]
+
+The Issue
+With his typically bullish approach to diplomacy, the Premier of East Lebatuck announced today that he has a titanic intellect beyond compare, and that @@LEADER@@ has “a walnut-sized brain, much like a stegosaurus.” He has issued a formal challenge to a public game of chess between heads of state, so he can “demonstrate inherent Lebatuckese superiority.”
+
+The Debate
+1 & 2. Your personal trainer, @@RANDOMNAME@@, adjusts @@HIS@@ pink lycra skinsuit and strokes @@HIS@@ lips as @@HE@@ studies a propaganda picture of the Premier posed topless while wrestling a bear. “Look, I don’t know much about chess; I haven’t picked up a queen since college. But I do know about competition, and I do know that you can’t let this lovely muscly despot get on top of you. You should accept the challenge, train hard with the intellectual elite of @@NAME@@, and then wipe that smug grin off his face when you top him and make him eat his words.” [1: [color=purple]Must have above average intelligence[/color] | 2: [color=purple]Must have below average intelligence[/color]]
+
+[3]. “What has skill at an ancient board game got to do with intelligence?” argues Garissac Kasparasimov, CEO of tech-company Digital Thought. “Indeed, what has the limited mental prowess of our nation’s leadership got to do with how smart we are as a nation? Look, @@NAME@@, maybe you’re a bit of a dunce, but you can make a point by funding AI development, and perfecting a chess program that can beat any human. I mean, let’s face it, it’s not like a thick-headed village idiot like you could win a game of chess without artificial assistance.” [[color=blue]Must have private industry[/color]]
+
+4. “This isn’t about chess, this is about WMDs,” explains Broderick Lightman, a teenage hacker and national tic-tac-toe champion. “When you ordered @@NAME@@ to make mega-death armaments, you put yourself into a contest of egos with nations like East Lebatuck. This is just a game of dominance, a competition to see which alpha monkey backs down. These games of one-upmanship are steps on a path to self-destruction. Instead, you must show the courage to disengage. Disarm our WMDs, politely decline the chess challenge, and choose sanity over pride.”
+
+5. Your Minister of National Honour bows to you. “The child is right, this isn’t about chess. This is about our strength and national pride! We cannot allow these insults to go unanswered. You must increase our WMD stockpile, and put our nuclear submarines off the coast of East Lebatuck. He will withdraw his insults, or we will annihilate him.”
+
+-------------------------------------------------------------------------------
+[b][anchor=983]#983[/anchor]: Doctors' Orders [Nation of Quebec; ed: The Free Joy State][/b]
+
+The Issue
+There have been an increasing number of complaints as some doctors refuse to provide abortions and other medical treatments to patients on religious grounds. As you wait in a hospital waiting room for a routine physical, a colorful collection of activists have begun pestering you.
+
+The Debate
+1. “Freedom of religion is under attack in @@NAME@@!” declares Dr. Max Pushkin, who is bedecked in so many religious symbols that he can’t reach his stethoscope. “The government has made it obvious that they want to force doctors of faith to violate their conscience by performing procedures that go against deeply held beliefs, including the immoral act of abortion. It’s appalling to try and force anyone to choose between their job and their religion. Every doctor must be able to refuse to treat anyone if it would contravene their beliefs in any way, shape or form.”
+
+2. “Funny how those who have spent their lives discriminating are now crying oppression,” notes renowned feminist activist Efthamia Winters, who once controversially remarked that she wished she had had an abortion, despite never having been pregnant. “The moment we give into their nonsense is the moment equality and civil rights are done away with. Religion doesn’t entitle you to refuse to do your job. I implore the government to ignore these whackos and fire anyone who uses religion as an excuse to discriminate.”
+
+3. “A-ha! I have the perfect solution!” interjects your Minister of Reasonable and/or Crazy Alternatives. “These doctors don’t want to perform abortions or other procedures? Fine, but we should always make sure women have safe access to these facilities should the need arise. I propose that we build fully-funded women’s health clinics in every hospital and community. We’ll staff them with certified pro-choice physicians and provide abortion, contraception and impartial advice. Some may not like their tax money going to this procedure, but these people only have themselves to blame.”
+
+-------------------------------------------------------------------------------
+[b][anchor=984]#984[/anchor]: A Midsummer Night’s Snooze-Fest [Drayxaso; ed: Nation of Quebec][/b]
+
+The Issue
+As legions of interns scramble to set up a stage in your office, your Minister of Theatrics dramatically announces that his Ministry has organized a play for you. The play purportedly tells a tragic story: the public apathy toward the long-dead but highly-influential @@DEMONYM@@ playwright Bill Wakesword.
+
+The Debate
+1. “I doth be the poet himself!” Minister Porklet announces, wearing purple robes and a long wig. “Once upon a merry time, my plays amazed those large and small. Now, there’s only one way to ensure @@NAME@@ remains in my thrall. Force my works upon the children, make them read it all! It may be true that the language doth be a few centuries old, but what is in a word? That which we call a Woodeating Spikeball by any other name would be just as Woodeating.”
+
+*2. An intern apparently playing the part of ‘unenthusiastic teenager’ pokes the Minister with a smartphone, causing him to crumble to the floor in mock agony. The intern robotically states, “Alas. Poor Wakesword. I knew him well. I would have surely been willing to get interested in Wakesword if his word choice was easier. If only we could rework Wakesword so that it appealed to me, a disaffected teenager, and my social media habits.” [[color=blue]Must have internet[/color]]
+
+*3. An intern apparently playing the part of ‘unenthusiastic teenager’ pokes the Minister with a rolled up comic book, causing him to crumble to the floor in mock agony. The intern robotically states, “Alas. Poor Wakesword. I knew him well. I would have surely been willing to get interested in Wakesword if his word choice was easier. If only we could rework Wakesword so that it appealed to me, a disaffected teenager, and my reading habits.” [[color=red]Must not have internet[/color]]
+
+4. “All the world’s a stage, @@LEADER@@, and it doth be time we saw some plays!” announces overconfident actor Rick Rear, dressed in a donkey costume and accidentally stepping on the ‘dead’ Minister. “As I, one of the greatest actors of all time, should know-eth, the best way to spread the brilliance of Wakesword is to fund school drama clubs and ye olde outdoor theatre! If we can coerce these apathetic adolescents, these indifferent infants, these bored brats to act, they will surely see the value of true literature.”
+
+**5. [i]Ka-boom![/i] The wall of your office suddenly explodes, spewing fire and smoke everywhere. As the smoke clears, explosives enthusiast and the director of [i]TransMorphers and Adolescent Monster Samurai Frogs[/i], Michel Cove, strolls in, a second explosion obliterating the Minister’s stage. “This ‘Wakesword’ guy? Heh. His plays are older than my exes. What you need, my friend, are explosion-packed science fiction movies in the curriculum that will leave kids drooling over science and computers! The future is where the money is. The past? Who cares?” Another one of your walls explodes and he grins manically as your office burns around him. [[color=blue]Must have private industry[/color]]
+
+**6. [i]Ka-boom![/i] The wall of your office suddenly explodes, spewing fire and smoke everywhere. As the smoke clears, explosives enthusiast and propaganda director of [i]TransMorphers vs Capitalist @@ANIMAL@@ and Adolescent Monster Revolutionary Frogs[/i], Michel Cove, strolls in, a second explosion obliterating the Minister’s stage. “This ‘Wakesword’ guy? Heh. His plays are older than the class struggle. What you need, comrade, are explosion-packed science-fiction propaganda films in the curriculum that will leave kids drooling about joining the people’s corps of scientists! The future is what matters. The past? Who cares?” Another one of your walls explodes and he grins manically as your office burns around him. [[color=red]Must not have private industry[/color]]
+
+-------------------------------------------------------------------------------
+[b][anchor=985]#985[/anchor]: Service With a Snarl [Chan Island; ed: Nation of Quebec][/b]
+
+The Issue
+The most recent edition of the prestigious [i]Virtual Planet[/i] guidebook has praised @@NAME@@ for its many treasures, but also noted how rude wait staff, hoteliers, and tour guides tend to be. Perhaps unwisely, you choose to hold a meeting on the topic in a popular restaurant.
+
+1. “So what if those @#$%!& in some snooty guidebook don’t think we’re nice?” complains your waiter, oblivious to the fact that he stepped on your toes. “I should be able to say and act however the @&*% I want, all the time. That’s freedom of speech, Violet damn it! Being a waiter or ‘public relations’ person doesn’t change that one bit. And if some jerkwad tourists don’t like it, well then they can go right back to where they came from!”
+
+2. “Hate to be like this, but that guidebook has a point,” reluctantly replies the restaurant’s owner after telling off the waiter. “I’ve seen people stand up and leave after being insulted or shouted at by my staff one too many times. It doesn’t matter how many times I replace them - the problem remains. The government should mandate and pay for proper etiquette training for all employees in the service industry, and allow us to fire those who don’t comply. That way the customers are happy and our places of business don’t get bad reviews.”
+
+*3. “And kill off our nightlife tourism quicker than you can say @#%!” retaliates @@RANDOMNAME@@, a local connoisseur of exotic drinks. “It’s not our bad attitude that’s the problem, it’s the tourists! If we marketed ourselves as a wild resort country where all the rules of politeness don’t apply, then we could get ourselves a clientele that won’t complain. You gotta loosen up those alcohol laws, I have a mate in West Calypso who’s got some crazy mixtures for us to try.” [[color=red]Alcohol is illegal[/color]]
+
+*4. “And kill off our nightlife tourism quicker than you can say @#%!” retaliates @@RANDOMNAME@@, a local connoisseur of exotic alcoholic beverages. “It’s not our bad attitude that’s the problem, it’s the tourists! If we marketed ourselves as a wild resort country where all the rules of politeness don’t apply, then we could get ourselves a clientele that won’t complain. You gotta make the booze more freely available. I have a mate in West Calypso who’s got some crazy mixtures for us to try.” [[color=blue]Alcohol is legal[/color]]
+
+-------------------------------------------------------------------------------
+[b][anchor=986]#986[/anchor]: Poacher Pandemic [New Socialist South Africa; ed: Baggieland][/b]
+
+The Issue
+Poachers have hunted the great-horned @@ANIMAL@@ to the verge of extinction; the creature's horn is commonly used as a medicinal ingredient for its alleged aphrodisiac qualities in Dàguó. With diminishing numbers of the animal left in the wild, some claim that the threat of its demise looms near.
+
+The Debate
+1. "Are we placing the interests of a few dirty old beasts over that of our citizens?" enquires notorious game hunter @@RANDOMNAME@@, while showing you @@HIS@@ collection of stuffed dead animal heads. "If anything the government should sell licenses to private hunters and give us the sport of putting the last of these wretched creatures out of their misery. You can give back the license fees to the taxpayers in the form of income tax cuts."
+
+2. "There's no need to be so gung-ho," proposes park ranger @@RANDOMNAME@@, while showing you photos of animals @@HE@@ has caught and released. "The government could sell licenses to private hunters, but only to hunt the much more abundant lesser-spotted @@ANIMAL@@. Then you can use that money to fund the conservation of the great-horned @@ANIMAL@@. Perhaps after a few years the lesser-spotted @@ANIMAL@@ will become endangered too, but then we could just hunt something else."
+
+3. "I have a way to solve this," notes @@RANDOMNAME@@, your Minister for Alternative Solutions, while using lemonade to water your plants. "The great-horned @@ANIMAL@@ can live without its horn, and the horn is all the citizens of Dàguó want. Why don't we just sedate the animals and carefully cut off the horns and sell them ourselves legally? That way the animal gets to live and we turn a profit!"
+
+4. "Selling the horns legally isn't the answer," declares mercenary @@RANDOMNAME@@, while whittling a crude @@ANIMAL@@ using @@HIS@@ over-sized hunting knife. "The trade will increase their demand, so poachers will still be around trying to get there first. This problem would be solved if there weren't any of these poaching scum in the first place. Just pay my team a generous sum and we will kill them all for you. Then you can be sure they won't harm these beautiful creatures ever again."
+
+5. "We have to save this noble beast!" proclaims budding environmentalist @@RANDOMNAME@@, wearing a ridiculous looking fake horn on @@HIS@@ hat in solidarity. "We need highly trained and armed park rangers to guard the remaining animals around the clock. Not only that, but also prosecute retailers who sell any product derived from the horn, as well as individuals who possess it. And we need our top scientists to work on ensuring these creatures breed more and their numbers recover. If we don't do all these things, we could lose this amazing animal forever."
+
+-------------------------------------------------------------------------------
+[b][anchor=987]#987[/anchor]: Quia Scriptum Est [Candlewhisper Archive; ed: Sanctaria][/b]
+
+The Issue
+Prominent lawyer @@RANDOMNAME_1@@ recently quit @@HIS@@ high-profile job at a prestigious criminal defence law firm, citing that @@HE@@ can make more money by concentrating on @@HIS@@ other job: writing essays and dissertations for law students. Your cousin, who happens to be the managing partner at the firm in question - the internationally renowned Bickers, Slaughter & Hyde - is making a fuss over this.
+
+The Debate
+1. “Now see here, dear cousin, this is entirely intolerable, insupportable and insufferable,” mutters @@RANDOMFIRSTNAME_2@@ Bickers, as sesquipedalian as ever. “[i]Prima facie[/i], essay writing services are [i]contra bonos mores[/i]. This is facilitating educational fraud in a multitude of professions and academic fields, thus allowing [i]de facto[/i] untested individuals to carry out actions [i]mala fide[/i]. Clearly, by principle of [i]animus nocendi[/i], anyone offering services and products that lead to criminality should be prosecuted as responsible for these outcomes. I trust that you will acquiesce?”
+
+2. “Normally I charge for this sort of thing, but I’ll make this argument [i]pro bono[/i],” begins @@FIRSTNAME_1@@, opening a prepared dossier of legal arguments. “Firstly, [i]nulla poena sine lege[/i]. Secondly, it’s clearly stated on my website that the essays and dissertations provided are unique crafted example texts, with the [i]caveat[/i] that they must not be passed as the purchaser’s work. If clients of mine enter into these agreements with a [i]suppressio veri[/i], then I can hardly be a party to the blame; if anything, [i]I[/i] would have [i]locus standi[/i] as an injured party. These malcontent students are [i]sui juris[/i]. @@FIRSTNAME_2@@ should take @@HIS@@ in [i]terrorem[/i] claptrap to them.”
+
+3. “In terro-what now?” asks your aide suspiciously. “I hate lawyers and all their fancy foreign words. What’s wrong with speaking our plain old [i]lingua franca[/i]? I reckon we can deal with this whole mess by getting rid of courts and lawyers. It’s only what they deserve. [i]Quid pro quo[/i], right?”
+
+-------------------------------------------------------------------------------
+[b][anchor=988]#988[/anchor]: Highway Robbery by the Book! [Palos Heights; ed: The Free Joy State][/b]
+
+The Issue
+The latest academic semester in @@DEMONYMADJECTIVE@@ universities has kicked off, leaving students once more buying textbooks for their classes. Now, an endless sea of beleaguered twentysomethings stretches beyond the horizon, waving torches and marching on your office in protest at rapidly inflating prices of already exorbitant textbooks.
+
+The Debate
+1. “Attention, @@LEADER@@!” shouts @@ANIMAL@@ physiology student @@RANDOMNAME@@, who has a telescoped spine from carrying textbooks. “We - the oppressed, overstressed, and consistently underdressed - are tired of foregoing meals and basic comforts in order to afford the required tools for our education! We, the future of @@NAME@@, have come to request that you force publishing companies to lower the price of our essential textbooks!”
+
+2. “@@LEADER@@, don’t let those hooligans intimidate you!” says famed textbook author Goodman DiPyro. “Textbooks are an important aspect of the education experience and current market prices are reflective of this. How can a medical student identify the difference between a cyst and a lipoma without the most accurate and descriptive images possible? If anything, subsidising textbook authors and publishers will help boost the modern @@DEMONYMADJECTIVE@@ learning experience while generously rewarding us for being so integral to the education system!”
+
+3. “While our publishing friend here does bring up great points about the importance of education, these textbooks are absolutely terrible for the environment!” retorts wide-eyed tie-dyed student Jiang McBoatface, handing you a leaflet illustrated with a crying @@ANIMAL@@. “Educating the masses is great and all, but not at the expense of Mother Nature! I propose that we overhaul the education system and provide all students with interactive tablets with all of their learning material digital and readily accessible.”
+
+4. “Daddy, who let the poors out onto the front lawn?” questions Richard Kensington-Wellington III, whose famed millionaire misanthropic father is currently turning on the garden sprinklers. “The working classes should have never been allowed to study in the first place. I mean, what good does it do them? It only fills them with ridiculous aspirations above their natural station. It’s quite obvious after all that only the elite of society should be educated. All of my friends and their daddies say so! The common folk would be happier doing something useful with their lives!”
+
+-------------------------------------------------------------------------------
+[b][anchor=989]#989[/anchor]: Gunman Wounds Three [Chan Island; ed: Candlewhisper Archive][/b]
+
+The Issue
+Today terror struck an antiques show when a would-be seller, unhappy with the price offered for his 200-year-old blunderbuss, decided instead to open fire. Luckily nobody was killed, seeing as the museum piece was wrestled off him during the minute and a half it was taking him to reload, but many are asking how the gun ban was so easily circumvented.
+
+The Debate
+1. “Look, let’s not be too hasty in drawing conclusions,” says antiques vendor @@RANDOMNAME@@, rubbing at the sore patch on @@HIS@@ left buttock where a low velocity lead ball left a nasty bruise. “I must confess I was offering an insultingly small pittance for such a piece of history, but I have my own bottom line to look after! I believe that citizens should be able to keep such historic beauties that happen to be family heirlooms from before the ban. They certainly make these car-boot sales much more interesting!”
+
+2. Security guard @@RANDOMNAME@@ glares at the previous speaker with one remaining eye. “Easy for you to say, that wound isn’t permanent! I knew something suspicious was going to happen as soon as that good for nothing lowlife walked in with that big boomstick. We got rid of the guns for a reason, and this is exactly it! I say we go from house-to-house and confiscate all remaining guns from the populace, no matter their age, legality or functionality!”
+
+3. “The law as it stands says that old pieces can be kept so long as they are deactivated,” suggests police officer @@RANDOMNAME@@, who was hit by a small piece of shrapnel in the middle of @@HIS@@ stomach. “The problem here isn’t that the weapon exists, but that it was so easily reactivated. We need to raise standards on how deactivation takes place, to make sure that antique weapons have no chance of being restored to working condition. Make deactivation more thorough, and also ban the sale of the spare weapon parts that make reactivation possible.”
+
+-------------------------------------------------------------------------------
+[b][anchor=990]#990[/anchor]: Baby Shower [Frieden-und Freudenland; ed: The Marsupial Illuminati][/b]
+
+The Issue
+The number of pregnant tourists arriving in @@NAME@@ dramatically increased after the country started granting citizenship to all babies born on its soil. Several of your sources report that most of these birth tourists are wealthy and often come from authoritarian nations.
+
+The Debate
+1. “Of course they come here; we grant citizenship like we were born yesterday, without regard for heritage!” exclaims Grand Mage @@RANDOMNAME@@, leader of a @@DEMONYMADJECTIVE@@ nationalist group. “The mothers come here and pay to stay in some luxury hotel suite, give birth, then go back to their country. It’s wrong! Soon these kids will grow up and move to live in this great nation, bringing their foreign garbage cultures with them. There’s nothing @@DEMONYMADJECTIVE@@ about these babies, but we give them citizenship anyway. Mandate that only those with @@DEMONYMADJECTIVE@@ blood in their veins can be citizens.”
+
+2. “Let’s not be too hasty here,” chimes in @@RANDOMNAME@@, your chief financial adviser, scribbling some numbers on a sheet of paper. “Don’t you realize what a lucrative business opportunity we have here? If these parents are willing to spend lots of money to travel here just so their kids can be citizens, maybe we should charge them for each baby born in @@NAME@@! You know, like a citizenship tax. According to my calculations, this would fill up our coffers in no time!”
+
+3. “The government should not put our birthright up for sale,” argues @@RANDOMFEMALENAME@@, struggling mother of two. “It’s unfair that foreigners can obtain citizenship without having anything to do with @@NAME@@. So why don’t we just ban pregnant women from traveling to @@NAME@@? They’re just here to take advantage of our country; their children do not deserve citizenship.”
+
+-------------------------------------------------------------------------------
+[b][anchor=991]#991[/anchor]: Alms and Qualms [Buceroque; ed: The Marsupial Illuminati][/b]
+
+The Issue
+Leaked financial reports have revealed that three of the five largest supposedly nonprofit charity organizations in @@NAME@@ have sent a substantial amount of their revenue to offshore bank accounts over the last fiscal year, with a negligible percentage going to the causes they champion. The altruists who donated to these faux-philanthropic facades are demanding that action be taken.
+
+The Debate
+1. “They’ve not only manipulated us, they’ve given false hope to the destitute!” cries @@RANDOMNAME@@, head of the dozen or so philanthropists crowded around your desk. “Half of my paycheck went to the charity BrasilistanWe last month, but according to the leaked documents, the money that should have gone to those poor children instead went toward jet skis, liquor, and goodness knows what else. The government must mandate that charities be completely transparent with their activities. We’ll pay for the government monitors and investigators. Just see to it that our aid goes to the needy!”
+
+[2]. “It truly is a sad day when humanity forsakes itself for material wealth,” laments an ascetic monk, flagellating himself in your office. “I implore the citizenry to ignore avaricious secular charities, as they seek to take advantage of the people’s altruism. Mandate that only religious charities can take donations since the Great Callipygian One’s guidance makes us truly care for the needy. Alms-giving is an integral column of our clergy, and we have the numbers and the devotion to see our duties through.” [[color=blue]Religion is legal[/color]]
+
+3. “To the typical observer, it seems like we’ve been dishonest,” sighs the CEO of the charity BrasilistanWe. “In truth, we sent our monies to offshore bank accounts so that they could accumulate interest, giving us more funds to help those in poverty. We were also planning to invest donations in some very lucrative stocks to generate more funds. This is what we resort to because not many people donate to charity. Ignore the exposés, allow us to continue our operations, and donate a sizable amount of cash to us to restore the people’s confidence in our foundation. We’ll help all the poor unfortunate souls with your contributions.”
+
+4. “Y’know, maybe it’d be best if the government make private charities less necessary by directly helping people instead,” dribbles a beggar who was part of an earlier photo op showcasing the government helping the poor. “Private donations depend on people’s goodwill, a scarce resource. Taxes are harder to avoid! @@NAME@@ will be the world’s greatest charity! You could really help out poor folk here and abroad!”
+
+-------------------------------------------------------------------------------
+[b][anchor=992]#992[/anchor]: Robots in Disguise [Nation of Quebec; ed: Candlewhisper Archive][/b]
+
+The Issue
+Twitcher recently purged millions of so-called ‘bots’ - programs masquerading as real people - from its platform. While many welcome the move, there are many politicians and right-wing Twitcher personalities who are claiming that the purge violates their freedom of speech.
+
+The Debate
+1. “What about my freedom of speech?” demands perpetually-angry conservative Twitcher personality @@RANDOMNAME@@ while blocking @@HIS@@ critics on @@HIS@@ phone. “This is obviously a plot by the liberal media and Twitcher to silence people like me for speaking the truth! The bots must be restored and be protected from further interference. There’s nothing wrong with using these bots to spread your message and Twitcher must acknowledge that right!”
+
+2. “Twitcher has a right to set whatever rules it wants on its website,” states tofucinno-sipping liberal @@RANDOMNAME@@. “These bots exist solely to spread misinformation and stoke divisions among @@DEMONYMPLURAL@@. Look what happened in the United Federation when bots spread fake news to help get that despot elected! I don’t want to see that happening here. Bots and other such software must be banned. Oh, and bots aren’t actual people, so it’s not like anyone’s free speech is really being infringed.”
+
+3. “Perhaps a compromise?” suggests your Minister of Moderation, who is currently attempting to end a flame war on Twitcher. “Bots should be allowed on social media, but must clearly declare that they are bots. We have to make sure software cannot pretend to be alive! Bots can be a useful tool, but only if they are kept within strict guidelines.”
+
+4. TBD
+
+5. “Actually, this just proves that this whole social media thing is entirely toxic,” sighs @@RANDOMNAME@@, armchair critic of the political divisions affecting @@NAME@@. “I can’t tell you how many death threats I’ve gotten just because I criticize certain people on Twitcher! Look, we just need to discourage the national addiction to social media by subsidizing websites that promote other healthier aspects of the internet. Stuff like academic research, online games, pornogr.... uh.... entertainment sites.”
+
+-------------------------------------------------------------------------------
+[b][anchor=993]#993[/anchor]: Drug Deal [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
+
+The Issue
+Preliminary trials of a new immunotherapy drug have suggested that it may achieve remission in bone marrow cancers by up to 28% of formerly untreatable patients. It’s years away from being clinically available, but desperate cancer sufferers are asking for you to expedite this.
+
+The Debate
+1. “Damn bureaucrats are standing between sick people and life-saving treatment,” complains @@RANDOMNAME@@, a lobbyist for international pharmaceuticals company Fizer-Updick, pausing for a second as @@HIS@@ lawyer whispers something into @@HIS@@ ear. “That is to say, these potentially life-saving treatments. Just cut out the red tape, and we can start saving lives. Act now or you will be murdering these poor patients!” @@HIS@@ lawyer holds up a hastily-handwritten sign behind the lobbyist’s head observing that statements made may not represent the official opinion of the Fizer-Updick corporation, nor imply an accusation of legal culpability.
+
+2. “Sorry, this is medical science, not faith healing,” snarls unsympathetic-seeming Dr. @@RANDOMNAME@@. “We require multi-phase trials to make sure a medicine is non-toxic, safe in the long term and to make sure it actually really works. It’s a shame that a percentage of the population have to die while we wait, but better to lose a few hundred lives than to compromise scientific integrity. No offence, but these deaths are just unavoidable collateral damage in the war on cancer.”
+
+3. At this point, you note there’s a perky goth girl with a silver ankh necklace and a swirly tattoo under her right eye in the room. You swear you didn’t see her come in. “Life isn’t measured in years, but in moments. Moments of kindness and connection mean a lot more when death is standing right next to you. Maybe all your doctors could spend more time talking to people instead of thinking about drugs and medicines all the time. You know, listening to their dreams, destinies, desires and deliriums. It’s always good to talk with someone who cares, right at the end.”
+
+-------------------------------------------------------------------------------
+[b][anchor=994]#994[/anchor]: The Life of Riley [Baggieland; ed: Candlewhisper Archive][/b]
+
+The Issue
+A recent TV documentary revealed that some prisoners are living the high life while incarcerated. For those that can afford it, almost anything can be bought inside jails, including extended living space, state-of-the-art TVs, fridges, air-conditioning and even original works of art.
+
+The Debate
+1. “How long have prison governors been allowing these illegal transactions to take place?” rages @@RANDOMNAME@@, Minister of Prisons, engaging in the time-honoured tradition of politicians not taking responsibility for their own departments. “Prison should be a punishment, not a holiday! We must crack down on everyone who has been abusing the system. Donate all their luxury goods to charity and transfer them back into the prison’s general population, where they can share a cell with ten other people. Any prison officer that is found to have colluded with these inmates should be fired immediately!”
+
+2. “The problem is the low wages of prison officers,” declares Warden @@RANDOMNAME@@, as @@HE@@ gives an inmate a sandalwood oil back massage. “Our meagre salaries mean that officers will do anything to supplement it. We have families to take care of, and bills to pay. How else could I have bought a second home if I hadn’t had had a little ‘help’ from the more affluent detainees? Increase our pay and I’m sure we’ll be inclined to conduct our duty much more professionally.”
+
+3. “Let’s not be hasty,” says @@RANDOMNAME@@, an ex-minister of yours who was jailed for corruption, speaking to you from @@HIS@@ prison cell via a private video-link. “Is this really so bad? I have become accustomed to a certain level of living and there’s no fair reason why I should be denied the chance to spend my private wealth simply because of my incarceration. Besides, all this is good for the economy, isn’t it? Just make the whole arrangement legal and official, and whole new retail markets will open up.” @@HE@@ turns to an officer standing behind @@HIM@@. “Officer, could you be a darling and get me a new mahogany dresser? Here’s a bundle of cash, buy your lady a new dress while you’re out!”
+
+-------------------------------------------------------------------------------
+[b][anchor=995]#995[/anchor]: A Cup Runneth Over [Kynice; ed: The Marsupial Illuminati][/b]
+
+The Issue
+Certain officials at the Social Welfare Department have posited that mothers from low-income families are deliberately having more children in order to get a larger welfare stipend.
+
+The Debate
+1. “These women and their larvae are draining our resources!” growls a Social Welfare bureaucrat. “They have more children than they can care for and they expect the government to pay them for it! Hogwash! I’ll tell you what, let these momma pigs collect their welfare money, but only after sterilization! The men too! That way, we won’t have any more mouths on the government’s teat!”
+
+2. “I can’t believe someone would accuse me of such; only heartless bigots believe these falsehoods!” cries @@RANDOMFEMALENAME@@, balancing an infant on her very round stomach while attempting to control her seven other children with her free hand. “I have children because I love them! How can the government leave kids to suffer? I certainly can’t work and raise all these children alone. I say we offer families an exponentially larger welfare check for each little meal ticket — I mean, precious munchkin!”
+
+3. “You know, the real problem isn’t these women,” grunts @@RANDOMNAME@@, pulling @@HIM@@self up by @@HIS@@ crocodile hide bootstraps. “The real problem is that the government is wasting taxpayer money by ‘helping’ them at all. If poor mothers fall into financial trouble, whether due to unplanned pregnancy or simple stupidity, it really is their own fault. Let’s just get rid of welfare and let people learn to take care of themselves for once.”
+
+4. “Actually, the real problem is all these filthy poor people!” scoffs @@RANDOMNAME@@, sporting a designer camouflage coat by Burpbarry. “Let’s just be rid of them altogether. How about issuing peasant hunting licenses to some of our more patrician citizens? It’ll be the greatest sporting event since @@ANIMAL@@ fighting!”
+
+-------------------------------------------------------------------------------
+[b][anchor=996]#996[/anchor]: Scripting a Change? [Chan Island; ed: Baggieland][/b]
+
+The Issue
+@@NAME@@ has been watching closely after a neighbouring country adopted the Maxtopian writing system in conjunction with their own native script, as it has since been prospering. A disputation about whether to follow their example has resulted in various weighty reports from competing ministries to read through.
+
+The Debate
+1. You sit down at your veranda on a quiet afternoon and start with the 642 page report by the Ministry of Tourism, which begins: "It is the opinion of the Minister that we should also adopt the Maxtopian script to run alongside our own writing system. This move would make tourism a far more lucrative prospect, business transactions would be easier and it would promote healthier relations with vital trade partners such as Maxtopia and the United Federation. The Minister mandates that it should be taught in schools immediately in order that @@NAME@@ may reap the benefits in no more than one or two generations."
+
+2. As the afternoon progresses, you pick up the substantially heavy report by the Ministry of Culture, which leads off with: "We strongly state that we should not adopt a new writing system. The current script is rooted in generations of tradition and is the only alphabet the vast majority of @@DEMONYMNOUNPLURAL@@ can read or write. The costs associated by implementing a second alphabet would be monumental, therefore the status quo must be maintained. It is further advocated that we must actively encourage greater patriotic spirit and nationalism by explicitly discouraging the use of any foreign script."
+
+3. The sun begins to set and you now turn to the rather voluminous report by the Ministry for Creative Solutions, which starts out with: "It is clear that a new writing system is the only viable, long term solution for this present conundrum. A new system that would accurately transcribe the unique pronunciations contained within our language, promoting greater literacy. This new script shall be drafted with simplicity in mind so that native @@DEMONYMNOUNPLURAL@@ and foreigners alike would have no trouble learning it. It must be immediately enacted upon and made mandatory in all areas of government, businesses and schools."
+
+4. It's now completely dark and so you retire to bed. On the way, you happen to spot your nephew's discarded homework, covered in scribbled rantings: "This homework is stupid! Why do we even bother with writing? What good has it ever done for us? I wish schools would stop teaching it!"
+
+-------------------------------------------------------------------------------
+[b][anchor=997]#997[/anchor]: [i][color=purple]The Enemy Within[/color][/i]: Not a Second Time [Candlewhisper Archive; ed: Gnejs][/b]
+
+The Story So Far
+With the @@CAPITAL@@ Stock Exchange bombing unlikely to ever be forgotten, @@NAME@@ has remained vigilant against the possibility of terrorist attack.
+
+The Issue
+In recent months there have been a number of lone-actor terror attacks across the world, wherein everyday vehicles are weaponised and used to run down innocent pedestrians along crowded city streets. These attacks have proven difficult to predict or prevent. After one such attack in @@CAPITAL@@, there is determination from all involved that there cannot be a second.
+
+The Debate
+*1. “It’s near impossible for intelligence services or law enforcement to catch these lone actors,” observes city planner @@RANDOMNAME@@, while suspiciously eyeing a nearby food truck. “So we must make it equally impossible for them to commit these acts. Knee-high concrete barriers dividing traffic from pedestrian walkways positioned along all major streets and bridges, the busiest areas car-free and accessible only to well-funded public transport, and we need thorough background checks and audit trails for vehicle rental and purchase.” [[color=blue]Must have private industry[/color]]
+
+*2. “It’s near impossible for intelligence services or law enforcement to catch these lone actors,” observes city planner @@RANDOMNAME@@, while suspiciously eyeing a nearby food truck. “So we must make it equally impossible for them to commit these acts. Knee-high concrete barriers dividing traffic from pedestrian walkways positioned along all major streets and bridges, the busiest areas car-free and accessible only to well-funded public transport, and we need thorough background checks and audit trails before any individual is assigned use of a vehicle.” [[color=red]Must not have private industry[/color]]
+
+**3. “You’re right that law enforcement can’t predict these attacks easily,” agrees @@RANDOMNAME@@, Professor of Sociology at @@CAPITAL@@ University, who never locks @@HIS@@ own car as a matter of principle. “However, we can at least try to interrupt the radicalisation process that turns loners into terrorists. We need a nationwide ‘Prevent’ program, with monitoring and infiltration of radicalising internet communities, a hotline for anonymous tip-offs, and early intervention. That’s how you stop terrorism.” [[color=blue]Must have internet[/color]]
+
+**4. “You're right that law enforcement can't predict these attacks easily," agrees @@RANDOMNAME@@, Professor of Sociology at @@CAPITAL@@ University, who never locks @@HIS@@ own car as a matter of principle. “However, we can at least try to interrupt the radicalisation process that turns loners into terrorists. We need a nationwide ‘Prevent’ program, with monitoring and infiltration of the salons and clubs where radicals gather, a hotline for anonymous tip-offs, and early intervention. That’s how you stop terrorism.” [[color=red]Must not have internet[/color]]
+
+5. “If we haven’t stopped terrorism, it’s because you, the government, have not put law and order first,” argues Officer @@RANDOMNAME@@ of the @@CAPITAL@@ Police Department. “We need the powers to arrest and detain suspicious individuals before they carry out terror attacks, and to prosecute those who are engaging with terrorist ideologies or groups. Also, we need to ensure that the population’s weapon capabilities are limited, by blocking general access to anything that might be used to carry out terror attacks, be it explosives, corrosives, ballistics, or automotive vehicles.”
+
+[6]. “Well, I say,” says @@RANDOMMALENAME@@, a gentleman boulevardier smelling faintly of a 10-year old matured Famous @@ANIMAL@@. “Seems to me that most of these road raging chaps are all of a religious disposition - be they violet, yellow or cyan - that frowns upon good old liquid courage. You know what would keep the boys away from our automotives? An ignition interlock device requiring a hefty bouquet of giggle water on your breath! A glass of wine a day keeps the terrorists away, as I’ve always said.” [[color=blue]Alcohol is legal[/color]]
+
+[7]. “That guy was from Kawandaland,” points out taxi driver @@RANDOMNAME@@, while nearly running over a group of children at a zebra crossing. “Just like all those dodgy minicab drivers who have been undercutting my business recently. Hey, you know, if you just said that Kawandalandians ain’t allowed in @@RANDOMNAME@@, you’d fix this. Oh, and the Maxtopians and Bigtopians too, they’re trouble. And those Brancalandians, with their beady little eyes. Hell, just say no to immigrants and you’ll never have terrorist problems again.” [[color=blue]Immigration is legal[/color]]
+
+-------------------------------------------------------------------------------
+[b][anchor=998]#998[/anchor]: Without Fear Or Favour [Singapore no2; ed: Candlewhisper Archive][/b]
+
+The Issue
+Since its establishment, [i]The Committee On Un@@DEMONYMADJECTIVE@@ Activities[/i] has been busy detaining opponents of the state and suspected East Lebatuckese infiltrators within the general populace. As of late, however, the Committee has started scrutinising and arresting low-level officials and their relatives, sparking fears amongst many in the upper echelons of the government that they may be next in the firing line.
+
+The Debate
+1. “We have to put some limits on the Committee,” insists Ideological Purity Minister Mattie Hopkins, quickly hiding correspondence from her East Lebatuckese pen-pals behind her back. “Important people, such as you and I, should be above suspicion. Remind the Committee that they exist to serve the agenda of their political superiors, not to question us. Rooting out dissent in the masses should remain their sole function.”
+
+2. “We should have no more to do with witch hunts!” declares pro-liberty politician Maggie Cheysmith. “The Four Horsemen of Calumny - Fear, Ignorance, Bigotry and Smear - are abroad in this nation. Many of my comra-, I mean, my compatriots have been detained by the Committee due to tenuous links to East Lebatuck, which were based more on hearsay rather than any actual evidence. The Committee is a blight on our democracy and our international reputation. It must be dismantled.”
+
+3. “Everyone is a potential traitor. Even you, @@LEADER@@!” warns Lee Slater-Übermensch, the Head of the Committee, searching your face for any signs of apprehension. “The East Lebatuckese menace lurks all around, sometimes hiding in plain sight, just waiting for an opportunity to strike. You must grant us whatever powers we require to safeguard @@NAME@@. It’s the only honest approach.”
+
+-------------------------------------------------------------------------------
+[b][anchor=999]#999[/anchor]: Just Plane Ridiculous [Singapore no2; ed: Wyethalania][/b]
+
+The Issue
+As of late, a growing number of @@DEMONYMADJECTIVE@@ citizens are adopting the idea that the world is flat. After an all out brawl started in the typically level-headed Department of Geography, you’ve decided to call in experts on the matter to settle the issue once and for all.
+
+The Debate
+1. “It’s plain to see that the world exists as a flat plane,” claims amateur researcher @@RANDOMNAME@@, playin’ with homophones. “I boarded a plane once, and I didn’t see the slightest bit of curvature on the plain below us as we flew over. The spherical earth theory is simply a global conspiracy by the so-called ‘sciences’ to flatly deny the truth of our planal existence. You should roundly denounce them and spread the word all around the earth!”
+
+2. “While we may not have the answers for everything, one thing we can be sure of is that the earth is definitely not flat,” states renowned geographer @@RANDOMNAME@@, absent-mindedly using a miniature globe as a stress-ball. “To deny this easily provable theory is the height of ignorance. We have to correct these illogical assumptions before anti-intellectualism takes root in our society. You must give us as many @@CURRENCYPLURAL@@ as we need in order to show flat-earthers that their beliefs are false.”
+
+[3]. “That still won’t convince them!” insists international celebrity scientist Will Zeke the Science Geek, brushing back the static of his hair. “These morons will only believe something if they see it with their own eyes. If we subsidise the space tourism industry, then any doubters will be able to go into orbit and gain a little perspective.” [[color=purple]Must have a space program[/color]]
+
+4. “So, does it really matter if a few adults reject science?” shrugs comedian @@RANDOMNAME@@, popping @@HIS@@ head in through the window. “Let people say that the earth is round, or flat, or built on the back of a giant turtle named ‘@@RANDOMFIRSTNAME@@’. It’s just one more source of easy jokes. But, still, you should probably increase the funding for school science classes... seriously. Adults can believe whatever they like, but they shouldn’t be left to screw up their kids’ heads.”
+

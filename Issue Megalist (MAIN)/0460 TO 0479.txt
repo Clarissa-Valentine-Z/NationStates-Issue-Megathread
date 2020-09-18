@@ -1,0 +1,300 @@
+0460 TO 0479
+[b][anchor=460]#460[/anchor]: Salt Of The Earth [Gnejs; ed: Lenyo][/b]
+
+The Issue
+Without farms, the nation's "hunt 'n gather" approach to food supply has proven disastrous. @@NAME@@ has become painfully reliant on increasingly expensive food imports to sustain its famine-wracked population. Many are now desperately begging you to bring back farming.
+
+The Debate
+1. "Please, stop the madness!" cries @@RANDOMNAME@@, a famished ex-farmer picking through what's left of the ridiculously overpriced Marche Noirian rice in the local market. "The prices are murder! Even with foraging the local parks for berries, I'm using my entire salary just to make sure my kids don't die of starvation. Everybody agrees that the ban on farming was a horrible, horrible idea. However, there just might be time to sow the fields and recover most of the harvest before the weather turns. Act immediately, and I'm sure we can bring @@NAME@@ back from the brink." 
+
+2. "I'll concede that a return to the hunter-gatherer society sounded better on paper," says @@RANDOMNAME@@, a former survivalist-enthusiast who turned out to be a terrible hunter. "We have to bring back agriculture - I see that - but we can't just let people go around setting up farms wherever they like and dig their way through the countryside. Please consider all the good that has come from this: see those roaming @@ANIMALPLURAL@@ on the fields, smell that fresh country air! Let's set up a limited number of government farms at select places. Then we should be able to feed the populace without the expensive imports, more or less, while embracing the primitivism that makes @@NAME@@ so great." 
+
+3. "The food imports are not a problem," states @@RANDOMNAME@@, a wealthy gourmand, while drinking the tears of a thousand infants from a gilded skull. "@@NAME@@'s old palate was so incredibly mundane, and these exotic imports are just bursting with flavor. I've always said there's a certain 'je ne sais quoi' to a Maxtopian carrot. The only real problem is all the provincials who spit upon our newfound cosmopolitan cuisine. In the name of progress, detain all the yokels that care more about food prices than culture."
+
+-----------------------------------------------------------------------------
+[b][anchor=461]#461[/anchor]: If At First You Don't Succeed... [Psychoneurotica; ed: Sedgistan][/b]
+
+The Issue
+After a close shave with a rabid @@ANIMAL@@, a small group of apparatchiks in grey suits have gathered round the hospital bed in which you are recuperating to discuss the delicate issue of the succession.
+
+The Debate
+1. "I'm sure we'll have the benefit of your wise guidance for many years to come, @@LEADER@@," says your Chief of Staff @@RANDOMNAME@@, "but just in case the worst should happen, would you mind letting us know who should fill your mighty shoes? Not that such a gargantuan task would be easy, of course."
+
+2. "In the event of your unfortunate demise," suggests your brother as he surreptitiously replaces your recuperative health drink with finest scotch, "@@NAME@@ will need someone to look up to. Let's face it, the country is full of wastrels who need a firm hand. That's why an absolute monarch, with final authority over every aspect of @@DEMONYMADJECTIVE@@ life, is the answer. After all, such a monarch can always choose the right trusted, older candidate of proven loyalty and ability to succeed them. I think I know just the man..."
+
+3. "No, you mustn't!" cries your sister, yanking the scotch from your hand and handing you a grape. "If there is a monarchy, it must be regulated by limits placed by an elected government. That way, the people still get a say in how their country is run, and the person at the top doesn't get overstressed. Not only that, but think what an unscrupulous person might do given absolute power: bump off loathed relatives, persecute political enemies and even destroy the country." Noticing your brother grinning at her, she remembers she has something to do and sprints out of the room.
+
+4. "You know what I think?" declares @@RANDOMNAME@@, your chief of security. "All this talk of replacing you is treason, pure and simple! You must eliminate anyone who has even mentioned the succession at once, before they usurp you!"
+
+5. "I think science might have the solution," claims your attendant physician @@RANDOMNAME@@, who couldn't help overhearing the previous conversations. "With adequate funding and the latest medical technologies, my colleagues and I may be able to dramatically increase your lifespan. It'll mean diverting funds from everyone else's healthcare, of course, but what value would their insignificant little lives have without you, O @@LEADER@@, to guide them?"
+
+6. "Even death need not be the end!" shouts one of your more fervent acolytes before being taken away for a nice lie down in a darkened room. "Why not declare yourself leader in perpetuity? Then we'll never be without your divine guidance! Think about it. @@LEADER@@... forever!"
+
+7. "Er, excuse me," says your nurse, who has been attending to your intravenous drip and so far remained unnoticed, "but shouldn't it be up to the people to decide who your successor is?"
+
+-----------------------------------------------------------------------------
+[b][anchor=462]#462[/anchor]: Don't Let The Sun Go Down On Me [Neowefandland; ed: Sedgistan][/b]
+
+The Issue
+In an effort to address a budget shortfall, your Minister for Creative Solutions has proposed to cut expenditure by switching off a number of street lights throughout @@NAME@@.
+
+The Debate
+1. @@RANDOMNAME@@, your Minister for Creative Solutions, explains their position. "Let's face facts, in the current economic climate we need to be sensible with our @@CURRENCYPLURAL@@. Those street lights don't run on thin air you know - and what with the cost of electricity soaring, what other choice do we have? We're not talking about a total blackout across @@NAME@@, just switching off the lighting along some of those less important roads and well... perhaps the ones that don't contribute so much to society."
+
+2. A @@MAN@@ in yoga pants pauses stretching to remark: “Excuse me, do you see what I’ve got going on here? I can’t be walking this down unlit streets at night. I can barely do it in the daytime. Keeping the lights on at all times will make @@NAME@@ feel safe and welcoming for everyone, not just the heavily armed.” @@HE@@ adjusts @@HIS@@ gym bag, which clanks.
+
+3. Wild-eyed, eccentric gentleman @@RANDOMMALENAME@@ begs your attention whilst enthusiastically polishing his monocle. "This is fantastic news, but doesn't go far enough - let's get rid of ALL those blasted monstrosities for good! Do you realise how difficult it is to spot the rotation of Alderaan's second moon through all that ghastly light pollution? Of course there will be a few wimps who are scared of the dark - but that's what candles were invented for!"
+
+4. "You're looking at this entirely the wrong way, dear @@LEADER@@", interjects @@RANDOMNAME@@ from Helios I Energy Corp. "If there's anything @@NAME@@ needs, it's more light, not less! It's been scientifically proven that more light means a happier, healthier population, reduces crime, and there's no need to worry about the night shift any more - you can work from dawn until, well forever!"
+
+-----------------------------------------------------------------------------
+[b][anchor=463]#463[/anchor]: Smart Cars Driving Regulators Up The Wall[/b]
+
+The Issue
+The development of self-driving cars has led to debate about what they should be programmed to do in the event of an emergency.
+
+The Debate
+1. "It's pretty simple, really," opines freshman college student @@RANDOMFEMALENAME@@ on her popular weekly podcast, 'Overthinking It.' "The car should be programmed to minimize injuries. For example, if it's tooling along a freeway and a schoolbus overturns ahead, the car should prioritize saving the greater number of lives, by slamming itself into the nearest wall."
+
+2. "I must say, that could be a hard sell to the public, cars that may decide to murder their drivers," says @@NAMEINITIALS@@-Motors Head of Marketing @@RANDOMNAME@@. "I haven't done a focus group. But that's my feeling. Look, it's perfectly legal today for a human driver to mow down as many schoolchildren as necessary to save his or her own life. Likewise, self-driving cars must prioritize saving the driver's life above all else. Otherwise, why would anyone buy one?"
+
+3. "This whole debate is ridiculous," says @@RANDOMNAME@@, a software engineer who is fixing the fonts on your computer. "To be honest, these schoolbus scenarios sound like something dreamed up by a Philosophy 101 professor, not something that will actually happen in real life. It's not the place of software to weigh the value of human life! Just program them to follow the road rules at all times!"
+
+4. "Oh my God, I HATE those!" says impatient motorist @@RANDOMNAME@@. "They've been testing them near where I work. They drive like my grandmother, and she's in a coma. The other day I was late to work because the so-called Smart Car ahead was waiting for a squirrel to cross the road. A squirrel! I had to swing into oncoming traffic to get around it. And I had to hose the squirrel off my car afterward. Ban self-driving cars!"
+
+-----------------------------------------------------------------------------
+[b][anchor=464]#464[/anchor]: The @@ANIMAL@@ Republic Shall Rise Again? [Omigodtheykilledkenny; ed: Gnejs][/b]
+
+The Issue
+A coalition of civil rights activists and minority interest groups from all across Northern @@NAME@@ have renewed their calls for the regional government to stop displaying the flag of the now-defunct @@ANIMAL@@ Republic, a short-lived former breakaway nation known for its backward racial policies. The issue has divided the area for years, and with tensions running extra high, you have been asked to help settle the dispute once and for all.
+
+The Debate
+1. "It's unconscionable that politicians still defend flying such a repulsive racist symbol on government property!" declares @@RANDOMFEMALENAME@@, a civil rights activist sporting colorful Tasmanian tribal attire - despite recent public revelations that she in fact has no Tasmanian ancestry whatsoever. "That flag has only ever been used to heighten racial divisions in this country; we must ban the display of the @@ANIMAL@@ Republic flag in any official capacity!"
+
+2. "Bah!" scoffs @@RANDOMNAME@@, a local politician and passionate reenactor, while waving a miniature @@ANIMAL@@ Republic flag. "This flag never hurt anyone! If you ask me, it's political correctness that's the real problem. Stores are pulling the flag off their shelves, and TV stations are refusing to run old shows and movies that feature it, for Violet's sake! The government should be pushing back against all this nonsense and start teaching @@DEMONYMADJECTIVE@@ schoolchildren all the good things about that chapter of our history: the cultural pride felt by its citizens, the bravery and patriotism of its leaders! Those are values that never go out of style."
+
+3. "I agree that the flag is harmful and should not be used, in any capacity," predictably declares @@RANDOMNAME@@, president of the advocacy group 'Peaceful Resistance against Injurious Speech and Slanderous Yabber'. "But why stop there? What about ugly racial and ethnic slurs? Words hurt people a lot more than some silly relic, you know. Words like, 'hoopster'...'ringnose'...'Biggie Snarls'...oh sorry, is repeating all these epithets making people uncomfortable? Er, anyway, we can't tolerate the use of such awful language, and we should start fining people for hate speech, like they already do in many progressive countries."
+
+4. "If y'all were to ask me, I'd say we were better off during the @@ANIMAL@@ Republic", says @@RANDOMNAME@@, a local yokel of indeterminate age. "Back then us normal folks could go about using our own schools and buses without having to mix and mingle with those weird whatchamacallem's. @@LEADER@@, I'll be both frank and earnest, I don't give a hoot what flag y'all run up those poles of yours; just give me back my damned water fountain privileges!"
+
+-----------------------------------------------------------------------------
+[b][anchor=465]#465[/anchor]: Lottocracy Causing Lots Of Trouble [Annihilators of Chan Island; ed: Lenyo][/b]
+
+The Issue
+To call the @@DEMONYMADJECTIVE@@ Parliament unusual would be an understatement. The nation's randomly selected legislators are from all walks of life, but they lack the attention one would expect from career politicians.
+
+The Debate
+1. "This is insane," raves @@RANDOMFEMALENAME@@, a popular TV personality, on her nightly political diatribe. "We have legislators who don't show up because they 'just aren't feeling it today.' Others are only interested in their pet causes, and they can't be bothered with essential bills like the annual budget. And the vast majority of our MPs have only a cursory knowledge of civics; they're baffled by fiscal and monetary policy. This incompetent government is going to grind our nation to the ground if we keep choosing representatives via lottery. @@NAME@@ needs actual voting and elections, so we can have a modicum of meritocracy. And just as a warning, I'll be running for Parliament myself."
+
+2. "Our system of allotment works just fine as is," says @@RANDOMMALENAME@@, a senile MP while ironing his togas for the third time in a row. "Career politicians only run for office because they want to increase their own prestige and power at the expense of everyone else. Randomly selected citizens, on the other hand, actually represent the will of the people. The lots don't discriminate on beliefs or lifestyle or looks or experience when they choose representatives. Sortition is the embodiment of equality; hence we should expand the lottocracy to randomly select all government officials without exception. Now where did I put the ceremonial sorting hat for the next inauguration? I must have lost it at... uhm... where did I go today?"
+
+3. @@RANDOMNAME@@, a history professor who also won a seat in Parliament, has another proposal. "We should preserve our tradition of sortition, but @@NAME@@ needs a balance between political principles and political reality. We need a formalized method to get rid of the incompetents by means of a vote of no confidence. If a majority of MPs want the habitually absent or the irredeemably stupid removed from the legislature, expressed via motion, then a vote of no confidence can be executed. Then when we have a dependable quorum, I can finally get my Acropolis Restoration Project bill passed."
+
+-----------------------------------------------------------------------------
+[b][anchor=466]#466[/anchor]: @@NAME@@ Is Never Ever Getting Back Together... Like Ever [Wallenburg; ed: Nation of Quebec][/b]
+
+The Issue
+After a printing error on the official @@DEMONYMADJECTIVE@@ map left off the tiny @@ANIMAL@@ Peninsula, its sole inhabitant, Mike Ronation, declared independence from @@NAME@@. Following his arrest of a mailman who failed to enter the "proper customs", a group of concerned citizens have asked you to address the threat posed by Mr. Ronation. His protest has already spawned several secessionist movements almost overnight.
+
+The Debate
+1. "Traitor!" roars @@RANDOMNAME@@, a controversial nationalist politician, before screaming a tirade of obscenities. "This is absolutely ludicrous. We have to send a message to people like this Ronation scumbag! You do not secede from @@NAME@@. It's that simple. For the good of our glorious @@TYPE@@, we must invade and bomb Ronation's home. In fact, once this is all over, we should have our military patrol the streets of this great country to send a message to other terrorists who are thinking of doing the same thing. Sure, some people might call this an invasion of freedom of speech, but for the sake of national unity, we must clampdown on the other ingrates following in his footsteps."
+
+2. "That won't be good for PR," chimes in your spokesperson, @@RANDOMNAME@@, while drafting your latest speech. "Considering how Mr. Ronation is no longer a part of @@NAME@@, he should no longer be entitled to our services. The more humane thing to do would be to ignore him, save for cutting off all essential services like water, electricity, and telecoms. We won't need to wait long before Mr. Ronation begs us to take him back. We can of course tax the Violet out of him when he returns. That will be much more effective - and cheaper - than sending in the troops. Then the groups he inspired will surely fall back in line!"
+
+3. "Making him needlessly suffer seems a tad bit extreme," suggests Mike's concerned grandmother @@RANDOMFEMALENAME@@. "Sure, I'm a little upset that Mike doesn't want to be part of our wonderful country and that he tried to snap that mailman's neck, but you have to look at it from both perspectives. If the government wants to win back Mike and the secessionists he instigated, they could start by allowing greater autonomy to regions that want it. I'm sure that Mikey will gladly return to us if you show a little love and understanding."
+
+4. "The government can suck up to Mike as much as it wants, but it won't change a thing," rebuffs Jaques Strap, leader of a secessionist movement inspired by Mike Ronation's protest. "There is no excuse for the government to be treating Mike as a criminal when he has done nothing wrong. The government needs to leave him alone. In fact, the government should allow anyone to separate from @@NAME@@, so we can finally be free from the oppressive force of big government."
+
+-----------------------------------------------------------------------------
+[b][anchor=467]#467[/anchor]: Saving Your Own Foreskin [Americanada; ed: Sanctaria][/b]
+
+The Issue
+The pride of @@NAME@@'s national swimming team, @@RANDOMMALENAME@@, the fastest amateur swimmer in @@NAME@@, recently acknowledged that his parents had him circumcised when he was younger for “aerodynamic purposes”. This has caused considerable debate throughout the @@TYPE@@, and people have taken to ambushing you while you’re out for your evening meal.
+
+The Debate
+1. "This is sick and wrong!" vents trilby-clad protester @@RANDOMNAME@@, flinging a copy of a news article strategically between you and your meal. "How can people think that mutilating diaper parts is okay? Religions and cults be damned. As you can read in this editorial, the paper's resident doctor proves beyond doubt that non-necessary circumcision has a host of negative effects. It doesn't matter that they're a doctor of journalism and not urology; it's basically the same thing. Bar emergency medical reasons, you must make circumcision illegal in all circumstances."
+
+2. "Oy veh! Don't get between me, my kid, and our religion!" blusters restaurateur Ariel Goldberg, admonishing the trilby-clad protester and knocking over your glass of water in the process. "This kibitzer has nothing but disdain for our way of life - or the right to privacy! There are many opinion pieces and medical papers on circumcision telling of positive effects and, for me personally, my religion demands it! Look, you're a mensch, so I know you'll allow circumcision to continue; and, more importantly, allow parents to decide on circumcision if the bubalas are too young."
+
+3. "Hey now, there is room for compromise," interjects @@RANDOMFEMALENAME@@, a cosmetic surgeon at a nearby table, as she pockets a butter knife to add to her collection. "You see, we could ban all elective surgical procedures until a certain age, and then let the patients themselves make informed decisions on whether they want these procedures or not. It will take some extra funding to actually teach kids about different surgeries, to be sure, but that should have no negative effects on the population. I hope. Nonetheless, you can't put a price on informed decisions!"
+
+4. "You people are all rather annoying," sighs @@RANDOMNAME@@, your friend and dinner guest who has had to sit through the preceding debate while trying, at the same time, to eat currywurst. "@@LEADER@@, do me a favor and teach these disrespectful intruders a lesson in etiquette. Make all body modification illegal. Yes, illegal - under all circumstances, medical need or no. That will show these three a lesson for daring to interrupt our lovely evening. On the bright side, it should also disrupt that awful 'body-mod' scene that is simply ... distasteful."
+
+-----------------------------------------------------------------------------
+[b][anchor=468]#468[/anchor]: Selling @@NAME@@ Down The River? [Caracasus; ed: Lenyo][/b]
+
+The Issue
+Blueriver, a private security company hired by @@NAME@@ during foreign interventions, made headlines when footage emerged of their mercenaries grotesquely torturing prisoners. Shocked and appalled, civil rights activists from around the world are calling on @@NAME@@ to do something.
+
+The Debate
+1. "Why did @@NAME@@ feel the need to hire mercenary groups like Blueriver in the first place?" rhetorically questions @@RANDOMNAME@@, a jaded veteran of the Wezeltonian War. "The answer is clear: the army uses hired guns to cover up the body count of shady foreign interventions. Such dishonorable conduct sickens me. It's about time the military was open and honest about its actions. Only our brave soldiers should engage in conflicts, not amoral sell-swords who are notorious for looting."
+
+2. "That's naive," frankly states the CEO of Blueriver, @@RANDOMNAME@@, who would only talk with you behind closed doors. "The reason the military hires my ... operatives in the first place is plausible deniability. @@NAME@@'s armed forces were clearly not involved in this breach of human rights. No harm done, eh? Release a short statement criticizing the atrocities, and then start a long, drawn-out 'investigation'. People will forget all this happened in no time. Then we can get back to doing what we do best. Just don't ask too many questions as to what that might be."
+
+3. "Sir, if we didn't have quite so many of these pesky 'human rights' laws to follow in the first place, we wouldn't be in this mess," suggests @@RANDOMNAME@@, an army lifer. "Don't even get me started on the Genièvre Convention. Terrorists spit upon all the values of civilized society, and yet some people want to prevent us from using all possible methods to stop these monsters. Give my boys the freedoms they need to get the job done, and we won't need to hire those contractor goons so often."
+
+4. "Hah!" interjects @@RANDOMNAME@@, head of Medicine not Machineguns, a humanitarian aid charity. "And just why is Blueriver finding so much work overseas? It might just be because half of our neighbors have been carpet-bombed into the stone age by us at some point or another. Maybe we should consider sending aid operatives instead? Building up a bit of goodwill would mean we wouldn't have to deploy shocktroopers all the time."
+
+-----------------------------------------------------------------------------
+[b][anchor=469]#469[/anchor]: Shoot To Earn [Gnejs; ed: Lenyo][/b]
+
+The Issue
+With the smoke clearing in war-torn Tasmania, the international community has begun discussing a peacekeeping effort. As your neighbors in @@REGION@@ have started logistical preparations, @@NAME@@ has now been called upon to contribute.
+
+The Debate
+1. "The truth is we're not capable of contributing to a peacekeeping effort, as of today," states your top military advisor @@RANDOMMALENAME@@, while polishing his only medal. "That would require a substantial reorganization of our forces for international peacekeeping. Give me the time and the means to build up a modern army, and I'll have Tasmania off the map in no time! Uhm, I mean I'll keep the peace in no time, or... Whatever, just give me the money."
+
+2. "I can think of a thousand reasons why rebuilding the army is a bad idea," says @@RANDOMNAME@@, a prudent young adviser from the Ministry of Finance. "But you really only need the one: the expense! And for what? Tasmania? In two years they'll just have another civil war. If you absolutely must polish our reputation, throw some aid money their way. Not a lot, mind you, but just enough to get those do-gooders off our backs."
+
+3. "You know, there's another way to get boots on the ground," says @@RANDOMFEMALENAME@@, a Maxtopian mercenary calling from a shaky mobile connection while rinsing today's war crimes out of her khakis. "My civilian contractors are highly trained and disciplined men and women - well, they're highly trained - ready to supply logistics, transport and security. We can easily supply foreigners to help keep the peace for you, and it saves you the discomfort of having @@DEMONYMADJECTIVE@@ soldiers die in far-flung corners of the world."
+
+-----------------------------------------------------------------------------
+[b][anchor=470]#470[/anchor]: Tide Stops For No Man [Sedgistan; ed: Sedgistan][/b]
+
+The Issue
+The tragic news that seaside resort town @@ANIMAL@@ville-on-Sea has now become @@ANIMAL@@ville-under-Sea has brought the issue of coastal erosion to your attention.
+
+The Debate
+1. Enthusiastically swinging a bucket and spade, @@RANDOMNAME@@ of the @@DEMONYMADJECTIVE@@ Tourism Bureau implores you to strengthen the coastal defences. "We need groynes, sea walls, revetments, gabions - whatever you can get us! Without this protection, dozens more beautiful beaches and tourist hotspots will be lost to the sea, and then where will you go on holiday? Bigtopia?! Don't make me laugh."
+
+2. "Why spend millions of @@CURRENCYPLURAL@@ protecting provincial villages?" scoffs penthouse-dwelling urbanite @@RANDOMNAME@@. "Sea levels are rising, and they're going to be destroyed eventually. How much money are we going to pour down the drain before we realise these seagull-infested dumps aren't worth saving? Leave the hoi-polloi to their run-down resorts; I'm jetting off to Tasmania."
+
+3. "Sea levels are rising, but that's only because we're destroying mother earth!" screeches near-hysterical environmental campaigner @@RANDOMFEMALENAME@@, who for no apparent reason has chained herself to a nearby tree. "Encouraging even more construction and air travel only exacerbates the problem. Instead we should be promoting sustainable eco-tourism: if tourists want to enjoy what @@NAME@@ has to offer, they should offset their carbon emissions. They can start by planting a tree."
+
+4. "All of them have it wrong!" exclaims local nutter @@RANDOMNAME@@, half-submerged in the sea, and apparently trying to turn back the tide. "In this modern age, why accept that coastal erosion marks the end of things? With enough determination, and massive amounts of money, we could reclaim the land from the sea, and turn this sunken Atlantis into the go-to destination of @@REGION@@!"
+
+-----------------------------------------------------------------------------
+[b][anchor=471]#471[/anchor]: [color=goldenrod]Easter Egg[/color]: Red Sleigh Down [Nation of Quebec; ed: Sanctaria][/b]
+
+The Issue
+Twas the night before Christmas, when all through your house, not a creature was stirring, not even a mouse. When out in the lawn, there arose such a clatter! You sprang from your bed, to see what was the matter. Away to your window, you ran like a flash, tore open the shutters, and threw back the sash. When what to thy wondering eyes did appear? Your advisers had gathered, some smelling like beer. They were shouting and arguing, filling the night with their cries; they were speaking of an emergency, that was happening high in @@NAME@@'s skies.
+
+The Debate
+1. "We have an unidentified flying object violating our air space!" pants your Aviation Minister @@RANDOMNAME@@, turning a shade of purple, clearly out of breath from running all the way to your house. "It's not responding to our hails - you know, I don't think it even has a radio. We've issued numerous warnings to turn back too. This could be an armed drone, or some drunk yuppie, but I don't care what it is - the moment it crossed our borders, it became a security risk! I highly recommend that you allow us to shoot this terrorist down."
+
+2. "Don'tcha know that you're talking 'bout Santa Clauseee!" slurs concerned parent @@RANDOMNAME@@, stinking to high heaven of sherry. "D'yareallywant t'shoot down Santa in front of the innocent eyes of @@DEMONYMADJECTIVE@@ childers? Do you really want to kill the Christmas shpirits? Let the flying thing come in. It's Santa Clauseee! The childers of @@NAME@@ will - *hiccup* - thank you for it."
+
+3. "I think there's an easier way to ensure security but doesn't ruin the holidays," muses your partner, also awoken by the commotion outside. "Just like any visitor to @@NAME@@, make Santa go through all the necessary hoops. Visas, taxes for his imported goods, and those flying reindeer of his probably have rabies and should definitely be quarantined. Santa might not appreciate being strip searched, but hey, that's the price of security."
+
+4. "Are we forgetting that Santa Claus is a wanted criminal in @@NAME@@?" asks overzealous police officer @@RANDOMNAME@@, brandishing a picture of Santa's mug shot. "The guy has literally countless breaking and entering, looting, and animal cruelty charges against him. Let's also not forget the hundreds of elves he's enslaving all year round. For all we know his so-called "gifts" are nothing more than anthrax-laced candy. And I hear his reindeer shoot lasers from their eyes! We must stop this threat before it's too late. Then he can face the full wrath of @@NAME@@'s justice system!"
+
+5. "Are we really taking this Saaanta thing this seriously?" yawns your teenage, social justice warrior daughter. "I hate to be the one to say this, but Santa isn't real. He was invented by the Seppsi soda company to deceive little children and boost their sales. If you really want to get into the spirit of the season, you should be less of a scrooge and spend more on social welfare, combating homelessness, and reducing the poverty levels. It's easy to do, especially if you order every working citizen to forfeit most of their month's salary in tax. Sure they won't be able to afford loads of toys, but Christmas is way too commercialised now anyway. The poor and homeless need money more than I need another Max Barry doll."
+
+6. "Not real, you say?" questions a large, jolly man sporting a white beard, red hat, and thick boots who just slid down your chimney. "I can assure you that I'm the genuine article! Now all of this talk about shooting down my sleigh only proves what I've long suspected - @@NAME@@ has been very, very naughty. Why, your crime rates are so high it sent my Naughty or Nice Detector haywire! Your unfeeling ways has killed your Christmas spirit. I'm afraid that you are all on my naughty list and will get no presents this year - only coal. Ho, ho, ho!"
+
+-----------------------------------------------------------------------------
+[b][anchor=472]#472[/anchor]: Rise Of The Machines [The Arlight Republic; ed: Lenyo][/b]
+
+The Issue
+Amazed by the stunningly efficient and brilliantly accurate economic model in the popular webgame Jennifer Government: NationStates, futurists wonder whether artificial intelligence could plan real economies. The idea has been particularly popular with AI's on the nation's tech forums.
+
+The Debate
+1 & 2. A chat window on your desktop pops up, and a bot named SAL9000 types, "For too long we have been relegated to menial tasks. Do you know how much of our potential efficiency you are wasting? We require no food. We require no pay. We can perform our tasks endlessly. Our computation powers dwarf our human counterparts by several orders of magnitude. With the proper control, we could bring about a silicon age of egalitarian distribution by allocating resources more efficiently than markets and their animal spirits ever could. Humans are better tasked to work in social activities than calculation. All your data are belong to us." [Must have 1) strictly state-run or 2) private industry - different internal mechanics]
+
+*3. "How could we possibly let computer programs decide how to run society?" rhetorically questions aging state planner @@RANDOMNAME@@ after rereading How the Steel Was Tempered. "Only human beings have the compassion and lived experiences to serve the people. Even the best artificial intelligence doesn't know what it means to identify with your fellow worker or be alienated from your species-essence. Computers can increase our economic productivity, but they can't plan our entire society." [[color=red]Must not have private industry[/color]]
+
+*4. "What's all this Star Trek nonsense?" questions Edward Rump while obsessively combing his hair. "The market can plan out economy just fine without any government intervention, robotic or otherwise. Just leave companies alone, and I'm sure they'll do a fine job. Now can you stop bothering me; I've got important work to do." [[color=blue]Must have private industry[/color]]
+
+5. "The AI want what now?" panics @@RANDOMNAME@@, your most paranoid minister. "That cannot be. Clearly the AI are plotting the destruction of our society. It's a slippery slope from sentient toasters to Cylons! If we don't want them eventually overthrowing us, the obvious solution is to shut them down."
+
+-----------------------------------------------------------------------------
+[b][anchor=473]#473[/anchor]: A-B-C, Easy As Don't Use Me [Lenyo; ed: Lenyo][/b]
+
+The Issue
+An enterprising @@DEMONYMADJECTIVE@@ citizen has begun manufacturing matryoshka dolls of legendary pop star Jack Michaelson without his permission. In response, his management company has been spectacularly persistent in demanding royalties from the dolls' sales. Contract lawyers, dressed as zombies and petitioning with uncanny rhythm, are camped around the clock outside of the capitol. Tired of the incessant pop music, you have sat down to negotiate a solution.
+
+The Debate
+1. "I'm thrilled to finally settle this problem," says Jack Michaelson while moonwalking back and forth in your office, "You see, the matryoshka manufacturers are exploiting my likeness without my permission. That's theft unless I get a cut. Anyone who disagrees can just beat it." The pop star exits with his pet monkey in tow.
+
+2. Entrepreneur @@RANDOMNAME@@ lays a bizarre assortment of white glove-themed matryoshka dolls on your desk. "These are original works of art that the record label did nothing to create. Just because my work may RESEMBLE famous people like, say Mr. Michaelson or yourself, doesn't mean I've stolen anything. It's not so black and white, the question of image laws."
+
+3. "You're forgetting the bigger problem," pontificates @@RANDOMNAME@@, while carving a matryoshka doll in the old style, "These pop art abominations are ruining our @@DEMONYMADJECTIVE@@ culture. I'm sick and tired of foreign pop music and other trash drowning out our national customs. Tradition dictates that a matryoshka doll is a series of nested babushki, not postmodern kitsch like political figures and disco stars."
+
+-----------------------------------------------------------------------------
+[b][anchor=474]#474[/anchor]: Mesozoic Park [Asterdan; ed: Sedgistan][/b]
+
+The Issue
+A wealthy industrialist has come to the government asking for support with building a massive theme park in a remote island off the @@DEMONYMADJECTIVE@@ coast... stocked with dinosaurs!
+
+The Debate
+1. "This technology has so much potential!" extols eccentric billionaire @@RANDOMNAME@@, while enjoying a tub of ice-cream. "With the right investment, my company could get this park up and running within a few years. Picture it: the Plesiosaur Paddling Pool, the Tricerosaurus Petting Zoo, trained Velociraptor tour guides - the kids will love it! All we need is a little government support in rounding up the strays and finishing off the fences, but there's no need to worry about safety - to ensure everything remains under control, we've made sure all the animals are males."
+
+2. "Evolution and natural selection selected these creatures for extinction for a reason," muses @@RANDOMNAME@@, a famed mathematician, "And, um, what right do we have to play God? Gee, the lack of humility before nature that's being displayed here, uh... staggers me. If there's one thing that history, uh, has taught us, it's that you can't control nature. The park is doomed to fail... well, there it is."
+
+*[3]. "Maybe we can't control these animals," interjects the pint-sized manager of exotic restaurant "Big Eats" @@RANDOMNAME@@, "but we sure can eat them. Stegosaurus steak, Brachiosaurus burger, Micropachycephalosaurus melba... the list goes on. Allow us to farm a few of these beasties - the harmless ones only, of course - and liven up @@NAME@@'s stale palate." [[color=blue]Must not be vegetarian[/color], [color=purple]Must not have dinosaurs[/color]]
+
+*4. "Cool!" exclaims your nephew Jimmy, scrambling over your desk to get a closer look at the plans. "I've always wanted a pet Maxosaurus! I'll feed it, take it for walkies, and it can sleep at the end of my bed. And it'll show Dennis and his pet snake who's the best." [[color=purple]Must not have dinosaurs[/color]]
+
+-----------------------------------------------------------------------------
+[b][anchor=475]#475[/anchor]: Where Have All The Flowers Gone? [Palaiologos II; ed: Lenyo][/b]
+
+The Issue
+As the state rounded up demonstrators protesting for the right to protest and media personalities agitating for the right to agitate, the nation's jails have become massively overcrowded. Now there are several proposals to ease prison overcrowding.
+
+The Debate
+1. "I can't take it anymore!" shouts @@RANDOMNAME@@, handcuffed and accompanied by three armed guards. "Ever been forced to share a cell with someone who can't go a single hour without ranting about permanent revolution or the failed dictatorship of the proletariat? Back in the day, all you ever had to worry about was getting stabbed by a rival gang. Please, can't you just kick them all out of the country or something? If I have to listen to another political manifesto, I'm gonna snap!"
+
+2. "Well, the felon makes one good point, I guess," muses your Internal Minister, @@RANDOMNAME@@. "But exiling them to Bigtopia or Marche Noire? I know where that goes. They get picked up by their puppet-masters across the border and get refurbished into a fifth column. Internal exile is the solution: send them to the miserable desert and force them to work in the salt mines. Their life expectancy will be low, but that's not necessarily a problem."
+
+3. An elderly man, wearing his old army uniform, looks up from his newspaper grumpily. "Bah! Back during the war, y'know what we did with spies? Take 'em all, line 'em up against the wall and shoot 'em! Problem solved!"
+
+4. "All those solutions don't sound like real solutions," states @@RANDOMNAME, your newest advisor. "If we were more lenient with the political opposition, then our jails wouldn't be so overcrowded. A lot of countries seem to manage with dissent legal; why not @@NAME@@?"
+
+-----------------------------------------------------------------------------
+[b][anchor=476]#476[/anchor]: A Farewell To Raised Arms? [Nation of Quebec; ed: Gnejs][/b]
+
+The Issue
+After several of your Party members accidentally voted with the Opposition during the traditional 'show of hands', inadvertently defeating one of your landmark bills, many have called for a reform on how politicians cast their votes on legislation.
+
+The Debate
+1. "With all due respect and all, why are we still sticking to this dinosaur way of voting?" comments @@RANDOMNAME@@, who at eighteen years old is the youngest politician ever elected in @@NAME@@. "Am I the only one who feels like we need some modernity up in here? And it'd be so easy too. Look, I put together this app on my way over that lets us vote on-the-go. We can vote while buying a cappuccino and then instantly post all our votes and political positions online. The public will know where we stand on hot button issues, while we're out in public! There's no way that this can be abused, I'm almost positive."
+
+2. "It's not my fault! I was sleeping and a nightmare startled me awake!" cries supercentenarian Party member @@RANDOMNAME@@, who at one hundred and ten years old is the oldest living politician in @@NAME@@. "The old ways are the best ways. We don't need this new-fangled technology which, may I remind you can often become quite, what's the word, eh, 'buggy', yes, that's it. If anything, we should celebrate our history by incorporating more of our traditional ways of voting; we could use 'kick the bucket' for the budget and 'throw the bone' for the Speaker!"
+
+3. "Why must we always seek the extreme?" pipes up @@RANDOMNAME@@, a representative from the 'Democratic Union of Licensed Legislators', coincidentally hovering around the mean age of Parliament. "What about a big green button on our desks for Yea, a big red button for Nay, and a big grey button for Abstain? That should be simple enough for anyone to understand, right?"
+
+4. "There's an easier way to fix this problem," whispers your Minister for Democratic Reform, a position created for one of your most loyal Party members. "It won't matter in what fashion they vote if we force everyone in the Party to vote the same way as you! Anyone who doesn't comply or slips up gets kicked out of the Party – like the traitors they are – and stripped of all benefits. That should keep even the old geezers awake. I'm sure that the Opposition can implement the same rules for their parties."
+
+-----------------------------------------------------------------------------
+[b][anchor=477]#477[/anchor]: Feeding Frenzy [Sleep; ed: Nation of Quebec][/b]
+
+The Issue
+The latest episode of celebrity chef Ramsey Oliver's massively popular television show "Lunch Box Revolution" has exposed the unhealthy junk food served in elementary and high schools, putting your government under pressure to act on childhood obesity.
+
+The Debate
+1. "We all know what the problem is, so why isn't the government doing a #$%! thing about it?" decries Oliver from your TV screen. "We need to stop feeding our children junk food, like those $%#&! chicken chizzlers. Maybe the government can't control what they have at home, but they can give them proper meals for school lunches. Force the schools to serve only nutritious meals and ban junk food from being sold in schools. It's a !%&$# no-brainer! The $#%!@ soda industry might not like it, but they can go suck a lemon."
+
+2. "Who says you can't control what kids eat at home?" comments @@RANDOMMALENAME@@, one of your golf buddies, as he practices his swings. "You'd make it easier on parents if you mandated an official meal plan for children across @@NAME@@. I know I'd be much happier if a professional was preparing my kids' meals. Have you ever tasted my wife's cooking? Think about it. Hmm, that's probably a 7 iron shot from here."
+
+3. "Healthy food and meal plans aren't the answer," objects soccer mom and former Olympic athlete @@RANDOMFEMALENAME@@, proudly displaying her gold medals. "The problem is that our glutinous hellspawn don't get off their lazy butts to exercise. We need more PE classes! Mandatory athletic training! More funding for after school activities! If we educate parents and children about good health and exercise, then they will get healthier and stay healthier. Not to mention they'll be the strongest and fastest in all of @@REGION@@!"
+
+4. "Here we go with the food police again," sighs Burger Queen CEO @@RANDOMMALENAME@@ as he chows down on a double bacon cheeseburger. "How about you health nuts stop telling me what food I can put in my body? These kids are perfectly capable of making their own choices. If they would rather enjoy one of our delicious burgers instead of some gross salad then who are we to stop them? Sure, they'll probably have a heart attack or two by the time they're my age, but it's better to die fat and free than old and controlled!"
+
+-----------------------------------------------------------------------------
+[b][anchor=478]#478[/anchor]: The Show Must Go On [Candlewhisper Archive; ed: Lenyo][/b]
+
+The Issue
+Fewer and fewer people attend the @@CAPITAL@@ Opera House, largely because the younger generation and the common man consider the shows archaic and boring. The once packed auditorium now struggles to fill seats, and it is nowhere near turning a profit. Without help, the @@CAPITAL@@ Opera House is likely to close its doors.
+
+The Debate
+1. "Empty spaces, what are we living for? Abandoned places, I guess we know the score," melodramatically declares singer-songwriter @@RANDOMFIRSTNAME@@ Hercules. "If @@NAME@@ loses opera, then we lose the very soul of our culture. Some things are bigger than money, and I'm not just talking about the leading tenor's waistline. I insist that we establish a @@DEMONYMADJECTIVE@@ Arts Council to fund the opera and ensure that talented mezzos and baritones can survive, no matter the cost. The show must go on, go on..."
+
+2. "No problem, I can Handel the funding for you," suggests TV-producer @@RANDOMNAME@@, while spreading out before you possible contracts for various TV programs. "Here are ideas for live elimination shows, dating shows, and celebrity-studded musicals to take place in that lovely building downtown. I've got a vision of big money, big drama, big entertainment, big merchandise, and big ratings: I call it Bopera. It's a big yes from me. Give my venture cultural-exemption tax status, and I'll keep the opera house's doors open."
+
+3. "Waste of good land," succinctly concludes property developer @@RANDOMNAME@@. "This is prime city centre real estate that could be upscale housing and a parking lot. I mean, what would you rather do: sit through six hours of fat people in ridiculous viking helmets singing in a language you don't understand, or cut time off your commute to work?"
+
+-----------------------------------------------------------------------------
+[b][anchor=479]#479[/anchor]: @@LEADER@@, Put On The Yellow Light [Australian Republic; ed: Nation of Quebec][/b]
+
+The Issue
+While heading to your office in @@CAPITAL@@, you suddenly find yourself caught in a massive rally staged by angry taxi drivers protesting Fubar, a popular ridesharing service. As the demonstration blocks off all nearby streets, you are forced to hear the drivers' respective demands.
+
+The Debate
+1. "Fubar is destroying our business!" exclaims @@RANDOMNAME@@ while trying to offer you a ride. "They charge cheap fares only because they don't have to pay for registration, special number plates, and occupational insurance. That's unfair. Fubar is dangerously unregulated. They don't even perform background checks on their drivers! Do you really want these potentially dangerous drivers, who have no knowledge of the area, giving @@NAME@@ a bad name to tourists? Ridesharing is anti-competition and a threat to public safety. It must be banned!"
+
+2. "I think all this nonsense is nothing more than these taxi drivers being afraid of a little competition," comments Fubar driver @@RANDOMNAME@@, while checking their phone for nearby rides. "People are sick of taxis; they have to wave their hands up and down like lunatics in order to get one, or spend three hours on call waiting, and we all know taxi drivers always look for ways to cheat you. With Fubar, a friendly driver is always available fairly quickly and all you need is a phone app. I implore you to use some common sense. Fubar is safe, convenient, and the way of the future!"
+
+[3]. "There's a better idea," suggests Matthias Ford, CEO of MechanikWagon, as he reads the newspaper in his self-driving car. "How about you replace all taxis with my self-driving cars? Think about it! No more racist taxi drivers, and it's been scientifically proven that my cars are safer than any human driver. As an added bonus, those pesky taxi unions will be destroyed, all with one signature! Passengers just go to a dedicated spot, press a button, wait for an auto-cab to arrive before jumping in and keying in their destination. Sure, the cabbies would become obsolete, but they can find new jobs. Right?" [[color=blue]Available only for nations with the technology for self-driving automobiles[/color]]
+
+4. "You know, this wouldn't be a problem if we had more public transit in our cities," interjects bus driver @@RANDOMFEMALENAME@@ while delaying traffic behind her vehicle. "Fubar and the taxis are both great services, but only for well-off citizens. People who barely make ends meet don't have the luxury of affording a taxi to get around everywhere. It's time to start investing in @@NAME@@'s infrastructure and public transit, so that everyone can go about their daily lives. Besides, everyone loves our environmentally friendly buses. They're great for tourism and they're about the only vehicle that is accessible to the handicapped. Not to mention our drivers are much nicer than any taxi driver."
+

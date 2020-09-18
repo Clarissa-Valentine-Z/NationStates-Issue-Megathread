@@ -1,0 +1,302 @@
+0940 TO 0959
+[b][anchor=940]#940[/anchor]: The Court of the Crimson Lord [Altmer Dominion; ed: Pogaria][/b]
+
+The Issue
+One of @@NAMES@@’s highest-ranking nobles, Lord Giles, has been criticized for the draconian management of his estate. After the ninth execution of a serf was reported within a month, you have traveled to Giles’ court to discuss the matter personally.
+
+The Debate
+1. “You’re just in time for the entertainment!” booms Lord Giles, flashing you a toothy grin. “Pay no mind to any outcries, @@LEADER@@. The lower folk must know their place; we can’t give the wretches any leeway, can we? Now, do stick around. We’ve got a wonderful choir performing soon, made up of some of the little ‘uns from a nearby village. You wouldn’t believe what the threat of punishing their parents does to their music: heavenly sounds! I swear, @@NAME@@ could learn a thing or two.”
+
+2. Lady Giles, clothed all in black, observes another execution from afar. “That one made some disparaging remarks about us in a tavern,” she notes flatly, sighing. “Truth be told, this has all gotten so boring. The event’s over too quick, not to mention that people can’t learn their lesson when they’re dead. Active rehabilitation of these peasants - by which I mean frequent beatings - would be so much more efficient for the estate’s funds... and provide us with such lively entertainment.”
+
+3. The keeper of the estate’s keys, @@RANDOMNAME@@, pulls you aside. “None of us can take much more of this,” he whispers. “Any one of the estate servants, not to mention the regular villagers, could be targeted next. If the threat of retribution wasn’t so ominous, I’d have locked them out of the house long ago. This is not normal. This is not right. On my life, I beg of you to close the shutters on this charade and remove these two tyrants from their positions of power.”
+
+4. “Why are local nobles in charge of executions, anyway?” interjects the court gardener, while planting an evergreen. “If we allow the nobility to maintain near-absolute power, it would only be a matter of time before they abuse their power in some other way. This overgrowth of corruption by our feudal lords must be uprooted and burned like a pernicious weed! If the national government takes back its shears of judicial power, the other nobles will think twice before setting themselves up to be pruned.”
+
+5. A yellow-robed jester approaches you, displaying gaudily-designed finger puppets on his right hand. Oddly enough, you notice the puppets bear a strong resemblance to a number of powerful @@DEMONYMADJECTIVE@@ nobles. After a moment, the jester brings out his left hand, revealing more finger puppets that are dressed in rags and carry pitchforks and torches. Without saying a word, he pantomimes a fight between the two groups in which the peasants beat the nobles into submission and chase them away. Winking at you, he blends back into the crowd.
+
+-------------------------------------------------------------------------------
+[b][anchor=941]#941[/anchor]: Scents and Sensibility [Lancaster of Wessex; ed: Nation of Quebec][/b]
+
+The Issue
+More and more people have been developing allergies — some severe — to especially potent scents. Allergy specialists and sufferers alike are asking you to stick your nose into this business.
+
+The Debate
+1. “Everyone knows that we cannot bear these malodorous assaults on our senses!” protests nasally-sensitive allergy specialist Rosemary Thyme between sneezes. “I am persistently surrounded by people who drown themselves in Eternity Is a Long Time or Channel Number 5: A Newswoman’s Perfume. Who knows what these allergic reactions are costing the economy due to lost productivity? Ban the sale of these products!”
+
+2. “While Rosie has the right idea, an outright ban is only one part of the equation,” gasps Lavender O’Dor, choking due to your fragrant aroma. “You need enforcement officers to make sure people are in full compliance with any perfume ban, which should also include body lotions, deodorants, the lot! My sanity depends on this!”
+
+3. “You want to tell me what I can and cannot wear when it comes to my personal grooming?” snorts neighbourhood narcissist Imma Mirorslav. “That idea stinks. Darling, listen, I have certain standards to uphold, and my collection of 250 perfumes are a vital part of who I am! If these nosy persons cannot stand being around my exquisite self, perhaps they should all hold their noses instead.”
+
+4. “While I empathize completely with the plight of these people, there surely has to be a sensible solution to this,” coos fragrance magnate Calvin Colon, who nonchalantly slips a few samples of his latest scents into your pocket. “I smell an opportunity here for fairness: just legislate that every workplace should have sections for those who want to adorn their beautiful bodies with my creations, and for those who prefer… natural scents.” He wrinkles his nose disdainfully.
+
+-------------------------------------------------------------------------------
+[b][anchor=942]#942[/anchor]: A Foreign Exchange of Ideas [Benetania; ed: Caracasus][/b]
+
+The Issue
+As @@DEMONYMADJECTIVE@@ universities are gaining recognition on the world stage, the country's citizens have mixed feelings about the influx of international students trying to enroll.
+
+The Debate
+1. "Having a geographically diverse student body is crucial for expanding our young people's minds and molding them into global citizens," pontificates bespectacled Dean @@RANDOMLASTNAME@@ of @@CAPITAL@@ University, idly spinning a globe in @@HIS@@ office. "Our classrooms must represent the world's population, and that is best achieved by setting aside a percentage of all university places for foreign students. Just think of the prestige! Er... I mean, the perspectives!"
+
+2. "@@DEMONYMADJECTIVE@@ universities are for @@DEMONYMADJECTIVE@@ kids; it's that simple," shrugs concerned citizen @@RANDOMNAME@@ in between open-mouthed chewing of a sandwich in the university cafeteria. "It's hard enough for brilliant students like my daughter to get into a school as good as this without facing competition from the rest of the dang world. Besides, those Bigtopian students don't look too happy to be here anyway, do they?"
+
+3. @@RANDOMMALEFIRSTNAME@@ 'Kegmeister' @@RANDOMLASTNAME@@, a student known for his stunning grin and perfectly coiffed hair, bursts in. "Did I hear you talking about those bodacious foreign babes? My friends and I would totally help welcome these lovely international students to @@NAME@@... as long as they're total babes. Hey, there's an idea! Why don't we let foreign students in to study, but only if they're hot enough to pass the Kegmeister's test?"
+
+-------------------------------------------------------------------------------
+[b][anchor=943]#943[/anchor]: Big Love, Big Problems? [The Free Joy State; ed: The Free Joy State][/b]
+
+The Issue
+A call for help triggered a raid at the remote ‘Seeking Glory Compound’, the base of the polygamist Fundamentalist Brotherhood, which is said to be a cult by many. As a manhunt was launched for the group’s elusive leadership, a search of the compound uncovered evidence that the group has been performing forced polygamous weddings for some time.
+
+The Debate
+1. “This is the true face of polygamy,” declares Ann Eliza @@RANDOMLASTNAME@@, a former member of the Brotherhood turned vocal anti-polygamy activist, brandishing a photograph of herself with a bushy-bearded man and eighteen other pastel-clad women. “Women raised like veal: no reading books, no childhood toys, not even any coloured chalk in the schoolroom. They are brainwashed into believing they need to grow up to marry the old geezer with halitosis to gain ‘eternal glory’. Just f... forget these plygs’ rights; what about their children’s freedom? Ban polygamy, and prosecute whenever the law is violated!”
+
+2. “This so-called ‘evidence’ was probably planted by our enemies. But let’s just suppose it’s true,” growls self-named Brotherhood spokesman, diminutive sexagenarian Dick ‘Big Richard’ @@RANDOMLASTNAME@@, who is surrounded by his nine dead-eyed wives. “How can anything begat in Truth be a crime? ‘Cos, I gotta tell ya, if our wholesome lifestyle - received when Prophet Hezekiah Obadiah Zachariah @@RANDOMLASTNAME@@ was visited by the Angel Cletus - can be persecuted, soon every religion will be illegal. You won’t even be allowed to send Maxxmas cards. Rather than waste money persecuting goodly people, why not support holy men? Raising ninety-eight kids ain’t cheap.”
+
+3. “This man does not represent us,” insists @@RANDOMMALENAME@@, the founder of pro-polygamy pressure group Real Love is Infinite. “It’s plain prejudicial to group us independents and the multilateral marriages of Church of Pizza fundamentalists with Brotherhood scum. While we commit no crime, let us love and marry whoever we want, regardless of sexual orientation or the number of spouses. While we’re at it, let’s use media and outreach to teach @@NAME@@ about polygamy’s benefits: the friendship found only among sister-wives, the benefits of two husbands, and that the good men are never taken. The only worry is that everyone will want to marry the same great guy. But there’s lots of me to go ‘round.”
+
+4. “As long as Timmy and Tammy from @@ANIMAL@@ County may say ‘I do’,” states your Minister of Parity and Biscuits, passing custard creams to your guests, “Mr. and Mrs. and Mrs. @@RANDOMLASTNAME@@ must be allowed to abide by the same laws. But we must stamp out the horror of forced marriage. Let there be new restrictions, applied to each couple... trio... whatever. We’ll really raise the minimum marriageable age so everyone can know their own minds, have mandatory health checks to prevent consanguinity, and ensure all citizens pass a lie detector test wherein they plainly swear they are marrying of their own free will and choice. Simple.”
+
+-------------------------------------------------------------------------------
+[b][anchor=944]#944[/anchor]: Deadly Persuasion [The Marsupial Illuminati; ed: The Free Joy State][/b]
+
+The Issue
+Groups of Violetist militants are successfully using social media — including MyFace, WhoTube, and Twitcher — to recruit young Violetists to their cause. The materials they put out are compelling, professional, and available in multiple languages. Your ministers huddle around as you browse on your computer.
+
+The Debate
+1. “The interwebs and socialist media are to blame,” groans your elderly Minister of War. “They shouldn’t be allowing terrorists to thrive on their services. Force those tech companies to ban Violetist zealots from using their sites. Delete their accounts and block them from the net.”
+
+2. “These companies have a lot of information on these radical Violetists: location, search history, passwords, and more,” effuses your Minister of Internal Security. “They should aid our country in combating the militants by sharing all their user information with us. We’ll use the data well.” The minister tries to hold back laughter.
+
+3. A video chat window opens up, revealing the melancholic visage of MyFace CEO Marcus Sugarmountain. “As a private company, we have the right to determine how our services are used. Why not think of this situation differently? Most people who join these radical groups are disaffected Violetist youths who are unhappy in @@NAME@@. Try to empathize with them and understand their culture, and they’ll assimilate in no time.”
+
+4. “Young Violetists are not driven to fight because they’re bullied,” pontificates your Minister of Secularism, inserting sacred texts into a shredder. “They actually join the militants because they hold strong religious beliefs. I recommend that all Violetists be kept in mental institutions until they are cured. Do the same for all other religious nuts, and this problem will be gone.”
+
+-------------------------------------------------------------------------------
+[b][anchor=945]#945[/anchor]: Police on the Take [Singapore no2; ed: Candlewhisper Archive][/b]
+
+The Issue
+At present, it is official policy to ban the general population from having cars, but to allow the police to do so. This has placed unexpected stresses on police departments, as they often find themselves using their vehicles to ferry sick and injured citizens during emergency situations.
+
+The Debate
+1. "Our cars are not meant for these purposes!" complains senior police officer @@RANDOMNAME@@ as @@HE@@ attempts to stop a pregnant woman in the early stages of labour from entering the back of @@HIS@@ vehicle. "Ordinary citizens and medical personnel have been pestering us continuously! I've been wasting more time sending kids to school than I have spent pursuing hardened criminals and serial jaywalkers. It should be a criminal offence to bother the police with such unnecessary requests."
+
+2. "We wouldn't have to bother the police if you made a few reasonable exclusions to the car ban," objects @@RANDOMNAME@@, a perfectly healthy individual, who has been trying to convince the officer to transport @@HIS@@ groceries for @@HIM@@. "Emergency services should have ambulances and fire engines. Also doctors, delivery drivers, postal workers, tradesmen, builders and the like should be able to have vehicles. Oh, and commuters, people with children, people who have widespread social engagements, leisure drivers. Just make a few exceptions to the ban, and it'll all be fine!"
+
+3. "While I understand their concerns, allowing citizens to have cars is a bit too much," comments @@RANDOMNAME@@, a paramedic, who is stretchering a patient to a police car. "It's true that many civilians are wasting police time, but they have a good reason to do so. Public transport still doesn't have sufficient capacity to cater to the population, so citizens resort to asking the police for help. If we dedicated more of the state budget to developing railways, trams, monorails and so on, as well as allocated specific train lines to other emergency services, I'm certain that this issue would be resolved."
+
+4. "I've had just about enough of this," coldly states @@RANDOMNAME@@, the Minister of Environmental Oversight, carefully measuring the respiratory carbon dioxide emissions of the previous speakers. "Our cities are beginning to adapt to functioning without roads, and to maintain our remaining ones just for a bunch of entitled civil servants is a waste of money. We should just extend the ban on cars to all @@DEMONYMNOUNPLURAL@@ and save ourselves a pile of @@CURRENCYPLURAL@@."
+
+-------------------------------------------------------------------------------
+[b][anchor=946]#946[/anchor]: Better In Than Out [Baggieland; ed: Nation of Quebec][/b]
+
+The Issue
+Your Justice Minister has raised a stink about public flatulence, and is proposing a new law to ban it.
+
+The Debate
+1. “We need to promote public decency!” demands @@RANDOMNAME@@, your Justice Minister. “Any person who vitiates the atmosphere in any place, to make it obnoxious to the public or to harm the well-being of people in surrounding areas, shall be guilty of a misdemeanour offence and shall be sentenced to a term of community service. If you need to pass wind, just go to a toilet.”
+
+2. “This is insane,” states @@RANDOMNAME@@, your Solicitor General, discreetly shifting in @@HIS@@ chair. “How any reasonable or sensible person could think that criminalizing flatulence in public would be a good idea is beyond me. We are a civilized nation. Just make sure that every one is taught to do it as discreetly as possible when they need to. Simply raise your right buttock ever so slightly and let it out gently, ideally without bringing any attention to yourself.”
+
+3. @@RANDOMNAME@@, who was recently banned from the @@CAPITAL@@ subway for farting too much, has @@HIS@@ say and smell. “Hey! @@LEADER@@, pull my finger!” Even though you don’t comply, @@HE@@ still lets forth a thunderous, horrible noise that fills the room with a titanic stench. “Oh my god, did I just squash a frog? That one wasn’t too bad; it’s the silent but deadly ones that get you! Everyone knows that letting them rip is good for your health — better out than in, right? We should let everyone know it’s okay to sound off, maybe even subsidize some kind of ‘Wind Festival’. Smells like a good time to me!”
+
+4. “Wait, did someone say gas?” asks your Energy Minister, @@RANDOMNAME@@, while holding @@HIS@@ nose. “We should distribute methane capture devices and make it compulsory for every citizen to... uh... plug one in. We could then capture this natural resource, and reduce our dependence on fossil fuels!”
+
+-------------------------------------------------------------------------------
+[b][anchor=947]#947[/anchor]: Imitation Station [Nation NameDotDotDot; ed: Candlewhisper Archive][/b]
+
+The Issue
+While chauffeuring you to work this morning, your driver notified you of a recent spike in motorized vehicle accidents. He says that the cause is several distracting radio advertisements - one ironically telling drivers to "buckle up". These ads include sounds of screams, screeching tyres, honking horns, and police sirens, causing confusion for drivers on the road.
+
+The Debate
+1. "You can't simply restrict our right as businesses to use a simple sound!" complains CEO of Adz4U Inc. @@RANDOMNAME@@, while a vuvuzela quartet play a selection of tunes in the background. "These noises help us draw in our audience's attention, and get them to listen better. Plus, if a few commuters get into fender benders then that's good for auto-repair businesses, right?"
+
+2. "If you let them use these sounds, millions will die!" screams histrionic commuter @@RANDOMNAME@@. "Okay, I admit, I can't provide evidence for that. But this is definitely a public safety concern, and it's common sense that there'll be deaths on the road from this. And surely, safety is your number one priority, right? Adverts should be screened for distracting noises."
+
+3. "Whoa, whoa, whoa, let's slow down here, people," says grumpy middle-aged @@MAN_1@@ @@RANDOMNAME_1@@. "There is an incredibly easy solution here, and that's just to not allow radios or any other audio systems in cars. Think about it! No more young drivers 'sharing' the latest chart tunes at full volume as they drive through town centres, no more screaming toddlers demanding that nursery rhymes are on endless loop on long car journeys and no more sad songs making you want to take a hard left into oblivion when you're driving along the clifftop. Wait, is that one just me?"
+
+-------------------------------------------------------------------------------
+[b][anchor=948]#948[/anchor]: 1x, 2x, 3x, A Lady [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
+
+The Issue
+Globally, the fields of engineering, technology and science have historically seen women significantly under-represented. Independent magazine [i]Women’s Problems Monthly[/i] has engaged in a root cause analysis to investigate, noting that a major contributor to this is girls losing interest in mathematics at school, with a knock-on reduction in applications for maths-related degree courses.
+
+The Debate
+1. “There’s a cultural poison at the root of this where boys and girls get assigned toys, magazines and hobbies according to arbitrary societal expectations of gender roles,” complains ardent replica sword collector @@RANDOMFEMALENAME@@. “Boys get chemistry kits and toy robots. Girls get baby dolls and make-up sets. Is it any wonder they think mathematics and science aren’t meant for them? We must legislate to regulate in retail, advertising, parenting and primary education!”
+
+2. “Leave our kids alone! Boys and girls are different; it’s just opportunity that needs to be made more equal,” declares tiara-wearing nuclear physicist @@RANDOMFEMALENAME@@, clutching her pink unicorn pencil case protectively. “It’s in higher education and the workplace that the self-perpetuating old boys’ club mentality exists. You should set a reasonable quota for education and employment, to ensure [i]neither[/i] gender represents more than 70% of intake.”
+
+*3. “Women’s talent exists, it’s just that SOME useless girls won’t go out and take the opportunities that are already there,” declares @@RANDOMFEMALENAME@@, a venture capitalist renowned for her cut-throat business style, as she breaks wind loudly and scratches at her unshaved armpits. “Too many teenage ‘princesses’ think that it is unfeminine to be ambitious. If they prefer to associate self-worth with personal grooming and fashion rather than intellect and financial success, then they deserve what they get. Don’t patronise an entire gender, @@LEADER@@; just let individuals rise and fall according to their own merits.” [[color=blue]Must have private industry[/color]]
+
+*4. “Women’s talent exists, it’s just that SOME useless girls won’t go out and take the opportunities that are already there,” declares @@RANDOMFEMALENAME@@, a State Director renowned for her cut-throat career ambitiousness, as she breaks wind loudly and scratches at her unshaved armpits. “Too many teenage ‘princesses’ think that it is unfeminine to be ambitious. If they prefer to associate self-worth with personal grooming and fashion rather than intellect and advancement in the Party hierarchy, then they deserve what they get. Don’t patronise an entire gender, @@LEADER@@; just let individuals rise and fall according to their own merits.” [[color=red]Must not have private industry[/color]]
+
+5. “Uh... I don’t really like to be the token male voice here,” whispers token male voice @@RANDOMMALENAME@@, “but the reason I got into maths was the same reason I got into wargames, model trains and chess club. I’d rather do guy things with guys! Can’t you instead encourage this positive trend? Give student grants to men who study male courses, like maths and engineering. You can give grants to women for female subjects, like knitting, drama and so on. That’d be equal, right?”
+
+-------------------------------------------------------------------------------
+[b][anchor=949]#949[/anchor]: Jailhouses Rocked! [Altmer Dominion; ed: Nation of Quebec][/b]
+
+The Issue
+A controversial concert at the nation's largest penitentiary headlined by guitarist Ronnie @@CURRENCY@@ went awry after he began playing his newest song, '@@CAPITAL@@ Prison Blues'. Buoyed by the anti-establishment message, the inmates became increasingly rowdy, resulting in a massive cell block riot. Inmates across the country have followed suit, with nationwide prison riots plunging the system into chaos.
+
+The Debate
+1. "@@DEMONYMADJECTIVE@@ prison guards need immediate support!" gasps @@RANDOMNAME@@, head of the @@DEMONYMADJECTIVE@@ Department of Corrections. "We're being completely overrun! There's no way we can contain these riots with our current personnel numbers! I don't care if you need to take police off the streets: if something isn't done, we're going to have multiple prison breaks on our hands!"
+
+*2. "That won't be enough!" booms General @@RANDOMNAME@@, entering your office with a firing squad behind @@HIM@@. "We can't afford to hold back. At this point, these inmates should be considered enemy combatants... and will be dealt with extreme prejudice. Soldiers are waiting at the ready. Just give the order. In fact, we ought to keep this practice in place once the situation has been dealt with." [[color=blue]Must not have capital punishment[/color]]
+
+*3. “That won’t be enough!” booms General @@RANDOMNAME@@, entering your office with a firing squad behind @@HIM@@. “We can’t afford to hold back. At this point, these inmates should be considered enemy combatants… and will be dealt with extreme prejudice. Soldiers are waiting at the ready. Just give the order.” [[color=red]Must have capital punishment[/color]]
+
+[4]. "My engineers have you covered," confidently advertises @@RANDOMNAME@@, founder of the start-up tech firm Optical Experiments. "The nation's correctional facilities are long overdue for an upgrade. With proper surveillance, automated sentries, high-grade lasers, et cetera, that pesky human factor will be swiftly eliminated. In more ways than one, of course." [[color=purple]Must have substantial scientific advancement and/or information technology[/color]] [???]
+
+5. "A non-violent solution is still perfectly attainable," beams @@RANDOMNAME@@, head of a parental watchdog group. "If that detestable musician had never thought to poke the @@ANIMAL@@'s nest, none of these riots would have occurred in the first place. That type of music is too much trouble for its own good, wouldn't you agree? If their inspiration is removed, inmate riots will naturally lose motivation."
+
+6. "Perhaps y'all should have listened to the concerns of these inmates," sarcastically ponders Ronnie @@CURRENCY@@, having been taken in for questioning. "That prison was a powder keg. Something was gonna to happen. I just happened to be the spark. It's never too late to make a difference. Sit down with both sides, and shut up and listen. Let these inmates' voices be heard and let them control the conversation for a change."
+
+-------------------------------------------------------------------------------
+[b][anchor=950]#950[/anchor]: Borderline Pandemic [Singapore no2; ed: Nation of Quebec][/b]
+
+The Issue
+A mysterious new illness has broken out in a bordering nation. Reports claim it is highly contagious and incredibly lethal. Unfortunately, there is no known cure or vaccine for the disease at the moment, and the head of Border Control is considering restricting the entry of that nation’s citizens into @@NAME@@.
+
+The Debate
+1. “Papers, please!” shouts the beleaguered head of Border Control Ezic Arstotzka while examining a stack of entry documents. “That nation is guilty of very lax medical checks and borders that may as well be nonexistent. They might unknowingly send some people infected with this bizarre ailment to us. In order to reduce my worklo-, I mean, reduce the chance of transmission of this dangerous disease, we have no choice but to unconditionally reject all of their people. I’m sure that @@DEMONYMPLURAL@@ have taken all the necessary precautions, so we won’t have any problems allowing our citizens back home. Next!”
+
+2. “How rude!” gasps @@RANDOMNAME@@, the rather pale ambassador of the afflicted nation. “Firstly, we shall not tolerate any negativity whatsoever toward our proud governmental institutions. Secondly, we most assuredly have everything under control, so there’s really nothing to worry about. Thirdly, rejecting every single one of our citizens just because a few thousand of us have a slightly worse cold is honestly quite ridiculous. Last but not least-” @@HIS@@ verbal tirade is suddenly cut short as @@HE@@ doubles over from a severe coughing fit that also coats the floor in what seems to be blood.
+
+3. “Let’s not be too hasty about this,” suggests @@RANDOMNAME@@, the Minister of Health, as the ambassador is dragged out of the room. “Why don’t we screen every visitor with an immunoglobulin blood test, and only admit those who test as being clear of the disease? That way, we can prevent them from bringing their sickness into @@NAME@@. Better to be safe than sorry.”
+
+4. “Our citizens are in danger!” screeches @@RANDOMNAME@@, the absurdly paranoid Defence Secretary, speaking to you through a hazmat suit. “We must insist that all @@DEMONYMPLURAL@@ return home at once! Those that don’t are probably already infected and should be left for dead. All of those strange foreign countries with their strange diseases are an existential threat, so we must therefore shut our borders down permanently to save ourselves. Do it now! Do it before it’s too late!”
+
+-------------------------------------------------------------------------------
+[b][anchor=951]#951[/anchor]: The Wrath of the Fish King [Palos Heights; ed: Ransium][/b]
+
+The Issue
+To your horror, you woke up this morning with a thousand anchovy heads in your bed and a note from the insidious terrorist group called "The Cult of the Dammed". Citing lack of support for the fishing industry from the government, they are threatening to eradicate the wild @@DEMONYMADJECTIVE@@ fish populations if their demands are not met.
+
+The Debate
+1. Communicating via telecom to your office is the spokesperson for the Cult of the Dammed, Kelly Tizad, holding a sinister-looking frozen vial. "On behalf of our leader, the Fish King, we demand a total repeal of all fishing industry regulations and for the government of @@NAME@@ to relinquish control of all waterways to the Cult of the Dammed and our approved fisheries! Anything less than this and we will release a genetically engineered virus that shall see the end of aquatic biodiversity as you know it!"
+
+2. Up-and-coming military officer Captain Arthur Menthol immediately disconnects the monitor. "We do not negotiate with terrorists! Their boats will make excellent aquatic habitat, I say! Give me a few navy cruisers to seek out the boats of these terrorists. We will have them sleeping with the fishes and end this threat."
+
+3. "Have you lost your mind, Arthur?" retorts your Minister of Lightly-Fried Fish Fillets Gunther Knight. "How can we even consider such wanton slaughter? Genetically engineered viruses sound like the stuff of science fiction anyway; these terrorists are probably bluffing. Just in case, we could always keep a few of every species of fish found in Milostein breeding in captivity. That way, if they do follow through on their threat we can always restock our rivers and lakes."
+
+4. "That gives me an idea," ponders fishing mogul Gordon Silver. "Those cultists want to ruin our environment and tourism by killing our fish, so let's completely deny them the opportunity! Let's take all of the fish in the lakes and streams and put them in tiny fish apartments! In fact, we can charge people an admission fee to see our fish and frame it as a tourist experience!"
+
+-------------------------------------------------------------------------------
+[b][anchor=952]#952[/anchor]: Why the Long Face? [Saidoria; ed: The Marsupial Illuminati][/b]
+
+The Issue
+Records, legs, and necks were broken last weekend at the annual Magic Billions horse race after sixteen horses died due to injuries. Animal rights activists have called for the sport to be banned.
+
+The Debate
+1. “How would you like to be pumped full of drugs and made to run against your will?” whinnies activist Nomfundo Nxumalo, who gallops about you. “Horsies are innocent and defenseless, and you’re killing them for your own amusement! Say ‘neigh’ to horse racing and close down these gulags, and for the sake of our consciences, let’s subsidize animal shelters and veterinarian clinics!”
+
+2. “Get off your moral high horse,” jeers a bookmaker, sipping her mint julep. “Horse racing is the lifeblood of @@NAME@@, so we should be building more tracks and breeding more horses! The animals may get injured, but their mistreatment is overblown. Many people flock here to place their bets and give us money because of our lucrative racecourses. Why stop? Let’s keep ‘em running!”
+
+3. “So much cruel and useless death,” brays Professor Ungar, clutching a captive bolt gun. “Scientific advancement is more crucial than animal rights or gambling, and horses have a purpose to serve. Out of compassion, ban horse racing and let kind scientists like me take care of the thoroughbreds. I will treat them humanely in my experiments. We’ll find cures for diseases, and horses and humans will never suffer needlessly again!”
+
+-------------------------------------------------------------------------------
+[b][anchor=953]#953[/anchor]: The Ethnic Minority Report [Candlewhisper Archive; ed: Caracasus][/b]
+
+The Issue
+The National Office of Predictive Crime Patterns (Pre-Crime, for short) has been running analyses of murder, theft and other serious crimes in @@NAME@@, and has compiled a report noting that certain demographic groups - most notably young Bigtopian men - are up to twenty times more likely to commit crimes than the national average. As your security staff caught a Bigtopian intern trying to set fire to the report in your wastepaper basket, it may perhaps be time for action.
+
+The Debate
+1. “This is about efficient policing and prevention over punishment,” suggests slick-suited Pre-Crime Operations Chief @@RANDOMNAME@@, glancing at you suspiciously as @@HE@@ looks up from a print-out of your family tree. “Let’s focus existing surveillance resources on high-risk communities, maybe perform the odd stop-and-search, and carry out the occasional preventative intervention. I can guarantee you lower crime rates with no increase in police spending. That’s a good deal, and my analysts say you are 93.54% likely to take us up on it.”
+
+2. “That is the voice of unfounded institutional racism,” says Bigtopian ex-gang member turned youth outreach worker @@RANDOMNAME@@, waving a ball point pen at you in what seems to be an overly threatening manner. “Human beings are equal, and all should be treated equally by the law, with no individual or group singled out by the state. Why should we face police oppression just because of your prejudices?”
+
+3. “In my opinion, @@NAME@@ is under siege from ne’er-do-wells, and in a siege situation extreme measures are needed,” offers respected headmistress @@RANDOMFEMALENAME@@ McGonegirl. “These Slyth... er... I mean Bigtopians have proven themselves to be untrustworthy. We should make sure that they keep to their areas of @@DEMONYM@@ towns and cities, and only allow them back into civilised society after appropriate screening.”
+
+-------------------------------------------------------------------------------
+[b][anchor=954]#954[/anchor]: Varsity Blues [Carrasastova; Zwangzug][/b]
+
+The Issue
+After a group of colleges announced their intentions to establish student athletic programs and a fully-operating league, @@NAME@@ has been swept up in a wave of pep rallies and vigorous debate.
+
+The Debate
+1. “This gets an A from me,” says @@RANDOMNAME@@, self-proclaimed President of the @@NAME@@ College Athletics Association, while admiring some practicing footballers. “Allowing students to exercise their body as well as their mind prepares them for a fit and healthy life and makes them much more attractive candidates when seeking a job. After all, who wouldn’t want to draft a fit and muscular student?”
+
+2. “We’re not here to ogle over a bunch of dumb jocks,” flatly states @@RANDOMNAME@@, an undergraduate studying for a degree in public speaking. “This is merely a waste of money that would be much better spent on expanding libraries and academic facilities for all students. Why should we fritter away money on funding athletic programs when students can just as well achieve the same goals of exercise on their own? We must make sure that this trend is stopped dead in its tracks.”
+
+3. “I say, old sport, these fellows do have interesting proposals, but I have a much better idea!” proclaims @@RANDOMNAME@@, who waves around a fencing sword for dramatic effect. “We should leave money and professionalization out of all matters regarding sport. The very ideal of athletics is to play for the passion and romance of the game, not for petty paychecks or incentives.” @@HE@@ adds a flourish that forces you to duck out of the way of the sword.
+
+-------------------------------------------------------------------------------
+[b][anchor=955]#955[/anchor]: Can It! [Vincere Terrae; ed: The Free Joy State][/b]
+
+The Issue
+Mass-produced microwavable meals have become increasingly popular due to their convenience and low cost. However, the Skandilundian research group Meals for Sustenance and Gastronomy has warned that the dietary imbalance found in the nation's microwavable meals may be leaving @@DEMONYMNOUNPLURAL@@ at risk of malnutrition.
+
+The Debate
+*1. “This is truly embarrassing!” states physician Dr. @@RANDOMNAME@@, massaging @@HIS@@ temples. “We have become so reliant on these low-quality packaged meals that we have lost all perception of what good nutrition is! I suggest that we abolish fast food restaurants and these dreadful poor-quality ready-meals. Instead, we should encourage @@DEMONYMPLURAL@@ to enjoy cooking their own wholesome food with fresh produce.” @@HE@@ swats the bowl of [i]Ma Nature’s Truly Triglyceride Macaroni and Cheese[/i] out of your hands. [[color=blue]Must have private industry[/color]]
+
+*2. "This is truly embarrassing!" states physician Dr. @@RANDOMNAME@@, massaging @@HIS@@ temples. "We have become so reliant on these low-quality packaged meals that we have lost all perception of what good nutrition is! I suggest that we abolish fast food restaurants and these dreadful poor-quality ready-meals. Instead, we should encourage @@DEMONYMPLURAL@@ to enjoy cooking their own wholesome food with fresh produce." @@HE@@ swats the bowl of [i]Comrade @@LEADER@@'s Utilitarian Instant Noodles[/i] out of your hands. [[color=red]Must not have private industry[/color]]
+
+3. "Our problem is that the nation has lost any sense of fine ingredients!" declares chef @@RANDOMNAME@@, manager of @@CAPITAL@@'s finest eatery [i]The Gilded @@CURRENCY@@[/i]. "There's no need to ban the commercial food industry. You should merely ensure that manufacturers and chefs use better-quality ingredients. Once they have tasted food that's not filled with monosodium glutamate and E-numbers, they will be lining up at the door to taste all the fine cuisine @@NAME@@ has to offer. Such as the delights offered by my restaurant." @@HE@@ places a freshly-cooked deep-dish pizza in front of you.
+
+**4. Sniffing the air, a @@MAN_1@@ wanders into your dining room and picks up your spilled macaroni. “You gonna eat that?” @@HE@@ devours the soggy pasta with a satisfied sigh. “I really don’t see the problem with processed meals. Firstly, they are the most delicious thing ever. Also, they’re quick and easy to make, and cheap to buy. In fact, why do we need any other food? Whether you buy [i]Ma Nature[/i] or [i]Yums for Tums[/i], all microwavable meals are just so great! Why don’t we ban all other food production, and make @@NAME@@ the world capital for microwavable cuisine? It would be ravioli heaven!” [[color=blue]Must have private industry[/color]]
+
+**5. Sniffing the air, a @@MAN_1@@ wanders into your dining room and picks up your spilled noodles. "You gonna eat that?" @@HE@@ devours the soggy pasta with a satisfied sigh. "I really don't see the problem with processed meals. Firstly, they are the most delicious thing ever. Also, they're quick and easy to make, and cheap to buy. In fact, why do we need any other food? Whether you buy [i]Comrade @@LEADER@@'s Practical Porridge[/i] or [i]Comrade @@LEADER@@'s Anti-Capitalist Carbonara[/i], all our microwavable meals are just so great! Why don't we ban all other food production, and make @@NAME@@ the world capital for microwavable cuisine? It would be ravioli heaven!" [[color=red]Must not have private industry[/color]]
+
+-------------------------------------------------------------------------------
+[b][anchor=956]#956[/anchor]: The Bottom of the Gun Barrel [Singapore no2; ed: Candlewhisper Archive][/b]
+
+The Issue
+It’s harvest season and farms all over @@NAME@@ are starved of manpower. A sizeable proportion of able-bodied young adults have been conscripted into the army, leaving the agricultural sector unable to find enough temporary workers to pick fruit or work the fields.
+
+The Debate
+1. “We only have half a dozen employees to work four times that many acres,” moans @@RANDOMNAME@@, a citrus orchard manager, “and three of them don’t even know how to operate basic machinery. If you could exempt people who have experience working on farms from the draft, our sector will be saved. Remember, an army marches on its stomach, so supporting us will help the military as well.”
+
+2. “That’s not enough!” exclaims economist @@RANDOMNAME@@, marching into your office. “The military consumes resources but produces nothing. As you can see, it’s already causing detriment to productivity, and continuing to support it will eventually result in our entire economic infrastructure collapsing. I insist that you scrap conscription laws before our economy withers and dies!”
+
+3. “Insubordination!” yells General @@RANDOMLASTNAME@@, waving a fist in the air in agitation. “How can you suggest that we leave our borders defenceless? There is another available source of manpower that has been overlooked - the disabled and elderly can be made to work. The agricultural sector can put to rest any accusations of ableism or ageism, and we get to maintain our army size.”
+
+-------------------------------------------------------------------------------
+[b][anchor=957]#957[/anchor]: Putrid Predicament [Singapore no2; ed: Baggieland][/b]
+
+The Issue
+A sudden rise in the popularity of stinky foods has hit @@NAME@@. Increasing numbers of commuters are ferrying the offensive foodstuffs on public transport, clogging vehicles in an unpleasant stench and repulsing fellow riders.
+
+The Debate
+1. “They smell absolutely, utterly vile, @@LEADER@@!” complains @@RANDOMNAME@@, a regular commuter. “That bloody overpowering stench of stinky foods like that of durians can persist for several days, rendering enclosed spaces like trains or buses a horrible nightmare for commuters such as myself. You should prohibit all foul foods from being brought onto public transport, and spare our noses from this malodorous, agonizing assault.”
+
+2. “We haven’t even mentioned the danger that they pose!” adds the obsessive Minister of Public Safety, passing you an informative pamphlet on food safety. “Other putrid foods like mature bries can harbor mold that act as vectors for food-borne diseases, and durians have hazardously sharp spikes that can cause serious injuries. They pose major health risks towards our people that we cannot overlook! In order to prevent a public health disaster, we must banish every single one of these foodstuffs from our nation.”
+
+3. “This is simply unbelievable!” rages obscure food connoisseur @@RANDOMNAME@@, while handing out fermented tofu. “I’ll have you know that these redolent foods are a gift from the gods, and dismissing any of them because of their unique aromas is simply childish. Why should the gastronomic cognoscenti be denied such delectable delicacies due to a few overly sensitive neurotics? In fact, I think it is imperative you promote these foods as national dishes and have them served during state dinners.”
+
+4. “I believe that the ‘joys’ of stinky foods would be better appreciated on the battlefield,” mutters @@RANDOMNAME@@, the army’s Head Researcher, as @@HE@@ cracks open the husk of a durian with a sinister grin on @@HIS@@ face. “It is clear that their potent stenches are simply unparalleled in their power. If we were to extract, intensify, and mass produce each of the repulsive chemical compounds in the foodstuffs that cause this, then we would be able to employ them as chemical weapons against our adversaries! Nobody would stand in our way once we let them rip!”
+
+-------------------------------------------------------------------------------
+[b][anchor=958]#958[/anchor]: Pay No Attention to That Donor Behind the Curtain! [Nation of Quebec; ed: Nation of Quebec][/b]
+
+The Issue
+After several Party MPs and Cabinet Ministers refused to disclose their donor lists, an anonymous government source released the lists on the internet. To nobody’s surprise, the donors included several high society elites and foreign officials.
+
+The Debate
+1. “The fact that it took a leak to get this information out to the public is shameful in itself,” states corruption watchdog @@RANDOMNAME@@. “Politicians shouldn’t get to hide who is financing them. We the people deserve to know who’s filling the pockets of our politicians, especially during elections. That way we can see who’s really pulling the strings of our politicians! We, the people, demand full transparency from our elected officials.”
+
+2. “What about my right to privacy?” replies a woman wearing a fake mustache who looks suspiciously like the Supreme Leader of Blackacre. “Ever since those donor lists were released, I’ve been harassed to the point that I’ve had to change my Twitcher handle! There’s a reason why these lists are kept secret. Please, @@LEADER@@, I implore you to protect the identities of all political donors.”
+
+3. “Imagine how much less corruption there’d be if we simply regulated political donations,” suggests @@RANDOMNAME@@, a political science professor. “Money tends to corrupt, and absolute money corrupts absolutely. If we only allowed small donations of less than one hundred @@CURRENCYPLURAL@@ from private @@DEMONYMADJECTIVE@@ citizens, we’d have politicians who are beholden to the people, not the bigwigs.”
+
+4. “I think the real problem here is how this ‘source’ was able to get this information,” comments your Public Safety Minister, who frequently reminds you to change the password of your government accounts. “We’ve gone all digital these days. That makes it all too easy to drop terabytes of top secret information on WikiSpills, or walk out with military documents on a USB drive. It’s time we went back to paper records under lock and key to store confidential government information. The environmentalists might not like it, but I’d like to see a leaker walk out here with a big filing cabinet!”
+
+5. “The problem isn’t how, but why and who,” rebuts @@RANDOMFIRSTNAME@@ Tightlips, your most loyal staffer. “We need to weed out any leakers and staffers who are disloyal to you. Monitor the communications of every government employee and have them sign loyalty pledges. The guilty party will have no choice but to confess!”
+
+-------------------------------------------------------------------------------
+[b][anchor=959]#959[/anchor]: A-Major Debate [Candensia; ed: Ransium][/b]
+
+The Issue
+One of your advisers was caught referring to music education as “non-essential curriculum”. @@HIS@@ comment has struck a chord, resulting in a chorus of suggestions for music education reform.
+
+The Debate
+1. “The notion that music programs are anything less than vital is nothing but treble- I mean trouble!” declares world-famous composer and local middle school orchestra director, @@RANDOMNAME@@. “This dissonant discourse not only puts the jobs of hard-working @@DEMONYMPLURAL@@ at risk, but it also threatens the musical futures of our children! The school curriculum must include an emphasis on musical knowledge that all students will be required to participate in. Sure, strings do come attached — it won’t be cheap to buy musical instruments for every boy and girl in @@NAME@@ — but @@DEMONYMADJECTIVE@@ musical tradition is on the line here!”
+
+*2. “Now that’s just nonsense!” barks local high school basketball coach @@RANDOMNAME@@. “Students learn far more from any sport than they do from playing little magic flutes. Youth are only properly taught discipline, determination, and decision-making skills from the challenges of playing on a team. As far as I’m concerned we should just save ourselves some money and cut music ed from the curriculum. After all, band geeks’ only purpose is to put people on the sidelines to cheer us on.” [[color=purple]Sports are practiced in school[/color]]
+
+*3. “All well and good,” states your Education Minister, whose favorite song is widely known to be mute, “but the fact of the matter is the education budget is going to be in the red next year. Would you prefer to cut funding for something useful, like math or language arts, or students banging on instruments and making loud noises?” [[color=purple]Sports are not practiced in school[/color]]
+
+[4]. “Maybe the age of traditional music education is on a decrescendo,” states well-known sci-fi author @@RANDOMNAME@@. “However, music programs can be saved thanks to science! All that’s needed is a more... electronic approach. It’s clear that electronic instruments and music-mixing computer programs must replace their baroque counterparts. Just imagine this: instead of renting saxophones, students can do it all in the computer labs we already have!” [[color=blue]Computers are legal[/color]]
+
+5. “That misses the point entirely,” yells famed Drill Sargeant Hardman, while jogging by with a platoon of soldiers belting out military cadences behind him. “The only reason why schools exist is to make loyal, productive citizens out of @@DEMONYMADJECTIVE@@ children. In this regard, music education has been taught entirely in the wrong key. The curriculum should be revised with the goal of accentuating patriotic values in mind! Students should be required to learn and sing the nation’s praises, including our national anthem!”
+

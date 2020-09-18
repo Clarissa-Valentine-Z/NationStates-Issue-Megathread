@@ -1,0 +1,331 @@
+0151 TO 0175
+[b][anchor=151]#151[/anchor]: Build Bigger Bombs, Advise Scientists [Benevolent Nations; ed: Sirocco][/b]
+
+The Issue
+Top military designers in your secret laboratories have proposed projects to create nuclear, biological, and chemical weapons and are looking to you for government support and funding.
+
+The Debate
+1. "This is a necessary step towards the creation of a safer @@NAME@@," claims @@RANDOMNAME@@, the leading researcher. "Yes, it will mean large areas of land will become unusable as a result of the testing, and it will cost billions of @@CURRENCYPLURAL@@, but that's the price we must pay for our national security. Just think of the power we will have if we can turn our enemies into plate glass!"
+
+*2. "Why stop with making weapons for ourselves?" asks @@RANDOMNAME@@, CEO of Wendy's Weapons stores. "We can sell them to all sorts of groups and organisations: other nations, the WA, terror- uh - freedom fighters, anyone! And we produce our own for our protection. Think of the money we can make! I'm sure none of our clients would ever even think of trying to use them to influence our government with threats or anything like that!" [[color=blue]Must have private industry[/color]]
+
+*3. “Why stop with making weapons for ourselves?” asks @@RANDOMNAME@@, Minister of State Exports. “We can sell them to all sorts of groups and organisations: other nations, the WA, terror- uh - freedom fighters, anyone! And we produce our own for our protection. Think of the money we can make! I’m sure none of our clients would ever even think of trying to use them to influence our government with threats or anything like that!” [[color=red]Must not have private industry[/color]]
+
+4. "You want to bring NUKES into @@NAME@@?!" screams anti-nuclear protestor, @@RANDOMNAME@@. "This won't make us safer - it will just give the power to destroy everything to a few people! We must hunt down the people who suggested this evil plan and have them hanged! We must protect nature from the horrible influences of science. I say ban all new weapons research!"
+
+-------------------------------------------------------------------------------
+[b][anchor=152]#152[/anchor]: A Capital Idea [Hestrael; ed: Sirocco][/b]
+
+The Issue
+A crowd of penniless ex-businessmen have amassed in @@CAPITAL@@, demanding that the government return all the nationalised industry to private control.
+
+The Debate
+1. "GREED IS GOOD!" bellows @@RANDOMNAME@@, a famous advocate of capitalism. "The economy is stagnating terribly under government control. Complete privatisation is the only option here. It's time to give power back to the people! Well, rich people, anyway..."
+
+2. "This is outrageous!" cries armchair revolutionary @@RANDOMNAME@@. "The government must maintain the principles of equality and socialism that we fought so hard for, and not sell the country to corrupt and greedy corporations. We must eject these shameful capitalists from our great nation at once!"
+
+3. "Hey, aren't we all being a little extreme about this?" says noted economist, @@RANDOMNAME@@. "Surely we could just keep the key industries, such as the electricity and water supplies, under government control and lessen the regulations on the others so they could function more independently? That way, the people can't complain that they are at the mercy of big business, and industries such as retail can function more effectively."
+
+-------------------------------------------------------------------------------
+[b][anchor=153]#153[/anchor]: Protesters Have Gone Too Far, Claim Police [Utopian Gandhism; ed: Sirocco][/b]
+
+The Issue
+A group protesting against the @@DEMONYMADJECTIVE@@ government began a riot yesterday which resulted in the death of Mr. Benson, a police officer.
+
+The Debate
+1. "This is an outrage!" cries Police Chief @@RANDOMNAME@@. "The people of @@NAME@@ just don't know how good they have it! Our nation is a gem compared to many others, but if you give an inch they will take a mile. I had to tell officer Benson's wife yesterday that their child will grow up without a father. Do I think public protests should be outlawed? You're damn right I do."
+
+2. "It all happened so fast," says @@RANDOMNAME@@, one of the protesters. "The crowd was just chanting, you know... and then they tear gassed us. I saw one cop, this Mr. Benson, club a teenager right in the face! For what? Speaking his mind! That's when the crowd rushed him. I'm sorry he's dead, but the police think they have a right to do whatever they want - things get out of hand sometimes. I think the police department should keep out of the way when we're protesting - even if things do get... excited."
+
+3. "It's because protests get out of hand sometimes that we need a police presence," argues PC @@RANDOMNAME@@ eventually after singing the national anthem to you. "Even violent protestors have a right to feel safe on the streets. If that means we have to die to protect the innocent, then that means we have to die. I think protests should be restricted to a designated area where police can keep an eye on the protestors. Then everything can go nice and smoothly and no one will have to worry about being beaten to death."
+
+-------------------------------------------------------------------------------
+[b][anchor=154]#154[/anchor]: Ban The 'Boards, Say Pedestrians [HappyFluffyBunnies; ed: Sirocco][/b]
+
+The Issue
+The conservative Northern-based parents group of "Housewives and Convicts for a Safer @@NAME@@" has put forward a memorandum to ban skateboarding in public.
+
+The Debate
+1. "Skateboarding is a menace to pedestrians and road users," says activist @@RANDOMNAME@@. "Not to mention the astronomical number of skateboarding-related injuries - hundreds of children flood the emergency rooms of @@NAME@@ as a result of skateboarding every year, which is costly to the taxpayers. Keep our streets safe and save a little cash at the same time. Hell, you could make even more money by ticketing those who violate this law."
+
+2. "Ticketing children for getting out of the house and exercising?" asks @@RANDOMNAME@@, a school teacher, in disbelief. "That's outrageous! It's true that skateboarding can be dangerous but so is walking down the stairs! You want to ban that too?! What we should do is pass laws requiring safety equipment for skaters - if we allocate a little bit of the tax payers' money to the cause, we can build a skate park that will keep our children safe and away from others on the road too."
+
+3. "Yo, dude, I've got a better idea," says @@RANDOMNAME@@ while executing a complicated 360° spin over your head. "What if skateboarding was the only way to get around? Wouldn't that be cool? Skateboarding is cheap, healthy, and fun! Everyone should do it! You could improve, like, the quality of life for everyone by banning vehicles and making skateboarding the only legal way to travel. People'd love you for it, man. Well, apart from the guys who make cars and the like, I guess."
+
+-------------------------------------------------------------------------------
+[b][anchor=155]#155[/anchor]: Curfew Meets Minor Opposition [Daedor; ed: Melkor Unchained][/b]
+
+The Issue
+In order to curb youth-related crime, the police have suggested a national curfew.
+
+The Debate
+1. "The youth-related crime statistics in @@NAME@@ are appalling," says police chief @@RANDOMNAME@@. "If kids can't go out at night, they won't have any opportunity to roam around in their baggy pants and backwards hats mugging the elderly and causing a general ruckus. Just last night I had to run down some punk who tried to steal a mailbox right off the post! This is getting ridiculous. Sure, it'll require more funding, but think of all the mailboxes we'll save! Our youth need to spend the wee hours sleeping or studying--not out gallivanting with their friends."
+
+2. "I'm not a criminal just because I'm seventeen!" shouts honors student, @@RANDOMNAME@@. "Yeah, I like to go out partying, but I'd never hurt anybody! Besides, we've already got enough problems with these pigs breathing down our necks. If anything we need MORE freedom. It's time for the government to step up to the plate and tell these power hungry swine to stop cramping our style!"
+
+-------------------------------------------------------------------------------
+[b][anchor=156]#156[/anchor]: Waste Going To Waste, Says Industry Lobby [DeFranzania; ed: Reploid Productions][/b]
+
+The Issue
+@@NAME@@'s industries have an ever-growing amount of toxic wastes to dispose of, and doing so in safe ways is becoming prohibitively expensive, leading a group of lobbyists to try and pressure the government into changing existing disposal laws.
+
+The Debate
+1. "These waste dumping laws are destroying our businesses!" rants @@RANDOMNAME@@, head of the @@NAME@@ Bigger Business Bureau. "We need cheaper ways to eliminate industrial by-products, which really aren't as harmful as people think, such as pouring them into rivers or deep ocean ravines where they're harmless to us. Let's remember that the products we manufacture make your life easier and more fun!"
+
+2. "A better way to deal with this problem is to convince the public it isn't a problem at all," whispers @@RANDOMNAME@@, head of Scamcorp, an industrial think tank. "Fudge some research, declare that the chemical by-products from industrial processing and production actually make one's teeth and bones healthier. Then, sell them to municipalities to add to their drinking water! Yes! This will not only save us the trouble of disposing of the waste correctly, we'll be able to sell it at a profit! I can taste the money already!"
+
+3. "These corrupt, money-hungry corporations are only looking out for themselves and their bottom line!" says @@RANDOMNAME@@, an environmentalist from northern @@NAME@@. "The government needs to enact stricter laws for how these companies can dump their waste safely, and when they poison @@NAME@@'s people and environment, the government needs the authority and manpower to enforce harsh penalties! These companies make their messes, they should pay to clean them up!"
+
+-------------------------------------------------------------------------------
+[b][anchor=157]#157[/anchor]: Sergeants Are Too Nasty, Say New Recruits [Mirkai; ed: Sirocco][/b]
+
+The Issue
+A haggard group of new recruits in @@NAME@@'s army have spoken out against the brutal conditions experienced in their military training.
+
+The Debate
+1. "It's atrocious!" wails Private @@RANDOMNAME@@, from amidst the cacophony of a parade cadence. "We're forced to sleep in crowded barracks, on hard cots, and do the most inhumane exercises when we wake up! Just today I've had to crawl through a muddy minefield, climb a grease-coated wall, and to top it all off, get mangled by an angry drill sergeant! All we want is a little respect from the officers - maybe to sleep in until noon, and not have to get all sweaty and tired doing stupid things like marching and climbing ropes. Oh, and private bedrooms too - we're risking our lives for the country, after all."
+
+2. "THEY WANT WHAT?!" screams Sgt. Burkz, while pressing back a rising vein on her neck. "This is WAR, not DAYCARE! If anything, the training standards should be tougher! If I want to whip some pasty-faced, beer-gutted greenhorn because he can't climb over a razor-wire fence then I should be be given the permission to do so right away! The cry-babies won't like it, but they can run home back to their rich daddies if that's the way they're having it. War isn't a walk in the park, and training shouldn't be either. For all our sakes."
+
+3. "Training, what a load of old hooey," says renowned spendophobe and radio announcer, @@RANDOMNAME@@. "The only thing it teaches our soldiers is how to shine boots and fight plastic dummies. We'd be better off if we just dropped them into the fight so they could learn to shoot for themselves. There might be a few accidents, but it'll be worth it for all the @@CURRENCYPLURAL@@ we'll save."
+
+4. "There is another way, you know..." whispers @@RANDOMNAME@@, the Chief of Secret Projects and Shiny Things in @@NAME@@'s military research department. "What if we started taking children and raising them from birth to fight? We'd be able to make them completely immune to propaganda, psychological warfare, and demoralisation. Not only would that stop the crying new recruits, it'd also give us a powerful military edge. People may not like giving up their kids, but that's why we run the country. We know better."
+
+-------------------------------------------------------------------------------
+[b][anchor=158]#158[/anchor]: Regarding Robbers' Rights [Robmuirpoems; ed: Sirocco][/b]
+
+The Issue
+The Household Defence Alliance is lobbying for the right to kill anyone who trespasses on private property.
+
+The Debate
+1. "We must take a stand against burglars and looters entering our property," explains HDA President, Catherine Gratwick, while digging a moat around her house. "We should be able to rip their guts out with a machine gun, no questions asked. If they want rights they should have considered the poor sod they were robbing."
+
+2. "Even burglars have human rights," says @@RANDOMNAME@@, while thieving a pen from your pocket. "And we don't deserve to be shot for trying to make our way in the world. People are far more important than property, I hope you agree! Why attack a burglar? That's the job of the coppers! I think anyone injuring anyone else should be severely punished with no excuses about trespassers or defending your property. Or yourself."
+
+3. "Hey, let's not be hasty!" cautions @@RANDOMNAME@@, an anti-gun protester. "I'm not for riddling burglars with bullets either, but I do want to protect my family! I think it would be a lot more sensible if we allowed homeowners to attack burglars, but not with guns. In fact it would be even better if we just banned guns while we're at it."
+
+-------------------------------------------------------------------------------
+[b][anchor=159]#159[/anchor]: Think Tank Proposes Privatised Prisons [Yejuda and Shomron; ed: Sirocco & Myrth][/b]
+
+The Issue
+In response to increasing costs of running state prisons, several government advisors have suggested allowing the private sector to play a greater role in managing @@NAME@@'s correctional facilities.
+
+The Debate
+1. "@@NAME@@'s prisons are in a ghastly state," says @@RANDOMNAME@@, representative for several large businesses. "The state now pays a fortune in @@CURRENCYPLURAL@@ each day for every prisoner. My clients will be able to operate the prisons more efficiently and charge the state far less than they're having to pay now. With our help, those in jail will be able to get themselves jobs to do and the government can imprison as many people as they like!"
+
+2. "This is just another scheme by multinational corporations to turn our great nation into a corporate dictatorship!" claims @@RANDOMNAME@@, of the Social Justice League of @@NAME@@. "Just say NO to privatised prisons. We should be closing them all down so we can begin focusing on rehabilitation anyway!"
+
+3. "Private prisons?! Rehabilitation?! How utterly ridiculous!" exclaims @@RANDOMNAME@@, @@NAME@@'s toughest police officer. "Both of these proposals will simply waste resources on the scum of society. I say that we should summarily execute all violent criminals and give their property to their victims."
+
+-------------------------------------------------------------------------------
+[b][anchor=160]#160[/anchor]: Truancy On The Rise [Nouvelle Quebecshiree; ed: Sirocco][/b]
+
+The Issue
+Parents and teachers alike have expressed concern to the @@NAME@@ Board of Education that truancy in schools is reaching alarmingly high levels, claiming that it's to blame for rising vandalism rates.
+
+The Debate
+1. "The truancy situation is just getting worse and worse," says @@RANDOMNAME@@, the chair of a local PTA group. "We've got children in our schools who turn up for maybe a couple of classes a week. It's getting ridiculous! They can't learn if they don't turn up. The government must introduce some sort of special truancy patrol in the police force. Controlled by us, of course."
+
+2. "WHAT KIND OF WORTHLESS IDEA IS THAT?!" bellows General @@RANDOMNAME@@, the Head of the @@NAME@@ Military Academy, while turning a brilliant beetroot-red. "What these troublesome brats need is a good term in military school. I'll straighten 'em up, alright. NOW DROP AND GIVE ME FIFTY!"
+
+3. "I really don't see what the problem is," says student @@RANDOMNAME@@, smoking an odd smelling substance. "I mean, so what if I only go to school three to four days a month? It means I'm able to work full-time, which probably benefits the economy or... yeah, something like that. The government should just back off, man."
+
+-------------------------------------------------------------------------------
+[b][anchor=161]#161[/anchor]: Where There's A Will There's A Tax [Rehochipe; ed: Sirocco][/b]
+
+The Issue
+After the vast fortunes of a recently deceased oil tycoon in @@NAME@@ were left to a small cactus plant, citizens nationwide have been asking the same question: should the inheritance tax laws be changed?
+
+The Debate
+1. "Every time I see a stupid rich kid having an easy ride of life with money they did nothing to deserve, I go into a jealous rage and start punching walls," says economically disadvantaged individual @@RANDOMNAME@@. "Abolish inheritance entirely! If the government takes the inheritance then we can spend all that cash on things that make ordinary people's lives better, like education, social welfare, and attack helicopters."
+
+2. "This is a disgusting breach of my human rights," says @@RANDOMNAME@@, heir to an international widget empire. "Just think of all the poor families who have spent their lives scrimping and saving with the dream of passing on a modest luxury yacht to ensure the security of their children's children. All that sacrifice, all that toil, all those long nights working their fingers to the bone setting up offshore accounts - it brings a tear to my eye. Inheritance tax has got to go!"
+
+3. "Surely we can arrange some sort of compromise here," says comfortable knitwear fan @@RANDOMNAME@@. "Yes, it's true that some people exploit the system - but a lot of people rely on inheritance for their basic support! Why don't we just set a sensible ceiling on how much you can inherit? That way you get to keep the family farm, but not the five mansions and the oil refinery."
+
+-------------------------------------------------------------------------------
+[b][anchor=162]#162[/anchor]: Animal Experimentation Laws Under Scrutiny [Voroziniya; ed: Sirocco][/b]
+
+The Issue
+Scientists and animal rights activists have once again brought up the debate over animal experimentation to your attention.
+
+The Debate
+1. "What have those poor, defenceless animals ever done to us?" asks @@RANDOMNAME@@, owner of the East @@NAME@@ @@ANIMAL@@ Sanctuary. "Kidnapping these helpless creatures from their habitat simply to stick probes and needles in them is just barbaric! How would you like it if someone caged you in a lab and conducted tests on you just to find out whether a new product was fit for sale? Experimenting on animals ought to be banned!"
+
+2. "It is not unethical," replies Dr. @@RANDOMNAME@@, the chief surgeon at @@NAME@@'s largest Cancer Research Clinic. "The unethical thing to do would be to deny the public of the benefit of the great scientific advancements we're making! If we have to sacrifice some animals in the name of science, healthcare, or a commercial venture, then that's just what we've got to do! Think of the lives we could save! All we require is more government support and funding for this worthy cause."
+
+-------------------------------------------------------------------------------
+[b][anchor=163]#163[/anchor]: Referenda: Are they Right For @@NAME@@? [Ideal State; ed: Melkor Unchained][/b]
+
+The Issue
+After the Parliament of @@NAME@@ recently passed a controversial law that polls have shown to be very unpopular with the public, a group of concerned citizens has called for mandatory referenda for all laws passed before the state.
+
+The Debate
+1. "We want real democracy, and we want it now!" proclaims @@RANDOMNAME@@, spokesperson for special interest group 'Direct Democracy Now!' "The fact that this latest law went through has proven that voting for a Parliament every four years is obviously not enough. Laws must be passed by the masses - that is the only way we can be sure that the will of the people is truly being enforced! We must have mandatory referenda for ALL new laws."
+
+2. "Don't listen to these demagogues!" implores one of your top advisors, @@RANDOMNAME@@. "This is a ridiculous and dangerous idea! Referenda are costly and inefficient, and a direct threat to the fine institution that is our Parliament. What do you think we have the Parliament for anyway? Our citizenry nowadays don't know what's good for them. They're too busy milling around at the mall and buying sneakers WITH LIGHTS IN THEM. More control needs to be given to our qualified, intelligent--and most of all INFORMED--politicians."
+
+3. "Referenda are a good idea in principle, but to make them mandatory for each and every law is simply impractical," states Political Scientist @@RANDOMNAME@@. "Representative democracy exists because direct democracy would never work in practice in a large society such as @@NAME@@. Just think of all the bureaucracy and expense that would go into it! I suggest that referenda be allowed, but only if at least a third of voters sign a petition requesting one. That should be a nice balance between democracy and practicality."
+
+-------------------------------------------------------------------------------
+[b][anchor=164]#164[/anchor]: Licence To Breed? [Kazcaper; ed: Sirocco][/b]
+
+The Issue
+Increasing reports of child abuse and neglect in @@NAME@@ has prompted local pressure groups to call for 'parental licences'.
+
+The Debate
+1. "You need a licence to keep @@ANIMALPLURAL@@ or drive a car," points out local current affairs commentator, @@RANDOMNAME@@. "So why should just any random idiot get to be a mother or father? It just doesn't make sense! If all potential parents had to pass tests to prove they're responsible enough, I'm sure you'd find that it would help decrease the level of child abuse, and increase proper discipline in the home."
+
+2. "This is madness!" screams @@RANDOMNAME@@. "You can't deny perfectly good people the right to bring life into this world! @@ANIMALPLURAL@@ manage it easily enough, and you can't tell me they've got more responsibility than your average upstanding citizen of @@NAME@@! The government should keep out of such matters - I've always said social workers and welfare was a drain on the budget. Yes, there will be some sad cases of neglect, but shouldn't we be giving parents the benefit of the doubt?"
+
+3. "The answer to this problem is patently obvious," says @@RANDOMNAME@@, your minister of Social Welfare. "The government simply needs to give more funding to the welfare department so that we can recruit more social workers to carry out regular checks on parents and judge whether or not they're doing a good job of looking after their children. It'll be expensive, but at least it's a damn sight fairer than licensing parents."
+
+-------------------------------------------------------------------------------
+[b][anchor=165]#165[/anchor]: Wedlock Worries [Ice Hockey Players; ed: Sirocco][/b]
+
+The Issue
+After a recent article in [i]Salutations![/i] magazine highlighted a growing trend in arranged marriages throughout @@NAME@@, several civil rights protesters have camped outside your parliament demanding changes to the law.
+
+The Debate
+1. "This can't go on!" exclaims @@RANDOMNAME@@, a long time campaigner for the rights of single young women. "Right now there's nothing to stop my parents marrying me off to anyone they please! Surely it ought to be the sole decision of the individual as to who they spend the rest of their life with? You can't just force two people together and expect it to work! Arranged marriages must be banned!"
+
+2. "I only want what's best for my daughter," argues Cyril Duckworth, father of three. "She's young! Far too young to know what's good for her! Everyday when I look in the newspaper I learn of another unwanted teen pregnancy, of poor, sad adolescents who have gone down the slippery slope of drugs and violence. If parents have the power to arrange marriages with other, respectable, wealthy families, then it helps set the foundations for our children to have a decent life! I propose that all marriages should be arranged by the parents of the families - it's the best way."
+
+3. "That's crazy!" says @@RANDOMNAME@@, your Minister of Domestic Affairs. "Everyone knows that the people who screw your life up most are your parents! And now you consider letting them to decide who you marry?! I think we, the government, should arrange all marriages by national census. Distribute everyone to a place and person in an economically stimulating way - why, we'd solve the housing problems just like that! Especially if we dismiss outmoded things like divorce and monogamy! This could be a golden opportunity for us."
+
+-------------------------------------------------------------------------------
+[b][anchor=166]#166[/anchor]: Vote For 'None of the Above'? [Kamikachidonia; ed: Reploid Productions][/b]
+
+The Issue
+A loose coalition of political activists running the gamut of the political spectrum has started a petition to add 'None of the Above' as an option on every ballot, so that a voter can reject all candidates if he feels none of them represent a viable option. If 'None of the Above' wins the election, a new election with all-new candidates would have to be held.
+
+The Debate
+1. "It's a simple matter really," says left-wing activist and former rock star @@RANDOMNAME@@. "Sometimes when you're voting, all the options suck. Why then should people be forced to hold their nose and vote for the lesser of two, or even three or four evils? Adding 'None of the Above' to the ballot would ensure that the people have a choice at all times, even if that choice is to reject the choices they have been given!"
+
+2. "Adding 'None of the Above' to the ballot makes absolutely no sense," contributes conservative political pundit @@RANDOMNAME@@. "Those who want to run for office have already put their names on the ballot, and if none of those options suits the voter, that's just too bad. Instead, we ought to prevent this sort of problem and limit the number of options. Sure, fewer people can run, but that will eliminate costly runoff elections completely!"
+
+-------------------------------------------------------------------------------
+[b][anchor=167]#167[/anchor]: Fluoride Controversy A Toothy Problem [Enlightened Harmony; ed: Sirocco][/b]
+
+The Issue
+Recent reports revealing that the dental health of @@NAME@@ is far below the regional average have ignited a fierce debate over whether to introduce fluoride to the nation's tap water reserves.
+
+The Debate
+1. "Fluoride has been shown time and time again to promote dental health," argues Dr. Edwin Namel, Chairperson of 'Friends of The Teeth'. "It's not an experimental drug for heaven's sake, it's an accepted method of promoting national good health. A nationwide program for the fluoridation of drinking water should not be seen as optional - it's a no-brainer for any sensible government. We need to implement this now, whether the public want it or not."
+
+*2. "I am strongly against this proposal!" rages @@RANDOMNAME@@, one of the more vociferous members of the @@NAME@@ Green Society. "When I turn on the water tap I expect to get just that. Water. Nothing else. We are not lab rats and it is not the government's place to force us into taking these chemicals! In fact I reckon we should put the brakes on all these new chemicals doctors keep pumping into people and give us the right to say no!" [[color=blue]Drugs are not being dumped into the water supply[/color]]
+
+*3. "I am strongly against this proposal!" rages @@RANDOMNAME@@, one of the more vociferous members of the @@NAME@@ Green Society. "When I turn on the water tap I expect to get just that. Water. Nothing else. We are not lab rats and it is not the government's place to force us into taking these chemicals! And you know it's not just fluoride being added to the water, right? I reckon we should put the brakes on all these new chemicals the government keep pumping into people and give us the right to say no!" [[color=red]Drugs are being dumped into the water supply[/color]]
+
+4. "There's no need to go to either extreme," says @@RANDOMNAME@@, your personal dentist. "It's all about, um, choice. Here's a nice alternative: why not just have clean non-fluoridated drinking water and give more funds to dentists? If we had enough money, we could make all dental care absolutely free! It will be demanding on the taxpayers I know, but they'll surely be happy when they all have sparkling white teeth!"
+
+-------------------------------------------------------------------------------
+[b][anchor=168]#168[/anchor]: @@NAME@@ Plagued By STD Epidemic! [Eta Carinae; ed: Reploid Productions][/b]
+
+The Issue
+A medical report has detailed a twenty-fold increase in infection rates over the past ten years of the sexually transmitted disease VODAIS (Viral Overactive Dysfunction of the Auto-Immune System). People all over the nation are petitioning that the government do something about the epidemic.
+
+The Debate
+1. "This situation is about to explode. At this rate, this epidemic could severely impact our economy, our way of life, and even our government," says Doctor @@RANDOMNAME@@. "We must supply powerful drugs to all infected people, even if we have to produce and distribute it ourselves. We must also educate people on the dangers of VODAIS and supply condoms to all sexually active males. Sure, we'll need to divert tax money from the military to fund all this, but what good is a military if the soldiers are too sick to fight?"
+
+2. "If you supply condoms, you'll increase sexual promiscuity," scoffs religious leader @@RANDOMNAME@@. "If you supply drugs, you'll risk creating an aura of invincibility which in turn increases sexual promiscuity. Sexual abstinence is 100% effective in preventing VODAIS infection. This knowledge must be taught at all schools and workplaces, and all other choices must be ridiculed. Make celibacy the only option!"
+
+3. "Supplying drugs and condoms will not stop VODAIS infections and forcing everyone to be celibate will be the slow death of @@NAME@@," whispers Health Minister @@RANDOMNAME@@ in a poorly-lit back room. "Segregating the infected people is the most effective method. Everybody in @@NAME@@ must be tested for VODAIS. Then all the VODAIS positive people will be shipped to seperate gated communities away from the rest of us. If they need to mingle with uninfected people, then they must wear distinguishing badges that feature a Grim Reaper holding a skeletal @@ANIMAL@@."
+
+-------------------------------------------------------------------------------
+[b][anchor=169]#169[/anchor]: @@ANIMAL@@ Hunting Laws Under Dispute [Vigorithia; ed: Sirocco][/b]
+
+The Issue
+The fierce debate on @@ANIMAL@@ hunting in @@NAME@@ has been brought to your attention after vociferous supporters of both sides of the argument stormed your parliament.
+
+The Debate
+1. "@@ANIMAL@@ hunting is a cruel and horrible 'sport' for the wealthy," says @@RANDOMNAME@@ of the 'Protect Anything Cute and Furry Society'. "How can you possibly justify it? Oh, they witter on about 'tradition' and 'pest control' and other such nonsense, but really we all know it's because these sadists love to torture poor, innocent animals! Hunting must be banned!"
+
+2. "Banning @@ANIMAL@@ hunting would be the end for centuries of tradition!" wails esteemed aristocrat @@RANDOMNAME@@ from atop his steed. "The thrill of the chase, the baying of the hounds, the @@ANIMAL@@ scooting through the undergrowth - it would be a travesty! We provide much needed stimulus to the local tourism, and you can't deny that @@ANIMALPLURAL@@ are pests - killing farmers' livestock for example! I propose that @@ANIMAL@@ hunting be encouraged, for the cultural - and economic - benefit of the nation!"
+
+3. "Well, you know what I think?" asks @@RANDOMNAME@@, while helping to assemble a small trebuchet. "I reckon that the real issue about this sport is the cruelty aspect, and no-one can deny that sending a pack of dogs to tear apart a poor, innocent @@ANIMAL@@ is cruel. I reckon we should just ban hunting with hounds and only allow kinder and more instantly lethal methods like guns, tranquillisers, and cruise missiles."
+
+4. "I'm firmly against the slaughter of dumb animals," says @@RANDOMNAME@@, while feeding an infant @@ANIMAL@@ with a milk bottle. "It would be best if the animals didn't die, and hunters could still do what they love to do - how about instead of shooting them or sending vicious canines after them, the hunter runs up to his quarry and gives it a symbolic 'tap' with his hand? Now isn't that much nicer for everyone?"
+
+-------------------------------------------------------------------------------
+[b][anchor=170]#170[/anchor]: Deserts Devouring @@NAME@@'s Countryside [Goobergunchia; ed: Sirocco][/b]
+
+The Issue
+Due to desertification, the transition of habitable land to desert as a result of overcultivation and the increasing degradation of the environment, much of @@NAME@@'s once-green rural areas are turning into barren, rocky deserts.
+
+The Debate
+1. "This is a disaster," wails @@RANDOMNAME@@, your Minister of the Environment. "We've been too lax on letting the agriculture sector overgraze and overcrop our lands and now we're paying the price. There needs to be some serious cutback on what these companies are allowed to do, or before you know it we're going to be scaling sand dunes on the way to work."
+
+2. "'Ey there, you stupid townie, what about us?" shouts Farmer's Union Leader @@RANDOMNAME@@, waving a pitchfork from atop a combine harvester parked outside. "We's just goin' t' be tole we're out of a job? Tha' best way t' goes about this is t' promote stuff like that there recyclin', crop rotatin', an' biodiversity, and t' gives us tha' subsidies we needs t' work in 'armony wi' mother nature. Desertification ain't no irreversible thing, an' claimin' tha' land back will be slow and bloody expensive, by thunder. But oi'm sure tha' taxpayers will be more than 'appy t' aid us 'umble farmers in our plight, and maybe gives us a little more say in things in future, so's this can't 'appen again."
+
+3. "Yee-haw, these here deserts are the greatest thang that's happened in YARS!" drawls noted cowboy Hamish McGraw, twirling his shootin' irons. "This is just what @@NAME@@ needs! Just git a stagecoach out har an tha' foreign types will come a-flockin,' y'all see if ah'm wrong! We don't need no fundin' f' tha' environment! Them's farmers c'n jus' git minin' fer GOLD!"
+
+-------------------------------------------------------------------------------
+[b][anchor=171]#171[/anchor]: Kids And Criminality: Whose Responsibility? [East Stalinia; ed: Sirocco][/b]
+
+The Issue
+Recent studies showing that the sources of @@NAME@@'s most common street crimes (vandalism, muggings, joyriding, and witchcraft) are children under the age of criminal responsibility have prompted a national outcry for government action.
+
+The Debate
+1. "These damned hooligans are running wild on our streets!" splutters hard-nosed Sergeant @@RANDOMNAME@@ of the police force. "My overworked officers can't cope anymore! Everywhere we look we're being surrounded by mobs of unruly children! I need you to give me and my officers the power to dish out punishment to these little hoodlums. I don't care how young these kids are - they need to learn to behave properly as soon as possible. Even if it requires a short jail sentence of ten years or so."
+
+2. "The last thing we need is a police force that prosecutes, convicts, AND sentences young kids!" yells outraged Child Welfare Officer @@RANDOMNAME@@. "These youngsters are merely children being playful! Let them learn from their own mistakes! You can't tell me you weren't ever naughty when you were that young! Experience is the tree from which learning is a fruit, remember, and besides: the taxes needed to round them all up would be murder."
+
+3. "Hah! Yeh're lookin' at this the wrong way!" says @@RANDOMNAME@@, an elderly pensioner, hobbling up to you and poking you in the chest with a walking stick. "When I was wee, and if I was caught breakin' the law, me dad would've beaten seven types of bahoola out of me! If a kid's gone maladjusted and started nickin' cars and whatnot, look at the parents and punish them for not bringin' the tiny scions up right! Yeh can't blame a kid for the environment they were raised in an' that's that!"
+
+-------------------------------------------------------------------------------
+[b][anchor=172]#172[/anchor]: Church Attendances Reaching New Low, Warn Priests [Realm of Idiots; ed: Sirocco][/b]
+
+The Issue
+Religious professionals and fanatic hermits across @@NAME@@ have been drawing increasingly animated attention to the decreasing levels of church attendance among the population.
+
+The Debate
+1. "The apathy of @@NAME@@'s people towards their religious duties to God is abysmal," rumbles a man known only as 'The Hierophant' as he brandishes his holy book at you. "If we don't rectify this problem immediately the ground shalt quake, the sky shalt turn blood-red, and the fields shalt turn to offal. The government must make religious attendance compulsory before all the land is damned to an eternity in the Netherworld!"
+
+2. "Compulsory church attendance is not the answer to this problem," says Swami @@RANDOMNAME@@ in between spells of meditation. "There are many ways to enlightenment and it would be wrong for the government to enforce any one of them so, instead, we must divert some of the money we spend on meaningless economic pursuits into funding an awareness campaign to help people discover their true religious identity. We must establish temples, mosques, and hermitages so people can find out which path to their spirituality is right for them."
+
+3. "I reckon you could just ignore these zealots and scrap any government funding we still have going into religion," says @@RANDOMNAME@@, author of the wildly unpopular book 'Face It, There Is No Afterlife'. "I can't believe that modern thinkers like you and me are still tying ourselves down with outmoded and outdated concepts like the 'soul' or 'God'. Just drop all funding and give everyone a bit of a tax break. At least then we can be a bit richer before the long infinite void of oblivion at the end of our small, feeble, insignificant little lives."
+
+-------------------------------------------------------------------------------
+[b][anchor=173]#173[/anchor]: Women Demand Equal Opportunities [HammerCrusher; ed: Sirocco][/b]
+
+The Issue
+The women of @@NAME@@ are demanding an end to wage discrimination in the workplace.
+
+The Debate
+1. "The government must put a stop to businesses discriminating against women when they apply for a job!" chants @@RANDOMFEMALENAME@@, a ferocious supporter of women's rights. "Did you know that on average men in @@NAME@@ earn substantially more than women for doing the same job? For too long has the female race been discriminated against in our society due to their sex! We demand equal wages, equal opportunities, and equal respect for women, and we demand them now!"
+
+2. "Hey, my business is treading a thin enough profit margin as it is," complains @@RANDOMMALENAME@@, CEO of Heavy Lifting Incorporated. "Women just aren't as good as men at certain jobs, it's a probably proven fact! Take firefighting - if you were dying from smoke inhalation and collapsed on the floor unable to move, who would you prefer to attempt to rescue you? A man with superior muscular strength or some weakling female? Go on, you decide. Let the businesses decide what they pay and who they pay it to - after all, the economy depends on us."
+
+3. "Hah! Our society is getting far too soft!" rages @@RANDOMMALENAME@@, a staunch male chauvinist. "Whatever happened to the days when a man could go back home to find his good lady wife with his tea ready and his slippers warm? I've heard that some men even have to cook and clean for themselves! We should be actively encouraging women to stay where they belong by making it expected that women get paid half what men do for the same job. After all, their poor brains are prone to overheating, so they're naturally less efficient in the workplace."
+
+4. "Personally I think things went wrong as soon as women got labelled as the 'fairer' sex," interrupts Catherine Gratwick, author of the best-selling novel 'Gynaecocracy For Beginners'. "We're strong, we're willing - and we're just plain better than men. See what a state the world is in when they're in charge? I propose that all jobs should preferentially be offered to women first, so that men are encouraged to stay at home and be househusbands."
+
+-------------------------------------------------------------------------------
+[b][anchor=174]#174[/anchor]: Maternity Leave A Must, Say Mothers [Vashaan; ed: Sirocco][/b]
+
+The Issue
+A coalition of expectant mothers (Mothers 4 Justice) has banded together to demand legislation allowing for six months of fully paid maternity leave.
+
+The Debate
+1. "Six months?! Six WHOLE months?!" blusters @@RANDOMNAME@@, a payroll manager. "Six whole months of being fully paid by our company for doing nothing but looking after a baby?! This will sink the small businesses and lose us an obscene amount of revenue! We cannot allow this to pass!"
+
+2. "I believe that passing this law will be a step in the right direction," says @@RANDOMNAME@@, the nation's most outspoken feminist advocate. "These kids need their mothers' love and attention during an important part of their growth development! I don't see why mums should be forced to juggle with the stress of bringing up children and having a job! It's simply too much! Six months maternity leave with full pay is what this country needs - even if it is at the expense of a few avaricious fat cats."
+
+3. "Look, I've got an idea," says @@RANDOMNAME@@, an obsessive centrist. "Perhaps we can allow for six months of paid maternity leave, but have the government pay the companies for lost revenue? That way the mothers can bring up their children without financial worries, companies won't lose investors, and everyone will be happy. Apart from the taxpayers, of course, but you can't please everyone."
+
+-------------------------------------------------------------------------------
+[b][anchor=175]#175[/anchor]: Is @@NAME@@ Too Promiscuous? [Masalium; ed: Sirocco][/b]
+
+The Issue
+The highly moral and religious pressure group 'Cuckolds And Cuckqueans Anonymous' has lobbied for the criminalisation of adultery.
+
+The Debate
+1. "Whatever happened to the sanctity of marriage?" asks @@RANDOMNAME@@ while wearing a T-shirt bearing the slogan 'Marriage is for life, not just for anniversaries'. "Whatever happened to lifelong companionship? Whatever happened to simple faithfulness because of love?! Adultery seems to be more of a hobby than anything these days! The government must impose the utmost punishments on those who commit this sin. A good old-fashioned stoning should sort it!"
+
+*2. "I don't agree with adultery either," says @@RANDOMNAME@@, a passer-by. "But, uh... stoning? You don't think that's a little extreme? If we find someone guilty of fornication we can just lock them up in jail. That way no-one gets killed and the sinners get justice. It's more expensive to the tax payers than a stoning of course, but I reckon it's worth it." [[color=red]Must have prisons[/color]]
+
+*3. “I don’t agree with adultery either,” says @@RANDOMNAME@@, a passer-by. “But, uh... stoning? You don’t think that’s a little extreme? If we find someone guilty of fornication we can just send them to sex addict rehab, or whatever. That way no-one gets killed and we fix their personalities. It’s more expensive to the tax payers than a stoning of course, but I reckon it’s worth it.” [[color=blue]Must not have prisons[/color]]
+
+4. "With the greatest of respect, this is none of your business!" yells @@RANDOMNAME@@ who is rumoured to have had more than a thousand lovers and even more children. "The government has no right to go about trying to dictate the laws of love and romance! Marriages break down, people move on - is it really the government's place to make people stay put? You must recognise the fact that the law has no place within the bedroom!"
+

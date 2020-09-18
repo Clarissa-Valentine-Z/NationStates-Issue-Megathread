@@ -1,0 +1,93 @@
+**Intro Post**
+
+[align=center][img]https://i.imgur.com/i1qAZSx.jpg[/img]
+
+[size=150]Greetings, [b]**SPOILER ALERT**[/b]
+
+This thread is to keep track of all issues in NationStates.
+
+Feel free to contribute, yourself, if you find an issue! Just copy/paste all of the text, the title, the issue number, the author, and the editor. :D[/size][/align]
+[spoiler=Tips on how to make it easier on me - and help us all in the instance of 5. Note you do not have to do any of these things.][box]1) Remove the "ACCEPT"s, and "DISMISS".
+2) Place the number, name, author and editor above the rest of the issue as such: [b]#(number): (name) [(author); ed: (editor)][/b]
+3) Replace things such as your capital, religion, leader, nation, currency, animal, person, people, adjective, etc. with the macros below; please keep onto names, though.
+4) Try to keep [i]italics[/i]; they're tricky, I know, but if you feel like going the extra mile, please do keep them.
+
+5) Right click every "accept" button and click "inspect". You should find this in the upper-right box:
+[i]<button type="submit" name="choice-#" value="1" class="button big icon approve">Accept</button>"[/i]
+In place of [i]#[/i] is the option number minus one: So, "choice-0" is option 1, "choice-1" is option 2, etc.
+If you could report these before each option, you'd greatly help us identify if there are any alternative options,
+though it is not a necessity if you can't figure it out or feel lazy. :)[/box][/spoiler]
+
+[color=#BD0F0F][size=120][b][u]This thread is [i]not[/i] for general questions or for requests for changes to issues.[/size][/u][/b]
+See the [url=https://forum.nationstates.net/viewtopic.php?f=13&t=424657]Got Issues FAQ for more information.[/url][/color]
+
+[color=blue][size=120][b][i]List Section Quickjump:[/i][/b][/size][/color]
+[url=http://forum.nationstates.net/viewtopic.php?f=13&t=88#s1]Section 1[/url]
+[url=http://forum.nationstates.net/viewtopic.php?f=13&t=88#s2]Section 2[/url]
+[url=http://forum.nationstates.net/viewtopic.php?f=13&t=88#s3]Section 3[/url]
+[url=http://forum.nationstates.net/viewtopic.php?f=13&t=88#s4]Section 4[/url]
+[url=http://forum.nationstates.net/viewtopic.php?f=13&t=88#s5]Section 5[/url] [i]inactive[/i]
+
+[size=120][b][u]The list is in the next post. This post is specifically for links and macros(, industries, and names[incomplete]) used in issues.[/u][/b][/size]
+
+Links and other resources:
+You may find a list of several options that we still need [url=https://www.nationstates.net/page=dispatch/id=1038505]here[/url]!
+Also feel free to look [url=https://nsindex.net/wiki/List_of_NationStates_issues]here[/url], run by Minoa, who works somewhat closely with this thread.
+[url=https://nsindex.net/wiki/Home]NSindex[/url], hosted by Minoa. Features lots of information, including several issues, options, and their effect lines.
+[url=https://forum.nationstates.net/viewtopic.php?f=13&t=440593]Trotterdam's list[/url] with effect lines and stats. Policies linked at the bottom.
+
+[b]MACROS[/b]:
+[b]@@A@@[/b] or [b]@@AN@@[/b]: Displays "a" or "an" depending on the word that follows (take: @@AN@@ @@MAJORINDUSTRY@@ worker)
+[b]@@ANIMAL@@[/b]: National animal (from settings)
+[b]@@ANIMALPLURAL@@[/b]: Plural form of national animal
+[b]@@ANIMALINITIALS@@[/b]: Initials of @@ANIMAL@@
+[b]@@CAPITAL@@[/b]: Capital city (from settings)
+[b]@@CURRENCY@@[/b]: National currency (from settings)
+[b]@@CURRENCYPLURAL@@[/b]: Plural form of national currency
+[b]@@CURRENCYINITIALS@@[/b]: Initials of @@CURRENCY@@
+[b]@@DEMONYMNOUN@@[/b] or [b]@@DEMONYM@@[/b]:  Noun form of the national demonym (from settings)
+[b]@@DEMONYMADJECTIVE@@[/b]: Adjective form of the national demonym (from settings)
+[b]@@DEMONYMNOUNPLURAL@@[/b] or [b]@@DEMONYMPLURAL@@[/b]: Plural form of the national demonym (from settings)
+[b]@@DEMONYMADJECTIVEINITIALS@@[/b]: Initials of @@DEMONYMADJECTIVE@@
+[b]@@RELIGION@@[/b] or [b]@@FAITH@@[/b]: National religion (from settings)
+[b]@@LEADER@@[/b]: National leader name (from settings)
+[b]@@LEADERPLURAL@@[/b]: The plural version of your leader... yeah. Maybe in reference to statues or clones of you, or something.
+[b]@@NAME@@[/b]: Nation name (short, without pretitle)
+[b]@@NAMEINITIALS@@[/b]: Initials of @@NAME@@ (short, without pretitle)
+[b]@@POPULATION@@[/b]: Nation population, including "million" or "billion"
+[b]@@POPULATION_VALUE@@[/b]: Nation population in millions
+[b]@@REGION@@[/b]: Region name
+[b]@@SLOGAN@@[/b]: National motto (from settings)
+[b]@@TYPE@@[/b]: Nation pretitle (from settings) : The @@TYPE@@ of @@NAME@@
+
+[b]@@RANDOMNAME@@[/b]: Combination random first and random last name. Last Names can also be words copied from the nation's own settings, including the nation name. Game-provided first and last names are:
+
+[u]First names:[/u] Aaron, Abraham, Agnes, Akira, Al, Alexander, Alexei, Ali, Anne-Marie, Ariel, Aziz, Barack, Barry, Beth, Bharatendu, Bianca, Bill, Billy, Billy-Bob, Björk, Britney, Bruce, Buffy, Buy, Calvin, Carmen, Charles, Chastity, Chloe, Chris, Clint, Colin, Colleen, Cooper, Coraline, Daniel, Darya, Dave, Declan, Don, Doris, Efthamia, Elaine, Elizabeth, Ella, Elsa, Emily, Erica, Faith, Falala, Fanny, Finlay, Fleur, Francisco, Freddy, George W., Georgina, Gertie, Gregory, Gretel, Hack, Heather, Hillary, Hope, Howard, Imogen, Ivan, Jack, Jacob, Jake, Jamil, Jazz, Jean-Paul, Jennifer, Jessica, Johann, Josh, Kate, Kathleen, Kayla, Kirby, Klaus, Konrad, Lara, Larry, Lars, Lauren, Lee, Louis, Margaret, Maria, Marina, Mark, Marleen, Mary, Matilda, Max, May, Megan, Mia, Michelle, Miranda, Mohammed, Naki, Natalia, Neil, Peggy, Pete, Pip, Prudence, Randy, Rebecca, Renee, Robin, Rochelle, Roger, Rosalia, Roxanne, Ruby, Sabina, Samuel, Sarah, Sashona, Sophie, Stefanie, Steffan, Stephanie, Sue-Ann, Teddie, Thomas, Tim, Tobias, Violet, Virginia, Wil, William, Xu, Yasmin, Yui, Zach, Zack, Zeke, Zelda.
+
+[u]Last Names:[/u] al-Zahawi, Anderson, Barnes, Barry, Belcher, Black, Blofeld, Broadside, Bronte, Brown, Bush, Carey, Chandra, Chen, Cheswick, Chicago, Cho, Christensen, Christmas, Clinton, Cohen, Cruz, de Castro, de Groot, de Jong, Delauter, de Vries, Dimitrov, Dodinas, Dovey, Dredd, du Pont, Dubois, Eliot, Falopian, Fellow, Fitzgerald, Frederickson, Giono, Goethe, Grossman, Gutenberg, Hamilton, Han, Hanover, Harishchandra, Hendrikson, Hernandez, James, Jamieson, Janssen, Jefferson, Johnson, Jones, Kardashian, Khan, King, Laine, Leach, Lee, Levy, Li, Licorish, Longbottom, Longfellow, Lopez, Love, Malik, McAlpin, McGuffin, McKay, McKinnon, Mendeleev, Mistletoe, Mombota, Nagasawa, Neumann, Nguyen, O, Obama, O'Bannon, O'Hara, Parke, Pasteur, Patel, Pavlov, Pence, Perez, Peters, Plath, Pushkin, Rifkin, Rikkard, Rubin, Ruff, Sanchez, Sato, Schultz, Schwarzenegger, Shiomi, Silk, Singh, Smith, Song, Sparkle, Spirit, Steele, Strange, Summers, Suzuki, Taffs, Tan, Thiesen, Trax, Trudeau, True, Usman, Utopia, Wall, Washington, Wilson, Winters, Wolfeschlegelsteinhausenbergerdorff, Wong, Woolf, Wu, Yeats, Zhimo, Zhu.
+
+[b]@@RANDOMNAME_REVERSED@@[/b]: Like @@RANDOMNAME@@, but with all letters in reverse order. Capitalization is changed to be on the left of each name.
+[b]@@RANDOMMALENAME@@[/b] and [b]@@RANDOMFEMALENAME@@[/b]: gender-specific randomized names.
+[b]@@RANDOMFIRSTNAME@@[/b]: a randomized first name by itself.
+[b]@@RANDOMLASTNAME@@[/b]: a randomized last name by itself.
+[b]@@HE@@/@@HIS@@/@@HIM@@/@@MAN@@[/b]: Displays "he", "his", "him", or "man" if the name it targets is male, and "she", "her", "hers"*, or "woman" if female.
+
+[b]IMPORTANT NOTE:[/b] [i]You may now use @@HE/HIS/HIM@@ for any person, as well as called a person's randomname again. There is no standard set of macro for this, as of yet, so an example would be as follows:[/i]
+[box]Option 1: Before @@HE_1@@ spoke, @@RANDOMNAME_1@@ took a pen from your secretary, @@RANDOMNAME_2@@. [...]
+
+Option 2: @@RANDOMNAME_2@@, who caught @@RANDOMNAME_1@@ stealing @@HIS_2@@ pen off from @@HIS_2@@ desk and placing it into @@HIS_1@@ pantaloons, [...][/box]
+[i]Note: Don't go too crazy. You don't want to get too ambiguous - though, from what I hear, editors love ambiguity more than most people.[/i]
+
+[b]@@MAJORINDUSTRY@@[/b]: Your nation's biggest industry. Possibilities are:
+
+[u]Industries:[/u] Arms Manufacturing, Automobile Manufacturing, Basket Weaving, Beef-Based Agriculture, Book Publishing, Cheese Exports, Door-to-door Insurance Sales, Furniture Restoration, Gambling, Information Technology, Pizza Delivery, Retail, Soda Sales, Tourism, Trout Farming, Uranium Mining, Woodchip Exports.
+
+Also, some options have varients or are not available to certain nations. Here's a quick legend to help you out:
+
+[TEXT] appears at the end of some options, and states the validity:
+- [[color=red]Red text[/color]] means something is banned, mandatory, or more authoritarian.
+- [[color=blue]Blue text[/color]] indicates something is legal and/or freer.
+- [[color=purple]Purple text[/color]] is for relatively neutral standpoints, like whether you have a military, a capital, a faith, or are a matriarchy/patriarchy.
+
+* before a number indicates two or more options are variants. Multiple *s indicate different sets (i.e. * does not go with **)
+[Number] indicates that the option has no variant, but still is not available for all nations who get the issue.

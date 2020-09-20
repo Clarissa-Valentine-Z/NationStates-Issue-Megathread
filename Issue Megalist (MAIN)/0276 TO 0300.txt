@@ -121,9 +121,9 @@ The Debate
 
 3. "I think we got it wrong in the first place!" shouts @@RANDOMNAME@@ angrily from a soapbox in front of a large crowd of protesters. "Instead of turning our great nation into a narco empire, we should be criminalizing drugs once again! Do we want our children wasting their lives away on crippling drug addictions? No! Ban all drugs immediately!"
 
-4. "Also alcohol!" screams protesting teetotaler @@RANDOMNAME@@. "Hey, don't forget smoking," mutters @@RANDOMNAME@@ from behind an oxygen mask, "They're as debilitating as the "harder" drugs, if not more so. We'll just have to work harder to shut down bootleggers and butt-leggers."
+[4]. "Also alcohol!" screams protesting teetotaler @@RANDOMNAME@@. "Hey, don't forget smoking," mutters @@RANDOMNAME@@ from behind an oxygen mask, "They're as debilitating as the "harder" drugs, if not more so. We'll just have to work harder to shut down bootleggers and butt-leggers." [[color=blue]Must not have Prohibition[/color], [color=blue]Smoking must be legal[/color]]
 
-[5]. "Drugs by one name, sacred plants by another," intones His High Holiness of @@FAITH@@, daubing holy oil on your forehead. "The Church has historically used extracts of consecrated substances to open the vistas of piety and bring oneself closer to the Supreme Being. With modern pharmaceutical techniques, we can easily manufacture enough to infuse the water supply of all of @@NAME@@, just like we do with fluoride. Is spiritual transcendence a less worthy cause than cavity prevention? I think not." [[color=blue]Must not be atheist[/color]]
+[5]. "Drugs by one name, sacred plants by another," intones His High Holiness of @@FAITH@@, daubing holy oil on your forehead. "The Church has historically used extracts of consecrated substances to open the vistas of piety and bring oneself closer to the Supreme Being. With modern pharmaceutical techniques, we can easily manufacture enough to infuse the water supply of all of @@NAME@@, just like we do with fluoride. Is spiritual transcendence a less worthy cause than cavity prevention? I think not." [[color=blue]Must not be atheist AND Religiousness above 3.00 - 5.00[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=285]#285[/anchor]: A Right Not to Work? [Nation of Quebec; ed: Lenyo][/b]
@@ -141,7 +141,7 @@ The Debate
 4. Slacker freelance food reviewer @@RANDOMNAME@@, still in pajamas and eating a pizza slice on a ratty couch, sends you a video chat invitation. "Dude, why not just give everybody shorter work weeks? Make flex time, telecommuting, and 35-hour work weeks mandatory for all us working folk. Trust me, the people will love you for it man!"
 
 -------------------------------------------------------------------------------
-[b][anchor=286]#286[/anchor]: A Whale of a Problem [Doom and so on; ed: Luna Amore][/b]
+[b][anchor=286]#286[/anchor]: A Whale of a Problem [Doom and so on; ed: Luna Amore, Glen-Rhodes][/b]
 
 The Issue
 Following a two hour TV exposé on the growing incidence of whaling off @@NAME@@'s shores, environmentalists are up-in-arms and pressing the government to outlaw the practice.

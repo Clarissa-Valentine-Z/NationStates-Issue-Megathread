@@ -1,4 +1,3 @@
-SECTION 2
 [size=150][anchor=s2]Section 2[/anchor][/size]
 [hr][/hr]#428: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88#428]Crop Circles Clutter @@CAPITAL@@[/url] [Human Olympus; ed: Lenyo]
 #429: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88#429]No Representation Without Taxation?[/url] [Bears Armed; ed: Golgothastan]
@@ -218,7 +217,7 @@ SECTION 2
 #643: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=25#643]No Small Wonder[/url] [Henuld; ed: Nation of Quebec]
 #644: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=25#644]The Old Grey Matter[/url] [Candlewhisper Archive; ed: Candlewhisper Archive]
 #645: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=25#645]An Unwarrented Intrusion[/url] [North China and New Asia; ed: Candlewhisper Archive]
-#646: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=25#646]Lesson Learnt[/url] [Kynotsu; ed: Candlewhisper Archive]
+#646: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=25#646]Lesson Learnt[/url] [Kynotsu; ed: Sleep, Candlewhisper Archive]
 #647: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=25#647]Songbirds' Decline Ruffle Feathers[/url] [Ransium; ed: Nation of Quebec]
 #648: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=25#648]Confessions Of A Dirty Mind[/url] [Nation of Quebec; ed: Candlewhisper Archive]
 #649: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=25#649]Made In Maxtopia[/url] [Siarki; ed: Lenyo]

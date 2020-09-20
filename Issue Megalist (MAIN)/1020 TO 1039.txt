@@ -1,4 +1,3 @@
-1020 TO 1039
 [b][anchor=1020]#1020[/anchor]: Bi-NO-Metric? [Arthropol; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -250,7 +249,7 @@ The Issue
 Ever since @@NAME@@ heard about @@RANDOMFEMALENAME@@, the cheery young woman reported as having Helen Burns’ Disease (often known as Ill Girl Syndrome for its variety of vague and ultimately fatal symptoms), the nation has rallied around her with emotional support and monetary donations. Unfortunately, it has now been revealed that @@FIRSTNAME_1@@, “the pride of @@NAME@@, who never gave up hope”, never had the disease. Instead, she was suffering from mental health delusions where she believed she had the terminal illness, but actually only ever needed anti-psychotic medications.
 
 The Debate
-1. “She lied to us all along!” huffs your Deputy Minister of Health, who had personally donated more than one thousand commissions to send the patient and her family on a five-star all-inclusive vacation to swim with porpoises at a tropical East Calypso resort. “I expect her pallor and spots were just flour and food colouring, painted on every morning! It was all a twisted plot to extract money. Anyone who exploits our kindness with cruel falsehoods must be charged with fraud, and punished to the maximum extent that the law allows.”
+1. “She lied to us all along!” huffs your Deputy Minister of Health, who had personally donated more than one thousand @@CURRENCYPLURAL@@ to send the patient and her family on a five-star all-inclusive vacation to swim with porpoises at a tropical East Calypso resort. “I expect her pallor and spots were just flour and food colouring, painted on every morning! It was all a twisted plot to extract money. Anyone who exploits our kindness with cruel falsehoods must be charged with fraud, and punished to the maximum extent that the law allows.”
 
 2. “This young woman is clearly disturbed and needs our understanding, not punishment,” sighs psychiatrist and popular author Dr. @@RANDOMNAME@@ , handing you a signed copy of ‘[i]Thanks for the Memories[/i]’, @@HIS@@ lay-manual on hippocampus function. “She is clearly experiencing genuine and unresolved psychological issues, which caused her to manifest somatic biomedical symptoms. How would punishing her help her feel safe and cared-for? We must oblige her to join us in a secure and comfortable clinic where I’ll apply my patented diagnostic and therapeutic methods to unweave the dynamics behind this disorder.”
 

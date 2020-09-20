@@ -123,7 +123,7 @@ The Debate
 
 4. "The nation has suffered, but those of our faith have suffered more than the rest of you," states Violetist community leader @@RANDOMNAME@@. "If we want to move forward into a new era of inclusiveness and forgiveness, maybe the best way to achieve this is to establish a Violetist temple on the site. Allow us to show solidarity with the rest of @@NAME@@ by condemning the terrorists, and to atone for their actions through quiet prayer, community service and human sacri... uh... human kindness."
 
-[5]. "Never forget!" yells right wing paramilitary @@RANDOMNAME@@. "Never forget that it was the toxic false faith of Violetism that led to this tragedy! I propose we use the site to establish the HQ for my anti-Violetist organisation, the [i]Brave Inquisitorial Guardians Of Truth[/i]. We'll use this as our centre of operations, to continue the hunt for hidden Violetists within the nation, and to wage war against them. [i]Let's make @@NAME@@ hate again.[/i]" [[color=red]Restriction of Religion / Violetism?[/color]]
+[5]. "Never forget!" yells right wing paramilitary @@RANDOMNAME@@. "Never forget that it was the toxic false faith of Violetism that led to this tragedy! I propose we use the site to establish the HQ for my anti-Violetist organisation, the [i]Brave Inquisitorial Guardians Of Truth[/i]. We'll use this as our centre of operations, to continue the hunt for hidden Violetists within the nation, and to wage war against them. [i]Let's make @@NAME@@ hate again.[/i]" [[color=purple]Must choose Issue 743's Option 4.[/color]]
 
 -----------------------------------------------------------------------------
 [b][anchor=747]#747[/anchor]: The Plane Truth [Pogaria; ed: Pogaria][/b]
@@ -161,7 +161,7 @@ The Debate
 
 3. “That’s communist claptrap! It’s not for you to spend MY taxes on other people’s health,” says @@RANDOMMALENAME@@, CEO of Panacea Private Medical Services. “Look, I will help these people out of my own pocket, for no reason other than that because I’m super-duper charitable and a really great guy! See? No government intervention needed, just free individuals in a free market helping each other out without the nanny state getting in the way. Three cheers for the free market!” He starts writing a cheque for 10 @@CURRENCY@@ for the cancer victim.
 
-4. @@RANDOMNAME@@, your loyal driver, snarls at the CEO, hefting a small red brick at his head to scare him out of the room. “Um, boss... weren’t you there at the centre of things, digging through the rubble? I reckon if you declare a six-month complete tax break for all people who were there at that time, that’d give people the cash to afford their own healthcare and show the nation’s thanks for their goodness. And you know, I think you deserve a little something too, for being so damn courageous that day.”
+4. Walter Lee, your loyal driver, snarls at the CEO, hefting a small red brick at his head to scare him out of the room. “Um, boss... weren’t you there at the centre of things, digging through the rubble? I reckon if you declare a six-month complete tax break for all people who were there at that time, that’d give people the cash to afford their own healthcare and show the nation’s thanks for their goodness. And you know, I think you deserve a little something too, for being so damn courageous that day.”
 
 -----------------------------------------------------------------------------
 [b][anchor=749]#749[/anchor]: Not Mushroom For Error [Bears Armed; ed: Ransium][/b]

@@ -1,4 +1,3 @@
-1220 TO 1239
 [b][anchor=1220]#1220[/anchor]: Barely Any Art [Devil Heart; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -148,7 +147,7 @@ The Debate
 [b][anchor=1230]#1230[/anchor]: Home Hunger [Chan Island; ed: The Marsupial Illuminati][/b]
 
 The Issue
-The quality of your meals has been quite lackluster lately. After some digging, it has been found that @@RANDOMNAME_1@@, an immigrant chef in your household, no longer has access to ingredients from her home country, or any other country for that matter, thus depriving the @@DEMONYMADJECTIVE@@ palate of the tasty wonders of world cuisine.
+The quality of your meals has been quite lackluster lately. After some digging, it has been found that @@RANDOMNAME_1@@, an immigrant chef in your household, no longer has access to ingredients from @@HIS_1@@ home country, or any other country for that matter, thus depriving the @@DEMONYMADJECTIVE@@ palate of the tasty wonders of world cuisine.
 
 The Debate
 1. “It’s such a shame we can’t import anything from back home due to the autarky policy,” sighs your Maxtopian chef, @@RANDOMNAME_1@@. “There is so much good stuff I can’t have nowadays. Like Snötballs, Barrybarf, and oh, what I wouldn’t give to have me some good roasted Maxtopian pecans again! Can you please allow us to order little things from abroad? I’d love to get a taste of home again, and I’m sure you’ll love it too.”
@@ -231,11 +230,11 @@ A gunman took to the mall and shot dead three people before a nearby coffee shop
 The Debate
 1. “Personally, I call that a win,” exalts @@CAPITAL@@ Rifle and Revolver Association representative @@RANDOMNAME@@, firing a round into the air in celebration. “I mean, how many people would the initial gunman have killed if nobody had stopped him? More than fifty-seven, that’s for sure. More guns equals more safety. Maybe the government ought to recognise that by picking up half the cost of every gun purchased. Oh, and uh... thoughts and prayers to the families of the deceased and all that, yada yada.”
 
-2. “Hell, yeah!” agrees Sheriff @@RANDOMNAME@@, spinning and holstering his sidearm, and accidentally discharging a round into the floorboards. “Though, y’know, maybe more gun discipline would help. People who use guns should be forced to attend training seminars run by responsible and well-paid local sheriffs. That’ll help them to learn target discrimination, gun safety and all that. And... uh... yes... what a tragedy... our hearts go out to the bereaved.”
+2. “Hell, yeah!” agrees Sheriff @@RANDOMNAME@@, spinning and holstering @@HIS@@ sidearm, and accidentally discharging a round into the floorboards. “Though, y’know, maybe more gun discipline would help. People who use guns should be forced to attend training seminars run by responsible and well-paid local sheriffs. That’ll help them to learn target discrimination, gun safety and all that. And... uh... yes... what a tragedy... our hearts go out to the bereaved.”
 
-3. “Let’s face it, the problem here wasn’t the shooting — it was the powerful weapons being used,” asserts one of the victims, rubbing his injured derrière. “I mean, if the gal who shot me hadn’t been on full auto, she would never have accidentally zinged me. If we just restrict selective-fire weapons, magazine extensions, and barrel shrouds, that should do it. Wholesome guns don’t kill innocent people. Only assault weapons do that.”
+3. “Let’s face it, the problem here wasn’t the shooting — it was the powerful weapons being used,” asserts one of the victims, rubbing @@HIS@@ injured derrière. “I mean, if the gal who shot me hadn’t been on full auto, she would never have accidentally zinged me. If we just restrict selective-fire weapons, magazine extensions, and barrel shrouds, that should do it. Wholesome guns don’t kill innocent people. Only assault weapons do that.”
 
-4. “Uh, we could try not letting people have these devices designed to murder and maim,” ventures a long-haired hippy, insensitively disrespecting the dead by launching into yet another tirade of typical freedom-hating, commie, anti-gun ranting. It’s possible he has more to say on this, but to be honest, no-one’s listening.
+4. “Uh, we could try not letting people have these devices designed to murder and maim,” ventures a long-haired hippy, insensitively disrespecting the dead by launching into yet another tirade of typical freedom-hating, commie, anti-gun ranting. It’s possible @@HE@@ has more to say on this, but to be honest, no-one’s listening.
 
 --------------------------------------------------------------
 [b][anchor=1236]#1236[/anchor]: Being Honest [USS Monitor; ed: Candlewhisper Archive][/b]

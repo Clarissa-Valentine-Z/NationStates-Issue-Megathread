@@ -1,4 +1,3 @@
-1120 TO 1139
 [b][anchor=1120]#1120[/anchor]: Following Yonder Star [Bears Armed; ed: Pogaria][/b]
 
 The Issue
@@ -183,7 +182,7 @@ The Debate
 
 2. “No, that will not do at all; it will drain the sports and development budget – leaving little money for other projects,” muses @@RANDOMNAME@@, your Treasury Minister, who has just counted up all @@HIS@@ spare cash only to find @@HE@@ is one @@CURRENCY@@ short for a Moonbucks. “It sickens me that our athletes only perform at their best when there’s something extra in it for them. Do away with this ludicrous scheme, save ourselves some money and install some national pride into our sportsmen and women!”
 
-3. “Not enough national pride, you say?” queries General Miller, as she salutes the flag in your office. “If these athletes only try hard when there’s a free house and piles of cash involved, then we need to give them a different kind of incentive! A lifetime of hard labour for all those that fail to bring home a medal should be ‘encouragement’ enough!”
+3. “Not enough national pride, you say?” queries General @@RANDOMLASTNAME@@, as she salutes the flag in your office. “If these athletes only try hard when there’s a free house and piles of cash involved, then we need to give them a different kind of incentive! A lifetime of hard labour for all those that fail to bring home a medal should be ‘encouragement’ enough!”
 
 --------------------------------------------------------------
 [b][anchor=1133]#1133[/anchor]: Rocky Road [Candensia; ed: Nation of Quebec][/b]
@@ -226,7 +225,7 @@ The Debate
 
 3. "It's not my fault a pretty woman decided to wear a flattering dress to the meeting," counters one of your aides accused of having a roaming gaze. "So what if I like to give women attention? It's natural, it's heterosexual male biology, it's a compliment, for goodness sake! Are we seriously considering government regulating the involuntary movements of my eyeballs? Let's be a more permissive society, and say that people can put their gaze wherever they want."
 
-4. "We don't treat our women like this where I'm from," lectures Althaniq ambassador @@RANDOMMALENAME@@, wagging his finger at you. "Honestly, women being treated like meat comes from a culture of putting flesh on display. Oblige women to show modesty in their dress, and then men don't have to be tempted into perverted gazes or lascivious thoughts."
+[4]. "We don't treat our women like this where I'm from," lectures Althaniq ambassador @@RANDOMMALENAME@@, wagging his finger at you. "Honestly, women being treated like meat comes from a culture of putting flesh on display. Oblige women to show modesty in their dress, and then men don't have to be tempted into perverted gazes or lascivious thoughts."  [[color=red]Must not have Nudism[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1136]#1136[/anchor]: Money Talks [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]

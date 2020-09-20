@@ -1,4 +1,3 @@
-0920 TO 0939
 [b][anchor=920]#920[/anchor]: Central Planning Theatrics [Caracasus; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -268,11 +267,11 @@ The Issue
 The ailing economy of @@NAME@@ has been causing trading difficulties with other nations. Multiple aid groups and countries, chief among them Skandilund, have offered @@NAME@@ large amounts of financial aid.
 
 The Debate
-1.“I see your nation’s having a bit of financial trouble, @@LEADER@@,” smirks @@RANDOMNAME@@, a representative from Skandilund, tipping your finance minister a shiny penny for opening the door for @@HIM@@. “We’d be happy to provide some financial aid for you. You can repay us whenever. For now, all we ask for in return is your public gratitude. It’d be good if you were to kneel in front of us when you give your speech of thanks in front of the World Assembly, ja?”
+1. “I see your nation’s having a bit of financial trouble, @@LEADER@@,” smirks @@RANDOMNAME@@, a representative from Skandilund, tipping your finance minister a shiny penny for opening the door for @@HIM@@. “We’d be happy to provide some financial aid for you. You can repay us whenever. For now, all we ask for in return is your public gratitude. It’d be good if you were to kneel in front of us when you give your speech of thanks in front of the World Assembly, ja?”
 
-2.“Our economy is doing perfectly fine without you, thank you very much!” asserts your Minister of Finance, returning the shiny penny with a scowl on @@HIS_1@@ face. “Sure, we may not have a powerhouse economy, but we don’t need any charity. In fact, why don’t we increase our foreign aid to show everyone how well we’re doing?”
+2. “Our economy is doing perfectly fine without you, thank you very much!” asserts your Minister of Finance, returning the shiny penny with a scowl on @@HIS_1@@ face. “Sure, we may not have a powerhouse economy, but we don’t need any charity. In fact, why don’t we increase our foreign aid to show everyone how well we’re doing?”
 
-3.“This could present quite the opportunity,” muses General Hillary Wright. “Let’s take the money they offer us, but instead of spending it on the economy, we use it to fund our military. When they want to be repaid, they can say hello to our new armaments. We get their money, they get zilch in return, and we become a military power to be reckoned with. It’s win-win for us!”
+3. “This could present quite the opportunity,” muses General @@RANDOMNAME@@. “Let’s take the money they offer us, but instead of spending it on the economy, we use it to fund our military. When they want to be repaid, they can say hello to our new armaments. We get their money, they get zilch in return, and we become a military power to be reckoned with. It’s win-win for us!”
 
 -------------------------------------------------------------------------------
 [b][anchor=939]#939[/anchor]: A Question of Bad Faith [Nation of Quebec; ed: Candlewhisper Archive][/b]

@@ -1,4 +1,3 @@
-1280 TO 1299
 [b][anchor=1280]#1280[/anchor]: The Amazing, but Illegal, Spiderman [Baggieland; ed: Baggieland][/b]
 
 The Issue
@@ -48,7 +47,7 @@ The Issue
 Tensions within the Red Bloc reached new highs when the Premier of the People’s Republic of Núi Và Sông snubbed you at a recent congress by taking the very last biscuit on the plate. The cause of this bolshy behaviour? Your nation’s lukewarm support of Núi Và Sông’s increasingly combative and provocative rhetoric towards the United Federation following a tit-for-tat trade war.
 
 The Debate
-1. “Get with the program, @@LEADER@@, these capitalist pig-dogs are our enemies!” bellows Premier @@RANDOMFIRSTNAME@@ Chi Minh, spraying biscuit crumbs everywhere. “So what if that Paper Adler possesses one of the largest nuclear arsenals known to man; they’re nothing in the face of sanctions imposed by a unified Red Bloc. Are we spreading international socialism or are we having a tea party?”
+1. “Get with the program, @@LEADER@@, these capitalist pig-dogs are our enemies!” bellows Premier @@RANDOMFIRSTNAME@@ Chi Minh, spraying biscuit crumbs everywhere. “So what if that Paper @@ANIMAL@@ possesses one of the largest nuclear arsenals known to man; they’re nothing in the face of sanctions imposed by a unified Red Bloc. Are we spreading international socialism or are we having a tea party?”
 
 2. "Listen to her go on,” sighs ambassador @@RANDOMNAME@@ of East Lebatuck, handing you a slice of baklava. “Look, the fact is the United Federation won’t go down lightly. Don’t bother with Núi Và Sông’s rhetoric — instead, do what we did. Take a step back from pointless international confrontations, focus on developing socialism in your country and try to maintain economic solidarity solely among your allies. I’m not asking you to completely revise most of your founding ideology, but do consider whether it will be a safer option in the long run.”
 
@@ -65,7 +64,7 @@ The Debate
 
 2. “They certainly are troublesome,” agrees General @@RANDOMLASTNAME@@, pushing your security chief out of the way with @@HIS@@ parade stick. “However, kidnapping a child seems a bit extreme, even for me! I suggest we incentivise a wave of devoted @@DEMONYMPLURAL@@ to move into the South-West region, until they dominate the region. The Yellowites may have their Great Advisor, but he will have to go to school with good @@DEMONYM@@ children and be taught our worldview from dedicated @@DEMONYM@@ teachers. Once @@HE_1@@ comes round to our way of life, the rest will follow.”
 
-3. “I sense an opportunity here,” opines your Propaganda Minister, @@RANDOMNAME@@, as @@HE@@ trips up on the carpet, then glares at your interns. “Why don’t we make @@RANDOMFIRSTNAME_1@@ your official, ahem, Great Advisor? With @@HIM_1@@ advising you — and a large team stage managing every word that comes out of @@HIS_1@@ mouth — the Yellowites will have to follow your every command without question and their troublesome behaviour will be a thing of the past. Not only that, but if anything ever goes wrong, we can blame it on the kid!”
+3. “I sense an opportunity here,” opines your Propaganda Minister, @@RANDOMNAME@@, as @@HE@@ trips up on the carpet, then glares at your interns. “Why don’t we make @@RANDOMFIRSTNAME_1@@ your official, ahem, Great Advisor? With @@HIM_1@@ advising you — and a large team stage managing every word that comes out of @@HIS_1@@ mouth — the Yellowites will have to follow your every command without question and their troublesome behaviour will be a thing of the past. Not only that, but if anything [i]ever[/i] goes wrong, we can blame it on the kid!”
 
 4. “Can’t you leave us alone?” sighs @@RANDOMNAME@@, the religious leader of the Yellowite people. “For centuries we have followed Yellowism and heeded our Great Advisor. You can force @@HIM_1@@ to learn your language or speak your words, you can even kidnap @@HIM_1@@, but we will never bow to your demands or change who we are. Cut us, and we bleed yellow... perhaps not literally, but you get the point. Loosen your grip on the South-West, and let our people be free to follow our conscience!”
 

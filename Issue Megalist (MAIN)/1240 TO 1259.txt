@@ -1,4 +1,3 @@
-1240 TO 1259
 [b][anchor=1240]#1240[/anchor]: Unadmirable Zeal [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -97,11 +96,11 @@ The Issue
 Scientists have successfully revived the long-extinct feather-bellied @@ANIMAL@@ to the point where a population of the creatures can be sustained in the wild. The nation’s leading wildlife experts and @@ANIMAL@@ enthusiasts have offered their suggestions on how @@NAME@@ should handle these animals.
 
 The Debate
-1. “We can’t upset the balance of nature!” proclaims Mipha Barrow, Chief Veterinarian at a national park in @@NAME@@, while feeding the fish in your office. “These animals haven’t been around for more than a hundred years. Who knows how they’ll react to their new surroundings? It could cause a total shift in the food-chain and the entire ecosystem. We should maintain their population in controlled environments — like preserves, research centers and zoos.”
+1. “We can’t upset the balance of nature!” proclaims Mipha @@RANDOMLASTNAME@@, Chief Veterinarian at a national park in @@NAME@@, while feeding the fish in your office. “These animals haven’t been around for more than a hundred years. Who knows how they’ll react to their new surroundings? It could cause a total shift in the food-chain and the entire ecosystem. We should maintain their population in controlled environments — like preserves, research centers and zoos.”
 
-[2]. “I know how to deal with this,” states Revali Grant, a renowned hunter, who deftly grabs one of the office fish and nails it to the wall. “If you’re worried that too many of these animals would disrupt the ecosystem, then allow us hunters to take care of the problem. It would be a phenomenal experience to track down creatures that nobody has seen in generations and tourists would flock to @@NAME@@for the thrill of the hunt. All in the name of the balance of nature, of course!” [[color=blue]Hunting @@ANIMAL@@ is legal[/color]]
+[2]. “I know how to deal with this,” states Revali @@RANDOMLASTNAME@@, a renowned hunter, who deftly grabs one of the office fish and nails it to the wall. “If you’re worried that too many of these animals would disrupt the ecosystem, then allow us hunters to take care of the problem. It would be a phenomenal experience to track down creatures that nobody has seen in generations and tourists would flock to @@NAME@@for the thrill of the hunt. All in the name of the balance of nature, of course!” [[color=blue]Hunting @@ANIMAL@@ is legal[/color]]
 
-3. “Instead of tampering with nature, why not just let it be?” proposes @@RANDOMNAME@@, an animal rights activist. “We have proved that we have the power to bring these species back to life, but now they need to be left alone in peace. Release these animals into the wild and let Mother Nature take her course. Be a friend of the environment, not the master of it.”
+3. “Instead of tampering with nature, why not just let it be?” proposes Daruk @@RANDOMLASTNAME@@, an animal rights activist. “We have proved that we have the power to bring these species back to life, but now they need to be left alone in peace. Release these animals into the wild and let Mother Nature take her course. Be a friend of the environment, not the master of it.”
 
 [4]. “These animals should be used for the benefit of all @@DEMONYMPLURAL@@,” asserts farmer Urbosa @@RANDOMLASTNAME@@, as he herds a flock of sheep around your office. “What a waste it would be to release them into the wild — they belong on farms! Imagine all that they could do for us, and the gourmet foods that we could make with their juicy, succulent meat!” [[color=blue]Most not be vegetarian[/color]]
 

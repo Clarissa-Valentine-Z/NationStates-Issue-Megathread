@@ -359,7 +359,7 @@ A brother and sister, Jack and Jill, went to apply for a marriage license today,
 The Debate
 1. "We just want to get married!" Jill yells to a nearby reporter. "What exactly is wrong with a brother and a sister getting married? Who are we hurting?!" adds Jack, defensively. "The government should just butt out of marriage. It's not their business who or what we marry."
 
-2. "M-m-married?!" stammers @@RANDOMNAME@@, head of @@FAITH@@. "You want to desecrate the most holy and sacred union of marriage by allowing SIBLINGS to marry each other? Are you mad?! Those who are related must be forbidden from even loving each other, let alone marriage - it's shameful! They should be punished for this abomination! Oh, and while we're at it, we should ensure that every marriage is regulated by @@FAITH@@. Just in case something this sinful should ever come up again, of course."
+2. "M-m-married?!" stammers @@RANDOMNAME@@, head of @@FAITH@@. "You want to desecrate the most holy and sacred union of marriage by allowing SIBLINGS to marry each other? Are you mad?! Those who are related must be forbidden from even loving each other, let alone marriage - it's shameful! They should be punished for this abomination! Oh, and while we're at it, we should ensure that every marriage is regulated by @@FAITH@@. Just in case something this sinful should ever come up again, of course." [[color=purple]Religiousness above approx. 5.0[/color]]
 
 3. Dr. @@RANDOMNAME@@, a fertility expert chimes in. "No, no, definitely not! Marriage leads to kids and d'you know what happens when inbreeding is allowed?! The children are born with five heads! Yes, five heads, always! We should encourage people, maybe with a monetary incentive, to marry those who are as distantly related as possible!"
 

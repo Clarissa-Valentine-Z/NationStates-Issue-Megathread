@@ -161,7 +161,7 @@ The recent popularity of a science-fiction TV show has prompted calls for @@NAME
 The Debate
 1. "Don't tell me space colonies wouldn't be cool," says excited fifth-grade teacher @@RANDOMNAME@@, still wearing big Spock ears from his last convention. "Think of how they would galvanize the national population! And there would also be some kind of scientific benefit, probably."
 
-[2]. "The project certainly is feasible, but very expensive," says @@NAME@@ Space Agency Head @@RANDOMNAME@@. "We could make it less of a burden on the taxpayers if we sought funding from private industry -- advertisements on the side of our rockets, selling contracts to the Arms Manufacturing industry, that kind of thing." [[color=blue]Must have private industry[/color]]
+[2]. "The project certainly is feasible, but very expensive," says @@DEMONYMNOUN@@ Space Agency Head @@RANDOMNAME@@. "We could make it less of a burden on the taxpayers if we sought funding from private industry -- advertisements on the side of our rockets, selling contracts to the Arms Manufacturing industry, that kind of thing." [[color=blue]Must have private industry[/color]]
 
 *3. "If God had meant Man to fly, he would have given us solid rocket boosters instead of legs," says religious type @@RANDOMNAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of religion mandatory in all schools." [[color=blue]Must not be atheist[/color]]
 

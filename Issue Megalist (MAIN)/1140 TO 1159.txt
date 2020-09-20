@@ -1,4 +1,3 @@
-1140 TO 1159
 [b][anchor=1140]#1140[/anchor]: Blinded by the Light [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Issue
@@ -243,7 +242,7 @@ The Debate
 
 2. “Oh come on, they’re just things! They don’t have feelings!” laughs teenager @@RANDOMNAME@@ whilst pulling the wings off a fly. “Their health is their owner’s cost to cover. If this idiot couldn’t afford to look after @@HIS_1@@ @@ANIMAL@@, @@HE_1@@ should have let it die, or just disposed of it.”
 
-[3]. “We can be balanced about this, and provide something for animals while boosting the economy,” offers Commodus Gruber, CEO of fast food chain [i]BurgerThis[/i]. “My company will offer free euthanasia to any sick animals brought to our slaughterhouses, so long as we can keep the remains. You just need to loosen a few bureaucratic regulations, and the problem will be gone.” [[color=blue]Must not be vegetarian[/color]]
+[3]. “We can be balanced about this, and provide something for animals while boosting the economy,” offers @@RANDOMNAME@@, CEO of fast food chain [i]BurgerThis[/i]. “My company will offer free euthanasia to any sick animals brought to our slaughterhouses, so long as we can keep the remains. You just need to loosen a few bureaucratic regulations, and the problem will be gone.” [[color=blue]Must not be vegetarian[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1157]#1157[/anchor]: Rodney and Julietta [The Free Joy State; ed: Pogaria][/b]
@@ -284,7 +283,7 @@ Some @@DEMONYMPLURAL@@ are circumventing the ban on adultery by marrying anyone 
 The Debate
 *1. “These morally deficient sex addicts are making a mockery of the sanctity of marriage,” says @@RANDOMNAME@@, hand-in-hand with his two wives. “A marriage is supposed to be a sacred bond of trust between two, or more, people for life. You should make these legal adulterers pay by having them live with their partners until the day they die – no divorce, no separation, nothing! If they don’t comply, they should be charged with adultery and receive the full punishment!” [[color=blue]Divorce is legal[/color]]
 
-*2. TBD [[color=red]Divorce is illegal[/color]]
+*2. “These morally deficient sex addicts are making a mockery of the sanctity of marriage,” says @@RANDOMNAME@@, hand-in-hand with his two wives. “A marriage means you’re supposed to support your lovers for life. You should make these legal adulterers pay by having them live with their partners until the day they die – no separation, no vacations away from one another, nothing! If they don’t comply, they should be charged with adultery and receive the full punishment!” [[color=red]Divorce is illegal[/color]]
 
 3. “This was bound to happen,” cries @@RANDOMNAME@@, a leading monogamy advocate and author of the controversial book [i]I Do, Not We Do[/i]. “Having multiple spouses is just cheating on your one true love. Make everyone choose one spouse, and only one spouse. That’s the way to true peace and marital harmony.”
 

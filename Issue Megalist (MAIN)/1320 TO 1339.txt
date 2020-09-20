@@ -1,4 +1,3 @@
-1320 TO 1339
 [b][anchor=1320]#1320[/anchor]: A Case of Poor Turnaround [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -124,8 +123,34 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1329]#1329[/anchor]: A Little Bit Short [Ransium; ed: Candlewhisper Archive][/b]
 
+The Issue
+A recent exposé revealed that growth hormone therapy — an expensive treatment meant to help children who are producing little to no growth hormone on their own — is increasingly being prescribed to wealthy children who are just somewhat shorter than average.
+
+The Debate
+1. “I just want what’s best for my little Timmy; what parent wouldn’t?” asks @@RANDOMNAME@@, who appears to have bribed your guards into getting an unscheduled meeting with you. “Growth hormone therapy is completely safe and the best doctor money could buy said it was a medically valid treatment for my little Timmy, what with him being [i]two whole inches[/i] below normal. Whether or not Timmy gets hormone therapy is between his doctor, my accountant, and me, not the government.”
+
+2. “Great!” sarcastically exclaims Yates's valet after @@HE@@ has walked out of the room. “One more way the rich get it better off than the poor. My kids are even shorter than his, but I could never afford this treatment. You have to level the playing field. State-employed doctors should determine who truly needs growth hormone therapy, and the state should pay for it.”
+
+3. ???
+
+4. “This is insane,” cries a voice whose origins you can’t locate at first, until you look down and find the wee Dr. Bill Harford. “There’s nothing wrong with being shorter than average, even way shorter than average. You can’t call something a ‘treatment’ if there are no adverse health effects associated with the ‘illness’ it treats. Ban growth hormone therapy in all cases and teach @@DEMONYMPLURAL@@ to love each other no matter what their size.”
+
+5. “I agree that the government should assure no one feels inferior because of the hand nature dealt to them,” asserts everyman Berger Harrison, who is so average as to be completely unidentifiable. “However, what we should be doing is manipulating the hormones of all children so that they all end up at exactly the same height. All men may not be created equal, but we can fix that.”
+
 --------------------------------------------------------------
-[b][anchor=1330]#1330[/anchor]: TBD[/b]
+[b][anchor=1330]#1330[/anchor]: Guilt by Association [Nuremgard; ed: Baggieland][/b]
+
+The Issue
+A former member of your cabinet has just been executed for masterminding a plot to assassinate you and take power. While most are now satisfied that the threat has been dealt with, one particularly paranoid adviser has raised the issue of the deceased’s family.
+
+The Debate
+1. “These scoundrels are tainted by the crime of their kin,” says one of your fervently loyal ministers, as @@HE@@ shows you information on the family along with their pictures. “Treachery runs in their blood and we must rip it out, root and stem. The only solution is to execute the entire family as well. If you don’t, they will rise up and destroy us in revenge for what we did... It’s better to be safe than sorry.”
+
+2. “I think executing them is a little bit extreme,” counters your sister as she looks over the documents of the family. “If you’re really that worried about them, you could always just put them in prison. It’s more humane and it keeps potential threats out of the way.”
+
+3. “Come on, what century are we living in?” inquires your niece as she gently brushes your hair with a pink My Little Horsey hairbrush. “Show some mercy and let them know that they are safe under your regime. This will show you as a merciful and compassionate ruler, and leniency may very well inspire loyalty in them. I’m sure this will alleviate any bitterness they feel about their loved one being killed.”
+
+4. “I’m not too sure about just letting them carry on with things as normal,” says your perpetually suspicious Secret Police Chief. “Let them think they are in your good books, but keep a close eye on them for the rest of their lives. Constant surveillance will make sure they don’t get up to anything seditious.”
 
 --------------------------------------------------------------
 [b][anchor=1331]#1331[/anchor]: Warning, Fatigue [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
@@ -134,11 +159,11 @@ The Issue
 A recent midnight explosion at the @@DEMONYMADJECTIVE@@ National Steelworks, which claimed nine lives and injured a dozen more, was found to be due to an easily fixable error. The blocked release valve that was responsible did have an alarm circuit attached to it, which was warning that there was a problem. However, this was overlooked by no less than five safety technicians who all claim not to have noticed the flashing red light. The scale of the industrial disaster that followed this error has led to a government investigation.
 
 The Debate
-1. “This is about fatigue on the job. I warned my bosses, but nobody listens to me for some reason,” says Floor Technician Carmen Cheyney, in a whiny monotone voice that would be so easy to just tune out. “Shift work, antisocial hours and inadequate length of break times and so on and so forth. Oh, I could go on and on. Dangerous heavy industry should only be allowed to operate during normal daytime hours, with decently long paid breaks and good union representation.”
+1. “This is about fatigue on the job. I warned my bosses, but nobody listens to me for some reason,” says Floor Technician @@RANDOMNAME@@, in a whiny monotone voice that would be so easy to just tune out. “Shift work, antisocial hours and inadequate length of break times and so on and so forth. Oh, I could go on and on. Dangerous heavy industry should only be allowed to operate during normal daytime hours, with decently long paid breaks and good union representation.”
 
-2. “No no, the problem here is information overload from warning fatigue,” claims Systems Engineer George W. Jekyll, helpfully turning off your TV set, radio and mobile phone so you can focus on what he is saying. “There are three dozen flashing lights and buzzing alarms on the work station, and that’s basically too many. What we need is a comprehensive review of all workplaces to reduce all this electronic distraction, and mandate that systems be simplified down to just the base essentials.”
+2. “No no, the problem here is information overload from warning fatigue,” claims Systems Engineer @@RANDOMNAME@@, helpfully turning off your TV set, radio and mobile phone so you can focus on what he is saying. “There are three dozen flashing lights and buzzing alarms on the work station, and that’s basically too many. What we need is a comprehensive review of all workplaces to reduce all this electronic distraction, and mandate that systems be simplified down to just the base essentials.”
 
-[3]. “Actually, the problem is the inclusion of systems that are fatiguable,” warns roboticist Faith Rabin. “By which I mean humans. Flesh is fallible - just ask my ex; he knows all about organic elements not being able to rise to the challenge. What you need is government subsidisation of machine systems, to replace the human component wherever possible. Again, just ask my ex.” [[color=blue]Must have computers.[/color]]
+[3]. “Actually, the problem is the inclusion of systems that are fatiguable,” warns roboticist @@RANDOMFEMALENAME@@. “By which I mean humans. Flesh is fallible - just ask my ex; he knows all about organic elements not being able to rise to the challenge. What you need is government subsidisation of machine systems, to replace the human component wherever possible. Again, just ask my ex.” [[color=blue]Must have computers.[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1332]#1332[/anchor]: We Won’t, We Won’t Rock You [Sedgistan; ed: Candlewhisper Archive][/b]
@@ -147,14 +172,13 @@ The Issue
 Attendance at last week’s stoning in @@CAPITAL@@ Square was at a record low, as citizens decided instead to take a healthy walk, read self-improvement books, or merely exchange pleasantries with one another.
 
 The Debate
-
 1. “It ain’t right!” gripes souvenir rock distributor @@RANDOMNAME@@, gesturing to @@HIS@@ unwanted supplies of pointy rocks and bags of reinforced gravel. “Last week’s stoning only had a boring old murderer — what punter’s gonna waste high-grade silicates on them? Bring back the mafia kingpins! Chainsaw maniacs! Send the police out to hunt them down, from wherever they can find them. Now they’re worth a good chunk of quartz, eh?”
 
 2. “It’s not the quality of targets that’s the problem,” opines your brother, tossing a stone at a nearby barn door, and missing. “It’s that there aren’t enough to go around. Stoning is a noble art, and you should show your appreciation with a steady stream of targets, be they petty thieves or jaywalkers. How else can I perfect my technique?”
 
 3. “If you want these events to draw a crowd, there’s no sense in everyone getting stoned,” chortles rock fan @@RANDOMNAME@@. “This needs to be a special occasion that lives long in the memories of all those young and old — well, except the victims. We need stadia, lights, loud music and audience participation! Let’s get the crowd rocking!”
 
-4. “No! You violate the sacred stones by causing harm to fellow men,” implores Sunbeam @@ANIMAL@@ @@RANDOMLASTNAME@@, handing out calming tourmalines to all present. By placing crystals on their corresponding chakras we can use the healing energy to cure offenders of their negative thoughts. As the Almighty Agate teaches us: ‘Let he who be without sin, cast the first stone.’ No, NO, AAAAGGH!”
+4. “No! You violate the sacred stones by causing harm to fellow men,” implores Sunbeam @@ANIMAL@@ Savage, handing out calming tourmalines to all present. By placing crystals on their corresponding chakras we can use the healing energy to cure offenders of their negative thoughts. As the Almighty Agate teaches us: ‘Let he who be without sin, cast the first stone.’ No, NO, AAAAGGH!”
 
 5. “Few have the stones to look a fellow human in the eyes and kill them,” rasps Freda Beggins, a diminutive and hairy-toed master stonethrower, as she demonstrates her left-arm unorthodox spin delivery on a stray @@ANIMAL@@. “Leave the job to the professionals, and we’ll get it done. Quick. Brutal. Merciless.”
 
@@ -178,7 +202,17 @@ The Debate
 **6. “Why should marrying @@A@@ @@DEMONYM@@ grant someone citizenship?” says your brother, who never liked @@RANDOMMALEFIRSTNAME_1@@ anyway. “If you ask me, it’d be a lot easier just to make our disloyal residents someone else’s problem if they love foreigners enough to marry one. In fact, if you don’t ask me, that’s still my opinion. Send @@RANDOMMALEFIRSTNAME_1@@ — and anyone else who wants to marry an alien — packing, and good riddance.” [[color=blue]Same-sex marriage legal[/color]]
 
 --------------------------------------------------------------
-[b][anchor=1334]#1334[/anchor]: TBD[/b]
+[b][anchor=1334]#1334[/anchor]: Withdrawing Diplomatic Relations [USS Monitor; ed: The Marsupial Illuminati][/b]
+
+The Issue
+At a recent international summit in Brancaland, the @@DEMONYMADJECTIVE@@ delegation became violently ill. Brancalandian doctors say all of them were suffering withdrawal symptoms because they were addicted to the drugs in @@DEMONYMADJECTIVE@@ tap water.
+
+The Debate
+1. “It’s really sad to see what these drugs have done to your people,” quacks Dr. Naki de Vries of the Brancalandian Health Service. “One of your envoy’s aides almost died of hyponatremia because she drank so much water trying to get high. And that’s not even getting into long-term health effects for people that have been on these drugs their whole lives, or the developmental effects on Deep children. Please, you have to stop drugging your country’s drinking water. We can help you organize a detox program.”
+
+2. “Who ever heard of getting sick from drinking too much water? And what kind of nonsense word is ‘hyponatremia’?” comes the muffled voice of the aforementioned aide, sulking beneath a blanket in her hospital bed. “Everyone knows it’s important to stay hydrated. I’m not addicted to anything, and it’s obvious this is all just a cover story to hide the fact that someone poisoned us! We need to pull our diplomats out of Brancaland for their own safety and send those nasty Brancalandians a strongly worded letter!”
+
+3. “Whoa, whoa, whoa! There’s no need for that!” interjects your Foreign Relations Minister, who downs a glass of water. “Our people just need a taste of home to keep them from getting, uh... homesick! We’ll just have to make sure all our diplomatic representatives bring a large supply of @@DEMONYMADJECTIVE@@ drinking water everywhere they go, and warn them against drinking the local water in any of the countries they visit!”
 
 --------------------------------------------------------------
 [b][anchor=1335]#1335[/anchor]: First-Class Warfare [Krusavich; ed: Altmer dominion and Zwangzug][/b]
@@ -228,7 +262,7 @@ The Issue
 A book on race and intelligence written by a prominent, but controversial, geneticist has caused a mighty kerfuffle with its claim that some groups are naturally less intelligent than others.
 
 The Debate
-1. “Group differences in intelligence are purely environmental,” argues @@RANDOMMALENAME@@, an academic and Bigtopian immigrant, handing his well-tailored cashmere coat to your intern and adjusting his ascot tie. “Performance results on intelligence tests are influenced by test bias and stereotype threat. Wealthy people who are better educated have higher scores, while the necessitous with their poor nutrition never stand a chance. It has nothing to do with genetics. Give minorities better education and living standards and they’ll catch up.”
+1. “Group differences in intelligence are purely environmental,” argues @@RANDOMNAMEMALE@@, an academic and Bigtopian immigrant, handing his well-tailored cashmere coat to your intern and adjusting his ascot tie. “Performance results on intelligence tests are influenced by test bias and stereotype threat. Wealthy people who are better educated have higher scores, while the necessitous with their poor nutrition never stand a chance. It has nothing to do with genetics. Give minorities better education and living standards and they’ll catch up.”
 
 2. “I just said that poor educational performance reflects an underlying genetic cause, and that it’s not because of any environmental factors,” states the book’s author, @@RANDOMNAME@@, as @@HE@@ looks up ‘necessitous’ in a dictionary. “There have been observed differences between the average IQ scores of varying groups, which also show that these differences persist even after controlling for factors such as income. Throwing money at minorities doesn’t help them; instead you should cut welfare for these people to motivate them to study harder and thus overcome their natural deficiencies. This is the only way to help them improve their station in life.”
 

@@ -1,4 +1,3 @@
-1060 TO 1079
 [b][anchor=1060]#1060[/anchor]: Hole in the Wall [Singapore no2; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -222,9 +221,9 @@ The all but non-existent agricultural sector of @@NATION@@ has concerned your po
 The Debate
 1. “We can no longer depend on foreign nations for our food; it’s too dangerous,” warns one of your senior advisors. “We desperately need to aim for complete self-sufficiency. Let’s revitalise our domestic food production and immediately allocate government land for farming purposes! We’ll need a lot of labour. I suggest that the able-bodied adult population be randomly divided into several groups, with the duty of working on the farms rotating among the groups each year. Heavily fine those who don’t comply. Folks won’t be happy about it, but this is necessary for our survival. We currently grow none of the food we eat!”
 
-2. “Yeah, that sounds great and all, except for the part where you expect me to go farming,” complains your secretary while undergoing an extensive pedicure program. “Why can’t you let in some of those weird refugees that are just hanging around the border? They could do the farming for us! They already smell, and I’m sure they’ll be glad of the work!”
+2*. “Yeah, that sounds great and all, except for the part where you expect me to go farming,” complains your secretary while undergoing an extensive pedicure program. “Why can’t you let in some of those weird refugees that are just hanging around the border? They could do the farming for us! They already smell, and I’m sure they’ll be glad of the work!” [[color=blue]Must allow Immigration[/color]]
 
-3. TBD.
+3*. “Yeah, that sounds great and all, except for the part where you expect me to go farming,” complains your secretary while undergoing an extensive pedicure procedure. “Why can’t you let in some of those weird people that are just hanging around the border? They could do the farming for us! They already smell, and I’m sure they’ll be glad of the work!” [[color=red]Must not allow Immigration[/color]]
 
 4. “I don’t wanna use the word, but I’ll just say that Bigtopia is taking advantage of us,” rasps the thick industrialist Edward Rump. “When was the last time anybody saw us beating them in a trade deal? With Bigtopia, we are losing 500 bazillion @@CURRENCYPLURAL@@ a year. We tax them practically nothing. Here’s what we’re gonna do. We’re gonna charge a tariff on the food they bring in until such time as they straighten out their act and behave properly. Bigtopia is but one of our sources for food, and we’ll just take our money elsewhere if they don’t play fair. And it’s all gonna work out; it’s all gonna work out. Remember this, remember this — it’s all gonna work out.”
 

@@ -1,4 +1,3 @@
-1300 TO 1319
 [b][anchor=1300]#1300[/anchor]: Fifth Column in the Fifth Chord [Litauengrad; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -67,7 +66,7 @@ The Debate
 
 2. “What young Miss Violette gets up to in the privacy of her own house is her business, and hers alone,” says @@RANDOMNAME@@, quirking an eyebrow at a particularly risqué shot featuring a chunky-knit cardigan and baggy dungarees. “Do the young lass a favour, and stop these pictures from reaching the public eye. I’ll, er... deal with these ones.”
 
-3. “Shame!” cries stony-faced priestess Una Sparrow, ringing an oversized bell in your face. “This sinner’s shame must be exposed for all to see. Parade her through @@CAPITAL@@ clothed only in her wickedness, for only then can she earn repentance. SHAME!”
+3. “Shame!” cries stony-faced priestess Una Sparrow, ringing an oversized bell in your face. “This sinner’s shame must be exposed for all to see. Parade her through @@CAPITAL@@ clothed only in her wickedness, for only then can she earn repentance. SHAME!” [[color=purple]Must have Atheism[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1305]#1305[/anchor]: The Woman From AUNT [Altmer Dominion; ed: Candlewhisper Archive][/b]
@@ -97,9 +96,9 @@ The Debate
 
 3. "The school system is puttin' too much pressure on our kids," rambles rural bureaucrat @@RANDOMNAME@@. "Where I'm from, the only knowledge y'need is how to live off the land, and how to respect folks. So let's take math out of the curriculum, and stress more practical knowledge, like farming or resource conservation! Might sound stupid, but I never learnt math, and I'm just fine! I've been the mayor of my town for twelve years!" @@HE/SHE@@ says, before checking on @@HIS/HER@@ fingers.
 
-4. “We’ve got a brainpower outage, it seems,” states Deputy Minister of Immigration @@RANDOMNAME@@. “Perhaps the addition of skilled, foreign labor is just what we need. We should maximize our appeal from an immigration standpoint. Let’s offer prospective math teachers lenient visa requirements, generous living accommodations, access to government transportation, and extensive financial benefits nobody could refuse. It’d obviously get pricey, but we’re doing it for our kids, right?” [[color=Blue]Immigration is legal[/color]]
+4*. “We’ve got a brainpower outage, it seems,” states Deputy Minister of Immigration @@RANDOMNAME@@. “Perhaps the addition of skilled, foreign labor is just what we need. We should maximize our appeal from an immigration standpoint. Let’s offer prospective math teachers lenient visa requirements, generous living accommodations, access to government transportation, and extensive financial benefits nobody could refuse. It’d obviously get pricey, but we’re doing it for our kids, right?” [[color=Blue]Immigration is legal[/color]]
 
-5. "This is exactly where a sensible immigration policy would come in handy," states Deputy Minister of Foreign Relations @@RANDOMNAME@@. "Perhaps the addition of skilled, foreign labor is just what we need. Let's offer prospective math teachers a few common-sense perks in order to maximize our appeal. We could, for example, offer lenient visa requirements, generous living accommodations, access to government transportation, and extensive financial benefits. It'd obviously get pricey, but it's for the children." [[color=Red]Immigration is outlawed[/color]]
+5*. "This is exactly where a sensible immigration policy would come in handy," states Deputy Minister of Foreign Relations @@RANDOMNAME@@. "Perhaps the addition of skilled, foreign labor is just what we need. Let's offer prospective math teachers a few common-sense perks in order to maximize our appeal. We could, for example, offer lenient visa requirements, generous living accommodations, access to government transportation, and extensive financial benefits. It'd obviously get pricey, but it's for the children." [[color=Red]Immigration is outlawed[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1307]#1307[/anchor]: A Duty to Serve [Conexia; ed: USS Monitor][/b]
@@ -140,11 +139,11 @@ As you stoop to pin a Violet Heart on the chest of a wheelchair-bound war vetera
 The Debate
 1. "It's about time we recognised the sacrifice animals have made for @@NAME@@," @@HE@@ grumbles.  "Why, Lassie here took out six insurgents by herself, disarmed a nuclear device, and entertained the troops with cartwheels and backflips.  She deserves a medal and medical care as much as any of us!"
 
-2. "How interesting..." muses recruiting sergeant Max Glover while examining the set of gnashers on Lassie.  "If one @@ANIMAL@@ can do all that, imagine what an army full of them could achieve?  And no more injured soldiers to bother the press — as the saying goes, don't look a gift @@ANIMAL@@ in the mouth.  Rather than waste money on old war-dogs that are too aged to fight, we should be funding more front line fighters.  That can go for the humans too." @@HE@@ sneers disdainfully at the veteran in the wheelchair.
+2. "How interesting..." muses recruiting sergeant @@RANDOMMALENAME@@ while examining the set of gnashers on Lassie.  "If one @@ANIMAL@@ can do all that, imagine what an army full of them could achieve?  And no more injured soldiers to bother the press — as the saying goes, don't look a gift @@ANIMAL@@ in the mouth.  Rather than waste money on old war-dogs that are too aged to fight, we should be funding more front line fighters.  That can go for the humans too." @@HE@@ sneers disdainfully at the veteran in the wheelchair.
 
-* 3. "Haven't you seen Dawn of the Rise of the Planet of the @@ANIMALPLURAL@@?" cautions a sceptical aide, prodding the hindquarters of Lassie.  "I don't think we want an army full of @@ANIMALPLURAL@@, but there's certainly food for thought here.  Let them serve alongside soldiers, and when they've done their duty, they can serve us on one final occasion: dinner time!" [[color=red]Must ban meat-eating / Vegetarianism[/color]]
+3*. "Haven't you seen Dawn of the Rise of the Planet of the @@ANIMALPLURAL@@?" cautions a sceptical aide, prodding the hindquarters of Lassie.  "I don't think we want an army full of @@ANIMALPLURAL@@, but there's certainly food for thought here.  Let them serve alongside soldiers, and when they've done their duty, they can serve us on one final occasion: dinner time!" [[color=red]Must ban meat-eating / Vegetarianism[/color]]
 
-* 4. "@@ANIMALPLURAL@@ do enough for us already; they shouldn't be in our military," pleads Timmy Moneypenny from the accompanying media pack.  "Can't we leave them in peace to do as nature intended?  Rescuing children from abandoned mineshafts, throwing ropes to children on runaway rafts rapidly approaching waterfalls, and fronting up popular TV franchises.  That sort of thing." [[color=blue]Must not ban meat-eating / No Vegetarianism[/color]]
+4*. "@@ANIMALPLURAL@@ do enough for us already; they shouldn't be in our military," pleads @@RANDOMMALENAME@@ from the accompanying media pack.  "Can't we leave them in peace to do as nature intended?  Rescuing children from abandoned mineshafts, throwing ropes to children on runaway rafts rapidly approaching waterfalls, and fronting up popular TV franchises.  That sort of thing." [[color=blue]Must not ban meat-eating / No Vegetarianism[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1310]#1310[/anchor]: Intimate Relations [AnPrim Island; ed: Sedgistan][/b]
@@ -278,11 +277,11 @@ The Issue
 Recent historical research has revealed that the Smalltopian army’s ‘Lightning War’ was ultimately successful because their troops had been given large doses of methamphetamine. Your top generals have encircled you in your office and this conversation isn’t going to be an easy trip.
 
 The Debate
-1. “The Smalltopians crushed their enemies with their Lightning War,” states Lieutenant General Rubin, well known for her singular battlefield tactic of ‘more cannon fodder’. “They marched non-stop for four days and nights through thick forest, while carrying full packs, then fought and easily defeated their foes at the end. If @@NAME@@ wants to win any future wars quickly and efficiently, we need to start issuing our troops with methamphetamines.”
+1. “The Smalltopians crushed their enemies with their Lightning War,” states Lieutenant General @@RANDOMNAME@@, well known for @@HIS@@ singular battlefield tactic of ‘more cannon fodder’. “They marched non-stop for four days and nights through thick forest, while carrying full packs, then fought and easily defeated their foes at the end. If @@NAME@@ wants to win any future wars quickly and efficiently, we need to start issuing our troops with methamphetamines.”
 
-2. “Methamphetamine does seem to be a useful addition to a war effort,” ponders Major General al-Assad, who prefers to lead by example. “However, there are health issues to consider. Methamphetamine should only be given to elite troops on dangerous missions. When those missions are over, there needs to be a comprehensive rehabilitation period to make sure no one is addicted or suffering from any side effects.”
+2. “Methamphetamine does seem to be a useful addition to a war effort,” ponders Major General @@RANDOMNAME@@, who prefers to lead by example. “However, there are health issues to consider. Methamphetamine should only be given to elite troops on dangerous missions. When those missions are over, there needs to be a comprehensive rehabilitation period to make sure no one is addicted or suffering from any side effects.”
 
-3. “Methamphetamine is a lethal drug!” declares General Andrew Cheavers-Ciphil of the Army Medical Corps, as he hands out pamphlets on the dangers of narcotics. “If we want our troops to win battles, then they must be fully coherent and at the peak of their physical fitness — not pumped full of drugs! In fact, all forms of substance abuse must be banned in the military: narcotics, alcohol and even caffeine.”
+3. “Methamphetamine is a lethal drug!” declares General @@RANDOMNAME@@ of the Army Medical Corps, as @@HIS@@ hands out pamphlets on the dangers of narcotics. “If we want our troops to win battles, then they must be fully coherent and at the peak of their physical fitness — not pumped full of drugs! In fact, all forms of substance abuse must be banned in the military: narcotics, alcohol and even caffeine.”
 
 4. ???
 
@@ -290,7 +289,7 @@ The Debate
 
 6. ???
 
-7. “Why only soldiers?” questions your secretary, as he grinds his teeth incessantly, makes you a drink with one hand and takes meeting minutes with the other. “Look at all this work I have piled up on my desk, not to mention all the other tasks I’m expected to carry out. There’s never enough time in the day! Dose every worker in @@NAME@@ with methamphetamines and see how efficient they become!”
+7. “Why only soldiers?” questions your secretary, as @@HE@@ grinds @@HIS@@ teeth incessantly, makes you a drink with one hand and takes meeting minutes with the other. “Look at all this work I have piled up on my desk, not to mention all the other tasks I’m expected to carry out. There’s never enough time in the day! Dose every worker in @@NAME@@ with methamphetamines and see how efficient they become!”
 
 --------------------------------------------------------------
 [b][anchor=1319]#1319[/anchor]: Dying for Two [The Free Joy State; ed: Candlewhisper Archive][/b]

@@ -52,9 +52,9 @@ A newspaper article revealed that patients are waiting months for the most urgen
 The Debate
 1. "The problem is that there just aren't enough incentives to enter the medical profession," says Doctor @@RANDOMNAME@@. "We need to advertise government grants for medical students, and give more funding to educational centres of medicine. If you don't act quickly then @@NAME@@ will have a full-blown healthcare crisis!"
 
-2. ???
+2*. "Nah, it's just that we don't have the numbers of graduates or young doctors needed to fill the gap before we have a 'crisis'," says @@RANDOMNAME@@, leafing through pages of statistics. "The best solution is to remove the immigration ban and recruit doctors from abroad. If we snag 'em from the poorer countries then we won't have to spend half as much as grants would cost us." [[color=red]Must not have Immigration[/color]]
 
-3. "Nah, it's just that we don't have the numbers of graduates or young doctors needed to fill the gap before we have a 'crisis'," says @@RANDOMNAME@@, leafing through pages of statistics. "The best solution is to recruit doctors from abroad. If we snag 'em from the poorer countries then we won't have to spend half as much as grants would cost us."
+3*. "Nah, it's just that we don't have the numbers of graduates or young doctors needed to fill the gap before we have a 'crisis'," says @@RANDOMNAME@@, leafing through pages of statistics. "The best solution is to recruit doctors from abroad. If we snag 'em from the poorer countries then we won't have to spend half as much as grants would cost us." [[color=blue]Must have Immigration[/color]]
 
 4. "Or we could NOT waste money on bringing foreigners into the country," grumbles @@RANDOMNAME@@, a wealthy businessman. "And giving money to the students? How many of them do you think will stay the whole course, hmm? How many @@CURRENCYPLURAL@@ are we going to burn on this? Our healthcare system is great, there are thousands upon thousands of nations that would give their right province for what we have. I think we can afford to let go of some of that funding and give the good people of @@NAME@@ a tax break, don't you?"
 

@@ -213,7 +213,7 @@ The Debate
 5. "It's not our war? It's not our war?" cries (in)famous @@NAME@@-born fascist @@RANDOMNAME@@. "Well maybe it's time it became our war! @@NAME@@ should take a more active, and by 'active' I mean 'hostile', role in international politics! This ethnic squabbling will be over when the war is over, and WE can end that war and purge the impure! @@SLOGAN@@! Sieg @@NAME@@!"
 
 -------------------------------------------------------------------------------
-[b][anchor=191]#191[/anchor]: Blood Banks Running Dry [Karmanyaka; ed: Euroslavia][/b]
+[b][anchor=191]#191[/anchor]: Blood Banks Running Dry [Karmanyaka; ed: Sirocco, Euroslavia][/b]
 
 The Issue
 A violent and rather messy stampede of @@ANIMALPLURAL@@ during a parade in your honour has brought widespread media attention to the shortage of blood, plasma and platelet donors in @@NAME@@.
@@ -234,11 +234,11 @@ The Issue
 During a state visit to a foreign nation, revolutionaries took advantage of your absence to seize government buildings, take workers hostage, and demand an end to your 'tyrannical' regime.
 
 The Debate
-1. "We call on our great leader to renounce this corrupt regime and join the revolution!" shouts revolutionary leader @@RANDOMNAME@@, while holding a knife to the throat of a terrified government minister. "For far too long have we toiled under the corruption and mendacity of the borgwa... bushawzee... rich people! It is time for a reckoning! Dissolve the government! Let us tear off the shackles of oppression and put an end to this dictatorship of our souls!"
+1. "We call on our great leader to renounce this corrupt regime and join the revolution!" shouts revolutionary leader @@RANDOMNAME@@, while holding a knife to the throat of a terrified government minister. "For far too long have we toiled under the corruption and mendacity of the borgwa... bushawzee... rich people! It is time for a reckoning! [i]DISSOLVE THE GOVERNMENT[/i]! Let us tear off the shackles of oppression and put an end to this dictatorship of our souls!"
 
 2. "Our soldiers are ready to storm the building and gun down these interlopers at once," says your Minister of Defence at an emergency meeting in a secret bunker. "We must demonstrate strength in the face of these traitors and quickly. If we give any leeway to these people they'll just try to push for more and more power and overthrow us totally. We've got to nip this in the bud and direct much more funding toward the military in the future so they never try this again! If we press down hard enough, they'll never dare to even ask for more freedoms."
 
-3. "That's too dangerous," says your Commissioner of Police, who also happens to be your brother. "We could lose hostages that way. We've just got to stand proud as the honorable citizens of @@NAME@@ and negotiate with these people for the safe release of our workers. Don't take this the wrong way, I think you're a great leader, but maybe we could give the nation some freedoms in return. They may be asking for total control, but I think you'll find they'll make do with a lot less."
+3. "That's too dangerous," says your Commissioner of Police, who also happens to be your cousin. "We could lose hostages that way. We've just got to stand proud as the honorable citizens of @@NAME@@ and negotiate with these people for the safe release of our workers. Don't take this the wrong way, I think you're a great leader, but maybe we could give the nation some freedoms in return. They may be asking for total control, but I think you'll find they'll make do with a lot less."
 
 4. "Hey, that's just silly," says @@RANDOMNAME@@, your personally appointed Minister of the Free Press. "I know a way which means we won't have to give these hippies their freedoms and also allows us to get our workers back, which is good for your image I might add. Money can't buy you love, but it can buy you peace. If you paid several million @@CURRENCYPLURAL@@ to the rebels, I'm sure you'll find them much more co-operative. Remember, it's better to spend money than spend lives. From a publicity point of view anyway."
 
@@ -258,7 +258,7 @@ The Debate
 4. "You can't allow that!" gasps @@RANDOMNAME@@, a manual labourer. "If that happens, only the people with cyber limbs will get jobs! And the corporations will contract you into having the surgery if you want to have one! No thank you! We should go back to the grass roots of industry when all the machines weren't computerised and workers were the salt of the earth! Then maybe we'd see a bit more appreciation! And cash!"
 
 -------------------------------------------------------------------------------
-[b][anchor=194]#194[/anchor]: A Request For Military Aid [The Rogue Soldiers; ed: Sirocco][/b]
+[b][anchor=194]#194[/anchor]: A Request for Military Aid [The Rogue Soldiers; ed: Sirocco][/b]
 
 The Issue
 A small nameless nation within your sphere of influence has gone on a genocidal rampage within its own borders, ridding itself of what their Supreme Ruler For All Eternity, Emperor @@RANDOMNAME@@, refers to as 'those filthy Bigtopians'. Some escaped refugees are requesting that your government do something to end the slaughter of millions.
@@ -266,7 +266,7 @@ A small nameless nation within your sphere of influence has gone on a genocidal 
 The Debate
 1. "They're killing everyone!" gasps @@RANDOMNAME@@, one of the refugees. "I implore you to please intervene and stop this murder of my people! If @@NAME@@ has any compassion at all then it must help us! With these madmen out of power we can finally go about rebuilding our nation as a land of justice and freedom!"
 
-2. "Woah, woah, we can't just go around being a knight in shining armour for every random hell-hole on this planet," says @@RANDOMNAME@@, your minister of Foreign Relations. "Should we send citizens of @@NAME@@ into war just so we can save a bunch of foreigners? I don't think so! Now, I'm no xenophobe, but I've gotta ask: what's in it for us? Nothing but the death of our soldiers and criticism from the rest of the region, that's what. Trouble is we're getting too much of a reputation for having a big army. So drop some of our military funding and let them fight their own wars. It's got nothing to do with us."
+2. "Woah, woah, we can't just go around being a knight in shining armour for every random hell-hole on this planet," says @@RANDOMNAME@@, your Minister of Foreign Relations. "Should we send citizens of @@NAME@@ into war just so we can save a bunch of foreigners? I don't think so! Now, I'm no xenophobe, but I've gotta ask: what's in it for us? Nothing but the death of our soldiers and criticism from the rest of the region, that's what. Trouble is we're getting too much of a reputation for having a big army. So drop some of our military funding and let them fight their own wars. It's got nothing to do with us."
 
 3. "Well, maybe this nation does have something we need, sir," says @@RANDOMNAME@@, your Military Advisor, while perusing a giant map of @@NAME@@. "We're fast running out of land and resources here, so why not invade this place, kick out whoever's in power there, and take over? We've got the military power, so why wait? If any of those hippies in the region have somethin' to say about it, they can say hello to our missile programmes, haha!"
 

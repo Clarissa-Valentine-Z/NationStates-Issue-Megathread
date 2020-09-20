@@ -1,4 +1,3 @@
-0960 TO 0979
 [b][anchor=960]#960[/anchor]: Nobody Does It Better? [Incremenia; ed: Pogaria][/b]
 
 The Issue
@@ -211,13 +210,15 @@ The Debate
 -------------------------------------------------------------------------------
 [b][anchor=974]#974[/anchor]: Siren Song [Candensia; ed: Nation of Quebec][/b]
 
-Description: During a severe weather outbreak yesterday, weather sirens raised the alarm about the incoming danger. However, that didn’t seem to concern residents, who had grown all too used to constant tests and malfunctions associated with the aging system. Following dozens of fatalities, a discussion has arisen regarding the best method to warn the public about approaching weather threats.
+The Issue
+During a severe weather outbreak yesterday, weather sirens raised the alarm about the incoming danger. However, that didn’t seem to concern residents, who had grown all too used to constant tests and malfunctions associated with the aging system. Following dozens of fatalities, a discussion has arisen regarding the best method to warn the public about approaching weather threats.
 
-Option 1: “I’m tired of weathering weather sirens!” shouts storm survivor @@RANDOMNAME@@, still wearing @@HIS@@ soggy raincoat. “I’m in my house, glued to my phone, when I thought I heard a train. Turns out, it was no train; it was a twister coming straight at me! Sure, I heard the sirens, but they go off all the time! Instead of listening out for old sirens, we should get official weather alerts through our phones. I mean, people definitely won’t ignore their cell phones!”
+The Debate
+1. “I’m tired of weathering weather sirens!” shouts storm survivor @@RANDOMNAME@@, still wearing @@HIS@@ soggy raincoat. “I’m in my house, glued to my phone, when I thought I heard a train. Turns out, it was no train; it was a twister coming straight at me! Sure, I heard the sirens, but they go off all the time! Instead of listening out for old sirens, we should get official weather alerts through our phones. I mean, people definitely won’t ignore their cell phones!”
 
-Option 2: “Well, not everyone has a cell phone, and what if its battery dies in the middle of a storm, what then?” questions @@NAME@@ Emergency Management spokesperson @@RANDOMNAME@@. “The biggest advantage to sirens is that we can assure that they will always work... as long as they aren’t old, malfunctioning, or whatever. It should be clear that a refit of the siren system is on the radar. All we need to do is update them to be more... attention-grabbing. I’m sure citizens won’t ignore weather sirens if we replace the wail with, say, a blood-curdling scream!”"
+2. “Well, not everyone has a cell phone, and what if its battery dies in the middle of a storm, what then?” questions @@NAME@@ Emergency Management spokesperson @@RANDOMNAME@@. “The biggest advantage to sirens is that we can assure that they will always work... as long as they aren’t old, malfunctioning, or whatever. It should be clear that a refit of the siren system is on the radar. All we need to do is update them to be more... attention-grabbing. I’m sure citizens won’t ignore weather sirens if we replace the wail with, say, a blood-curdling scream!”"
 
-Option 3: “Why is it the government’s responsibility to warn us of incoming life or death situations?” rants well-known libertarian political speaker @@RANDOMMALENAME@@, failing to intervene as his infant picks up a nearby nail gun. “It’s the responsibility of the individual to ensure their own safety. We shouldn’t be wasting @@CURRENCYPLURAL@@ maintaining a faulty, hardly-used system. I say we let the old siren system die, save ourselves some money, and call it a day. If the average @@DEMONYM@@ doesn’t have enough common sense to take caution when the weather gets bad, then I forecast that @@NAME@@ has a far bigger problem.”
+3. “Why is it the government’s responsibility to warn us of incoming life or death situations?” rants well-known libertarian political speaker @@RANDOMMALENAME@@, failing to intervene as his infant picks up a nearby nail gun. “It’s the responsibility of the individual to ensure their own safety. We shouldn’t be wasting @@CURRENCYPLURAL@@ maintaining a faulty, hardly-used system. I say we let the old siren system die, save ourselves some money, and call it a day. If the average @@DEMONYM@@ doesn’t have enough common sense to take caution when the weather gets bad, then I forecast that @@NAME@@ has a far bigger problem.”
 
 -------------------------------------------------------------------------------
 [b][anchor=975]#975[/anchor]: Paparazzi Parents [Frieden-und Freudenland; ed: Nation of Quebec][/b]

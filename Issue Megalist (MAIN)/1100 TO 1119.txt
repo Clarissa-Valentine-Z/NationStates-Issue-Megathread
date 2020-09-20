@@ -1,4 +1,3 @@
-1100 TO 1119
 [b][anchor=1100]#1100[/anchor]: Raiders of the Lost Archive [Helaw; ed: Nation of Quebec][/b]
 
 The Issue
@@ -63,7 +62,7 @@ The Issue
 After selling just 187 copies, [i]How to Repair Your Cat for Dummies[/i] was shockingly still the national #1 best-seller this year. In response, a small group of effete, sweater-vest-clad bookworms have used copies of [i]War and Peas[/i] to barricade themselves in your office.
 
 The Debate
-1. “That’s truly shameful,” sighs local librarian @@RANDOMNAME@@, pulling a copy of [i]The Visible Hand[/i] from within the deep pockets of @@HIS@@ overcoat. “The solution is subsidizing books. The reduced prices will encourage Flanderlionians to buy a good ol’ book again. Infinite knowledge is waiting just behind those pages, @@LEADER@@. Folks just need a little nudge.”
+1. “That’s truly shameful,” sighs local librarian @@RANDOMNAME@@, pulling a copy of [i]The Visible Hand[/i] from within the deep pockets of @@HIS@@ overcoat. “The solution is subsidizing books. The reduced prices will encourage @@DEMONYMPLURAL@@ to buy a good ol’ book again. Infinite knowledge is waiting just behind those pages, @@LEADER@@. Folks just need a little nudge.”
 
 2. “It’s not their choice anymore,” declares your Minister of Education, while reluctantly putting down a copy of [i]The Complete Works of Shakespeare[/i]. “People don’t realize what they are losing by not reading. If @@DEMONYMPLURAL@@ stopped watching ‘The Brash and the Backstabbing’ and actually read something, we’d have a more interesting, enlightened, and productive populace. For everyone’s sake, make it mandatory to read a book every month.”
 
@@ -125,9 +124,9 @@ The Debate
 
 **4. “This isn’t just some kind of workshed samogon we’re talking about,” says aspiring distiller @@RANDOMNAME@@, while reviewing the print roll from @@HIS@@ storage cellar’s hygrothermograph. “These are artisanal, maker-made, environmentally responsible, non-GMO, craft products that are far better than anything put out by the government! You can taste the difference! If some unscrupulous individual lets heavy metals leech in, or adds something unsafe, that’s not the fault of we connoisseurs! We’re not trying to start a private business here - we just want to make a little something to share amongst friends!” [[color=red]Must not have private industry[/color]]
 
-4. “The bracing effect of a strong drink is absolutely top-notch for getting through the day!” opines Ebrius Foppington, a bearded gentleman wearing a top hat and monocle. “Why, I myself have several such drinks each morning, noon, and night! It helps keep the humors in balance, and makes socializing quite rather more tolerable. Really, we ought to require that everybody over the age of ten make their own suds, and partake regularly to ensure they don’t become phlegmatic. Bottoms up!”
+5. “The bracing effect of a strong drink is absolutely top-notch for getting through the day!” opines Ebrius Foppington, a bearded gentleman wearing a top hat and monocle. “Why, I myself have several such drinks each morning, noon, and night! It helps keep the humors in balance, and makes socializing quite rather more tolerable. Really, we ought to require that everybody over the age of ten make their own suds, and partake regularly to ensure they don’t become phlegmatic. Bottoms up!”
 
-5. “Home distilling and compulsory drinking?” shrieks Citizens Against Drinking activist @@RANDOMNAME@@, clutching @@HIS@@ heart dramatically. “What kind of horrifying nightmare world are you trying to create? Did you know that, according to the Department of Made-Up Statistics, 47.2% of all crime is related to alcohol? Are you trying to increase that number? What @@NAME@@ needs is to remove alcohol not just from our homes, but from the whole nation! Enact prohibition - there can be no exceptions!”
+6. “Home distilling and compulsory drinking?” shrieks Citizens Against Drinking activist @@RANDOMNAME@@, clutching @@HIS@@ heart dramatically. “What kind of horrifying nightmare world are you trying to create? Did you know that, according to the Department of Made-Up Statistics, 47.2% of all crime is related to alcohol? Are you trying to increase that number? What @@NAME@@ needs is to remove alcohol not just from our homes, but from the whole nation! Enact prohibition - there can be no exceptions!”
 
 --------------------------------------------------------------
 [b][anchor=1109]#1109[/anchor]: Of Mice and Meth [Jutsa; ed: USS Monitor][/b]
@@ -228,7 +227,7 @@ The Debate
 
 2. “I’ll just go out on an ominously scarred limb and say that this is a load of nonsense,” dryly notes retired sheriff @@RANDOMNAME_1@@, in between discrete sips from a hip flask. “Intervention this, inter-venal that, yet nobody seems to realize that keeping their mitts off drugs is the best way forward for us! Bringing this in would be as good as giving people the go ahead to break the law. We don’t want to encourage junkie scum who go around stealing everything that is not nailed down. We’ll just punish them like the other criminals.”
 
-[3]. "We can't allow any drugs on our streets!" yells @@RANDOMNAME@@, knocking @@RANDOMFIRSTNAME_1@@'s hip flask out of @@HIS_1@@ hands. "It doesn't matter if it's cirrhosis of the liver or my old school friend dying of VODAIS after sharing needles with some whacko she's never met before! The only sane thing to do here is obviously to place a ban on all drugs, including alcohol and tobacco. No need to treat addicts if nobody can obtain addictive substances!" [[color=red]Smoking is illegal[/color] AND [color=red]Alcohol is illegal[/color]]
+[3]. "We can't allow any drugs on our streets!" yells @@RANDOMNAME@@, knocking @@RANDOMFIRSTNAME_1@@'s hip flask out of @@HIS_1@@ hands. "It doesn't matter if it's cirrhosis of the liver or my old school friend dying of VODAIS after sharing needles with some whacko she's never met before! The only sane thing to do here is obviously to place a ban on all drugs, including alcohol and tobacco. No need to treat addicts if nobody can obtain addictive substances!" [[color=blue]Smoking is legal[/color] OR [color=blue]Alcohol is legal[/color]] (Note: [[color=red]Smoking is illegal[/color] AND [color=red]Alcohol is illegal[/color]])
 
 --------------------------------------------------------------
 [b][anchor=1116]#1116[/anchor]: To Each According to His Feed [Candlewhisper Archive; ed: The Free Joy State][/b]

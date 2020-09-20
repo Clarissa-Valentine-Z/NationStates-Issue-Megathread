@@ -88,14 +88,14 @@ The Debate
 [b][anchor=886]#886[/anchor]: Bounty on the Table [Ransium; ed: Candlewhisper Archive][/b]
 
 The Issue
-Popular TV show @@ANIMAL@@ the Bounty Hunter was recently canceled after the eponymous fugitive-finder accidentally shot and killed three innocent bystanders. Now, the legality of the profession of bounty hunting is being called into question.
+Popular TV show [i]@@ANIMAL@@ the Bounty Hunter[/i] was recently canceled after the eponymous fugitive-finder accidentally shot and killed three innocent bystanders. Now, the legality of the profession of bounty hunting is being called into question.
 
 The Debate
 1. “Those bounty hunters ain’t nothin’ but trouble, creating a grand ol’ fuss wherever they go,” drawls Sheriff @@RANDOMNAME@@, while holstering @@HIS@@ six-shooter. “I reckon bounty huntin’ ought not be allowed. Us lawmen can deal with outlaws just fine ourselves! Problem is, ma deputies are busier than a centipede at a leg-countin’ contest. We need to up our police spendin’ somethin’ fierce, then we’ll have these criminals whupped soon enough.”
 
 2. “Cops are too concerned with the ‘order’ part of law and order,” states the leather-clad, heavily-tattooed bounty hunter. “We hunters can get the job done, and if we don’t, you don’t have to pay us. While cops are too busy scarfing down doughnuts and taking ‘sensitivity training’ to catch the bad guys, we’re out in the real world, on the trail of the outlaws. Slash your police force and put bounties on the heads of all criminals. You can bet our kind will have the streets of @@NAME@@ free of scum by the end of the month, or my name ain’t ‘@@ANIMAL@@’.”
 
-3. “This whole incident just illustrates the dangers of trying to chase criminals,” declares a random citizen, remarkable only for his thick glasses, large nose, and bushy mustache. “If criminals run away from law enforcement, that should be the end of it; chasing them is simply too risky. I’m sure those coppers will have another chance to catch me - I mean - those criminals.”
+3. “This whole incident just illustrates the dangers of trying to chase criminals,” declares a random citizen, remarkable only for his thick glasses, large nose, and bushy mustache. “If criminals run away from law enforcement, that should be the end of it; chasing them is simply too risky. I’m sure those coppers will have another chance to catch me - I mean - [i]those criminals[/i].”
 
 -----------------------------------------------------------------------------
 [b][anchor=887]#887[/anchor]: Thin Skin [New Fulford; ed: Candlewhisper Archive][/b]
@@ -121,7 +121,7 @@ Led by a club of grandmothers known as the Naughty Knitters, a new street art se
 The Debate
 1. “We certainly don’t mean any harm, pet,” exclaims @@RANDOMNAME@@, ringleader of the Naughty Knitters, as @@HE@@ takes your measurements. “We’re just trying to brighten up people’s lives and bring a little cheer! You should be helping us, not punishing us. How about using some of those taxes we’ve all been paying to fund arts and crafts for everyone? My grandkids just love making finger puppets! Now, what color did you want that sweater, dear? I’ve got a nice lilac yarn here somewhere...”
 
-2. “Street ‘art’ is just a nice way to say anti-social littering in my book,” grunts city mayor Waldo Bone, sporting a well-tailored hypoallergenic suit. “The graffiti is bad enough, but I’ve got people tripping up over strands of yarn all the way down the high street! We should arrest these grandmothers for making our streets such a mess.”
+2. “Street ‘art’ is just a nice way to say anti-social littering in my book,” grunts city mayor @@RANDOMNAME@@, sporting a well-tailored hypoallergenic suit. “The graffiti is bad enough, but I’ve got people tripping up over strands of yarn all the way down the high street! We should arrest these grandmothers for making our streets such a mess.”
 
 3. “Arresting a few old ladies isn’t going far enough!” cries your Minister of Urban Planning, angrily brushing off some stray rainbow yarn from the sleeve of @@HIS@@ coat. “We have to ban all so-called ‘public artwork’ in order to keep things looking respectable. Furthermore, we should enforce strict regulations on the supply of knitting yarn, painting supplies, and do-it-yourself peg dolly kits, to ensure that such supplies are only available to truly artistically talented citizens of @@NAME@@.”
 
@@ -178,11 +178,11 @@ The Issue
 Switching over to the metric system has certainly benefited your scientists and other such intellectuals. The common populace, however, is expressing a measure of doubt.
 
 The Debate
-1. “It’s such a headache!” complains celebrity chef Zack Fils-Aimé, brandishing a sauce-covered calculator. “I’d need to be an accountant to convert all my old recipes, and how do you expect me to quickly know how much broth I need when the measurement isn’t straight from the box itself? If the scientific folk want to use the metric system, let them, but don’t expect the common man to suffer for them!”
+1. “It’s such a headache!” complains celebrity chef @@RANDOMNAME_1@@, brandishing a sauce-covered calculator. “I’d need to be an accountant to convert all my old recipes, and how do you expect me to quickly know how much broth I need when the measurement isn’t straight from the box itself? If the scientific folk want to use the metric system, let them, but don’t expect the common man to suffer for them!”
 
-2. “If it apparently takes so much time to do unit conversions, this is clearly an educational issue,” states math teacher Colin McAlpin, while snatching the calculator from Zack and delicately cleaning it. “With some more funding for mandatory after-school mathematics academies, our next generations will be able to calculate between any measurement system at lightning speed!” He delicately places the calculator on your desk. “Why, we may not even have a need for this soon enough.”
+2. “If it apparently takes so much time to do unit conversions, this is clearly an educational issue,” states math teacher @@RANDOMNAME@@, while snatching the calculator from @@RANDOMFIRSTNAME_1@@ and delicately cleaning it. “With some more funding for mandatory after-school mathematics academies, our next generations will be able to calculate between any measurement system at lightning speed!” He delicately places the calculator on your desk. “Why, we may not even have a need for this soon enough.”
 
-*3. “They don’t want to comply?” questions gruff researcher Dr. Jazz Snyder, who’s known to be a bit of a loose-cannon, but a damn good scientist. “It’s not that hard to use the metric system! I say, if we find these perps with even a centigram of paper with the old measurement system on it we force them to convert it on the spot. If they refuse, lock them up and throw away the key.” [[color=red]Must have prisons[/color]]
+*3. “They don’t want to comply?” questions gruff researcher Dr. @@RANDOMNAME@@, who’s known to be a bit of a loose-cannon, but a damn good scientist. “It’s not that hard to use the metric system! I say, if we find these perps with even a centigram of paper with the old measurement system on it we force them to convert it on the spot. If they refuse, lock them up and throw away the key.” [[color=red]Must have prisons[/color]]
 
 *4. “They don’t want to comply?” questions gruff researcher Dr. @@RANDOMNAME@@, who’s known to be a bit of a loose-cannon, but a damn good scientist. “It’s not that hard to use the metric system! I say, if we find these perps with even a centigram of paper with the old measurement system on it we force them to convert it on the spot. If they refuse then fine them enough to reduce their net income by an order of magnitude.” [[color=blue]Must not have prisons[/color]]
 
@@ -264,7 +264,7 @@ The Issue
 Slave owners across @@NAME@@ report increased antagonistic behavior from their slaves. The masters’ position is made more precarious in some rural areas of the country, where the enslaved outnumber everyone else by four to one. Fearing imminent rebellion, you have met with prominent slavers in the extravagant cocktail lounge of the @@CAPITAL@@ Auction House to discuss a solution.
 
 The Debate
-1. “These are dark days, @@LEADER@@; we must economize,” concedes a wealthy slaver as he struggles to jam an olive onto his own cocktail stick. “We have far more slaves than we can comfortably control. We have to downscale before we have a rebellion on our uncalloused hands. I propose that we hold the largest slave auction ever, in this very building. We’ll invite all the great masters of the world and export our excess chattel. Then, we’ll no longer be threatened, and we’ll have plenty of dough to boot!”
+1. “These are dark days, @@LEADER@@; we must economize,” concedes a wealthy slaver as @@HE@@ struggles to jam an olive onto @@HIS@@ own cocktail stick. “We have far more slaves than we can comfortably control. We have to downscale before we have a rebellion on our uncalloused hands. I propose that we hold the largest slave auction ever, in this very building. We’ll invite all the great masters of the world and export our excess chattel. Then, we’ll no longer be threatened, and we’ll have plenty of dough to boot!”
 
 2. “Addressing the slaves’ aggression is easier,” opines @@RANDOMNAME@@, a young basket weaving magnate, taking a sip from @@HIS@@ drink. “If you all treated your slaves with the kindness I do, they would adore you and would never wish to rebel. I grant all slaves a fifteen minute break every day and one whole @@CURRENCY@@ biannually, to spend as they wish! We should also allow them to keep a percentage of the things they produce; a little light labor is nothing when it earns you a free basket.”
 

@@ -1,4 +1,3 @@
-1180 TO 1199
 [b][anchor=1180]#1180[/anchor]: Death Doesn't Discriminate [Jutsa; ed: Zwangzug][/b]
 
 The Issue
@@ -28,9 +27,11 @@ The Debate
 
 2. “I think we need to jazz it up a little,” suggests popular daredevil @@RANDOMMALEFIRSTNAME@@ Knievel. “Instead of jousters using horses and lances, what if they instead play on motorbikes and sports cars? Participants can even use a variety of weapons, such as maces and axes! It’ll be bloody, but we’ll have so much fun!”
 
-3. “This proposal gave me an interesting thought,” ponders your Treasury Minister @@RANDOMNAME@@, admiring @@HIS@@ reflection in a polished shield. “Jousting could very well be a boon for the economy. We could even get the gambling industry in on it: let people place bets on jousting matches while we take a cut of the proceeds. I doubt event coordinators will have any problem filling stadiums with people who’d pay top dollar to experience this real-life, exciting sport!”
+3. “I think we need to jazz it up a little,” suggests popular daredevil @@RANDOMMALEFIRSTNAME@@ Knievel. “Instead of jousters using horses and lances, what if they instead play on motorbikes and sports cars? Participants can even use a variety of weapons, such as maces and axes! It’ll be bloody, but we’ll have so much fun!” [[color=red]Must not have Sports[/color] AND [color=red]Must not have Automobiles[/color]] ???
 
-[4]. “Why are we only focusing on jousting?” asks posh aristocrat @@RANDOMNAME@@ as @@HE@@ cleans @@HIS@@ glasses. “Don’t you think times were simpler and better when everyone knew their place? There were benevolent lords in their manors, peasants merrily tilling the fields, even courtly jousts conducted by illustrious knights. Shouldn’t we do our part to make these traditional values a reality again?” [[color=purple]No Feudalism[/color]]
+4. “This proposal gave me an interesting thought,” ponders your Treasury Minister @@RANDOMNAME@@, admiring @@HIS@@ reflection in a polished shield. “Jousting could very well be a boon for the economy. We could even get the gambling industry in on it: let people place bets on jousting matches while we take a cut of the proceeds. I doubt event coordinators will have any problem filling stadiums with people who’d pay top dollar to experience this real-life, exciting sport!”
+
+[5]. “Why are we only focusing on jousting?” asks posh aristocrat @@RANDOMNAME@@ as @@HE@@ cleans @@HIS@@ glasses. “Don’t you think times were simpler and better when everyone knew their place? There were benevolent lords in their manors, peasants merrily tilling the fields, even courtly jousts conducted by illustrious knights. Shouldn’t we do our part to make these traditional values a reality again?” [[color=purple]No Feudalism[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1182]#1182[/anchor]: Thanks, but No Thanks [Chan Island; ed: Candlewhisper Archive][/b]

@@ -1,4 +1,3 @@
-1360 TO 1379
 [b][anchor=1360]#1360[/anchor]: Ask A Stupid Question? [Fauxia; ed: The Free Joy State][/b]
 
 The Issue
@@ -20,7 +19,7 @@ The Issue
 The surprise hit of the @@CAPITAL@@ Film Festival is [i]Kreator Kids[/i], a controversial documentary featuring Drew Shaffer's hardline evangelical homeschool curriculum — 'Curricula of Really Advanced Programmes' — which critics claim pushed racist, revisionist, sexist rhetoric and told children set theory was the work of the Devil. As you walk to your office building, the furore outside is almost as loud as the award buzz.
 
 The Debate
-1. "I don't want homeschooling to be associated with these irresponsible ideologues who brainwash their credulous kiddos!" huffs homeschooling mother @@RANDOMFEMALENAME@@, stopping you to shove a science text in your face, open at a page depicting a purple dinosaur doing a backstroke and titled H[i]ow the [u]Real[/u] Nessa Lake Creature Disproves Evilution[/i]. "Register us all centrally, vet us regularly and send all kids whose parents fail back to school. Test our children in all academic subjects, even critical thinking. People will soon see that many homeschoolers are competent."
+1. "I don't want homeschooling to be associated with these irresponsible ideologues who brainwash their credulous kiddos!" huffs homeschooling mother @@RANDOMFEMALENAME@@, stopping you to shove a science text in your face, open at a page depicting a purple dinosaur doing a backstroke and titled [i]How the [u]Real[/u] Nessa Lake Creature Disproves Evilution[/i]. "Register us all centrally, vet us regularly and send all kids whose parents fail back to school. Test our children in all academic subjects, even critical thinking. People will soon see that many homeschoolers are competent."
 
 2. "That 'documentary' is a liberal hatchet job!" Documentary participant Jiminy Jehoshaphat Rutter, a father of 13 children whose names all begin with a J, stomps up to you. "Parents know their unique progeny better than the state, or some 'filmmaker'. At home, I can teach my kids our religion without some Cyanist coming to serve rice with saffron and pomegranate and tell my babies about some 'Festivaqua' feast day! Uphold a parent's unrestricted right to homeschool; no nannying checks. Heck, if you value parental rights, you should also let us withdraw our munchkins from [i]any[/i] class we decide they don't need: religious education, biology, history, whatever."
 
@@ -107,14 +106,24 @@ The Issue
 The new director of the @@CAPITAL@@ Department of Transportation has suggested that imposing dynamic parking prices might help ease the city centre’s nightmarish congestion. Because the national government owns large parts of the capital, the plan cannot proceed without your approval.
 
 The Debate
-1. Director Klaus Henderson, who was formerly a professor of urban planning, pushes up his glasses. “Dynamic parking prices will mean that not only will drivers have to pay for parking, but that the prices will change throughout the day based on the location’s demand. For example, drivers will pay more to park during busy periods. This will encourage motorists to park in quieter areas and not hog the same spot for hours on end. Take notes, there will be a quiz next week— er, sorry, force of habit there.”
+1. Director @@RANDOMNAME@@, who was formerly a professor of urban planning, pushes up his glasses. “Dynamic parking prices will mean that not only will drivers have to pay for parking, but that the prices will change throughout the day based on the location’s demand. For example, drivers will pay more to park during busy periods. This will encourage motorists to park in quieter areas and not hog the same spot for hours on end. Take notes, there will be a quiz next week— er, sorry, force of habit there.”
 
 2. “This isn’t a game of Maxopoly where the ‘free parking’ space gives a windfall of revenue!” complains the Minister of Labor, who’s just come from a marathon six-hour session of said game. “This plan will punish the working poor who can ill afford parking fees. If the city wants to deal with congestion, then it should start building more underground tunnels and parking garages with your help. Free parking is the right of every citizen, and you can’t start charging me — I mean, the miserably poor — for parking.”
 
 3. “This plan is too complicated,” says the laconic Minister of Gordian Knots, who arrived in an ox cart and is now snipping at the air with a pair of scissors. “But doing nothing is not an option. Let us ban cars from the city instead. Stops congestion. Keeps things simple.”
 
 --------------------------------------------------------------
-[b][anchor=1369]#1369[/anchor]: TBD [/b]
+[b][anchor=1369]#1369[/anchor]: Negotiation Complication [Westinor, ed: Candlewhisper Archive][/b]
+
+The Issue
+For the past few months, your administration has been working on a landmark trade deal with the historically hostile nation of Blackacre. On the eve of the agreement’s planned signing, Georgia Mormont — a high-ranking official from the Blackacrean government — has approached you with the intent to defect.
+
+The Debate
+1. “If we upset the Blackacreans, months of planning could go to waste!” whispers your suspicious Minister of Pragmatism as she glares at the visibly trembling Blackacrean advisor. “Blackacre would never allow their Chief of Staff to defect! We have to turn her away and report this to Blackacre. It may be cold, but I stand — I mean, [i]we[/i] stand to make a lot from this trade deal. This agreement could be the path to a long-lasting peace between our two nations — don’t let a single defector stand in our way.”
+
+2. “@@LEADER@@, please don’t abandon me!” quietly pleads Mormont, as she pulls you into a secluded corner of the room. “I’m almost absolutely sure that they’ve discovered my intentions to defect by now. If you don’t protect me, the secret police will be sure to ‘disappear’ me. Let me stay and I will give you valuable information that you could use against Blackacre. Trade deals might be valuable, but trust me, the secrets I know are worth so much more. Want to know where their secret nuclear missile launch sites are? Yes, I thought you would...”
+
+3. “I agree that they’d never let her defect,” comments your shady Intelligence Minister, as he escorts you out of the room. “Which is why I’m surprised she’s here — the Blackacrean Supreme Leader keeps close watch on all of her subordinates. She must have been sent here to spy on us, but that’s fine. We’ll feed her dirty intel, track her communications, and who knows? We could find ourselves a spy network, right here in @@NAME@@. I’m sure you’ll agree this is the best course of action, hmm?”
 
 --------------------------------------------------------------
 [b][anchor=1370]#1370[/anchor]: TBD [/b]

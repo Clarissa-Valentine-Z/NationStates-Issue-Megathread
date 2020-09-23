@@ -1,4 +1,3 @@
-0780 TO 0799
 [b][anchor=780]#780[/anchor]: Vexing VAT [Nuremgard; ed: Helaw][/b]
 
 The Issue
@@ -29,7 +28,7 @@ The Debate
 5. “Within the Ashen Ones, the spirit of the divine dwells,” proclaims @@RANDOMNAME@@, Grand High Poobah of the Order of Violet. “Their eyes, the windows to the soul, reveal this to be Truth. One observes the lavender ghost of the great Mistress Violet typing within, Her presence on earth made physical. That is why the rest of their bodies lack any color; the whole existence of the albino is devoted to housing the Holy. It is written; they must be revered! Pay tribute to our albino masters, @@LEADER@@, and lay your nation’s riches at their feet.”
 
 -----------------------------------------------------------------------------
-[b][anchor=782]#782[/anchor]: Sit-Down Money [Frieden-und-Freudenland; ed: Candlewhisper Archive][/b]
+[b][anchor=782]#782[/anchor]: Sit-Down Money [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
 With traffic congestion on the roads of @@CAPITAL@@ reaching unbearable density, labour unions are demanding that employees be paid overtime wages for time spent in traffic jams.
@@ -44,7 +43,7 @@ The Debate
 [4]. “This doesn’t make any sense,” mutters your shy teenage nephew almost inaudibly, hiding his face behind his uPad. “Being physically present at your school or workplace is so outdated - and unnecessary, if you ask me - thanks to the latest developments in technology. You should ban the commute, and subsidise remote working. People can just attend classes online or communicate with their colleagues via Trype. This will solve the traffic problem, and also help reduce the social anxiety that some people might feel in face-to-face interactions.” [[color=blue]Must have internet[/color]]
 
 -----------------------------------------------------------------------------
-[b][anchor=783]#783[/anchor]: Sergeant McCool Reporting For Duty [Annihlators of Chan Island; ed: The Free Joy State][/b]
+[b][anchor=783]#783[/anchor]: Sergeant McCool Reporting For Duty [Annihlators  of Chan Island; ed: The Free Joy State][/b]
 
 The Issue
 Gossip magazines have exploded into a frenzy after news broke that famous teen idol @@RANDOMFIRSTNAME@@ “Squeaky” McCool is being conscripted into @@NAME@@’s military.
@@ -76,7 +75,7 @@ The Debate
 5. "That's the face of corporate evil, right there," whispers radical environmentalist Egon Mist, pointing not just at the oil lobbyist, but at all four of the previous speakers. "@@NAME@@ needs to free itself of this culture of seeing ecology-destroying transportation as a right. Our ancestors got around fine on foot, and never needed to travel more than a hundred miles from the place of their birth. Get rid of them all: cars, trains, buses, planes, and anything with an engine. That's the way back to a greener and better world."
 
 -----------------------------------------------------------------------------
-[b][anchor=785]#785[/anchor]: Born To Be My Baby [Frieden-und-Freudenland; ed: Nation of Quebec][/b]
+[b][anchor=785]#785[/anchor]: Born To Be My Baby [Frieden-und Freudenland; ed: Nation of Quebec][/b]
 
 The Issue
 When @@RANDOMFEMALENAME@@ and her husband couldn't conceive, they employed a surrogate to bear a child for them, using the father's sperm and the surrogate mother's egg. However, after the baby was born, the surrogate mother refused to give up the child and is battling for permanent custody.

@@ -1,4 +1,3 @@
-0880 TO 0899
 [b][anchor=880]#880[/anchor]: Oh @@NAME@@, What Obscene Children's Books You Have [Jutsa; ed: The Free Joy State][/b]
 
 The Issue
@@ -150,7 +149,7 @@ The Debate
 
 *2. “Trendy smartphones come with a human cost that most are unaware of,” tweets activist @@RANDOMNAME@@. “The state should be providing documentation proving an ethical supply chain. International aid to help protect exploited workers wouldn’t go amiss either. #bigtopianblues” [[color=red]Must not have private industry[/color]]
 
-**3. “You’ve got to move with the times!” declares Fones4Them spokesperson Velma Dunn, trying to sort her overhead projector acetates into the right order for her presentation. “Absolutely zero Australian children were harmed in the making of this product! Since when have you been responsible for the labour standards of other nations? Crazy legislation is just going to add to the cost of production, and that’ll mean price hikes and lost jobs, right here in Australian rePublic. Instead, announce that you’ll trust the industry to self-regulate, and we’ll do right by the economy and by our shareholders.” [[color=blue]Must have private industry[/color]]
+**3. “You’ve got to move with the times!” declares Fones4Them spokesperson Velma Dunn, trying to sort her overhead projector acetates into the right order for her presentation. “Absolutely zero @@DEMONYMADJECTIVE@@ children were harmed in the making of this product! Since when have you been responsible for the labour standards of other nations? Crazy legislation is just going to add to the cost of production, and that’ll mean price hikes and lost jobs, right here in Australian rePublic. Instead, announce that you’ll trust the industry to self-regulate, and we’ll do right by the economy and by our shareholders.” [[color=blue]Must have private industry[/color]]
 
 **4. “You’ve got to move with the times!” declares State Technology Director @@RANDOMNAME@@, trying to sort @@HIS@@ overhead projector acetates into the right order for @@HIS@@ presentation. “Absolutely zero @@DEMONYMADJECTIVE@@ children were harmed in the making of this product! Since when have you been responsible for the labour standards of other nations? Crazy legislation is just going to add to the cost of production, and that’ll mean a less efficient economy, right here in @@NAME@@. Instead, announce that you’ll trust my department to internally review our processes, and we’ll do right by the national balance sheet and by our country.” [[color=red]Must not have private industry[/color]]
 

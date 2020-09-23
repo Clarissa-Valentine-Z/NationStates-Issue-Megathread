@@ -1,4 +1,3 @@
-0680 TO 0699
 [b][anchor=680]#680[/anchor]: The Fault Is In Our Stars [Drasnia; ed: Helaw][/b]
 
 The Issue
@@ -24,7 +23,7 @@ The Debate
 
 2. “That’s not going far enough,” interjects a local bird watcher @@RANDOMNAME@@, who is standing by the window, binoculars trained on a vulture by the hospital morgue. “It’s not a celebration for the birds whose sky we’re shooting into! Animals don’t understand what’s going on when unnatural flashes and scary noises suddenly start bursting all around them. If they dodge the explosions, noxious smoke is sure to drive birds out of the sky, while remains of spent fireworks littering the streets pose a swallowing hazard for scavengers. Licensing fireworks operators won’t change this. We need to ban all fireworks, and find less inconsiderate ways to entertain ourselves.”
 
-3. “That’s ridiculous,” retorts @@RANDOMNAME@@ - Chief Technical Officer of the [i]Have a Blast[i] fireworks factory - who is visiting the burns ward to hand out free sparklers to the injured. “Thunderstorms happen all the time in nature, and animals survive those. Fireworks are fabulous fun! If some drunken idiots can’t read the clear safety instructions we supply with all our products, then, well, that’s natural selection doing our species a favor. In fact, we should legalize use of fireworks all year round. Then we can celebrate anything, anytime, not just the New Year.”
+3. “That’s ridiculous,” retorts @@RANDOMNAME@@ - Chief Technical Officer of the [i]Have a Blast[/i] fireworks factory - who is visiting the burns ward to hand out free sparklers to the injured. “Thunderstorms happen all the time in nature, and animals survive those. Fireworks are fabulous fun! If some drunken idiots can’t read the clear safety instructions we supply with all our products, then, well, that’s natural selection doing our species a favor. In fact, we should legalize use of fireworks all year round. Then we can celebrate anything, anytime, not just the New Year.”
 
 -----------------------------------------------------------------------------
 [b][anchor=682]#682[/anchor]: Exhaust Every Option [Solborg; ed: Candlewhisper Archive][/b]

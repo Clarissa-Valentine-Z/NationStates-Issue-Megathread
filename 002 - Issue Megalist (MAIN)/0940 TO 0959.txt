@@ -145,7 +145,7 @@ The Debate
 
 *3. “That won’t be enough!” booms General @@RANDOMNAME@@, entering your office with a firing squad behind @@HIM@@. “We can’t afford to hold back. At this point, these inmates should be considered enemy combatants… and will be dealt with extreme prejudice. Soldiers are waiting at the ready. Just give the order.” [[color=red]Must have capital punishment[/color]]
 
-[4]. "My engineers have you covered," confidently advertises @@RANDOMNAME@@, founder of the start-up tech firm Optical Experiments. "The nation's correctional facilities are long overdue for an upgrade. With proper surveillance, automated sentries, high-grade lasers, et cetera, that pesky human factor will be swiftly eliminated. In more ways than one, of course." [[color=purple]Must have substantial scientific advancement and/or information technology[/color]] [???]
+[4]. "My engineers have you covered," confidently advertises @@RANDOMNAME@@, founder of the start-up tech firm Optical Experiments. "The nation's correctional facilities are long overdue for an upgrade. With proper surveillance, automated sentries, high-grade lasers, et cetera, that pesky human factor will be swiftly eliminated. In more ways than one, of course." [[color=blue]Must have private industry[/color]]
 
 5. "A non-violent solution is still perfectly attainable," beams @@RANDOMNAME@@, head of a parental watchdog group. "If that detestable musician had never thought to poke the @@ANIMAL@@'s nest, none of these riots would have occurred in the first place. That type of music is too much trouble for its own good, wouldn't you agree? If their inspiration is removed, inmate riots will naturally lose motivation."
 

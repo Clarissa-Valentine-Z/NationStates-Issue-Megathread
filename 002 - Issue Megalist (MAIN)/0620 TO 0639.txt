@@ -1,4 +1,3 @@
-0620 TO 0639
 [b][anchor=620]#620[/anchor]: No Such Thing As A Free Lunch [Chuporosa; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -96,7 +95,7 @@ The Debate
 
 [5]. “Dead bodies... Thousands of dead bodies... This isn’t smuggling; it’s evidence of mass murder!” weeps compassionate citizen @@RANDOMNAME@@. “Okay, so maybe the dead are cows and sheep, but animals deserve life too: isn’t that why we’re a vegetarian nation? We should erect a memorial, to pay respect to the souls of these good, deceased animals. Perhaps also, we could have a dignified cremation ceremony.” [[color=red]Must be vegetarian[/color]]
 
-[6]. “That’s... a lot of latex,” observes crime scene cleaner-upper @@RANDOMNAME@@, wading through millions of banned condoms. “Our enemies are determined to over-ride our choice to ban contraception, and we should fight back! I suggest we render these condoms ineffective with a puncture hole or six, then return them to the black market. Then, those who are sinfully engaging in contraception will be stopped from murdering unborn children.” [[color=red]Contraceptives are illegal[/color]
+[6]. “That’s... a lot of latex,” observes crime scene cleaner-upper @@RANDOMNAME@@, wading through millions of banned condoms. “Our enemies are determined to over-ride our choice to ban contraception, and we should fight back! I suggest we render these condoms ineffective with a puncture hole or six, then return them to the black market. Then, those who are sinfully engaging in contraception will be stopped from murdering unborn children.” [[color=red]Contraceptives are illegal[/color]]
 
 [7]. “Oh my... Are those all [i]V12 Maxati Baryons[/i]? The fastest road-legal automobiles in the world?” asks police officer @@RANDOMNAME@@, showing an inappropriate level of enthusiasm. “These have to be destined for illegal race circuits... I say we chip them with GPS trackers, let them slip back into circulation, so we can track down the criminals. I foresee high speed car chases, so you’d better keep a handful back for the police.” [[color=red]Cars are illegal[/color]]
 
@@ -245,7 +244,7 @@ The Debate
 8. "National anthem? Bah!" scoffs resident anarchist and constant thorn-in-your-side @@RANDOMNAME@@. "We don't need this government forcing that patriotic drivel down our throats! Besides, most @@DEMONYMPLURAL@@ are terrible singers! That's the last thing I want to hear at a football game!"
 
 -----------------------------------------------------------------------------
-[b][anchor=634]#634[/anchor]: Bullet Time [Rubyna; ed: Candlewshisper Archive][/b]
+[b][anchor=634]#634[/anchor]: Bullet Time [Rubyna; ed: Candlewhisper Archive][/b]
 
 The Issue
 Regular traffic congestion within @@NAME@@’s interstate highways have resulted in a flurry of petitions being sent to you demanding the development of a Maglev bullet train connecting the nation’s major cities. Apparently there was going to be a demonstration outside your front door as well, but the protesters got stuck in traffic.

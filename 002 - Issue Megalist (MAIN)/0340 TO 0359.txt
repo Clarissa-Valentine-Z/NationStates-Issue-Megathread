@@ -1,4 +1,3 @@
-0340 TO 0359
 [b][anchor=340]#340[/anchor]: Defending Patent Pending [Panageadom; ed: Luna Amore][/b]
 
 The Issue
@@ -123,7 +122,7 @@ The Issue
 A recent independent review into government expenditure has shown that, compared to other nations in @@REGION@@, @@NAME@@ spends very little on legal aid for impecunious suspects.
 
 The Debate
-1. "I ain't supposed to be in this joint!" @@RANDOMNAME@@ whispers down a contraband phone. "Those loser courts went and decided I did this stupid thing and now I gotsa pay for it. I didn't do it yo! I tried to tell those fools that I was innocent, but the lawyer you hired to fork me over totally showed me up. I ain't got no tickles to pay for a brief! Who'd you think I am, Hoprah Pinfry? Damn. You wanna make things right? Get e'rrybody 'ccused of a crime a 'spensive lawyer too. Maybe more innocent peoples won't get sent down."
+1. "I ain't supposed to be in this joint!" @@RANDOMNAME@@ whispers down a contraband phone. "Those loser courts went and decided I did this stupid thing and now I gotsa pay for it. I didn't do it yo! I tried to tell those fools that I was innocent, but the lawyer you hired to fork me over totally showed me up. I ain't got no @@CURRENCYPLURAL@@ to pay for a brief! Who'd you think I am, Hoprah Pinfry? Damn. You wanna make things right? Get e'rrybody 'ccused of a crime a 'spensive lawyer too. Maybe more innocent peoples won't get sent down."
 
 2. "If you can't afford a lawyer, it's your own fault", lectures blue-collar worker @@RANDOMNAME@@ on the evening news. "It's not my problem if they don't have the money or if they didn't go to law school. If you can't afford a lawyer, then don't break the law. Everything has consequences! Imagine the tax burden it would put on us hard-working individuals. Actually, instead of spending money on this ridiculous notion, I'd much prefer @@LEADER@@ to give us a tax break."
 

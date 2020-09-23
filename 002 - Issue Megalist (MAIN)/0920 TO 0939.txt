@@ -59,7 +59,7 @@ The Debate
 [b][anchor=924]#924[/anchor]: Total Eclipse of the Brain [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
-Earlier today, a mysterious bearded stranger announced himself in the centre of @@CRAPITAL@@. He drew a crowd by telling of his ability to block out the sun, demanding that everyone hand over all their gold or face the consequences. A few moments later, the sun disappeared! Panicking, those gathered gave him their jewellery, watches and even the gold fillings from their teeth.
+Earlier today, a mysterious bearded stranger announced himself in the centre of @@CAPITAL@@. He drew a crowd by telling of his ability to block out the sun, demanding that everyone hand over all their gold or face the consequences. A few moments later, the sun disappeared! Panicking, those gathered gave him their jewellery, watches and even the gold fillings from their teeth.
 
 The Debate
 1.“Behold my miracles,” states the stranger. “Just as I foretold, the sun was blocked out for a full three minutes and did not return until I commanded it to shine again. You should recognise a messiah when you see one! Install me as your Minister for Sun Protection, and give me a budget for sun worship rituals.”
@@ -124,11 +124,11 @@ The Debate
 
 4. “We shouldn’t be offering it to people just because they want it, anyway,” mutters your Minister of the Middle Ground. “A baby is not a fashion item. A baby is a human being, a fellow @@DEMONYM@@. The state should fund IVF, but only on a case-by-case basis, to those who have a legitimate medical condition that makes it difficult to conceive children naturally, and who can demonstrate that they are responsible and ready for a child.”
 
-5. “Oh, the budget,” sighs your Minister of Health, adding up calculations on @@HIS@@ fingers. “Do you have any idea how much the government spends on health? I’m not sure, off the top of my head, but I can get some figures for you. We can’t afford to offer any IVF. The best thing to do is vet private clinics and let them provide the service for those who can pay. Yes, it won’t help everyone, but it’s really the best we can afford in this economy, and at least no-one can say they’re being discriminated against based on circumstances. So they can’t object.”
+[5]. “Oh, the budget,” sighs your Minister of Health, adding up calculations on @@HIS@@ fingers. “Do you have any idea how much the government spends on health? I’m not sure, off the top of my head, but I can get some figures for you. We can’t afford to offer any IVF. The best thing to do is vet private clinics and let them provide the service for those who can pay. Yes, it won’t help everyone, but it’s really the best we can afford in this economy, and at least no-one can say they’re being discriminated against based on circumstances. So they can’t object.” [[color=blue]Must have private industry[/color]]
 
-*6. “I must object,” complains staunch conservative faith leader @@RANDOMNAME@@, snatching the bootees from Hera. “If the Creator commands that a person be barren, then let it be so. You can’t play God, monkeying around with nature. Some people are sent infertility as a trial, to bring them closer to their Maker. We don’t know why. Maybe they sinned while they themselves were still in the womb. But to forget that only the Creator can breathe life - manufacturing these test-tube abominations - is heresy, and @@NAME@@ will surely be struck down for it.” [[color=purple]Must lean towards being religious[/color]]
+**6. “I must object,” complains staunch conservative faith leader @@RANDOMNAME@@, snatching the bootees from Hera. “If the Creator commands that a person be barren, then let it be so. You can’t play God, monkeying around with nature. Some people are sent infertility as a trial, to bring them closer to their Maker. We don’t know why. Maybe they sinned while they themselves were still in the womb. But to forget that only the Creator can breathe life - manufacturing these test-tube abominations - is heresy, and @@NAME@@ will surely be struck down for it.” [[color=purple]Must lean towards being religious[/color]]
 
-*7. “I must object,” complains @@RANDOMNAME@@, director of the @@CAPITAL@@ Minimum Security Orphanarium. “I sympathise with those who can’t conceive, but does this overpopulated world need even more babies? Wouldn’t adoption be better than an expensive and painful medical procedure? IVF must be banned before our existing children run out of air to breathe!” [[color=purple]Must lean towards being secular[/color]]
+**7. “I must object,” complains @@RANDOMNAME@@, director of the @@CAPITAL@@ Minimum Security Orphanarium. “I sympathise with those who can’t conceive, but does this overpopulated world need even more babies? Wouldn’t adoption be better than an expensive and painful medical procedure? IVF must be banned before our existing children run out of air to breathe!” [[color=purple]Must lean towards being secular[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=929]#929[/anchor]: Champagne in the Glass [Lancaster of Wessex; ed: Pogaria][/b]
@@ -176,6 +176,7 @@ The Debate
 -------------------------------------------------------------------------------
 [b][anchor=932]#932[/anchor]: Teacher’s Past Blown Wide Open [Yetiglanchi Baby; ed: Candlewhisper Archive][/b]
 
+The Issue
 A local kindergarten teacher was fired this weekend when the parent of one of her students uncovered her previous job as an adult film star. The teacher has filed a wrongful termination lawsuit against the school.
 
 The Debate
@@ -276,7 +277,7 @@ The Debate
 -------------------------------------------------------------------------------
 [b][anchor=939]#939[/anchor]: A Question of Bad Faith [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
-The Issue:
+The Issue
 The Movementarians, the infamous cult associated with a mass suicide in the United Federation, has expressed interest in purchasing a vacant plot of land in @@NAME@@. Many fear that they intend to use the land for another ritual group self-sacrifice, while the Movementarians insist it will be for purely “peaceful and spiritual” experiences.
 
 The Debate

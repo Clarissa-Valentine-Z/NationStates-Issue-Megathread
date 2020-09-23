@@ -1,4 +1,3 @@
-0460 TO 0479
 [b][anchor=460]#460[/anchor]: Salt Of The Earth [Gnejs; ed: Lenyo][/b]
 
 The Issue
@@ -195,7 +194,7 @@ The Debate
 
 *4. "What's all this Star Trek nonsense?" questions Edward Rump while obsessively combing his hair. "The market can plan out economy just fine without any government intervention, robotic or otherwise. Just leave companies alone, and I'm sure they'll do a fine job. Now can you stop bothering me; I've got important work to do." [[color=blue]Must have private industry[/color]]
 
-5. "The AI want what now?" panics @@RANDOMNAME@@, your most paranoid minister. "That cannot be. Clearly the AI are plotting the destruction of our society. It's a slippery slope from sentient toasters to Cylons! If we don't want them eventually overthrowing us, the obvious solution is to shut them down."
+[5]. "The AI want what now?" panics @@RANDOMNAME@@, your most paranoid minister. "That cannot be. Clearly the AI are plotting the destruction of our society. It's a slippery slope from sentient toasters to Cylons! If we don't want them eventually overthrowing us, the obvious solution is to shut them down." [[color=blue]Must have AI Personhood[/color]]
 
 -----------------------------------------------------------------------------
 [b][anchor=473]#473[/anchor]: A-B-C, Easy As Don't Use Me [Lenyo; ed: Lenyo][/b]

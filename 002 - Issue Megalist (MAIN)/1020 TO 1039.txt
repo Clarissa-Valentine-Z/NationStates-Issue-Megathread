@@ -240,7 +240,7 @@ The Debate
 
 3. "They're saying WHAT about you?" fumes your Press Secretary, as @@HE@@ takes @@HIS@@ stress medication. "We need to start keeping track of anyone who says anything negative about you. It's high time the government controlled the news and banned foreign press from operating within our borders. This way, WE control the narrative and show those foreign media barons who's boss!"
 
-4. "Ever since you wore that Maxtopian clothing, my store's sales have skyrocketed!" exclaims @@RANDOMNAME@@, who owns a boutique fashion store in @@CAPITAL@@. "In fact, the fashion industry could use a little help from the government. Perhaps politicians could sponsor local fashion designers by wearing their designs or by plugging our stores during speeches. A little help would go a long way."
+[4]. "Ever since you wore that Maxtopian clothing, my store's sales have skyrocketed!" exclaims @@RANDOMNAME@@, who owns a boutique fashion store in @@CAPITAL@@. "In fact, the fashion industry could use a little help from the government. Perhaps politicians could sponsor local fashion designers by wearing their designs or by plugging our stores during speeches. A little help would go a long way." [[color=blue]Must have private industries[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=1037]#1037[/anchor]: Ill Girl [The Free Joy State; ed: Candlewhisper Archive][/b]

@@ -1,6 +1,4 @@
-**Intro Post**
-
-[align=center][img]https://i.imgur.com/i1qAZSx.jpg[/img]
+[align=center][img]https://i.imgur.com/5mdXBfa.png[/img]
 
 [size=150]Greetings, [b]**SPOILER ALERT**[/b]
 
@@ -18,8 +16,7 @@ In place of [i]#[/i] is the option number minus one: So, "choice-0" is option 1,
 If you could report these before each option, you'd greatly help us identify if there are any alternative options,
 though it is not a necessity if you can't figure it out or feel lazy. :)[/box][/spoiler]
 
-[color=#BD0F0F][size=120][b][u]This thread is [i]not[/i] for general questions or for requests for changes to issues.[/size][/u][/b]
-See the [url=https://forum.nationstates.net/viewtopic.php?f=13&t=424657]Got Issues FAQ for more information.[/url][/color]
+[color=#BD0F0F][size=150][b][u]This thread is [i]not[/i] for general questions or for requests for changes to issues.[/size][/u][/b][/color]
 
 [color=blue][size=120][b][i]List Section Quickjump:[/i][/b][/size][/color]
 [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88#s1]Section 1[/url]
@@ -28,13 +25,19 @@ See the [url=https://forum.nationstates.net/viewtopic.php?f=13&t=424657]Got Issu
 [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88#s4]Section 4[/url]
 [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88#s5]Section 5[/url] [i]inactive[/i]
 
-[size=120][b][u]The list is in the next post. This post is specifically for links and macros(, industries, and names[incomplete]) used in issues.[/u][/b][/size]
+[size=120][b][u]The list is in the next post. This post is specifically for links and macros, industries, and names used in the issues.[/u][/b][/size]
 
 Links and other resources:
-You may find a list of several options that we still need [url=https://www.nationstates.net/page=dispatch/id=1038505]here[/url]!
-Also feel free to look [url=https://nsindex.net/wiki/List_of_NationStates_issues]here[/url], run by Minoa, who works somewhat closely with this thread.
-[url=https://nsindex.net/wiki/Home]NSindex[/url], hosted by Minoa. Features lots of information, including several issues, options, and their effect lines.
-[url=https://forum.nationstates.net/viewtopic.php?f=13&t=440593]Trotterdam's list[/url] with effect lines and stats. Policies linked at the bottom.
+[list][*]You may find a list of several options that we still need [url=https://www.nationstates.net/page=dispatch/id=1038505]here[/url]!
+[*]Also feel free to look [url=https://nsindex.net/wiki/List_of_NationStates_issues]here[/url], run by Minoa, who works somewhat closely with this thread. Features lots of information, including several issues, options, and their effect lines.
+[*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=440593]Trotterdam's list[/url] with effect lines and stats. Policies linked at the bottom.
+[*][url=https://forum.nationstates.net/viewtopic.php?p=37445366#p37445366]Easter Eggs Issue thread and guide. Updated version by Drasnia.[/url]
+[*]This thread is for issue reporting, but we do have an inquiry thread for [url=https://forum.nationstates.net/viewtopic.php?f=13&t=424650]unusual issue effects right here![/url]
+[*]Want to write your own issue / see your name in here? [url=https://forum.nationstates.net/viewtopic.php?f=13&t=424657]Head on down to How-to Write an Issue![/url]
+[*]An old issue a little wonky or not working as expected? [url=https://forum.nationstates.net/viewtopic.php?f=13&t=158858]Help us fix old issues![/url]
+[*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=489397#p37479488]Got Issues? Hall of Fame![/url] Ran by SherpDaWerp.
+[*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=475174&p=36442927#p36442927]Valentine's NS Stats Trends and Correlations.[/url] Infrequently ran! ^^
+[*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=423697#p32501335]List of NPC nations and tribes.[/url] More about them, ran by Jutsa![/list]
 
 [b]MACROS[/b]:
 [b]@@A@@[/b] or [b]@@AN@@[/b]: Displays "a" or "an" depending on the word that follows (take: @@AN@@ @@MAJORINDUSTRY@@ worker)

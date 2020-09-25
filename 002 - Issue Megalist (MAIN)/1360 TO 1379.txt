@@ -126,7 +126,19 @@ The Debate
 3. “I agree that they’d never let her defect,” comments your shady Intelligence Minister, as he escorts you out of the room. “Which is why I’m surprised she’s here — the Blackacrean Supreme Leader keeps close watch on all of her subordinates. She must have been sent here to spy on us, but that’s fine. We’ll feed her dirty intel, track her communications, and who knows? We could find ourselves a spy network, right here in @@NAME@@. I’m sure you’ll agree this is the best course of action, hmm?”
 
 --------------------------------------------------------------
-[b][anchor=1370]#1370[/anchor]: TBD [/b]
+[b][anchor=1370]#1370[/anchor]: All Systems Post-Nominal [Verdant Haven; ed: Candlewhisper Archive][/b]
+
+The Issue
+After several avoidable deaths were blamed on the incompetent medical advice of “@@RANDOMNAME@@ MD”, an individual operating from a shady office on the outskirts of @@CAPITAL@@, investigation revealed that @@HE@@ was using the letters MD without possessing a medical license, nor indeed any form of qualification.
+
+The Debate
+1. “I never lied to anybody!” wheedles the accused individual over the phone, from the bunker where @@HE@@ has gone into hiding. “I never said I was a Medical Doctor, and I didn’t post any signs calling my office a clinic. In fact, obviously, the initials stand for Managing Director. I merely gave advice to whomever happened to come by, and they paid me for my wisdom! Is it a crime to be wrong? Whatever happened to free speech?”
+
+2. “My diagnosis: misuse of post-nominal letters. The prescription: board certification!” pontificates Doctor @@RANDOMNAME@@, president of the @@NAME@@ Medical Association, while scribbling illegibly in a notepad. “There are professional associations for nearly all reputable occupations: MDs, CPAs, even the lawyers with their cute little ‘Esq.’ title! You must require that an individual be certified by a proper professional association before using any kind of letters after their name, for the public’s sake.”
+
+3. “I agree that we need credentialing, but the government ought to handle it,” opines A@@RANDOMNAME@@, your Deputy Minister for Expanding Bureaucracy. “Can we really trust private groups to handle membership fairly? That’s just begging for corruption and nepotism. We’ll set standards that will be the same all across @@NAME@@, and the paper trail we create — signed in triplicate and filed appropriately — will ensure we know exactly who is allowed to call themselves what!”
+
+4. “Occupational titles?” asks your protocol assistant, straightening his cravat. “Oh no, what the government needs is some new titles of its own, to recognize citizens that have served us well! Imagine — the @@LEADER@@ Medal of Freedom! The @@NAME@@ Legion of Merit! Maybe even bring back knighthoods and earldoms and duchies? That’s how you show some appreciation! Those are the only post-nominals that should be allowed, and the only ones that matter!”
 
 --------------------------------------------------------------
 [b][anchor=1371]#1371[/anchor]: TBD [/b]

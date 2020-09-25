@@ -74,7 +74,7 @@ The Debate
 5. “A license fee to watch TV? Public funding? What are we, East Lebatuckese?” questions billionaire media mogul RuPaul Murmarina, the owner of @@ANIMAL@@ News. “Forcing people to pay an archaic institution for supposedly impartial news and educational content is nonsense. I say privatise the broadcaster and let the free market do what it does best: meet the needs of the people by telling them what to think.”
 
 --------------------------------------------------------------
-[b][anchor=1366]#1366[/anchor]: Parklife [Pythaga; ed Gnejs][/b]
+[b][anchor=1366]#1366[/anchor]: Parklife [Pythaga; ed: Gnejs][/b]
 
 The Issue
 Public parks all across @@NAME@@ are in shambles, with sports fields overgrown and playgrounds rusting themselves to pieces, all due to a lack of sufficient funding. While the upper-crust of @@DEMONYMADJECTIVE@@ society have taken to funding and operating their own parks on private property, large segments of urban populations have been left recreationally disenfranchised. A plethora of interested parties are demanding that you take a swing at the problem.
@@ -87,7 +87,7 @@ The Debate
 3. “But that alone is not enough!” shouts @@RANDOMNAME@@, your neighbourhood dustman and part-time socialist, while waving a ‘Parks for the Proletariat’ poster in your face. “Public space is scarce, and you cannot continue to allow the upper-class to eat from their gold-plated picnic tables in their gated gardens. Take the lands those posh parks inhabit, and make them free to enjoy for all the people. From the hands of the rich, to walking hand-in-hand. That is the proper parklife.”
 
 --------------------------------------------------------------
-[b][anchor=1367]#1367[/anchor]: Sweet, Sweet Marketing [Lelscrep, ed: Candlewhisper Archive][/b]
+[b][anchor=1367]#1367[/anchor]: Sweet, Sweet Marketing [Lelscrep; ed: Candlewhisper Archive][/b]
 
 The Issue
 Recent studies show childhood obesity is on the rise, and many believe this to be the fault of attention-grabbing packaging on sugary foods.
@@ -113,7 +113,7 @@ The Debate
 3. “This plan is too complicated,” says the laconic Minister of Gordian Knots, who arrived in an ox cart and is now snipping at the air with a pair of scissors. “But doing nothing is not an option. Let us ban cars from the city instead. Stops congestion. Keeps things simple.”
 
 --------------------------------------------------------------
-[b][anchor=1369]#1369[/anchor]: Negotiation Complication [Westinor, ed: Candlewhisper Archive][/b]
+[b][anchor=1369]#1369[/anchor]: Negotiation Complication [Westinor; ed: Candlewhisper Archive][/b]
 
 The Issue
 For the past few months, your administration has been working on a landmark trade deal with the historically hostile nation of Blackacre. On the eve of the agreement’s planned signing, Georgia Mormont — a high-ranking official from the Blackacrean government — has approached you with the intent to defect.

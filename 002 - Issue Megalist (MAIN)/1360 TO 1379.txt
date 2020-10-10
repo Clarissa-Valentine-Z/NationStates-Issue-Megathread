@@ -169,22 +169,116 @@ The Debate
 4. “I come to the games to watch football, not to look at some foreign sponsor’s logo on a kit!” declares diehard fan @@RANDOMNAME@@, whose friends are rearranging themselves to spell “@@NAME@@” in body paint. “Or some local sponsor’s logo on a kit! Or anything on a kit, actually. Why don’t we just require athletes to play shirtless so we can all get the best view of their muscles? You don’t need any deep-pocketed backers to play the way nature intended.”
 
 --------------------------------------------------------------
-[b][anchor=1373]#1373[/anchor]: TBD [/b]
+[b][anchor=1373]#1373[/anchor]: You Should Have (Copy)Left My Software Alone! [SherpDaWerp; ed: Electrum][/b]
+
+The Issue
+For once, a government program has been a hit, with the new YourGov app giving citizens unified access to all their important government services. But some @@DEMONYMPLURAL@@, concerned with the storage of their personal data on government servers, have decompiled the app. These privacy advocates have discovered that large portions of the code rely on restrictive “copyleft” software libraries written in the United Federation.
+
+The Debate
+1. “I created those libraries for the good of the world, and you selfish @@DEMONYMPLURAL@@ jerks used them without following the terms!” yells Ganondorf Ungar, sniffling his nose as he tries to wipe boogers on your table surreptitiously. “It says right here in the software license: all derivative works must be released under the same open-source license, so you’re committing a copyright violation by not giving out your code! Release your code and comply with the license, then maybe, just maybe, I won’t take your government to some international court and sue for everything you’ve got!”
+
+2. “Whoa, now hold on there,” interjects lead YourGov developer Lucina Claus, who likes to go with the integer overflow. “Yeah... okay, we might possibly have used, ah, just a couple of those libraries that the kid wrote. But for us to comply with this “Wildebeest” license he’s talking about, we would have to make our code open source! Imagine the security risk if Dàguó hackers were able to access our systems by using the publicly available source code! It’s unreasonable to expect us to comply with these terms — you need to exempt the government from overreaching copyleft licenses in the name of security!”
+
+3. “The problem here isn’t the license or the code, it’s that people found out!” whispers a shady looking individual, the brim of whose black hat is tilted to obscure his face. “@@DEMONYMPLURAL@@ who decompile the code are a security risk themselves — just like any malicious hacker. We need to obfuscate all of the code, only allow trusted developers access, and forbid members of the public from tinkering with it. Anyone who tries to probe government infrastructure obviously has hostile intentions, and we need to treat them that way!”
+
+4. “Pretty sure that’s an unconscionable breach of our civil rights,” responds Sancho Jones, who found the copied code, as he desperately tries to conceal a Guy Fawkes mask. “We have a right to know what we’re installing on our computers — any software that you want us to download should always be open source, including the ones that you code in house! Just think how much better these applications would be if all of @@NAME@@ could provide input? True @@DEMONYMADJECTIVE@@ programs, made by the people, for the people!”
 
 --------------------------------------------------------------
-[b][anchor=1374]#1374[/anchor]: TBD [/b]
+[b][anchor=1374]#1374[/anchor]: Protect and Swerve [Candensia; ed: The Marsupial Illuminati][/b]
+
+The Issue
+A high-speed police pursuit ended in disaster last night when the suspect suddenly lost control of her vehicle and swerved into incoming traffic, triggering a fatal pileup. The deadly chase has raised questions regarding whether pursuits on the nation’s roadways are worth the danger they present to the public.
+
+The Debate
+1. “Let’s cut to the chase,” suggests roadway safety official Bella Swallows. “Evidence shows that police pursuits present an unacceptable risk to the general public and drive @@DEMONYMPLURAL@@ into their graves! A national no-pursuit policy should be adopted, with reasonable exceptions when authorized by a senior police officer. After all, there’s no point in running down the guilty if the innocent are collateral damage.”
+
+2. “If cops can’t tail thugs then why even have police cars?” oinks the rotund @@CAPITAL@@ Police Chief, channeling her frustration into your desk with a truncheon. “Besides, you’d be letting lawbreaking lowlifes escape! LEOs should instead be extensively trained in PIT, TPAC, and TVI against GTAs, TWOC, and perps DUI, to prevent IRTCs and RTAs. If criminals know escape is impossible, then maybe they won’t run to begin with. Do it ASAP!”
+
+3. “Nobody can escape a traffic jam!” declares the Interim Director of Infrastructure, Oversight, and Traffic at the Transportation Ministry. “Roadway congestion near vehicle pursuits can be easily created and manipulated by altering traffic lights or closing roads, ensnaring evasive goons in bumper-to-bumper backups, which all but guarantees quick apprehension by police. Motorists might not appreciate being made into unwitting roadblocks, but why care? If you ask me, the only thing more despicable than a bottleneck is a criminal!”
 
 --------------------------------------------------------------
-[b][anchor=1375]#1375[/anchor]: TBD [/b]
+[b][anchor=1375]#1375[/anchor]: Never Say Yes to a Conference Again [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Issue
+Once again, the cruel hand of obligation has dragged you to the G20,000 Summit, an annual gathering of nations great and small. You are currently stuck in the evening social mixer, where one wrong word to a rival nation’s representatives can quickly escalate to hostilities. Unfortunately, several dignitaries appear keen on talking to you.
+
+The Debate
+*1. “There you are! We haven’t spoken in ages,” enthuses Chancellor Kurt Zahmahkibo of Smalltopia. “I hate to ask for your help, but I have a bit of a conundrum. I’m sure you have heard that East Lebatuck, our largest neighbor, has become rather menacing and hostile recently. Their military has been conducting frequent ‘training exercises’ right next to the border. The next thing you know, they’ll be storming our cities with their tanks! To be blunt, we need protection from these communist warmongers. Would it be possible to station some of your nuclear weapons in our country?” [[color=blue]Must be Capitalist[/color]]
+
+*2. “There you are! We haven’t spoken in ages,” enthuses “Doc” Moreno, the President for Life of the socialist island nation of San Vitenzo. “I hate to ask for your help, but I have a bit of a conundrum. I’m sure you have heard that the United Federation, our closest neighbor, has become rather menacing and hostile recently. Their navy has been conducting frequent ‘training exercises’ in our own territorial waters. The next thing you know, they’ll be landing on our shores with their tanks! To be blunt, we need protection from these fascist pigs. Would it be possible to station some of your nuclear weapons in our country?” [[color=red]Must be Socialist[/color]]
+
+**3. Before you can respond, you hear a shout from the nearby bar. “Hey, it’s the Head Honcho of @@NAME@@! How’s it going?” exclaims Smalltopia’s Air Chief Marshall Diego Fufu, who seems to see this sort of gathering as an excuse to get uproariously drunk. “Did the Boss Man tell you about our proposal to borrow some of your nukes? You know, if you really wanted to protect us, why don’t you just give us the launch codes after sending over your missiles? That way, we’d both be able to unleash destruction upon anyone who threatened us... including those vulgar Maxtopians.” [[color=blue]Must be Capitalist[/color]]
+
+**4. Before you can respond, you hear a shout from the nearby bar. “Hey, it’s the Head Honcho of @@NAME@@! How’s it going?” exclaims San Vitenzo’s Air Chief Marshall @@RANDOMFIRSTNAME@@ Fufu, who seems to see this sort of gathering as an excuse to get uproariously drunk. “Did the Boss Man tell you about our proposal to borrow some of your nukes? You know, if you really wanted to protect us, why don’t you just give us the launch codes after sending over your missiles? That way, we’d both be able to unleash destruction upon anyone who threatened us... including those vulgar Maxtopians.” [[color=red]Must be Socialist[/color]]
+
+***5. “Yeah... we’re not giving out our nuclear launch codes,” declares your Defense Minister, Mack Rimera, who has been glaring at the Merovingian delegation with a look of disgust. “However, Chancellor Zahmahkibo has a point. The commie parasites need to be kept in check. Tell Smalltopia that we will agree to their request, but only if we can set up a military base on their land — and doing it correctly is going to require a lot of tax @@CURRENCYPLURAL@@.” [[color=blue]Must be Capitalist[/color]]
+
+***6. “Yeah... we’re not giving out our nuclear launch codes,” declares your Defense Minister, Rolan Malinovich, who has been glaring at the Merovingian delegation with a look of disgust. “However, President Moreno has a point. The imperialist parasites need to be kept in check. Tell San Vitenzo that we will agree to their request, but only if we can set up a military base on their land — and doing it correctly is going to require a lot of tax @@CURRENCYPLURAL@@.” [[color=red]Must be Socialist[/color]]
+
+****7. “Seriously? You still have weapons of mass destruction?” calls Prime Minister Anders Anderson of Skandilund, who was eavesdropping from a nearby table. “I strongly urge you to dismantle them. I know they make you feel powerful and can lead to a variety of entertaining dilemmas, but the world would be so much safer without them. And more boring, but I suppose some people like that.” [[color=blue]Must be Capitalist[/color]]
+
+****8. “Seriously? You still have weapons of mass destruction?” calls Prime Minister Anders Anderson of Skandilund, who was eavesdropping from a nearby table. “I strongly urge you to dismantle them. I know they make you feel powerful and can lead to a variety of entertaining dilemmas, but the world would be so much safer without them. And more boring, but I suppose some people like that.” [[color=red]Must be Socialist[/color]]
 
 --------------------------------------------------------------
-[b][anchor=1376]#1376[/anchor]: TBD [/b]
+[b][anchor=1376]#1376[/anchor]: From East Lebatuck With Love [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+A few months have passed since the G20,000 Summit, where you agreed to station some of your nuclear weapons in Smalltopia to aid in their defense against the forces of communism.
+
+The Issue
+Today was supposed to be a calm day. The issues on your desk this morning were even more trivial than usual. Of course, that’s how it always goes. Your Minister of Intelligence, known only as ‘N’, suddenly bursts into your office with an armful of surveillance photos. “@@LEADER@@, we’ve discovered an urgent problem. The nearby island nation of San Vitenzo — a backward, communist hellhole — has suddenly become a buzzing hive of activity. East Lebatuck has covertly brought a shipment of nuclear missiles to the island and is setting them up as we speak. Yes, we put some of our own missiles in Smalltopia — but we’re the good guys! They have no right to threaten us! I’m sending in secret agent James Bont to deal with the situation. Of course, we will need to attack this problem on all fronts, so I have invited our colleagues from some of the... less interesting government ministries to discuss a few additional options.”
+
+The Debate
+1. Without any hesitation, Defense Minister Mack Rimera marches into your office and drops a stack of reports into your lap. “We can’t afford to let East Lebatuck put our citizens in mortal danger! Those commies only respect power and violence. If we send our warships to blockade San Vitenzo, this will allow us to project a show of force, while also preventing additional shipments of missiles or enemy troops from reaching the island. Do you agree?”
+
+2. “Perhaps a calmer reply would produce better results,” suggests Minister of International Diplomacy Maureen Dusk, who walks in with the acoustic guitar that she is infamous for carrying around at all times. “The missiles are definitely a threat, but they’re not yet capable of firing them from San Vitenzo. We have a limited window of opportunity to solve things peacefully. What if we suggested some sort of diplomatic summit between our three nations? It couldn’t hurt to ask.”
 
 --------------------------------------------------------------
-[b][anchor=1377]#1377[/anchor]: TBD [/b]
+[b][anchor=1377]#1377[/anchor]: For @@LEADER@@’s Ears Only [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+Secret agent James Bont has been sent to San Vitenzo with orders to infiltrate the missile installation sites.
+
+The Issue
+As you are heading toward yet another meeting, you receive a phone call from N, your Minister of Intelligence, who has news from James Bont and needs to speak with you about his mission.
+
+The Debate
+1. “Good morning, boss,” proclaims the steady voice of your spy chief. “Bont reported that he was able to steal a missile technician’s uniform and security badge that may allow him to enter the enemy bases undetected. However, there’s been a small... complication. We believe that one or more enemy agents are aware of his presence. They’re probably too dangerous to ignore. Do you want to give Bont a free hand to neutralize the threat? A few bullets should take care of... wait, did you hear that clicking sound? I hope this phone isn’t bugged. Code Blue, @@LEADER@@.” N hangs up, leaving you bewildered.
+
+2. After staring at your phone for a few seconds, you feel your right shoe vibrating as blue text starts scrolling across the toe: “Alternatively, if you’re uncomfortable with extrajudicial killings, you could order Bont to capture any enemy spies and hand them off to us for interrogation. It’s riskier than just shooting them — our enemies may have set up a trap that could result in Bont’s death — but we might be able to gain valuable intel or use prisoners as a negotiating tool.”
+
+3. While still thinking it over, you’re suddenly interrupted by cooing coming from an open window. A carrier pigeon alights on your shoulder and presents a small note tied to its right leg: “There’s a third way of dealing with this. If you want, you could instruct Bont to simply ignore the enemy agents and focus on his primary mission. This might just be a diversion to waste our time and allow East Lebatuck to finish installing their missiles. Well, let me know of your decision by this evening. PS: This message will self-destruct in ten seconds.”
 
 --------------------------------------------------------------
-[b][anchor=1378]#1378[/anchor]: TBD [/b]
+[b][anchor=1378]#1378[/anchor]: Authorization to Kill [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+The navy has been sent to blockade the nearby island of San Vitenzo, where East Lebatuck has been installing nuclear missiles.
+
+The Issue
+San Vitenzo is currently surrounded by a mighty armada of @@DEMONYMADJECTIVE@@ naval vessels. However, convoys of ships from East Lebatuck are quickly approaching your blockade line and are threatening to open fire unless you let them through.
+
+The Debate
+*1. “We can’t let the commies intimidate us!” declares Defense Minister Mack Rimera, who is pouring something from a flask into his morning coffee. “If they think we’re weak, they’ll just continue trying to take advantage of us at every opportunity. Have our flagship fire a warning shot across their bows and order East Lebatuck’s ships to turn around. If the enemy doesn’t comply, open fire and unleash hell.” [[color=blue]Must be Capitalist[/color]]
+
+*2. TBD [[color=red]Must be Socialist[/color]]
+
+**3. “No! That could escalate to war — and it would all be our fault!” shouts Maureen Dusk, who had been plucking a few notes of ‘Born in @@NAME@@’ on her guitar. “Keep the blockade in place and demand that the enemy stay back, but order our navy to take no action unless they’re directly attacked. Stopping East Lebatuck’s cargo shipments isn’t worth our sailors’ lives.” [[color=blue]Must be Capitalist[/color]]
+
+**4. TBD [[color=red]Must be Socialist[/color]]
 
 --------------------------------------------------------------
-[b][anchor=1379]#1379[/anchor]: TBD [/b]
+[b][anchor=1379]#1379[/anchor]: A View to a Thrill [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+East Lebatuck’s convoy confronted your naval blockade of San Vitenzo.
+
+The Issue
+The enemy ships have turned back, in compliance with your demands. However, your surveillance of the island now shows that the nuclear missiles that were already on San Vitenzo are almost ready for deployment.
+
+The Debate
+1. “They were just using the standoff as a delaying tactic!” yells Defense Minister Mack Rimera, throwing his notes across the room in a barely restrained fury. “While we were pointing our guns at each other, East Lebatuck was biding its time until their doomsday weapons were ready. We only have a few days before they are able to launch. It’s imperative that we send our air force to bomb the missile sites — and we must do it now!”
+
+2. “Don’t forget that we still have James Bont over there,” reminds Intelligence Minister N, who had been whispering to a young woman in the corner. “My assistant, Ms. Evelyn Cashcent, tells me that Agent Bont has made significant progress at infiltrating the enemy bases. There’s a good chance that he will be able to sabotage the missile launch equipment, if those are your orders. The only downside is that we don’t know how long this might take.”
+
+3. “It’s still not too late for negotiations,” claims Minister of International Diplomacy Maureen Dusk, playing an anguished version of the ‘Rogue Mule Blues’ on her guitar. “If there’s any possibility of a non-violent solution, we have to pursue it. However, if we’re going to have some sort of diplomatic summit to work out our differences, this is almost certainly our last opportunity. If we let it slip away... things could get rather grim.”

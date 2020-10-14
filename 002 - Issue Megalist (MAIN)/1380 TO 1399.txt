@@ -1,4 +1,4 @@
-[b][anchor=1378]#1380[/anchor]: TBD [/b]
+[b][anchor=1380]#1380[/anchor]: TBD [/b]
 
 --------------------------------------------------------------
 [b][anchor=1381]#1381[/anchor]: Chairman No [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
@@ -36,7 +36,18 @@ The Debate
 2. “Good morning! Are you ready to make history? Let me just get my ceremonial signing pen.” Rushev reaches into his coat pocket and removes not a pen, but a Maxarov pistol, which he points directly at your chest. “Have you noticed that world leaders like ourselves never get frisked for weapons? I can’t remember the last time I had to go through a metal detector. Seems like a security flaw, don’t you think? Well, I digress. I hope you didn’t actually expect me to remove my own missiles. You see, I didn’t get to be Chairman of East Lebatuck by giving up power every time I had a disagreement with someone. Real leaders do whatever it takes to seize power and claw our way to the top. Of course, I hope you understand that this isn’t personal — it’s just politics. As soon as you’re dead...” Suddenly, the window shatters as James Bont crashes into the room in a hail of glass fragments, closely followed by his a Rainbow Pony flag parachute. Bont quickly fires a miniature grappling hook from his wristwatch, which latches onto Rushev’s pistol and pulls it out of his hand. “I hope you don’t mind me dropping in, boss. Your aide pressed the panic button — and I see that mister Commie in Chief is up to his old tricks. Well, here’s how it’s going to go, Rushev. I secretly removed a warhead from one of your nuclear missiles and handed it off to one of my colleagues in East Lebatuck. He has hidden it in your capital city, ready for detonation at a moment’s notice. Either you sign that agreement and follow through with each of its terms, which include some generous financial aid for San Vitenzo, or your ‘glorious worker’s paradise’ is going to be a victim of your own hubris. Are we clear?” Rushev nods and quickly scribbles his name on the agreement. “Good. Now get out of here and don’t threaten @@NAME@@ ever again, or your capital will become a radioactive crater faster than you can say ‘Marxist class struggle’.” Bont turns toward you as Rushev and his aide scurry out of the room. “Let’s go home, shall we?”
 
 --------------------------------------------------------------
-[b][anchor=1384]#1384[/anchor]: TBD [/b]
+[b][anchor=1384]#1384[/anchor]: On @@LEADER@@’s Secret Service [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+You have asked James Bont to sabotage East Lebatuck’s missile installation project on San Vitenzo.
+
+The Issue
+You and your advisors are gathered around the table in a secure meeting room to hear the latest updates from your secret agent, whose static-distorted voice is currently emanating from a phone in the center of the table.
+
+The Debate
+1. “Good morning. I regret to inform you that I will require some assistance,” declares Bont, who doesn’t betray any sense of emotion. “The nuclear missiles on this island are currently being housed in secure warehouses at East Lebatuck’s military bases. The problem is that each warehouse is surrounded by a battalion of elite troops from their Red Guard. No one gets in or out without the top general’s explicit approval. I need someone in HQ to hack into the enemy’s personnel files and make it look like I’m a missile technician who was sent by Chairman Rushev to check on their progress. Can you make it happen?”
+
+2. “This obviously isn’t working,” states Defense Minister Mack Rimera, twitching nervously as he continues to gulp coffee from an oversize mug. “The enemy is going to see right through that plan. Remember the time Bont tried to pass as a Macronesian Islander? What a debacle. The easy way to solve this problem is with a good, old-fashioned bombing. We can target the missile warehouses — at least the ones we know about — and keep civilian casualties to a minimum. Two hundred deaths is fairly low, right?"
 
 --------------------------------------------------------------
 [b][anchor=1385]#1385[/anchor]: Skycrash [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
@@ -55,10 +66,32 @@ The Debate
 3. Before anyone else can speak, your rarely seen Minister of Mass Destruction, Dr. Helix Fenniker, climbs down a rope ladder that has just descended from the ceiling. “I couldn’t help overhearing that we have a belligerent enemy and a captured pilot. Allow me to introduce ‘ICE-X’ — my lab’s solution to both of those problems. This breakthrough bio-weapon destroys cell walls via a rapid crystallization process. Deployment is easy — we’ve already loaded the canisters into some modified cruise missiles. Our warships can fire them at the enemy bases with impunity! Of course, any ‘innocent’ civilians or animals that are exposed to the residue will experience catastrophic organ failure. But look on the bright side! Our pilot won’t be able to divulge any secrets, and most of the enemy troops will be eliminated!”
 
 --------------------------------------------------------------
-[b][anchor=1386]#1386[/anchor]: TBD [/b]
+[b][anchor=1386]#1386[/anchor]: The Spy Who Tricked Me [Pogaria; ed: Pogaria] [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+Your secret agent has been sent to infiltrate the enemy’s missile storage sites.
+
+The Issue
+The nation’s top government officials have been anxiously waiting to hear the outcome of James Bont’s secret mission. As you are gathered around a table with your advisors to discuss the situation, Intelligence Minister N suddenly motions for silence and removes a buzzing phone from a nearby briefcase. “That’s Bont’s emergency contact number. I’m putting it on speakerphone.” N places the phone in the middle of the table. “Hello, @@DEMONYMADJECTIVE@@ swine! This is Chairman Joseph Rushev of East Lebatuck. You were expecting to hear from Mr. Bont, I presume? We caught your spy snooping around one of our military bases in San Vitenzo, claiming to have been sent by me! What kind of fools do you take us for? I think it’s time that we taught you a lesson. Perhaps if I sent you Mr. Bont’s severed head in a box, you would finally get the message that East Lebatuck does not tolerate espionage or foreign meddling!” You hear a click, and the line goes dead.
+
+The Debate
+1. “What the hell was that?” Defense Minister Mack Rimera takes a long swig from his flask before continuing. “Well, I hate to say ‘I told you so,’ but I knew from the beginning that this spy nonsense wasn’t going to work. Swift and decisive military action directed at those bases is our only remaining option. We need to prepare for a full invasion — land, sea, and air!”
+
+2. “Do you always let your... pistol do your thinking for you?” replies Maureen Dusk, whose guitar is uncharacteristically silent. “What if we were to offer a prisoner swap? We still have that East Lebatuckese spy that we captured a while back — and we already got all of the information we needed out of him. Let’s offer to trade him for our agent. If we act fast enough, they might not be able to extract any classified secrets — or his head.”
+
+3. Before anyone else can speak, your rarely seen Minister of Mass Destruction, Dr. Helix Fenniker, climbs down a rope ladder that has just descended from the ceiling. “I couldn’t help overhearing that we have a belligerent enemy and a captured agent. Allow me to introduce ‘ICE-X’ — my lab’s solution to both of those problems. This breakthrough bio-weapon destroys cell walls via a rapid crystallization process. Deployment is easy — we’ve already loaded the canisters into some modified cruise missiles. Our warships can fire them at the enemy bases with impunity! Of course, any ‘innocent’ civilians or animals that are exposed to the residue will experience catastrophic organ failure. But look on the bright side! Most of the enemy troops will be eliminated. Furthermore, I’m sure Bont will escape in time like he always does — and if he doesn’t make it, he won’t be able to divulge any secrets!”
 
 --------------------------------------------------------------
-[b][anchor=1387]#1387[/anchor]: TBD [/b]
+[b][anchor=1387]#1387[/anchor]: The @@DEMONYM@@ with the Golden Gun [Pogaria; ed: Pogaria] [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+Your government offered to trade prisoners with East Lebatuck.
+
+The Issue
+Good news, everyone! East Lebatuck has accepted your offer for a prisoner swap — on the condition that you deliver their agent to the meeting place in person, alone and unarmed.
+
+The Debate
+1. You have arrived at the agreed-upon location, a bridge that spans the border between Smalltopia and East Lebatuck. Their spy, who is still wearing handcuffs and a @@DEMONYMADJECTIVE@@ prison uniform, dutifully shuffles alongside you as you exit your car. The night air seems colder than usual for this time of year. After a few minutes, an armored personnel carrier drives over from the other side of the bridge, with lackeys in suits running alongside the vehicle. A phalanx of bodyguards armed with automatic rifles jump out of the vehicle and point their weapons at you as East Lebatuck Chairman Joseph Rushev steps out of the back. He pulls a hooded, disheveled figure out of the vehicle, who slumps to the ground, unconscious. Your own prisoner starts walking toward his people. “Come here, Comrade Adel. The imperialists can’t hurt you anymore,” smirks Rushev, who turns to face you. “So, I must ask... how stupid are you? Now I get to swap a useless prisoner for the leader of @@NAME@@! How much money do you think your government is willing to pay to get you back?” Without warning, the guard furthest to the right suddenly pivots and unleashes a barrage of bullets into the other guards, who are cut down before they realize what is happening. The rogue shooter removes his helmet, revealing the handsome face of James Bont. Rushev yanks the hood from the unconscious prisoner at his feet and yelps upon recognizing his own bodyguard. Your secret agent runs over to your position, keeping his rifle pointed at Chairman Rushev, and pulls out a phone. After dialing a number, he listens intently for a moment before a loud burst of static disrupts the silence. “Looks like your plans are shot, comrade!” announces Bont, mockingly. “I’ve just detonated all of the hidden explosives that I planted on your missiles on San Vitenzo. Consider yourself impotent! I suggest you head on home, or the next bullet that comes out of this gun is going to get a little Red.” Bont turns toward you as Chairman Rushev jumps back into his vehicle and slinks away towards the other side of the bridge. “Let’s go home, shall we?”
 
 --------------------------------------------------------------
 [b][anchor=1388]#1388[/anchor]: Tomorrow Never Arrives [Pogaria; ed: Pogaria] [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
@@ -155,7 +188,20 @@ The Debate
 2. “We can’t escalate the situation!” shouts Minister of International Diplomacy Andrea Gramyki, playing an anguished version of the ‘@@ANIMAL@@ Blues’ on her guitar. “San Vitenzo may be our ally, but we won’t benefit from getting into a shooting war over a small island with minimal resources. Have our ships perform maneuvers for a day or two to confuse the enemy, then order them to turn around. That should still be enough of a delay for our troops on the island to make some progress installing the first shipment of missiles.”
 
 --------------------------------------------------------------
-[b][anchor=1394]#1394[/anchor]: TBD [/b]
+[b][anchor=1394]#1394[/anchor]: For @@LEADER@@’s Ears Only [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+The vile capitalists of the United Federation attempted to blockade the ports of San Vitenzo to prevent your supply ships from getting through.
+
+The Issue
+Success! Your heroic sailors managed to sink several enemy ships that were surrounding San Vitenzo, allowing your navy to deliver the remaining missiles and supplies that were needed for their protection. As you are heading toward a meeting to discuss your next steps, you receive a phone call from N, your Minister of Intelligence, who has news from Natasha Milanova and needs to speak with you about her mission.
+
+The Debate
+1. “Good morning, boss,” proclaims the steady voice of your spy chief. “Milanova reported that she was able to steal an officer’s uniform and security badge that should allow her to enter the high security areas of their naval base. However, there’s been a small... complication. We believe that one or more enemy agents are aware of her presence. They’re probably too dangerous to ignore. Do you want to give Milanova a free hand to neutralize the threat? A few bullets should take care of... wait, did you hear that clicking sound? I hope this phone isn’t bugged. Code Blue, Hermann von Pückler-Muskau.” N hangs up, leaving you bewildered.
+
+2. After staring at your phone for a few seconds, you feel your right shoe vibrating as blue text starts scrolling across the toe: “Alternatively, if you’re uncomfortable with extrajudicial killings, you could order Milanova to capture any enemy spies and hand them off to us for interrogation. It’s riskier than just shooting them — our enemies may have set up a trap that could result in Milanova’s death — but we might be able to gain valuable intel or use prisoners as a negotiating tool.”
+
+3. While still thinking it over, you’re suddenly interrupted by cooing coming from an open window. A carrier pigeon alights on your shoulder and presents a small note tied to its right leg: “There’s a third way of dealing with this. If you want, you could instruct Milanova to simply ignore the enemy agents and focus on her primary mission. This might just be a diversion to waste our time. Well, let me know of your decision by this evening. PS: This message will self-destruct in ten seconds.”
 
 --------------------------------------------------------------
 [b][anchor=1395]#1395[/anchor]: For @@LEADER@@’s Ears Only [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
@@ -201,10 +247,25 @@ You and your advisors are gathered around the table in a secure meeting room to 
 The Debate
 1. “Good morning. I regret to inform you that I will require some assistance,” declares Milanova, who doesn’t betray any sense of emotion. “While sabotaging the fuel lines on a Federation destroyer, I overheard a naval officer by the name of Captain Duffle who was planning some type of ‘counter-attack’ on @@NAME@@. I didn’t hear many of the details, but I think something big is being planned at base headquarters. The problem is that it is constantly guarded by a battalion of elite troops from the United Federation’s Violet Berets. No one gets in or out without the top admiral’s explicit approval. I need someone in HQ to hack into the enemy’s personnel files and make it look like I’m an auditor who was sent by President Finnedy to perform a surprise inspection. Can you make it happen?”
 
-2. “That’s not going to work,” asserts Defense Minister Rolan Malinovich, twitching nervously as he continues to gulp coffee from an oversize mug. “The enemy is going to see right through that plan. Remember the time Milanova tried to pass as a Sakuran counter-terrorism operative? What a debacle. If she’s captured, we’ll be completely cut off from our only source of information about the Federation’s military deployments. I think Milanova should just keep her ear to the ground and try to uncover more of this plan without assuming any unnecessary risks.”
+2. TBD
+
+3. “That’s not going to work,” asserts Defense Minister Rolan Malinovich, twitching nervously as he continues to gulp coffee from an oversize mug. “The enemy is going to see right through that plan. Remember the time Milanova tried to pass as a Sakuran counter-terrorism operative? What a debacle. If she’s captured, we’ll be completely cut off from our only source of information about the Federation’s military deployments. I think Milanova should just keep her ear to the ground and try to uncover more of this plan without assuming any unnecessary risks.”
 
 --------------------------------------------------------------
 [b][anchor=1398]#1398[/anchor]: TBD [/b]
 
 --------------------------------------------------------------
-[b][anchor=1399]#1399[/anchor]: TBD [/b]
+[b][anchor=1399]#1399[/anchor]: VioletEye [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+You chose to arm the San Vitenzan peasants to help your outnumbered troops fend off an invasion.
+
+The Issue
+The United Federation’s military has invaded San Vitenzo in an attempt to find and destroy all of your nuclear missiles that are stationed on the island. Due to your over-reliance on poorly trained local militias, you and your allies are losing. Badly.
+
+The Debate
+1. “We’re overextended,” declares Minister of International Diplomacy Andrea Gramyki, playing a few tentative strains of ‘Comrade Pepper’s Lonely Hearts Club Band’ on her guitar. “We really shouldn’t have let ourselves get involved in a conflict on the other side of the world — not without sending a lot more of our own troops and equipment over there, which the United Federation would have discovered even earlier. A few hundred guards, missile technicians, and advisors wasn’t going to cut it. Offer a cease-fire and say that we are willing to negotiate.”
+
+2. Before anyone else can speak, your rarely seen Minister of Mass Destruction, Dr. Helix Fenniker, climbs down a rope ladder that has just descended from the ceiling. “I couldn’t help overhearing that we have a belligerent enemy to deal with, but few of our own troops on the ground. Allow me to introduce ‘VioletEye’ — the solution to your problems! My lab has developed and launched an orbital missile platform that can strike any target on the planet with conventional, high-yield explosives. But wait — there’s more! The missiles travel at such a high speed that they’re difficult to intercept without specialized equipment. The VioletEye satellite is only a prototype, but this seems like the perfect opportunity to test it, don’t you think? Just be aware that if we use this weapon, it will take months to load it with new missiles.”
+
+3. “Wow, missiles that can strike our enemies from space? Let’s do that!” exclaims Crazy Boris, your only spy who is expressly prohibited from carrying exploding pens due to an unpleasant incident at a fireworks factory. “But we also need a distraction so that the United Federation doesn’t detect the missiles until it’s too late to avoid them. Loco Lopez, an old friend of mine in Manamana, tells me that he has successfully completed his rabbit weaponization program and is willing to let us test it. Just strap a tiny parachute on each of these frightening fuzz-balls, air-drop them on the enemy, and watch the havoc ensue!”

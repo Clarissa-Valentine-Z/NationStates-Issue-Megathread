@@ -128,7 +128,9 @@ The Debate
 
 4. “We can’t have special-interest groups blasting off the planet whenever they feel like it,” declares Yui Shiomi, glaring disdainfully at Ziggy’s outfit. “But it might not be a bad idea to have an official @@DEMONYMADJECTIVE@@ Astronaut Corps. With a program carefully run by the government, we can ensure that our space travellers have no ideological loyalty except to our proud @@TYPE@@.”
 
-[5]. “This all seems rather foreboding,” stammers agoraphobic protester Dana Bautista. “If the Divine had wanted us to visit space, why is it so dark and inhospitable? There’s nothing up there but creepy spiders from Mars. We have shown remarkable foresight in forbidding unholy flying machines from these lands. Do not yield to the temptation of these rockets.” [[color=red]Airplanes are illegal[/color]]
+*5. “This all seems rather foreboding,” stammers agoraphobic protester Dana Bautista. “If the Divine had wanted us to visit space, why is it so dark and inhospitable? There’s nothing up there but creepy spiders from Mars. We have shown remarkable foresight in forbidding unholy flying machines from these lands. Do not yield to the temptation of these rockets.” [[color=red]Airplanes are illegal[/color]]
+
+*6. “This all seems rather foreboding,” stammers agoraphobic protester Harry Chapman. “If the Divine had wanted us to visit space, why is it so dark and inhospitable? There’s nothing up there but creepy spiders from Mars. We must forbid all flying machines from the @@DEMONYMADJECTIVE@@ skies; only then will we be safe from the terrors of the air.” [[color=blue]Airplanes are legal[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1349]#1349[/anchor]: You Must Be 18 Years or Older to View This Content [Noahs Second Country; ed: The Marsupial Illuminati][/b]

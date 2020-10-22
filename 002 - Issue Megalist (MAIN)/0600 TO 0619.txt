@@ -1,4 +1,3 @@
-0600 TO 0619
 [b][anchor=600]#600[/anchor]: Making A House A Home [The Grim Reaper; ed: Nation of Quebec][/b]
 
 The Issue 
@@ -83,7 +82,7 @@ The Debate
 
 3. "Of course you have to feed prisoners, but what kind of food?" muses oblivious naturalist @@RANDOMNAME@@ while watering your plastic office plants. "It's all these preservatives and cheap imported foods that have made these people violent in the first place! Why not establish prison farms and have inmates eat what they grow? Sure, it would tie up lots of fertile land, and there's always the risk of an escape, but the benefits to society are worth it."
 
-*4. "Well, look here, you've got all these mouths to feed, and you don't want the expense?" queries @@RANDOMNAME@@, CEO of @@DEMONYMADJECTIVE@@ Fried @@ANIMAL@@, one of @@NAME@@'s most popular fast food chains. "Looks like this here's something the private sector can help you with, and by private sector I mean my company! Just grant us the exclusive right to provide catering in all of @@NAME@@'s prisons, and we'll keep all those prisoners stuffed for a fraction of the cost! The government saves, the prisoners eat, and I cut out the compet-, er, provide a vital service to the community. It's a win-win!" [[color=blue]Must have private enterprise[/color] AND [color=blue]Must not be vegetarian[/color]]
+*4. "Well, look here, you've got all these mouths to feed, and you don't want the expense?" queries @@RANDOMNAME@@, CEO of @@DEMONYMADJECTIVE@@ Fried @@ANIMAL@@, one of @@NAME@@'s most popular fast food chains. "Looks like this here's something the private sector can help you with, and by private sector I mean my company! Just grant us the exclusive right to provide catering in all of @@NAME@@'s prisons, and we'll keep all those prisoners stuffed for a fraction of the cost! The government saves, the prisoners eat, and I cut out the compet-, er, provide a vital service to the community. It's a win-win!" [[color=blue]Must have private enterprise[/color] AND/OR? [color=blue]Must not be vegetarian[/color]]
 
 *5. "If you've got many mouths to feed, and not enough food, then the solution is simple," says Internment Facilitator Earl Herrelko, from the Chief Directorate of Camps. "Just reduce the number of mouths! Have your prison facilities in regions with sub-zero temperatures, leave the heating off, and by winter's end the problems will have self-resolved." [[color=red]Must not have private enterprise[/color]]
 

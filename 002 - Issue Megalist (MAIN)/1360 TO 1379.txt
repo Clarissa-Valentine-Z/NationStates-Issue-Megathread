@@ -166,7 +166,7 @@ The Debate
 
 3. “Hmm... if our enemies want to play this game, I suggest we join them on the pitch!” says your unconventional Minister of Intelligence and Sports. “If Althaniq, Blackacre, and the United Federation own our biggest football clubs to promote their interests, we need to promote our interests and propaganda in their countries by doing the same thing! That way, we can weaken their influence and use it to promote @@DEMONYMADJECTIVE@@ values instead! They won’t know what hit them!”
 
-4. “I come to the games to watch football, not to look at some foreign sponsor’s logo on a kit!” declares diehard fan @@RANDOMNAME@@, whose friends are rearranging themselves to spell “@@NAME@@” in body paint. “Or some local sponsor’s logo on a kit! Or anything on a kit, actually. Why don’t we just require athletes to play shirtless so we can all get the best view of their muscles? You don’t need any deep-pocketed backers to play the way nature intended.”
+[4]. “I come to the games to watch football, not to look at some foreign sponsor’s logo on a kit!” declares diehard fan @@RANDOMNAME@@, whose friends are rearranging themselves to spell “@@NAME@@” in body paint. “Or some local sponsor’s logo on a kit! Or anything on a kit, actually. Why don’t we just require athletes to play shirtless so we can all get the best view of their muscles? You don’t need any deep-pocketed backers to play the way nature intended.” [Has a validity check; TBD]
 
 --------------------------------------------------------------
 [b][anchor=1373]#1373[/anchor]: You Should Have (Copy)Left My Software Alone! [SherpDaWerp; ed: Electrum][/b]

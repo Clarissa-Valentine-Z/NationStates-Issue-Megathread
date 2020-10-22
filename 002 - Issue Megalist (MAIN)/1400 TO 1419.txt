@@ -14,10 +14,21 @@ The Debate
 3. As you are about to return to your hotel room, a young woman approaches you and starts speaking rapidly. “Excuse me! My name is Ramona Moreno — President Moreno is my father. Papa is too proud to admit it, but our people are starving. Since he’ll never ask for it directly, I will: we need massive amounts of food and medical aid. You’re supposed to be our ally, but I get the feeling that you don’t care about our people; you’re just taking advantage of our location in case you need to launch missiles at the United Federation. Well, without your assistance, we’ll soon have to ask for help from the Federation — which means they will force us to adopt ‘free markets’ and sell off all of our limited resources at rock-bottom prices. Please negotiate a missile removal plan with my father — and then send us as much aid as you can afford.”
 
 --------------------------------------------------------------
-[b][anchor=1401]#1401[/anchor]: TBD[/b]
+[b][anchor=1401]#1401[/anchor]: Leave and Let Die [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+You are currently participating in a diplomatic summit on San Vitenzo.
+
+The Issue
+During today’s negotiations, you told the enemy you were willing to withdraw your nuclear weapons from San Vitenzo without expecting anything in return. Your shocked advisors have confronted you to get clarification about that particular stance.
+
+The Debate
+1. “This was all some sort of negotiating strategy, right?” questions Defense Minister Rolan Malinovich, who looks like he’s on the verge of a panic attack. “We can’t just give in to their demands all of a sudden! Do you know how weak that makes us look? President Moreno has generously offered to negotiate with the United Federation to remove some of their nukes that are in range of @@NATION@@. If you’re determined to withdraw from this conflict, we really should take him up on his offer.”
+
+2. “I thought we agreed to quit threatening other countries with violence and destruction?” admonishes Minister of International Diplomacy Andrea Gramyki, thrashing out an improvised version of ‘Paint It Violet’ on her guitar. “Send Agent Milanova home, and let’s get out of here. Who cares if we can’t hit them with nuclear weapons? Maybe if we started minding our own business and working to make Rhein Museum a better place instead of spending so much on the military, they wouldn’t feel so threatened by us.”
 
 --------------------------------------------------------------
-[b][anchor=1402]#1402[/anchor]: You Only Negotiate Twice[/b]
+[b][anchor=1402]#1402[/anchor]: You Only Negotiate Twice [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
 
 The Story So Far
 You agreed to remove your missiles from San Vitenzo in exchange for the United Federation removing their missiles from Eagleton Air Base.
@@ -26,31 +37,120 @@ The Issue
 After a series of secret negotiations, everyone has shaken hands and made a commitment to disarm. You and an aide have met with President Ken J. Finnedy in a beautiful glass-fronted conference room in San Vitenzo to sign the final agreement.
 
 The Debate
-1. “Good morning! Are you ready to make history? Let me just get my ceremonial signing pen.” Finnedy reaches into his coat pocket and removes not a pen, but a Smyth & Weston revolver, which he points directly at your chest. “Have you noticed that world leaders like ourselves never get frisked for weapons? I can’t remember the last time I had to go through a metal detector. Seems like a security flaw, don’t you think? Well, I digress. I hope you didn’t actually expect me to remove my own missiles. You see, I didn’t get to be President of the United Federation by giving up power every time I had a disagreement with someone. Real leaders do whatever it takes to seize power and claw our way to the top. Although I firmly believe that the only good commie is a dead commie, this isn’t personal — it’s just politics. As soon as you’re dead...” Suddenly, the window shatters as Natasha Milanova crashes into the room in a hail of glass fragments, closely followed by her @@DEMONYMADJECTIVE@@ flag parachute. Milanova leaps toward Finnedy, kicks the revolver out of his hand, and slams him into the floor. “I hope you don’t mind me dropping in, Comrade Leader. Your aide pressed the panic button — and I see that mister Imperialist in Chief is up to his old tricks. Well, here’s how it’s going to go, Finnedy. I discovered your plans to send an armada to @@NAME@@ to bombard us. To prevent that from happening, I secretly removed a warhead from one of your nuclear missiles before it was loaded onto a submarine at Libertyville. I handed it off to one of my colleagues, who has hidden it in your capital city, ready for detonation at a moment’s notice. Either you sign that agreement and follow through with each of its terms, or your ‘glorious free-market paradise’ is going to be a victim of your own hubris. Are we clear?” Finnedy nods and quickly scribbles his name on the agreement. “Good. Now get out of here and don’t threaten @@NAE@@ ever again, or your capital will become a radioactive crater faster than you can say ‘hedge fund manager’.” Milanova turns toward you as Finnedy and his aide scurry out of the room. “Let’s go home, boss.”
+1. TBD
+
+2. “Good morning! Are you ready to make history? Let me just get my ceremonial signing pen.” Finnedy reaches into his coat pocket and removes not a pen, but a Smyth & Weston revolver, which he points directly at your chest. “Have you noticed that world leaders like ourselves never get frisked for weapons? I can’t remember the last time I had to go through a metal detector. Seems like a security flaw, don’t you think? Well, I digress. I hope you didn’t actually expect me to remove my own missiles. You see, I didn’t get to be President of the United Federation by giving up power every time I had a disagreement with someone. Real leaders do whatever it takes to seize power and claw our way to the top. Although I firmly believe that the only good commie is a dead commie, this isn’t personal — it’s just politics. As soon as you’re dead...” Suddenly, the window shatters as Natasha Milanova crashes into the room in a hail of glass fragments, closely followed by her @@DEMONYMADJECTIVE@@ flag parachute. Milanova leaps toward Finnedy, kicks the revolver out of his hand, and slams him into the floor. “I hope you don’t mind me dropping in, Comrade Leader. Your aide pressed the panic button — and I see that mister Imperialist in Chief is up to his old tricks. Well, here’s how it’s going to go, Finnedy. I discovered your plans to send an armada to @@NAME@@ to bombard us. To prevent that from happening, I secretly removed a warhead from one of your nuclear missiles before it was loaded onto a submarine at Libertyville. I handed it off to one of my colleagues, who has hidden it in your capital city, ready for detonation at a moment’s notice. Either you sign that agreement and follow through with each of its terms, or your ‘glorious free-market paradise’ is going to be a victim of your own hubris. Are we clear?” Finnedy nods and quickly scribbles his name on the agreement. “Good. Now get out of here and don’t threaten @@NAE@@ ever again, or your capital will become a radioactive crater faster than you can say ‘hedge fund manager’.” Milanova turns toward you as Finnedy and his aide scurry out of the room. “Let’s go home, boss.”
 
 --------------------------------------------------------------
-[b][anchor=1403]#1403[/anchor]: TBD[/b]
+[b][anchor=1403]#1403[/anchor]: Tomorrow Never Arrives [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+You have ordered an attack on the United Federation’s troops in San Vitenzo.
+
+The Issue
+The enemy’s soldiers and ships have been completely wiped out, thanks to your advanced military technology. Unfortunately, the United Federation seems to have interpreted your actions as an unforgivable assault upon their nation. Moments ago, one of their ballistic missile submarines approached the surface near the EV0ian coastline... and fired its entire arsenal of nuclear missiles at targets throughout EV0.
+
+The Debate
+1. “HOLY VIOLET! GET TO THE BUNKER! RUN!” A flood of screaming people push you downstairs and through a long hallway, stumbling into the fallout shelter beneath your office. The door clanks shut as the last staff members sprint through the reinforced threshold. Your defense minister shambles over towards you, head in hands. “Well, we’re screwed. EV0 City is finished. I’m not even sure this bunker can withstand a direct hit. On the bright side, our nuclear missiles on San Vitenzo are now ready for launch. Which of the United Federation’s cities do you hate the most?” A nervous guffaw escapes from his lips.
+
+2. “No... we can’t do that to the poor workers,” murmurs Andrea Gramyki, devoid of guitar, her voice barely above a whisper. “The United Federation is filled with people like us. The oppressed, pre-revolutionary laborers won’t ever have a chance to rise up and fight the imperialists if we wipe them from existence. Don’t retaliate, Leader. The violence has to stop somewhere. By the way, it was an honor serving with you.” A single teardrop runs down her face.
 
 --------------------------------------------------------------
-[b][anchor=1404]#1404[/anchor]: TBD[/b]
+[b][anchor=1404]#1404[/anchor]: Die Some Other Day [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+You and your staff are huddled into an underground bunker, waiting for the end to come.
+
+The Issue
+The minutes pass in relative silence. Occasionally, the stillness is punctuated by a sniffle or a whimper that seems amplified in the confined space. A few distant rumbles can be heard, but nothing that sounds like the expected obliteration of everyone’s hopes and dreams. Suddenly, Defense Minister Rolan Malinovich’s voice cuts through the rising tide of whispered conversations. “What the hell? Comrade Leader, we’ve got an incoming call.”
+
+The Debate
+1. Malinovich steps away from the control panel where he was entering the coordinates for targeted enemy cities and ushers you over to a nearby phone, where a red light is blinking. He presses a few buttons to put the call on speakerphone. “Leader? Is that you?” The static-obscured voice of Natasha Milanova is barely audible, causing Malinovich to frantically increase the volume. “I followed up on those enemy plans that I told you about. The officers were plotting to send an armada to bombard @@NATION@@ with the ships’ guns. Captain Duffle was assigned the advance patrol mission near our coastline. I managed to sneak aboard his submarine before it left. As the diplomatic conflict intensified, Duffle was constantly arguing with Commander Harrigut, his second in command. Captain Duffle kept shouting that @@NATION@@ was a threat that needed to be taken out preemptively. Even after some sort of ‘satellite incident,’ Commander Harrigut wouldn’t support any retaliation that would lead to mutually assured destruction. Captain Duffle accused his officer of treason, pulled out his sidearm, and shot him in the head, then took his nuclear launch key. Duffle and the remaining officers immediately launched all of the ballistic missiles straight at @@NATION@@. Fortunately... I had already disarmed each of the warheads.” Milanova’s closing words are obscured by a deafening cheer from the people surrounding you.
+
+2. Malinovich ushers you over to a nearby phone, where a red light is blinking. He presses a few buttons to put the call on speakerphone. “@@LEADER@@? Is that you?” The static-obscured voice of Natasha Milanova is barely audible, causing Malinovich to frantically increase the volume. “I followed up on those enemy plans that I told you about. The officers were plotting to send an armada to bombard @@NAME@@ with the ships’ guns. Captain Duffle was assigned the advance patrol mission near our coastline. I managed to sneak aboard his submarine before it left. As the diplomatic conflict intensified, Duffle was constantly arguing with Commander Harrigut, his second in command. Captain Duffle kept shouting that @@NAME@@ was a threat that needed to be taken out preemptively. Even after some sort of ‘satellite incident,’ Commander Harrigut wouldn’t support any retaliation that would lead to mutually assured destruction. Captain Duffle accused his officer of treason, pulled out his sidearm, and shot him in the head, then took his nuclear launch key. Duffle and the remaining officers immediately launched all of the ballistic missiles straight at @@NAME@@. Fortunately... I had already disarmed each of the warheads.” Milanova’s closing words are obscured by a deafening cheer from the people surrounding you.
 
 --------------------------------------------------------------
-[b][anchor=1405]#1405[/anchor]: TBD[/b]
+[b][anchor=1405]#1405[/anchor]: Spectrum of Solace [Pogaria; ed: Pogaria] [Issue Series: MADness][/b]
+
+The Story So Far
+The enemy’s nuclear weapons failed to detonate due to the courageous actions of your secret agent.
+
+The Issue
+Although the United Federation remains angry with you due to recent events, they have insisted that they did not intend for things to escalate this far. As an apology for this sobering occurrence, their contrite government has arranged peace talks in an attempt to defuse the situation.
+
+The Debate
+1. “I’d like to personally apologize for the... um... missile incident,” admits President Ken J. Finnedy of the United Federation, looking more sheepish than you have ever seen him. “Captain Duffle was definitely not authorized to initiate a nuclear strike or take any action that would result in our mutually assured destruction. He and his officers have been relieved of duty... permanently. As a token of our goodwill, your agent who managed to infiltrate our submarine will be returned to EV0 unharmed. If you are willing to sign a non-aggression treaty and pay reparations for the brave warriors of freedom who were needlessly killed, I think we can put this whole unpleasant situation behind us. What do you say?”
+
+2. “Sure, go ahead and sign their treaty, but it’s not enough,” sighs Andrea Gramyki, who is softly playing ‘Sweet Home EV0 City’ on her guitar. “This incident clearly proves that weapons of mass destruction can no longer be allowed to exist. I spoke with my counterpart in the United Federation, and it appears that they are also willing to disarm if we do the same. It’s a bold move, but I think you’re the sort of brave visionary who can lead us into a new era of peace, free from the scourge of WMDs.”
+
+3. “You’ve practically destroyed our island!” weeps President “Doc” Moreno of San Vitenzo, who is incongruously wearing a suit jacket and tie with shorts and sandals. How are my people supposed to ‘put this situation behind us’ when you’ve bombed their houses and crops into oblivion? Even Almighty Bokonon won’t be able to undo this calamity. After you sign whatever treaty the United Federation is offering, you must allow our people to settle in EV0... and give us a little cash to ease our troubles. Isn’t that what allies do for one another?”
+
+4. “Reparations! We’re not paying any stinkin’ reparations!” blusters Defense Minister Rolan Malinovich, who has turned a rather alarming shade of red. “Have you forgotten how they almost annihilated us? Yes, we would have done the same thing to them if it weren’t for that phone call from our secret agent — and we definitely killed a bunch of their solders. What did they think would happen when they invaded our ally? This treaty is just a slap in the face — and we’re definitely not disarming or letting in waves of immigrants. You need to walk away from the negotiating table, and hit them with sanctions for good measure. They’re our enemy forevermore.”
 
 --------------------------------------------------------------
 [b][anchor=1406]#1406[/anchor]: TBD[/b]
 
 --------------------------------------------------------------
-[b][anchor=1407]#1407[/anchor]: TBD[/b]
+[b][anchor=1407]#1407[/anchor]: New Tricks [The Free Joy State; ed: Candlewhisper Archive][/b]
+
+The Issue
+It’s Trickster Night, a global event made popular in the United Federation but with its roots in ancient religious practices, where children dress up as ghouls and ghosts and play pranks if not given a sweet treat. You are making your way to your front door, when a small child draped in a sheet stops you.
+
+The Debate
+1. “Twick or tweat, twick or tweat, gimme somefin good to eat,” she lisps, holding up a small bucket already half filled. “If you don’t, I declare, erm... it will be not fair. Wow! You’re that person wiv all the power. My pawents talk about you all the time. They say, ‘Can’t that dum-dum do anyfin wight?’ Listen, I love Twickster Night. It’s my favouwite holiday. Can you give all kids a day off school, so we can make weally good costumes? Then we can show evewyone how fun it is.”
+
+2. “Shoo, you bothersome brat,” mutters your Uncle @@RANDOMMALENAME@@, putting one sour lemon drop into her bucket and dragging you inside. “This pranking is what I want to talk about. Children running around, creating mayhem, demanding rewards for no work. What happened to industriousness? To children being neither seen nor heard? Clamp down on this ridiculous imported holiday. It’s harassment to allow your child to demand sweets with menaces. Issue heavy fines to any parent who lets their wretched hellion out of the house on Trickster’s Night.”
+
+3. “My child, I’m so glad you’re here,” says your mother, entering with a tray and opening the door to place six chocolate bars into the bucket of the little girl who is still crying outside. “I’m tired of putting up with Wei’s nonsense. But I do worry about all those children, wandering alone. Streets can be so unsafe. I say we encourage families and schools to hold Trickster Night costume parties with buffets, toffee apples, gift bags of sweets... dancing, if there’s time. Then, the little ones could safely enjoy their evening.”
+
+4. “Be not one with the ghouls, lest ye become a ghoul!” howls your niece, stepping forward to deposit a graphically bloody religious tract into the little girl’s bucket. “This Night of Tricks is, itself, a trick. It softens our resistance to evil, encourages us to don the robes and face of the devil, and makes us forget that the mask we wear is what we are! We must ban this demonic day, and the sale of all costumes that let your citizens pretend to be devils, harlots or other evil people. Kandorith must stand unified, praying together against this evil.”
+
+5. “Ah, my favourite night of the year, all screams and sweets,” comments your brother, menacing the little girl with a realistic toy axe as he snatches the bucket of candy from her, and slams the door shut in her face. “Delightful japes if someone doesn’t give you enough sweets, or gives you the wrong ones. Nothing makes someone feel more alive than a good scare. Except the lady who collapsed — ah well. Let’s make it a mandatory national holiday for all. No more pretending to be out. Get everyone’s adrenaline pumping with some larks, like neighbours jumping out with chainsaws. Everyone — especially me — would get [i]so many[/i] sweets. Talking of which, I reckon you were a little light this year, so...” Grinning, he steps back to reveal your most important papers rendered unreadable by a dozen rotten eggs.
 
 --------------------------------------------------------------
-[b][anchor=1408]#1408[/anchor]: TBD[/b]
+[b][anchor=1408]#1408[/anchor]: (A Lot Of) Pennies for Your Thoughts [Fauxia; ed: Candlewhisper Archive][/b]
+
+The Issue
+No one in @@NAME@@ imagined that the “March Against Zoning Proposal CWA221, Part 19, Clause F” would attract the thousands of protestors it drew; it just seemed like too niche an issue to raise controversy. As it turns out, a large number of the protestors were paid participants, marching with no interest in the actual issue beyond their fee.
+
+The Debate
+1. “Paid protest makes a mockery of the democratic process, making political power dependent entirely upon wealth and connections,” blusters old money oligarch and MP Bella Kelly, who authored the offending proposal. “There’s no reason to allow this, and it should be a criminal offence to pay or be paid to protest.”
+
+2. “I don’t see what’s wrong with it,” argues property developer Francisco Richards, whose planned housing estate is going to be obstructed by the new legislation. “In a mature capitalist democracy, people should march for whatever reason they choose. And if someone wants to pay a few hundred others to protest, then that’s just them democratically expressing their strength of feeling. What’s wrong with that? Shouldn’t we have an intelligent and independent populace?”
+
+3. “I understand the potential for corruption,” remarks disabled mum-of-three Emma Yossef, “but some people don’t have the mobility or the ability to join in a protest march. Or someone might care about an issue, but be too far away to join in a protest, or want to donate to support a cause, but not be able to get time off to march. Doesn’t everyone have a right to have our voices heard? I suggest that you can restrict this practice to allow each non-attender to hire one single proxy to protest in their stead. Just establish some sort of registry, and you can ensure fairness.”
+
+4. “Let’s be smart about this,” suggests that crazy-looking woman who always seems to interject at the end with an off-the-wall idea. “You should take advantage of paid protest, and use government funds to pay for marchers that express love for your chosen policies. Any protests against you will be drowned out by your supporters, and the press will report that public opinion is on your side. Of course, we have to make sure no one leaks anything, with NDAs and hidden paper trails and the like. As long as no one leaks the truth we’ll be fine.”
 
 --------------------------------------------------------------
-[b][anchor=1409]#1409[/anchor]: TBD[/b]
+[b][anchor=1409]#1409[/anchor]: Happy Pranksgiving! [Verdant Haven; ed: Noahs Second Country][/b]
+
+The Issue
+The wildly popular HBC (@@NAMEINITIALS@@BC) television series Prankyard Wars has long depicted a lovable team of practical jokers attempting to out-do each other with harmless mischief. However, following a recent dip in ratings, their increasingly elaborate antics led to the accidental incineration of a public park, several houses, and most of the local fire station’s equipment.
+
+The Debate
+1. “It was just a prank, Prime Minister Marcel Fraser!” wails one of the jokers in question, Yuri “Sheep-Butt” Rogers. “You can’t hold us liable for it! We just thought ‘FOOF’ sounded like a funny chemical name... you know, like ‘You got FOOFed!’ How were we supposed to know it makes pretty much everything it touches burst into flames? People need to lighten up and consider our intentions before grabbing their pitchforks!”
+
+2. “Dioxygen difluoride is one of the most dangerous chemicals in existence. We cannot allow this kind of irresponsible behavior!” roars police chief Jane Cash (@@RANDOMNAME@@?), wildly flailing about with her (@@HIS@@?) baton. “They cannot possibly have acquired it without knowing exactly what it does! Let me bring them up on chemical weapons charges, and we’ll see who’s laughing when they get convicted as the terrorists they are. We must have zero tolerance for these so-called ‘pranksters.’”
+
+3. “We all know that the people making the decisions aren’t the screen talent, but the producers!” interjects four-time Golden Sheep (@@ANIMAL@@) winning actor Ming Fils-Aimé, head of the Performers’ Guild. “They control the purse strings, so they are responsible for the content! You should fine them for forcing these poor performers to endanger themselves like that, and maybe toss in some criminal charges to boot. Nobody should have to risk their safety just to get a paycheck.”
+
+4. “Now, let’s sit down and have a nice fireside chat together,” rolls the soothing sentiment of Stephanie May (@@RANDOMNAME@@?), the unusually charismatic head anchor for HBC (@@NAMEINITIALS@@BC) News. “I am certain we can negotiate a settlement that will make all parties happy. If you look the other way on any laws that may have been broken, we can ensure that everything will be rebuilt better than before, and I can toss in some positive coverage of your current legislative efforts.”
 
 --------------------------------------------------------------
-[b][anchor=1410]#1410[/anchor]: TBD[/b]
+[b][anchor=1410]#1410[/anchor]: Lives On-Line [Verdant Haven; ed: Pogaria][/b]
+
+The Issue
+After a @@DEMONYMADJECTIVE@@ hospital quietly paid out in a recent ransomware attack, numerous other hospitals across @@NAME@@ have been targeted by criminals hoping to cash in. The unknown perpetrators behind these attacks have demanded large quantities of bytecoins to provide decryption keys, causing hospital administrators to desperately seek guidance from law enforcement.
+
+The Debate
+1. “We swore an oath to help people in their hour of need,” affirms Dr. Stefanie Carter, the chief physician of one affected hospital, while her colleagues nervously nod in agreement. “Lives are on the line, and if we don’t regain access to these files, there will be fatal consequences. Life-saving surgery will be delayed, medications will get mixed up, and there’s no telling what kind of vital records will be lost. We don’t have any choice but to pay, right?"
+
+2. “You can’t possibly suggest giving in to terrorists!” cries out Barbie Howell, an adjuster for @@CAPITAL@@ Hospital’s insurance provider. “It’s a matter of principle not to reward bad behavior. We’ve already seen that if you pay, it will just happen again and again! It’s more important to refuse every claim than to pay out on the off chance it will save somebody. Did I say claim? I meant demand. Refuse the terrorists’ demands!”
+
+3. “We may be able to crack this code,” murmurs Deputy Chief Filipe Peters, head of your electronic crimes unit. “I’m going to need a few dozen engineers, unfettered access to the network, and all the computing power you’ve got! In the meantime, you should force hospitals to set up better cyber-defenses, and fine the heck out of any that allow security breaches.”
+
+4. “This would never have happened with pen and paper!” declares a bureaucrat who seems to have worked for the government longer than you’ve been alive. “Leave all the computers and the internet and the saggy pants and the hippity-hop to those young folks who don’t know better. When lives are on the line, you can’t be online. Tell vital services to stick to good, old-fashioned handwriting — then they’ll be safe from those nasty folks on the web."
 
 --------------------------------------------------------------
 [b][anchor=1411]#1411[/anchor]: TBD[/b]

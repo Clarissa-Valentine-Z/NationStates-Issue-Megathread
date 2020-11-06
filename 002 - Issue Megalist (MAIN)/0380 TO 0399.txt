@@ -1,4 +1,3 @@
-0380 TO 0399
 [b][anchor=380]#380[/anchor]: Farmers Seeding Discontent [Bulgar Rouge; ed: Lenyo][/b]
 
 The Issue
@@ -63,7 +62,7 @@ The international community rejoiced this year as the people of Marche Noire ove
 The Debate
 1. "We have to do something drastic," schemes General @@RANDOMNAME@@ whilst lining up a row of dominoes, "Marche Noire is angry that we trained the old regime's secret police, and now they're letting the peasants divvy up the plantations. That threatens our business interests, and it could even inspire revolutions in some of our allies. I say we covertly support Marche Noirian rebels to reinstate King Zog. The alternative is an ever-growing bloc of socialist powers, which will doom us in the long run." The general topples the first domino, beginning a chain reaction.
 
-2. "Now, let's not get carried away," counsels Foreign Minister @@RANDOMFEMALENAME@@ with her pet kitten in lap. "There's more than one way to skin a cat, you know. For instance, we could simply put an embargo or ten on Marche Noire until it elects a cooperative prime minister. Half the country drives Marche Noirian cars; a trade sanction would cripple them. That way we can show our opposition to communist jingoism without sacrificing @@DEMONYMADJECTIVE@@ lives."
+*2. "Now, let's not get carried away," counsels Foreign Minister @@RANDOMFEMALENAME@@ with her pet kitten in lap. "There's more than one way to skin a cat, you know. For instance, we could simply put an embargo or ten on Marche Noire until it elects a cooperative prime minister. Half the country drives Marche Noirian cars; a trade sanction would cripple them. That way we can show our opposition to communist jingoism without sacrificing @@DEMONYMADJECTIVE@@ lives." [[color=blue]Cars are not banned[/color]]
 
 *3. Now, let’s not get carried away,” counsels Foreign Minister @@RANDOMFEMALENAME@@ with her pet kitten in lap. “There’s more than one way to skin a cat, you know. For instance, we could simply put an embargo or ten on Marche Noir until it elects a cooperative prime minister. Half the country buys Marche Noirian bicycles; a trade sanction would cripple them. That way we can show our opposition to communist jingoism without sacrificing @@DEMONYMADJECTIVE@@ lives.” [[color=red]Cars are banned[/color]]
 

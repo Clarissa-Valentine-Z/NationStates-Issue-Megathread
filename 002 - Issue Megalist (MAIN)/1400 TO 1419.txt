@@ -126,16 +126,16 @@ The Debate
 [b][anchor=1409]#1409[/anchor]: Happy Pranksgiving! [Verdant Haven; ed: Noahs Second Country][/b]
 
 The Issue
-The wildly popular HBC (@@NAMEINITIALS@@BC) television series Prankyard Wars has long depicted a lovable team of practical jokers attempting to out-do each other with harmless mischief. However, following a recent dip in ratings, their increasingly elaborate antics led to the accidental incineration of a public park, several houses, and most of the local fire station’s equipment.
+The wildly popular @@DEMONYMINITIALS@@BC television series Prankyard Wars has long depicted a lovable team of practical jokers attempting to out-do each other with harmless mischief. However, following a recent dip in ratings, their increasingly elaborate antics led to the accidental incineration of a public park, several houses, and most of the local fire station’s equipment.
 
 The Debate
-1. “It was just a prank, Prime Minister Marcel Fraser!” wails one of the jokers in question, Yuri “Sheep-Butt” Rogers. “You can’t hold us liable for it! We just thought ‘FOOF’ sounded like a funny chemical name... you know, like ‘You got FOOFed!’ How were we supposed to know it makes pretty much everything it touches burst into flames? People need to lighten up and consider our intentions before grabbing their pitchforks!”
+1. “It was just a prank, @@LEADER@@!” wails one of the jokers in question, @@RANDOMFIRSTNAME@@ “@@ANIMAL@@-Butt” @@RANDOMLASTNAME@@. “You can’t hold us liable for it! We just thought ‘FOOF’ sounded like a funny chemical name... you know, like ‘You got FOOFed!’ How were we supposed to know it makes pretty much everything it touches burst into flames? People need to lighten up and consider our intentions before grabbing their pitchforks!”
 
-2. “Dioxygen difluoride is one of the most dangerous chemicals in existence. We cannot allow this kind of irresponsible behavior!” roars police chief Jane Cash (@@RANDOMNAME@@?), wildly flailing about with her (@@HIS@@?) baton. “They cannot possibly have acquired it without knowing exactly what it does! Let me bring them up on chemical weapons charges, and we’ll see who’s laughing when they get convicted as the terrorists they are. We must have zero tolerance for these so-called ‘pranksters.’”
+2. “Dioxygen difluoride is one of the most dangerous chemicals in existence. We cannot allow this kind of irresponsible behavior!” roars police chief @@RANDOMNAME@@?, wildly flailing about with @@HIS@@ baton. “They cannot possibly have acquired it without knowing exactly what it does! Let me bring them up on chemical weapons charges, and we’ll see who’s laughing when they get convicted as the terrorists they are. We must have zero tolerance for these so-called ‘pranksters.’”
 
-3. “We all know that the people making the decisions aren’t the screen talent, but the producers!” interjects four-time Golden Sheep (@@ANIMAL@@) winning actor Ming Fils-Aimé, head of the Performers’ Guild. “They control the purse strings, so they are responsible for the content! You should fine them for forcing these poor performers to endanger themselves like that, and maybe toss in some criminal charges to boot. Nobody should have to risk their safety just to get a paycheck.”
+3. “We all know that the people making the decisions aren’t the screen talent, but the producers!” interjects four-time @@ANIMAL@@ winning actor @@RANDOMNAME@@, head of the Performers’ Guild. “They control the purse strings, so they are responsible for the content! You should fine them for forcing these poor performers to endanger themselves like that, and maybe toss in some criminal charges to boot. Nobody should have to risk their safety just to get a paycheck.”
 
-4. “Now, let’s sit down and have a nice fireside chat together,” rolls the soothing sentiment of Stephanie May (@@RANDOMNAME@@?), the unusually charismatic head anchor for HBC (@@NAMEINITIALS@@BC) News. “I am certain we can negotiate a settlement that will make all parties happy. If you look the other way on any laws that may have been broken, we can ensure that everything will be rebuilt better than before, and I can toss in some positive coverage of your current legislative efforts.”
+4. “Now, let’s sit down and have a nice fireside chat together,” rolls the soothing sentiment of @@RANDOMNAME@@, the unusually charismatic head anchor for @@DEMONYNMINITIALS@@BC News. “I am certain we can negotiate a settlement that will make all parties happy. If you look the other way on any laws that may have been broken, we can ensure that everything will be rebuilt better than before, and I can toss in some positive coverage of your current legislative efforts.”
 
 --------------------------------------------------------------
 [b][anchor=1410]#1410[/anchor]: Lives On-Line [Verdant Haven; ed: Pogaria][/b]
@@ -144,22 +144,44 @@ The Issue
 After a @@DEMONYMADJECTIVE@@ hospital quietly paid out in a recent ransomware attack, numerous other hospitals across @@NAME@@ have been targeted by criminals hoping to cash in. The unknown perpetrators behind these attacks have demanded large quantities of bytecoins to provide decryption keys, causing hospital administrators to desperately seek guidance from law enforcement.
 
 The Debate
-1. “We swore an oath to help people in their hour of need,” affirms Dr. Stefanie Carter, the chief physician of one affected hospital, while her colleagues nervously nod in agreement. “Lives are on the line, and if we don’t regain access to these files, there will be fatal consequences. Life-saving surgery will be delayed, medications will get mixed up, and there’s no telling what kind of vital records will be lost. We don’t have any choice but to pay, right?"
+1. “We swore an oath to help people in their hour of need,” affirms Dr. @@RANDOMNAME@@, the chief physician of one affected hospital, while @@HIS@@ colleagues nervously nod in agreement. “Lives are on the line, and if we don’t regain access to these files, there will be fatal consequences. Life-saving surgery will be delayed, medications will get mixed up, and there’s no telling what kind of vital records will be lost. We don’t have any choice but to pay, right?"
 
-2. “You can’t possibly suggest giving in to terrorists!” cries out Barbie Howell, an adjuster for @@CAPITAL@@ Hospital’s insurance provider. “It’s a matter of principle not to reward bad behavior. We’ve already seen that if you pay, it will just happen again and again! It’s more important to refuse every claim than to pay out on the off chance it will save somebody. Did I say claim? I meant demand. Refuse the terrorists’ demands!”
+*2. “You can’t possibly suggest giving in to terrorists!” cries out @@RANDOMNAME@@, an adjuster for @@CAPITAL@@ Hospital’s insurance provider. “It’s a matter of principle not to reward bad behavior. We’ve already seen that if you pay, it will just happen again and again! It’s more important to refuse every claim than to pay out on the off chance it will save somebody. Did I say claim? I meant demand. Refuse the terrorists’ demands!” [[color=blue]Must have private industry[/color]]
 
-3. “We may be able to crack this code,” murmurs Deputy Chief Filipe Peters, head of your electronic crimes unit. “I’m going to need a few dozen engineers, unfettered access to the network, and all the computing power you’ve got! In the meantime, you should force hospitals to set up better cyber-defenses, and fine the heck out of any that allow security breaches.”
+*3. "You can't possibly suggest giving in to terrorists!" cries out @@RANDOMNAME@@, a bureaucrat at the State Assets Insurance Bureau. "It's a matter of principle not to reward bad behavior. We've already seen that if you pay, it will just happen again and again! It's more important to refuse every claim than to pay out on the off chance it will save somebody. Did I say claim? I meant demand. Refuse the terrorists' demands!" [[color=red]Must not have private industry[/color]]
 
-4. “This would never have happened with pen and paper!” declares a bureaucrat who seems to have worked for the government longer than you’ve been alive. “Leave all the computers and the internet and the saggy pants and the hippity-hop to those young folks who don’t know better. When lives are on the line, you can’t be online. Tell vital services to stick to good, old-fashioned handwriting — then they’ll be safe from those nasty folks on the web."
+4. “We may be able to crack this code,” murmurs Deputy Chief @@RANDOMNAME@@, head of your electronic crimes unit. “I’m going to need a few dozen engineers, unfettered access to the network, and all the computing power you’ve got! In the meantime, you should force hospitals to set up better cyber-defenses, and fine the heck out of any that allow security breaches.”
+
+5. “This would never have happened with pen and paper!” declares a bureaucrat who seems to have worked for the government longer than you’ve been alive. “Leave all the computers and the internet and the saggy pants and the hippity-hop to those young folks who don’t know better. When lives are on the line, you can’t be online. Tell vital services to stick to good, old-fashioned handwriting — then they’ll be safe from those nasty folks on the web."
 
 --------------------------------------------------------------
-[b][anchor=1411]#1411[/anchor]: TBD[/b]
+[b][anchor=1411]#1411[/anchor]: Atomic Split [Daarwyrth; ed: Electrum][/b]
+
+The Issue
+With your government allowing provinces to formally secede, East @@ANIMAL@@land has declared its intention to become a sovereign state. However, the territory contains several military bases, and more importantly, a large portion of your nation’s nuclear stockpile.
+
+The Debate
+1. “Well, Violet on a popsicle stick!” blurts your Minister of the Interior, as he drops his half-gnawed spaghetti-on-a-skewer in shock. “Honestly, you need to establish some ground rules around this secession scheme of yours! We need to immediately deny East @@ANIMAL@@land’s request for independence, and the same goes for any other region or province that holds anything of importance to our nation’s continued existence. Either they’ll happily remain a part of our nation or we’ll make them stay, by force if necessary!”
+
+2. “Come now, old friend, surely you don’t want to be seen doing anything as draconian as that?” coos the self-appointed Minister of Shakedowns for the hopefully-soon-to-be-independent nation of East @@ANIMAL@@land. “Once you sign that declaration of independence, we’d be more than happy to give back those radioactive poppers of yours in return for a generous farewell donation to our new treasury. Surely any cost will be worth getting your shiny, deadly toys back, no?”
+
+3. Your Minister of Intelligence, whose body paint matches the room’s wallpaper, whispers into your ear. “Don’t be startled, it’s me, N! There’s another solution, you know. You’ll sign their declaration of independence to keep up appearances, and I’ll mount a covert operation to infiltrate the military bases holding our WMDs to render them non-operational. Sure, East @@ANIMAL@@land will still have the husks that they could potentially reverse engineer, but it’ll buy us at least a few years to build up an even deadlier nuclear arsenal!”
 
 --------------------------------------------------------------
 [b][anchor=1412]#1412[/anchor]: TBD[/b]
 
 --------------------------------------------------------------
-[b][anchor=1413]#1413[/anchor]: TBD[/b]
+[b][anchor=1413]#1413[/anchor]: Old Fusion [Gabingston; ed: Candlewhisper Archive][/b]
+
+The Issue
+Official inspectors visiting your nuclear launch silos have revealed that much of the equipment used is decades old, and that sourcing replacement parts for superseded technologies is becoming more difficult.
+
+The Debate
+1. “This is an utter disgrace! Imagine how this obsolete trash would perform in the face of nuclear war!” spits General @@RANDOMMALELASTNAME@@, pointing to the red ‘hotline’ rotary phone that connects to your office. “We’d all be dead before you can say ‘underfunded military’! You need to remedy this, and get new, state-of-the-art equipment and computers, with the latest versions of the best software on the market. Our nation’s safety depends on it!”
+
+2. “It’s not just a matter of cost,” complains your Treasury Minister, as @@HE@@ turns down the silo’s thermostat to reduce the heating bill. “An upgrade of this scale would cost us more than yuns! It would mean abandoning tried and tested approaches, which we know are reliable and safe from hackers. And cheap. But mostly reliable and safe. I mean, we could still use this stuff, can’t we? Just buy any spare parts you need cheap from vBay or something. This isn’t about money! It isn’t!”
+
+3. “Woah, dude, WMDs are like, so uncool,” wails Private @@RANDOMMALENAME@@, a hippie peacenik who accidentally enlisted while high, but has stuck around for the free food. “Why spend money on weapons of war, when you can spend it on, like... other stuff, man! You gotta make love, not war, guys.” He absent-mindedly offers you a toke from his spliff.
 
 --------------------------------------------------------------
 [b][anchor=1414]#1414[/anchor]: TBD[/b]

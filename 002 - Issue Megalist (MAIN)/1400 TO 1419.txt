@@ -184,16 +184,60 @@ The Debate
 3. “Woah, dude, WMDs are like, so uncool,” wails Private @@RANDOMMALENAME@@, a hippie peacenik who accidentally enlisted while high, but has stuck around for the free food. “Why spend money on weapons of war, when you can spend it on, like... other stuff, man! You gotta make love, not war, guys.” He absent-mindedly offers you a toke from his spliff.
 
 --------------------------------------------------------------
-[b][anchor=1414]#1414[/anchor]: TBD[/b]
+[b][anchor=1414]#1414[/anchor]: My Milkshake Brings All the @@CURRENCYPLURAL@@ to the Yard [Zwangzug; ed: Candlewhisper Archive][/b]
+
+The Issue
+Thanks to a timely mastectomy performed by the @@DEMONYMADJECTIVE@@ health care system, your trusted aide Kira Ripoli has survived cancer and received a clean bill of health. In preparing to return to work, however, she has been caught flat-footed.
+
+The Debate
+1. "How can I face the world without constantly reminding people that my eyes are up here?" asks Ripoli. "In order for both my mental and physical health to be restored, I must have access to reconstructive surgery! I mean, my breasts were small and humble, and hardly mountainous, but they were mine, you know? The hospitals took me apart — they can darn well put me back together!"
+
+2. "This case seems clear-cut to me," agrees ambitious anesthesiologist @@RANDOMNAME@@. "But it's not enough to restore what illness has taken. We have the technology to remove wrinkles from the elderly, shave weight off the obese, even adjust the corneas of people who keep forgetting their glasses! Our hospitals must treat every case of cosmetic surgery, so our population can look and feel their best."
+
+3. "I wish I was a little bit taller, I wish I was a baller," bemoans the uncoordinated @@RANDOMNAME@@. "But you know what? I don't ask the public to pay for height augmentation. @@DEMONYMADJECTIVE@@ health care should only be used for urgent medical conditions, not elective surgeries. If Kira doesn't like the way she looks, she could have just paid for her own boob job."
 
 --------------------------------------------------------------
-[b][anchor=1415]#1415[/anchor]: TBD[/b]
+[b][anchor=1415]#1415[/anchor]: The Melting Point [Westinor; ed: Noahs Second Country][/b]
+
+The Issue
+The thousand-year-old @@ANIMAL@@foot Glacier, located in northern @@NAME@@, served as a natural dam for the @@ANIMAL@@ Lake. Yesterday it broke open, causing the lake’s contents to rush out into the valley below, destroying the downstream ecosystem and a nearby town.
+
+The Debate
+1. “This disaster is just another example of how human-accelerated climate change is destroying the natural world!” exclaims environmental activist Amadeus Smit, slowly heating up in anger. “Cars, factories, and excessive flatulence cause glaciers like the @@ANIMAL@@foot to melt prematurely! Soon, these beauties will be all but gone. @@LEADER@@, you have to do something — speeches, environmental regulations, anything to stop the rising temperatures! Every person in @@NAME@@ has to know the consequences of their carelessness!”
+
+2. “Oh get out of here you whining hippy!” grumbles Emily Black as she pushes her way into the room. “My town was flooded and my swimming pool was destroyed in this disaster. People may go homeless for who knows how long! Violet’s sake, your first priority should be to us, the average @@DEMONYM@@, not some nonsense tree-loving wacko! Ensure that our tax @@CURRENCYPLURAL@@ are going right back towards rebuilding affected homes and businesses.”
+
+3. “It’s your own fault that you built a town smack-dab in the center of a potential flood pathway,” sighs self-described “preventionist” Joseph Haggard as he emerges from the floor in mining gear. “Everyone knows that areas within a seventeen-mile proximity of a glacier are in danger of flooding. Really, most of @@NAME@@ is vulnerable to some watery hazard, like the giant waterfall only a few miles from @@CAPITAL@@! Why don’t we go ahead and move all the water out of the way with dams and drainage channels across the nation? I’ve taken the liberty of preparing a map listing potential areas in danger.” He shows you a map with an uncountable number of marks on it. “See here, here, here and here..."
 
 --------------------------------------------------------------
-[b][anchor=1416]#1416[/anchor]: TBD[/b]
+[b][anchor=1416]#1416[/anchor]: Building on Sand [Fauxia; ed: Zwangzug][/b]
+
+The Issue
+Intelligence reports confirm that the ever-ambitious nation of Wezeltonia has been constructing artificial islands in the Maxxi Sea, in order to claim jurisdiction over the adjacent waters.
+
+The Debate
+1. “Those thieves think they can shut us out!” yells trade advisor @@RANDOMNAME@@, placing a small ball on one side of a brass balance. “Trillions of @@CURRENCYPLURAL@@ pass through the Maxxi Sea. If we let Wezeltonia establish sovereignty there, they’ll be strong enough economically to bring the rest of the world to its knees! We need to get Brancaland, Skandilund, heck, maybe even Blackacre, to sanction Wezeltonia until they cease this naked mercantilism!” @@HE@@ drops a large weight onto the other side of the scale, causing the ball to fly and hit your young intern in the head.
+
+2. “What business of yours is it if we develop our own waters?” snaps @@RANDOMNAME@@, the ill-tempered ambassador from Wezeltonia. “We don’t tell you how to manage your outlying territories, unless your outlying territories lie in our zone of control. But I’ll tell you what, maybe we could contract with some of your construction firms to help us build. That could put both our nations on a more solid foundation.”
+
+3. “Wezeltonia is destroying the environment in the Maxxi Sea!” wails marine biologist @@RANDOMNAME@@, who was not invited to this meeting but followed your carbon footprint here. “All that sand is destroying coral reefs and killing sea creatures in their own habitat. We need to convince the World Assembly to declare that artificial islands are not recognized as territory, to reduce Wezeltonia’s economic incentive to build there. If that doesn’t work, send them a telegram and order them to stop murdering harmless fish, crustaceans, and vampire squids!”
+
+4. “It seems to me that these shores do still be international waters, savvy?” says Admiral @@RANDOMNAME@@, looking through the wrong end of a spyglass. “Let’s send a ship or two out there to remind Wezeltonia that our freedom of navigation still applies. With our patrols on the watch, they won’t dare venture more than a few nautical miles from their shore! Or kilometers or other such bilge.”
 
 --------------------------------------------------------------
-[b][anchor=1417]#1417[/anchor]: TBD[/b]
+[b][anchor=1417]#1417[/anchor]: Nun on the Run [Sacara; ed: Pogaria][/b]
+
+The Issue
+The Sisters of Saint Katherine’s Mercy are a religious order known for their charitable works and advocacy for the poor. Although their philanthropy often relies upon unorthodox fundraising methods, it was still surprising when Sister Deloris @@RANDOMLASTNAMEFEMALE@@ recently announced her intention to run for a vacant parliament seat.
+
+The Debate
+1. “There must be a separation of church and state,” declares your militantly atheist cousin. “She will obviously use her religious position to gain votes and attempt to interfere with our government. Even worse, she’s running as an independent candidate in one of the most vulnerable districts for our party. If you wish to maintain credibility within the halls of parliament, you cannot allow anyone in a position like this to gain office!”
+
+2. “Citizens should be able to serve both our nation and our Creator,” asserts Sister Deloris, wearing a pin that reads ‘greed is a sin’. “And the best way to serve the neediest people of our nation is to be in the same room where all of our tax funds are distributed, advocating on behalf of the people who don’t currently have a voice in these decisions. All I want to do is make @@NAME@@ a better place. If you claim to be democratic, my religious beliefs shouldn’t prevent me from running.”
+
+3. “I don’t see why any job should be allowed to discriminate based on religious affiliation,” argues Sister Angela Night of the Order of Divine Retribution, brandishing a loop of prayer beads set with metal spikes. “For example, I applied to join the police, but they said that my religious background wasn’t suitable for police work. If anything, I’d think it makes me more motivated to deliver a righteous beatdown to the lawbreakers and sinners that still walk around our streets with impunity. It’s not just a job for me — it’s a daily vocation.”
+
+4. “Perhaps we need to get our nation back onto the right track by mandating that all of our elected leaders are believers,” ponders your Minister of Sacramental Supremacy, in between bouts of chanting and hitting himself in the forehead with a board. “The root of all evil comes from the lack of faith in a creator, so it only makes sense that those who govern us believe in one. @@LEADER@@, you must ensure that those running for political office have at least some sort of religious beliefs.”
 
 --------------------------------------------------------------
 [b][anchor=1418]#1418[/anchor]: TBD[/b]

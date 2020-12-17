@@ -1,4 +1,3 @@
-0900 TO 0919
 [b][anchor=900]#900[/anchor]: Piracy on the High Trees [Ransium; ed: Nation of Quebec][/b]
 
 The Issue
@@ -11,7 +10,7 @@ The Debate
 
 *3. “The problem, I’m afraid, is capitalism,” declares @@RANDOMNAME@@, a noted socialist thinker. “If we just nationalized the ownership of all trees there’d be no question as to which trees were harvested legally since only the government could harvest them. Furthermore, we’d be assured that all the forestry in @@NAME@@ is sustainable because we’d be the ones doing it. Who else can @@DEMONYMPLURAL@@ possibly trust to handle these important matters besides the government?” [[color=blue]Must have private industry[/color]]
 
-*4. “The problem, I’m afraid, is a lack of capitalism,” declares @@RANDOMNAME@@, a noted capitalist thinker. “Government control of the timber market has left there to be too much pent-up demand. If we privatized the timber industry the invisible hand would find the proper price, which would dry up the black market that is driving this theft. Actually the same could be said for other Bob The Great Builder industries.” [[color=red]Must not have private industry[/color]]
+*4. “The problem, I’m afraid, is a lack of capitalism,” declares @@RANDOMNAME@@, a noted capitalist thinker. “Government control of the timber market has left there to be too much pent-up demand. If we privatized the timber industry the invisible hand would find the proper price, which would dry up the black market that is driving this theft. Actually the same could be said for other @@NATION@@ industries.” [[color=red]Must not have private industry[/color]]
 
 5. “Wha’ be th’ problem?” ask notorious logger, Captain William Ash, who, after losing a hand in a rumored chainsaw duel, had it replaced with a handsaw. “We... er... Th’ pirate loggers are jus’ usin’ a valuable resource that those homeowners were wastin’ as shade trees. Once trees get t’ a merchantable size, anyone best be able t’ log them no matter whose land they be on. ‘N if anyone disagrees I’ll send them t’ Davy Jones’ locker!”
 

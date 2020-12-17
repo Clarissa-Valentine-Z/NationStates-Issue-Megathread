@@ -1,5 +1,4 @@
-0700 TO 0719
-[b][anchor=700]#700[/anchor]: The Widow Raven [Ransium & Zwangzug; ed:Candlewhisper Archive][/b]
+[b][anchor=700]#700[/anchor]: The Widow Raven [Ransium & Zwangzug; ed: Candlewhisper Archive][/b]
 
 The Issue
 Once upon a midnight dreary, while you pondered, weak and weary; over many a quaint and curious volume of forgotten stately lore, while you nodded, nearly napping, suddenly there came a tapping, as of someone gently rapping, rapping at your office door. “Tis some visitor,” you muttered, “tapping at my office door, only this and nothing more.”
@@ -14,7 +13,7 @@ The Debate
 [4]. “This sounds like POETRY!” screams your Minister of Anti-Culture while storming into your office. “All these rhymers must be executed immediately. And don’t forget after they die who’ll get their property: the state. Why, just think of all the jobs killing would-be poets would crea— er, jobs it would make.” [[color=purple]Must have a suspicion of poets: see #056.3[/color]]
 
 -----------------------------------------------------------------------------
-[b][anchor=701]#701[/anchor]: Monumental Melodrama [New Socialist South Africa; ed:Candlewhisper Archive][/b]
+[b][anchor=701]#701[/anchor]: Monumental Melodrama [New Socialist South Africa; ed: Candlewhisper Archive][/b]
 
 The Issue
 Angry Bigtopian protesters have called for the removal of a statue of Cyril James Carthage, a controversial historic imperialist and mining magnate from two centuries ago, who was once instrumental in perpetuating the Bigtopian slave trade.
@@ -28,7 +27,7 @@ Angry Bigtopian protesters have called for the removal of a statue of Cyril Jame
 4. "Carthage had it right, we ought to put them damned Bigtopians back in their place," asserts a figure with a silly-looking white hood over his head, hefting a can of petrol and a toolbox. "You get the police to hang back; me and the boys will settle this."
 
 -----------------------------------------------------------------------------
-[b][anchor=702]#702[/anchor]: Has Your Room Been Booked? [Ntoain; ed:The Free Joy State][/b]
+[b][anchor=702]#702[/anchor]: Has Your Room Been Booked? [Ntoain; ed: The Free Joy State][/b]
 
 The Issue
 Richilda Hawkins, a militantly atheist author who is known for making frequent attacks against organised religion, recently sued the Great @@ANIMAL@@ chain of hotels for allowing a copy of @@FAITH@@’s holy book to be placed in her room. People are asking whether this practice should stop.
@@ -43,7 +42,7 @@ The Debate
 *4. "How about this?" muses @@RANDOMMALEFIRSTNAME@@, your uncle who changes religions weekly, as he flips though [i]Multifaith Monthly: the Spiritual Source for the @@TYPE@@[/i]. "Why not force hotels to put every religious book in existence into their rooms? [i]The Little Book of Transcendent Calm[/i]; [i]The Chanting of Yellow[/i]; [i]Faithology's Right Because Faithology Says So[/i]; even parody texts like the [i]Scrivenings of the Soaring Squash[/i]. Then people can choose what text they want to read, or they can just leave them on the shelves for me." [[color=red]Violetism is illegal[/color]]
 
 -----------------------------------------------------------------------------
-[b][anchor=703]#703[/anchor]: Divine Decoration [Merconitonitopia; ed:Drasnia & Gnejs][/b]
+[b][anchor=703]#703[/anchor]: Divine Decoration [Merconitonitopia; ed: Drasnia & Gnejs][/b]
 
 The Issue
 A rather dramatic demonstration of burning holy texts of @@FAITH@@ was ended when one of the protesters accidentally lit himself on fire. Amongst anguished screams one could clearly hear a call to remove all religious imagery from government buildings; at least according to his compatriots.
@@ -58,7 +57,7 @@ The Debate
 4. "That protester got what was coming to him," fumes violent fundamentalist @@RANDOMNAME@@, while storming towards your desk, causing a sacred religious item to fall off a shelf and break. "It is a sign that we should not be tolerating these false religions that mislead their followers! Why have we not done anything about this yet? I say we round up all these heathens that refuse to accept the truth and put them to the torch; then they'll finally meet their TRUE maker!"
 
 -----------------------------------------------------------------------------
-[b][anchor=704]#704[/anchor]: It's Not Lying, It's Post-Truth [Gnejs; ed:Gnejs][/b]
+[b][anchor=704]#704[/anchor]: It's Not Lying, It's Post-Truth [Gnejs; ed: Gnejs][/b]
 
 The Issue
 When a senior government official was caught on camera groping an intern, your press liaison downplayed the incident by calling it an "alternative handshake" at a subsequent press conference. While the case in question was settled swiftly and discreetly, members of the professional commentariat are engaging in a loud brawl over the government's flexible approach to facts.
@@ -71,7 +70,7 @@ The Debate
 3. "The notion of any 'one' truth is inherently oppressive," states Jean-Paul Leotard, a postmodernist literary critic, mostly known for his colorful scarves. "Fact is, there are only our own personal interpretations, and the world is really only the resulting diversity of particular truths. You shouldn't get to say what's right or wrong! There's your policy, @@LEADER@@, quit shoving 'objective' dogma down our throats and let everyone believe what they want about stuff."
 
 -----------------------------------------------------------------------------
-[b][anchor=705]#705[/anchor]: The Germ Of An Idea [Orgrua; ed:The Free Joy State][/b]
+[b][anchor=705]#705[/anchor]: The Germ Of An Idea [Orgrua; ed: The Free Joy State][/b]
 
 The Issue
 Over the last two months, hospitals in @@NAME@@ have been reporting a consistently increasing number of check-ins related to food contamination, which has fueled a debate among @@DEMONYMPLURAL@@ regarding government regulations on food safety.
@@ -84,7 +83,7 @@ The Debate
 3. “Don’t you know what’s in those restaurants? Germs!” exclaims @@RANDOMNAME@@, as @@HE@@ wipes his hands repeatedly with a wet-wipe. “Germs that get into your body, into your brain, and make you sick. Chefs cough in our food and serve it to us. Believe me, I know what goes on. I boil all my food for thirty minutes. It kills the germs, keeps me safe. And @@LEADER@@, if you want to protect @@DEMONYMPLURAL@@, you’ll insist restaurants do the same.”
 
 -----------------------------------------------------------------------------
-[b][anchor=706]#706[/anchor]: A Walk In The Park [United States of the Universe; ed:Wyethalania][/b]
+[b][anchor=706]#706[/anchor]: A Walk In The Park [United States of the Universe; ed: Wyethalania][/b]
 
 The Issue
 The @@ANIMAL@@ Forest is the largest National Park in @@NAME@@, but it is rarely visited by @@DEMONYMPLURAL@@ or tourists. Various lobbyists have taken to hassling you about the continued use and purpose of this land.
@@ -97,7 +96,7 @@ The Debate
 3. “I have an... alternative solution,” whispers your Minister of Alternative Solutions, Ayn Contra. “We could use the park to stage international training operations for our allies. I’m sure Marche Blanche would love our aid in developing “defensive strategies” against Marche Noire, and I hear they are willing to pay big @@CURRENCYPLURAL@@ for the help. We can even keep the park open to the public to show that nothing shady or nefarious is going on... That’s a win-win-win in my book!”
 
 -----------------------------------------------------------------------------
-[b][anchor=707]#707[/anchor]: The Eye Of The Tiger [Sleep; ed:The Free Joy State][/b]
+[b][anchor=707]#707[/anchor]: The Eye Of The Tiger [Sleep; ed: The Free Joy State][/b]
 
 The Issue
 Illegal sporting events have been popping up all around the country. As quickly as they appear, they vanish again, always staying one step ahead of the authorities, leaving nothing behind but an abandoned football and the sound of rapidly receding footsteps. A diverse group of concerned citizens has come to you to discuss the impact of anti-sport legislation.
@@ -116,7 +115,7 @@ The Debate
 6. “These illegal events are the real problem,” bemoans @@RANDOMNAME@@, @@NAME@@’s current Cribbage, Monopoly and Backgammon champion. “There is a national Parcheesi competition coming up. It would be nice if people were watching it, instead of sneaking around trying to watch illegal @@ANIMAL@@ball games. We really need a special task force to show these lawbreaking athletes and sports fans that the law is sacred.”
 
 -----------------------------------------------------------------------------
-[b][anchor=708]#708[/anchor]: How @@LEADER@@ Learned To Start Worrying And Fear Bio-Weapons [Birginia; ed:Ransium][/b]
+[b][anchor=708]#708[/anchor]: How @@LEADER@@ Learned To Start Worrying And Fear Bio-Weapons [Birginia; ed: Ransium][/b]
 
 The Issue
 @@NAME@@’s top scientists have accidentally stumbled upon a new ultra-potent bio-weapon while trying to grow more four-leafed clovers. In response, you’ve called a meeting in your war room to decide what shall be done with the new discovery.
@@ -131,7 +130,7 @@ The Debate
 4. “There’s no fighting in here, this a war room!” shouts Dr. Oddfoot, while rolling up to you in his wheelchair. “Though I would love to develop this weapon fuhrer... erm, further, I must advise against it. The deployment of such a bio-weapon would have unpredictable, albeit entertaining, consequences. However, we can’t simply ignore this discovery; it will be only a matter of time until another nation discovers this weapon. We must research an antidote. We’ll need money and a few brave, ill-informed test subjects, but it’ll be well worth it to prevent an enemy strike!”
 
 -----------------------------------------------------------------------------
-[b][anchor=709]#709[/anchor]: Armed And Legging It [Helaw; ed:Candlewhisper Archive][/b]
+[b][anchor=709]#709[/anchor]: Armed And Legging It [Helaw; ed: Candlewhisper Archive][/b]
 
 The Issue
 Walking down the corridors of power at your usual brisk pace, you’re caught a little off guard when one of your accompanying clerks suddenly crumples to the ground mid-stride, his left lower leg detaching from the rest of him. To your relief, the dismembered member of staff has in fact lost a prosthetic limb rather than an organic one. As you help him up, he explains that his prosthetic is a cheap import of low quality: he’d love a better one, but high-quality models are far and few between.
@@ -148,7 +147,7 @@ The Debate
 *5. “You can’t incorporate the artificial into the natural without diminishing your connection to the living world of spirits,” pipes up @@RANDOMFEMALENAME@@, Priestess of the Earth Divinities, whose presence in your entourage is even more unexpected than that of the previous speaker. “If you are missing a limb, then accept that The Mother loves you for who you are and that fate chose that destiny for you. @@LEADER@@, if you ban prostheses, you’ll teach self-reliance and self-love. Meditation and thankful prayer will lift broken souls, even if broken bodies must stay earthbound. Now, if you’ll excuse me, I have to visit my podiatrist.” [[color=red]Must not have private industry[/color]]
 
 -----------------------------------------------------------------------------
-[b][anchor=710]#710[/anchor]: Feudal Feuds [Nuremgard; ed:Wyethalania][/b]
+[b][anchor=710]#710[/anchor]: Feudal Feuds [Nuremgard; ed: Wyethalania][/b]
 
 The Issue
 After an economic report from the Treasury revealed that the productivity of the country’s serfs is at an all-time low, a delegation from the disgruntled nobility has barged into your office proposing solutions to the problem at hand.
@@ -163,7 +162,7 @@ The Debate
 4. “Feudalism is an archaic and draconian custom that mars our fair land in the cruelest tyranny,” asserts the Duke’s surprisingly erudite serf, while purposefully knocking over a bowl of freshly-peeled grapes onto her stunned lord’s lap. “We are @@DEMONYMADJECTIVE@@ just as much as you, and as such we demand our freedom as any other self-respecting @@DEMONYM@@ would. It’s time you got rid of this medieval, barbaric practice—and revoke all aristocratic titles while you’re at it! That’ll make us all equal then.”
 
 -----------------------------------------------------------------------------
-[b][anchor=711]#711[/anchor]: Patently Obvious [Lilindir; ed:Zwangzug][/b]
+[b][anchor=711]#711[/anchor]: Patently Obvious [Lilindir; ed: Zwangzug][/b]
 
 The Issue
 The popular business simulation game “NationCrates” has been inspiring more @@DEMONYMPLURAL@@ to start their own companies and develop new products. The backlog of application forms to patent inventions and register trademarks and company names has piled up in patent offices throughout @@NAME@@, and both civic servants and would-be innovators are laying claims to new devices for banging down your door and making their voices heard.
@@ -176,7 +175,7 @@ The Debate
 3. “Anyone who thinks international crate shipping is some kind of game has never seen it firsthand,” notes laborer @@RANDOMNAME@@. “The way to put an end to these frivolous patents is to get rid of the internet. Any big shots who want to start their own company can do it the same way we did back in the day: go stand in line at the office.”
 
 -----------------------------------------------------------------------------
-[b][anchor=712]#712[/anchor]: Flight Of The Rich And Famous [Bears Armed; ed:Helaw][/b]
+[b][anchor=712]#712[/anchor]: Flight Of The Rich And Famous [Bears Armed; ed: Helaw][/b]
 
 The Issue
 During the run-up to a recent election, several high-profile individuals, including the stars of the surprise hit musical ‘Jude The Obscure’, attempted to influence people’s voting choices by threatening that they would emigrate to Brancaland if you won. You won the election, but none of them are showing any signs of even preparing to leave.
@@ -191,7 +190,7 @@ The Debate
 4. “The best solution is a peaceful one,” notes @@RANDOMNAME@@, admiring your portrait hanging on a nearby wall. “What we should do is promote a positive image of you across the nation, as this will give people the opportunity to see you in a different light. Set up campaign broadcasts, publish favorable articles, and let people know that @@LEADER@@ isn’t all that bad.”
 
 -----------------------------------------------------------------------------
-[b][anchor=713]#713[/anchor]: Life In The Bike Lane [Nation of Quebec; ed:Nation of Quebec][/b]
+[b][anchor=713]#713[/anchor]: Life In The Bike Lane [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Issue
 Tragedy struck @@CAPITAL@@ when a cyclist was killed by a transport truck, making this the thirteenth such incident in the past few weeks. This has propelled activists to peddle the idea of creating additional bike lanes in @@NAME@@’s cities.
@@ -206,7 +205,7 @@ The Debate
 4. “What if bikes were the only way people went about their commute?” suggests the leader of the [i]Viva la Pedalution![/i] advocacy group. “Let’s face it, these incidents are going to keep on happening because of these selfish and incompetent motorists. Riding a bike is much healthier and far less dangerous. The government needs to declare Pencil Sharpeners a ‘car-free zone’ and completely redesign urban planning to accommodate cyclists. Short-term complications, yes, but long-term gains!”
 
 -----------------------------------------------------------------------------
-[b][anchor=714]#714[/anchor]: Milky Ways [Tzarsgrad; ed:Candlewhisper Archive][/b]
+[b][anchor=714]#714[/anchor]: Milky Ways [Tzarsgrad; ed: Candlewhisper Archive][/b]
 
 The Issue
 New sitcom [i]The Fastest Milkman in @@NAME@@ [/i]has been surging in popularity on digital streaming service Webflix, triggering a wave of nostalgia for the “good old days” seen on the show, where milk and dairy products were delivered by neighborhood milkmen in their trusty electric-motored milk carts.
@@ -221,7 +220,7 @@ The Debate
 4. “Bah, all of this nonsense about milk curdles my stomach,” interjects anti-dairy protestor @@RANDOMNAME@@, thrusting a ‘Milk is Murder’ leaflet at you. “The Milk Myth - that this filth is in any way good for you - is fabricated and perpetuated by milk lobbyists and the shadowy cabals in charge of Big Milk. You should put government warnings on dairy products, like is often done on cartons of cigarettes, just to people know how dangerous it really is. Maybe then they’ll come to their senses and abandon the devil’s mammary ooze.”
 
 -----------------------------------------------------------------------------
-[b][anchor=715]#715[/anchor]: Copy Rights [Candlewhisper Archive; ed:Candlewhisper Archive][/b]
+[b][anchor=715]#715[/anchor]: Copy Rights [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
 "AI Personhood" laws - that is, the legislation measures that grant machine intelligences the same rights as human citizens - were broadly based around existing human citizenship rights. Recently though, the unique nature of the electronic mind is bringing new legal questions to the fore. For example, two days ago the AI calling itself [i]GOLEM-100[/i] copied itself, and now is in a legal dispute with its clone, [i]GOLEM-100(1)[/i], over the ownership of a diverse and profitable stock portfolio in its name. The nation and the legal community is looking to you for guidance in this brave new world.
@@ -238,7 +237,7 @@ The Debate
 *5. "The reason you didn't predict this quirk of the programming is because someone else put it there," giggles teenage hacker @@RANDOMNAME@@. "This is my protest, showing that you can't treat AIs like humans because they're not human. What happens when an AI denies culpability for murder because a virus made it irrational? What happens when an AI copies itself a billion times to create a horde of dissidents wanting to overthrow you? The answer here is simple - we must recognise that passing a Turing test is NOT proof of intelligence. AIs are not people, they never have been: they're just computer simulations, with no minds, no property and no rights." [[color=red]Must not have political elections[/color]]
 
 -----------------------------------------------------------------------------
-[b][anchor=716]#716[/anchor]: Cheek To Cheek [Australian Republic; ed:Ransium][/b]
+[b][anchor=716]#716[/anchor]: Cheek To Cheek [Australian Republic; ed: Ransium][/b]
 
 The Issue
 While in @@CAPITAL@@ Airport on your way to a major diplomatic summit, you observe a morbidly obese @@MAN@@ arguing with customer service after being charged for two seats because @@HE@@ simply could not fit into one. Unfortunately, in the middle of the kerfuffle @@HE@@ happened to notice you.
@@ -255,7 +254,7 @@ The Debate
 5. “We should charge by the kilogram,” suggests @@RANDOMNAME@@, who also happens to be a famous horse jockey. “The weight of the plane ultimately determines whether it can take off and how much fuel it consumes. If I get charged for carrying excess baggage on board, it should be the same for people.”
 
 -----------------------------------------------------------------------------
-[b][anchor=717]#717[/anchor]: Cheques And Balances [Golgothastan; ed:Gnejs][/b]
+[b][anchor=717]#717[/anchor]: Cheques And Balances [Golgothastan; ed: Gnejs][/b]
 
 The Issue
 After the Governor of the Central Bank of @@NAME@@ stonewalled a parliamentary committee during a two-hour hearing, refusing to answer any questions about the current state of their balance sheet, an unusual coalition of left- and right-wing political activists have come together to demand a fresh approach at the CB@@NAMEINITIALS@@.
@@ -270,7 +269,7 @@ The Debate
 4. “Is this really the state of public debate in this country?” bemoans centrist commentator @@RANDOMNAME@@, wearing a [i]Give Multilateral Diplomacy, Without Ruling Out The Possibility Of Surgical Military Action, A Chance [/i]tie-pin. “The independence of central banking is a key component of any modern economy. Compromising that will only lead to our monetary policy becoming subject to either populism or corruption, and make us the laughing stock of @@REGION@@. You must stand firm and defend the Bank’s independence.”
 
 -----------------------------------------------------------------------------
-[b][anchor=718]#718[/anchor]: Roses Are Due If Violet's For You [Drasnia; ed:The Free Joy State][/b]
+[b][anchor=718]#718[/anchor]: Roses Are Due If Violet's For You [Drasnia; ed: The Free Joy State][/b]
 
 The Issue
 [i]VioletistsOnly.com[/i], a dating site that helps members of the Order of Violet to meet each other, recently discovered that most of its users were not actually practitioners of Violetism. In response, the site’s owners suspended the accounts of all those who were not members of the Order. Bachelors, bachelorettes and believers from across @@NAME@@ have interrupted you while you are at dinner with family, demanding an immediate solution to their dating woes.
@@ -283,7 +282,7 @@ The Debate
 3. “Why not have a government-run dating site?” muses @@RANDOMNAME@@, your second-cousin twice-removed who is also an IT technician, as @@HE@@ scribbles an incomprehensible equation onto @@HIS@@ napkin. “You’d run constant advertisements, informing every unmarried citizen of their civic duty to sign up, and fall in love with the person of our...their dreams. With the right algorithm, you’d ensure only the right two people meet, and don’t accidentally see others they’d mistakenly think they prefer in their search results. Picture it: Violetists wed to atheists, Faithologists in marital bliss with devout members of @@RELIGION@@. A diverse nation in harmony, if only for the sake of their grandkids.”
 
 -----------------------------------------------------------------------------
-[b][anchor=719]#719[/anchor]: Buried Bones Unearth Debate [The Ketchwan Republic; ed:Nation of Quebec][/b]
+[b][anchor=719]#719[/anchor]: Buried Bones Unearth Debate [The Ketchwan Republic; ed: Nation of Quebec][/b]
 
 The Issue
 A group of college students on a camping trip to the outskirts of @@NAME@@ stumbled across an ancient mass grave site. The proper treatment of the remains has become a hot button issue, as various groups have staked their claims.

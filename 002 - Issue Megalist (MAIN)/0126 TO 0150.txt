@@ -230,7 +230,9 @@ The Debate
 
 2. @@RANDOMNAME@@, avowed anti-spending advocate, disagrees: "Road construction? What a waste of @@CURRENCYPLURAL@@! If people can still drive on them, then the roads are fine as they are. Spending more to make trivial repairs would just be a waste of the tax payers' money! We should just ignore these whiners and leave the roads as they are and if the drivers don't like that - well... then they can just learn to walk like the rest of us."
 
-3. "Why on Earth is it the government's responsibility to build and maintain roads?" asks bicyclist @@RANDOMNAME@@, pausing for breath. "Not all citizens own automobiles, you know. The government should be trying to make life better for all, not just car owners! If people want roads, then let private industry build them, and they can charge tolls to the people who actually drive on them. Leave the government out of it!"
+*3. "Why on Earth is it the government's responsibility to build and maintain roads?" asks bicyclist @@RANDOMNAME@@, pausing for breath. "Not all citizens own automobiles, you know. The government should be trying to make life better for all, not just car owners! If people want roads, then let private industry build them, and they can charge tolls to the people who actually drive on them. Leave the government out of it!" [[color=blue]Must have Capitalism[/color]]
+
+*4. “Why on Earth is it central government’s responsibility to build and maintain local roads?” asks Party Member @@RANDOMNAME@@. “Not all citizens need automobiles, you know. A worker assigned to a farming collective has no need to travel! If people want roads, then let the local collectives put their own sweat and toil into building them, raising funds for this locally. Leave the central government out of it!” [[color=red]Must have Socialism[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=143]#143[/anchor]: An Archaeological Altercation [Fiscali; ed: Sirocco & Tactical Grace][/b]

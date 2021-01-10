@@ -1,7 +1,7 @@
 [b][anchor=1420]#1420[/anchor]: TBD[/b]
 
 --------------------------------------------------------------
-[b][anchor=1421]#1421[/anchor]: Have Your Cake and Don’t Eat It [Wischland, ed: The Free Joy State][/b]
+[b][anchor=1421]#1421[/anchor]: Have Your Cake and Don’t Eat It [Wischland; ed: The Free Joy State][/b]
 
 The Issue
 Avery Phillips, a young dancer, recently collapsed with the complications of what was revealed to be anorexia nervosa while dancing in the small, televised role of ‘Girl Waiting for Pater Maxxmas’. National attention has now been drawn to the growing prevalence of eating disorders and related hospitalizations in @@NAME@@, especially among the dance community.
@@ -32,7 +32,7 @@ The Debate
 4. And of course there’s your office intern @@RANDOMFEMALENAME_4@@, looking smugly right back at you. Of course @@HE_4@@ knows just what the ship should be called, but all @@HE_4@@’s mouthing at you is “Shippy McShipface” — or at least you hope that’s what it is. Oh, to hell with it. Who says you can’t name a ship after yourself?
 
 --------------------------------------------------------------
-[b][anchor=1423]#1423[/anchor]: A Slice of the Pi [Candlewhisper Archive; Candlewhisper Archive][/b]
+[b][anchor=1423]#1423[/anchor]: A Slice of the Pi [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
 Recently, a tech firm from the United Federation used a network of computers and the latest algorithms to calculate pi to an incredible number of decimal places, smashing the previous world record by several orders of magnitude.
@@ -47,7 +47,7 @@ The Debate
 4. “Honestly, I’ve never liked pi. It’s just so... irrational,” says Minister of Mathematical Certainty Eddie Goodwin. “Can’t we just legislate so that everybody in @@NATION@@ uses a @@DENOUNYMADJECTIVE@@ definition of pi? Let’s just say pi is 3.2. I mean, that’s true anyway for a given curvature of space time. Just say 3.2, and leave it at that, eh?”
 
 --------------------------------------------------------------
-[b][anchor=1424]#1424[/anchor]: Here’s Looking at Zoo, Kid [Socio Polor, ed: Electrum][/b]
+[b][anchor=1424]#1424[/anchor]: Here’s Looking at Zoo, Kid [Socio Polor; ed: Electrum][/b]
 
 The Issue
 Following the abolition of zoos, an ecological report has found that a large proportion of released zoo animals have not survived in the wild because they spent most of their lives in captivity.
@@ -78,7 +78,7 @@ The Debate
 
 
 --------------------------------------------------------------
-[b][anchor=1426]#1426[/anchor]: She’s a Keeper [Honeydewistania and Australian rePublic, ed: Electrum][/b]
+[b][anchor=1426]#1426[/anchor]: She’s a Keeper [Honeydewistania & Australian rePublic; ed: Electrum][/b]
 
 The Issue
 A recent top division women’s football match set the lowest all-time attendance record of just five people.

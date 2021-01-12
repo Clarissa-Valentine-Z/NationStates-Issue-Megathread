@@ -1,4 +1,3 @@
-0580 TO 0599
 [b][anchor=580]#580[/anchor]: @@NAME@@ Taking Leave Of Its Census? [Zwangzug; ed: Gnejs][/b]
 
 The Issue 
@@ -176,9 +175,9 @@ Children wept today, as only a handful of fish showed up for the 'Dance of Salmo
 The Debate
 1. "Salmon are a crucial link in the food chains of both the ocean AND river systems!" asserts @@RANDOMNAME@@, a surprisingly knowledgeable 10-year old, clutching a tear-drenched plush salmon. "The wild stocks of both Maxtopia and Blackacre are already irreparably depleted by sea lice and overfishing, and if we do nothing, @@NAME@@ is next. You need to severely tighten regulations for the farm barons: make them clean up their act before it's too late!" 
 
-2. "What's the worst-case scenario? They're extinct in twenty years or so? I'm eighty-six; I'll be extinct in ten," reasons ridiculously wealthy fish farm owner, Bjørnar Laksekonge. "This is really making a mountain out of a molehill. Look, if you just equate wild salmon with caged salmon in your government counts, I think you'll see the problem disappearing overnight. I'm sure my boys can train a couple of our fish to swim upriver once or twice a year, nobody will care: a salmon is a salmon, right?"
+*2. "What's the worst-case scenario? They're extinct in twenty years or so? I'm eighty-six; I'll be extinct in ten," reasons ridiculously wealthy fish farm owner, Bjørnar Laksekonge. "This is really making a mountain out of a molehill. Look, if you just equate wild salmon with caged salmon in your government counts, I think you'll see the problem disappearing overnight. I'm sure my boys can train a couple of our fish to swim upriver once or twice a year, nobody will care: a salmon is a salmon, right?" [[color=blue]Must not have Geronticide[/color]]
 
-3. TBD [???]
+*3. "What's the worst-case scenario? They're extinct in twenty years or so? I’m fifty-five; the government will make sure I’m extinct in ten," reasons ridiculously wealthy fish farm owner, Bjørnar Laksekonge. "This is really making a mountain out of a molehill. Look, if you just equate wild salmon with caged salmon in your government counts, I think you'll see the problem disappearing overnight. I'm sure my boys can train a couple of our fish to swim upriver once or twice a year, nobody will care: a salmon is a salmon, right?" [[color=red]Must have Geronticide[/color]]
 
 4. "People, people! Let's forget about the salmon for a while and talk about the lice!" pleads @@RANDOMNAME@@, disgraced marine biologist and amateur chemist. "The louse - scourge of the salmon, free or farmed; wouldn't it be nice if you could just make them go away? Well, you can! I've been working on a new type of pesticide targeting just this kind of situation. It's still experimental, that's for sure, but if you let fish farmers douse their tanks with my stuff I'll guarantee that your lice problem will be a thing of the past, all while keeping your fish nice and sound. Actually, I'm not 100% sure about the fish, but the lice will definitely die!"
 

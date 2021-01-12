@@ -1,4 +1,3 @@
-0076 TO 0100
 [b][anchor=076]#[/anchor][anchor=76]76[/anchor]: Suits in Protest [Xibonia; ed: SalusaSecondus][/b]
 
 The Issue
@@ -17,18 +16,18 @@ The Debate
 [b][anchor=077]#[/anchor][anchor=77]77[/anchor]: [color=goldenrod]Easter Egg[/color]: World To End, Or Possibly Just Mark Anniversary[/b] {One Year Anniversary issue, now an Easter Egg bonus}
 
 The Issue
-Along with the rest of the world, the citizens of @@NAME@@ have been stunned by the revelation of a small team of geophysical philosophers that the world turns exactly one year old today, as measured by what they call "RL units". (Congratulations on finding so many easter eggs. As a reward, here is the special issue our players got when NationStates turned one year old.)
+Along with the rest of the world, the citizens of @@NAME@@ have been stunned by the revelation of a small team of geophysical philosophers that the world turns exactly one year old today, as measured by what they call "RL units". [i](Congratulations on finding so many easter eggs. As a reward, here is the special issue our players got when NationStates turned one year old.)[/i]
 
 The Debate
-1. "Frankly, I saw this coming -- all the signs of the Apocalypse are here," says local community leader @@RANDOMNAME@@. "Moral standards are falling, the government is making increasingly erratic decisions, and people are neglecting their work to play bizarre political simulation games on the internet. There's only one sensible reaction: declaring a state of emergency, sending out the military, and shooting curfew breakers until the crisis is over."
+1. "Frankly, I saw this coming—all the signs of the Apocalypse are here," says local community leader @@RANDOMNAME@@. "Moral standards are falling, the government is making increasingly erratic decisions, and people are neglecting their work to play bizarre political simulation games on the internet. There's only one sensible reaction: declaring a state of emergency, sending out the military, and shooting curfew breakers until the crisis is over."
 
-2. "With respect, I don't think falling moral standards are the problem," says cubicle dweller and Slashdot karma god @@RANDOMNAME@@. "The issue is what's going to happen to our computers if the world clock ticks over from 0 to 1. This Y1 problem, as I call it, could be devastating for our IT industry unless it's tackled swiftly. And by tackled swiftly, I mean given a massive injection of public money."
+[2]. "With respect, I don't think falling moral standards are the problem," says cubicle dweller and Slashdot karma god @@RANDOMNAME@@. "The issue is what's going to happen to our computers if the world clock ticks over from 0 to 1. This Y1 problem, as I call it, could be devastating for our IT industry unless it's tackled swiftly. And by tackled swiftly, I mean given a massive injection of public money." [[color=blue]Must not ban Computers[/color] OR [color=blue]Must not ban Internet[/color]]
 
-3. "Why panic when you should be partying?" says @@RANDOMNAME@@, not completely soberly. "It's the first birthday of the [i]world[/i], man -- let people go nuts! If the government has a shred of decency, they'll order the cops to back off and let people really enjoy this incredible moment in history."
+3. "Why panic when you should be partying?" says @@RANDOMNAME@@, not completely soberly. "It's the first birthday of the [i]world[/i], man—let people go nuts! If the government has a shred of decency, they'll order the cops to back off and let people really enjoy this incredible moment in history."
 
 4. "This is neither a time for clamping down, nor, as they say, going off," says religious leader @@RANDOMNAME@@. "Rather, we should encourage people to reflect on the great mysteries of life. For example, what is God, to each of us? What is the true meaning of faith? And is the world around us reality, or are we instead living inside a simulated reality that exists only for the amusement of beings we cannot even imagine?"
 
-5. "Well, I know what I'll be doing," says obscure author and Perl amateur Max Barry. "Sitting at home with a good book! [url=http://www.maxbarry.com/jennifergovernment/]Jennifer Government[/url], for instance, is a cracking read. And I hear that some of the profits go into maintaining a cool web game. But of course, that's just my opinion. People should celebrate however they want."
+5. "Well, I know what I'll be doing," says obscure author and Perl amateur Max Barry. "Sitting at home with a good book! [url=http://www.maxbarry.com/jennifergovernment/][i]Jennifer Government[/i][/url], for instance, is a cracking read. And I hear that some of the profits go into maintaining a cool web game. But of course, that's just my opinion. People should celebrate however they want."
 
 -------------------------------------------------------------------------------
 [b][anchor=078]#[/anchor][anchor=78]78[/anchor]: [color=goldenrod]Easter Egg[/color]: Should We Pull The Lever? [Meddlers; ed: SalusaSecondus][/b]

@@ -68,13 +68,13 @@ In the midst of another busy day, you trip on a misplaced paperweight and tear y
 The Debate
 1. “Oh, this just won’t do!” tuts your aunt, an aspiring seamstress, holding two giant off-color swatches against your torn pants leg. “I’ll get this fixed right up, dearie! A few patches here and stitches there and they’ll be as good as new! Sad that so few people make-do-and-mend these days. Now, pass me your little pants.”
 
-2. Salvatore Matei, representative of the ancient tailors The Leader’s Men, strolls into your office. “It is time for you get new clothes anyway. Let us ditch these old rags and get you something more stylish. I see a classic yet breathable fabric that is sweat and bullet resistant, tailored to flatter your form and worn with ascots — not brogues.”
+2. @@RANDOMNAME@@, representative of the ancient tailors [i]The Leader’s Men[/i], strolls into your office. “It is time for you get new clothes anyway. Let us ditch these old rags and get you something more stylish. I see a classic yet breathable fabric that is sweat and bullet resistant, tailored to flatter your form and worn with ascots — not brogues.”
 
 *3. Two brightly dressed tailors stumble into your office. “We’ve got just the thing for you, your mightiness! The greatest clothes in history, made just for your glorious self.” The first tailor flicks open a suitcase, revealing... nothing. “As you see, this fine cloth is lighter than air. Feel the fabric. Many have begged for it. Surely, oh intelligent one, you can feel the delicate weave? These clothes are the future! People will praise your forward-thinking. Don’t worry about the price; we’ll just forward our small fee to your accountant.”
 
 *4. Two brightly dressed men stumble into your office, with tailoring tape around their necks. “We’ve got just the thing for you, your mightiness! The greatest clothes in history, made just for your glorious self.” The first man flicks open a suitcase, revealing... nothing. “As you see, this fine cloth is lighter than air. Feel the fabric. It is too exquisite to waste on those buffoons at the @@DEMONYMADJECTIVE@@ Clothing Council. Surely, oh intelligent one, you can feel the delicate weave? These clothes are the future! People will praise your forward-thinking. Don’t worry about the price; we’ll just forward our small fee to your accountant.”
 
-5. “Malarkey! Why don’t you just dress like everyone else?” chimes your gardener through the window, watering the flowers on your desk along with everything and everyone in the room. “It’ll cost the taxpayer less, you’ll be more relatable, and you won’t need to fuss about all that fancy-schmancy stuff! Heck, why not encourage all government officials to wear clothes that are affordable to the average @@DEMONYM@@!”
+5. “Malarkey! Why don’t you just dress like everyone else?” chimes your gardener through the window, watering the flowers on your desk along with everything and everyone in the room. “It’ll cost the taxpayer less, you’ll be more relatable, [i]and[/i] you won’t need to fuss about all that fancy-schmancy stuff! Heck, why not encourage all government officials to wear clothes that are affordable to the average @@DEMONYM@@!”
 
 
 --------------------------------------------------------------
@@ -106,10 +106,34 @@ The Debate
 “I say, your guidance has proven so potent that you no longer require the unnecessary burden of operating a state-run media,” says former media tycoon Imogen Dawson, choosing her words tactfully. “With your divine blessing, reintroducing privately operated media will demonstrate to our eternally grateful people that you hear the voices of others, however flawed those voices may be compared to yours. Long live and all that jazz.”
 
 --------------------------------------------------------------
-[b][anchor=1428]#1428[/anchor]: TBD[/b]
+[b][anchor=1428]#1428[/anchor]: In the Bag [Indusse; ed: Electrum][/b]
+
+The Issue
+A Bigtopian diplomatic bag was accidentally searched by customs officers, contrary to diplomatic conventions. Before the search was stopped, the bag was found to contain cocaine brownies, snortable marijuana, gold leaf toilet paper rolls, and jars of whale oil. Even though the bags were promptly handed over to the Bigtopian embassy, questions have been raised about this discovery.
+
+The Debate
+1. “This is the most obvious case of smuggling I’ve ever seen!” says customs officer @@RANDOMNAME@@, oblivious to a man wearing a trenchcoat full of fake watches sneaking through the checkpoint behind @@HIM@@. “Those Bigtopians are abusing our trust by bringing in all manner of illegal items, and not paying duties on the legal ones. You need to punish the Bigtopians by expelling them immediately, even if it exposes us as breaking diplomatic conventions.”
+
+2. “Why do we allow diplomatic bags anyway?” asks one of your aides. “Just treat embassy luggage the same as any other luggage, subject to the exact same rules and examination as everybody else’s bags.”
+
+3. “While diplomatic bags aren’t meant to contain contraband, the greater fault is ours,” observes your Minister of Protocol. “To open a diplomatic bag — even accidentally — is a major breach of trust. Embassies being allowed to confidentially send documents and communications to their own governments is the basis of international diplomacy. Also, dare I say it, our own diplomatic bags carry sensitive information back to us from other nations which are critical to our intelligence community. Apologise to the Bigtopians, claim you didn’t look closely at the contents, and offer them a hefty payment in contrition for our impoliteness."
+
+4. “The illegal products aren’t as important as the concealed intel,” agrees spymaster ‘N’, while searching your briefcase without permission. “Imagine the valuable intelligence we could find by covertly opening every country’s diplomatic bags. We could learn military secrets, along with the names of foreign spies within our country, then replicate their passports for espionage. We can blackmail couriers, walk them through hidden scanners, and employ tradecraft in other subtler ways to compromise the bags. It’s the right thing to do for our glorious @@TYPE@@.”
 
 --------------------------------------------------------------
-[b][anchor=1429]#1429[/anchor]: TBD[/b]
+[b][anchor=1429]#1429[/anchor]: The Wind Become Death [Westinor; ed: Candlewhisper Archive][/b]
+
+The Issue
+Recent studies of becquerel-burdened berries have found that radioactive fallout from nuclear weapons testing in Althaniq has been carried into @@NAME@@ by transoceanic jet streams.
+
+The Debate
+1. “Althaniq might be keen to join the big boys at the nuclear-capable club, but this sort of sloppiness makes it clear they’re not ready,” comments your Minister of International Patronisation. “@@NAME@@ is like an elder sibling to Althaniq — tell them that they don’t need a nuclear weapons program, because they’re already under our protection. In fact, tell them they have to cease all testing now and in perpetuity, if they want to stay on our good side, and pay reparations for the harm they’ve done. They gotta remember their place.”
+
+2. “No, can you not see? This is the danger of raw, unadulterated nuclear power!” cries nuclear disarmament activist Jazz Chan as she manically waves around a Geiger counter that clicks worryingly as it sweeps past your groin area. “These weapons imperil our very means of life — the ramifications of radiation spare no one. Althaniq must cease their nuclear ambitions, and we should lead by example. Disarm now!”
+
+3. “How boring, like I haven’t heard that two hundred and thirty-five times already,” yawns nuclear scientist Mohammed Huxley. “Look, Althaniq is only doing nuclear tests because they’re decades behind advanced nations like ours. We did all our testing decades ago, and there’s really no need for them to repeat all that messy business. Just share our technical knowledge with them, and we’ll be even closer allies than before.”
+
+4. “We should use these jet streams to our advantage,” whispers your Minister of Stealth Bombing as he materialises out of nowhere. “Our scientists have compiled a detailed map of jet stream systems — correctly employ these, and we can secretly detonate dirty bombs in the middle of nowhere, while still delivering cancer and illness into the heart of enemy nations.”
 
 --------------------------------------------------------------
 [b][anchor=1430]#1430[/anchor]: TBD[/b]

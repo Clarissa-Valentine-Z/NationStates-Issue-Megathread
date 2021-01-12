@@ -1,4 +1,3 @@
-0360 TO 0379
 [b][anchor=360]#360[/anchor]: Electile Dysfunction [Christian Democrats; ed: Lenyo][/b]
 
 The Issue
@@ -98,7 +97,9 @@ The Debate
 
 *2. “It is the right of all citizens to express themselves in any way they chose,” claims free speech advocate @@RANDOMNAME@@ while wearing a t-shirt that calls you a rather crude obscenity. “People should be free to dress in any uniform without fear of reprisal or punishment - and that includes wearing a uniform of the @@DEMONYMADJECTIVEINITIALS@@AF. What better way to display to the world one’s patriotism! And if you happen to get more respect or some discounts because of it, all the better. If that argument doesn’t persuade you, then maybe you should ask the Vice Admiral how he won those medals. You can bet your bottom @@CURRENCY@@ that if you criminalise this, concerned citizens will start asking serving officers that question. Do you want the military to have another public relations disaster?” [[color=red]Must not have media[/color]]
 
-3. “Why do we celebrate and glorify warmongering by raising these conquistadors above everyone else?” questions @@RANDOMNAME@@, an anti-war protester outside the gates of your office building. “These medals and uniforms only exist to exert dominance and fear over the masses. The military claim these medals are rewards, but they are actually trophies declaring to the world how many innocent civilians their brainwashed killers massacred. We should do away with our armed forces, abolish the draft and imprison those who volunteered to supposedly kill in the name of @@NAME@@.” [[color=red]Must have conscription[/color]]
+**3. TBD [[color=blue]Must not have conscription[/color] (TBD)]
+
+**4. “Why do we celebrate and glorify warmongering by raising these conquistadors above everyone else?” questions @@RANDOMNAME@@, an anti-war protester outside the gates of your office building. “These medals and uniforms only exist to exert dominance and fear over the masses. The military claim these medals are rewards, but they are actually trophies declaring to the world how many innocent civilians their brainwashed killers massacred. We should do away with our armed forces, abolish the draft and imprison those who volunteered to supposedly kill in the name of @@NAME@@.” [[color=red]Must have conscription[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=367]#367[/anchor]: What's Their Beef? [Nouvel Ecosse; ed: Sedgistan][/b]

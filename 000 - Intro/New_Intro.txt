@@ -1,5 +1,5 @@
-[align=center][img]https://i.imgur.com/5mdXBfa.png[/img]
-[size=85][url=https://www.shutterstock.com/pl/image-photo/close-womans-hands-writing-spiral-notepad-525439534]Image source.[/url][/size]
+[align=center][img]https://i.imgur.com/o2zcktq.png[/img]
+[size=85]Image Source: Me![/size]
 
 [size=150]Greetings, [b]**SPOILER ALERT**[/b]
 
@@ -38,7 +38,8 @@ Links and other resources:
 [*]An old issue a little wonky or not working as expected? [url=https://forum.nationstates.net/viewtopic.php?f=13&t=158858]Help us fix old issues![/url]
 [*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=489397#p37479488]Got Issues? Hall of Fame![/url] Ran by SherpDaWerp.
 [*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=475174&p=36442927#p36442927]Valentine's NS Stats Trends and Correlations.[/url] Infrequently ran! ^^
-[*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=423697#p32501335]List of NPC nations and tribes.[/url] More about them, ran by Jutsa![/list]
+[*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=423697#p32501335]List of NPC nations and tribes.[/url] More about them, ran by Jutsa!
+[*][url=https://forum.nationstates.net/viewtopic.php?p=32505621#p32505621]List of Religions and Cults.[/url] Ran by Jutsa![/list]
 
 [b]MACROS[/b]:
 [b]@@A@@[/b] or [b]@@AN@@[/b]: Displays "a" or "an" depending on the word that follows (take: @@AN@@ @@MAJORINDUSTRY@@ worker)

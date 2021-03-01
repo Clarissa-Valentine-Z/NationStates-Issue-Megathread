@@ -1,4 +1,3 @@
-0176 TO 0200
 [b][anchor=176]#176[/anchor]: History A Mystery To Most Of @@NAME@@ [Diet Mug Root Beer; ed: Sirocco][/b]
 
 The Issue
@@ -298,7 +297,7 @@ The Debate
 
 3. "Freedom of speech is important, but so is freedom of religion. Surely we can strike some sort of balance?" says @@RANDOMNAME@@, chief spokesperson for the @@NAMEINITIALS@@SOC (the @@NAME@@ Society of Compromisers). "Freedom of speech comes with a responsibility. People must avoid anything that insults another's religion, and if they aren't willing to do it themselves, the government must enforce it."
 
-4. "@@HIS@@ Holiness, the Grand High Poobah of Violet, has the right idea, but the wrong religion," says @@RANDOMNAME@@, the Prelate of Primary Public Relations for the fanatical organization @@NAME@@'s Concerned Citizens for Our God. "This nation needs an official religion, and not support the Godless heathens who worship the idolotrous Violet. Appoint me as your spiritual adviser an I'll ensure that all people worship God in the correct way."
+[4]. "@@HIS@@ Holiness, the Grand High Poobah of Violet, has the right idea, but the wrong religion," says @@RANDOMNAME@@, the Prelate of Primary Public Relations for the fanatical organization @@NAME@@'s Concerned Citizens for Our God. "This nation needs an official religion, and not support the Godless heathens who worship the idolotrous Violet. Appoint me as your spiritual adviser an I'll ensure that all people worship God in the correct way." [[color=purple]Does not have national religion[/color]]
 
 5. "They've got it all wrong. Freedom of speech isn't the problem, religion is!" shouts @@RANDOMNAME@@, at a local AA (Atheists Anonymous) meeting. "If religion were outlawed, this problem would solve itself. Just send them in for medical treatment. After all, anyone who believes in some big invisible dude who can do anything is clearly nuts."
 

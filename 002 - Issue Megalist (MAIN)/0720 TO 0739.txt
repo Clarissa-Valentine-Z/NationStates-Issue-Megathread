@@ -1,4 +1,3 @@
-0720 TO 0739
 [b][anchor=720]#720[/anchor]: Cui Bono? [Candlewhisper Archive; ed: Ransium][/b]
 
 The Issue
@@ -95,9 +94,9 @@ The Debate
 
 2. “Yeah, regulations always help businesses grow,” says @@RANDOMNAME@@, CEO of Widgets Inc, @@HIS@@ voice ripe with sarcasm. “If you want businesses to hire more people at job fairs, the government needs to relax regulations surrounding hiring and firing employees. And how about a few thousand @@CURRENCYPLURAL@@ tax break for each job applicant companies hire at the fairs? I promise, it’ll jump start the economy and pay for itself.”
 
-*3. “The problem is there’s no one in @@NAME@@ who is actually qualified to fill the jobs I need,” sighs Anita Jobs, CEO of the major tech company Pear. “Can you please drop this silly immigration ban already? Once tech companies like Pear reboot the economy, I’m sure these hapless job fair attendees will be able to get jobs at McRonald’s or something.” [[color=red]Immigration is illegal[/color]]
+*3. “The problem is there’s no one in @@NAME@@ who is actually qualified to fill the jobs I need,” sighs Anita Jobs, CEO of the major tech company Pear. “Can you please drop this silly immigration ban already? Once tech companies like Pear reboot the economy, I’m sure these hapless job fair attendees will be able to get jobs at McRonald’s or something.” [[color=red]Immigration is illegal[/color], possible additional criterion missing]
 
-*4. "The problem is there's no one in @@NAME@@ who is actually qualified to fill the jobs I need," sighs Anita Jobs, CEO of the major tech company Pear. "Can you please make it easier for us to hire high-skilled labor from outside the country? Once tech companies like Pear reboot the economy, I'm sure these hapless job fair attendees will be able to get jobs at McRonald's or something." [[color=blue]Immigration is legal[/color]]
+*4. "The problem is there's no one in @@NAME@@ who is actually qualified to fill the jobs I need," sighs Anita Jobs, CEO of the major tech company Pear. "Can you please make it easier for us to hire high-skilled labor from outside the country? Once tech companies like Pear reboot the economy, I'm sure these hapless job fair attendees will be able to get jobs at McRonald's or something." [[color=blue]Immigration is legal[/color], possible additional criterion missing]
 
 5. “It is obvious relying on the private sector to create jobs has failed!” wails your top Employment Minister, who also happens to be your cousin. “A well-planned state economy would fix all of this. Just think of the efficiency of it, we could simply assign people jobs, and imagine the comfort @@DEMONYMPLURAL@@ would have if they knew they were assured a job before they even finished school? We could even tailor people’s education to improve their productivity at their future careers!”
 

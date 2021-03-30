@@ -196,11 +196,11 @@ The Issue
 Sensing a lucrative business opportunity, several major corporations attempted to capitalize on the nation’s eco-friendly attitude by marketing every single one of their products with dubious claims such as “environmentally safe,” “divinely blessed by Mother Nature herself,” and everything in between. With scores of activists grumbling about the “greenwashing,” the burden falls on you to broker a green peace.
 
 The Debate
-1. “I don’t see the problem here,” says United Information Technology CEO Bob Bourdain, teasing you with some 100% recyclable organic Urists. “It’s not as though we’re lying to people: all of our product packaging contains so many pro-environment exhortations that people reading the labels basically have no choice but to embrace the green craze! If that’s not ‘all profits go towards supporting the environment,’ I don’t know what is!”
+1. “I don’t see the problem here,” says United Information Technology CEO @@RANDOMNAME@@, teasing you with some 100% recyclable organic @@CURRENCYPLURAL@@. “It’s not as though we’re lying to people: all of our product packaging contains so many pro-environment exhortations that people reading the labels basically have no choice but to embrace the green craze! If that’s not ‘all profits go towards supporting the environment,’ I don’t know what is!”
 
-2. “Not as though you’re lying?” shrieks random activist Gretel Harel, smacking what she assures you is not a 100% recyclable organic petition down on your desk. “This is making a mockery out of all our efforts! ‘Green this, green that’ - it has to end! If a company wants to put environmental claims in their advertising, they need to back them up with scientific facts.”
+2. “Not as though you’re lying?” shrieks random activist @@RANDOMNAME@@, smacking what she assures you is not a 100% recyclable organic petition down on your desk. “This is making a mockery out of all our efforts! ‘Green this, green that’ - it has to end! If a company wants to put environmental claims in their advertising, they need to back them up with scientific facts.”
 
-3. “Allow me to, ahem... advertise a solution,” cackles East Lebatuckese diplomat Louis O'Bannon, spreading some ‘Splendor in Socialism’ propaganda brochures on your desk. “As long as you have greedy profit-oriented capitalists, this hoodwinking is bound to happen. If you just brought all manufacturing and merchandising under state control like we do, all comrades - I mean consumers - could make well-informed decisions about what to buy.”
+3. “Allow me to, ahem... advertise a solution,” cackles East Lebatuckese diplomat @@RANDOMNAME@@, spreading some ‘Splendor in Socialism’ propaganda brochures on your desk. “As long as you have greedy profit-oriented capitalists, this hoodwinking is bound to happen. If you just brought all manufacturing and merchandising under state control like we do, all comrades - I mean consumers - could make well-informed decisions about what to buy.”
 
 --------------------------------------------------------------
 [b][anchor=1434]#1434[/anchor]: Blood on Your Nuts [Candlewhisper Archive; ed: Noahs Second Country][/b]
@@ -260,7 +260,7 @@ The Debate
 [b][anchor=1438]#1438[/anchor]: Push Polling [Cretox State; ed: Candlewhisper Archive][/b]
 
 The Issue
-In the aftermath of a recent close election, your government has received a litany of complaints concerning the activities of ‘Bikers for Hitohiro’, a grassroots organization whose intense mass demonstrations in front of polling locations and alleged harassment of opposition voters may have swung the election in your favor.
+In the aftermath of a recent close election, your government has received a litany of complaints concerning the activities of ‘Bikers for @@LEADER@@’, a grassroots organization whose intense mass demonstrations in front of polling locations and alleged harassment of opposition voters may have swung the election in your favor.
 
 The Debate
 1. “We’re just tryin’ ta’ help, is all,” says head biker @@RANDOMNAME@@, placing a friendly arm around your shoulder and pinning one of your own party’s buttons to your chest. “Maybe we swung the election a bit. Who knows? We’re just exercisin’ our right ta’ express ourselves politically like any folks can do, and you should be supporting that. Otherwise, I can’t guarantee ma boys an’ I will keep bein’ so friendly in the future.”
@@ -276,7 +276,7 @@ The Issue
 The @@DEMONYMADJECTIVE@@ Post Office reported an unexpected rise in the sale of stamps, which was oddly unaccompanied by any increase in mail deliveries. Further research has revealed that increasing numbers of @@DEMONYMPLURAL@@ are buying stamps to use in place of cash, with the value of the stamp acting as a promissory note for its monetary value.
 
 The Debate
-1. “I’ll admit, stamps aren’t ideal for this purpose,” concedes grocer Rochelle Glover, who recently started accepting stamps in lieu of payment for her lovely melons. “They’re a little fiddly, and if they get damp they stick together. Maybe you lot in government could make some bigger stamps, like something that would fit nicely in a good ol’ fashioned wallet, without any adhesive. You could watermark them to prevent forgery, and maybe produce them at a range of values, from 1 to 100 Novas. That’d be quite handy for day-to-day business, you know?”
+1. “I’ll admit, stamps aren’t ideal for this purpose,” concedes grocer @@RANDOMNAME@@, who recently started accepting stamps in lieu of payment for her lovely melons. “They’re a little fiddly, and if they get damp they stick together. Maybe you lot in government could make some bigger stamps, like something that would fit nicely in a good ol’ fashioned wallet, without any adhesive. You could watermark them to prevent forgery, and maybe produce them at a range of values, from 1 to 100 @@CURRENCYPLURAL@@. That’d be quite handy for day-to-day business, you know?”
 
 2. “The whole point of digital money was to make transactions fully traceable!” splutters your Minister of Taxpayer Surveillance, thrusting a black market banana in your face somewhat aggressively. “We need to get rid of stamps, and make transactions of that sort occur purely digitally as well: a unique scannable code on mail can work just as well as a stamp. While we’re at it we’ll need to ban any other physical object that has a direct cash value: casino chips, book tokens, luncheon vouchers... they’ve all got to go!”
 

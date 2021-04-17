@@ -19,7 +19,7 @@ The Issue
 Yesterday, a house in @@CAPITAL@@ City caught fire while two young children were inside. Firefighters rescued the children, who were found hiding from the flames in a closet, before it was too late.
 
 The Debate
-1. “Children who are unfamiliar with fire instinctively hide from it,” says Fire Chief @@RANDOMFIRSTNAME@@, holding up a weighty fire safety manual titled Fires: They’re Not Lit. “We’ve even seen situations where kids have hidden from uniformed firefighters. You should add fire safety to the national curriculum and provide grants for fire departments to visit schools so that we can teach kids how to escape fires.”
+1. “Children who are unfamiliar with fire instinctively hide from it,” says Fire Chief @@RANDOMFIRSTNAME@@, holding up a weighty fire safety manual titled Fires: [i]They’re Not Lit[/i]. “We’ve even seen situations where kids have hidden from uniformed firefighters. You should add fire safety to the national curriculum and provide grants for fire departments to visit schools so that we can teach kids how to escape fires.”
 
 2. “Wait, the parents left children ALONE at home?” cries @@RANDOMNAME@@, while ignoring his leashed-up toddlers who are sticking their slimy hands into your sweets jar. “If these kids were not left home alone, they would have never needed rescuing! Children should always be supervised by at least one adult guardian at all times who can rescue them from emergencies. It’s the only way to keep them safe. Also, parents should be charged with child neglect if their children are left unaccompanied.”
 
@@ -34,9 +34,9 @@ An outbreak of huanglongbing, a disease that causes citrus fruit to turn green a
 The Debate
 1. "We're at code blood orange here," reports Minister of Agriculture @@RANDOMNAME@@ from the ministry's 'citruation room'. "Our nation's delicate ecosystem is constantly under threat from foreign diseases that can seriously harm our flora and fauna. Strict regulations must dictate which food products are allowed into @@NAME@@. If someone refuses to let customs officers confiscate prohibited items, they'll have to make like a banana and split right back to where they came from."
 
-2. TBD
+*2. "A strategy like that sounds sensible, but our agriculture would still be susceptible to rot from within," counters geneticist @@RANDOMNAME@@, who recently grew flies with eyes on their wings. "It takes only one breach for there to be another outbreak. The government should sponsor a large-scale gene editing program so that the next generation of crops and livestock won't even blink at exotic diseases. While we're at it, we can improve them in other ways as well. You know, I’ve always wanted to make a chicken glow in the dark." [[color=blue]Must not have compulsory vegetarianism[/color]]
 
-3. "A strategy like that sounds sensible, but our agriculture would still be susceptible to rot from within," counters geneticist @@RANDOMNAME@@, who recently grew flies with eyes on their wings. "It takes only one breach for there to be another outbreak. The government should sponsor a large-scale gene editing program so that the next generation of crops won't even blink at exotic diseases. While we're at it, we can improve them in other ways as well. You know, I've always wanted to eat glow-in-the-dark cherries."
+*3. "A strategy like that sounds sensible, but our agriculture would still be susceptible to rot from within," counters geneticist @@RANDOMNAME@@, who recently grew flies with eyes on their wings. "It takes only one breach for there to be another outbreak. The government should sponsor a large-scale gene editing program so that the next generation of crops won't even blink at exotic diseases. While we're at it, we can improve them in other ways as well. You know, I've always wanted to eat glow-in-the-dark cherries." [[color=red]Must have compulsory vegetarianism[/color]]
 
 4. "Woah... dude, aren't plants supposed to be green?" asks hippy herbalist @@RANDOMNAME@@, who imports the Sedji berry 'superfood'. "Let's encourage our plants and animals to build their natural immunity by exposing them to these diseases from abroad — just like a pox party. After all, it's worked just fine in nature for millions of years and stuff."
 
@@ -126,25 +126,98 @@ The Debate
 5. “Pffft. So she’s dead. That doesn’t affect me!” derides @@RANDOMNAME@@, who lives in a nearby district. “You always forget about us Lower @@ANIMAL@@ville folks. Those toffs from Upper @@ANIMAL@@ville get all the funding, and we get squat! They can do without an elected representative for a little while. That’ll teach them.”
 
 --------------------------------------------------------------
-[b][anchor=1449]#1449[/anchor]: TBD[/b]
+[b][anchor=1449]#1449[/anchor]: Annie Get Your Gun [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
+
+The Issue
+When mother-of-twins Annie @@RANDOMLASTNAME@@ was held up at gunpoint by a mugger, she immediately surrendered all her cash and jewellery, rather than risk the lives of her ten-year-old boys. Shockingly, not only had she not attempted to use lethal force to defend her family, but she had also left her one and only shotgun on the kitchen table at home.
+
+The Debate
+1. “Owning a gun is compulsory for a good reason,” points out your Minister for Personal Defence, adjusting her H&K MP5K holster to stop it from catching on her backslung C14 Timberwolf sniper rifle. “But what’s the point in compulsory ownership if you don’t carry your weapon? As far as I’m concerned, failing to carry a proper deterrent makes Ms Clarke culpable for inciting violence. Citizens have a duty to pack heat whenever they leave the home. An armed populace is a safe populace!”
+
+2. “I’m sorry, I just had so much stuff to carry with the kids’ spare clothes and snacks and school bags and all the rest,” weeps the deeply ashamed young mom. “I know I shoulda been packin’ heat, I know it, but it’s just so hard to do so every hour of the day! Have some mercy, guvmint man, and maybe put more gun-totin’ police on the streets to keep us safe when our hands are full.”
+
+3. “Where was the man of the family in all this, eh?” yells @@RANDOMNAME@@, before pausing as someone whispers in his ear informing him that the lady is a recent widow from gun-related street crime. “Oh... uh... right. But what about these two twins? They’re both the men of the family now, and morally responsible for protecting the weaker sex!”
+
+4. “Hrmm... Did we...?” wonders Minister of Bookkeeping @@RANDOMNAME@@ as he leafs through the statute books. “Oops, yes we did. Looks like we accidentally used the word ‘must’ instead of ‘may’ here when we made that last change to the law about firearm ownership. You want I should fix it again, like some sort of second amendment to the bill?”
 
 --------------------------------------------------------------
-[b][anchor=1450]#1450[/anchor]: TBD[/b]
+[b][anchor=1450]#1450[/anchor]: Driving @@LEADER@@ [Avaerilon; ed: Pogaria][/b]
+
+The Issue
+After many years of faithful service, your current vehicle broke down on the highway this morning, forcing you to squeeze into the back of a police car like a common hoodlum in order to get to work. To avoid any further embarrassments, your advisors have asked you to pick a new state car to whisk you to-and-fro when required.
+
+The Debate
+1. “Look, that old barge was pretty, but it might not have been adequate if there was a bomb attack!” proclaims General Natalie Stephenson, gesturing wildly and getting uncomfortably close to your face. “What we need to protect you is a state-of-the-art military vehicle. I’m talking 10cm thick carbon-ceramic armour, missile launchers, gun nests, and plenty of room for a squad of special forces operatives. Let’s make something no enemy of the state would dare even look funny at, let alone consider attacking!”
+
+2. Suddenly, your windows are shaken by what sounds like the bellow of a wild animal as eccentric TV star and car enthusiast Clark Jeremysson revs the engine of his Berrari Forza-Azzurri, then proceeds to address you using a megaphone. “Your people judge you based on what you’re driving. How on earth can they connect with you on a personal level if you’re riding around in a hybrid battlecruiser-tank thing? You should get something fast and exciting — a proper supercar — and drive it yourself. Show everyone that you’re a real take-charge leader who goes wherever you want, at whatever speed you want. People will love it!”
+
+3. “Heaven forbid that such an uncouth brute should influence Your Excellency,” sputters Waylon Brown, head of sales at Bolls-Boyce, bowing low and taking off his hat. “My dear, the vehicle that served you was very fine indeed, but fear not, for we can make a more luxurious replacement at our coachbuilding studio that will be far superior to the pedestrian wares offered by Maxcedes and Barryan Motor Works. If you would be so kind as to tell me your preferred leather suppleness and decanter temperature, my master craftsmen can get to work post-haste.”
+
+4. “Why waste taxpayer money on an expensive limousine when you can set an example of frugality?” questions your Minister of Anti-Corruption, who also happens to be your niece. “Just drive whatever’s available, like one of the compact cars in the government’s vehicle pool. They’re all made by General Chassis, right here in @@NAME@@. It’ll help reduce government spending, while demonstrating your support for the local automotive industry.”
+
+5. You think you’re finished, but then a scraggly hippy who had appeared to be a large bush stands up and starts moving in your direction. “Like, dude... it’s you, man! I always thought you were cool! Hey, listen, I want to rap with you about something. Like, cars are so last century, dude! The people will totally be down with it if you just... like, walk everywhere. Imagine, you with a sweet poncho and a stick, totally in sync with Mother Earth, just walking to... wherever it is you go. Maybe it’ll put out good vibrations and change some minds about pollution and saving the world!”
 
 --------------------------------------------------------------
-[b][anchor=1451]#1451[/anchor]: TBD[/b]
+[b][anchor=1451]#1451[/anchor]: A Dread Letter [Frieden-und Freudenland; ed: The Free Joy State][/b]
+
+The Issue
+Today, among your mail, a black envelope with a pentagram on it caught your eye. You opened the envelope, and the letter inside said: “Blessed Chosen One, I am happy to inform you that you have just been granted the Opportunity to Change Your Life. The magnificent energy of the cosmos is waiting to surround you. If you copy this letter and send it to 100 other people, you will be granted ONE HUNDRED blessings for ONE HUNDRED days. But! If you spurn these gifts — YOU will be CURSED FOREVER. Choose wisely!”
+
+The Debate
+1. “This is a disaster!” whimpers your secretary @@RANDOMFEMALENAME@@, looping her four-leaf clover pendant around your neck and knocking on your wooden desk repeatedly. “I had a friend in elementary school who failed to pass on a chain letter she received, and she came down with terrible chickenpox afterwards. This is no joking matter, @@LEADER@@. You should immediately start making copies and sending them out if you want to protect yourself from harm.”
+
+2. “I’d bet my bottom @@CURRENCY@@ that this is just another teenage prankster,” muses police officer @@RANDOMNAME@@, inspecting the envelope with a magnifying glass to check for fingerprints. “But we ought not let this scoundrel waste your precious time with this nonsense. Grant my department permission to track down and punish the senders of anonymous letters composed with the criminal intent to frighten or defraud.” He tosses the letter to one side, accidentally knocking a small mirror off your desk.
+
+3. “If anything, this shows you’re not taking your personal security seriously enough, @@LEADER@@!” yells bodyguard @@RANDOMNAME@@, a former army officer, who has perused the letter and is now patrolling the vicinity. “What if that scumbag had sent anthrax in that envelope? Or what if someone had sent you a bomb in a gift parcel? You should mandate that all mail in @@NATION@@ should be sent in see-through bags. Those who have nothing to hide cannot object to full transparency.”
+
+4. “Holy @@ANIMAL@@! I can’t believe we spent an entire morning discussing a stupid chain letter!” chortles @@RANDOMNAME@@, your Minister of Underhanded Solutions. “But, if these letters are so unsettling, this gives me a brilliant idea. Why not produce different versions of such dreadful letters and send them to our political opponents? Distracting them in this way could be a good strategy for psychological warfare.”
 
 --------------------------------------------------------------
 [b][anchor=1452]#1452[/anchor]: TBD[/b]
 
 --------------------------------------------------------------
-[b][anchor=1453]#1453[/anchor]: TBD[/b]
+[b][anchor=1453]#1453[/anchor]: A Salt and Battery [Candensia; ed: Pogaria][/b]
+
+The Issue
+Electric cars have vastly reduced air pollution in @@NAME@@. However, this has accompanied a surge in demand for lithium, a scarce element primarily obtained through heavy mining. As lithium salts are a critical component in electric vehicle batteries, your advisers fear a shortage could cripple electric car manufacturers and the @@DEMONYMADJECTIVE@@ lifestyle.
+
+The Debate
+1. “Without additional lithium, there could be a lot more horse-drawn carts on the roads, or even worse, gas guzzlers!” exclaims resource analyst Hillary Xavier. “But don’t worry, @@NAME@@ has plenty of untapped lithium deposits! The biggest ones just, uh, happen to be located in pristine nature reserves. Anyway, not using our own natural resources would make us dumber than a box of rocks. Give the mining industry the go-ahead to expand lithium extraction operations; it’ll keep our cars cheap and skies beautiful.”
+
+2.“Doesn’t mining defeat the purpose of electric cars?” asks trade official Mario Einstein while eating from a lunchbox that is clearly labeled ‘Property of the Maxtopian Embassy’. “Rather than destroy our own environment, let somebody else destroy theirs. Dump lithium extraction in @@NAME@@, and instead rely on cheap imports from dirt-poor countries like Kawandaland. There’d hardly be any downsides. Well, I mean, the mining sector obviously wouldn’t like it, we might shed a job or two, and there could be supply disruptions whenever Kawandaland goes through a coup, but electric car manufacturers will be jumping for joy!”
+
+3.“Lithium-ion batteries power tons of often-tossed electronics,” yaps @@CAPITAL@@-area sanitation director Shelia Love, who is wearing a T-shirt with the slogan ‘Garbage In, Treasure Out’. “We can reuse that lithium if we expand recycling infrastructure to accommodate the extra rubbish. Now look, this garbage idea has a catch — lithium recycling can’t beat mining in terms of output — so there’d be less of the stuff to go around. However, if we reduced lithium demand by hiking taxes on automobiles and electronics while also encouraging use of mass transit, we’d be able to make it work.”
 
 --------------------------------------------------------------
-[b][anchor=1454]#1454[/anchor]: TBD[/b]
+[b][anchor=1454]#1454[/anchor]: #1454: Poplar Opinion [Honeydewistania, ed: Candlewhisper Archive][/b]
+
+The Issue
+As a symbol of historic cultural ties, the nation of Brancaland has gifted @@NAME@@ a dozen Brancalandian Spiked Aspen trees. These were ceremonially planted in the famed Jellostain National Park. Unfortunately, it’s now been discovered that the trees are host to a parasitic fungi endemic to Brancaland, which is now spreading and ravaging the local woodland.
+
+The Debate
+1. "Let's not panic!" says one of your diplomats, panicking. "Brancaland had good intentions, but we need to contain the spread before the entire nation is infected. Luckily the fungal infestation is only in this part of the park, so let's enclose the section with the trees with a glass bio-dome, and allow access only to a select few. We can import more Brancalandian flora and dedicate the arboretum to our nations' enduring friendship."
+
+2. "You don't know what this fungus can do," flatly states Forestry Commission Warrant Officer Elaine Wipley, with the look of a shell-shocked veteran. "If one of those spores gets out there, that's it! Taking off and nuking the site from orbit is the only way to be sure. No? Well, at the very least, you need to send the army in with flamethrowers, to burn everything in a three-mile radius."
+
+3. "It's too late for the park," whispers General Cody 'Iron Eyes' de Corti, shedding a single tear as he surveys the devastation. "They destroyed our park; we can destroy theirs too. You should allow us to covertly release the @@DEMONYMADJECTIVE@@ Destroying Angel Fungi over the Brancalandian pine forests. Let the invaders feel our pain."
+
+4. "Fungus is Good, repeat with me, Fungus is Good," intones eccentric mycologist Innsmouth Yugov offering you a strange-smelling bowl of mushroom stew. "Let the blessed fungus spread freely. In fact, deliberately spread it to every forest in @@NAME@@. Do it or there will be truffle, I mean trouble. The blessed mycelium will give strength to our nation as it infiltrates our soil. You understand? Yes. Me go, now. Me go." He hands you a mysterious book, then chants in an indecipherable language.
+
 
 --------------------------------------------------------------
-[b][anchor=1455]#1455[/anchor]: TBD[/b]
+[b][anchor=1455]#1455[/anchor]: Trademarks Make Their Mark on Marketing [Noahs Second Country; ed: Pogaria][/b]
+
+The Issue
+Zeerocks, a @@DEMONYMADJECTIVE@@ company known for manufacturing photocopiers, has recently come into conflict with a corporation in the mostly harmless nation of Merovingia that makes a similar product. The Merovingian company has been using the common phrase ‘zeerocksing’ in their advertising and packaging, even though Zeerocks owns the trademark for the term. The inevitable legal dispute has now come to national attention.
+
+The Debate
+1. “@@LEADER@@, it is essential that this term remains exclusive to the products and services of our company,” claims a sharply dressed representative from Zeerocks, handing out zeerocksed packets of heavily laminated legal documentation to everyone in close proximity. “When direct competitors use the term to describe the services that we exclusively offer, consumers begin to associate the term with photocopying, which zeerocksing simply is not. Furthermore, we have legally registered this trademark and should have full rights to control its use.”
+
+2. A sophisticated-looking executive from Merovingian Minolta directs your attention to her slideshow presentation. “As we can see here, photocopying involves the same exact process as zeerocksing. It is preposterous to use multiple terms for the same exact action, and makes no sense for a company to be able to own a commonly used word. Therefore, since the Zeerocks trademark is already a generic term, anyone should be able to use it.”
+
+3. “We might as well rip off the band-aid now,” claims your Minister of Abrupt Solutions, while using a sharpie to write notes on some post-its. “This case is a dumpster fire of complex trademark laws, and I bet we’ll see a plethora of new cases no matter who wins this lawsuit. It’s as clear as plexiglass that we need to abolish all existing trademark laws, so that this doesn’t hoover up all of our legal system’s resources. Now does anyone have an aspirin? My head feels like someone hit it with a thermos.”
+
+4. “That is just going to cause even more confusion,” drones Xanatos Vajiralongkorn, whose gray suit matches his gray demeanor. “Why do we need branding in the first place? All of this marketing is just another way for the big, rich corporations to control the public. You should require all products to be sold in monocolored packaging with no graphics or brand names on them.”
 
 --------------------------------------------------------------
 [b][anchor=1456]#1456[/anchor]: TBD[/b]

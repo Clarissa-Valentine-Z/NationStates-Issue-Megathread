@@ -130,7 +130,7 @@ The Debate
 
 3. “Excuse us, ‘Count’, but we were in the middle of a discussion of national importance!” fumes your Finance Minister, trying to shoo the miscreant away. “This just demonstrates the uncouth nature of conflicts being settled by two people waving big sticks at one another. We should ban dueling of any sort, have disputes once again settled via the legal process, return to our riveting discussion, and avoid entertaining this cretin.”
 
-**4. “How undignified!” reprimands @@RANDOMNAME@@, an economic advisor, tut-tutting at the entire scene. “Why must we insist on solving disagreements through violence? Instead, how about a nice game of chess? Don’t ban dueling altogether, just make it take a more intellectual form.”
+4. “How undignified!” reprimands @@RANDOMNAME@@, an economic advisor, tut-tutting at the entire scene. “Why must we insist on solving disagreements through violence? Instead, how about a nice game of chess? Don’t ban dueling altogether, just make it take a more intellectual form.”
 
 **5. “All of you are ignoring the big picture!” exclaims Judas Elgar, a legal consultant. “This clearly indicates that our judicial system is in need of a major overhaul. If we allow juries again, judicial oversight would be a thing of the past, and malicious malefactors like him would receive a fair trial and wouldn’t be knocking upon your door and threatening you in the hot light of morning.” [[color=purple]Must not have juries[/color]]
 

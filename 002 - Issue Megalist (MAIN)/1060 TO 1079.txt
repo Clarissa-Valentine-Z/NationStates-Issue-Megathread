@@ -154,10 +154,10 @@ The Debate
 [b][anchor=1071]#1071[/anchor]: Up the Creek [Australian rePublic ed: The Marsupial Illuminati][/b]
 
 The Issue
-1. One of the longest rivers in @@NAME@@ is also a major shipping lane in @@REGION@@. Bigtopia, a downstream nation, has unveiled its plans to dam this river, prohibiting any ships from travelling further upstream and beyond its waters.
+One of the longest rivers in @@NAME@@ is also a major shipping lane in @@REGION@@. Bigtopia, a downstream nation, has unveiled its plans to dam this river, prohibiting any ships from travelling further upstream and beyond its waters.
 
 The Debate
-“Bigtopia obviously has some problems that it’s trying to address by constructing a dam,” points out your Minister for Solutions, Revo Gnidneb. “Let’s offer the Bigtopians solutions to their problems so that they won’t have to build anything. I heard they want a dam to generate power. Let’s just sell them lots of cheap electricity. Maybe the Bigtopians want a dam to supply themselves with water. @@NAME@@ can supply them with water instead. Whatever it takes to change their minds, let’s do it! It’ll be worth it if our trade routes remain open.”
+1. “Bigtopia obviously has some problems that it’s trying to address by constructing a dam,” points out your Minister for Solutions, Revo Gnidneb. “Let’s offer the Bigtopians solutions to their problems so that they won’t have to build anything. I heard they want a dam to generate power. Let’s just sell them lots of cheap electricity. Maybe the Bigtopians want a dam to supply themselves with water. @@NAME@@ can supply them with water instead. Whatever it takes to change their minds, let’s do it! It’ll be worth it if our trade routes remain open.”
 
 2. “The lifeblood of my people is at stake!” cries the ambassador from an upstream landlocked country. “My country’s only access to the sea is through that river! If that damned dam gets built, cargo ships would be unable to travel to and from my nation! Bigtopia won’t listen to our pleas. What do you say we and the other upstream countries gather an army and blow those asshats out of the water?”
 

@@ -66,13 +66,13 @@ The Debate
 
 2. “You can’t do that!” screeches your rarely seen Minister of Sanity, crawling out of the woodwork of a nearby house. “Imagine what would happen if we let some mayor seize property just because it isn’t being used, especially if that property is owned by expats who might have dual citizenship! Do you want an international incident on our hands? The government needs to do things by the book, and not stir up any trouble. Instead, let’s try to contact every person that owns unused property here, and ask if they’d be willing to sell.”
 
-3. “What happens in Darmen stays in Darmen!” declares vagrant @@RANDOMNAME@@, loading a bulging stack of boxes into a shopping cart. “As far as anyone’s concerned, the people owning these properties have ceased to exist. Us local folk could really use them houses for living, social gatherings, and steali- er, borrowing anything not nailed down. If the owners come back, you can just give the land back to them. What’ve you got to lose?”
+3. “What happens in @@NAME@@ stays in @@NAME@@!” declares vagrant @@RANDOMNAME@@, loading a bulging stack of boxes into a shopping cart. “As far as anyone’s concerned, the people owning these properties have ceased to exist. Us local folk could really use them houses for living, social gatherings, and steali- er, borrowing anything not nailed down. If the owners come back, you can just give the land back to them. What’ve you got to lose?”
 
 --------------------------------------------------------------
 [b][anchor=1445]#1445[/anchor]: The Dialectics of Dialects [GeodesicDragon; ed: Frieden-und Freudenland][/b]
 
 The Issue
-A few days ago, a tourist from Brancaland was hospitalized due to a severe allergic reaction after ingesting street food in @@CAPITAL@@. It turned out he had asked the local vendor about the ingredients, but had been unable to understand her heavily accented reply. The incident has stirred up a debate over what to do about the wildly different dialects of @@NATION@@.
+A few days ago, a tourist from Brancaland was hospitalized due to a severe allergic reaction after ingesting street food in @@ANIMAL@@ City. It turned out he had asked the local vendor about the ingredients, but had been unable to understand her heavily accented reply. The incident has stirred up a debate over what to do about the wildly different dialects of @@NATION@@.
 
 The Debate
 1. “Everywhere I go, I see tourists struggling to understand the many different dialects in use in this country,” moans @@RANDOMNAME@@, your Tourism Minister. “So, how about we help them by printing a guidebook? That way, the tourists and the locals can communicate with each other more easily. Plus, profits from the sale of the book would obviously benefit the national treasury, right?”
@@ -161,10 +161,10 @@ The Debate
 [b][anchor=1451]#1451[/anchor]: A Dread Letter [Frieden-und Freudenland; ed: The Free Joy State][/b]
 
 The Issue
-Today, among your mail, a black envelope with a pentagram on it caught your eye. You opened the envelope, and the letter inside said: “Blessed Chosen One, I am happy to inform you that you have just been granted the Opportunity to Change Your Life. The magnificent energy of the cosmos is waiting to surround you. If you copy this letter and send it to 100 other people, you will be granted ONE HUNDRED blessings for ONE HUNDRED days. But! If you spurn these gifts — YOU will be CURSED FOREVER. Choose wisely!”
+Today, among your mail, a black envelope with a pentagram on it caught your eye. You opened the envelope, and the letter inside said: “Blessed Chosen One, I am happy to inform you that you have just been granted the [b]Opportunity to Change Your Life[/b]. [i]The magnificent energy of the cosmos[/i] is waiting to surround you. If you copy this letter and send it to 100 other people, you will be granted ONE HUNDRED blessings for ONE HUNDRED days. But! If you spurn these gifts — YOU will be CURSED FOREVER. Choose wisely!”
 
 The Debate
-1. “This is a disaster!” whimpers your secretary @@RANDOMFEMALENAME@@, looping her four-leaf clover pendant around your neck and knocking on your wooden desk repeatedly. “I had a friend in elementary school who failed to pass on a chain letter she received, and she came down with terrible chickenpox afterwards. This is no joking matter, @@LEADER@@. You should immediately start making copies and sending them out if you want to protect yourself from harm.”
+1. “This is a disaster!” whimpers your secretary @@RANDOMNAME@@, looping @@HIS@@ four-leaf clover pendant around your neck and knocking on your wooden desk repeatedly. “I had a friend in elementary school who failed to pass on a chain letter she received, and she came down with terrible chickenpox afterwards. This is no joking matter, @@LEADER@@. You should immediately start making copies and sending them out if you want to protect yourself from harm.”
 
 2. “I’d bet my bottom @@CURRENCY@@ that this is just another teenage prankster,” muses police officer @@RANDOMNAME@@, inspecting the envelope with a magnifying glass to check for fingerprints. “But we ought not let this scoundrel waste your precious time with this nonsense. Grant my department permission to track down and punish the senders of anonymous letters composed with the criminal intent to frighten or defraud.” He tosses the letter to one side, accidentally knocking a small mirror off your desk.
 
@@ -173,7 +173,18 @@ The Debate
 4. “Holy @@ANIMAL@@! I can’t believe we spent an entire morning discussing a stupid chain letter!” chortles @@RANDOMNAME@@, your Minister of Underhanded Solutions. “But, if these letters are so unsettling, this gives me a brilliant idea. Why not produce different versions of such dreadful letters and send them to our political opponents? Distracting them in this way could be a good strategy for psychological warfare.”
 
 --------------------------------------------------------------
-[b][anchor=1452]#1452[/anchor]: TBD[/b]
+[b][anchor=1452]#1452[/anchor]: Hello Darkness My Old Friend [Valentine Z; ed: Electrum][/b]
+
+The Issue
+@@NATION@@ ground to a halt after a nationwide blackout resulted in dark street lamps, traffic jams and melted ice creams. It was caused by the country having insufficient fuel to generate electricity, with the bulk of the fuel being exported due to long-term supply contracts.
+
+The Debate
+
+1. “I’ve come to talk with you again,” pesters @@RANDOMFEMALENAME@@ Simon, your Minister of Energy, @@HIS@@ figure barely visible in the naked candlelight. “The nation has enough fossil fuel reserves to power itself. However, corporations like Conch and Epsilon Mobil are profiting from their export rather than ensuring our country has enough electricity! Nationalise them and tear up the contracts so that our power plants always have enough fuel. The companies have been given too much free rein on our resources and we don’t need their technical expertise anymore.”
+
+2. “Nationalisation is like a cancer that grows,” says Conch Chief Extraction Officer @@RANDOMNAME@@ Garfunkel. “By nationalising, you’re creating an inefficient government-run company that will be vulnerable to corruption. You’re also going to be losing a long-term source of tax revenue by walking away from our contracts. Instead, you should approve drilling in that natural gas field we’ve always wanted to develop near @@CAPITAL@@. That way, there’ll be more than enough fuel to meet our export obligations and your electricity generators’ needs.”
+
+3. “If we can no longer rely on power plants to provide electricity, why don’t you let us generate it ourselves?” asks an off-the-grid citizen completing his fortnightly run for loo rolls and gum. “See, I have this big diesel generator at home which is powering the local area during the blackout. There were some noise and pollution complaints at first, but the neighbours aren’t objecting now. It would be an easy change too, just dismantle the energy networks and pay us little guys to distribute energy locally.” 
 
 --------------------------------------------------------------
 [b][anchor=1453]#1453[/anchor]: A Salt and Battery [Candensia; ed: Pogaria][/b]
@@ -189,7 +200,7 @@ The Debate
 3.“Lithium-ion batteries power tons of often-tossed electronics,” yaps @@CAPITAL@@-area sanitation director Shelia Love, who is wearing a T-shirt with the slogan ‘Garbage In, Treasure Out’. “We can reuse that lithium if we expand recycling infrastructure to accommodate the extra rubbish. Now look, this garbage idea has a catch — lithium recycling can’t beat mining in terms of output — so there’d be less of the stuff to go around. However, if we reduced lithium demand by hiking taxes on automobiles and electronics while also encouraging use of mass transit, we’d be able to make it work.”
 
 --------------------------------------------------------------
-[b][anchor=1454]#1454[/anchor]: #1454: Poplar Opinion [Honeydewistania, ed: Candlewhisper Archive][/b]
+[b][anchor=1454]#1454[/anchor]: Poplar Opinion [Honeydewistania, ed: Candlewhisper Archive][/b]
 
 The Issue
 As a symbol of historic cultural ties, the nation of Brancaland has gifted @@NAME@@ a dozen Brancalandian Spiked Aspen trees. These were ceremonially planted in the famed Jellostain National Park. Unfortunately, it’s now been discovered that the trees are host to a parasitic fungi endemic to Brancaland, which is now spreading and ravaging the local woodland.
@@ -220,7 +231,17 @@ The Debate
 4. “That is just going to cause even more confusion,” drones Xanatos Vajiralongkorn, whose gray suit matches his gray demeanor. “Why do we need branding in the first place? All of this marketing is just another way for the big, rich corporations to control the public. You should require all products to be sold in monocolored packaging with no graphics or brand names on them.”
 
 --------------------------------------------------------------
-[b][anchor=1456]#1456[/anchor]: TBD[/b]
+[b][anchor=1456]#1456[/anchor]: Weather Report: It's Not Graining In East Lebatuck [Fauxia; ed: Electrum][/b]
+
+The Issue
+East Lebatuck, one of the largest 'second world' nations, is in the midst of a famine. It does not typically trade with @@NAME@@ due to its suspicion of capitalism. However, because of the famine, the 'Iron Giant of Communism' wants to purchase large quantities of foodstuffs, particularly grain, from @@NAME@@.
+
+The Debate
+1. "We're going to have a field day!" gasps your Treasury Minister, grasping the gravity of the situation. "Imagine the headlines — 'Great Groat! East Lebatuck Grovels to Graceful @@NAME@@ to Gratify its Grain Grievances'. Every sale we make to East Lebatuck is proof that free markets work and communism does not. You've got to encourage this trade — provide subsidies to corporations that do business with East Lebatuck, and we'll show the world who's really won the cold war."
+
+2. "See what I'm doing here?" asks advisor @@RANDOMNAME@@, rubbing @@HIS/HER@@ middle finger on @@HIS/HER@@ wrist. "I'm playing the world's smallest violin. The best way to show capitalist superiority is to let this evil empire face the consequences of its communist folly and let it starve. They can ask our noble corporations for grain once they open up to free enterprise in their country. Which, let's face it, will be never."
+
+3. "Dear leader, don't listen to these commissars. This is not an opportunity to showboat," advises communist sympathizer @@RANDOMNAME@@, wearing a red pin of East Lebatuck Chairman Joseph Rushev on @@HIS/HER@@ lapel. "Starving people is not cool, man. So how about you treat this like a humanitarian problem and send free grain with no strings attached? In return, we pinky promise not to throw you into the gulag when this capitalist state inevitably crumbles."
 
 --------------------------------------------------------------
 [b][anchor=1457]#1457[/anchor]: TBD[/b]

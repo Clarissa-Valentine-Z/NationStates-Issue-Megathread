@@ -94,6 +94,7 @@ The Debate
 
 3. “Ancient Maxtopia had a way around this problem,” states archaeologist @@RANDOMNAME@@, as she chisels away at your desk. “They used hieroglyphs to communicate the written word, and didn’t punctuate at all. Imagine if we adopted a similar pictorial script that portrays modern @@DEMONYMADJECTIVE@@ life; there’d be no more arguments over whether the writing needs a semicolon or a colon, and the younger @@DEMONYMPLURAL@@ will feel a lot less threatened.”
 
+
 --------------------------------------------------------------
 [b][anchor=1447]#1447[/anchor]: The Lowest Form of Wit [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
@@ -212,6 +213,7 @@ The Debate
 3. "It's too late for the park," whispers General Cody 'Iron Eyes' de Corti, shedding a single tear as he surveys the devastation. "They destroyed our park; we can destroy theirs too. You should allow us to covertly release the @@DEMONYMADJECTIVE@@ Destroying Angel Fungi over the Brancalandian pine forests. Let the invaders feel our pain."
 
 4. "Fungus is Good, repeat with me, Fungus is Good," intones eccentric mycologist Innsmouth Yugov offering you a strange-smelling bowl of mushroom stew. "Let the blessed fungus spread freely. In fact, deliberately spread it to every forest in @@NAME@@. Do it or there will be truffle, I mean trouble. The blessed mycelium will give strength to our nation as it infiltrates our soil. You understand? Yes. Me go, now. Me go." He hands you a mysterious book, then chants in an indecipherable language.
+
 
 --------------------------------------------------------------
 [b][anchor=1455]#1455[/anchor]: Trademarks Make Their Mark on Marketing [Noahs Second Country; ed: Pogaria][/b]

@@ -1,4 +1,3 @@
-0500 TO 0519
 [b][anchor=500]#500[/anchor]: Please Don't Feed The (Copyright) Trolls [The-CID; ed: Nation of Quebec][/b]
 
 The Issue
@@ -42,7 +41,7 @@ The Debate
 *4. "Don't listen to that human supremacist," quips @@RANDOMFEMALENAME@@ of the Animal Liberation Front, while donning a ski-mask and grabbing her bolt cutters. "However, merely granting @@ANIMALPLURAL@@ personhood is not going far enough. We must give them full citizenship! You should allow elections as well, and let them to vote and represent themselves in our government, free from human interest and according to their own concerns. Sure, it'll be a tad complicated, and expensive. Voter registration might prove troublesome, and we need to figure out exactly how they would vote. But that's the price we must pay to defeat speciesism once and for all! What's that? Oh, yeah I guess humans should be allowed to vote too." [[color=red]Must not have political elections[/color]]
 
 -----------------------------------------------------------------------------
-[b][anchor=503]#503[/anchor]:  @@LEADER@@, Tear Down This Door! [The Aran Empire; ed: Lenyo][/b]
+[b][anchor=503]#503[/anchor]: @@LEADER@@, Tear Down This Door! [The Aran Empire; ed: Lenyo][/b]
 
 The Issue
 After countless people barged into your office through the front door, never mind the window, your door has become quite dilapidated. You decided to hold a small meeting on how to fix the problem, and now your office is filled with people holding surprisingly strong opinions regarding such a minor topic.
@@ -56,7 +55,9 @@ The Debate
 
 4. "Why not make yourself a little spending money?" suggests wealthy industrialist Edward Rump as he adjusts his toupee. "You should have a yuuuuuge statue of yourself in front of the door. @@DEMONYMPLURAL@@ insert credits into the statue, and you can judge their worthiness based on how much they pay their respects."
 
-5. "@@LEADER@@, tear down this door!” hollers a random jellybean-eating passerby who seems to have wandered into your office. "If you seek peace, if you seek prosperity for @@NAME@@ and @@REGION@@, tear down this door!" The interloper is promptly removed by security.
+*5. "@@LEADER@@, tear down this door!” hollers a random jellybean-eating passerby who seems to have wandered into your office. "If you seek peace, if you seek prosperity for @@NAME@@ and @@REGION@@, tear down this door!" The interloper is promptly removed by security. [Validity TBD]
+
+*6. "@@LEADER@@, tear down this door!” hollers a random jellybean-eating passerby who seems to have wandered into your office. "If you seek peace, if you seek prosperity for @@NAME@@ and @@REGION@@, tear down this door!" The interloper is promptly removed by security. [Validity TBD]
 
 -----------------------------------------------------------------------------
 [b][anchor=504]#504[/anchor]: Short Shorts Too Short? [Luger; ed: Sleep][/b]

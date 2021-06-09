@@ -1,4 +1,3 @@
-0026 TO 0050
 [b][anchor=026]#[/anchor][anchor=26]26[/anchor]: Compulsory Organ Harvesting Proposed[/b]
 
 The Issue
@@ -83,7 +82,9 @@ The Debate
 
 2. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says Reverend @@RANDOMNAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned."
 
-[3]. "Multiple wives? Excellent!" says passer-by @@RANDOMNAME@@. "Presumably we will allow multiple husbands, as well. And gay marriages, of course. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=blue]Homosexuality is lega[/color]]
+*3. "Multiple wives? Excellent!" says passer-by @@RANDOMNAME@@. "Presumably we will allow multiple husbands, as well. [strike]And gay marriages, of course.[/strike] In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=red]Homosexuality is illegal?[/color]]
+
+*4. "Multiple wives? Excellent!" says passer-by @@RANDOMNAME@@. "Presumably we will allow multiple husbands, as well. And gay marriages, of course. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=blue]Homosexuality is legal[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=033]#[/anchor][anchor=33]33[/anchor]: Genetics Brings New Life to Extinct Species [Badger Lozzate][/b]

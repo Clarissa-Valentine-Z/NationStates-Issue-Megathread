@@ -53,11 +53,11 @@ The Debate
 
 3. “That's too old school!” interjects @@RANDOMFEMALENAME@@, your nerdy niece. “Why not install a force field door? It could glow neon blue and look so cool and stuff! Force fields probably aren't radioactive, right?”
 
-4. "Why not make yourself a little spending money?" suggests wealthy industrialist Edward Rump as he adjusts his toupee. "You should have a yuuuuuge statue of yourself in front of the door. @@DEMONYMPLURAL@@ insert credits into the statue, and you can judge their worthiness based on how much they pay their respects."
+*4. "Why not make yourself a little spending money?" suggests wealthy industrialist Edward Rump as he adjusts his toupee. "You should have a yuuuuuge statue of yourself in front of the door. @@DEMONYMPLURAL@@ insert credits into the statue, and you can judge their worthiness based on how much they pay their respects." [color=blue]Must have private industry[/color]
 
-*5. "@@LEADER@@, tear down this door!” hollers a random jellybean-eating passerby who seems to have wandered into your office. "If you seek peace, if you seek prosperity for @@NAME@@ and @@REGION@@, tear down this door!" The interloper is promptly removed by security. [Validity TBD]
+*5. “Why not make yourself a little spending money?” suggests surprisingly wealthy commissar Comrade Josephs as he adjusts his cap. “You should have a grand statue of yourself in front of the door. @@DEMONYMPLURAL@@ insert @@CURRENCYPLURAL@@ into the statue, and you can judge their worthiness based on how much they pay their respects.” [color=red]Must not have private industry[/color]
 
-*6. "@@LEADER@@, tear down this door!” hollers a random jellybean-eating passerby who seems to have wandered into your office. "If you seek peace, if you seek prosperity for @@NAME@@ and @@REGION@@, tear down this door!" The interloper is promptly removed by security. [Validity TBD]
+6. "@@LEADER@@, tear down this door!” hollers a random jellybean-eating passerby who seems to have wandered into your office. "If you seek peace, if you seek prosperity for @@NAME@@ and @@REGION@@, tear down this door!" The interloper is promptly removed by security. [Validity TBD]
 
 -----------------------------------------------------------------------------
 [b][anchor=504]#504[/anchor]: Short Shorts Too Short? [Luger; ed: Sleep][/b]

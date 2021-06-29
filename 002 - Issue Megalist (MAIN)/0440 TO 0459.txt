@@ -1,4 +1,3 @@
-0440 TO 0459
 [b][anchor=440]#440[/anchor]: Jumping The Sharknado [Sedgistan; ed: Sedgistan][/b]
 
 The Issue
@@ -140,9 +139,11 @@ Natural gas extraction has been thrust into the political spotlight after a corp
 The Debate
 1. "Any opposition to hydraulic fracturing has been born out of ignorance," claims Shale The Love lobbyist @@RANDOMNAME@@ after tossing some impressive looking pie charts on your desk. "If we further hydraulic fracturing, we can finally be independent of foreign natural gas. Do you really want to continue paying dictatorships like Maxtopia for their expensive oil? Just think of the advantage producing our own natural gas will give us. Look at the charts that clearly show how many jobs this will create in rural areas. We should be encouraging fracking operations and cracking down on these environmental terrorists who would be happy to send us back to the Stone Age."
 
-2. "I don't think you understand the magnitude of these environmental issues," says @@RANDOMNAME@@, the organizer of the anti-fracking protest movement No Fracking Way. "Fracking can pollute the air and contaminate groundwater with toxic chemicals, which will end up in million of people's drinking water. Weren't you guys paying attention when fracking operations caused all those earthquakes in Blackacre? Never mind that they're on a fault line! We must put an end to fracking and start investing into green energy sources like wind, solar, and tidal power. We'll never run out of those clean energy sources, but we will run out of clean air to breathe."
+2. TBD
 
-3. "There's always room for compromise," chimes in @@RANDOMNAME@@, one of your top aides famous for diffusing tension in your office. "We obviously can't ignore the benefits of fracking, but we can't turn a blind eye to the impact it would have on the environment either. Why not allow fracking, but only in areas of @@NAME@@ where there are no major populated areas? I hear that the land in the Northern @@ANIMAL@@ Mountain Range is just ripe for hydraulic fracturing. There is a @@ANIMAL@@ preservation area nearby, but it's not like they're going to be protesting." 
+3. "I don't think you understand the magnitude of these environmental issues," says @@RANDOMNAME@@, the organizer of the anti-fracking protest movement No Fracking Way. "Fracking can pollute the air and contaminate groundwater with toxic chemicals, which will end up in million of people's drinking water. Weren't you guys paying attention when fracking operations caused all those earthquakes in Blackacre? Never mind that they're on a fault line! We must put an end to fracking and start investing into green energy sources like wind, solar, and tidal power. We'll never run out of those clean energy sources, but we will run out of clean air to breathe."
+
+4. "There's always room for compromise," chimes in @@RANDOMNAME@@, one of your top aides famous for diffusing tension in your office. "We obviously can't ignore the benefits of fracking, but we can't turn a blind eye to the impact it would have on the environment either. Why not allow fracking, but only in areas of @@NAME@@ where there are no major populated areas? I hear that the land in the Northern @@ANIMAL@@ Mountain Range is just ripe for hydraulic fracturing. There is a @@ANIMAL@@ preservation area nearby, but it's not like they're going to be protesting." 
 
 -----------------------------------------------------------------------------
 [b][anchor=450]#450[/anchor]: Colonial Testimonial [Sussetonia; ed: Gnejs][/b]

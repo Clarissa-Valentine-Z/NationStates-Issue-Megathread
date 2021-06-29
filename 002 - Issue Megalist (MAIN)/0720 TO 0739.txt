@@ -200,13 +200,15 @@ The Debate
 The Debate
 1. “@@LEADER@@, we have a brilliant opportunity!” excitedly cheers @@RANDOMNAME@@, the mayor of one of the cities. “Imagine, our city, a front to the world in both summer and winter. All we need to do is develop and deploy a whole fleet of state-of-the-art icebreakers the likes of which the world has never seen before! I can just picture it now: hundreds of ships, thousands of tourists, and millions of pounds worth of goods coming from across the globe to my port... err, @@NAME@@.”
 
-*2. “Why spend money on expensive icebreakers when good-old fashioned railroads can do the work year round?” questions infamous rail tycoon Cecil Vanderbilt, as his assistant places a model train on your desk. “Invest in my company and ease some health and safety standards, and my men can build and maintain the tracks for a pittance. Full steam ahead! Choo choo!” [[color=blue]Must have private industry[/color]]
+2. TBD [[color=red]Must have Autarky?[/color]]
 
-*3. “Why spend money on expensive icebreakers when good-old fashioned railroads can do the work year round?” questions infamous Transportation Minister Cecil Vanderbilt, as his assistant places a model train on your desk. “Increase my department’s funding and ease some health and safety standards, and we can build and maintain the tracks for a pittance. Full steam ahead! Choo choo!” [[color=red]Must not have private industry[/color]]
+*3. “Why spend money on expensive icebreakers when good-old fashioned railroads can do the work year round?” questions infamous rail tycoon Cecil Vanderbilt, as his assistant places a model train on your desk. “Invest in my company and ease some health and safety standards, and my men can build and maintain the tracks for a pittance. Full steam ahead! Choo choo!” [[color=blue]Must have private industry[/color]]
 
-4. “Why don’t we just stockpile before winter?” asks @@RANDOMNAME@@, an advocate of human hibernation. “We bring in everything we need in autumn and don’t worry about nothin’ in winter. You can help defray the cost of our survival by funding winter fuel allowances and cold weather food supplies for the poorest in the area.”
+*4. “Why spend money on expensive icebreakers when good-old fashioned railroads can do the work year round?” questions infamous Transportation Minister Cecil Vanderbilt, as his assistant places a model train on your desk. “Increase my department’s funding and ease some health and safety standards, and we can build and maintain the tracks for a pittance. Full steam ahead! Choo choo!” [[color=red]Must not have private industry[/color]]
 
-5. “I have ze perfect solution,” announces crazed crackpot climatologist, @@RANDOMNAME@@. “Mein data shows zat ze ice is ziner each passing year due in part to global varming. Now, vhy don’t ve just hurry it up by pumping ze atmosphere full of more chlorofluorocarbon? All zis ice will go bye-bye in under a decade! How cool vould zat be?! Vell, not cool, you know... zere’d be no ice.”
+5. “Why don’t we just stockpile before winter?” asks @@RANDOMNAME@@, an advocate of human hibernation. “We bring in everything we need in autumn and don’t worry about nothin’ in winter. You can help defray the cost of our survival by funding winter fuel allowances and cold weather food supplies for the poorest in the area.”
+
+6. “I have ze perfect solution,” announces crazed crackpot climatologist, @@RANDOMNAME@@. “Mein data shows zat ze ice is ziner each passing year due in part to global varming. Now, vhy don’t ve just hurry it up by pumping ze atmosphere full of more chlorofluorocarbon? All zis ice will go bye-bye in under a decade! How cool vould zat be?! Vell, not cool, you know... zere’d be no ice.”
 
 -----------------------------------------------------------------------------
 [b][anchor=734]#734[/anchor]: A Word From Our Sponsors [New Dukaine; ed: Candlewhisper Archive][/b]

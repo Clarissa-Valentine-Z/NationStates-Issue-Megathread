@@ -96,3 +96,10 @@ Also, some options have varients or are not available to certain nations. Here's
 
 * before a number indicates two or more options are variants. Multiple *s indicate different sets (i.e. * does not go with **)
 [Number] indicates that the option has no variant, but still is not available for all nations who get the issue.
+
+[size=200][color=#3DC0FF][b][i]Valentine’s Changelog 000 - Template[/i][/b][/color][/size]
+[hr][/hr][size=133][color=#3366FF][b][i]Witty remark here.[/i][/b][/color][/size]
+
+- Changelog goes here.
+
+[url =Github link here, must be split view.]Changes made to the threads can be seen here.[/url]

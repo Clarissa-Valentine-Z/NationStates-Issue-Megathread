@@ -141,9 +141,9 @@ The Debate
 
 2. "How interesting..." muses recruiting sergeant @@RANDOMNAMEMALE@@ while examining the set of gnashers on Lassie.  "If one @@ANIMAL@@ can do all that, imagine what an army full of them could achieve?  And no more injured soldiers to bother the press — as the saying goes, don't look a gift @@ANIMAL@@ in the mouth.  Rather than waste money on old war-dogs that are too aged to fight, we should be funding more front line fighters.  That can go for the humans too." @@HE@@ sneers disdainfully at the veteran in the wheelchair.
 
-3*. "Haven't you seen Dawn of the Rise of the Planet of the @@ANIMALPLURAL@@?" cautions a sceptical aide, prodding the hindquarters of Lassie.  "I don't think we want an army full of @@ANIMALPLURAL@@, but there's certainly food for thought here.  Let them serve alongside soldiers, and when they've done their duty, they can serve us on one final occasion: dinner time!" [[color=red]Must ban meat-eating / Vegetarianism[/color]]
+3*. "Haven't you seen Dawn of the Rise of the Planet of the @@ANIMALPLURAL@@?" cautions a sceptical aide, prodding the hindquarters of Lassie.  "I don't think we want an army full of @@ANIMALPLURAL@@, but there's certainly food for thought here.  Let them serve alongside soldiers, and when they've done their duty, they can serve us on one final occasion: dinner time!" [[color=red]Conditional meat-eating?[/color]]
 
-4*. "@@ANIMALPLURAL@@ do enough for us already; they shouldn't be in our military," pleads Timmy @@RANDOMLASTNAME@@ from the accompanying media pack.  "Can't we leave them in peace to do as nature intended?  Rescuing children from abandoned mineshafts, throwing ropes to children on runaway rafts rapidly approaching waterfalls, and fronting up popular TV franchises.  That sort of thing." [[color=blue]Must not ban meat-eating / No Vegetarianism[/color]]
+4*. "@@ANIMALPLURAL@@ do enough for us already; they shouldn't be in our military," pleads Timmy @@RANDOMLASTNAME@@ from the accompanying media pack.  "Can't we leave them in peace to do as nature intended?  Rescuing children from abandoned mineshafts, throwing ropes to children on runaway rafts rapidly approaching waterfalls, and fronting up popular TV franchises.  That sort of thing." [[color=blue]Unconditional meat-eating?[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1310]#1310[/anchor]: Intimate Relations [AnPrim Island; ed: Sedgistan][/b]
@@ -207,9 +207,7 @@ The Debate
 
 2. “This is bloody preposterous!” shouts @@RANDOMNAME_2@@ @@RANDOMLASTNAME_1@@, red-faced with fury. “My brothers and I should not be cheated out of our inheritance because of this greedy, grasping degenerate. My chattel, er, half-sister is a slave because her mother was a slave. She belongs to us as part of our birthright. She is our property!” 
 
-3. “Perhaps a compromise?” suggests peripatetic arbiter @@RANDOMNAME@@. “This woman’s mother was not a citizen, due to being a slave, but her father was free. Why don’t we declare the children of a slave and a free person as half-people? So they can be entitled to half the rights that free citizens enjoy, and @@RANDOMFEMALENAME_1@@ can receive half a share in the inheritance. Problem solved.”[/box]
-Edit: Names are random, but the family shares the last name, as usual. So far I only saw daugthers/sisters as speakers in option 1/2, so I assume it's all female there. Number 3 was male for me, but no need to fix that I'd say. 
-Edit Mar 18: I saw this one again, this time with a male "keeper" and a female arbiter. Genders appear only fixed for the first speaker (another daughter).
+3. “Perhaps a compromise?” suggests peripatetic arbiter @@RANDOMNAME@@. “This woman’s mother was not a citizen, due to being a slave, but her father was free. Why don’t we declare the children of a slave and a free person as half-people? So they can be entitled to half the rights that free citizens enjoy, and @@RANDOMFEMALENAME_1@@ can receive half a share in the inheritance. Problem solved.”
 
 --------------------------------------------------------------
 [b][anchor=1314]#1314[/anchor]: Nothing to Write Home About [Candlewhisper Archive; ed: Candlewhisper Archive][/b]

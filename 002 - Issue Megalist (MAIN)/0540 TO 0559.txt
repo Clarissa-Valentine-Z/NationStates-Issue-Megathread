@@ -1,4 +1,3 @@
-0540 TO 0559
 [b][anchor=540]#540[/anchor]: Shh! Spoilers! [Katalaysia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -110,7 +109,7 @@ The Debate
 
 *2. "You can't do that, you ignorant whale lovers!" pleads CEO of OceanWorld, @@RANDOMNAME@@, while counting OceanWorld @@CAPITAL@@'s daily intake. "If you ban institutions like OceanWorld, how are endangered species going to survive in this big bad world? Isn't it better that their populations thrive in our viewing tanks, rather than struggling in prime fishing waters? Besides, your average @@DEMONYMNOUN@@ will never get the chance to see these animals except at a zoo. Do you want to deny them that experience? Not to mention zoos and conservation programs like ours are a great way to get people interested in the environment. Everyone wins with OceanWorld!" [[color=blue]Must have private industry[/color]]
 
-*3. “You can’t do that, you ignorant whale lovers!” pleads Marine Director of OceanWorld, @@RANDOMNAME@@. “If you ban institutions like OceanWorld, how are endangered species going to survive in this big bad world? Isn’t it better that their populations thrive in our viewing tanks, rather than struggling in prime fishing waters? Besides, your average @@DEMONYM@@ will never get the chance to see these animals except at a zoo. Do you want to deny them that experience? Not to mention zoos and conservation programs like ours are a great way to get people interested in the environment. Everyone wins with OceanWorld!” [[color=red]Must not have private industry[/color]]
+*3. "You can't do that, you ignorant whale lovers!" pleads Marine Director of OceanWorld, @@RANDOMNAME@@. "If you ban institutions like OceanWorld, how are endangered species going to survive in this big bad world? Isn't it better that their populations thrive in our viewing tanks, rather than struggling in prime fishing waters? Besides, your average @@DEMONYM@@ will never get the chance to see these animals except at a zoo. Do you want to deny them that experience? Not to mention zoos and conservation programs like ours are a great way to get people interested in the environment. Everyone wins with OceanWorld!" [[color=red]Must not have private industry[/color]]
 
 4. "Perhaps there could be a compromise?" queries your Minister of Environment, @@RANDOMNAME@@, who has been smelling like grass lately. "Ending zoos would harm the tourism industry, and we can't deny that these programs help endangered species. Why don't we set a limit on what animals they take? Specifically the endangered ones? I'm sure that we can also force tougher standards to ensure OceanWorld treats the animals humanely as well."
 
@@ -183,7 +182,7 @@ At last night's press conference in @@CAPITAL@@ you were mooned by three drunk y
 The Debate
 *1. "These people should be locked up!" snarls @@RANDOMNAME@@, an angry ex-soldier turned criminal prosecutor. "The fact that they believe that this is acceptable behaviour shows a complete lack of respect of authority! They like showing their butts? Stick them in prison, but issue them no trousers!" [[color=red]Must have prisons[/color]]
 
-*2. “These people should be locked up!” snarls @@RANDOMNAME@@, an angry ex-soldier turned criminal prosecutor. “But as some idiot got rid of our jails, we’ve got to teach them respect of authority some other way! They like showing their butts? Put them over the knee, and paddle them till they cry!” [[color=blue]Must not have prisons[/color]]
+*2. "These people should be locked up!" snarls @@RANDOMNAME@@, an angry ex-soldier turned criminal prosecutor. "But as some idiot got rid of our jails, we've got to teach them respect of authority some other way! They like showing their butts? Put them over the knee, and paddle them till they cry!" [[color=blue]Must not have prisons[/color]]
 
 3. "We showed The Man our cracks, man! To... to... show the cracks in the system!" slurs inebriated offender @@RANDOMMALENAME@@, a little too loudly, and standing a little too close to you. "We were mooning the government, not you! This is democracy, man! You gotta give us freedom of... freedom of... whatever this is." The police restrain him as he goes to pull his pants down again.
 

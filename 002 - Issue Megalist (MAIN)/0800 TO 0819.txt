@@ -1,4 +1,3 @@
-0800 TO 0819
 [b][anchor=800]#800[/anchor]: Please Call 1-800-NTA-VRUS, Your Government May Be Compromised [Luna Amore; ed: Caracasus][/b]
 
 The Issue 
@@ -7,7 +6,7 @@ One of your interns unintentionally infected government computer networks after 
 The Debate
 1. "It was a very convincing warning!" sobs the intern responsible who is feverishly resetting @@HIS@@ passwords to Passw0rD1. "I thought our national security was at stake! Why didn't our antivirus stop it? Why are we so vulnerable? Why am I the only one crying? We need to install better protection like the Fortons, Maxphos or McCafes. Better yet, all three!"
 
-[2]. "I've been lobbying your administration about this for years," chastises Pear Inc CEO, Steve Tasks, dramatically sliding an ultra-thin tablet computer from a manila envelope onto your desk. "Your systems need a complete overhaul. Unlike those clunky UBM dinosaurs, Pear products never get a virus, with end-to-end protection provided by my company. Just gaze in awe at the Pearbook Vapor. See how sleek it is... And it’s so light and thin, you could take it anywhere. I hear Manamana's beaches are wonderful this time of year." [[color=blue]Must have private industry[/color]]
+[2]. "I've been lobbying your administration about this for years," chastises Pear Inc CEO, Steve Tasks, dramatically sliding an ultra-thin tablet computer from a manila envelope onto your desk. "Your systems need a complete overhaul. Unlike those clunky UBM dinosaurs, Pear products never get a virus, with end-to-end protection provided by my company. Just gaze in awe at the Pearbook Vapor. See how sleek it is... And it's so light and thin, you could take it anywhere. I hear Manamana's beaches are wonderful this time of year." [[color=blue]Must have private industry[/color]]
 
 [3]. "Government computers are not for looking up @@ANIMAL@@ memes," chastises Stafford Brewer, head of Distribution Cybernetics. "They're for allocating collective resources as efficiently as possible, scheduling party meetings and keeping tabs on counter-revolutionary behaviour! Rip out these decadent capitalist contraptions and install government networked terminals in every distribution hub across the country. We'll be more efficient, and safer, than ever." [[color=red]Must not have private industry[/color]]
 
@@ -257,7 +256,7 @@ The Debate
 
 *3. "Do I have a deal for you?" exclaims Big Ed Sharp, owner of Big Ed Sharp's Chainsaw Emporium. "You have a bunch of brush and small trees that are fuel for a wildfire. I have chainsaws galore available at low, low prices. Just hire a bunch more forest rangers to go out there with chainsaws. It'll be expensive and not as 'natural', whatever that means, but the mature trees in the forests will thrive and wildfires will be much less severe, without that nasty smoke!" [[color=blue]Must have private industry[/color]]
 
-*4. “You know what’s better than that? A compromise!” exclaims your Minister of Making Work @@RANDOMNAME@@. “There are so many @@DEMONYMPLURAL@@ who are struggling to find the best way to contribute to the glory of @@NAME@@. All you need to do is send them out to the woods and have them remove those small trees and brush by hand. It’ll be expensive and not as natural, sure, but there will be no more smoke, the mature trees in the forests will thrive, and there will be a great new patriotic project for the workers to participate in.” [[color=red]Must not have private industry[/color]]
+*4. "You know what's better than that? A compromise!" exclaims your Minister of Making Work @@RANDOMNAME@@. "There are so many @@DEMONYMPLURAL@@ who are struggling to find the best way to contribute to the glory of @@NAME@@. All you need to do is send them out to the woods and have them remove those small trees and brush by hand. It'll be expensive and not as natural, sure, but there will be no more smoke, the mature trees in the forests will thrive, and there will be a great new patriotic project for the workers to participate in." [[color=red]Must not have private industry[/color]]
 
 ----------------------------------------------------------------------------- 
 [b][anchor=817]#817[/anchor]: Back-Alley Blues [The Free Joy State; ed: Nation of Quebec][/b]

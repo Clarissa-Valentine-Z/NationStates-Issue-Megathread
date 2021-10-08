@@ -131,7 +131,7 @@ The Debate
 
 2. "Yo, dude, like, don't be hatin' man," says teenager @@RANDOMNAME@@. "We're like, going to change the whole structure of our society. Everything should be like, publicly available to, like, everybody, dude. Copyrights are so, like, uncool man and we need to get rid of them. That'd be totally radical, and cool as well."
 
-3. “Yo, dang, blizzity blang, yo, this ain’t, right, yo,” says @@RANDOMNAME@@, famous rapper with three platinum albums. “Dang, yo, we dang need to protect my dang music files, yo, so yo’ gotta be registered an’ online to listen, yo. It’s the only way to stop this, dang, yo.”
+3. "Yo, dang, blizzity blang, yo, this ain't, right, yo," says @@RANDOMNAME@@, famous rapper with three platinum albums. "Dang, yo, we dang need to protect my dang music files, yo, so yo' gotta be registered an' online to listen, yo. It's the only way to stop this, dang, yo."
 
 -------------------------------------------------------------------------------
 [b][anchor=086]#[/anchor][anchor=86]86[/anchor]: Save The @@ANIMAL@@ [Oddballfullness; ed: SalusaSecondus][/b]
@@ -268,7 +268,7 @@ Due to the explosive population growth in @@NAME@@, coupled with recent droughts
 The Debate
 1*. "We need this water to raise our crops," says incensed farmer @@RANDOMNAME@@. "If it wasn't for us farmers, the rest of @@NAME@@ would be starving. How about laying the blame where it belongs, and look to those cookie cutter suburban houses with their green lawns and pristinely washed mini-vans!" [[color=purple]Must have cars[/color]]
 
-2*. “We need this water to raise our crops,” says incensed farmer @@RANDOMNAME@@. “If it wasn’t for us farmers, the rest of @@NAME@@ would be starving. How about laying the blame where it belongs, and look to those cookie cutter suburban houses with their green lawns and pristinely-washed fancy carriages!” [[color=purple]Must not have cars[/color]]
+2*. "We need this water to raise our crops," says incensed farmer @@RANDOMNAME@@. "If it wasn't for us farmers, the rest of @@NAME@@ would be starving. How about laying the blame where it belongs, and look to those cookie cutter suburban houses with their green lawns and pristinely-washed fancy carriages!" [[color=purple]Must not have cars[/color]]
 
 3. "It is my right to have the most beautiful lawn in the neighborhood," says neighborhood spokesman @@RANDOMNAME@@. "Our community spends a lot of effort cultivating a nice environment for our kids to grow up in. Why, if they didn't have these nice lawns to play in, they would be hanging out on street corners peddling drugs, or worse! Won't someone please think of the children?"
 

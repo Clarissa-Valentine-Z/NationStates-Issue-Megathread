@@ -291,11 +291,11 @@ Prospecting company Nukes4U has uncovered a large uranium deposit in @@NAME@@'s 
 The Debate
 *1. "This is a terrific find!" claims Nukes4U CEO @@RANDOMNAME@@. "It will provide an enormous stimulus to our economy and create thousands of new jobs. It's win-win! All we need from the government is permission to bulldoze the rainforest that's on top of the deposit." [[color=blue]Must have private industry[/color]]
 
-*2. “This is a terrific find!” claims Nukes4U CEO @@RANDOMNAME@@. “Look, we know that as a private company we weren’t really meant to be prospecting in communist @@NAME@@, but this could provide an enormous stimulus to your economy and create thousands of new jobs! It’s win-win! Perhaps we could mine on behalf of the state, under a public service contract? All we need from you is permission to bulldoze the rainforest that’s on top of the deposit.” [[color=red]Must not have private industry[/color]]
+*2. "This is a terrific find!" claims Nukes4U CEO @@RANDOMNAME@@. "Look, we know that as a private company we weren't really meant to be prospecting in communist @@NAME@@, but this could provide an enormous stimulus to your economy and create thousands of new jobs! It's win-win! Perhaps we could mine on behalf of the state, under a public service contract? All we need from you is permission to bulldoze the rainforest that's on top of the deposit." [[color=red]Must not have private industry[/color]]
 
 **3. "You've got to be kidding," says Green politician @@RANDOMNAME@@. "This rainforest is thousands of years old! This country needs more environmental protection, not less. And to destroy the environment in order to mine uranium that then goes into nuclear bombs--well, that really sticks in my craw." [[color=blue]Must not have Autocracy[/color]]
 
-**4. "You’ve got to be kidding," says green pamphleteer Lee Gonzalez. "This rainforest is thousands of years old! This country needs more environmental protection, not less. And to destroy the environment in order to mine uranium that then goes into nuclear bombs—well, that really sticks in my craw." [[color=red]Must have Autocracy[/color]]
+**4. "You've got to be kidding," says green pamphleteer Lee Gonzalez. "This rainforest is thousands of years old! This country needs more environmental protection, not less. And to destroy the environment in order to mine uranium that then goes into nuclear bombs—well, that really sticks in my craw." [[color=red]Must have Autocracy[/color]]
 
 5. "There's no need for an either-or decision," says the government's Minister for Mining, Clear-Felling, and the Environment. "We can preserve most of the rainforest and allow mining of a small part. After all, think of all the good that the money from this uranium deposit can bring to @@NAME@@."
 

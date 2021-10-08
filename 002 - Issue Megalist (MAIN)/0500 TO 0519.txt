@@ -47,17 +47,17 @@ The Issue
 After countless people barged into your office through the front door, never mind the window, your door has become quite dilapidated. You decided to hold a small meeting on how to fix the problem, and now your office is filled with people holding surprisingly strong opinions regarding such a minor topic.
 
 The Debate
-1. “@@LEADER@@, how can you stand working in an office with a door barely attached to its hinges? People are going to think our nation is as broken as this door!” exclaims your secretary, @@RANDOMNAME@@, after clearing away today's new petitions. "You need a brand new door. Oh! How about a rich Marche Noirian Mahogany? It would have beautiful ornamentation filled with national symbolism. Maybe we could replace the drapes while we're at it. That's sure to make @@NAME@@ look great again! Well, at the very least, your office will.”
+1. "@@LEADER@@, how can you stand working in an office with a door barely attached to its hinges? People are going to think our nation is as broken as this door!" exclaims your secretary, @@RANDOMNAME@@, after clearing away today's new petitions. "You need a brand new door. Oh! How about a rich Marche Noirian Mahogany? It would have beautiful ornamentation filled with national symbolism. Maybe we could replace the drapes while we're at it. That's sure to make @@NAME@@ look great again! Well, at the very least, your office will."
 
-2. “'I see random people of no importance barging in to your office and dumping all of their problems on your desk for you to handle!" shouts your head of security, @@RANDOMNAME@@, while slamming the remainder of the office door. "Let me beef up your security here and install a sturdy iron door. Then only people with worthy issues will seek your counsel.”
+2. "'I see random people of no importance barging in to your office and dumping all of their problems on your desk for you to handle!" shouts your head of security, @@RANDOMNAME@@, while slamming the remainder of the office door. "Let me beef up your security here and install a sturdy iron door. Then only people with worthy issues will seek your counsel."
 
-3. “That's too old school!” interjects @@RANDOMFEMALENAME@@, your nerdy niece. “Why not install a force field door? It could glow neon blue and look so cool and stuff! Force fields probably aren't radioactive, right?”
+3. "That's too old school!" interjects @@RANDOMFEMALENAME@@, your nerdy niece. "Why not install a force field door? It could glow neon blue and look so cool and stuff! Force fields probably aren't radioactive, right?"
 
 *4. "Why not make yourself a little spending money?" suggests wealthy industrialist Edward Rump as he adjusts his toupee. "You should have a yuuuuuge statue of yourself in front of the door. @@DEMONYMPLURAL@@ insert credits into the statue, and you can judge their worthiness based on how much they pay their respects." [color=blue]Must have private industry[/color]
 
-*5. “Why not make yourself a little spending money?” suggests surprisingly wealthy commissar Comrade Josephs as he adjusts his cap. “You should have a grand statue of yourself in front of the door. @@DEMONYMPLURAL@@ insert @@CURRENCYPLURAL@@ into the statue, and you can judge their worthiness based on how much they pay their respects.” [color=red]Must not have private industry[/color]
+*5. "Why not make yourself a little spending money?" suggests surprisingly wealthy commissar Comrade Josephs as he adjusts his cap. "You should have a grand statue of yourself in front of the door. @@DEMONYMPLURAL@@ insert @@CURRENCYPLURAL@@ into the statue, and you can judge their worthiness based on how much they pay their respects." [color=red]Must not have private industry[/color]
 
-6. "@@LEADER@@, tear down this door!” hollers a random jellybean-eating passerby who seems to have wandered into your office. "If you seek peace, if you seek prosperity for @@NAME@@ and @@REGION@@, tear down this door!" The interloper is promptly removed by security. [Validity TBD]
+6. "@@LEADER@@, tear down this door!" hollers a random jellybean-eating passerby who seems to have wandered into your office. "If you seek peace, if you seek prosperity for @@NAME@@ and @@REGION@@, tear down this door!" The interloper is promptly removed by security. [Validity TBD]
 
 -----------------------------------------------------------------------------
 [b][anchor=504]#504[/anchor]: Short Shorts Too Short? [Luger; ed: Sleep][/b]
@@ -173,7 +173,7 @@ The Debate
 
 *5. "This is about ego," observes armchair psychologist @@RANDOMNAME@@, while smoking a fine Maxtopian cigar. "It's also about superego and id... but mostly just egotism. Give these exhibitionists an outlet for their vanity. Televised arena bouts, celebrity status, and official merchandise are that outlet. They'll be promoting their careers rather than fighting on the streets, and as an added bonus, heroes and villains in the public eye are pretty easy for government to monitor." [[color=blue]Smoking is legal[/color]]
 
-*6. “This is about ego,” observes twitchy armchair psychologist @@RANDOMNAME@@, adjusting @@HIS@@ nicotine patch and distractedly gnawing on a well-chewed ballpoint pen. “It’s also about superego and id... but mostly just egotism. Give these exhibitionists an outlet for their vanity. Televised arena bouts, celebrity status, and official merchandise are that outlet. They’ll be promoting their careers rather than fighting on the streets, and as an added bonus, heroes and villains in the public eye are pretty easy for government to monitor.” [[color=red]Smoking is illegal[/color]]
+*6. "This is about ego," observes twitchy armchair psychologist @@RANDOMNAME@@, adjusting @@HIS@@ nicotine patch and distractedly gnawing on a well-chewed ballpoint pen. "It's also about superego and id... but mostly just egotism. Give these exhibitionists an outlet for their vanity. Televised arena bouts, celebrity status, and official merchandise are that outlet. They'll be promoting their careers rather than fighting on the streets, and as an added bonus, heroes and villains in the public eye are pretty easy for government to monitor." [[color=red]Smoking is illegal[/color]]
 
 -----------------------------------------------------------------------------
 [b][anchor=512]#512[/anchor]: Furnished For Failure [Valrifell; ed: Candlewhisper Archive][/b]
@@ -216,7 +216,7 @@ The Debate
 
 3. "Give Boldkey that which is justly his, which is a pound of flesh, nothing more, nothing less!" says Ms. @@RANDOMLASTNAME@@, a bored looking lawyer. "But due to him not being a licensed agent of the law, he must then be charged with murder, or at least assault, depending on the extent of the injury inflicted. The letter of the law is served, and freedom as well."
 
-[4]. “For this debtor’s life, let justice itself stand accused!” interjects @@RANDOMNAME@@, famed pedant and interfering busybody. “There is a law mandating measurements made metric, correct? Thus we must conclude, a ‘pound of flesh’ means nothing to the law, and the contract is void. Let precedent be set — without a metric of measure, a promise cannot bind!” [[color=purple]Must have Metricism[/color]]
+[4]. "For this debtor's life, let justice itself stand accused!" interjects @@RANDOMNAME@@, famed pedant and interfering busybody. "There is a law mandating measurements made metric, correct? Thus we must conclude, a ‘pound of flesh' means nothing to the law, and the contract is void. Let precedent be set — without a metric of measure, a promise cannot bind!" [[color=purple]Must have Metricism[/color]]
 
 -----------------------------------------------------------------------------
 [b][anchor=515]#515[/anchor]: Little Green Men [Wagner the Great; ed: Lenyo][/b]

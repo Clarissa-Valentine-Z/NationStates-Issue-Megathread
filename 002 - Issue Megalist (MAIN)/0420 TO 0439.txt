@@ -6,7 +6,7 @@ A surprising number of politicians from all walks of life have admitted to smoki
 The Debate
 *1. "Isn't this typical?" scoffs columnist @@RANDOMNAME@@, "Once again these crooked politicians are getting away with things that would put us regular folk in jail. The government is sending a very mixed message by not acting on this. They decry drugs; yet several of their own are known users. If the government has any sense of credibility they would send these criminals to jail with the rest of the druggies." [[color=red]Must have prisons[/color]]
 
-*2. “Isn’t this typical?” scoffs columnist @@RANDOMNAME@@, “Once again these crooked politicians are getting away with things that would see regular folk punished. The government is sending a very mixed message by not acting on this. They decry drugs, yet several of their own are known users. If the government has any sense of credibility they would send these criminals to rehab with the rest of the druggies.” [[color=blue]Must not have prisons[/color]]
+*2. "Isn't this typical?" scoffs columnist @@RANDOMNAME@@, "Once again these crooked politicians are getting away with things that would see regular folk punished. The government is sending a very mixed message by not acting on this. They decry drugs, yet several of their own are known users. If the government has any sense of credibility they would send these criminals to rehab with the rest of the druggies." [[color=blue]Must not have prisons[/color]]
 
 3. "On the contrary; this sends a very clear message," replies a man with a large beard while smoking an unidentifiable substance, "The latest polls show that the majority of @@NAME@@'s voters disagree with the government on this issue. More people than ever before are supporting legalization, particularly among youth. It seems like a few of our politicians have finally caught on. Instead of punishing these brave men and women for a victimless crime, let's do something positive and legalize the stuff already."
 
@@ -45,7 +45,7 @@ The Issue
 In a bloody civil war in nearby Maxtopia, the majority Violetist community is rebelling against a minority-led secular government with a terrible history of human rights abuses. Some Violetists from @@NAME@@ have traveled to Maxtopia to fight on the side of their fellow believers, and are now returning home.
 
 The Debate
-1. "These Violetists are coming back brainwashed with fundamentalist ideals and trained in terrorist methods," argues @@RANDOMNAME@@, your Minister of Internal Security. "They're a real danger to us all. You’ve got to detain all of these returnees for interrogation, until we can be sure that they're not planning terrorist atrocities here, however long that may take."
+1. "These Violetists are coming back brainwashed with fundamentalist ideals and trained in terrorist methods," argues @@RANDOMNAME@@, your Minister of Internal Security. "They're a real danger to us all. You've got to detain all of these returnees for interrogation, until we can be sure that they're not planning terrorist atrocities here, however long that may take."
 
 2. "This is all a massive overreaction," opines sociologist and civil rights campaigner @@RANDOMNAME@@. "The Violetists are no threat to us in @@NAME@@. All we need to do is provide humanitarian aid for the victims of the civil war, and some help for the returnees to reintegrate into society. I'm sure that none of them would want to cause trouble here."
 
@@ -77,9 +77,9 @@ The Debate
 
 2. "Well, that's one option," muses @@RANDOMNAME@@ an acquaintance of your brother's mother-in-law. "But this is such a fundamental sector of our economy that we can't leave it up to the farmers to choose whether they go to college or not. The government ought to make getting a degree mandatory to enter agriculture. Doctors and lawyers already need them, and can you really call them more important than the farmers?"
 
-3. "Mandatory degree?!" thunders @@RANDOMMALENAME@@ from atop his tractor. "Them college boys don’t know nothing about farmin' that my old man didn't teach me! We've been tilling this land for seven generations, and by hickory we know how to do it best - we don't need any guv'ment folks tellin' us where to plant potatoes or what pest killers we can use! Now some of us farmers ain't the best, but same goes for those university-educated doctors and lawyers!" He trails off, still angrily waving an absurdly tiny carrot.
+3. "Mandatory degree?!" thunders @@RANDOMMALENAME@@ from atop his tractor. "Them college boys don't know nothing about farmin' that my old man didn't teach me! We've been tilling this land for seven generations, and by hickory we know how to do it best - we don't need any guv'ment folks tellin' us where to plant potatoes or what pest killers we can use! Now some of us farmers ain't the best, but same goes for those university-educated doctors and lawyers!" He trails off, still angrily waving an absurdly tiny carrot.
 
-[4]. "You know, all this talk has got me thinking." notes socialist thinker @@RANDOMNAME@@, brandishing a sickle. "@@NAME@@ has plenty of arable land, just perfect for cultivation. But we're going about it precisely the wrong way. You just can’t trust private citizens with the people's own food. If we just nationalize the farms, production will surely rise! And with it, the proletariat!" [[color=blue]Must have private industry[/color]]
+[4]. "You know, all this talk has got me thinking." notes socialist thinker @@RANDOMNAME@@, brandishing a sickle. "@@NAME@@ has plenty of arable land, just perfect for cultivation. But we're going about it precisely the wrong way. You just can't trust private citizens with the people's own food. If we just nationalize the farms, production will surely rise! And with it, the proletariat!" [[color=blue]Must have private industry[/color]]
 
 -----------------------------------------------------------------------------
 [b][anchor=426]#426[/anchor]: Women In Uniform Under Fire [Vihenia; ed: Kandarin & Lenyo][/b]
@@ -145,7 +145,7 @@ With the same old dilemmas confronting @@NAME@@ time and time again, people are 
 
 The Debate
 
-1. "Well, that's because they're all twaddle,” says [violet] matter-of-factly while twirling a lighter in her hands. "I'm sick and tired of reading that garbage. I've decided to scrap the player-submitted system -- but don't tell anyone that. The endless waves of hate mail would overwhelm the server."
+1. "Well, that's because they're all twaddle," says [violet] matter-of-factly while twirling a lighter in her hands. "I'm sick and tired of reading that garbage. I've decided to scrap the player-submitted system -- but don't tell anyone that. The endless waves of hate mail would overwhelm the server."
 
 2. "The aim of this site is to promote my novel, not the writing talents of literary wannabes," scoffs Max Barry while sipping an iced-Margarita on a yacht in the South Pacific. "I've ordered the mods to only approve mediocre issues to ensure that no one discovers there are better writers out there than me."
 
@@ -181,11 +181,11 @@ The Issue
 A recent broadsheet special on the children of other leaders in @@REGION@@ has brought attention to the lack of children in your own residence. Mindful of your dipping approval, some of your advisors have begun to wonder if some popularity could be won back by having a kid or two.
 
 The Debate
-1. “This is a golden PR opportunity,” exclaims @@RANDOMNAME@@, representing Moral Minority. “Imagine: you'd be the wise family figure. Think how much the people will love your new baby. You'll be the epitome of family values leading everyone into domestic bliss. And think of the merchandising! I mean, think of the children."
+1. "This is a golden PR opportunity," exclaims @@RANDOMNAME@@, representing Moral Minority. "Imagine: you'd be the wise family figure. Think how much the people will love your new baby. You'll be the epitome of family values leading everyone into domestic bliss. And think of the merchandising! I mean, think of the children."
 
 2. Maxford University demographer and suspected eugenicist @@RANDOMNAME@@ disagrees. "The fact is our nation is overflowing with young ne'er do wells. They commit more crimes, are more prone to rudeness, and worst of all are least likely to care about your good works, @@LEADER@@. We have to send the message that we are going to do something about the troublesome demographics, and a good place to start is by you staying childless. And if we really want to crack down on population growth, we need to double down on border security too."
 
-3. “Or how about adoption?” schemes @@RANDOMNAME@@@, your PR expert.” I could see you with a nice adopted Lilliputian boy and an adopted Maxtopian girl. It would look great in front of the cameras. You could be the most multicultural and tolerant leader in @@REGION@@! And if everyone follows your lead, the orphanages won't be nearly as dreary!"
+3. "Or how about adoption?" schemes @@RANDOMNAME@@@, your PR expert." I could see you with a nice adopted Lilliputian boy and an adopted Maxtopian girl. It would look great in front of the cameras. You could be the most multicultural and tolerant leader in @@REGION@@! And if everyone follows your lead, the orphanages won't be nearly as dreary!"
 
 -----------------------------------------------------------------------------
 [b][anchor=433]#433[/anchor]: The Worst Storm To Hit @@NAME@@ Since... Yesterday? [Eaischpnaeieacgkque Bhcieaghpodsttditf; ed: Golgothastan][/b]

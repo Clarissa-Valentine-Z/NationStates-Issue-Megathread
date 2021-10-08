@@ -84,7 +84,7 @@ The Debate
 
 *2. CEO @@RANDOMNAME@@ of CyberMirage Labs has a different idea. "Let us release SAL9000, our new AI, into the @@NAME@@ Network. It'll put a stop to this virus. Nevermind that it's still only an untested beta!" [[color=blue]Must have private industry[/color]]
 
-*3. Director @@RANDOMNAME@@ of the State Technician’s Artificial Life Intelligence Network has a different idea. “Let us release SAL9000, our new AI, into the @@NAME@@ Network. It’ll put a stop to this virus. Never mind that it’s still only an untested beta!” [[color=red]Must not have private industry[/color]]
+*3. Director @@RANDOMNAME@@ of the State Technician's Artificial Life Intelligence Network has a different idea. "Let us release SAL9000, our new AI, into the @@NAME@@ Network. It'll put a stop to this virus. Never mind that it's still only an untested beta!" [[color=red]Must not have private industry[/color]]
 
 4. "Yeah, wonderful! Fix a virus by releasing an AI that will likely turn on its creators? Are you people trying to get us all killed?!" Decries infamous technophobe @@RANDOMNAME@@, "What do we need computers for anyway? They will only bring us trouble and disaster! Personal computers ought to be banned!"
 
@@ -125,7 +125,7 @@ The death of 108 year old Supreme Court Justice @@RANDOMNAME@@ has created an op
 The Debate
 *1. @@RANDOMNAME@@, the Former CEO of @@NAME@@ Products, says "I have long sat by and watched our government viciously attack the big businesses in this country. The government has no right to control businesses and I will adopt that position in all of my judgements." [[color=blue]Must have private industry[/color]]
 
-*2. Comrade @@RANDOMNAME@@, of the Worker’s Committee on Proletariat Loyalty, says, “I have too long sat by and watched the judiciary viciously undermining the righteous cause of the Workers and the Party that represents them. The judiciary has no right to interfere with Party business and I will adopt that position in all of my judgements.” [[color=red]Must not have private industry[/color]]
+*2. Comrade @@RANDOMNAME@@, of the Worker's Committee on Proletariat Loyalty, says, "I have too long sat by and watched the judiciary viciously undermining the righteous cause of the Workers and the Party that represents them. The judiciary has no right to interfere with Party business and I will adopt that position in all of my judgements." [[color=red]Must not have private industry[/color]]
 
 **3. Reverend @@RANDOMNAME@@ is nominee #2. The Reverend says "I am sick and tired of the liberals in this country ruining our family values. Every day they assault our basic sense of decency. You must vote for me to keep our families safe. Think of the children!" [[color=purple]Must lean towards being religious[/color]]
 
@@ -161,7 +161,7 @@ The Issue
 In response to rising rates of depression related suicides, mental health groups have called for government funding to help support treatment programs, citing various surveys that indicate psychological disorders are often an overlooked problem.
 
 The Debate
-1. “Although it is often dismissed as an irrelevant complaint, depression is a real disease; it isn’t just ‘all in your head’,” says @@RANDOMNAME@@, depression sufferer. “Depression has significant effects on groups and individuals, especially amongst teenagers. Every day, more and more people commit suicide because of this disease, but this could all be stopped if this country had informative public awareness programs. Even better would be providing mandatory counselling in free, government-run facilities for those who seem down-and-out. This will save lives!”
+1. "Although it is often dismissed as an irrelevant complaint, depression is a real disease; it isn't just ‘all in your head'," says @@RANDOMNAME@@, depression sufferer. "Depression has significant effects on groups and individuals, especially amongst teenagers. Every day, more and more people commit suicide because of this disease, but this could all be stopped if this country had informative public awareness programs. Even better would be providing mandatory counselling in free, government-run facilities for those who seem down-and-out. This will save lives!"
 
 2. "Screw them," @@RANDOMNAME@@, talkback radio host, stated yesterday. "Depression isn't a disease, it's just another example of today's youth finding something to complain about. Life's never been better. In fact, just yesterday, I bought my fourth BMW. And even if it is as serious as the bleeding hearts claim, then I say we leave it and cut some of the funding being wasted on these head cases. If a few whiners jump off a bridge, it'll be good for the genepool. Natural selection, my friends. It's a great thing."
 
@@ -193,7 +193,7 @@ The Debate
 
 3. "Corporal punishment would only treat a symptom of the bigger problem: our education system is in need of an overhaul," says @@RANDOMNAME@@, @@NAME@@'s education minister. "We need smaller class sizes, more teachers, better buildings, and better pay. It'll cost, but it'll pay off in the long run."
 
-4. “Why don’t we just kick these unruly kids out, and force parents to home-school them?” asks @@RANDOMNAME@@, education coordinator for the @@NAME@@ First Omnimenical Church. “That way parents can stress the values they want their kids to have and give them the attention they need.”
+4. "Why don't we just kick these unruly kids out, and force parents to home-school them?" asks @@RANDOMNAME@@, education coordinator for the @@NAME@@ First Omnimenical Church. "That way parents can stress the values they want their kids to have and give them the attention they need."
 
 -------------------------------------------------------------------------------
 [b][anchor=065]#[/anchor][anchor=65]65[/anchor]: Should Martial Law be declared? [American Militarists; ed: SalusaSecondus][/b]
@@ -204,7 +204,7 @@ Crime and violence are increasing across @@NAME@@; the people are crying out for
 The Debate
 1. "Placing the military in charge of government affairs will be a disaster" says @@RANDOMNAME@@, as a random thug steals the shirt off @@HIS@@ back. "You can't scare people straight! What we need is reform and respect for civil rights and our political freedom. You will have none of that under Martial Law."
 
-2. "It’s not that way at all," argues army general @@RANDOMNAME@@. "The fact is, if we don't implement some sort of order this country will fall into a state of anarchy. I urge you to act strongly and proactively before it is too late. We must exercise complete control over the populace to restore peace and security. Martial Law must be implemented, curfews established, and elections temporarily suspended. Only by doing this can we hope to have a future for @@NAME@@."
+2. "It's not that way at all," argues army general @@RANDOMNAME@@. "The fact is, if we don't implement some sort of order this country will fall into a state of anarchy. I urge you to act strongly and proactively before it is too late. We must exercise complete control over the populace to restore peace and security. Martial Law must be implemented, curfews established, and elections temporarily suspended. Only by doing this can we hope to have a future for @@NAME@@."
 
 3. "Look, we do need more security, but we can't sacrifice our freedoms. Just increase the police force and call in the National Guard," says @@RANDOMNAME@@. "We need order, but Martial Law is too drastic and restricting".
 
@@ -212,14 +212,14 @@ The Debate
 [b][anchor=066]#[/anchor][anchor=66]66[/anchor]: Transgender Recognition Demanded [Melmond; ed: Enodia & Candlewhisper Archive][/b]
 
 The Issue
-After tabloid magazine “The Bun” outed supermodel @@RANDOMFEMALENAME@@ as having been born male, the fashion world has gone into a frenzy, with the organisers of @@CAPITAL@@ Fashion Week barring the model from the runway. Social media has gone into meltdown with commentators from all sides of the argument demanding that the government step in.
+After tabloid magazine "The Bun" outed supermodel @@RANDOMFEMALENAME@@ as having been born male, the fashion world has gone into a frenzy, with the organisers of @@CAPITAL@@ Fashion Week barring the model from the runway. Social media has gone into meltdown with commentators from all sides of the argument demanding that the government step in.
 
 The Debate
-1. “I have gone through twenty years of internal pain about my external appearance, and I’ve put so much effort and money into finally having the world see the real me!” blogs the model. “Gender isn’t a binary proposition: gender identity is not necessarily the gender assigned at birth. I was fortunate to have private funds and supportive parents, but not all are so lucky. Please recognise my right to self-determination of identity, and help those like me get the surgery and medicine they need.”
+1. "I have gone through twenty years of internal pain about my external appearance, and I've put so much effort and money into finally having the world see the real me!" blogs the model. "Gender isn't a binary proposition: gender identity is not necessarily the gender assigned at birth. I was fortunate to have private funds and supportive parents, but not all are so lucky. Please recognise my right to self-determination of identity, and help those like me get the surgery and medicine they need."
 
-2. “Look, man is man and woman is woman: it’s written in our chromosomes. You can’t choose to be a different gender any more than you can choose to say you’re an @@ANIMAL@@,” broadcasts right-wing talk radio host @@RANDOMNAME@@. “Hey, a man wants the liberty to dress as a woman, I won’t deny him that: just don’t expect the taxpayer to pay for his operations and medicines.”
+2. "Look, man is man and woman is woman: it's written in our chromosomes. You can't choose to be a different gender any more than you can choose to say you're an @@ANIMAL@@," broadcasts right-wing talk radio host @@RANDOMNAME@@. "Hey, a man wants the liberty to dress as a woman, I won't deny him that: just don't expect the taxpayer to pay for his operations and medicines."
 
-3. “Well I got a problem with these cross-dressers,” spits cargo-hauler @@RANDOMMALENAME@@. “One time I thought I was hitting on this waitress at the pie shop, only turns out she was a he. Man, it sickens me. Lock dem all in an asylum till they get their heads straight!”
+3. "Well I got a problem with these cross-dressers," spits cargo-hauler @@RANDOMMALENAME@@. "One time I thought I was hitting on this waitress at the pie shop, only turns out she was a he. Man, it sickens me. Lock dem all in an asylum till they get their heads straight!"
 
 -------------------------------------------------------------------------------
 [b][anchor=067]#[/anchor][anchor=67]67[/anchor]: Most Likely To Secede [Leptonia; ed: SalusaSecondus][/b]
@@ -301,7 +301,7 @@ The Debate
 
 *3. "I don't see why it's anyone's business but my own how I kill myself," says @@RANDOMNAME@@, a pleasantly plump computer programmer, stuffing a chili dog down his throat. "My weight is my own business, and if I don't feel like exercising, that's my choice. Sure, it'd be healthier to lose a few pounds, but my priorities lie elsewhere. Leave us alone, and we, the citizens of @@NAME@@, will decide what's important to us and what we want to eat." [[color=blue]Must not ban Computers[/color]]
 
-*4. "I don’t see why it’s anyone’s business but my own how I kill myself," says Emile Jordan, a pleasantly plump former computer programmer, midway through a chili dog. "My weight is my own business, and if I don’t feel like exercising, that’s my choice. Sure, it’d be healthier to lose a few pounds, but my priorities lie elsewhere. Leave us alone, and we, the citizens of @@NAME@@, will decide what’s important to us and what we want to eat." [[color=red]Must ban Computers[/color]]
+*4. "I don't see why it's anyone's business but my own how I kill myself," says Emile Jordan, a pleasantly plump former computer programmer, midway through a chili dog. "My weight is my own business, and if I don't feel like exercising, that's my choice. Sure, it'd be healthier to lose a few pounds, but my priorities lie elsewhere. Leave us alone, and we, the citizens of @@NAME@@, will decide what's important to us and what we want to eat." [[color=red]Must ban Computers[/color]]
 
 5. "What about government-funded liposuction?" asks @@RANDOMNAME@@, while contemplatively chewing a mouthful of chili dog. "If I could get the fat sucked off of these hips, that would give me the willpower to stay thin. Obesity would be a thing of the past! Just think of it! Nothing but svelte, beautiful people everywhere! Ah, bliss!"
 
@@ -346,5 +346,5 @@ The Debate
 
 **4. "Everyone knows re-education is a waste of money, we shouldn't go soft on these crooks!" says CEO @@RANDOMNAME@@ of the People Trading Corporation. "Simply place all rapists and criminals in @@NAME@@ into forced labor under the management of our company to serve out their sentences. When we're through with them, they won't even think of jaywalking, much less harming another person. We get cheap labor, and these crooks get put straight. Everybody benefits... well, except the crooks." [[color=blue]Must have private industry[/color]]
 
-**5. “Everyone knows re-education is a waste of money, we shouldn't go soft on these crooks!” says Director of Farming Collectives @@RANDOMNAME@@. “Simply place all rapists and criminals in @@NAME@@ into forced labor under the management of our directorate to serve out their sentences. When we're through with them, they won't even think of jaywalking, much less harming another person. We get free labor, and these crooks get put straight. Everybody benefits... well, except the crooks.” [[color=red]Must not have private industry[/color]]
+**5. "Everyone knows re-education is a waste of money, we shouldn't go soft on these crooks!" says Director of Farming Collectives @@RANDOMNAME@@. "Simply place all rapists and criminals in @@NAME@@ into forced labor under the management of our directorate to serve out their sentences. When we're through with them, they won't even think of jaywalking, much less harming another person. We get free labor, and these crooks get put straight. Everybody benefits... well, except the crooks." [[color=red]Must not have private industry[/color]]
 

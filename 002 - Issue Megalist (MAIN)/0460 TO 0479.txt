@@ -40,7 +40,7 @@ In an effort to address a budget shortfall, your Minister for Creative Solutions
 The Debate
 1. @@RANDOMNAME@@, your Minister for Creative Solutions, explains their position. "Let's face facts, in the current economic climate we need to be sensible with our @@CURRENCYPLURAL@@. Those street lights don't run on thin air you know - and what with the cost of electricity soaring, what other choice do we have? We're not talking about a total blackout across @@NAME@@, just switching off the lighting along some of those less important roads and well... perhaps the ones that don't contribute so much to society."
 
-2. A @@MAN@@ in yoga pants pauses stretching to remark: “Excuse me, do you see what I’ve got going on here? I can’t be walking this down unlit streets at night. I can barely do it in the daytime. Keeping the lights on at all times will make @@NAME@@ feel safe and welcoming for everyone, not just the heavily armed.” @@HE@@ adjusts @@HIS@@ gym bag, which clanks.
+2. A @@MAN@@ in yoga pants pauses stretching to remark: "Excuse me, do you see what I've got going on here? I can't be walking this down unlit streets at night. I can barely do it in the daytime. Keeping the lights on at all times will make @@NAME@@ feel safe and welcoming for everyone, not just the heavily armed." @@HE@@ adjusts @@HIS@@ gym bag, which clanks.
 
 3. Wild-eyed, eccentric gentleman @@RANDOMMALENAME@@ begs your attention whilst enthusiastically polishing his monocle. "This is fantastic news, but doesn't go far enough - let's get rid of ALL those blasted monstrosities for good! Do you realise how difficult it is to spot the rotation of Alderaan's second moon through all that ghastly light pollution? Of course there will be a few wimps who are scared of the dark - but that's what candles were invented for!"
 
@@ -108,7 +108,7 @@ The Debate
 [b][anchor=467]#467[/anchor]: Saving Your Own Foreskin [Americanada; ed: Sanctaria][/b]
 
 The Issue
-The pride of @@NAME@@'s national swimming team, @@RANDOMMALENAME@@, the fastest amateur swimmer in @@NAME@@, recently acknowledged that his parents had him circumcised when he was younger for “aerodynamic purposes”. This has caused considerable debate throughout the @@TYPE@@, and people have taken to ambushing you while you’re out for your evening meal.
+The pride of @@NAME@@'s national swimming team, @@RANDOMMALENAME@@, the fastest amateur swimmer in @@NAME@@, recently acknowledged that his parents had him circumcised when he was younger for "aerodynamic purposes". This has caused considerable debate throughout the @@TYPE@@, and people have taken to ambushing you while you're out for your evening meal.
 
 The Debate
 1. "This is sick and wrong!" vents trilby-clad protester @@RANDOMNAME@@, flinging a copy of a news article strategically between you and your meal. "How can people think that mutilating diaper parts is okay? Religions and cults be damned. As you can read in this editorial, the paper's resident doctor proves beyond doubt that non-necessary circumcision has a host of negative effects. It doesn't matter that they're a doctor of journalism and not urology; it's basically the same thing. Bar emergency medical reasons, you must make circumcision illegal in all circumstances."

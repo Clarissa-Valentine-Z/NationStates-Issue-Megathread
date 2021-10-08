@@ -1,4 +1,3 @@
-0151 TO 0175
 [b][anchor=151]#151[/anchor]: Build Bigger Bombs, Advise Scientists [Benevolent Nations; ed: Sirocco][/b]
 
 The Issue
@@ -9,7 +8,7 @@ The Debate
 
 *2. "Why stop with making weapons for ourselves?" asks @@RANDOMNAME@@, CEO of Wendy's Weapons stores. "We can sell them to all sorts of groups and organisations: other nations, the WA, terror- uh - freedom fighters, anyone! And we produce our own for our protection. Think of the money we can make! I'm sure none of our clients would ever even think of trying to use them to influence our government with threats or anything like that!" [[color=blue]Must have private industry[/color]]
 
-*3. “Why stop with making weapons for ourselves?” asks @@RANDOMNAME@@, Minister of State Exports. “We can sell them to all sorts of groups and organisations: other nations, the WA, terror- uh - freedom fighters, anyone! And we produce our own for our protection. Think of the money we can make! I’m sure none of our clients would ever even think of trying to use them to influence our government with threats or anything like that!” [[color=red]Must not have private industry[/color]]
+*3. "Why stop with making weapons for ourselves?" asks @@RANDOMNAME@@, Minister of State Exports. "We can sell them to all sorts of groups and organisations: other nations, the WA, terror- uh - freedom fighters, anyone! And we produce our own for our protection. Think of the money we can make! I'm sure none of our clients would ever even think of trying to use them to influence our government with threats or anything like that!" [[color=red]Must not have private industry[/color]]
 
 4. "You want to bring NUKES into @@NAME@@?!" screams anti-nuclear protestor, @@RANDOMNAME@@. "This won't make us safer - it will just give the power to destroy everything to a few people! We must hunt down the people who suggested this evil plan and have them hanged! We must protect nature from the horrible influences of science. I say ban all new weapons research!"
 
@@ -325,7 +324,7 @@ The Debate
 
 *2. "I don't agree with adultery either," says @@RANDOMNAME@@, a passer-by. "But, uh... stoning? You don't think that's a little extreme? If we find someone guilty of fornication we can just lock them up in jail. That way no-one gets killed and the sinners get justice. It's more expensive to the tax payers than a stoning of course, but I reckon it's worth it." [[color=red]Must have prisons[/color]]
 
-*3. “I don’t agree with adultery either,” says @@RANDOMNAME@@, a passer-by. “But, uh... stoning? You don’t think that’s a little extreme? If we find someone guilty of fornication we can just send them to sex addict rehab, or whatever. That way no-one gets killed and we fix their personalities. It’s more expensive to the tax payers than a stoning of course, but I reckon it’s worth it.” [[color=blue]Must not have prisons[/color]]
+*3. "I don't agree with adultery either," says @@RANDOMNAME@@, a passer-by. "But, uh... stoning? You don't think that's a little extreme? If we find someone guilty of fornication we can just send them to sex addict rehab, or whatever. That way no-one gets killed and we fix their personalities. It's more expensive to the tax payers than a stoning of course, but I reckon it's worth it." [[color=blue]Must not have prisons[/color]]
 
 4. "With the greatest of respect, this is none of your business!" yells @@RANDOMNAME@@ who is rumoured to have had more than a thousand lovers and even more children. "The government has no right to go about trying to dictate the laws of love and romance! Marriages break down, people move on - is it really the government's place to make people stay put? You must recognise the fact that the law has no place within the bedroom!"
 

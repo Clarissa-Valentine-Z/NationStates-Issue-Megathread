@@ -1,4 +1,3 @@
-0250 TO 0275
 [b][anchor=250]#250[/anchor]: Recession, Depression, And Deficit [The Realist Polities; ed: Sirocco][/b]
 
 The Issue
@@ -54,9 +53,9 @@ Government bureaucrats have called for an end to the mandatory referenda of new 
 The Debate
 1. "The madness has gone on for long enough," says Voting Registry Clerk @@RANDOMNAME@@, visibly suffering from sleep deprivation. "We've been working around the clock processing all these referendums! Every day we receive millions of votes for the most inconsequential of by-laws! They all have to be counted, recounted, checked for errors, and it's driving me up the wall! You need to leave the responsibility of voting to Parliament. After all, representing the people is what they get paid for."
 
-[2]. "Don't stop the referendums! We need more democracy, not less!" cries @@RANDOMNAME@@, a prominent voting rights advocate. "Giving the law back to the people was a good first step, but where’s the democracy in the courts? Court verdicts are still forced down the people's throats by mean, spiteful judges with no one to answer to! It's time to abolish the judicial system once and for all and give justice back to the people!" [[color=blue]Must have a judiciary[/color]]
+[2]. "Don't stop the referendums! We need more democracy, not less!" cries @@RANDOMNAME@@, a prominent voting rights advocate. "Giving the law back to the people was a good first step, but where's the democracy in the courts? Court verdicts are still forced down the people's throats by mean, spiteful judges with no one to answer to! It's time to abolish the judicial system once and for all and give justice back to the people!" [[color=blue]Must have a judiciary[/color]]
 
-3. "Excuse us, but aren't you missing the point?" asks the unidentified spokesman of some citizens gathered around your office door. "We, the people of @@NAME@@, know what is in our best interests. We can make our OWN decisions. Why don’t you leave this matter to us? We'll hold a referendum to decide what needs to be done, should only be a week or two. We'll get back to you once we’re finished."
+3. "Excuse us, but aren't you missing the point?" asks the unidentified spokesman of some citizens gathered around your office door. "We, the people of @@NAME@@, know what is in our best interests. We can make our OWN decisions. Why don't you leave this matter to us? We'll hold a referendum to decide what needs to be done, should only be a week or two. We'll get back to you once we're finished."
 
 -------------------------------------------------------------------------------
 [b][anchor=254]#254[/anchor]: Freedom Comes At A Price [Responsible; ed: Responsible][/b]
@@ -140,7 +139,7 @@ A spectacular but failed attempt on your life made national news today. Interrog
 The Debate
 1. "Assassins, huh? Well, two can play at that game!" says Warren McCue, your chief military adviser. "An eye for an eye! A tooth for a tooth! An assassination for a... missed shot, I suppose. Never mind that, think of the possibilities! Not only can we strike back at the scumbags who sent this assassin after you, we can turn our attention to... 'manipulating' the positions of foreign leaders and political rivals that stand in the way of @@NAME@@'s glory." He then points two fingers at the wall and mouths 'bang bang' noises.
 
-2. "Sending assassins to avenge you isn't enough!" argues hawkish talk-show host, @@RANDOMNAME@@. "The fact that Blackacre is this bold means we haven’t made them fear us yet - and a nation that isn’t feared isn’t respected. We need to do the only thing we CAN do: bomb their cities! Raise a revolution! Salt their fields! It may cost money, but our nation’s honor is priceless."
+2. "Sending assassins to avenge you isn't enough!" argues hawkish talk-show host, @@RANDOMNAME@@. "The fact that Blackacre is this bold means we haven't made them fear us yet - and a nation that isn't feared isn't respected. We need to do the only thing we CAN do: bomb their cities! Raise a revolution! Salt their fields! It may cost money, but our nation's honor is priceless."
 
 3. "I can't believe what I'm hearing!" says the muffled voice of @@RANDOMNAME@@, an anti-violence protestor who was, until now, hiding in your air vents. "By building up our military-industrial complex, WE have become the aggressor. WE are giving nations like Blackacre good reasons to hate us! No wonder they tried to kill you - we aren't giving them enough breathing room. If we cut back our military a bit and sent them a fruit basket now and then these problems would never happen."
 
@@ -172,7 +171,7 @@ The Debate
 
 [4]. "Why should consumers have to worry about bags at all?" asks @@RANDOMNAME@@, owner of an online grocery store. "E-commerce is the way of the future. We need to take the next step and put the entire retail industry online. Think about it! No more bags, no more waiting in line, no more wasted time going to the store for food when your food can come to you. Sure, it'll cause some unemployment in the short run, but there'll be plenty of jobs at our warehouses. Everyone who matters should have an internet connection by now and it's high time we embraced the future." [[color=blue]Must have private industry[/color]]
 
-*5. "You’re not really going to listen to this nonsense, are you?" says @@RANDOMNAME@@, Director of Plastic Production in East @@NAME@@. "Do you know how integral plastic is to our national economy? How much damage it will do to associated industries? Our nation needs less environmental regulation, not more! Just say no to limits on our plastic bags, and while you're at it loosen up environmental laws in general. We can’t afford to let decadent eco-imperialist ideas get in the way of @@NAME@@’s production output." [[color=red]Must not have private industry[/color]]
+*5. "You're not really going to listen to this nonsense, are you?" says @@RANDOMNAME@@, Director of Plastic Production in East @@NAME@@. "Do you know how integral plastic is to our national economy? How much damage it will do to associated industries? Our nation needs less environmental regulation, not more! Just say no to limits on our plastic bags, and while you're at it loosen up environmental laws in general. We can't afford to let decadent eco-imperialist ideas get in the way of @@NAME@@'s production output." [[color=red]Must not have private industry[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=262]#262[/anchor]: Sticks And Stones [Zwangzug; ed: Sirocco][/b]
@@ -267,7 +266,7 @@ A recent "accidental" change in @@NAME@@'s child abandonment law has made it eas
 The Debate
 *1. "This is insane!" says social worker @@RANDOMFEMALENAME@@, struggling to hold three babies in her lap. "Whose smart idea was it to allow mothers to simply drop off their newborns like last night's stale pizza? These guys over at the capitol don't know how much work it takes to get these kids into the system and to take care of them, let alone how difficult it is to actually get them adopted! We simply can't do it. If this keeps up, don't be surprised if those babies sit in drop-boxes for days or forever." After handing over a baby to you, the social worker gives one final piece of advice, "Parents needs to accept the responsibility if they choose to have unprotected sex. It's not the state's job to raise children. At least, it shouldn't be. Until these types of laws are repealed, enjoy the baby!"
 
-*2. “This is insane!” says social worker @@RANDOMFEMALENAME@@, struggling to hold three babies in her lap. “Whose smart idea was it to allow mothers to simply drop off their newborns like last night’s stale pizza? These guys over at the Capitol don’t know how much work it takes to get these kids into the system and to take care of them, let alone how difficult it is to actually get them adopted! We simply can’t do it. If this keeps up, don’t be surprised if those babies sit in drop-boxes for days or forever.” After handing over a baby to you, the social worker gives one final piece of advice. “Parents need to accept responsibility. It’s not the state’s job to raise children. At least, it shouldn’t be. Until these types of laws are repealed, enjoy the baby!”
+*2. "This is insane!" says social worker @@RANDOMFEMALENAME@@, struggling to hold three babies in her lap. "Whose smart idea was it to allow mothers to simply drop off their newborns like last night's stale pizza? These guys over at the Capitol don't know how much work it takes to get these kids into the system and to take care of them, let alone how difficult it is to actually get them adopted! We simply can't do it. If this keeps up, don't be surprised if those babies sit in drop-boxes for days or forever." After handing over a baby to you, the social worker gives one final piece of advice. "Parents need to accept responsibility. It's not the state's job to raise children. At least, it shouldn't be. Until these types of laws are repealed, enjoy the baby!"
 
 3. "A woman ought to have the right to choose if she wants to be a mother!" asserts Norma Roe, a long-time women's rights activist. "It's all a matter of privacy. The government shouldn't have a say in our life, shouldn't be telling us that we have to live like this, raise children like that, or devote our entire life to something we never wanted in the first place. Has anybody stopped to think that maybe it's better for the child that they aren't raised by unprepared, unwilling mothers? Give that a thought and get back to me, why don't you?"
 
@@ -277,16 +276,16 @@ The Debate
 [b][anchor=269]#269[/anchor]: Stop The Presses! [Lenyo; ed: Sanctaria][/b]
 
 The Issue
-It has been revealed that many of @@NAME@@’s newspapers are deep in red ink. Opinions are divided on whether or not the government should intervene.
+It has been revealed that many of @@NAME@@'s newspapers are deep in red ink. Opinions are divided on whether or not the government should intervene.
 
 The Debate
-1. "There is no real problem here," says noted economist @@RANDOMNAME@@. "If newspapers are no longer selling, they shouldn’t exist in a free market economy; let capitalism take its course. Who cares if a few newspapers go under? Besides, it’s probably good for the digital industry, right?"
+1. "There is no real problem here," says noted economist @@RANDOMNAME@@. "If newspapers are no longer selling, they shouldn't exist in a free market economy; let capitalism take its course. Who cares if a few newspapers go under? Besides, it's probably good for the digital industry, right?"
 
-2. "You can’t just allow the newspaper industry to die!" panics newspaper editor @@RANDOMNAME@@. "We are the core of our nation’s news media! Where will the talk shows, internet news sites, and other media outlets get their stories from? We're their sources after all! @@NAME@@ needs newspapers to inform the populace! Just allow us to be exempt from taxation and I’m sure we will recover. After all, quality news is worth the price!"
+2. "You can't just allow the newspaper industry to die!" panics newspaper editor @@RANDOMNAME@@. "We are the core of our nation's news media! Where will the talk shows, internet news sites, and other media outlets get their stories from? We're their sources after all! @@NAME@@ needs newspapers to inform the populace! Just allow us to be exempt from taxation and I'm sure we will recover. After all, quality news is worth the price!"
 
 [3]. "Why bother subsidising when we can go all out and take back control of the media!" muses one of your innumerable advisors. "Newspapers are full of sensationalised, makey-uppy events designed to sell more papers and they ignore what really matters - like what we the Government are doing for the people! As a bonus, there'd be no need for newspapers and stations to compete with each other, and job losses would be at a minimum, so everyone'll be happy." [[color=blue]Must not have State Press[/color]]
 
-4. "Yu’r not attacking the problem," states elderly gentleman Woody Cane. "Newspapers will never be able t’ compete with them internets. All you’ve got t’do is shut them newfangled things down. Problem solved!"
+4. "Yu'r not attacking the problem," states elderly gentleman Woody Cane. "Newspapers will never be able t' compete with them internets. All you've got t'do is shut them newfangled things down. Problem solved!"
 
 -------------------------------------------------------------------------------
 [b][anchor=270]#270[/anchor]: Space Spectacular Sours Small Stargazers [Luna Amore; ed: Frisbeeteria][/b]
@@ -310,7 +309,7 @@ Your evening supper was disrupted recently when a spandex-clad man wearing a mas
 The Debate
 *1. "He did WHAT?" shouts over-zealous police officer @@RANDOMNAME@@. "The Dogman is a menace to society and an insult to the police. Vigilantism should not be tolerated, and the police should have the right to track these people down and throw them in jail. We'll show others like him that the law cannot be taken into their own hands." [[color=red]Must have prisons[/color]]
 
-*2. “He did WHAT?” shouts over-zealous police officer @@RANDOMNAME@@. “The Dogman is a menace to society and an insult to the police. Vigilantism should not be tolerated, and the police should have the right to track these people down and force them into therapy to cure their infantile power fantasies. We’ll show others like him that the law cannot be taken into their own hands.” [[color=blue]Must not have prisons[/color]]
+*2. "He did WHAT?" shouts over-zealous police officer @@RANDOMNAME@@. "The Dogman is a menace to society and an insult to the police. Vigilantism should not be tolerated, and the police should have the right to track these people down and force them into therapy to cure their infantile power fantasies. We'll show others like him that the law cannot be taken into their own hands." [[color=blue]Must not have prisons[/color]]
 
 3. "I agree, but we're forgetting the bigger issue," says Police Chief @@RANDOMNAME@@. "It's embarrassing really. This guy who's probably had no police training managed to catch a criminal that some of us in the force have spent ten years trying to bring down. This whole incident clearly shows us that the police force needs new training and equipment. I'm sure that our citizens wouldn't mind paying a little more to feel safer on the streets."
 
@@ -319,17 +318,17 @@ The Debate
 6. "You all have the wrong idea," says Graphite Lad, wearing a slender yellow spandex suit and eraser helmet. "We can't dismiss the fact that the Dogman did us and our city a great service. That's not something we should put him in jail for. In fact, I think the government should pay vigilante heroes for their noble deeds."
 
 -------------------------------------------------------------------------------
-[b][anchor=272]#272[/anchor]: Slow Down, You’re Going Too Fast [Frisbeeteria; ed: Frisbeeteria][/b]
+[b][anchor=272]#272[/anchor]: Slow Down, You're Going Too Fast [Frisbeeteria; ed: Frisbeeteria][/b]
 
 The Issue
 Following fatality reports from several high-speed, multi-car accidents, concerned safety advocates are asking that national speed limits be reinstated.
 
 The Debate
-1. "Lives are being lost, and for what?" shouts author of "The Road Worrier" @@RANDOMNAME@@ at a rally in front of Police Headquarters. "So that juveniles-at-heart can satisfy their need for speed? Enough already! The rest of us want our children safe. Reinstate the speed limits, and while we’re at it, raise the license age to 25. There’s no need for adolescents to foul our highways. They can ride the bus."
+1. "Lives are being lost, and for what?" shouts author of "The Road Worrier" @@RANDOMNAME@@ at a rally in front of Police Headquarters. "So that juveniles-at-heart can satisfy their need for speed? Enough already! The rest of us want our children safe. Reinstate the speed limits, and while we're at it, raise the license age to 25. There's no need for adolescents to foul our highways. They can ride the bus."
 
-2. "The problem isn’t cars, it’s drivers", states @@RANDOMNAME@@, founder and spokesperson of @@NAME@@ Automation Industries. "Remove the human being from the equation, and modern vehicles can be driven at high speed entirely by computer! All we need is some research and retooling money, and a bit of infrastructure assistance to add drive-by-wire nodes to the highways. Not only will we make our own highways safer, we’ll boost @@NAME@@’s automotive exports through the roof!"
+2. "The problem isn't cars, it's drivers", states @@RANDOMNAME@@, founder and spokesperson of @@NAME@@ Automation Industries. "Remove the human being from the equation, and modern vehicles can be driven at high speed entirely by computer! All we need is some research and retooling money, and a bit of infrastructure assistance to add drive-by-wire nodes to the highways. Not only will we make our own highways safer, we'll boost @@NAME@@'s automotive exports through the roof!"
 
-3. "Cars are only a part of the problem," argues transit advocate @@RANDOMNAME@@, assembling a toy train set on your desktop. "Trucks and busses are just as deadly. We need to shift entirely to railroads and get rid of cars AND trucks – hi-speed trains between cities, light rail to the suburbs, monorails and trolleys in town. We can dump those old speed limit laws - people won’t get run over if they stay off the tracks! So what if a few industrial complexes have to relocate or close? It’s for the greater good!"
+3. "Cars are only a part of the problem," argues transit advocate @@RANDOMNAME@@, assembling a toy train set on your desktop. "Trucks and busses are just as deadly. We need to shift entirely to railroads and get rid of cars AND trucks – hi-speed trains between cities, light rail to the suburbs, monorails and trolleys in town. We can dump those old speed limit laws - people won't get run over if they stay off the tracks! So what if a few industrial complexes have to relocate or close? It's for the greater good!"
 
 -------------------------------------------------------------------------------
 [b][anchor=273]#273[/anchor]: Is Our Children Learning? [Panageadom; ed: Lenyo][/b]
@@ -344,11 +343,11 @@ The Debate
 
 *[3]. "I think specialization is the way to go," says your defense minister, standing arm in arm with a bishop of @@FAITH@@ and @@NAME@@'s top CEO. "Specialization lets each focus on what they're truly good at, and I'm sure that religious institutions, the military, and private companies would fork out a bit to train up the next generation, so we could save on taxes too." [[color=blue]Must have private industry[/color] AND [color=blue]Must not be atheist[/color]]
 
-*[4]. “I think specialization is the way to go,” says your defense minister, standing arm in arm with a bishop of @@FAITH@@ and @@NAME@@'s humblest farmer. “Specialization lets each focus on what they're truly good at, and I'm sure that religious institutions, the military, and farming collectives will contribute to train up the next generation, so we could save on government spending too.” [[color=red]Must not have private industry[/color] AND [color=blue]Must not be atheist[/color]]
+*[4]. "I think specialization is the way to go," says your defense minister, standing arm in arm with a bishop of @@FAITH@@ and @@NAME@@'s humblest farmer. "Specialization lets each focus on what they're truly good at, and I'm sure that religious institutions, the military, and farming collectives will contribute to train up the next generation, so we could save on government spending too." [[color=red]Must not have private industry[/color] AND [color=blue]Must not be atheist[/color]]
 
 **5. "As we've proven in the past, the free market can manage this far better than the public sector," says market-analyst @@RANDOMNAME@@. "Now, I'm not saying that the state shouldn't help people go to school - far from it. Still, schools need greater freedom to maximize learnedness: to set their own tuition, salaries, curricula, etc. Give private schools a small government subsidy, and let the free market take its course. So what if a few poor kids drop out earlier? You can't make omelets without breaking a few eggs." [[color=blue]Must have private industry[/color]]
 
-**6. “Looks to me like this is more proof that @@NAME@@'s rejection of free-market economics is denying students the education they need and deserve,” says market-analyst @@RANDONNAME@@. “Now, I’m not saying that the state shouldn't help people go to school - far from it. What I'm saying is that you need to allow private schools and reinstate the capitalist systems that allow for these businesses to operate privately. This social equality experiment has failed the nation's children, and it's time to offer them a better way.” [[color=red]Must not have private industry[/color]]
+**6. "Looks to me like this is more proof that @@NAME@@'s rejection of free-market economics is denying students the education they need and deserve," says market-analyst @@RANDONNAME@@. "Now, I'm not saying that the state shouldn't help people go to school - far from it. What I'm saying is that you need to allow private schools and reinstate the capitalist systems that allow for these businesses to operate privately. This social equality experiment has failed the nation's children, and it's time to offer them a better way." [[color=red]Must not have private industry[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=274]#274[/anchor]: Brotherly Love - A Bit Too Close to Home? [Afforess; ed: Sanctaria][/b]

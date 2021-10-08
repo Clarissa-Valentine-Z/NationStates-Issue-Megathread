@@ -1,8 +1,7 @@
-0201 TO 0225
 [b][anchor=201]#201[/anchor]: Jolly Roger Sighted Off The Port Bow! [I V Stalin; ed: Sirocco, Scolopendra, & GMC Military Arms][/b]
 
 The Issue
-@@NAME@@'s merchant navy has seen increasing attacks from swashbuckling pirates in recent months, devastating the nation’s foreign trade.
+@@NAME@@'s merchant navy has seen increasing attacks from swashbuckling pirates in recent months, devastating the nation's foreign trade.
 
 The Debate
 1. "We should blow them out of the water!" says First Lord Admiral @@RANDOMNAME@@. "These waterlogged vagabonds have been plundering our ships for far too long! All our exports from the @@MAJORINDUSTRY@@ industry are going straight into their hands! It's downright dangerous for us to let this continue! All we require is some funding for coastal patrol boats, fleet carriers, and nuclear submarines and a free hand to show these freebooters what's what."
@@ -95,7 +94,7 @@ The Issue
 Anarchists have been covertly putting up anti-government posters all over @@NAME@@. Some of your closest advisors have suggested the implementation of a secret police force to deal with the more... difficult members of society.
 
 The Debate
-1. "Sometimes a government has got to deal with something without having to go through the 'proper channels'," says ‘@@RANDOMFIRSTNAME@@’, who does not exist within any government records. "It happens sometimes and we have to deal with it. It's not just anarchists either - it's the terrorists, the criminals, the traitors, and the goddamn hippies. With a secret police we can arrest the troublemakers and torture them to find other dissenters without having to worry about fiddly matters like human rights."
+1. "Sometimes a government has got to deal with something without having to go through the 'proper channels'," says ‘@@RANDOMFIRSTNAME@@', who does not exist within any government records. "It happens sometimes and we have to deal with it. It's not just anarchists either - it's the terrorists, the criminals, the traitors, and the goddamn hippies. With a secret police we can arrest the troublemakers and torture them to find other dissenters without having to worry about fiddly matters like human rights."
 
 2. "Don't listen to that idiot!" whispers @@RANDOMNAME@@, one of your more guilt-ridden henchpersons. "I don't know how you feel about this but I think this would be a bad path for our government to go down. @@NAME@@ shouldn't resort to deceit and off-the-record brutality to put away people. A secret police force would ruin our fine nation. It's time our government was candid with its people and let them say what they want!"
 
@@ -112,7 +111,7 @@ The Debate
 
 *2. "These allegations are ludicrous and unfounded," says @@RANDOMNAME@@, CEO of the South @@NAME@@ Mining Company. "We use the finest twigs to build our mines and the last thing we need is the government tying us down with yet more rules. More safety laws means more expense means less profit and less profit means companies will look elsewhere to get their goods. You should leave us alone before you destroy thousands of jobs - do you really want that on your conscience?" [[color=blue]Must have private industry[/color]]
 
-*3. “These allegations are ludicrous and unfounded,” says South @@NAME@@ Regional Director of Mining @@RANDOMNAME@@. “We use the finest twigs to build our mines and the last thing we need is workers who do not trust in our commitment to the greater good. More safety laws means more expense means a diminished state treasury and a diminished treasury means you will soon be running out of funds. You should leave us alone before you destroy the finely balanced economy of @@NAME@@’s glorious communist society - do you really want that on your conscience?” [[color=red]Must not have private industry[/color]]
+*3. "These allegations are ludicrous and unfounded," says South @@NAME@@ Regional Director of Mining @@RANDOMNAME@@. "We use the finest twigs to build our mines and the last thing we need is workers who do not trust in our commitment to the greater good. More safety laws means more expense means a diminished state treasury and a diminished treasury means you will soon be running out of funds. You should leave us alone before you destroy the finely balanced economy of @@NAME@@'s glorious communist society - do you really want that on your conscience?" [[color=red]Must not have private industry[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=209]#209[/anchor]: Students Demand Financial Aid [Rajlworld; ed: Sirocco][/b]
@@ -181,7 +180,7 @@ The Debate
 
 *3. "That sounds to me," says another of your financial advisors who just so happened to be walking past. "Like a stellar reason to do away with the public transport system altogether. The only people who really lose out are the poor and the disabled, but there's no profit in them either so it's win-win." [[color=blue]Must have private industry[/color]]
 
-*4. “That sounds to me,” says another of your financial advisors who just happens to be walking past, “like a stellar reason to do away with the public transport system altogether. The only people who really lose out are the disabled, but there’s no production value to them anyway, so it’s win-win.” [[color=red]Must not have private industry[/color]]
+*4. "That sounds to me," says another of your financial advisors who just happens to be walking past, "like a stellar reason to do away with the public transport system altogether. The only people who really lose out are the disabled, but there's no production value to them anyway, so it's win-win." [[color=red]Must not have private industry[/color]]
 
 5. "Now now now, there's no need to be quite so gung-ho," says @@RANDOMNAME@@, a city planner. "The public transport system is vital for cutting down congestion and pollution within urban areas. Less vehicles on the road, less fumes, you with me so far? What we need to do is put a tax on car-use within the cities and promote our mass transit. That way everyone gets what they want, and cleaner air to boot."
 
@@ -313,7 +312,7 @@ Over the years, the government's tax code has become a headache-inducing tangle.
 The Debate
 1. "We've got to put a stop to this before more lives are lost, like mine!" says @@RANDOMNAME@@, the new head of the @@DEMONYM@@ Revenue Agency, indicating the search and rescue crew armed with paper shredders. "We need to abandon the current tax code and start anew. It's drastic, I know, and will mean chaos in the bureaucracy, while spending may briefly need to be curtailed as revenues dip, but there's no other way to fix this shambles!"
 
-2. “It’s true that something has got to be done about the tax code, but it doesn’t need to be anything so drastic,” proclaims @@RANDOMNAME@@, spokesperson of the Alliance of @@DEMONYM@@ Businesses and Industry. "The real problem lies with the tangled mess that is the corporate tax regime. Allow us to write a competitive tax system for @@DEMONYMADJECTIVE@@ industry, and you'll stem the job losses from businesses flocking offshore to escape this bureaucratic nightmare."
+2. "It's true that something has got to be done about the tax code, but it doesn't need to be anything so drastic," proclaims @@RANDOMNAME@@, spokesperson of the Alliance of @@DEMONYM@@ Businesses and Industry. "The real problem lies with the tangled mess that is the corporate tax regime. Allow us to write a competitive tax system for @@DEMONYMADJECTIVE@@ industry, and you'll stem the job losses from businesses flocking offshore to escape this bureaucratic nightmare."
 
 3. "If anything is bloated about the taxes and how our money is spent, it's that corporate welfare!" rages @@RANDOMNAME@@, a concerned and rather irate citizen. "If you ask me, the government needs to eliminate all those generous tax breaks for businesses! Then we can cut some of those ridiculous taxes that hit the average guy, for once benefiting the people, not industry bigwigs!"
 
@@ -370,9 +369,9 @@ The Debate
 
 2. "'Reasonable?' Since when have companies ever been 'reasonable' when it comes to money?" questions @@RANDOMNAME@@, president of the @@NAME@@ Socialist Alliance. "The government should increase taxes and guarantee a living wage so everybody, no matter what job they have, can have access to food, water, and other basic needs. If everyone has the money needed to survive then things like the economy should take care of themselves. Stands to reason. But what you should be asking yourself is this: what's more important, individuals or corporations?"
 
-3. “We don’t need any of these stupid communistic welfare policies,” says @@RANDOMNAME@@, millionaire CEO and star of reality TV show ‘You’re Fired!’ “Living wages are unworkable! If you make workers expensive, then employers are just going to use fewer or lose profits. They should be grateful for a job, and if they don’t want to work, we should be able to boot them out and hire someone else, no questions asked. Hey, it’s not that I’m not compassionate. I’m the most compassionate person you’ll ever meet. The most!”
+3. "We don't need any of these stupid communistic welfare policies," says @@RANDOMNAME@@, millionaire CEO and star of reality TV show ‘You're Fired!' "Living wages are unworkable! If you make workers expensive, then employers are just going to use fewer or lose profits. They should be grateful for a job, and if they don't want to work, we should be able to boot them out and hire someone else, no questions asked. Hey, it's not that I'm not compassionate. I'm the most compassionate person you'll ever meet. The most!"
 
-4. “I agree, and honestly it’s a detriment to this nation’s businesses that we even have to PAY them wages,” extrapolates corporate executive John Nike. “If slavery was legal, I think we’d find the nation’s economy improving somewhat.”
+4. "I agree, and honestly it's a detriment to this nation's businesses that we even have to PAY them wages," extrapolates corporate executive John Nike. "If slavery was legal, I think we'd find the nation's economy improving somewhat."
 
 -------------------------------------------------------------------------------
 [b][anchor=225]#225[/anchor]: Prayer In Public Schools? [Vincon; ed: Sirocco][/b]

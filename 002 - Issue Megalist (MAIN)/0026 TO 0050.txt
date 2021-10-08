@@ -67,7 +67,7 @@ A group of prominent business identities has proposed privatizing @@NAME@@'s bea
 The Debate
 *1. "Have you been to the beach lately? It's disgusting," says company spokesperson @@RANDOMNAME@@. "There's litter, there's teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@'s beaches will be the talk of the region! And a nice little earner, too." [[color=blue]Must have private industry[/color]]
 
-*2. “Look, I know your nation doesn’t much like capitalists, but have you been to the beach lately? It’s disgusting,” says company spokesperson @@RANDOMNAME@@. “There’s litter, there’s teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@’s beaches will be the talk of the region! Yes, it means ending communism, but isn’t this the noblest of reasons to do so?” [[color=red]Must not have private industry[/color]]
+*2. "Look, I know your nation doesn't much like capitalists, but have you been to the beach lately? It's disgusting," says company spokesperson @@RANDOMNAME@@. "There's litter, there's teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@'s beaches will be the talk of the region! Yes, it means ending communism, but isn't this the noblest of reasons to do so?" [[color=red]Must not have private industry[/color]]
 
 3. "Whoa, whoa, we're privatizing beaches now?" says local campaigner @@RANDOMNAME@@. "These are public spaces! All @@NAME@@'s citizens have a right to enjoy them, not just the well-off. Yes, we should improve the quality of our beaches, but handing them over to the money-grabbers is not the right way to do it. The right way to do it is to boost government spending by increasing taxes."
 
@@ -166,7 +166,7 @@ The Debate
 
 *3. "If God had meant Man to fly, he would have given us solid rocket boosters instead of legs," says religious type @@RANDOMNAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of religion mandatory in all schools." [[color=blue]Must not be atheist[/color]]
 
-*4. “If man were meant to fly, we would have evolved solid rocket boosters instead of legs,” says dubiously-trained biologist @@RANDOMNAME@@. “We should not be looking to the stars, but rather inside our own hearts. That’s why we should abandon this so-called space program, and instead make the teaching of humanist values mandatory in all schools.” [[color=red]Must be atheist[/color]]
+*4. "If man were meant to fly, we would have evolved solid rocket boosters instead of legs," says dubiously-trained biologist @@RANDOMNAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of humanist values mandatory in all schools." [[color=red]Must be atheist[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=039]#[/anchor][anchor=39]39[/anchor]: Scandal Rocks @@NAME@@'s Government! [The SLAGLands; ed:The SLAGLands][/b]
@@ -179,7 +179,7 @@ The Debate
 
 *2. "Unbelievable!" says Reverend @@RANDOMMALENAME@@ of the local Catholic church. "Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!" [[color=blue]Must not be atheist[/color]]
 
-*3. “Unbelievable!” says moralist @@RANDOMMALENAME@@ of the local Ethics Committee. “Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!” [[color=red]Must be atheist[/color]]
+*3. "Unbelievable!" says moralist @@RANDOMMALENAME@@ of the local Ethics Committee. "Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!" [[color=red]Must be atheist[/color]]
 
 4. "Whoa, whoa, hey, now..." argues Senator @@RANDOMNAME@@. "What happened to Mr. Lotsalovin is no different than affairs that happen all over @@NAME@@ every day! Before you know it, they'll be after YOUR sexual history! I think what we need to do is take the public attention off of it somehow, perhaps by... oh, I don't know... giving them a tax cut! That'll divert their attention from this momentary distraction just long enough for Mr. Lotsalovin's divorce process to end!"
 
@@ -302,11 +302,11 @@ The Debate
 
 ***3. "Why do we have to choose either radical option?" says your Secretary of Health, @@RANDOMNAME@@. "Couldn't we just provide limited basic healthcare for our citizens and have major operations covered by private health insurance? It would be more affordable and the poor would suffer less than they do under the current system." [[color=blue]Must have private industry[/color]]
 
-*4. “A universal healthcare system is a core tenet of socialist society,” says Communist Party ideologue @@RANDOMNAME@@. “Sure, taxes would probably have to increase a bit. But isn’t it worth it to provide our noble workers with good healthcare, free at the point of delivery?” [[color=red]Must not have private industry[/color]]
+*4. "A universal healthcare system is a core tenet of socialist society," says Communist Party ideologue @@RANDOMNAME@@. "Sure, taxes would probably have to increase a bit. But isn't it worth it to provide our noble workers with good healthcare, free at the point of delivery?" [[color=red]Must not have private industry[/color]]
 
-**5. “Are you all INSANE? This will drain the coffers of the State!” argues @@RANDOMNAME@@, of the @@NAME@@ Funds Disbursement Council. “If the wealth of the people is wasted on a bloated and inefficient health service, the nation will be detrimented. The government should investigate the motives of these troublemaking ‘protesters’, instead!” [[color=red]Must not have private industry[/color]]
+**5. "Are you all INSANE? This will drain the coffers of the State!" argues @@RANDOMNAME@@, of the @@NAME@@ Funds Disbursement Council. "If the wealth of the people is wasted on a bloated and inefficient health service, the nation will be detrimented. The government should investigate the motives of these troublemaking ‘protesters', instead!" [[color=red]Must not have private industry[/color]]
 
-***6. “Why do we have to choose either radical option?” asks Senior Party Representative @@RANDOMNAME@@. “Couldn’t we just provide very limited basic healthcare for the majority of our citizens and have more comprehensive care as a perk from advancing within the Communist Party hierarchy? It would be more affordable, and all would aspire to better themselves.” [[color=red]Must not have private industry[/color]]
+***6. "Why do we have to choose either radical option?" asks Senior Party Representative @@RANDOMNAME@@. "Couldn't we just provide very limited basic healthcare for the majority of our citizens and have more comprehensive care as a perk from advancing within the Communist Party hierarchy? It would be more affordable, and all would aspire to better themselves." [[color=red]Must not have private industry[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=049]#[/anchor][anchor=49]49[/anchor]: Diving For @@CURRENCYPLURAL@@ [Nogero; ed:Reploid Productions][/b]

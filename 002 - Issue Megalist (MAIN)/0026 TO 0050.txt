@@ -80,11 +80,13 @@ A small religious group is lobbying the government to allow them to take multipl
 The Debate
 1. "It's about time we had our religious rights recognized," says @@RANDOMNAME@@, a devout member of a faith that is never made quite clear. "Who is the government to tell me I can't love more than one woman? The government doesn't know how much of me there is to go around!"
 
-2. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says Reverend @@RANDOMNAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned."
+*2. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says Reverend @@RANDOMNAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned."
 
-*3. "Multiple wives? Excellent!" says passer-by @@RANDOMNAME@@. "Presumably we will allow multiple husbands, as well. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=blue]Must have Marriage Equality[/color]]
+**3. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says moral crusader Florin Armstrong. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned."
 
-*4. "Multiple wives? Excellent!" says passer-by @@RANDOMNAME@@. "Presumably we will allow multiple husbands, as well. And gay marriages, of course. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=red]Must not have Marriage Equality[/color], [color=red]Must have Heterosexuality?[/color]]
+**4. "Multiple wives? Excellent!" says passer-by @@RANDOMNAME@@. "Presumably we will allow multiple husbands, as well. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=blue]Must have Marriage Equality[/color]]
+
+**5. "Multiple wives? Excellent!" says passer-by @@RANDOMNAME@@. "Presumably we will allow multiple husbands, as well. And gay marriages, of course. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=red]Must not have Marriage Equality[/color], [color=red]Must have Heterosexuality?[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=033]#[/anchor][anchor=33]33[/anchor]: Genetics Brings New Life to Extinct Species [Badger Lozzate][/b]

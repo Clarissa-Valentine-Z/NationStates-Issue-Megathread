@@ -1,7 +1,7 @@
 [b][anchor=1460]#1460[/anchor]: A Burning Question [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
-Burpbarry, a well-known @@DEMONYMADJECTIVE@@ luxury outerwear brand, has declared that they have incinerated 15 million bits worth of stockpiled surplus clothing.
+Burpbarry, a well-known @@DEMONYMADJECTIVE@@ luxury outerwear brand, has declared that they have incinerated 15 million @@CURRENCYPLURAL@@ worth of stockpiled surplus clothing.
 
 The Debate
 1. "I can't believe these people set fire to a heap of perfectly serviceable clothing, while I don't even have a plain shirt to wear," wails @@RANDOMNAME@@, the beggar who often hangs out in front of your residence, clasping the newspaper around @@HIS/HER@@ shoulders more firmly. "This is such an atrocious waste of resources. Manufacturers should be made to donate their surplus goods to charity for unfortunate folks like me, not destroy them!"
@@ -32,7 +32,7 @@ The Issue
 @@REGION@@ gave cheer last night after infamous terrorist leader @@RANDOMNAME@@ was assassinated in a surprise raid by the elite @@ANIMAL@@ Team 5. However, jubilation quickly turned to controversy when one of the soldiers claimed personal responsibility for the assassination, forgoing the unit's traditional "code of silence".
 
 The Debate
-1. "What can I say? It's just the doggone plain truth!" bellows Sergeant @@RANDOMNAME_1@@, the offending soldier in question, as @@HE/SHE_1@@ props @@HIS/HER_1@@ boots on your desk. "You can see it all on the body cam footage, so it's not like anyone can say I'm lyin'. Already got some United Federation suits looking to make a movie, some dork wants to write my biography, the VIP party invites are rolling in — I earned all of this. Y'all can't take that away cause some limp-wrists say it's 'disrespectful' or 'attention hogging'. Besides, it's good for @@NAME@@ too! Once my story becomes a blockbuster, nobody's going to question our military might. So how about you just give me a medal for a job well done?"
+1. "What can I say? It's just the doggone plain truth!" bellows Sergeant @@RANDOMNAME_1@@, the offending soldier in question, as @@HE/SHE_1@@ props @@HIS/HER_1@@ boots on your desk. "You can see it all on the body cam footage, so it's not like anyone can say I'm lyin'. Already got some United Federation suits looking to make a movie, some dork wants to write my biography, the VIP party invites are rolling in — I [i]earned[/i] all of this. Y'all can't take that away cause some limp-wrists say it's 'disrespectful' or 'attention hogging'. Besides, it's good for @@NAME@@ too! Once my story becomes a blockbuster, nobody's going to question our military might. So how about you just give me a medal for a job well done?"
 
 2. "Etiquette exists for a reason, @@LEADER@@," retorts General @@RANDOMNAME@@ as @@HE/SHE@@ readjusts your lapel pin. "Even though Sergeant @@RANDOMLASTNAME_1@@ took the final shot, that mission was a team effort. When you start snubbing that core belief, you end up making soldiers of fortune, not members of the @@DEMONYMADJECTIVE@@ armed forces. Oh sure, it's all fun and parties today. But then they start disobeying orders, thinking they know best. Then they start going rogue. Next thing you know, Blackacre slips some @@CURRENCYPLURAL@@ under the table, and our whole army is goose-stepping down @@CAPITAL@@ to a different tune! We should discharge @@RANDOMLASTNAME_1@@ for unmilitary-like conduct and stand firm behind our behavior policies."
 
@@ -47,11 +47,11 @@ A small island has vanished into the sea, farmland was flooded when a river burs
 The Debate
 1. "We can't stop the modernisation of @@NAME@@," states Matthew Mountsermon, your Minister of Residential Construction on Aggregates. "These materials are the literal foundation of our economy! If you want buildings and infrastructure, you need sand! Glass, computer chips... sand! Did you know it takes 30,000 tonnes of sand to build just one kilometre of a motorway? Avoiding flooding just takes a little planning, and maybe some concrete barriers. Nothing should hinder the development of @@NAME@@!"
 
-2. "Our addiction to sand is staggering," declares Preeti Summers, your Environment Minister, as she tries to prove how easy it is to reuse everyday objects by cleaning her fingernails with a paper clip. "At first they extracted it from quarries, but when those ran out, they took sand from beaches, then islands, now they're dredging the seabed. The construction industry needs to be stopped in its tracks. Who needs that much concrete anyway?"
+2. "Our addiction to sand is staggering," declares @@RANDOMNAME@@, your Environment Minister, as @@HE@@ tries to prove how easy it is to reuse everyday objects by cleaning @@HIS@@ fingernails with a paper clip. "At first they extracted it from quarries, but when those ran out, they took sand from beaches, then islands, now they're dredging the seabed. The construction industry needs to be stopped in its tracks. Who needs that much concrete anyway?"
 
-3. "I've got an alternative," muses passing manual labourer Yulha Campbell, hefting a heavy iron mallet. "Need more sand and gravel? We can make it. Just smash up rocks from hills and mountains. Bash ‘em into pieces! Hammers! Bombs! Giant stompy robots! Wheeeee!" He demonstrates by smashing a marble bust of your predecessor.
+3. "I've got an alternative," muses passing manual labourer @@RANDOMNAME@@, hefting a heavy iron mallet. "Need more sand and gravel? We can make it. Just smash up rocks from hills and mountains. Bash ‘em into pieces! Hammers! Bombs! Giant stompy robots! Wheeeee!" He demonstrates by smashing a marble bust of your predecessor.
 
-4. "You know where there's a lot of sand? The desert!" exclaims Damien Holst, one of your science advisers, as he stretches some kind of Day-Glo gunk. "True, desert sand is too fine and we haven't found a way to bond it together yet, but I'm sure if we give it a go, and give it lots of determination and government funding... Yes, we'll find a way!"
+4. "You know where there's a lot of sand? The desert!" exclaims @@RANDOMNAME@@, one of your science advisers, as @@HE@@ stretches some kind of Day-Glo gunk. "True, desert sand is too fine and we haven't found a way to bond it together yet, but I'm sure if we give it a go, and give it lots of determination and government funding... Yes, we'll find a way!"
 
 --------------------------------------------------------------
 [b][anchor=1464]#1464[/anchor]: Gentry Genes Getting Grim [Ostrov Svobody; ed: Candlewhisper Archive][/b]
@@ -62,7 +62,7 @@ Duke Geoffrey Bannister, a 13-year-old scion visiting from the ancient nation of
 The Debate
 1. "The things we do for love," complains @@DEMONYMADJECTIVE@@ noble James Bannister, who is an indeterminate relative of the young duke, and has just returned from an arduous and prolonged trek to drop the young horror back home. "My uh... 'nephew' is a special case. But you can't always blame genes! I mean, his mother is a fine figure of a woman. A fine, fine figure. There have always been occasional bad eggs, but breeding true has benefits too. We have to think about our dynastic security and continuation of stable government! If anything, we ought to be quashing this seditious talk about inbreeding and bad genes, and instead require that noble blood is never diluted with the common classes. We are their social betters!"
 
-2. "I love my dearest @@RANDOMFEMALEFIRSTNAME@@; we'd play together at Uncle's estate when we were growing up, and that gives us a bond beyond our blood," chuffs Lord @@RANDOMMALENAME@@, his dangling jeweled chains hypnotically bouncing off of his pendulous gut. "But maybe we could keep the gene pool diverse and playtime interesting by adding two — or ten — consorts from the middle classes into the mix, and legitimising the bastard offspring by default. Healthy children, and more fun for everyone! Come to papa!"
+[2]. "I love my dearest @@RANDOMFEMALEFIRSTNAME@@; we'd play together at Uncle's estate when we were growing up, and that gives us a bond beyond our blood," chuffs Lord @@RANDOMMALENAME@@, his dangling jeweled chains hypnotically bouncing off of his pendulous gut. "But maybe we could keep the gene pool diverse and playtime interesting by adding two — or ten — consorts from the middle classes into the mix, and legitimising the bastard offspring by default. Healthy children, and more fun for everyone! Come to papa!" [[color=red]Must ban Adultery?[/color]]
 
 3. "Widening the gene pool is sensible, but we can maintain some decorum while doing so, and perhaps also accrue some political advantage," muses noble matriarch Helena Tyrone, smiling slyly at you. "I wonder if perhaps a small group of powerbrokers, led by yourself, could arrange matches between our nation's nobles and suitable men and women of power from across the world. Young folk should offer love to and breed with who we tell them to, don't you think, my dear?"
 
@@ -72,10 +72,10 @@ The Debate
 [b][anchor=1465]#1465[/anchor]: Parking Pandemonium [Authoritaria-Imperia; ed: Electrum][/b]
 
 The Issue
-A mall in Kyiv recently introduced women's parking spaces that feature extra width and better safety through improved lighting. Celebrity podcaster and influencer Schmoe Logan recently had his car towed for using one of these spaces, and is bringing the spots into the spotlight.
+A mall in @@CAPITAL@@ recently introduced women's parking spaces that feature extra width and better safety through improved lighting. Celebrity podcaster and influencer @@RANDOMFEMALENAME@@ recently had his car towed for using one of these spaces, and is bringing the spots into the spotlight.
 
 The Debate
-1. "These gendered parking spaces are discriminatory and they must be banned," says Logan in his podcast, always seemingly a few words away from being dropped by his sponsors. "There were no places left! What was I meant to do? It's not like parking lots are dangerous places. Man, this incident really makes you think about sexism. Anyways, this week's show is brought to you by the Jock Club, where for a few rubles a month, you will receive a curated selection of underwear..."
+1. "These gendered parking spaces are discriminatory and they must be banned," says @@RANDOMFEMALELASTNAME@@ in @@HIS@@ podcast, always seemingly a few words away from being dropped by @@HIS@@ sponsors. "There were no places left! What was I meant to do? It's not like parking lots are dangerous places. Man, this incident really makes you think about sexism. Anyways, this week's show is brought to you by the Jock Club, where for a few rubles a month, you will receive a curated selection of underwear..."
 
 2. "This mall's initiative is simply giving a traditionally masculine space a woman's touch," interjects Minister of Safety Birgitta Serling, while she turns off the podcast and starts capping all of your pointiest pens. "In fact, we should roll out a nationwide quota of non-masculine parking spaces. It will make it so much easier to park and will do wonders for assault rates! By bringing them down, I mean..."
 
@@ -122,9 +122,9 @@ The Issue
 The nation's strict animal welfare regulations for slaughter are up for debate, as the Order of Violet lobbies for an exemption to allow ritualistic slaughter.
 
 The Debate
-1. "According to the Book of Violet, the Prophet Max, Chapter VII, 'Ye shall taketh thine animal and, reciting the Oath to Violet's Dread Divinity, ye shall inserteth a red-hot poker up yonder...' well, you can guess the rest," chuckles eccentric subdeacon Clement Garza. "Currently, our followers have to import their meat — at great expense — from more tolerant countries, or they're stuck eating vegetables. Do you know what Violet has to say about the preparation of asparagus?" He winces for dramatic effect. "Grant us an exemption to these discriminatory laws, and allow us to slaughter animals as the almighty Violet demanded."
+1. "According to the Book of Violet, the Prophet Max, Chapter VII, 'Ye shall taketh thine animal and, reciting the Oath to Violet's Dread Divinity, ye shall inserteth a red-hot poker up yonder...' well, you can guess the rest," chuckles eccentric subdeacon @@RANDOMNAME@@. "Currently, our followers have to import their meat — at great expense — from more tolerant countries, or they're stuck eating vegetables. Do you know what Violet has to say about the preparation of asparagus?" He winces for dramatic effect. "Grant us an exemption to these discriminatory laws, and allow us to slaughter animals as the almighty Violet demanded."
 
-2. "It's obvious how that one will end up," growls Indira Meier of the Hackett & Beatty Abattoir, gazing longingly at a room full of blunt instruments, chainsaws, and a particularly large stick with a rusty nail in it. "Restaurant buyers will just ask for Violetist-certified meat anyway, as they can serve that to anyone. Meanwhile, your average Joe Kill-Cow is stuck stunning and whatnot, and struggling to make a living. Rather than one-off exemptions for Violetists, trust butchers. Then we can remain competitive by finding cost-effective ways to operate and everyone will be happy. Well, except the animal-friendly lot, but they're too protein-deficient to make much of a fuss." She points a stun gun at a cow. "Daisy, I'm gonna make you an offer you can't refuse."
+2. "It's obvious how that one will end up," growls @@RANDOMFEMALENAME@@ of the Hackett & Beatty Abattoir, gazing longingly at a room full of blunt instruments, chainsaws, and a particularly large stick with a rusty nail in it. "Restaurant buyers will just ask for Violetist-certified meat anyway, as they can serve that to anyone. Meanwhile, your average Joe Kill-Cow is stuck stunning and whatnot, and struggling to make a living. Rather than one-off exemptions for Violetists, trust butchers. Then we can remain competitive by finding cost-effective ways to operate and everyone will be happy. Well, except the animal-friendly lot, but they're too protein-deficient to make much of a fuss." She points a stun gun at a cow. "Daisy, I'm gonna make you an offer you can't refuse."
 
 3. Miles Stewart, proponent of the 'Killing Through Kindness' method adopted by precisely zero abattoirs since last year's book tour, coughs quietly. "One life is worth as much as any other, and animals deserve to go in the same way we'd want to: in our own beds, surrounded by our loving family, with peaceful sitar music playing and incense sticks burning."
 
@@ -160,14 +160,14 @@ The Debate
 [b][anchor=1471]#1471[/anchor]: @@LEADER@@ and the Lost Chamber of Vetoes [Daarwyrth; ed: Verdant Haven][/b]
 
 The Issue
-The hall that once hosted the legislature's now-defunct upper house sits forlornly in the parliamentary building in Xirroni, collecting dust, attracting vermin, and sheltering angsty aides seeking to evade their boss' supervision. Given the importance the chamber once held, competing interests have been trying to claim it for their own purposes.
+The hall that once hosted the legislature's now-defunct upper house sits forlornly in the parliamentary building in @@CAPITAL@@, collecting dust, attracting vermin, and sheltering angsty aides seeking to evade their boss' supervision. Given the importance the chamber once held, competing interests have been trying to claim it for their own purposes.
 
 The Debate
 1. "A museum is the most logical choice," notes your advisor @@RANDOMNAME@@, standing before the door to the hall, while slurping a little too loudly on an iced coffee. "It could become a place where we'd celebrate and share our nation's history of democracy. Early drafts of our constitution on display, a big statue of yourself of course, and you can have the former members give tours to the public!"
 
-2. "A museum is for old farts who dwell in the bog of history, darling!" tuts passing parliamentarian @@RANDOMNAME@@. "It's time we introduced some haute cuisine into this tasteless den of stale sandwiches and withered salads to woo foreign ambassadors! Imagine fountains spraying caviar, langoustines waiting to pop out of their shells into our salivating mouths, delectable truffles sprinkled on top of the finest dishes. Make this hall splendid again!"
+*2. "A museum is for old farts who dwell in the bog of history, darling!" tuts passing parliamentarian @@RANDOMNAME@@. "It's time we introduced some haute cuisine into this tasteless den of stale sandwiches and withered salads to woo foreign ambassadors! Imagine fountains spraying caviar, langoustines waiting to pop out of their shells into our salivating mouths, delectable truffles sprinkled on top of the finest dishes. Make this hall splendid again!" [[color=blue]Must not have Compulsory Vegetarianism[/color]]
 
-3. TBD
+*3. A museum is for old farts who dwell in the bog of history, darling!" tuts passing parliamentarian Oprah Lovegood. "It's time we introduced some haute cuisine into this tasteless den of thin soups and withered salads to woo foreign ambassadors! Imagine rare spices garnishing grilled portobello, slices of chevre floating in pomegranate sauce bursting with flavor, delectable truffles sprinkled on top of the finest dishes. Make this hall splendid again!" [[color=red]Must have Compulsory Vegetarianism[/color]]
 
 4. "Uh, hey, uhm... c-could we think about the l-little folk for once?" stammers an overworked aide, emerging from a silent corner of the hall. "W-we really could use a moment to ourselves at times. S-some peace and quiet. M-maybe we could put a break room in here, with a little Zen garden? You know, f-for us to meditate and de-stress? That would be nice..."
 
@@ -182,7 +182,7 @@ Recent studies have concluded that the indoor air quality in @@DEMONYMADJECTIVE@
 The Debate
 *1. "There's a simple solution to this!" declares @@RANDOMNAME@@, CEO of the trendy tech startup Vaporware LLC. "Our smart air purifiers will clean all those pesky particulates out of your homes and workplaces, and they even come with a bright LED display that glows one of 500 different colors to tell the user exactly what the machine's doing. Just sign here and my company will sell you enough air purifiers to put those bad boys in every building in @@NAME@@!" [[color=blue]Must be Capitalist[/color]]
 
-*2. [[color=red]Must be Socialist[/color]]
+*2. "There's a simple solution to this!" declares @@RANDOMNAME@@, your ambitious Minister of Flashy Technology. "We've been experimenting with smart air purifiers that will clean all those pesky particulates out of your homes and workplaces, and they even come with a bright LED display that glows one of 500 different shades of red to tell the user exactly what the machine's doing. Just build us a new factory where we can mass-produce them, and we'll put those bad boys in every building in @@NAME@@!" [[color=red]Must be Socialist[/color]]
 
 3. "There's no need to blow through money like that," snuffles your runny-nosed Minister of Safety, still clutching the tissue box that @@HE/SHE@@ has been carrying all morning. "Many indoor air pollutants come from the organic compounds found in building materials, paint, and cleaning products. If we restrict the use of these chemicals, we'll tackle the root of the problem, and we won't have to worry about biting off more than we can a-a-CHEW!"
 
@@ -210,7 +210,7 @@ The Issue
 A morning meeting with some of your ministers is just starting when your sister bursts into the room and into an angry complaint about how, when her family went out to dinner at a fashionable new Tiquitacan restaurant yesterday evening, her young daughter was brought to tears by finding guinea pig on the menu.
 
 The Debate
-1. "At first she was delighted to see that they had a pen of guinea pigs, which she thought was a petting zoo, until one of the waiters explained that those animals — which his people call cuy — were actually there so that diners could choose which ones they wanted to eat. She was still crying right up until she finally went to sleep that night. It shouldn't be allowed! Some kinds of animals are food but some kinds are just pets instead, at least in civilized countries like ours, and the law should make it clear which are which."
+1. "At first she was delighted to see that they had a pen of guinea pigs, which she thought was a petting zoo, until one of the waiters explained that those animals — which his people call [i]cuy[/i] — were actually there so that diners could choose which ones they wanted to eat. She was still crying right up until she finally went to sleep that night. It shouldn't be allowed! Some kinds of animals are food but some kinds are just pets instead, at least in civilized countries like ours, and the law should make it clear which are which."
 
 2. "But the guinea pig has always been an important meat animal for the Tiquitacans, and it's really tasty too. I remember that from when I was posted at our embassy there," remarks @@RANDOMNAME@@, your Foreign Minister, salivating slightly. "Not only should we continue to allow the use of guinea pigs as meat, but there are so many other foreign delicacies that we should encourage restaurants and shops here to stock as well: Skandilund's reindeer hind cutlets with eyeball sauce, for example, or Tasmanian fermented platypus eggs. Yum!"
 
@@ -225,7 +225,7 @@ Your re-election campaign has been thrust into the headlines due to adult film s
 The Debate
 1. "That's a great ass... uh, asset!" assesses your brother, fingering through an assortment of Gratwick's films. "You should flaunt the association all over the place and assert your dominance over the competition! Ask for her assistance at every assembly. The moralists may assail you for it, but rest assured, you don't need their assent to get over the hump. Tell them to shove off and assimilate into the modern world."
 
-2. "Screw her!" shouts your self-appointed morals counselor, Prue Dish, confiscating your brother's movies while he is busy cheering. "Gratwick is a disgusting, disgraceful deviant! Those are the triple Ds of her profession. You can't possibly get into bed with people like her! Listen to Prudence: denounce her. Reassure the public that you've never even heard of those demeaning films -- you haven't, have you -- and send demure surrogates to represent you. That prim actress who's been in the soap Hard Days on Easy Street for fifty years just loves you."
+2. "Screw her!" shouts your self-appointed morals counselor, Prue Dish, confiscating your brother's movies while he is busy cheering. "Gratwick is a disgusting, disgraceful deviant! Those are the triple Ds of her profession. You can't possibly get into bed with people like her! Listen to Prudence: denounce her. Reassure the public that you've never even heard of those demeaning films -- you haven't, have you -- and send demure surrogates to represent you. That prim actress who's been in the soap [i]Hard Days on Easy Street[/i] for fifty years just loves you."
 
 3. "She's a good one, but you should always play it safe and see how it works," suggests your campaign manager, Thaddeus Kapoor, who seems to carry an infinite supply of latex. "Don't say anything about Gratwick's endorsement. If it's mentioned, obfuscate; maybe bring up that obscure novelist who wrote you that intimate letter. Then, send her as a surrogate to events where it might be useful. It's all about saying the right things to the right people, you know."
 
@@ -245,10 +245,46 @@ The Debate
 3. "Information wants to be free!" groans the lone bureaucrat of your emaciated Ministry for State Security, emerging from the filing cabinet which is also her office. "Criminals and crime are everywhere in our country, but you wouldn't know that because we're not allowed to investigate them. Aren't you afraid, @@LEADER@@? We fear what we do not know, and that is why we must be allowed to know everything! For our safety, instead of buying information from those smug Brancalanders, repeal these dangerous privacy laws that keep us from getting it ourselves."
 
 --------------------------------------------------------------
-[b][anchor=1477]#1477[/anchor]: TBD[/b]
+[b][anchor=1477]#1477[/anchor]: Some People Never Listen [Terrabod; ed: Candlewhisper Archive][/b]
+
+The Issue
+Two senior officials caught having affairs, five separate expenses scandals and the leaking of top-secret plans for the Cabinet Secretary's birthday party is usually more than enough to cover in one public announcement. You were therefore surprised to find that another issue altogether has caught the public's attention: activists representing the nation's deaf and hearing-impaired communities have taken you to task over the lack of a Minskievian Sign Language interpreter at your public addresses.
+
+The Debate
+1. "Being deaf doesn't have to be an impairment, so don't make it one," signs activist Finnick Smiley, adding a few more vulgar hand gestures that you are sure aren't official sign language. "Having an interpreter is the least you could do. Deaf people in Minskiev are subject to a harmful mix of preconceptions and ignorance, so it's about time you listened to us. Perhaps you could also establish a national ‘Deaf Awareness Week' to celebrate the contributions deaf people have made to society, and to persuade organisations and individuals to bear us in mind."
+
+2. "I'm not paying for [i]that![/i]" scoffs your Minister of Equality, facing away from the activist to deter lip reading. "I watched an address by the leader of Albionia last month and was thoroughly distracted by a man waving his hands about and pulling faces behind her. She may not have died on stage, but it was a near-deaf experience! If these deaf people really want to know what's going on, they can watch us on the television and just turn the subtitles on. Automatic closed captioning is getting really good these days, and preserves the dignity of your excellent oratory."
+
+3. "Speaking to the public is overrated, and clearly a waste of your valuable time," your crusty Minister of Public Relations whispers, his dry lips all but brushing against your ear. "As long as you do the job well, the people of Minskiev won't care what goes on behind closed doors. And if things don't go to plan, well, won't you be glad you don't have to talk to them?"
 
 --------------------------------------------------------------
-[b][anchor=1478]#1478[/anchor]: TBD[/b]
+[b][anchor=1478]#1478[/anchor]: Two Sides of a Coin [The Ankhalic Vaspriot; ed: Verdant Haven][/b]
+
+The Issue
+Following the abolition of the nation's smallest denomination coin, the millions of unreleased pennies already minted with the next year's date were ordered to be melted down. Since then, a few of these pennies have periodically emerged in the collector market, where they command a tremendous price, having apparently been smuggled out of the mint by an unknown employee.
+
+The Debate
+*1. "Unissued coins are government property, and the mere act of possessing them is a crime!" proclaims mint superintendent Nellie Deal, binder in hand. "Those coins should be seized for destruction in compliance with the original order, and the full force of law should be brought against everybody involved in this blatant criminal enterprise." Opening the binder to show a listing of auction records, she points to a particular sale. "I think I know where to start." [[color=blue]Must not have Socialism / Must have Capitalism[/color]]
+
+*2. "Unissued coins are government property, and the mere act of possessing them is a crime!" proclaims mint superintendent Nellie Deal, binder in hand. "Those coins should be seized for destruction in accordance with the original order, and the full force of law should be brought against everybody involved in this blatant criminal enterprise." She shuffles through the binder and withdraws an intelligence report detailing a black-market coin sale. "I think I know where to start." [[color=red]Must have Socialism / Must not have Capitalism[/color]]
+
+3. Museum donor Isaiah Swift-Longboard makes his way to your desk, carrying a long box. "Seize the coins and prosecute the criminals, yes, but destroying the few remaining pennies would make no cents! These coins survived against the odds, and should be placed in museums alongside @@NAME@@'s other numismatic artifacts." He opens the box to reveal a dozen slight variants of a similar coin, encapsulated in plastic slabs and differing only by date. "Aren't they so interesting?"
+
+4. "You can't just take these away!" howls shoe designer and coin collector Farouk Whiteman, clutching a penny in his hand. "A functionary at the local licensing office put an approval stamp on the auctioneer's filing paperwork, so that means the government approved the sale. I had no idea it was stolen!" Sliding a grainy photocopy of the alleged document across the table, he continues. "See this? If you go back on your word and seize it now, that would be like a second theft!" [[color=blue]Must not have Socialism / Must have Capitalism[/color]]
+
+5. "You can't just take these away!" howls shoe designer and coin collector Farouk Whiteman, clutching a penny in his hand. "An employee at the very real and definitely not shady place I got it showed me a government receipt with an approval stamp from the Deputy Secretary of Rationing's wife's brother's son who works in the local administrative office, so that means the government approved the sale. I had no idea it was stolen!" Sliding a grainy photocopy of the alleged document across the table, he continues. "See this? If you go back on your word and seize it now, that would be like a second theft!" [[color=red]Must have Socialism / Must not have Capitalism[/color]]
 
 --------------------------------------------------------------
-[b][anchor=1479]#1479[/anchor]: TBD[/b]
+[b][anchor=1479]#1479[/anchor]: Fares Fair? [Paffnia; ed: USS Monitor][/b]
+
+The Issue
+A recent audit of transit systems across @@NAME@@ revealed more cobwebs than coins in ticket vending machines, even though trains, buses, and ferries are as crowded as ever. Worried about rising numbers of fare evaders and the resulting decline in revenue, your Minister of Transportation urges you to take action — starting by going down into the local subway and seeing the problem for yourself.
+
+The Debate
+1. "The trains are barely running!" laments a subway driver, leaning out the window as the train releases a worrisome hiss. "I got stuck in the tunnel for an hour yesterday because of a faulty electrical line, but the higher-ups say there's not enough money to fix it. To get transit budgets back on track, we need to raise ticket prices until we have enough to cover the full cost of keeping systems in operation. Sure, some people still won't pay, but with the extra money from riders who do, this ol' train could finally get a tune-up."
+
+2. "Like fares aren't already a rip off!" yells a teenager who was just arrested for attempting to jump over a fare gate. "Transit should be free! Everyone has the right to get where they need to go — rich people, poor people, people like me who, uh... left their transit pass at home. You have some tax money lying around to cover free fares, right?"
+
+3. "If you can't pay the fare, don't ride the train," retorts police officer @@RANDOMNAME@@ as @@HE@@ handcuffs the teen. "What we really need is more cops on the system to make sure everyone pays. Not only will it ensure steady fare revenue, but the trains will be safer too. To stop scofflaws like this one, we've also gotta get new security cameras, impregnable fare gates, heftier fines for fare-evading, and — hey, get back here!"
+
+4. "It's not about the quantity of tickets you sell, but quality," sneers Mr. Ron Opoly, a tycoon who owns all four railroads in a nearby coastal resort city. "It is only proper that the upper crust should travel in a manner befitting our wealth and status. My peers and I could be convinced to leave our limos if you added luxury train cars to subways, first-class reclining seats to buses, and private cabins to ferries. Those of us who like to travel in style will gladly pay more for a more refined transit experience, and our premium tickets will easily keep your budget afloat. The rest of the teeming masses can pack into steerage like they always have."

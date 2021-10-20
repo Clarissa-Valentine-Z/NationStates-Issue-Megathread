@@ -94,7 +94,7 @@ The Issue
 Anarchists have been covertly putting up anti-government posters all over @@NAME@@. Some of your closest advisors have suggested the implementation of a secret police force to deal with the more... difficult members of society.
 
 The Debate
-1. "Sometimes a government has got to deal with something without having to go through the 'proper channels'," says ‘@@RANDOMFIRSTNAME@@', who does not exist within any government records. "It happens sometimes and we have to deal with it. It's not just anarchists either - it's the terrorists, the criminals, the traitors, and the goddamn hippies. With a secret police we can arrest the troublemakers and torture them to find other dissenters without having to worry about fiddly matters like human rights."
+1. "Sometimes a government has got to deal with something without having to go through the 'proper channels'," says '@@RANDOMFIRSTNAME@@', who does not exist within any government records. "It happens sometimes and we have to deal with it. It's not just anarchists either - it's the terrorists, the criminals, the traitors, and the goddamn hippies. With a secret police we can arrest the troublemakers and torture them to find other dissenters without having to worry about fiddly matters like human rights."
 
 2. "Don't listen to that idiot!" whispers @@RANDOMNAME@@, one of your more guilt-ridden henchpersons. "I don't know how you feel about this but I think this would be a bad path for our government to go down. @@NAME@@ shouldn't resort to deceit and off-the-record brutality to put away people. A secret police force would ruin our fine nation. It's time our government was candid with its people and let them say what they want!"
 
@@ -369,7 +369,7 @@ The Debate
 
 2. "'Reasonable?' Since when have companies ever been 'reasonable' when it comes to money?" questions @@RANDOMNAME@@, president of the @@NAME@@ Socialist Alliance. "The government should increase taxes and guarantee a living wage so everybody, no matter what job they have, can have access to food, water, and other basic needs. If everyone has the money needed to survive then things like the economy should take care of themselves. Stands to reason. But what you should be asking yourself is this: what's more important, individuals or corporations?"
 
-3. "We don't need any of these stupid communistic welfare policies," says @@RANDOMNAME@@, millionaire CEO and star of reality TV show ‘You're Fired!' "Living wages are unworkable! If you make workers expensive, then employers are just going to use fewer or lose profits. They should be grateful for a job, and if they don't want to work, we should be able to boot them out and hire someone else, no questions asked. Hey, it's not that I'm not compassionate. I'm the most compassionate person you'll ever meet. The most!"
+3. "We don't need any of these stupid communistic welfare policies," says @@RANDOMNAME@@, millionaire CEO and star of reality TV show 'You're Fired!' "Living wages are unworkable! If you make workers expensive, then employers are just going to use fewer or lose profits. They should be grateful for a job, and if they don't want to work, we should be able to boot them out and hire someone else, no questions asked. Hey, it's not that I'm not compassionate. I'm the most compassionate person you'll ever meet. The most!"
 
 4. "I agree, and honestly it's a detriment to this nation's businesses that we even have to PAY them wages," extrapolates corporate executive John Nike. "If slavery was legal, I think we'd find the nation's economy improving somewhat."
 

@@ -67,10 +67,10 @@ The Debate
 3. "Hey, who's the doctor, er, nurse here?" bellows Nurse @@RANDOMNAME@@, whose head mirror is both upside down and facing the wrong way. "Emergency medical staff are the only ones who know what's what when it comes to these situations. I'm so sick and tired of amateurs blazing in, failing at cowboy techniques they picked up from some Whotube-channel and doing more damage than good. Laymen shouldn't be allowed to meddle; what we need are organized health patrols with uniformed EMTs on the beat, just like cops. That way, when there's an emergency, people who really know their stuff will be there to help."
 
 -----------------------------------------------------------------------------
-[b][anchor=565]#565[/anchor]: ‘A' Is For Academic Doping [Golgothastan; ed: Nation of Quebec][/b]
+[b][anchor=565]#565[/anchor]: 'A' Is For Academic Doping [Golgothastan; ed: Nation of Quebec][/b]
 
 The Issue
-The problem of ‘academic doping' has reared its head after a group of students were caught taking ‘smart' drugs ahead of high school exam season. An alliance of concerned educators, anti-drug crusaders, and C-grade students have demanded an end to this practice to make sure that @@NAME@@'s youth don't become a generation of cheaters.
+The problem of 'academic doping' has reared its head after a group of students were caught taking 'smart' drugs ahead of high school exam season. An alliance of concerned educators, anti-drug crusaders, and C-grade students have demanded an end to this practice to make sure that @@NAME@@'s youth don't become a generation of cheaters.
 
 The Debate
 1. "These students are doping themselves up to the gills in the hope it'll improve their academic performance," explains Student Union Vice-President for Welfare @@RANDOMNAME@@, while hurriedly trying to finish an assignment. "However noble their intentions, the reality is that they're abusing drugs. We need the government to fund an education and outreach program, warning of the dangers and offering counselling and therapy. Outreach and therapy will solve this problem more than blunt law enforcement ever will."
@@ -96,13 +96,13 @@ The Debate
 
 2. "You know the real reason we have so many unpaid tickets? They are already too damn expensive!" fumes @@RANDOMNAME@@, one of the city's poorest citizens. "How can someone who barely makes enough to eat possibly pay for a parking ticket? One ticket sets me back half a month and a rich guy only a minute. Tickets have to be proportional to people's income. Then the punishment would actually fit the crime."
 
-3. "How about we, the citizens of @@NAME@@, finally get a break for once?" complains @@RANDOMNAME@@ while parking in a public fountain and splashing everyone nearby, yourself included. "It's not fair to make my kids wait five minutes just to find an ‘acceptable' place to park. Let's just get rid of all of these silly tickets once and for all. After all, who's to say where is or isn't a logical place to park?"
+3. "How about we, the citizens of @@NAME@@, finally get a break for once?" complains @@RANDOMNAME@@ while parking in a public fountain and splashing everyone nearby, yourself included. "It's not fair to make my kids wait five minutes just to find an 'acceptable' place to park. Let's just get rid of all of these silly tickets once and for all. After all, who's to say where is or isn't a logical place to park?"
 
 -----------------------------------------------------------------------------
 [b][anchor=567]#567[/anchor]: Syntax Destruction [Drasnia; ed: Candlewhisper Archive][/b]
 
 The Issue
-Your Minister for the Treasury, Allen Redbridge, has come under fire as market analysts and journalists complain that his predictions about the future of @@NAME@@'s economy are vague to the point of uselessness. His detractors are dubbing his avoidance of clear statements ‘Syntax Destruction': the presentation of extremely long and obfuscated reports that have little real content.
+Your Minister for the Treasury, Allen Redbridge, has come under fire as market analysts and journalists complain that his predictions about the future of @@NAME@@'s economy are vague to the point of uselessness. His detractors are dubbing his avoidance of clear statements 'Syntax Destruction': the presentation of extremely long and obfuscated reports that have little real content.
 
 The Debate
 1. "I shouldn't have to spend hours poring over reams of government documents for just one story!" complains @@RANDOMNAME@@, reporter for the @@DEMONYMADJECTIVE@@ Enquirer, slamming a large stack of papers onto your desk. "Look at this! One thousand nine hundred eighty-four pages! What Minister Redbridge is doing is dishonest and despicable. You need to force him and those like him to use plain language and get to the point, so that the common people of @@NAME@@ will be able decipher what's going on in the government."
@@ -152,7 +152,7 @@ The Issue
 As the General Synod of @@FAITH@@ gathers in @@CAPITAL@@ for its quinquennial meeting, a group of reformist delegates has proposed an ordinance that would allow both men and women to serve as clerics. The proposal has significant support among @@FAITH@@'s more progressive adherents, but there is a strong opposition movement. The measure needs your backing if it is going to obtain the appropriate amount of support.
 
 The Debate
-1. "The times are changing, and @@FAITH@@ needs to change with them," remarks progressive reformist leader @@RANDOMMALENAME@@, bringing out a copy of the Sacred Scriptures. "The Almighty said, ‘Let us make human beings in our image and likeness.' And so they were created, male and female the Almighty created them." He turns his head up from the text and looks you right in the eyes. "We're all made equal, @@LEADER@@. That the clergy hierarchy has blocked change for so long is an injustice. We must insist that they permit ordination of both women and men. You know deep down in your soul that it's the right thing to do."
+1. "The times are changing, and @@FAITH@@ needs to change with them," remarks progressive reformist leader @@RANDOMMALENAME@@, bringing out a copy of the Sacred Scriptures. "The Almighty said, 'Let us make human beings in our image and likeness.' And so they were created, male and female the Almighty created them." He turns his head up from the text and looks you right in the eyes. "We're all made equal, @@LEADER@@. That the clergy hierarchy has blocked change for so long is an injustice. We must insist that they permit ordination of both women and men. You know deep down in your soul that it's the right thing to do."
 
 2. "The right thing to do, really?" rebuts @@RANDOMFEMALENAME@@, president of the Traditionalist League of @@FAITH@@. "For ages, our clergy has been just how it is now. This proposed change has nothing to do with doctrine and everything to do with the creep of secular values into @@FAITH@@." She takes a deep breath and continues. "Women and men, you see, were both created in the divine image and were created as equals, yes. But the Almighty made us for different, complementary roles. The sexes were not, are not, and never will be interchangeable, and @@FAITH@@ should acknowledge this eternal truth by rejecting this heretical proposal."
 
@@ -165,9 +165,9 @@ The Issue
 In a backwoods part of @@NAME@@, two neighboring families who have been feuding for generations are continuing to commit acts of violence upon each other. Members of the Caphill family killed a beloved friend of the MacDoogle family, "Ol' Man Jack", after a dispute over a farm @@ANIMAL@@. In response, a group of MacDoogles raided the Caphill household and killed the three men responsible for Ol' Man Jack's murder. The case of the Caphill-MacDoogle feud has gained national media attention, and there are calls for you to step in.
 
 The Debate
-1. "THEY DONE STARTED IT!" thunders Young Man Jack, waving a pitchfork menacingly toward the Caphills. "They killed my friend! Now, lookie here @@LEADER@@, we done did what we knew was right and avenged ‘im. So why don't you and the coppers just stay outta our affairs, ya hear?"
+1. "THEY DONE STARTED IT!" thunders Young Man Jack, waving a pitchfork menacingly toward the Caphills. "They killed my friend! Now, lookie here @@LEADER@@, we done did what we knew was right and avenged 'im. So why don't you and the coppers just stay outta our affairs, ya hear?"
 
-2. "Three of my boys are gone ‘cause of them. I thought I'd have their love till the end of my days, but it turns out there's no love in this story, just tragedy," weeps Anna Caphill, who has been alive for eighty years and has almost as many children. " @@LEADER@@, I demand you take in the ones responsible for this and hang ‘em high, just like the good ‘ol days."
+2. "Three of my boys are gone 'cause of them. I thought I'd have their love till the end of my days, but it turns out there's no love in this story, just tragedy," weeps Anna Caphill, who has been alive for eighty years and has almost as many children. " @@LEADER@@, I demand you take in the ones responsible for this and hang 'em high, just like the good 'ol days."
 
 3. "Now now, clearly the issue at hand goes back much further than this unfortunate incident," quips Dr. Laurence Friar, one of @@NAME@@'s top psychiatrists as he scribbles on his notepad. "There are decades of resentment and misunderstanding to be worked out. It is obvious that these slack-jawed yokels need some therapy and reeducation in order to be integrated back into civilized society. If they don't come willingly to their sessions, then the government can take their children away until they do. Give me some time, and some funding, and I'll transform these backwoods delinquents into model citizens in no time."
 
@@ -220,14 +220,14 @@ The Debate
 [b][anchor=575]#575[/anchor]: Sick Days For Sick Waves [Australian Republic; ed: Candlewhisper Archive][/b]
 
 The Issue
-At the height of an extremely hot summer along the @@DEMONYMADJECTIVE@@ coastline, many workers have taken multiple ‘sick days' to go to the beach and had the misfortune to run into their bosses, who have ‘taken work home' to their seaside properties. Your chief employment analyst has estimated that the economic damage of the good weather has been significant, though he says he'll get back to you on exact figures once he recovers from an unexpected bout of period cramps that are keeping him off work today.
+At the height of an extremely hot summer along the @@DEMONYMADJECTIVE@@ coastline, many workers have taken multiple 'sick days' to go to the beach and had the misfortune to run into their bosses, who have 'taken work home' to their seaside properties. Your chief employment analyst has estimated that the economic damage of the good weather has been significant, though he says he'll get back to you on exact figures once he recovers from an unexpected bout of period cramps that are keeping him off work today.
 
 The Debate
 *1. "We lost a whole summer!" says @@RANDOMMALENAME@@, your Minister of Productivity, while adjusting his swimming costume. "We can't just shut @@NAME@@ down whenever it's a bit too hot - our economy would go broke. Of course there's nothing wrong with bumming around the beach, but not while you're being paid... How about we allow companies, rather than employees, decide when somebody is sick enough to stay home from work. That'll put an end to their malingering tricks!" [[color=blue]Must have private industry[/color]]
 
 *2.  "We lost a whole summer!" says @@RANDOMMALENAME@@, your Minister of Productivity, while adjusting his swimming costume. "We can't just shut @@NAME@@ down whenever it's a bit too hot - our economy would go broke. Of course, there's nothing wrong with bumming around the beach, but not while you're being paid... How about we allow the government, rather than the people, decide when somebody is sick enough to stay home from work. That'll put an end to their malingering tricks!" [[color=red]Must not have private industry[/color]]
 
-3. "I'm not a bludger because I take a few sickies," complains @@RANDOMMALENAME@@, a surprisingly tanned data entry worker from his basement cubicle. "I mean cm'on, you can't ‘spect us to work on bloody scortcha! Maybe you could make all places of work close down when the weather is really good, then we can go to the beach and not worry ‘bout it. I mean, what's more important, a barbie and some beers with yer mates, or more bleedin' work?"
+3. "I'm not a bludger because I take a few sickies," complains @@RANDOMMALENAME@@, a surprisingly tanned data entry worker from his basement cubicle. "I mean cm'on, you can't 'spect us to work on bloody scortcha! Maybe you could make all places of work close down when the weather is really good, then we can go to the beach and not worry 'bout it. I mean, what's more important, a barbie and some beers with yer mates, or more bleedin' work?"
 
 4. "Why can't we just start working on beaches?" asks @@RANDOMFEMALENAME@@, a bikini-clad beach beauty who persuaded your doorman to let her into the meeting. "I mean let people take the papers and printers and stuff to the beach and do the work there! Pay people for the work they do, not the hours they are in the office. Flexible workplaces are more productive, so you should be subsidising and encouraging with appropriate legislation."
 

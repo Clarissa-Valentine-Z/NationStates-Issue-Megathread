@@ -99,7 +99,7 @@ The Issue
 In light of @@NAME@@'s ban on gambling, people ranging from angry homemakers to allegedly legitimate businessmen have been arguing incessantly about whether or not banning casinos was a good idea.
 
 The Debate
-1. "We are highly distressed at your decision to revoke our casino licences," says FamilyCorp. Representative ‘Fat Tony', sipping a glass of fine wine. "If the ban were to be revoked, think of all the money you could get from your cut of the profit. In addition, it would help ensure the safety of assorted members of @@NAME@@'s government. I think this is an offer that you should not refuse."
+1. "We are highly distressed at your decision to revoke our casino licences," says FamilyCorp. Representative 'Fat Tony', sipping a glass of fine wine. "If the ban were to be revoked, think of all the money you could get from your cut of the profit. In addition, it would help ensure the safety of assorted members of @@NAME@@'s government. I think this is an offer that you should not refuse."
 
 2. "These casinos cannot be allowed to reopen!" says @@RANDOMNAME@@, an ex-gambling addict. "Remember what happened last time? People get out of control and lose their life's savings! Just say no to these so-called legitimate businesses! And crack down on the rest of organized crime while you're at it."
 
@@ -129,7 +129,7 @@ Various opinions have been brought to your attention over what your closest advi
 The Debate
 1. "We've got to do something about this chaos!" yells General @@RANDOMNAME@@, firing a rifle at a band of armed looters. "There's no order in this country! No one is safe! We must rebuild the army and crack down on the militant groups ravaging our fair land! It's the only way we will ever return the cesspit of crime and depravity @@NAME@@ has become to a land of law and order!"
 
-2. Returning fire, both figuratively and literally, is @@RANDOMNAME@@, biker gang leader and anarchist: "That there's anyone claiming to be a government is ludicrous. People should be allowed to determine their own fate and survival without fear of breaking these inhibiting laws! All government officials should be removed at once, [i]and all government departments stripped of all funding[/i], if this country is ever to become well and truly ‘equal'!"
+2. Returning fire, both figuratively and literally, is @@RANDOMNAME@@, biker gang leader and anarchist: "That there's anyone claiming to be a government is ludicrous. People should be allowed to determine their own fate and survival without fear of breaking these inhibiting laws! All government officials should be removed at once, [i]and all government departments stripped of all funding[/i], if this country is ever to become well and truly 'equal'!"
 
 3. "I've got a different idea," says @@RANDOMNAME@@, your minister of commerce, speaking from his hiding place under a desk. "Television viewers in more developed countries actually like seeing gratuitous violence. We could put up cameras in some of the more dangerous streets and sell the broadcasting rights to foreign networks. It could raise awareness of our situation, or at the very least rake in some @@CURRENCYPLURAL@@. The money could be used to fund a more organised police system to enforce the law."
 

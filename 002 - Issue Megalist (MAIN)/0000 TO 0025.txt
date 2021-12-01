@@ -56,7 +56,9 @@ Big business, fed up with over-regulation in @@NAME@@, are heading offshore in e
 The Debate
 1. "Good riddance!" says noted environmentalist @@RANDOMNAME@@. "Sniff that air! It's never been so clean! At last, our society is freeing itself from the consumer death-trap! I say it's time to take the final step and outlaw capitalism once and for all!"
 
-2. "This is a catastrophe waiting to happen," says the Chamber of Commerce. "Think of the consequences! Without big business, where do the jobs come from? Where do we get our medicine? Our cars? Our latest fashions? There are dozens of useless regulations the government could abolish today to make life easier for commerce, and it's high time they did."
+*2. "This is a catastrophe waiting to happen," says the Chamber of Commerce. "Think of the consequences! Without big business, where do the jobs come from? Where do we get our medicine? Our cars? Our latest fashions? There are dozens of useless regulations the government could abolish today to make life easier for commerce, and it's high time they did." [[color=blue]Must not ban cars[/color]]
+
+*3. "This is a catastrophe waiting to happen," says the Chamber of Commerce. "Think of the consequences! Without big business, where do the jobs come from? Where do we get our medicine? Our electronics? Our latest fashions? There are dozens of useless regulations the government could abolish today to make life easier for commerce, and it's high time they did." [[color=red]Must ban cars[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=005]#[/anchor][anchor=5]5[/anchor]: Child Casino Shock[/b]

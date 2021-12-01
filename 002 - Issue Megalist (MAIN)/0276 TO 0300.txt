@@ -47,11 +47,13 @@ The Debate
 
 2. "Are you insane?" asks your Public Relations Coordinator "–er ahem, but think of the money! It would cost billions of @@CURRENCYPLURAL@@ to regrow and transplant that many brains. Mark my words, if you give them new brains, you'll have a coup on your hands for sending our economy into a tailspin. No. No. Absolutely not. We must," he leans in with a pained look, "ship these 'defectives' off to a secluded island somewhere, so we can forget they ever existed."
 
-3. An old man on the street who has been jabbing at you through the window with his cane chimes in, "The solution is plain as day you doddering fools! These vats must be closed immediately and the technology banned! They're unnatural abominations! You know how I came into this world? Kicking and screaming from the loins of my mother! The government must allow people to have sex again and give birth the way God intended!"
+3. TBD
 
-*4. "Oh no no no, we've invested too much money into the national vat system to throw it all away over one minor incident," stresses your Financial Minister @@RANDOMNAME@@. "Look at the situation from a resource standpoint. This batch of resources is damaged, so naturally, the most economical solution is to remove the damaged products, dispose of them, and recycle the functional parts back into the vats. We must reduce, reuse and recycle, @@LEADER@@, for the good of our national vats – and for the good of @@NAME@@, of course." [Validity TBD]
+4. An old man on the street who has been jabbing at you through the window with his cane chimes in, "The solution is plain as day you doddering fools! These vats must be closed immediately and the technology banned! They're unnatural abominations! You know how I came into this world? Kicking and screaming from the loins of my mother! The government must allow people to have sex again and give birth the way God intended!"
 
 *5. "Oh no no no, we've invested too much money into the national vat system to throw it all away over one minor incident," stresses your Financial Minister @@RANDOMNAME@@. "Look at the situation from a resource standpoint. This batch of resources is damaged, so naturally, the most economical solution is to remove the damaged products, dispose of them, and recycle the functional parts back into the vats. We must reduce, reuse and recycle, @@LEADER@@, for the good of our national vats – and for the good of @@NAME@@, of course." [Validity TBD]
+
+*6. "Oh no no no, we've invested too much money into the national vat system to throw it all away over one minor incident," stresses your Financial Minister @@RANDOMNAME@@. "Look at the situation from a resource standpoint. This batch of resources is damaged, so naturally, the most economical solution is to remove the damaged products, dispose of them, and recycle the functional parts back into the vats. We must reduce, reuse and recycle, @@LEADER@@, for the good of our national vats – and for the good of @@NAME@@, of course." [Validity TBD]
 
 -------------------------------------------------------------------------------
 [b][anchor=280]#280[/anchor]: Oh the Humanity! [Prevania; ed: Reploid Productions][/b]

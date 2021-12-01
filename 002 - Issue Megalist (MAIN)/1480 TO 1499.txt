@@ -100,7 +100,7 @@ The Issue:
 JACKPOT! It seemed impossible, it seemed unlikely, it seemed as if the odds would not favour you. Yet you, @@LEADER@@, are the lucky winner of a major cash prize from last night's national lottery, thanks to that lottery ticket your mother had gifted you for Maxxmas. Yet before you can even celebrate, you realize that your good fortune has made national headlines.
 
 The Debate:
-1. "@@LEADER@@ Wins Lottery: A Directed Stroke of Luck?" quotes Lottery Commissioner Otohime Jones, reading a newspaper headline with a heavy sigh. "The optics of this are just too damning. We're being absolutely overwhelmed with angry and accusatory complaints from every imaginable corner! Some of our employees have even been followed home by mobs carrying literal torches and pitchforks! Who even does that these days? I'm sorry, @@LEADER@@, but you'll have to let us declare this drawing void so that we can pick a new winning ticket. And from now on, government officials shouldn't be allowed to buy lottery tickets."
+1. "@@LEADER@@ Wins Lottery: A Directed Stroke of Luck?" quotes Lottery Commissioner @@RANDOMNAME@@, reading a newspaper headline with a heavy sigh. "The optics of this are just too damning. We're being absolutely overwhelmed with angry and accusatory complaints from every imaginable corner! Some of our employees have even been followed home by mobs carrying literal torches and pitchforks! Who even does that these days? I'm sorry, @@LEADER@@, but you'll have to let us declare this drawing void so that we can pick a new winning ticket. And from now on, government officials shouldn't be allowed to buy lottery tickets."
 
 2. "No, no, just wait a second," says your Chief of Staff, polishing up the mirror that reflects your image. "The optics are bad, but we can turn this into a significant popularity boost. Accept the prize with all due honours and fanfare, but declare that the entire sum will be donated to charity. The Wagger Dog Shelter, the Bryce Waine Orphanage, or heck, even the Out of Luck Gambler's Rehab Centre — take your pick! Just practice smiling through pain, and relinquishing your grip on the cheque beforehand. And hey, I'm pretty sure charitable contributions are tax deductible, which means that you could still profit if you were willing to engage in a little creative accountancy."
 
@@ -109,22 +109,88 @@ The Debate:
 4. One of your aides tackles your brother, liberating your luck from his grip. "Why not just do what any other @@DEMONYM@@ would do?" she asks with a sincere smile, handing you the slightly battered ticket. "Celebrate! Be happy! Go wild! I've seen you working day-in and day-out for the good of the people. This is your reward — go collect the prize, and start living the high life!"
 
 --------------------------------------------------------------
-[b][anchor=1488]#1488[/anchor]: TBD[/b]
+[b][anchor=1488]#1488[/anchor]: First, Do No Harm [United Indian Nations; ed: Candlewhisper Archive][/b]
+
+The Issue
+A recent army operation to secure a contested landing zone for medical evacuation of injured infantrymen saw military doctors and nurses being ordered to open fire on enemy soldiers, in order to clear a path to the helicopters. This has triggered a debate on the ethics of firearm use for battlefield medical personnel.
+
+The Debate
+1. "Our corpsmen have sidearms because they are soldiers, and soldiers kill people!" bellows your Rear-Echelon Marshall Fokker, pointing his index finger at a nervous aide and making 'pew-pew' noises. "This is war! Do you expect our doctors and nurses to stand by when there's fighting to be done? No! A medic is just a soldier with additional skills. They must use their sidearms to kill the enemy at every opportunity. Hell, let's give them flamethrowers!"
+
+2. "I object, that goes against everything I believe in and everything I trained for," argues military Staff Nurse Lieutenant Flora Slaava, dramatically standing on a chair. "Our job is to heal, not to kill! To sustain life for as long as humanly possible, not take it! In fact, we have an ethical duty to treat wounded enemy soldiers. Carrying a gun diminishes our status as non-combatants, and we should neither be expected or allowed to carry firearms."
+
+3. "I think I disagree partially with my colleague here," states army gastroenterology consultant Major Pyles. "Some situations do warrant the use of firearms. You have to protect your patient with your life, your patient whose life is in your hands. Should we let him be taken prisoner or let the enemy deal him a deathblow? Of course not! That would be doing him harm! That, in my opinion, goes against the very oath we swore to hold sacred. We do need sidearms, but to defend ourselves and our patients. However, we should never participate in offensive actions."
 
 --------------------------------------------------------------
-[b][anchor=1489]#1489[/anchor]: TBD[/b]
+[b][anchor=1489]#1489[/anchor]: No Tern Left Unstoned [Candlewhisper Archive; ed: Sedgistan][/b]
+
+The Issue
+Amongst bored youths — who seemingly have little else to do — an increasingly common pastime is stone-throwing. Teens and children have taken to lobbing pebbles at any available target, be it a glazed window, a passing seabird, or an innocently wandering politician. As you've had your hat knocked off for the third time this morning, it may be time to address the problem.
+
+The Debate
+1. "All those poor animals," mewls your Minister for the Environment, reverently laying onto the floor a dead seagull that was stoned to death five days ago, and which is starting to reek. "These children infest our streets like the maggots infesting the wings of this bird! We need to take decisive action: cops on the street, arresting any youth with a stone in hand."
+
+2. "This is a social disease," counters your Welfare Minister, spraying the rotting carcass with a disinfectant. "The problem here is a lack of empathy, and the best way to solve that is with education outreach programs designed to teach youngsters about consequences and taking personal social responsibility." He nudges the dead bird out of your office door for someone else to clean up.
+
+3. "Look, a little youthful high spirits never hurt anybody," consoles your Minister of Political Dismissiveness, as a stone sails in through your open window and hits the Welfare Minister directly on the nose. "As far as I'm concerned this is great for the glaziery industry, great for seaside pest control, and great for spirited political commentary. Let's just get some hard hats and a handful of stones, and return fire at the little tykes in a good-natured way. Fun and games for everyone."
+
+4. "Actually, this is a great opportunity," notes your Minister of Defence. "Imagine all that hand-eye coordination put to use throwing knives or lobbing grenades. We should be encouraging this hobby with national stone-throwing leagues, and keeping recruiters on hand to convince the winners to sign up for military careers."
 
 --------------------------------------------------------------
-[b][anchor=1490]#1490[/anchor]: TBD[/b]
+[b][anchor=1490]#1490[/anchor]: @@LEADER@@ Wins Massive Victory! [Cretox State; ed: Pogaria][/b]
+
+The Issue
+Following a particularly brutal election season, your party narrowly held onto power with you as its undisputed leader. Your closest advisors have met to congratulate you on the close victory... and to ensure that such a thing never happens again.
+
+The Debate
+1. "I hate the voters so much," snarls @@RANDOMNAME@@, your campaign's public relations director. "That election had no right to be as close as it was. I heard a rumor that opposition activists were undermining the integrity of the election and casting fraudulent ballots. We'll have to start a comprehensive investigation of the election that just so happens to reveal dirt about the opposition, and pass draconian election security laws that coincidentally restrict our opponents' access to the polls. Wink wink."
+
+2. "Who needs voters when you have the military's support?" asks Supreme Generalissimo @@RANDOMNAME@@, clapping you on the back and nearly causing you to choke on your lunch. "I say we declare martial law and start rounding up our political opponents. Oh sure, we can still have elections. They'll be useful for rooting out dissent among the populace. But you'll be the unquestioned power in @@NAME@@."
+
+3. "Now, I'm all for subverting the democratic process," says @@RANDOMNAME@@, a rising star in your government, as several advisors nod along in approval. "But these ideas all run the risk of backfiring. Not to mention the fact that they'd take resources away from actually implementing our agenda. We should focus on doing work that undeniably benefits people, like my public transportation overhaul. If we do a good job in the eyes of the voters, we won't need to worry about staying in power."
+
+4. Suddenly, you hear a loud sigh from your Director of Election Directing, who pitched the idea of this meeting in the first place. "If we're seriously considering keeping ourselves in power with underhanded laws or military force, I say we just abolish public elections altogether. We'll restrict voting to an elite inner circle that'll deliberate on your appointments and decisions — hey, we still need to have some checks — and it'll help placate the people."
 
 --------------------------------------------------------------
-[b][anchor=1491]#1491[/anchor]: TBD[/b]
+[b][anchor=1491]#1491[/anchor]: Press Gang [Cretox State; ed: Candlewhisper Archive][/b]
+
+The Issue
+Your Minister of the Interior recently held an invitation-only press conference: a three-hour parade of lowball questions such as "What's your favorite thing about interior design?" and "What color paint do you recommend for my son's bedroom?" Many of the media outlets that were not invited to the event are less than impressed.
+
+The Debate
+1. "This was the most blatant display of corruption I've ever seen!" screams the @@LEADER@@ Sucks reporter @@RANDOMNAME@@, slipping your security guard a bribe to get into your office. "The media's job is to hold the government accountable, not to cozy up to them for favors! Any reporter who wants access to an official event should get it, and officials should be forced to take questions from everyone in the room!"
+
+2. "The event was invitation-only due to limited seating and my very busy schedule," asserts your Minister of the Interior, taking a break from casually chatting with the chief editor of the @@LEADER@@ Times. "Who gets to attend press conferences and the like should be up to our discretion, since it's our decision to hold them in the first place. Maybe we could discuss this further over a drink?"
+
+3. "You'd solve all these problems if you'd just put a little faith in technology," assures junior IT staffer @@RANDOMNAME@@, whose historic solution to every IT problem has been 'try turning it off and on again.' "You should set up a pre-moderated public online text feed for each government official, where only a cherry-picked selection of carefully edited questions get posted. It'll make these press conferences a thing of the past, and make sure we always have time to prepare our answers."
 
 --------------------------------------------------------------
-[b][anchor=1492]#1492[/anchor]: TBD[/b]
+[b][anchor=1492]#1492[/anchor]: Smoke on the Water [Abacathea; ed: Candlewhisper Archive][/b]
+
+The Issue
+Through careful water sample analyses and rigorous modelling, experts have detected a shockingly large quantity of recreational drugs in the river near the site of the recent Steelstock heavy metal rock festival. These substances are thought to have come from the urine of festival-goers who peed in the fields rather than in proper toilets. This has caused significant harm to local wildlife, including the deaths of several critically endangered rare eels.
+
+The Debate
+1. "This is outrageous!" screams ecologist @@RANDOMNAME@@, slamming a jar of yellow-tinted river water in which a tiny eel is looking surprisingly chilled out. "Not only did these weirdly-adorned freaks ruin the grass with their mishing or mushing or whatever you call it, now they've ruined the water with their urinary doping! You don't see this sort of thing at classical music or opera festivals, you know! We must ban public performances of degenerate youth music, for the sake of the little fishies!"
+
+2. "Ban Metal? I can give you six hundred and sixty-six reasons not to!" exclaims rock singer Tori Kayla, who is wearing a boiler suit and a leatherface mask for reasons unknown. "The issue isn't the music, nor the fans. It's the damned drug dealers, pushing their products in the festival. I've battled addictions myself, almost died from them. You gotta ban drugs at music festivals. Put money into police to help keep drugs out of the festivals, with gate searches, random checks, and the rest."
+
+3. "Look, have you ever tried listening to Stoned Sour or Slapnut WITHOUT taking drugs?" asks mildly intoxicated music fan @@RANDOMNAME@@, waving around a bong that seems to be filling the room with an unusual floral odour. "The problem is that we need somewhere to go, and festival toilets... well, they stink! Force festivals to provide proper, adequate and clean facilities, then nobody will pee on the ground. Like this." He turns to the corner of your room and demonstrates.
+
+4. "If I may make a suggestion?" sings the eel from the jar of water, as it floats into the air on a cloud of rainbows. "We fishes were the real victims here. My spawn have been muttering non-stop about amphibious bears coming to get them for the last week! What we need now is something to eat. Could you order a few thousand pizzas and dump them in the river, for me and my buds? Oh, and you should probably open a window in here. I think somebody might have started hallucinating."
 
 --------------------------------------------------------------
-[b][anchor=1493]#1493[/anchor]: TBD[/b]
+[b][anchor=1493]#1493[/anchor]: Bully Beef [Dabarastan, Jim the Baptist; ed: Sedgistan][/b]
+
+The Issue
+Video footage has leaked from a @@DEMONYMADJECTIVE@@ livestock carrier bound for Tasmania, depicting distressed cattle suffering from extreme heat in overcrowded and unsanitary conditions. Pressure is now mounting from all corners to reform the live animal export industry.
+
+The Debate
+1. "I just got off the phone with Maxtopia," grumbles your Minister for Foreign Affairs. "Actually, it's the eighth call I've taken this morning. The world officially thinks we're a bunch of sadistic, inhumane tormentors. It's about time we beefed up our live export standards, with better conditions for animals, limits on the amount of livestock per boat and tough penalties for non-compliance. Unless you want to get grilled by the international community, we need to respond decisively here — our reputation is at stake!"
+
+2. "Ahoy!" cheerfully bellows deckhand Waylon Serling, tearing at a delectable strip of jerky. "No need t' worry matey — the cows on me boat are as cool and calm as the high seas! And haven't ya heard? Cows are like penguins — they love huddlin' up for warmth. Besides, ev'rybody knows that meat is more tender if the cows don' move around. If anythin', ya should be lettin' us stack 'em three high!"
+
+3. "There's a financial consideration to this too, you know," interjects bespectacled customs official Chiri Bakker, barely glancing up from counting crates of borlottis. "We could do away with the whole distraction of ethical questions if we prohibited export of livestock. Instead, a focus on processing the goods domestically would provide a real opportunity to add value to the product. It'd require investment in infrastructure, but with a little seed funding, we could make a real killing."
 
 --------------------------------------------------------------
 [b][anchor=1494]#1494[/anchor]: TBD[/b]

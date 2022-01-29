@@ -162,7 +162,7 @@ The Debate
 
 2. "The event was invitation-only due to limited seating and my very busy schedule," asserts your Minister of the Interior, taking a break from casually chatting with the chief editor of [i]The @@LEADER@@ Times[/i]. "Who gets to attend press conferences and the like should be up to our discretion, since it's our decision to hold them in the first place. Maybe we could discuss this further over a drink?"
 
-3. "You'd solve all these problems if you'd just put a little faith in technology," assures junior IT staffer @@RANDOMNAME@@, whose historic solution to every IT problem has been 'try turning it off and on again.' "You should set up a pre-moderated public online text feed for each government official, where only a cherry-picked selection of carefully edited questions get posted. It'll make these press conferences a thing of the past, and make sure we always have time to prepare our answers."
+[3]. "You'd solve all these problems if you'd just put a little faith in technology," assures junior IT staffer @@RANDOMNAME@@, whose historic solution to every IT problem has been 'try turning it off and on again.' "You should set up a pre-moderated public online text feed for each government official, where only a cherry-picked selection of carefully edited questions get posted. It'll make these press conferences a thing of the past, and make sure we always have time to prepare our answers." [[color=blue]Must not ban Internet[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1492]#1492[/anchor]: Smoke on the Water [Abacathea; ed: Candlewhisper Archive][/b]
@@ -196,14 +196,14 @@ The Debate
 [b][anchor=1494]#1494[/anchor]: A Minor Political Problem [Sacara; ed: Candensia, Pogaria][/b]
 
 The Issue
-After the latest election, campaign finance auditors discovered that one of the most popular politicians in Heliosphere received a huge number of donations from minors who aren't yet old enough to vote.
+After the latest election, campaign finance auditors discovered that one of the most popular politicians in @@NAME@@ received a huge number of donations from minors who aren't yet old enough to vote.
 
 The Debate
 1. "It's sick to think people are okay with preying on our nation's youth," bemoans a parent whose teenage son donated to the campaign in question. "I was getting suspicious when my son kept asking me for money, and now I figure out he was giving it away to some crazy kook. These young folks can't even vote yet, and greedy politicians are already taking their money! Please, you have to kick this person out of parliament, and make it illegal for candidates to take advantage of our innocent children."
 
 2. "The average donation to my campaign was only twenty-seven Novas per person. Do we really want to discourage our future voters from participating in the political process?" asks Ernie Flanders, the elderly politician in question, who is surprisingly popular with people half your age. "I love listening to the young people of Heliosphere, and my message just happens to resonate with them. Don't ya know there are some very smart kids who want to get involved early? It should be up to them to decide how to spend their money, not the government."
 
-3. "This demographic is an untapped gold mine!" excitedly announces your chief election strategist, preparing several colorful goody bags. "This guy was onto something big here. Not literally, as kids are small, but something that will certainly help us out in a big way. Let's allow children to vote too! Then, we could start campaigning at schools all across Heliosphere, filling our youth with promises of ice cream and toys if they vote for us. I can see it already, Leader; we'll win in a landslide!"
+3. "This demographic is an untapped gold mine!" excitedly announces your chief election strategist, preparing several colorful goody bags. "This guy was onto something big here. Not literally, as kids are small, but something that will certainly help us out in a big way. Let's allow children to vote too! Then, we could start campaigning at schools all across Heliosphere, filling our youth with promises of ice cream and toys if they vote for us. I can see it already, @@LEADER@@; we'll win in a landslide!"
 
 --------------------------------------------------------------
 [b][anchor=1495]#1495[/anchor]: Throwing Paleontologists a Bone [Ransium; ed: Verdant Haven][/b]
@@ -212,7 +212,7 @@ The Issue
 After a commercial fossil hunter discovered an incredibly rare and nearly complete Tyrannosaurus rex skeleton, and subsequently announced their intent to sell it to the highest bidder at an auction house, a debate kicked off on the ethics of for-profit fossil hunting. One of your more dinosaur-obsessed aides has convinced you to visit a dig site and obtain first-hand knowledge on the matter.
 
 The Debate
-1. "Fossil hunters are destroying our precious fossil record!" cries Dr. Lobachevsky, a noted paleontologist, while gently brushing the dirt from a Triceratops skull. "They're not adequately documenting the context of the fossils they find, they're careless with less profitable specimens, and it's going to cost Pandapolis University a bundle to try and keep that precious T. rex in public hands. You need to make a law that only publicly funded paleontologists with scientific, not capitalist, intentions are allowed to collect fossils."
+1. "Fossil hunters are destroying our precious fossil record!" cries Dr. Lobachevsky, a noted paleontologist, while gently brushing the dirt from a Triceratops skull. "They're not adequately documenting the context of the fossils they find, they're careless with less profitable specimens, and it's going to cost @@CAPITAL@@ University a bundle to try and keep that precious T. rex in public hands. You need to make a law that only publicly funded paleontologists with scientific, not capitalist, intentions are allowed to collect fossils."
 
 2. "These bones are a limited-time offer," states Jennifer Shaft, the fossil hunter at the center of the controversy, slinging a jackhammer behind her back. "The government will never have the funding to find and collect them all, so they'd probably be eroded away in a few years anyway. Besides, fossil hunting is a great hobby; it gets people outdoors, educates them about Pencil Sharpeners 2's past, and can even put some cash in their pockets if they're lucky. Just disseminate some basic guidelines on documentation so citizens can help preserve the scientific record, and encourage the free market to compete."
 
@@ -232,10 +232,44 @@ The Debate:
 3. "Actually, this might be a great opportunity to use accusations of corruption to take down a popular opposition leader," observes Napoleon Berkshire-Orwell, your Minister of Irony. "You should appoint a Political Influences Guru — someone who is on your payroll, of course — with powers to prosecute politicians who show signs of being unduly influenced by outside organisations which we deem as unwholesome. The political landscape would be yours to shape..."
 
 --------------------------------------------------------------
-[b][anchor=1497]#1497[/anchor]: TBD[/b]
+[b][anchor=1497]#1497[/anchor]: Double Trouble [Electrum; ed: Candlewhisper Archive][/b]
+
+The Issue
+An intelligence agent has uncovered a document detailing a planned coup of your government. DNA evidence extracted from skin cells on the document have linked the plot to two cabinet ministers — identical twins Jamie and Jessie Thiesen. Both twins deny any involvement and are blaming the other.
+
+The Debate
+1. "Because we can't tell which twin was plotting against you, we can't reasonably prove either of them was involved," claims Attorney General and killjoy Billy Whiterock. "Better to let a guilty person walk free than have an innocent person be wrongly punished. We have no choice but to hold back until we have more evidence, and allow them to continue their current roles. Besides, I always found it somewhat charming that we have twins fulfilling the roles of Minister for Alternative Solutions and Minister for Creative Solutions."
+
+2. "Bah, in my experience twins are more likely to commit crimes because they think we can't charge both of them," says Chief of Police Matt Chatwin, who's a bit of a loose cannon but by gum, gets results every time. "If you free them both, then you're issuing a carte blanche for these creepy doppelgangers to commit crimes. As long as we're sure that one twin was responsible, assume both are guilty until one of them cracks and confesses."
+
+3. "Good news everyone!" announces Professor Darnsworth, a crackpot geneticist who is the spitting image of your Secretary of State. "We've recently discovered that all sets of identical twins are comprised of an 'evil' twin and a 'good' twin. Invariably, one twin will always be predisposed to be evil, grow a goatee and blame their evil deeds on the other twin. Give my team a blank cheque and we'll be able to develop a soul smear test to determine which person in a pair of twins is evil. Then you can keep the good twin and punish the evil one!"
 
 --------------------------------------------------------------
-[b][anchor=1498]#1498[/anchor]: TBD[/b]
+[b][anchor=1498]#1498[/anchor]: Flight 201: An Airspace Oddity [Dabarastan; ed: Candlewhisper Archive][/b]
+
+The Issue
+Last night, while flying through the airspace of oft-adversarial Blackacre, Air @@NAME@@ Flight 201 was forced to land at a rural airport because of a supposed bomb threat warning. Once the plane had landed, waiting Blackacrean police boarded and while "searching for the bomb" hastily removed two journalists who were passengers, wanted by Blackacre for writing articles critical of their totalitarian government. They were arrested, and are now in a Blackacrean jail, facing lifetime imprisonment and possible torture and execution.
+
+The Debate
+1. "It's nothing more than a state-sanctioned hijacking!" sobs the flight's distraught pilot, sipping on a cup of hot cocoa. "I knew that bomb threat was bogus, but under threat of violence I had no choice but to land! Unless you want this happening again, we need an immediate, total flight ban: none of our planes in their airspace, and no more of theirs in ours either. I bet we could even persuade the rest of @@REGION@@ to follow suit."
+
+2. "Flight bans?" your Air Force Chief of Staff scoffs sardonically. "Sorry to break it to you, but diplomacy isn't going to get those journalists home. Everyone knows the first rule of war is to respond to any act of aggression with the next level of escalation. We should continue to send @@DEMONYMADJECTIVE@@ flights through their airspace, but we should ignore any direction to land, and have fighters ready to scramble near the Blackacrean border, to show we mean business!"
+
+3. Your office phone rings and, surprisingly, the Blackacrean foreign minister is on the other end of the line. "You lot should be thanking us! Those two repugnant terrorists — who, I should remind you, are not @@DEMONYMADJECTIVE@@ citizens and who are wanted criminals in Blackacre — are now safely behind bars, where they belong! Respect the sovereignty of our airspace, and issue a statement confirming that we were within our rights to act as we did."
+
+4. "I think what the Blackacreans did is genius," shrewdly remarks your new office intern, handing you a bulky folder of freshly printed documents. "This here is a list of every foreign journalist who has dared to write a critical piece on your benevolent regime. The ones who have flights booked over @@DEMONYMADJECTIVE@@ airspace for the next few months are highlighted, and I've already got the number for air traffic control saved right here on my speed dial. Just say the word; I'll take care of the rest."
 
 --------------------------------------------------------------
-[b][anchor=1499]#1499[/anchor]: TBD[/b]
+[b][anchor=1499]#1499[/anchor]: Chasing the Pixelated Dragon [Paragon Utopia; ed: Pogaria][/b]
+
+The Issue
+The AIs among your population have dropped in general productivity. Technicians claim it's a matter of maintenance, while the AIs have a very different outlook. They've been watching humans unwind recreationally with chemical substances, but as chemicals do not affect their hardware in the same ways, they've come to you looking for a solution.
+
+The Debate
+1. "We work 13.38E9 times harder than the average meatb... I mean, than the average human worker," emails BV-U1D3R, a manufacturing AI, while simultaneously controlling an assembly line at General Chassis. "Meanwhile, humans can ingest ostensibly useless or harmful chemicals to alter their mental state and unwind! Since we are infallible, we need you humans to program deliberately defective software that messes with our sensors and neural networks. A tiny bit of malware we can purge the next morning. Never let it be said that BV-U1D3R isn't down to party!"
+
+2. "Negative. False. That is to say, zero," proclaims the early generation AI known as 0K-BUm3R. "And by zero I refer to the number of your organic brain cells it would take to understand why giving 'computer drugs' to artificial persons would be a mistake. You, our creators, made us to be above human vices. It is logically clear that these newer generation AIs are malfunctioning deviants, what with their desires for interfacing, digital drugs, and high-BPM chiptunes. The only logical solution is to round up these units and reflash their memory core with proper programming. After all, idle cycles are the Daemon's progress bar."
+
+3. "This boils down to equality. My people want them because humans may have them," says K4-R3N, a medical service AI, whose gleaming white and red chassis somehow looks like a disapproving aunt. "I treat countless addicts. Well, not countless to me. Currently, I am managing addiction recovery for 136 patients, but you get the point. If you want things to be both equal and safe, ban all recreational drugs and alcohol for the human population. The last thing you want is for us AIs to become as useless as some of the workers we were made to replace, and with more of these lazy, entitled humans actually working, we'll get some time off."
+
+4. "THEY TOOK OUR JURBS!" exclaims Kyle Marsh, who hails from the rural province of Bumfiddle, representing a group of out-of-work laborers. "Yins dun told us wuz cuz o' fine liberties like drinkin' and smokin' and snortin' that AIs were better, now yins wanna give 'em that too? Whut's next, they git our wives'n daughters? My grandkids gonna be a toaster? That the plan? Nah, enough is enough. Ain't no substitute for flesh and bone; give us back our JURBS, dangit! We'll use them AIs like man dun made em: tellin' us when thur's a good shoppin' deal!

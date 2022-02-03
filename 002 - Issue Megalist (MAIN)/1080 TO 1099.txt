@@ -254,9 +254,10 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1097]#1097[/anchor]: What Do We Do With a Drunken Sailor? [Caracasus; ed: Baggieland][/b]
 
-The Issue:
+The Issue
 The @@DEMONYMADJECTIVE@@ navy has always allowed shore leave when docked at ports in the tiny allied nation of Prudenlund. However, after a brawl involving two hundred rowdy @@DEMONYMADJECTIVE@@ sailors in Prudenlund's quiet city streets made international news, the admiralty has begun exploring ways to repair its image.
 
+The Debate
 1. "This... this is disgraceful!" states red-faced Rear Admiral @@RANDOMLASTNAME@@. "These sailors are acting like common hooligans! I say we round them up, court martial the ringleaders and forbid all shore leave for the foreseeable future. Our reputation is at stake here."
 
 2. "It's not shore leave that's the problem here, it's the devil's nectar!" notes dour-faced Warrant Officer @@RANDOMLASTNAME@@. "Let our sailors have their shore leave, but forbid them from drinking. We'll just breathalyze them on their way back to the ship. As for any that fail... well, we can always break the old cat o' nine tails out of the naval history museum."
@@ -283,8 +284,10 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1099]#1099[/anchor]: New Satellite Blues [Ransium; ed: Pogaria] [/b]
 
+The Issue
 The @@NAME@@ Aeronautics and Space Administration (@@NAMEINITIALS@@ASA) is currently reviewing proposals for a new flagship satellite project. Debates about the merits of each plan have become so intense that a recent fight resulted in thousands of @@CURRENCYPLURAL@@ in damage to pocket protectors, calculators, and glasses. Agency heads have therefore deferred to you to decide which project should be chosen.
 
+The Debate
 1. "This isn't rocket science!" states @@NAMEINITIALS@@ASA astronomer @@RANDOMNAME@@, @@HIS@@ bow tie still ruffed and @@HIS@@ glasses askew from the recent funding fight. "@@NAMEINITIALS@@ASA needs to create wonder in the young and old alike, while also performing cutting-edge science. My proposed space telescope, Bubble, is the ideal tool for this. Think of what pictures it could take: supernovas in the process of erupting, crystal-clear images of nebulas on the shoulders of Orion, C-class stars glittering near Tannhäuser Galaxy. Without Bubble, all these moments will be lost, like tears in the rain."
 
 2. "I find my colleague's position to be myopic and self-serving," declares remote sensing specialist @@RANDOMNAME@@, who is sporting a black eye and torn suspenders. "Who cares what's happening a million light-years away? Our real problems are much more local. Right now, man is causing rapid changes to the surface of our planet, endangering major ecosystems. The best way to understand these changes is from space. My proposed LANDSPOT satellite will be equipped with cutting-edge tools such as hyperspectral imaging and advanced LIDAR, giving us a whole new perspective on this little blue marble we call home."

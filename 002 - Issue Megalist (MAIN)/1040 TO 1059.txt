@@ -171,8 +171,10 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1052]#1052[/anchor]: The Prisoners' Dilemma [Caracasus; ed: The Free Joy State][/b]
 
+The Issue
 Your secretary wakes you with a phone call at three o'clock in the morning. "Sorry to wake you, @@LEADER@@, but we have a problem. The severe rainy season has overwhelmed flood defences in an isolated northern part of @@NATION@@. Our engineers say we have half an hour before a storm surge sweeps through the region. Almost everyone in the area has been evacuated, with the exception of the inmates and guards at the notorious Zetatraz prison. I've got two officers on the line. Shall I put them through?"
 
+The Debate
 1. "We don't have the manpower to evacuate the prison in an orderly fashion!" shouts @@RANDOMNAME@@ over the sound of pouring rain. "You have to let us open the gates and give the prisoners a chance to get to high ground. Sure, some of these prisoners may be guilty of some serious offenses, but they're still human beings and you cannot leave them to drown! Give the order; I'm sure we'll be able to round them all up once the storm has passed."
 
 2. "Tell me you're joking!" yells @@RANDOMNAME@@, as you hear the heavy clang of keys being turned in old locks. "Zetatraz holds the worst of the worst. Murderers, rapists and jaywalkers crammed into every cell. If we let these animals loose, we're endangering every innocent person in the country. They had their chance to live productive, law-abiding lives and they blew it. Let the guards lock these thugs in and escape to safety."

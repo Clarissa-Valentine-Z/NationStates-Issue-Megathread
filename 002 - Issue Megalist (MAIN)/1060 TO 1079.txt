@@ -13,10 +13,10 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1061]#1061[/anchor]: Every Day I'm Muffling [Sapnu puas; ed: Candlewhisper Archive][/b]
 
-The Issue:
+The Issue
 After many days of loud and obnoxious cars speeding through the main streets of @@CAPITAL@@, a bill that proposes a mandatory muffler muting for motor vehicles has been presented to you.
 
-The Debate:
+The Debate
 1. @@RANDOMNAME@@, a tired-looking single parent, pleads for change. "Have you ever tried sleeping while these high-speed hooligans are making noise through the night? It's torture! Whenever they go by, my kids wake up crying, and I get zero rest! Make mufflers an absolute must..." @@HE@@ yawns loudly, then drops onto your floor, fast asleep.
 
 2. @@RANDOMNAME@@, a member of the feared but mostly harmless [i]Rabid @@ANIMALPLURAL@@ gang[/i], pulls up in @@HIS@@ beefed-up 4x4 diesel truck. "Hell, no! Can you really bring yourself to tame a beast like this with mufflers? Where's your sense of fun? In fact, let's make @@NAME@@ the loudest nation in @@REGION@@, and subsidise great cool auto manufacturers making great cool cars."
@@ -97,7 +97,7 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1067]#1067[/anchor]: Don't Fear the Reefer [Nation of Quebec; ed: Pogaria][/b]
 
-The Issue:
+The Issue
 Maxx Grass Corporation and Green Way Growers, two of the largest marijuana producers in the nation, recently announced a merger that is expected to be worth billions. As the recreational drug industry continues to grow, many are wondering if this joint venture is right for @@NAME@@.
 
 The Debate
@@ -275,7 +275,7 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1079]#1079[/anchor]: What's Love Got to Do With It? [The Free Joy State; ed: Baggieland][/b]
 
-The Issue:
+The Issue
 When you walk into your office, you see Bart, your personal secretary, in a passionate — and completely illegal — clinch with @@RANDOMMALEFIRSTNAME_1@@, your other brother.
 
 The Debate

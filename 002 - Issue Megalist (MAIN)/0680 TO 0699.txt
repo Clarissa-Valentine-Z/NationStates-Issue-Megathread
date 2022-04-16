@@ -79,9 +79,9 @@ A sunny neighbouring nation with a developing economy has been burn-clearing lar
 The Debate
 1. "The smog is affecting the young, the elderly, and the sick," notes your Minister of Civic Welfare, as she holds a rose-scented handkerchief over her nose and mouth. "We have to send a strongly-worded letter to their government to request that they do something to stop the parties responsible, if they'd be so kind. I'm sure that with their own citizens being affected, and with us pointing out the ecological damage they're doing, they'll take everything into consideration and choose to be reasonable."
 
-2. "They aren't going to respond to that! They don't care if their own citizens drop dead in the fields, they're cynical profiteers who only care about the bottom line!" fumes @@RANDOMNAME@@, the Minister of Trade and Industry. "Let's embargo all their palm oil products and encourage all our allies and major trade partners to do the same. That'll teach them!"
+*2. "They aren't going to respond to that! They don't care if their own citizens drop dead in the fields, they're cynical profiteers who only care about the bottom line!" fumes @@RANDOMNAME@@, the Minister of Trade and Industry. "Let's embargo all their palm oil products and encourage all our allies and major trade partners to do the same. That'll teach them!" [[color=blue]Must not have Autarky[/color]]
 
-3. TBD
+*3. "They aren't going to respond to that! They don't care if their own citizens drop dead in the fields; they're cynical profiteers who only care about the bottom line!" fumes Guinan Weatherhead, the Minister of Trade and Industry. "This sort of thing is exactly why we refuse to trade with other nations. We should pressure all their allies and major trade partners to do the same with them. That'll teach them!" [[color=red]Must have Autarky[/color]]
 
 4. "Teach them what? That we care about abstract concepts like 'diplomacy' and 'dialogue'?" rebukes @@RANDOMNAME@@, a hawkish Air Force Commander, pounding @@HIS@@ fist into her open hand for emphasis. "It's clear that they won't fold easily when there's so much profit at stake, but if we bomb the government, whoever is still left will accede to any of our demands."
 

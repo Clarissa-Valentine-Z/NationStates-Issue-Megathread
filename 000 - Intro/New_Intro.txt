@@ -42,48 +42,48 @@ Links and other resources:
 [*][url=https://forum.nationstates.net/viewtopic.php?p=32505621#p32505621]List of Religions and Cults.[/url] Ran by Jutsa![/list]
 
 [b]MACROS[/b]:
-[b]@@A@@[/b] or [b]@@AN@@[/b]: Displays "a" or "an" depending on the word that follows (take: @@AN@@ @@MAJORINDUSTRY@@ worker)
+[b]@@A@@[/b] or [b]@@AN@@[/b]: Displays "a" or "an" depending on the word that follows (take: @@AN@@ @@MAJOR_INDUSTRY@@ worker)
 [b]@@ANIMAL@@[/b]: National animal (from settings)
-[b]@@ANIMALPLURAL@@[/b]: Plural form of national animal
-[b]@@ANIMALINITIALS@@[/b]: Initials of @@ANIMAL@@
+[b]@@ANIMAL_PLURAL@@[/b]: Plural form of national animal
+[b]@@ANIMAL_INITIALS@@[/b]: Initials of @@ANIMAL@@
 [b]@@CAPITAL@@[/b]: Capital city (from settings)
 [b]@@CURRENCY@@[/b]: National currency (from settings)
-[b]@@CURRENCYPLURAL@@[/b]: Plural form of national currency
-[b]@@CURRENCYINITIALS@@[/b]: Initials of @@CURRENCY@@
-[b]@@DEMONYMNOUN@@[/b] or [b]@@DEMONYM@@[/b]:  Noun form of the national demonym (from settings)
-[b]@@DEMONYMADJECTIVE@@[/b]: Adjective form of the national demonym (from settings)
-[b]@@DEMONYMNOUNPLURAL@@[/b] or [b]@@DEMONYMPLURAL@@[/b]: Plural form of the national demonym (from settings)
-[b]@@DEMONYMADJECTIVEINITIALS@@[/b]: Initials of @@DEMONYMADJECTIVE@@
+[b]@@CURRENCY_PLURAL@@[/b]: Plural form of national currency
+[b]@@CURRENCY_INITIALS@@[/b]: Initials of @@CURRENCY@@
+[b]@@DEMONYM_NOUN@@[/b] or [b]@@DEMONYM@@[/b]:  Noun form of the national demonym (from settings)
+[b]@@DEMONYM_ADJECTIVE@@[/b]: Adjective form of the national demonym (from settings)
+[b]@@DEMONYM_NOUN_PLURAL@@[/b] or [b]@@DEMONYM_PLURAL@@[/b]: Plural form of the national demonym (from settings)
+[b]@@DEMONYM_ADJECTIVE_INITIALS@@[/b]: Initials of @@DEMONYM_ADJECTIVE@@
 [b]@@RELIGION@@[/b] or [b]@@FAITH@@[/b]: National religion (from settings)
 [b]@@LEADER@@[/b]: National leader name (from settings)
-[b]@@LEADERPLURAL@@[/b]: The plural version of your leader... yeah. Maybe in reference to statues or clones of you, or something.
+[b]@@LEADER_PLURAL@@[/b]: The plural version of your leader... yeah. Maybe in reference to statues or clones of you, or something.
 [b]@@NAME@@[/b]: Nation name (short, without pretitle)
-[b]@@NAMEINITIALS@@[/b]: Initials of @@NAME@@ (short, without pretitle)
+[b]@@NAME_INITIALS@@[/b]: Initials of @@NAME@@ (short, without pretitle)
 [b]@@POPULATION@@[/b]: Nation population, including "million" or "billion"
 [b]@@POPULATION_VALUE@@[/b]: Nation population in millions
 [b]@@REGION@@[/b]: Region name
 [b]@@SLOGAN@@[/b]: National motto (from settings)
 [b]@@TYPE@@[/b]: Nation pretitle (from settings) : The @@TYPE@@ of @@NAME@@
 
-[b]@@RANDOMNAME@@[/b]: Combination random first and random last name. Last Names can also be words copied from the nation's own settings, including the nation name. Game-provided first and last names are:
+[b]@@RANDOM_NAME@@[/b]: Combination random first and random last name. Last Names can also be words copied from the nation's own settings, including the nation name. Game-provided first and last names are:
 
 [u]First names:[/u] Aaron, Abraham, Agnes, Akira, Al, Alexander, Alexei, Ali, Anne-Marie, Ariel, Aziz, Barack, Barry, Beth, Bharatendu, Bianca, Bill, Billy, Billy-Bob, Björk, Britney, Bruce, Buffy, Buy, Calvin, Carmen, Charles, Chastity, Chloe, Chris, Clint, Colin, Colleen, Cooper, Coraline, Daniel, Darya, Dave, Declan, Don, Doris, Efthamia, Elaine, Elizabeth, Ella, Elsa, Emily, Erica, Faith, Falala, Fanny, Finlay, Fleur, Francisco, Freddy, George W., Georgina, Gertie, Gregory, Gretel, Hack, Heather, Hillary, Hope, Howard, Imogen, Ivan, Jack, Jacob, Jake, Jamil, Jazz, Jean-Paul, Jennifer, Jessica, Johann, Josh, Kate, Kathleen, Kayla, Kirby, Klaus, Konrad, Lara, Larry, Lars, Lauren, Lee, Louis, Margaret, Maria, Marina, Mark, Marleen, Mary, Matilda, Max, May, Megan, Mia, Michelle, Miranda, Mohammed, Naki, Natalia, Neil, Peggy, Pete, Pip, Prudence, Randy, Rebecca, Renee, Robin, Rochelle, Roger, Rosalia, Roxanne, Ruby, Sabina, Samuel, Sarah, Sashona, Sophie, Stefanie, Steffan, Stephanie, Sue-Ann, Teddie, Thomas, Tim, Tobias, Violet, Virginia, Wil, William, Xu, Yasmin, Yui, Zach, Zack, Zeke, Zelda.
 
 [u]Last Names:[/u] al-Zahawi, Anderson, Barnes, Barry, Belcher, Black, Blofeld, Broadside, Bronte, Brown, Bush, Carey, Chandra, Chen, Cheswick, Chicago, Cho, Christensen, Christmas, Clinton, Cohen, Cruz, de Castro, de Groot, de Jong, Delauter, de Vries, Dimitrov, Dodinas, Dovey, Dredd, du Pont, Dubois, Eliot, Falopian, Fellow, Fitzgerald, Frederickson, Giono, Goethe, Grossman, Gutenberg, Hamilton, Han, Hanover, Harishchandra, Hendrikson, Hernandez, James, Jamieson, Janssen, Jefferson, Johnson, Jones, Kardashian, Khan, King, Laine, Leach, Lee, Levy, Li, Licorish, Longbottom, Longfellow, Lopez, Love, Malik, McAlpin, McGuffin, McKay, McKinnon, Mendeleev, Mistletoe, Mombota, Nagasawa, Neumann, Nguyen, O, Obama, O'Bannon, O'Hara, Parke, Pasteur, Patel, Pavlov, Pence, Perez, Peters, Plath, Pushkin, Rifkin, Rikkard, Rubin, Ruff, Sanchez, Sato, Schultz, Schwarzenegger, Shiomi, Silk, Singh, Smith, Song, Sparkle, Spirit, Steele, Strange, Summers, Suzuki, Taffs, Tan, Thiesen, Trax, Trudeau, True, Usman, Utopia, Wall, Washington, Wilson, Winters, Wolfeschlegelsteinhausenbergerdorff, Wong, Woolf, Wu, Yeats, Zhimo, Zhu.
 
-[b]@@RANDOMNAME_REVERSED@@[/b]: Like @@RANDOMNAME@@, but with all letters in reverse order. Capitalization is changed to be on the left of each name.
-[b]@@RANDOMMALENAME@@[/b] and [b]@@RANDOMFEMALENAME@@[/b]: gender-specific randomized names.
-[b]@@RANDOMFIRSTNAME@@[/b]: a randomized first name by itself.
-[b]@@RANDOMLASTNAME@@[/b]: a randomized last name by itself.
+[b]@@RANDOM_NAME_REVERSED@@[/b]: Like @@RANDOM_NAME@@, but with all letters in reverse order. Capitalization is changed to be on the left of each name.
+[b]@@RANDOM_MALE_NAME@@[/b] and [b]@@RANDOM_FEMALE_NAME@@[/b]: gender-specific randomized names.
+[b]@@RANDOM_FIRST_NAME@@[/b]: a randomized first name by itself.
+[b]@@RANDOM_LAST_NAME@@[/b]: a randomized last name by itself.
 [b]@@HE@@/@@HIS@@/@@HIM@@/@@MAN@@[/b]: Displays "he", "his", "him", or "man" if the name it targets is male, and "she", "her", "hers"*, or "woman" if female.
 
 [b]IMPORTANT NOTE:[/b] [i]You may now use @@HE/HIS/HIM@@ for any person, as well as called a person's randomname again. There is no standard set of macro for this, as of yet, so an example would be as follows:[/i]
-[box]Option 1: Before @@HE_1@@ spoke, @@RANDOMNAME_1@@ took a pen from your secretary, @@RANDOMNAME_2@@. [...]
+[box]Option 1: Before @@HE_1@@ spoke, @@RANDOM_NAME_1@@ took a pen from your secretary, @@RANDOM_NAME_2@@. [...]
 
-Option 2: @@RANDOMNAME_2@@, who caught @@RANDOMNAME_1@@ stealing @@HIS_2@@ pen off from @@HIS_2@@ desk and placing it into @@HIS_1@@ pantaloons, [...][/box]
+Option 2: @@RANDOM_NAME_2@@, who caught @@RANDOM_NAME_1@@ stealing @@HIS_2@@ pen off from @@HIS_2@@ desk and placing it into @@HIS_1@@ pantaloons, [...][/box]
 [i]Note: Don't go too crazy. You don't want to get too ambiguous - though, from what I hear, editors love ambiguity more than most people.[/i]
 
-[b]@@MAJORINDUSTRY@@[/b]: Your nation's biggest industry. Possibilities are:
+[b]@@MAJOR_INDUSTRY@@[/b]: Your nation's biggest industry. Possibilities are:
 
 [u]Industries:[/u] Arms Manufacturing, Automobile Manufacturing, Basket Weaving, Beef-Based Agriculture, Book Publishing, Cheese Exports, Door-to-door Insurance Sales, Furniture Restoration, Gambling, Information Technology, Pizza Delivery, Retail, Soda Sales, Tourism, Trout Farming, Uranium Mining, Woodchip Exports.
 
@@ -103,6 +103,13 @@ Also, some options have varients or are not available to certain nations. Here's
 - Changelog goes here.
 
 [url =Github link here, must be split view.]Changes made to the threads can be seen here.[/url]
+
+[code][size=200][color=#3DC0FF][b][i]Valentine’s Changelog 000 - Template[/i][/b][/color][/size]
+[hr][/hr][size=133][color=#3366FF][b][i]Witty remark here.[/i][/b][/color][/size]
+
+- Changelog goes here.
+
+[url =Github link here, must be split view.]Changes made to the threads can be seen here.[/url][/code]
 
 [size=200][color=#3DC0FF][b][i]Hotlinks for Post-Editing (for OP Use)[/i][/b][/color][/size]
 [hr][/hr]This is for when I am doing a large-scale post editing.

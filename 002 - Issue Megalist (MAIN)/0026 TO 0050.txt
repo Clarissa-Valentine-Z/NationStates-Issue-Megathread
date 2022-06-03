@@ -4,9 +4,9 @@ The Issue
 A group of emergency room doctors has petitioned the government to introduce mandatory organ donations.
 
 The Debate
-1. "It's not as crazy as it sounds," says Dr. @@RANDOMNAME@@. "Every day, people die because we don't have the organs to save them. Well, that and widespread under-funding of the health system. But the point is, if the government allowed us to take organs from dead people, we could save hundreds of lives a year. And come on, it's not like dead people need them."
+1. "It's not as crazy as it sounds," says Dr. @@RANDOM_NAME@@. "Every day, people die because we don't have the organs to save them. Well, that and widespread under-funding of the health system. But the point is, if the government allowed us to take organs from dead people, we could save hundreds of lives a year. And come on, it's not like dead people need them."
 
-2. "You keep your damn hands off my organs!" says alarmed hospital patient @@RANDOMNAME@@. "They are my organs, and I'll do with them what I like. The government has no right to my body."
+2. "You keep your damn hands off my organs!" says alarmed hospital patient @@RANDOM_NAME@@. "They are my organs, and I'll do with them what I like. The government has no right to my body."
 
 -------------------------------------------------------------------------------
 [b][anchor=027]#[/anchor][anchor=27]27[/anchor]: Cash for Colons?[/b]
@@ -15,9 +15,9 @@ The Issue
 Hospitals have requested that they be allowed to pay people for donating blood and other bodily organs, such as kidneys.
 
 The Debate
-1. "We remain critically short of blood plasma and various organs," says @@NAME@@ One hospital administrator @@RANDOMNAME@@. "Especially hearts. A good heart is hard to find. But if we were allowed to pay for donations, we'd get more of them and could save more lives. Plus the donor takes home a few hundred @@CURRENCYPLURAL@@ in compensation. Unless it's a post-mortem donation, of course. In that case we'd pay the family."
+1. "We remain critically short of blood plasma and various organs," says @@NAME@@ One hospital administrator @@RANDOM_NAME@@. "Especially hearts. A good heart is hard to find. But if we were allowed to pay for donations, we'd get more of them and could save more lives. Plus the donor takes home a few hundred @@CURRENCY_PLURAL@@ in compensation. Unless it's a post-mortem donation, of course. In that case we'd pay the family."
 
-2. "Great idea," says social commentator @@RANDOMNAME@@. "Except for one thing. You know who's going to be selling their organs? Poor people! They'll be so desperate for money that they'll sell their own kidneys. Well, a kidney. This is just another way for the rich to buy themselves a better life at the expense of the poor. It must be outlawed."
+2. "Great idea," says social commentator @@RANDOM_NAME@@. "Except for one thing. You know who's going to be selling their organs? Poor people! They'll be so desperate for money that they'll sell their own kidneys. Well, a kidney. This is just another way for the rich to buy themselves a better life at the expense of the poor. It must be outlawed."
 
 -------------------------------------------------------------------------------
 [b][anchor=028]#[/anchor][anchor=28]28[/anchor]: Cancer Sufferer Demands Euthanasia Bill[/b]
@@ -28,9 +28,9 @@ Dorothy Terwilliger lies immobilized in a hospital bed, unable to move. She has 
 The Debate
 1. Dorothy and her family are campaigning for a "Dying with Dignity" bill, to change this situation. She implores the government to legalize euthanasia.
 
-2. "I understand this is a very difficult time for these people," says freelance medical writer @@RANDOMNAME@@. "But the solution is not to let our medical system slide down the slippery slope of killing people in pain. We must cure, not kill. This is not the right time for euthanasia."
+2. "I understand this is a very difficult time for these people," says freelance medical writer @@RANDOM_NAME@@. "But the solution is not to let our medical system slide down the slippery slope of killing people in pain. We must cure, not kill. This is not the right time for euthanasia."
 
-3. "I agree, but go further: there is never a right time for euthanasia," says Bishop @@RANDOMNAME@@. "The lives we lead are given to us by the grace of God, and he decides when they end. It is not for us to question God's divine purpose, no matter how odd or screwed-up it may seem."
+3. "I agree, but go further: there is never a right time for euthanasia," says Bishop @@RANDOM_NAME@@. "The lives we lead are given to us by the grace of God, and he decides when they end. It is not for us to question God's divine purpose, no matter how odd or screwed-up it may seem."
 
 -------------------------------------------------------------------------------
 [b][anchor=029]#[/anchor][anchor=29]29[/anchor]: Minorities Demand Representation In TV Soaps[/b]
@@ -39,11 +39,11 @@ The Issue
 @@NAME@@'s TV soaps--famous around the region--have come under fire for their lack of ethnic diversity.
 
 The Debate
-1. "Every night my family and I sit down to watch 'The Brash and the Backstabbing'," says @@RANDOMNAME@@. "But where are the Lilliputians like myself? Where are the Bigtopians? The Marche Noirians? People from those cultures can be just as brash and backstabbing, but we never see them on the screen. The government must act to remove this silent apartheid from our TV screens."
+1. "Every night my family and I sit down to watch 'The Brash and the Backstabbing'," says @@RANDOM_NAME@@. "But where are the Lilliputians like myself? Where are the Bigtopians? The Marche Noirians? People from those cultures can be just as brash and backstabbing, but we never see them on the screen. The government must act to remove this silent apartheid from our TV screens."
 
-2. "Those Lilliputians don't know how good they have it," says @@RANDOMNAME@@, spokesperson for the Tasmanians Against Ethnic Stereotyping. "Tasmanians are on television all the time, but always in crude, stereotypical roles. The answer is not to enforce ethnic quotas, but to award government prizes for the positive portrayal of minorities. That'll work better, and be cheaper, too."
+2. "Those Lilliputians don't know how good they have it," says @@RANDOM_NAME@@, spokesperson for the Tasmanians Against Ethnic Stereotyping. "Tasmanians are on television all the time, but always in crude, stereotypical roles. The answer is not to enforce ethnic quotas, but to award government prizes for the positive portrayal of minorities. That'll work better, and be cheaper, too."
 
-3. "The government should do what now?" says TV studio executive @@RANDOMNAME@@. "You've got to be kidding. We make soaps here, not documentaries. I should be able to put whichever characters I want into my shows. Quotas! Government prizes! God save me! Hasn't the government got anything better to do? Why don't they just back off and let society work out these things on its own?"
+3. "The government should do what now?" says TV studio executive @@RANDOM_NAME@@. "You've got to be kidding. We make soaps here, not documentaries. I should be able to put whichever characters I want into my shows. Quotas! Government prizes! God save me! Hasn't the government got anything better to do? Why don't they just back off and let society work out these things on its own?"
 
 -------------------------------------------------------------------------------
 [b][anchor=030]#[/anchor][anchor=30]30[/anchor]: Auto Industry Struggles Against Foreign Imports[/b]
@@ -52,11 +52,11 @@ The Issue
 Cheap, foreign-made cars are becoming increasingly popular, causing concern in @@NAME@@'s automobile manufacturing industry.
 
 The Debate
-1. "Unless this government does something, @@NAME@@ won't have an auto industry for much longer," says auto industry union boss @@RANDOMNAME@@, in a rare public appearance alongside management. "These foreign companies employ people for a few @@CURRENCYPLURAL@@ a day. The only way to level the playing field is to raise tariffs. The government would make more money, too, so it's win-win."
+1. "Unless this government does something, @@NAME@@ won't have an auto industry for much longer," says auto industry union boss @@RANDOM_NAME@@, in a rare public appearance alongside management. "These foreign companies employ people for a few @@CURRENCY_PLURAL@@ a day. The only way to level the playing field is to raise tariffs. The government would make more money, too, so it's win-win."
 
-[2]. "For once, I agree with my grubby colleague here," says General Chassis CEO @@RANDOMNAME@@. "Although I have to say, tariffs aren't the only answer. A more effective solution would be to abolish minimum wage laws. Now that would level the playing field. And we'd be able to employ more--argh, let go of my throat!" [[color=red]Must have minimum wage[/color]]
+[2]. "For once, I agree with my grubby colleague here," says General Chassis CEO @@RANDOM_NAME@@. "Although I have to say, tariffs aren't the only answer. A more effective solution would be to abolish minimum wage laws. Now that would level the playing field. And we'd be able to employ more--argh, let go of my throat!" [[color=red]Must have minimum wage[/color]]
 
-3. "I think we need to face facts," says noted economist and chat-show regular @@RANDOMNAME@@. "We live in a global economy now, and automobile manufacturing just isn't @@NAME@@'s strong suit. There's no point taking money from taxpayers in order to line the pockets of a few greedy workers and corrupt managers in a doomed industry. Let the market take its--argh, let go of my throat!"
+3. "I think we need to face facts," says noted economist and chat-show regular @@RANDOM_NAME@@. "We live in a global economy now, and automobile manufacturing just isn't @@NAME@@'s strong suit. There's no point taking money from taxpayers in order to line the pockets of a few greedy workers and corrupt managers in a doomed industry. Let the market take its--argh, let go of my throat!"
 
 -------------------------------------------------------------------------------
 [b][anchor=031]#[/anchor][anchor=31]31[/anchor]: Get Efficient, Private Sector Tells Nature [MantiCorp GroundForces][/b]
@@ -65,11 +65,11 @@ The Issue
 A group of prominent business identities has proposed privatizing @@NAME@@'s beaches.
 
 The Debate
-*1. "Have you been to the beach lately? It's disgusting," says company spokesperson @@RANDOMNAME@@. "There's litter, there's teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@'s beaches will be the talk of the region! And a nice little earner, too." [[color=blue]Must have private industry[/color]]
+*1. "Have you been to the beach lately? It's disgusting," says company spokesperson @@RANDOM_NAME@@. "There's litter, there's teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@'s beaches will be the talk of the region! And a nice little earner, too." [[color=blue]Must have private industry[/color]]
 
-*2. "Look, I know your nation doesn't much like capitalists, but have you been to the beach lately? It's disgusting," says company spokesperson @@RANDOMNAME@@. "There's litter, there's teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@'s beaches will be the talk of the region! Yes, it means ending communism, but isn't this the noblest of reasons to do so?" [[color=red]Must not have private industry[/color]]
+*2. "Look, I know your nation doesn't much like capitalists, but have you been to the beach lately? It's disgusting," says company spokesperson @@RANDOM_NAME@@. "There's litter, there's teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@'s beaches will be the talk of the region! Yes, it means ending communism, but isn't this the noblest of reasons to do so?" [[color=red]Must not have private industry[/color]]
 
-3. "Whoa, whoa, we're privatizing beaches now?" says local campaigner @@RANDOMNAME@@. "These are public spaces! All @@NAME@@'s citizens have a right to enjoy them, not just the well-off. Yes, we should improve the quality of our beaches, but handing them over to the money-grabbers is not the right way to do it. The right way to do it is to boost government spending by increasing taxes."
+3. "Whoa, whoa, we're privatizing beaches now?" says local campaigner @@RANDOM_NAME@@. "These are public spaces! All @@NAME@@'s citizens have a right to enjoy them, not just the well-off. Yes, we should improve the quality of our beaches, but handing them over to the money-grabbers is not the right way to do it. The right way to do it is to boost government spending by increasing taxes."
 
 -------------------------------------------------------------------------------
 [b][anchor=032]#[/anchor][anchor=32]32[/anchor]: One Wife Is Never Enough, Say Polygamists [Fantasan][/b]
@@ -78,15 +78,15 @@ The Issue
 A small religious group is lobbying the government to allow them to take multiple wives.
 
 The Debate
-1. "It's about time we had our religious rights recognized," says @@RANDOMNAME@@, a devout member of a faith that is never made quite clear. "Who is the government to tell me I can't love more than one woman? The government doesn't know how much of me there is to go around!"
+1. "It's about time we had our religious rights recognized," says @@RANDOM_NAME@@, a devout member of a faith that is never made quite clear. "Who is the government to tell me I can't love more than one woman? The government doesn't know how much of me there is to go around!"
 
-*2. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says Reverend @@RANDOMNAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned."
+*2. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says Reverend @@RANDOM_NAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned."
 
 **3. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says moral crusader Florin Armstrong. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned."
 
-**4. "Multiple wives? Excellent!" says passer-by @@RANDOMNAME@@. "Presumably we will allow multiple husbands, as well. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=blue]Must have Marriage Equality[/color]]
+**4. "Multiple wives? Excellent!" says passer-by @@RANDOM_NAME@@. "Presumably we will allow multiple husbands, as well. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=blue]Must have Marriage Equality[/color]]
 
-**5. "Multiple wives? Excellent!" says passer-by @@RANDOMNAME@@. "Presumably we will allow multiple husbands, as well. And gay marriages, of course. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=red]Must not have Marriage Equality[/color], [color=red]Must have Heterosexuality?[/color]]
+**5. "Multiple wives? Excellent!" says passer-by @@RANDOM_NAME@@. "Presumably we will allow multiple husbands, as well. And gay marriages, of course. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=red]Must not have Marriage Equality[/color], [color=red]Must have Heterosexuality?[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=033]#[/anchor][anchor=33]33[/anchor]: Genetics Brings New Life to Extinct Species [Badger Lozzate][/b]
@@ -95,11 +95,11 @@ The Issue
 Scientists have announced they are close to a breakthrough in their quest to revive the feather-bellied @@ANIMAL@@, a species related to @@NAME@@'s national animal that has been extinct for more than a century.
 
 The Debate
-1. "I, for one, applaud their work," says scientist @@RANDOMNAME@@. "And not just because I'm the project leader. This is an example of how @@NAME@@'s brains can mix it with the world's best. Can you imagine how wonderful it will be to have feather-bellied @@ANIMALPLURAL@@ frolicking in the meadows again? I say full steam ahead, and more government funding!"
+1. "I, for one, applaud their work," says scientist @@RANDOM_NAME@@. "And not just because I'm the project leader. This is an example of how @@NAME@@'s brains can mix it with the world's best. Can you imagine how wonderful it will be to have feather-bellied @@ANIMAL_PLURAL@@ frolicking in the meadows again? I say full steam ahead, and more government funding!"
 
-2. "This is a sacrilege!", says religious leader @@RANDOMNAME@@. "These animals are extinct because God wants them dead. Cloning them would merely incur his wrath! If we proceed down this path, it'll be humans, not the feather-bellied @@ANIMAL@@, who will be extinct."
+2. "This is a sacrilege!", says religious leader @@RANDOM_NAME@@. "These animals are extinct because God wants them dead. Cloning them would merely incur his wrath! If we proceed down this path, it'll be humans, not the feather-bellied @@ANIMAL@@, who will be extinct."
 
-3. "Now, come on," says @@RANDOMNAME@@, well-known philosopher. "You don't need to be religious to be unnerved by the top of this particular slippery slope. Today it's @@ANIMALPLURAL@@, tomorrow it's dinosaurs, and we all know how that turns out. This research shouldn't be banned, but there must be strict government controls over its use."
+3. "Now, come on," says @@RANDOM_NAME@@, well-known philosopher. "You don't need to be religious to be unnerved by the top of this particular slippery slope. Today it's @@ANIMAL_PLURAL@@, tomorrow it's dinosaurs, and we all know how that turns out. This research shouldn't be banned, but there must be strict government controls over its use."
 
 -------------------------------------------------------------------------------
 [b][anchor=034]#[/anchor][anchor=34]34[/anchor]: Don't Puff On Me, Say Non-Smokers [Sirocco][/b]
@@ -108,11 +108,11 @@ The Issue
 There is a growing call within @@NAME@@ to abolish smoking in public areas.
 
 The Debate
-1. "I'm in full support of this motion," says man on the street @@RANDOMNAME@@. "I'm sick of being stuck behind smokers, sucking in their pollution! They can light up in the privacy of their own homes, if they want."
+1. "I'm in full support of this motion," says man on the street @@RANDOM_NAME@@. "I'm sick of being stuck behind smokers, sucking in their pollution! They can light up in the privacy of their own homes, if they want."
 
-2. "What's so special about their homes?" says anti-smoking campaigner @@RANDOMNAME@@. "The government has a responsibility to stop people from hurting themselves -- it's the same reason we should make them wear seat belts in cars. Sooner or later, they end up in one of @@NAME@@'s hospitals, sucking on taxpayer-funded healthcare. Not that that's why we should ban smoking. We should ban it because we care."
+2. "What's so special about their homes?" says anti-smoking campaigner @@RANDOM_NAME@@. "The government has a responsibility to stop people from hurting themselves -- it's the same reason we should make them wear seat belts in cars. Sooner or later, they end up in one of @@NAME@@'s hospitals, sucking on taxpayer-funded healthcare. Not that that's why we should ban smoking. We should ban it because we care."
 
-3. "Get your hands off my fag!" wheezes long-time smoker @@RANDOMNAME@@. "I've been smoking for fifty years and it's never done me any harm. Helps me concentrate, it does! The government should back off on trying to tell me what I can put into my own body. Telling a smoker he can't light up in a restaurant is discrimination, pure and simple. If you want to put a stop to unfairness, stop that."
+3. "Get your hands off my fag!" wheezes long-time smoker @@RANDOM_NAME@@. "I've been smoking for fifty years and it's never done me any harm. Helps me concentrate, it does! The government should back off on trying to tell me what I can put into my own body. Telling a smoker he can't light up in a restaurant is discrimination, pure and simple. If you want to put a stop to unfairness, stop that."
 
 -------------------------------------------------------------------------------
 [b][anchor=035]#[/anchor][anchor=35]35[/anchor]: Refugees Want To Call @@NAME@@ Home [The True Scroat][/b]
@@ -121,11 +121,11 @@ The Issue
 After several bloody conflicts in nearby regions, a stream of asylum-seekers and refugees has been spotted heading for @@NAME@@'s shores.
 
 The Debate
-1. "Some of these people have endured terrible hardships to reach our borders," says International Red Cross spokesperson @@RANDOMNAME@@. "We must welcome these unfortunates with open arms. Let the world see that @@NAME@@ does not turn its back on those in need!"
+1. "Some of these people have endured terrible hardships to reach our borders," says International Red Cross spokesperson @@RANDOM_NAME@@. "We must welcome these unfortunates with open arms. Let the world see that @@NAME@@ does not turn its back on those in need!"
 
-2. "These grasping freeloaders will swamp our culture and traditions!" argues talk-radio host @@RANDOMNAME@@. "First they want welfare, next thing you know they're taking our jobs -- and you know they won't bother to learn our language. I say charity begins at home -- and this isn't their home. This is the world's problem, not ours."
+2. "These grasping freeloaders will swamp our culture and traditions!" argues talk-radio host @@RANDOM_NAME@@. "First they want welfare, next thing you know they're taking our jobs -- and you know they won't bother to learn our language. I say charity begins at home -- and this isn't their home. This is the world's problem, not ours."
 
-3. Economics Professor @@RANDOMNAME@@ offers an alternative. "There is no question that we have to help those who reach out to us in their darkest hour. But on the other hand, we cannot help everybody. So let's just take the ones who are willing to keep our streets clean and our drains flowing in return for a subsistence wage."
+3. Economics Professor @@RANDOM_NAME@@ offers an alternative. "There is no question that we have to help those who reach out to us in their darkest hour. But on the other hand, we cannot help everybody. So let's just take the ones who are willing to keep our streets clean and our drains flowing in return for a subsistence wage."
 
 -------------------------------------------------------------------------------
 [b][anchor=036]#[/anchor][anchor=36]36[/anchor]: International Community Comes Doorknocking [Guadalcanal][/b]
@@ -134,13 +134,13 @@ The Issue
 The international community has appealed to @@NAME@@ to increase humanitarian aid to the world's poorer nations.
 
 The Debate
-1. "We must increase foreign aid," says beaded local peace activist @@RANDOMNAME@@. "Compared to some of these nations, @@NAME@@ is swimming in @@CURRENCYPLURAL@@. Let's face it, not every nation in the world is lucky enough to have a government like ours. Let's show some compassion to our less economically gifted neighbors."
+1. "We must increase foreign aid," says beaded local peace activist @@RANDOM_NAME@@. "Compared to some of these nations, @@NAME@@ is swimming in @@CURRENCY_PLURAL@@. Let's face it, not every nation in the world is lucky enough to have a government like ours. Let's show some compassion to our less economically gifted neighbors."
 
-*2. "Talk about a way to flush @@CURRENCYPLURAL@@ straight down the toilet," argues Think Tank member @@RANDOMNAME@@. "What I've noticed is that whenever we do give something, it's never enough: a few years later they're back asking for more. The best way to help these poor nations is to stop shielding them from the logical consequences of their idiotic, long-debunked socialist economic policies." [[color=blue]Must have private industry[/color]]
+*2. "Talk about a way to flush @@CURRENCY_PLURAL@@ straight down the toilet," argues Think Tank member @@RANDOM_NAME@@. "What I've noticed is that whenever we do give something, it's never enough: a few years later they're back asking for more. The best way to help these poor nations is to stop shielding them from the logical consequences of their idiotic, long-debunked socialist economic policies." [[color=blue]Must have private industry[/color]]
 
-*3. "Talk about a way to flush @@CURRENCYPLURAL@@ straight down the toilet," argues Think Tank member @@RANDOMNAME@@. "What I've noticed is that whenever we do give something, it's never enough: a few years later they're back asking for more. The best way to help these poor nations is to stop shielding them from the logical consequences of their idiotic, unstable capitalist boom-bust economic cycles." [[color=red]Must not have private industry[/color]]
+*3. "Talk about a way to flush @@CURRENCY_PLURAL@@ straight down the toilet," argues Think Tank member @@RANDOM_NAME@@. "What I've noticed is that whenever we do give something, it's never enough: a few years later they're back asking for more. The best way to help these poor nations is to stop shielding them from the logical consequences of their idiotic, unstable capitalist boom-bust economic cycles." [[color=red]Must not have private industry[/color]]
 
-4. "Relief wouldn't hurt us... if we 'relieved' the right countries," suggests government advisor @@RANDOMNAME@@. "We give them a little humanitarian aid, they give us access to their @@MAJORINDUSTRY@@ markets... it's win-win. Nothing wrong with a little quid pro quo, especially for a good cause."
+4. "Relief wouldn't hurt us... if we 'relieved' the right countries," suggests government advisor @@RANDOM_NAME@@. "We give them a little humanitarian aid, they give us access to their @@MAJOR_INDUSTRY@@ markets... it's win-win. Nothing wrong with a little quid pro quo, especially for a good cause."
 
 -------------------------------------------------------------------------------
 [b][anchor=037]#[/anchor][anchor=37]37[/anchor]: Traffic Cops Needed on Information Superhighway? [Snowcat][/b]
@@ -149,11 +149,11 @@ The Issue
 Certain shadowy ministerial figures have proposed government monitoring of individual internet usage.
 
 The Debate
-1. "In these days of terror and uncertainty, it's exactly what we need," says @@RANDOMNAME@@, signing an arrest warrant. "Every pervert, terrorist, bomb-building maniac and anti-government idiot is currently online. I'm not saying that we should block citizens from seeing it, but let's also watch who's seeking it out. This will give our law enforcement officers the chance to prevent crimes before they happen. If you've done nothing wrong, you've got nothing to hide."
+1. "In these days of terror and uncertainty, it's exactly what we need," says @@RANDOM_NAME@@, signing an arrest warrant. "Every pervert, terrorist, bomb-building maniac and anti-government idiot is currently online. I'm not saying that we should block citizens from seeing it, but let's also watch who's seeking it out. This will give our law enforcement officers the chance to prevent crimes before they happen. If you've done nothing wrong, you've got nothing to hide."
 
 2. "Well, I AM saying we should block out that filth," says a man in a dark hat, stepping from the shadows. "If people want to use the internet, they can view our government-approved sites. Those are swell."
 
-3. Privacy activist @@RANDOMNAME@@ is outraged, as usual. "Tyranny is the natural result of limiting information! Someone, somewhere, will always find something offensive -- mimes for example. Those scare the hell out of me. But should we ban them? No! Free the internet! We have nothing to fear from free information but pop-up advertising!"
+3. Privacy activist @@RANDOM_NAME@@ is outraged, as usual. "Tyranny is the natural result of limiting information! Someone, somewhere, will always find something offensive -- mimes for example. Those scare the hell out of me. But should we ban them? No! Free the internet! We have nothing to fear from free information but pop-up advertising!"
 
 -------------------------------------------------------------------------------
 [b][anchor=038]#[/anchor][anchor=38]38[/anchor]: @@NAME@@ Looks to the Stars [Sentient Peoples][/b]
@@ -162,13 +162,13 @@ The Issue
 The recent popularity of a science-fiction TV show has prompted calls for @@NAME@@ to develop its own space program.
 
 The Debate
-1. "Don't tell me space colonies wouldn't be cool," says excited fifth-grade teacher @@RANDOMNAME@@, still wearing big Spock ears from his last convention. "Think of how they would galvanize the national population! And there would also be some kind of scientific benefit, probably."
+1. "Don't tell me space colonies wouldn't be cool," says excited fifth-grade teacher @@RANDOM_NAME@@, still wearing big Spock ears from his last convention. "Think of how they would galvanize the national population! And there would also be some kind of scientific benefit, probably."
 
-[2]. "The project certainly is feasible, but very expensive," says @@DEMONYMNOUN@@ Space Agency Head @@RANDOMNAME@@. "We could make it less of a burden on the taxpayers if we sought funding from private industry -- advertisements on the side of our rockets, selling contracts to the Arms Manufacturing industry, that kind of thing." [[color=blue]Must have private industry[/color]]
+[2]. "The project certainly is feasible, but very expensive," says @@DEMONYM_NOUN@@ Space Agency Head @@RANDOM_NAME@@. "We could make it less of a burden on the taxpayers if we sought funding from private industry -- advertisements on the side of our rockets, selling contracts to the Arms Manufacturing industry, that kind of thing." [[color=blue]Must have private industry[/color]]
 
-*3. "If God had meant Man to fly, he would have given us solid rocket boosters instead of legs," says religious type @@RANDOMNAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of religion mandatory in all schools." [[color=blue]Must not be atheist[/color]]
+*3. "If God had meant Man to fly, he would have given us solid rocket boosters instead of legs," says religious type @@RANDOM_NAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of religion mandatory in all schools." [[color=blue]Must not be atheist[/color]]
 
-*4. "If man were meant to fly, we would have evolved solid rocket boosters instead of legs," says dubiously-trained biologist @@RANDOMNAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of humanist values mandatory in all schools." [[color=red]Must be atheist[/color]]
+*4. "If man were meant to fly, we would have evolved solid rocket boosters instead of legs," says dubiously-trained biologist @@RANDOM_NAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of humanist values mandatory in all schools." [[color=red]Must be atheist[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=039]#[/anchor][anchor=39]39[/anchor]: Scandal Rocks @@NAME@@'s Government! [The SLAGLands; ed: The SLAGLands][/b]
@@ -179,11 +179,11 @@ A tabloid magazine, The National Incriminator, has revealed the sordid details o
 The Debate
 1. "They found out I did WHAT?!" Advisor Lotsalovin says in his morning meeting in your office. "This just can't happen! How can government officials do their jobs properly if we have to work under the constant scrutiny of these idiotic supermarket tabloids? I say tabloid newspapers must be banned, and we must not allow newspapers to speak ill of our government officials... for the good of @@NAME@@, of course..."
 
-*2. "Unbelievable!" says Reverend @@RANDOMMALENAME@@ of the local Catholic church. "Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!" [[color=blue]Must not be atheist[/color]]
+*2. "Unbelievable!" says Reverend @@RANDOM_MALE_NAME@@ of the local Catholic church. "Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!" [[color=blue]Must not be atheist[/color]]
 
-*3. "Unbelievable!" says moralist @@RANDOMMALENAME@@ of the local Ethics Committee. "Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!" [[color=red]Must be atheist[/color]]
+*3. "Unbelievable!" says moralist @@RANDOM_MALE_NAME@@ of the local Ethics Committee. "Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!" [[color=red]Must be atheist[/color]]
 
-4. "Whoa, whoa, hey, now..." argues Senator @@RANDOMNAME@@. "What happened to Mr. Lotsalovin is no different than affairs that happen all over @@NAME@@ every day! Before you know it, they'll be after YOUR sexual history! I think what we need to do is take the public attention off of it somehow, perhaps by... oh, I don't know... giving them a tax cut! That'll divert their attention from this momentary distraction just long enough for Mr. Lotsalovin's divorce process to end!"
+4. "Whoa, whoa, hey, now..." argues Senator @@RANDOM_NAME@@. "What happened to Mr. Lotsalovin is no different than affairs that happen all over @@NAME@@ every day! Before you know it, they'll be after YOUR sexual history! I think what we need to do is take the public attention off of it somehow, perhaps by... oh, I don't know... giving them a tax cut! That'll divert their attention from this momentary distraction just long enough for Mr. Lotsalovin's divorce process to end!"
 
 -------------------------------------------------------------------------------
 [b][anchor=040]#[/anchor][anchor=40]40[/anchor]: Hukd on Fonix Workd 4 Me! [Bostion; ed: Reploid Productions][/b]
@@ -192,15 +192,15 @@ The Issue
 @@NAME@@ has a serious problem with poor literacy rates among 12-18 year olds, which many parents and teachers blame on the current state of the education system and lack of government funding.
 
 The Debate
-1. Boot Camp instructor @@RANDOMNAME@@ stated his opinion: "Who gives a damn? Makes 'em easier to turn into brainwashed grunts anyhow! You don't need to be able to read in order to fire a gun! What we need to do is focus on our military spending - what does it matter if you can read or not when you're overrun by warmongering barbarians?"
+1. Boot Camp instructor @@RANDOM_NAME@@ stated his opinion: "Who gives a damn? Makes 'em easier to turn into brainwashed grunts anyhow! You don't need to be able to read in order to fire a gun! What we need to do is focus on our military spending - what does it matter if you can read or not when you're overrun by warmongering barbarians?"
 
 2. On the other side, there's @@NAME@@'s Education Administrator. "This is shocking news. If the children of tomorrow cannot read, then what? Next thing you know, we'll be speaking with contractions! The government must devote more efforts to education! Where will we be twenty years from now with an overflow of unskilled labor?"
 
-*3. @@RANDOMNAME@@, principal of a highly-rated private school, prefers a different approach. "Instead of that, why not issue government vouchers so that parents can afford to send their children to privately run schools? We offer a far better education than the public schools. All we do is grind our particular religious views into our students!" [[color=blue]Must have private industry[/color]]
+*3. @@RANDOM_NAME@@, principal of a highly-rated private school, prefers a different approach. "Instead of that, why not issue government vouchers so that parents can afford to send their children to privately run schools? We offer a far better education than the public schools. All we do is grind our particular religious views into our students!" [[color=blue]Must have private industry[/color]]
 
-*4. @@RANDOMNAME@@, principal of a highly-rated private school in the United Federation, suggests a different approach. "Instead of that, why not issue government subsidies to help parents afford to send their children overseas, to privately run schools outside of @@NAME@@? We offer a far better education than the communist schools of your nation. Sure, they might pick up a few ideological tendencies, but I reckon that'll be good for your economy in the long run." [[color=red]Must not have private industry[/color]]
+*4. @@RANDOM_NAME@@, principal of a highly-rated private school in the United Federation, suggests a different approach. "Instead of that, why not issue government subsidies to help parents afford to send their children overseas, to privately run schools outside of @@NAME@@? We offer a far better education than the communist schools of your nation. Sure, they might pick up a few ideological tendencies, but I reckon that'll be good for your economy in the long run." [[color=red]Must not have private industry[/color]]
 
-5. "Who needs some fancy-shmancy cash-draining school system, anyway?" @@RANDOMNAME@@ declares from the front steps of his double-wide mobile home, shotgun in hand. "My Pa raised me and my eight brothers and three sisters without no waste of time schoolin'! My Pa taught me everythin' I need t'know, let all these whippersnappers' Mas and Pas teach 'em what they need t'know!"
+5. "Who needs some fancy-shmancy cash-draining school system, anyway?" @@RANDOM_NAME@@ declares from the front steps of his double-wide mobile home, shotgun in hand. "My Pa raised me and my eight brothers and three sisters without no waste of time schoolin'! My Pa taught me everythin' I need t'know, let all these whippersnappers' Mas and Pas teach 'em what they need t'know!"
 
 -------------------------------------------------------------------------------
 [b][anchor=041]#[/anchor][anchor=41]41[/anchor]: Software Giant Stomps on Competition [1 Infinite Loop; ed: The SLAGLands][/b]
@@ -209,11 +209,11 @@ The Issue
 The CEO of @@NAME@@ software, hardware, and electronic headwear giant Microcosm, Inc. has been brought before the Supreme Court for violation of antitrust laws.
 
 The Debate
-1. "These allegations are absolutely ludicrous!" shouts Microcosm CEO @@RANDOMNAME@@ from out the window of a 90-foot stretch limo. "Just because rival companies are incapable of producing products as brilliant as mine is no reason to punish ME! I say it's high time we abolish these idiotic antitrust laws and give big business the freedom to serve the public better. After all, I'm in this business for the people!"
+1. "These allegations are absolutely ludicrous!" shouts Microcosm CEO @@RANDOM_NAME@@ from out the window of a 90-foot stretch limo. "Just because rival companies are incapable of producing products as brilliant as mine is no reason to punish ME! I say it's high time we abolish these idiotic antitrust laws and give big business the freedom to serve the public better. After all, I'm in this business for the people!"
 
-2. "Microcosm must be shut down immediately," argues CEO of Computers, Computers, Computers! @@RANDOMNAME@@ from out the window of a clunky, exhaust-choked used car. "I can't get a foothold to compete in the market because those bigwigs in Microcosm have that foothold by the throat! It's high time the government stepped in and helped out the little man, and the best way to do that is to shut down the big, oppressive, corporate gurus in Microcosm and beyond."
+2. "Microcosm must be shut down immediately," argues CEO of Computers, Computers, Computers! @@RANDOM_NAME@@ from out the window of a clunky, exhaust-choked used car. "I can't get a foothold to compete in the market because those bigwigs in Microcosm have that foothold by the throat! It's high time the government stepped in and helped out the little man, and the best way to do that is to shut down the big, oppressive, corporate gurus in Microcosm and beyond."
 
-3. "Verily, I say unto thee, none of this would have happened wouldst thou not have stopped the problem before thou didst start it," argues Brother @@RANDOMMALENAME@@ of the @@NAME@@ Amish community from out the window of his horse-drawn carriage. "We must doest as the Lord commandeth and abolishest the evils of computers and the Internet entirely. Only whenst we harken unto the Lord's commandments mayeth we truly be spiritually blessed."
+3. "Verily, I say unto thee, none of this would have happened wouldst thou not have stopped the problem before thou didst start it," argues Brother @@RANDOM_MALE_NAME@@ of the @@NAME@@ Amish community from out the window of his horse-drawn carriage. "We must doest as the Lord commandeth and abolishest the evils of computers and the Internet entirely. Only whenst we harken unto the Lord's commandments mayeth we truly be spiritually blessed."
 
 -------------------------------------------------------------------------------
 [b][anchor=042]#[/anchor][anchor=42]42[/anchor]: Turn Down That Racket, Say Morality Police [The Prelapsarian State; ed: The SLAGLands][/b]
@@ -222,11 +222,11 @@ The Issue
 A group of concerned parishioners and soccer moms has petitioned the government of @@NAME@@ to outlaw heavy metal music, which they fear is a bad influence on youngsters.
 
 The Debate
-1. "Heavy metal music is a plague in our good nation and its God-fearing people!" argues local priest and easy listening advocate @@RANDOMNAME@@. "Just the other day, I heard a song by some group called Hell's Irate Puppies with a sinful quantity of bass and drum... oh, and there were probably some lines about killing parents, too, I'd imagine! It's vital that we ban this music, and remove this terrible influence from our children's lives! Think of the children!"
+1. "Heavy metal music is a plague in our good nation and its God-fearing people!" argues local priest and easy listening advocate @@RANDOM_NAME@@. "Just the other day, I heard a song by some group called Hell's Irate Puppies with a sinful quantity of bass and drum... oh, and there were probably some lines about killing parents, too, I'd imagine! It's vital that we ban this music, and remove this terrible influence from our children's lives! Think of the children!"
 
-2. "Whoa, man... what's with the, like, censorship and stuff?" asks @@RANDOMNAME@@, scruffy-haired bassist of the popular speed metal band The Destroyinators. "You can't, like, censor the music, man. That's how we express ourselves! Every bass beat is me baring my soul! Every howl is me complainin' about how my parents tried to kick me out of their basement! Besides, what's wrong with Satan? He's just misunderstood anyway. I say promote the arts, man!"
+2. "Whoa, man... what's with the, like, censorship and stuff?" asks @@RANDOM_NAME@@, scruffy-haired bassist of the popular speed metal band The Destroyinators. "You can't, like, censor the music, man. That's how we express ourselves! Every bass beat is me baring my soul! Every howl is me complainin' about how my parents tried to kick me out of their basement! Besides, what's wrong with Satan? He's just misunderstood anyway. I say promote the arts, man!"
 
-3. "You know, this heavy metal issue has me thinking," says @@RANDOMFIRSTNAME@@, your brother, over your weekly game of cribbage. "If these long-haired freaks want to put out their devil-worshipping metal, why don't we let them? Of course, we'll put a little subliminal propaganda into every song... after all, don't these guys owe their freedom of expression to you?"
+3. "You know, this heavy metal issue has me thinking," says @@RANDOM_FIRST_NAME@@, your brother, over your weekly game of cribbage. "If these long-haired freaks want to put out their devil-worshipping metal, why don't we let them? Of course, we'll put a little subliminal propaganda into every song... after all, don't these guys owe their freedom of expression to you?"
 
 -------------------------------------------------------------------------------
 [b][anchor=043]#[/anchor][anchor=43]43[/anchor]: Prisoners Demand Elbow Room [Lucazmodei; ed: The SLAGLands][/b]
@@ -235,13 +235,13 @@ The Issue
 In a display of unity that can best be described as "highly unnerving," criminals and law enforcement officials alike are up in arms about recent overcrowding within prisons in @@NAME@@.
 
 The Debate
-1. "I tell ya, chief... this ain't good," mutters local police chief @@RANDOMNAME@@ over a morning cup of coffee. "I see these no-good mohawk-wearin' punks every day, and they're a dangerous bunch. They gotta be locked in their mudholes forever! If we can't afford to keep 'em in prison, I say we need more money! Let's just casually shift some funding from elsewhere; after all, it ain't like our welfare program is helping keep these kids away from crime."
+1. "I tell ya, chief... this ain't good," mutters local police chief @@RANDOM_NAME@@ over a morning cup of coffee. "I see these no-good mohawk-wearin' punks every day, and they're a dangerous bunch. They gotta be locked in their mudholes forever! If we can't afford to keep 'em in prison, I say we need more money! Let's just casually shift some funding from elsewhere; after all, it ain't like our welfare program is helping keep these kids away from crime."
 
-2. "How can these wayward individuals find their inner selves by staring at the walls within a stone cell?" challenges human rights activist and local prison license plate maker @@RANDOMNAME@@. "The nation's budget is absolute proof: we cannot afford prisons... strictly because of their immorality! Let these caged birds breathe the sweet air of freedom again! Shut down all prisons in @@NAME@@!"
+2. "How can these wayward individuals find their inner selves by staring at the walls within a stone cell?" challenges human rights activist and local prison license plate maker @@RANDOM_NAME@@. "The nation's budget is absolute proof: we cannot afford prisons... strictly because of their immorality! Let these caged birds breathe the sweet air of freedom again! Shut down all prisons in @@NAME@@!"
 
-*3. "Now hold on just a second here," says @@RANDOMNAME@@, CEO of @@NAME@@'s most widely-known pizza delivery chain, Papa Pallocci's Pizza Pagoda. "You've got a problem with prisoners, and I've got a problem finding employees. Why don't you just send some of your criminals to Papa Pallocci's? We'll put 'em to work at lower pay as punishment for their crimes! I win, you win... the economy wins!" [[color=blue]Must have private industry[/color]]
+*3. "Now hold on just a second here," says @@RANDOM_NAME@@, CEO of @@NAME@@'s most widely-known pizza delivery chain, Papa Pallocci's Pizza Pagoda. "You've got a problem with prisoners, and I've got a problem finding employees. Why don't you just send some of your criminals to Papa Pallocci's? We'll put 'em to work at lower pay as punishment for their crimes! I win, you win... the economy wins!" [[color=blue]Must have private industry[/color]]
 
-*4. "Now hold on just a second here," says @@RANDOMNAME@@, State Director of The @@DEMONYMADJECTIVE@@ People's Proletariat Pizza Production Plant. "You've got a problem with prisoners, and I've got a problem finding workers. Why don't you just send some of your criminals to make some dough? We'll put 'em to work as their debt to society is cleared! After all, free citizens must work according to the state's planned economy, so why should prisoners be excepted from this?" [[color=red]Must not have private industry[/color]]
+*4. "Now hold on just a second here," says @@RANDOM_NAME@@, State Director of The @@DEMONYM_ADJECTIVE@@ People's Proletariat Pizza Production Plant. "You've got a problem with prisoners, and I've got a problem finding workers. Why don't you just send some of your criminals to make some dough? We'll put 'em to work as their debt to society is cleared! After all, free citizens must work according to the state's planned economy, so why should prisoners be excepted from this?" [[color=red]Must not have private industry[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=044]#[/anchor][anchor=44]44[/anchor]: No Pain, No Gain! [Independent Planets; ed: SalusaSecondus][/b]
@@ -250,11 +250,11 @@ The Issue
 Due to the recent capture of a foreign terrorist in @@NAME@@, high-level military officials want the government to authorize torture to extract information about other terrorist activities.
 
 The Debate
-1. "Torture is the only way that we can get these idiots to tell us anything," says General @@RANDOMNAME@@ of @@NAME@@'s special forces division. "After all, violence is the only shared language we have with these scum."
+1. "Torture is the only way that we can get these idiots to tell us anything," says General @@RANDOM_NAME@@ of @@NAME@@'s special forces division. "After all, violence is the only shared language we have with these scum."
 
-2. "Are you kidding?" states political activist @@RANDOMNAME@@. "Torture never works. If anything, it should be outlawed. What do we want to become, genocidal maniacs?
+2. "Are you kidding?" states political activist @@RANDOM_NAME@@. "Torture never works. If anything, it should be outlawed. What do we want to become, genocidal maniacs?
 
-3. "There's nothing wrong with torture, but we can't make it too obvious," says Secretary of Defense @@RANDOMNAME@@. "How about we simply ask them nicely, and then, if they don't tell us, we kill them? That's better just from the intimidation."
+3. "There's nothing wrong with torture, but we can't make it too obvious," says Secretary of Defense @@RANDOM_NAME@@. "How about we simply ask them nicely, and then, if they don't tell us, we kill them? That's better just from the intimidation."
 
 -------------------------------------------------------------------------------
 [b][anchor=045]#[/anchor][anchor=45]45[/anchor]: Baseball League Steps Up To The Plate [Pilot; ed: The SLAGLands][/b]
@@ -263,9 +263,9 @@ The Issue
 The Batter Up! Baseball League has begun to grow in popularity and is now seeking government support in establishing teams and stadiums throughout the nation.
 
 The Debate
-1. "Holy cow, is this gonna be great!" hollers BUBL President and sports nut @@RANDOMNAME@@, wearing a fashionable giant foam finger on his right hand. "Baseball is just what @@NAME@@ needs right now! Think about it: soda, popcorn, hot dogs... oh, and I'm sure the economy will benefit somehow, too! All we need is the government funding to build stadiums and teams, and we'll be on every TV and in every city in the country!"
+1. "Holy cow, is this gonna be great!" hollers BUBL President and sports nut @@RANDOM_NAME@@, wearing a fashionable giant foam finger on his right hand. "Baseball is just what @@NAME@@ needs right now! Think about it: soda, popcorn, hot dogs... oh, and I'm sure the economy will benefit somehow, too! All we need is the government funding to build stadiums and teams, and we'll be on every TV and in every city in the country!"
 
-2. "You're going to spend the taxpayer's money on WHAT?" counters Minister of Finance @@RANDOMNAME@@, from a newly furnished office. "I mean, I love playing a good game of baseball every now and then, but does the government really need to go around supporting this? The only people that are going to benefit are a bunch of fat-cat burger vendors and bored hicks with nothing better to do on Sunday afternoon! We need to stop spending so much money on these ridiculous games and get back to what's really important: running the business of the country."
+2. "You're going to spend the taxpayer's money on WHAT?" counters Minister of Finance @@RANDOM_NAME@@, from a newly furnished office. "I mean, I love playing a good game of baseball every now and then, but does the government really need to go around supporting this? The only people that are going to benefit are a bunch of fat-cat burger vendors and bored hicks with nothing better to do on Sunday afternoon! We need to stop spending so much money on these ridiculous games and get back to what's really important: running the business of the country."
 
 -------------------------------------------------------------------------------
 [b][anchor=046]#[/anchor][anchor=46]46[/anchor]: Jennifer Government Censorship Row [Sirocco; ed: SalusaSecondus][/b]
@@ -274,9 +274,9 @@ The Issue
 A new book, [i]Jennifer Government[/i], by Max Barry, has been causing quite a stir in governmental offices across @@NAME@@.
 
 The Debate
-1. "At first I liked the book," says famous politician @@RANDOMNAME@@, "but then it clearly turned out to be just a mockery of our government! This is brainwashing our citizens into thinking that they're being governed badly. I suggest we hang, draw and quarter the author of this book and take satires off the shelves!"
+1. "At first I liked the book," says famous politician @@RANDOM_NAME@@, "but then it clearly turned out to be just a mockery of our government! This is brainwashing our citizens into thinking that they're being governed badly. I suggest we hang, draw and quarter the author of this book and take satires off the shelves!"
 
-2. "Don't be silly" says book reviewer @@RANDOMNAME@@, "it's a great book and you don't necessarily have to take the views inside seriously! If anything, there should be more satires. Maybe then we'll get the right people in charge of this messed-up country!"
+2. "Don't be silly" says book reviewer @@RANDOM_NAME@@, "it's a great book and you don't necessarily have to take the views inside seriously! If anything, there should be more satires. Maybe then we'll get the right people in charge of this messed-up country!"
 
 -------------------------------------------------------------------------------
 [b][anchor=047]#[/anchor][anchor=47]47[/anchor]: The Great Wall of @@NAME@@? [1 Infinite Loop; ed: Reploid Productions][/b]
@@ -285,11 +285,11 @@ The Issue
 Due to the ongoing wars in neighboring countries, a recent rash of illegal immigrants have been caught at the borders of @@NAME@@, prompting many citizens to call for tighter immigration laws.
 
 The Debate
-1. @@RANDOMNAME@@ of the @@NAME@@ National Purity League says "These illegal aliens are just an eyesore with their strange customs and funny languages. Uneducated immigrants like these only worsen crime and steal valuable jobs! I say we should boot them all out on their ears and put a big fence around the country!"
+1. @@RANDOM_NAME@@ of the @@NAME@@ National Purity League says "These illegal aliens are just an eyesore with their strange customs and funny languages. Uneducated immigrants like these only worsen crime and steal valuable jobs! I say we should boot them all out on their ears and put a big fence around the country!"
 
-2. @@RANDOMNAME@@ of the @@NAME@@ Civil Liberties Union says "We must welcome these refugees from any nation into our open arms, they are fleeing one oppressive dictatorial regime in the only way they know, we must not let them think they're jumping from the frying pan into the fire!"
+2. @@RANDOM_NAME@@ of the @@NAME@@ Civil Liberties Union says "We must welcome these refugees from any nation into our open arms, they are fleeing one oppressive dictatorial regime in the only way they know, we must not let them think they're jumping from the frying pan into the fire!"
 
-3. "Hold on there, hold on people!" says @@RANDOMNAME@@ of the @@NAME@@ Broadcasting company, "We don't have to take either extreme, all we have to do is make a TV game show out of it! We put deadly obstacles on the border and monitor it with television cameras! Those that make it across win freedom and citizenship, and those who don't, well, lets just say that our buzzards won't starve. We could call it 'Who Wants to be an Immigrant?'!"
+3. "Hold on there, hold on people!" says @@RANDOM_NAME@@ of the @@NAME@@ Broadcasting company, "We don't have to take either extreme, all we have to do is make a TV game show out of it! We put deadly obstacles on the border and monitor it with television cameras! Those that make it across win freedom and citizenship, and those who don't, well, lets just say that our buzzards won't starve. We could call it 'Who Wants to be an Immigrant?'!"
 
 -------------------------------------------------------------------------------
 [b][anchor=048]#[/anchor][anchor=48]48[/anchor]: Give Us Healthcare Or Give Us Death! [Dictator Amanda; ed: Reploid Productions][/b]
@@ -298,30 +298,30 @@ The Issue
 A large group of @@NAME@@'s uninsured citizens have petitioned the government to provide a universal healthcare system, citing the poor health of many low and middle-class workers. Some of the more vocal of them are threatening violence if something isn't done.
 
 The Debate
-*1. "A universal healthcare system would provide everyone with the same quality healthcare the more wealthy and well-insured currently receive," says recently laid-off citizen and civil rights activist @@RANDOMNAME@@. "Sure, taxes would probably have to increase a bit. But isn't it worth it to provide our lower-class citizens with the same opportunities the upper-class citizens have?" [[color=blue]Must have private industry[/color]]
+*1. "A universal healthcare system would provide everyone with the same quality healthcare the more wealthy and well-insured currently receive," says recently laid-off citizen and civil rights activist @@RANDOM_NAME@@. "Sure, taxes would probably have to increase a bit. But isn't it worth it to provide our lower-class citizens with the same opportunities the upper-class citizens have?" [[color=blue]Must have private industry[/color]]
 
-**2. "Are you all INSANE? This will ruin the health insurance business and drive up unemployment rates," argues @@RANDOMNAME@@, head of the largest insurance provider in @@NAME@@. "If everyone working for their health insurance could suddenly get it free, there would be fewer jobs filled. It would get worse for everyone involved. The government should investigate the motives of these troublemaking 'protestors', instead!" [[color=blue]Must have private industry[/color]]
+**2. "Are you all INSANE? This will ruin the health insurance business and drive up unemployment rates," argues @@RANDOM_NAME@@, head of the largest insurance provider in @@NAME@@. "If everyone working for their health insurance could suddenly get it free, there would be fewer jobs filled. It would get worse for everyone involved. The government should investigate the motives of these troublemaking 'protestors', instead!" [[color=blue]Must have private industry[/color]]
 
-***3. "Why do we have to choose either radical option?" says your Secretary of Health, @@RANDOMNAME@@. "Couldn't we just provide limited basic healthcare for our citizens and have major operations covered by private health insurance? It would be more affordable and the poor would suffer less than they do under the current system." [[color=blue]Must have private industry[/color]]
+***3. "Why do we have to choose either radical option?" says your Secretary of Health, @@RANDOM_NAME@@. "Couldn't we just provide limited basic healthcare for our citizens and have major operations covered by private health insurance? It would be more affordable and the poor would suffer less than they do under the current system." [[color=blue]Must have private industry[/color]]
 
-*4. "A universal healthcare system is a core tenet of socialist society," says Communist Party ideologue @@RANDOMNAME@@. "Sure, taxes would probably have to increase a bit. But isn't it worth it to provide our noble workers with good healthcare, free at the point of delivery?" [[color=red]Must not have private industry[/color]]
+*4. "A universal healthcare system is a core tenet of socialist society," says Communist Party ideologue @@RANDOM_NAME@@. "Sure, taxes would probably have to increase a bit. But isn't it worth it to provide our noble workers with good healthcare, free at the point of delivery?" [[color=red]Must not have private industry[/color]]
 
-**5. "Are you all INSANE? This will drain the coffers of the State!" argues @@RANDOMNAME@@, of the @@NAME@@ Funds Disbursement Council. "If the wealth of the people is wasted on a bloated and inefficient health service, the nation will be detrimented. The government should investigate the motives of these troublemaking 'protesters', instead!" [[color=red]Must not have private industry[/color]]
+**5. "Are you all INSANE? This will drain the coffers of the State!" argues @@RANDOM_NAME@@, of the @@NAME@@ Funds Disbursement Council. "If the wealth of the people is wasted on a bloated and inefficient health service, the nation will be detrimented. The government should investigate the motives of these troublemaking 'protesters', instead!" [[color=red]Must not have private industry[/color]]
 
-***6. "Why do we have to choose either radical option?" asks Senior Party Representative @@RANDOMNAME@@. "Couldn't we just provide very limited basic healthcare for the majority of our citizens and have more comprehensive care as a perk from advancing within the Communist Party hierarchy? It would be more affordable, and all would aspire to better themselves." [[color=red]Must not have private industry[/color]]
+***6. "Why do we have to choose either radical option?" asks Senior Party Representative @@RANDOM_NAME@@. "Couldn't we just provide very limited basic healthcare for the majority of our citizens and have more comprehensive care as a perk from advancing within the Communist Party hierarchy? It would be more affordable, and all would aspire to better themselves." [[color=red]Must not have private industry[/color]]
 
 -------------------------------------------------------------------------------
-[b][anchor=049]#[/anchor][anchor=49]49[/anchor]: Diving For @@CURRENCYPLURAL@@ [Nogero; ed: Reploid Productions][/b]
+[b][anchor=049]#[/anchor][anchor=49]49[/anchor]: Diving For @@CURRENCY_PLURAL@@ [Nogero; ed: Reploid Productions][/b]
 
 The Issue
-Divers from a local scuba club have discovered an enormous underwater gold deposit that could be worth billions of @@CURRENCYPLURAL@@ in one of @@NAME@@'s lakes. It has also caused a huge debate over who should be allowed to plunder the goods.
+Divers from a local scuba club have discovered an enormous underwater gold deposit that could be worth billions of @@CURRENCY_PLURAL@@ in one of @@NAME@@'s lakes. It has also caused a huge debate over who should be allowed to plunder the goods.
 
 The Debate
-1. @@RANDOMNAME@@, a cabinet member, would like the government to seize the deposit. "This is an excellent time to boost @@NAME@@'s economy and increase our foreign trade with other countries! Who cares about the people that discovered the deposit? They've done their country a great favor and should let us have the money!"
+1. @@RANDOM_NAME@@, a cabinet member, would like the government to seize the deposit. "This is an excellent time to boost @@NAME@@'s economy and increase our foreign trade with other countries! Who cares about the people that discovered the deposit? They've done their country a great favor and should let us have the money!"
 
-2. @@RANDOMNAME@@, a civil rights activist, vehemently disagrees. "The deposit was found by private citizens and it should be their choice of what to do with the gold. If the government goes around stealing what is rightfully ours, then I shudder to think I live in such a corrupt country. These people discovered the gold, it's now their time to get rich! Nevermind the fact they were diving in a lake on government property!"
+2. @@RANDOM_NAME@@, a civil rights activist, vehemently disagrees. "The deposit was found by private citizens and it should be their choice of what to do with the gold. If the government goes around stealing what is rightfully ours, then I shudder to think I live in such a corrupt country. These people discovered the gold, it's now their time to get rich! Nevermind the fact they were diving in a lake on government property!"
 
-3. "We should do what now?" Environmentalist @@RANDOMNAME@@ exclaims. "Do you have any idea how damaging it would be to the environment to mine the gold under that lake? Think of all the aquatic life that would be disrupted or destroyed! Think of how an otherwise pristine lake view would be ruined! Forget the gold and keep those money-grubbing pigs away from nature!"
+3. "We should do what now?" Environmentalist @@RANDOM_NAME@@ exclaims. "Do you have any idea how damaging it would be to the environment to mine the gold under that lake? Think of all the aquatic life that would be disrupted or destroyed! Think of how an otherwise pristine lake view would be ruined! Forget the gold and keep those money-grubbing pigs away from nature!"
 
 -------------------------------------------------------------------------------
 [b][anchor=050]#[/anchor][anchor=50]50[/anchor]: Whips, Chains, And Leather, Oh My! [Yacatizma; ed: Reploid Productions][/b]
@@ -330,9 +330,9 @@ The Issue
 An organized crowd of leather-clad individuals, some of whom are on leashes, are protesting against discrimination for those who share their interests.
 
 The Debate
-1. "We happen to express our love differently, with different hobbies and activities," explains BDSM enthusiast @@RANDOMNAME@@, while wearing needle-sharp spiked heels and holding a whip. "Shops exist to cater to the needs of 'normal' people, but do you have ANY idea how hard it is to get a quality whip? A little support for our hobbies would be appreciated!"
+1. "We happen to express our love differently, with different hobbies and activities," explains BDSM enthusiast @@RANDOM_NAME@@, while wearing needle-sharp spiked heels and holding a whip. "Shops exist to cater to the needs of 'normal' people, but do you have ANY idea how hard it is to get a quality whip? A little support for our hobbies would be appreciated!"
 
-2. "Yeah," exclaims @@RANDOMNAME@@, another enthusiast, wearing nothing but a collar, "and like other couples, we want the right to display our affection in public. If Master wants to take me walkies in public, he should be able to."
+2. "Yeah," exclaims @@RANDOM_NAME@@, another enthusiast, wearing nothing but a collar, "and like other couples, we want the right to display our affection in public. If Master wants to take me walkies in public, he should be able to."
 
-3. @@RANDOMNAME@@ dissents wholeheartedly. "This is not about showing affection--this is about moral decency. Think of the children, for God's sake! Think of the children! We must criminalize and eliminate this perversion to keep them safe. Which of course means a special task force to track down and capture these cretins!"
+3. @@RANDOM_NAME@@ dissents wholeheartedly. "This is not about showing affection--this is about moral decency. Think of the children, for God's sake! Think of the children! We must criminalize and eliminate this perversion to keep them safe. Which of course means a special task force to track down and capture these cretins!"
 

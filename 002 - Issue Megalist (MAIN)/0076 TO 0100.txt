@@ -1,16 +1,16 @@
 [b][anchor=076]#[/anchor][anchor=76]76[/anchor]: Suits in Protest [Xibonia; ed: SalusaSecondus][/b]
 
 The Issue
-Thousands of business men and women have taken to the streets in protest of their working conditions and pay. "It's not fair that we can't have a union," says @@RANDOMNAME@@, VP of Sales at SlothCorp. "Just because we make six figures doesn't mean we don't deserve overtime too! It's high time that the lower classes come to appreciate our hard efforts."
+Thousands of business men and women have taken to the streets in protest of their working conditions and pay. "It's not fair that we can't have a union," says @@RANDOM_NAME@@, VP of Sales at SlothCorp. "Just because we make six figures doesn't mean we don't deserve overtime too! It's high time that the lower classes come to appreciate our hard efforts."
 
 The Debate
-1. @@RANDOMNAME@@, secretary of commerce, recommends you ignore these commies. "Free enterprise means not having to succumb to unions, and the world has enough unions already."
+1. @@RANDOM_NAME@@, secretary of commerce, recommends you ignore these commies. "Free enterprise means not having to succumb to unions, and the world has enough unions already."
 
-2. @@RANDOMNAME@@, secretary of labor, advises you to adjust laws to allow white-collar unions. "It only makes sense that all of the workers in our nation have equal opportunity to benefit from the advantages of collective bargaining."
+2. @@RANDOM_NAME@@, secretary of labor, advises you to adjust laws to allow white-collar unions. "It only makes sense that all of the workers in our nation have equal opportunity to benefit from the advantages of collective bargaining."
 
-3. "Get these people out of the street!" advises @@RANDOMNAME@@, local police chief. "They're blocking traffic, and making it impossible for the common man to drive to the megamall!"
+3. "Get these people out of the street!" advises @@RANDOM_NAME@@, local police chief. "They're blocking traffic, and making it impossible for the common man to drive to the megamall!"
 
-4. Finally, Right Reverend @@RANDOMNAME@@ proclaims, "The downtrodden are suffering at the hands of the MAN, and these wealthy upper shelf vice presidents are asking to make the rich richer and the poor poorer! The only reason the common worker needs a union is to be able to fight against the oppression of these slave drivers! It's ludicrous that these greedy scrooges are asking for even MORE money! Send them packing and raise taxes on the wealthy to bring more equality to our nation!"
+4. Finally, Right Reverend @@RANDOM_NAME@@ proclaims, "The downtrodden are suffering at the hands of the MAN, and these wealthy upper shelf vice presidents are asking to make the rich richer and the poor poorer! The only reason the common worker needs a union is to be able to fight against the oppression of these slave drivers! It's ludicrous that these greedy scrooges are asking for even MORE money! Send them packing and raise taxes on the wealthy to bring more equality to our nation!"
 
 -------------------------------------------------------------------------------
 [b][anchor=077]#[/anchor][anchor=77]77[/anchor]: [color=goldenrod]Easter Egg[/color]: World To End, Or Possibly Just Mark Anniversary[/b] {One Year Anniversary issue, now an Easter Egg bonus}
@@ -19,13 +19,13 @@ The Issue
 Along with the rest of the world, the citizens of @@NAME@@ have been stunned by the revelation of a small team of geophysical philosophers that the world turns exactly one year old today, as measured by what they call "RL units". [i](Congratulations on finding so many easter eggs. As a reward, here is the special issue our players got when NationStates turned one year old.)[/i]
 
 The Debate
-1. "Frankly, I saw this coming—all the signs of the Apocalypse are here," says local community leader @@RANDOMNAME@@. "Moral standards are falling, the government is making increasingly erratic decisions, and people are neglecting their work to play bizarre political simulation games on the internet. There's only one sensible reaction: declaring a state of emergency, sending out the military, and shooting curfew breakers until the crisis is over."
+1. "Frankly, I saw this coming—all the signs of the Apocalypse are here," says local community leader @@RANDOM_NAME@@. "Moral standards are falling, the government is making increasingly erratic decisions, and people are neglecting their work to play bizarre political simulation games on the internet. There's only one sensible reaction: declaring a state of emergency, sending out the military, and shooting curfew breakers until the crisis is over."
 
-[2]. "With respect, I don't think falling moral standards are the problem," says cubicle dweller and Slashdot karma god @@RANDOMNAME@@. "The issue is what's going to happen to our computers if the world clock ticks over from 0 to 1. This Y1 problem, as I call it, could be devastating for our IT industry unless it's tackled swiftly. And by tackled swiftly, I mean given a massive injection of public money." [[color=blue]Must not ban Computers[/color] OR [color=blue]Must not ban Internet[/color]]
+[2]. "With respect, I don't think falling moral standards are the problem," says cubicle dweller and Slashdot karma god @@RANDOM_NAME@@. "The issue is what's going to happen to our computers if the world clock ticks over from 0 to 1. This Y1 problem, as I call it, could be devastating for our IT industry unless it's tackled swiftly. And by tackled swiftly, I mean given a massive injection of public money." [[color=blue]Must not ban Computers[/color] OR [color=blue]Must not ban Internet[/color]]
 
-3. "Why panic when you should be partying?" says @@RANDOMNAME@@, not completely soberly. "It's the first birthday of the [i]world[/i], man—let people go nuts! If the government has a shred of decency, they'll order the cops to back off and let people really enjoy this incredible moment in history."
+3. "Why panic when you should be partying?" says @@RANDOM_NAME@@, not completely soberly. "It's the first birthday of the [i]world[/i], man—let people go nuts! If the government has a shred of decency, they'll order the cops to back off and let people really enjoy this incredible moment in history."
 
-4. "This is neither a time for clamping down, nor, as they say, going off," says religious leader @@RANDOMNAME@@. "Rather, we should encourage people to reflect on the great mysteries of life. For example, what is God, to each of us? What is the true meaning of faith? And is the world around us reality, or are we instead living inside a simulated reality that exists only for the amusement of beings we cannot even imagine?"
+4. "This is neither a time for clamping down, nor, as they say, going off," says religious leader @@RANDOM_NAME@@. "Rather, we should encourage people to reflect on the great mysteries of life. For example, what is God, to each of us? What is the true meaning of faith? And is the world around us reality, or are we instead living inside a simulated reality that exists only for the amusement of beings we cannot even imagine?"
 
 5. "Well, I know what I'll be doing," says obscure author and Perl amateur Max Barry. "Sitting at home with a good book! [url=http://www.maxbarry.com/jennifergovernment/][i]Jennifer Government[/i][/url], for instance, is a cracking read. And I hear that some of the profits go into maintaining a cool web game. But of course, that's just my opinion. People should celebrate however they want."
 
@@ -43,17 +43,17 @@ The Debate
 3. "Now, don't think of it as a do/don't option," says a hot dog vendor. "What if we give tours so that people can see the lever? Not to touch it of course, but to see that humanity can be ruined by such a contraption. We can make a profit."
 
 -------------------------------------------------------------------------------
-[b][anchor=079]#[/anchor][anchor=79]79[/anchor]: @@NAME@@'s @@ANIMALPLURAL@@: Going The Way Of The Dodo? [Naelosia; ed: Reploid Productions][/b]
+[b][anchor=079]#[/anchor][anchor=79]79[/anchor]: @@NAME@@'s @@ANIMAL_PLURAL@@: Going The Way Of The Dodo? [Naelosia; ed: Reploid Productions][/b]
 
 The Issue
 The @@ANIMAL@@ is on the brink of extinction, largely due to people hunting them down for tasty @@ANIMAL@@-kabobs and @@ANIMAL@@burgers, and as ecological disaster looms, various factions are all calling for what they feel should be done about the @@ANIMAL@@.
 
 The Debate
-1. "This is an outrage!" shouts @@RANDOMNAME@@, outspoken member of the @@NAME@@ Wilderness Protection Movement. "The government has to put a stop to the out of control hunting of our beloved @@ANIMALPLURAL@@. Do you want our children and grandchildren to miss witnessing the spectacle of wild @@ANIMALPLURAL@@ prancing freely in our forests?"
+1. "This is an outrage!" shouts @@RANDOM_NAME@@, outspoken member of the @@NAME@@ Wilderness Protection Movement. "The government has to put a stop to the out of control hunting of our beloved @@ANIMAL_PLURAL@@. Do you want our children and grandchildren to miss witnessing the spectacle of wild @@ANIMAL_PLURAL@@ prancing freely in our forests?"
 
-2. "Who cares what happens to some dumb wild pest?", scoffs @@RANDOMNAME@@, employee of @@NAME@@ National Lumber, "If they're endangered it's 'cause they were too weak to adapt. They probably deserve to be killed off. With them out of the way, we could clear-cut the forests @@ANIMALPLURAL@@ like to hide in, which would really boost the economy through the timber industry!"
+2. "Who cares what happens to some dumb wild pest?", scoffs @@RANDOM_NAME@@, employee of @@NAME@@ National Lumber, "If they're endangered it's 'cause they were too weak to adapt. They probably deserve to be killed off. With them out of the way, we could clear-cut the forests @@ANIMAL_PLURAL@@ like to hide in, which would really boost the economy through the timber industry!"
 
-[3]. "Nature is hardly a black and white issue," @@RANDOMNAME@@, a respected scholar, notes. "We should start a breeding program to help these creatures recover their numbers. We can display them in captivity, and gradually release them into the wild. Couple it with limiting, but not abolishing @@ANIMAL@@ hunting, and everyone benefits. Of course, @@ANIMALPLURAL@@ raised in captivity don't generally survive in the wild, but I'm sure we can find a way!" [[color=purple]Must have zoos[/color]]
+[3]. "Nature is hardly a black and white issue," @@RANDOM_NAME@@, a respected scholar, notes. "We should start a breeding program to help these creatures recover their numbers. We can display them in captivity, and gradually release them into the wild. Couple it with limiting, but not abolishing @@ANIMAL@@ hunting, and everyone benefits. Of course, @@ANIMAL_PLURAL@@ raised in captivity don't generally survive in the wild, but I'm sure we can find a way!" [[color=purple]Must have zoos[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=080]#[/anchor][anchor=80]80[/anchor]: [color=goldenrod]Easter Egg[/color]: Aliens Wish Peace/Trade Agreement [Exiled; ed: SalusaSecondus][/b]
@@ -62,9 +62,9 @@ The Issue
 Aliens have landed in the fields of @@NAME@@ and they wish to trade and have peace.
 
 The Debate
-1. "Take us to your kneader!" says @@RANDOMNAME_REVERSED@@, alien lawyer. "We have heard wonders of @@NAME@@'s pizza, and must have it. We are certain that a valuable trade route can be set up between our peoples. You could have our first born, for example." Your Secretary of Trade is shocked, "First Born?! That's slavery!" but quickly calms down upon discovery that their young are considered a great delicacy there. "You know, maybe we should open up trade with them?"
+1. "Take us to your kneader!" says @@RANDOM_NAME_REVERSED@@, alien lawyer. "We have heard wonders of @@NAME@@'s pizza, and must have it. We are certain that a valuable trade route can be set up between our peoples. You could have our first born, for example." Your Secretary of Trade is shocked, "First Born?! That's slavery!" but quickly calms down upon discovery that their young are considered a great delicacy there. "You know, maybe we should open up trade with them?"
 
-2. The Coalition of No ETs wants you to stay out of this. @@RANDOMNAME@@ says "Them darn aliens thingies are going to take advantage of the situation an' kill us all! You must ban all trade with them. If they want my cattle, it will be over my dead body!"
+2. The Coalition of No ETs wants you to stay out of this. @@RANDOM_NAME@@ says "Them darn aliens thingies are going to take advantage of the situation an' kill us all! You must ban all trade with them. If they want my cattle, it will be over my dead body!"
 
 -------------------------------------------------------------------------------
 [b][anchor=081]#[/anchor][anchor=81]81[/anchor]: Close Encounters Of The Sci-fi Kind? [Spyr; ed: SalusaSecondus][/b]
@@ -73,11 +73,11 @@ The Issue
 A recent, well-publicized UFO sighting over rural areas of @@NAME@@ has turned people's attention to the skies, and what... or who... might be up there.
 
 The Debate
-1. "This event proves one thing: there are other life-forms out there," says eccentric astronomer @@RANDOMNAME@@, "All we have to do is find them! What is the price of a few hundred Radio Telescopes compared to the benefit of living in peace and harmony with our brethren of the stars?"
+1. "This event proves one thing: there are other life-forms out there," says eccentric astronomer @@RANDOM_NAME@@, "All we have to do is find them! What is the price of a few hundred Radio Telescopes compared to the benefit of living in peace and harmony with our brethren of the stars?"
 
-2. "Spies! It's gotta be spies! A few planes or satellites from our enemies or 'allies' in our region," rages General @@RANDOMNAME@@, head of @@NAME@@'s military, "The only way to keep those snoops out of our airspace is to patrol the streets 'n skies, and shoot 'em down! Even if they are some sort of little green aliens, a couple of SAM batteries and a few flak cannons'll keep 'em from abducting our @@ANIMALPLURAL@@."
+2. "Spies! It's gotta be spies! A few planes or satellites from our enemies or 'allies' in our region," rages General @@RANDOM_NAME@@, head of @@NAME@@'s military, "The only way to keep those snoops out of our airspace is to patrol the streets 'n skies, and shoot 'em down! Even if they are some sort of little green aliens, a couple of SAM batteries and a few flak cannons'll keep 'em from abducting our @@ANIMAL_PLURAL@@."
 
-3. "Extraterrestrial lifeforms? Alien invaders? I don't know why we even have to listen to such idiocy!" complains prize-winning physicist @@RANDOMNAME@@. "In my opinion, the idea of 'aliens' on another planet is highly unlikely, and even if they did exist, getting from there to here is technically impossible! I say we forget this nonsense and stop spending our tax @@CURRENCYPLURAL@@ on it. Leave this sort of foolishness to the people who attend those 'trekkie' conventions."
+3. "Extraterrestrial lifeforms? Alien invaders? I don't know why we even have to listen to such idiocy!" complains prize-winning physicist @@RANDOM_NAME@@. "In my opinion, the idea of 'aliens' on another planet is highly unlikely, and even if they did exist, getting from there to here is technically impossible! I say we forget this nonsense and stop spending our tax @@CURRENCY_PLURAL@@ on it. Leave this sort of foolishness to the people who attend those 'trekkie' conventions."
 
 -------------------------------------------------------------------------------
 [b][anchor=082]#[/anchor][anchor=82]82[/anchor]: AI Researchers Rally For Android Rights [Eniqcir; ed: SalusaSecondus][/b]
@@ -86,11 +86,11 @@ The Issue
 Following recent advances in artificial intelligence, debate has arrisen in @@NAME@@ over whether AI's should have the right to citizenship.
 
 The Debate
-1. "Giving citizenship to computers and software programs is just downright crazy," says citizen @@RANDOMNAME@@. "Who knows if they're even really alive? Just because some of them may look human doesn't mean they're equal to us. It could all just be imitation."
+1. "Giving citizenship to computers and software programs is just downright crazy," says citizen @@RANDOM_NAME@@. "Who knows if they're even really alive? Just because some of them may look human doesn't mean they're equal to us. It could all just be imitation."
 
-2. "These beings have just as much of a right to citizenship as the rest of us," argues civil rights activist @@RANDOMNAME@@. "True, we may not be able to tell if they're really 'alive', per se, but how can we tell that they aren't? But the androids should be put at the top of the list. At least we know that they have the same viewpoint as us humans."
+2. "These beings have just as much of a right to citizenship as the rest of us," argues civil rights activist @@RANDOM_NAME@@. "True, we may not be able to tell if they're really 'alive', per se, but how can we tell that they aren't? But the androids should be put at the top of the list. At least we know that they have the same viewpoint as us humans."
 
-3. "This is craziness!" says @@RANDOMNAME@@, a resident interviewed by the popular news show 'Talk o' the Town'. "It's just blasphemy, plain and simple! We're, like, playin' God here! It's evil, man, evil! What if they turned against us? All forms of AI should be banned, dudes."
+3. "This is craziness!" says @@RANDOM_NAME@@, a resident interviewed by the popular news show 'Talk o' the Town'. "It's just blasphemy, plain and simple! We're, like, playin' God here! It's evil, man, evil! What if they turned against us? All forms of AI should be banned, dudes."
 
 -------------------------------------------------------------------------------
 [b][anchor=083]#[/anchor][anchor=83]83[/anchor]: High-Speed Monorail Service Promises Connections [Baudrillard; ed: Reploid Productions][/b]
@@ -99,13 +99,13 @@ The Issue
 Vroom-A-Zoom-Zoom (VAZZ), a consortium of weird-looking hippies and yuppie roller coaster aficionados, has developed plans for a high-speed monorail service for @@NAME@@ to help counter and relieve problems brought about by banning cars.
 
 The Debate
-1. "This is great," says @@RANDOMNAME@@, devout anti-spending advocate. "You know what'll happen? The government will invest huge sums of money in a service no one will use. I suggest nipping it in the bud... and cutting back government spending across the board while you're at it."
+1. "This is great," says @@RANDOM_NAME@@, devout anti-spending advocate. "You know what'll happen? The government will invest huge sums of money in a service no one will use. I suggest nipping it in the bud... and cutting back government spending across the board while you're at it."
 
-[2]. "I disagree," says @@RANDOMNAME@@ of Vroom-A-Zoom-Zoom Ltd. "If people are worried about the costs, why not let the monorail service be a private company? That way, it will have to compete with other industries and make a profit. And don't forget that'll bring in more tax revenue. Of course, that would make fares too pricey for a lot of people, but the rich would probably use it a lot!" [[color=blue]Must have private industry[/color]]
+[2]. "I disagree," says @@RANDOM_NAME@@ of Vroom-A-Zoom-Zoom Ltd. "If people are worried about the costs, why not let the monorail service be a private company? That way, it will have to compete with other industries and make a profit. And don't forget that'll bring in more tax revenue. Of course, that would make fares too pricey for a lot of people, but the rich would probably use it a lot!" [[color=blue]Must have private industry[/color]]
 
-*3. "I really disagree," says @@RANDOMNAME@@, an unwashed denizen standing in the middle of Noh Weir, population 200, on the outskirts of @@NAME@@. "The state must run the monorail service, otherwise it's useless. What a monorail system should do is connect both large and small cities, and the only way to do that is for the government to run the rails, using the profits from the larger cities to subsidize the routes for smaller ones." [[color=blue]Must have private industry[/color]]
+*3. "I really disagree," says @@RANDOM_NAME@@, an unwashed denizen standing in the middle of Noh Weir, population 200, on the outskirts of @@NAME@@. "The state must run the monorail service, otherwise it's useless. What a monorail system should do is connect both large and small cities, and the only way to do that is for the government to run the rails, using the profits from the larger cities to subsidize the routes for smaller ones." [[color=blue]Must have private industry[/color]]
 
-*4. "I really disagree," says @@RANDOMNAME@@, an unwashed denizen standing in the middle of Noh Weir, population 200, on the outskirts of @@NAME@@. "We need this monorail service to connect both large and small cities, with equal access to transport for all the workers, all of the time." [[color=red]Must not have private industry[/color]]
+*4. "I really disagree," says @@RANDOM_NAME@@, an unwashed denizen standing in the middle of Noh Weir, population 200, on the outskirts of @@NAME@@. "We need this monorail service to connect both large and small cities, with equal access to transport for all the workers, all of the time." [[color=red]Must not have private industry[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=084]#[/anchor][anchor=84]84[/anchor]: Compulsory Gun Ownership? [Tristram; ed: SalusaSecondus][/b]
@@ -114,9 +114,9 @@ The Issue
 This weekend, a citizen's group calling itself Gun Owners of @@NAME@@ has petitioned Congress with a controversial bill making gun ownership compulsory.
 
 The Debate
-1. "This is a very important step to securing the rights and lives of our families and controlling the government," urges noted gun ownership proponent @@RANDOMNAME@@. "Not only would it significantly decrease crime, but it would also effectively stop government tyranny in its tracks. Of course, this also means that every wacko and their cousin will have a gun, but don't worry, you'll have a gun to defend yourself from them, so it will all work out."
+1. "This is a very important step to securing the rights and lives of our families and controlling the government," urges noted gun ownership proponent @@RANDOM_NAME@@. "Not only would it significantly decrease crime, but it would also effectively stop government tyranny in its tracks. Of course, this also means that every wacko and their cousin will have a gun, but don't worry, you'll have a gun to defend yourself from them, so it will all work out."
 
-2. "While the Gun Owners of @@NAME@@ have the safety and security of our people in mind, it would simply be impractical to enforce," comments Police Chief @@RANDOMNAME@@. "A better option would be to legalize, and encourage use of, concealed carry laws, which would allow responsible citizens to keep firearms with them at all times, on their person, to kill any wacko or their cousin who they think is threatening them."
+2. "While the Gun Owners of @@NAME@@ have the safety and security of our people in mind, it would simply be impractical to enforce," comments Police Chief @@RANDOM_NAME@@. "A better option would be to legalize, and encourage use of, concealed carry laws, which would allow responsible citizens to keep firearms with them at all times, on their person, to kill any wacko or their cousin who they think is threatening them."
 
 3. "Compulsory gun ownership?! Concealed carry?! Are these fools nuts?!" rants an enraged Million Mummy March activist. "We don't need any of these things! What we need is complete gun registration, so that the government can track down dangerous people, like those people who possess unregistered weapons."
 
@@ -127,11 +127,11 @@ The Issue
 A surprise raid conducted on ISPs over the last week in @@NAME@@ shows that more than 30% of all Internet data transfer in @@NAME@@ at one time or another is used by illegal file-shares to illegally distribute files, most notably songs.
 
 The Debate
-1. "What we need to do is hack their computers and format their hard drives," says @@RANDOMNAME@@, recording industry representative. "People need to be taught to not mess with the law. This is theft, pure and simple. And they're not only halving our revenue to tune of billions of @@CURRENCYPLURAL@@, but you are also stealing a few hundredths of a @@CURRENCY@@ from the artist for every song they steal. THINK OF THE STARVING ARTISTS!"
+1. "What we need to do is hack their computers and format their hard drives," says @@RANDOM_NAME@@, recording industry representative. "People need to be taught to not mess with the law. This is theft, pure and simple. And they're not only halving our revenue to tune of billions of @@CURRENCY_PLURAL@@, but you are also stealing a few hundredths of a @@CURRENCY@@ from the artist for every song they steal. THINK OF THE STARVING ARTISTS!"
 
-2. "Yo, dude, like, don't be hatin' man," says teenager @@RANDOMNAME@@. "We're like, going to change the whole structure of our society. Everything should be like, publicly available to, like, everybody, dude. Copyrights are so, like, uncool man and we need to get rid of them. That'd be totally radical, and cool as well."
+2. "Yo, dude, like, don't be hatin' man," says teenager @@RANDOM_NAME@@. "We're like, going to change the whole structure of our society. Everything should be like, publicly available to, like, everybody, dude. Copyrights are so, like, uncool man and we need to get rid of them. That'd be totally radical, and cool as well."
 
-3. "Yo, dang, blizzity blang, yo, this ain't, right, yo," says @@RANDOMNAME@@, famous rapper with three platinum albums. "Dang, yo, we dang need to protect my dang music files, yo, so yo' gotta be registered an' online to listen, yo. It's the only way to stop this, dang, yo."
+3. "Yo, dang, blizzity blang, yo, this ain't, right, yo," says @@RANDOM_NAME@@, famous rapper with three platinum albums. "Dang, yo, we dang need to protect my dang music files, yo, so yo' gotta be registered an' online to listen, yo. It's the only way to stop this, dang, yo."
 
 -------------------------------------------------------------------------------
 [b][anchor=086]#[/anchor][anchor=86]86[/anchor]: Save The @@ANIMAL@@ [Oddballfullness; ed: SalusaSecondus][/b]
@@ -140,9 +140,9 @@ The Issue
 In desperation at the plight of the @@ANIMAL@@, which has virtually no natural habitat left in @@NAME@@, a somewhat unorthodox environmental group demands that the few surviving specimens be domesticated and sold in pet stores.
 
 The Debate
-1. "We must act now, before the @@ANIMAL@@ is lost forever," said spokesperson @@RANDOMNAME@@ during a recent interview. "Domestication has ensured the survival of many endangered species in the past, and there really is no alternative left at this point. Besides, I'm sure many families would be thrilled to welcome a @@ANIMAL@@ into their homes."
+1. "We must act now, before the @@ANIMAL@@ is lost forever," said spokesperson @@RANDOM_NAME@@ during a recent interview. "Domestication has ensured the survival of many endangered species in the past, and there really is no alternative left at this point. Besides, I'm sure many families would be thrilled to welcome a @@ANIMAL@@ into their homes."
 
-2. "Sure, @@ANIMALPLURAL@@ might look cute and harmless to you," says retired hunting legend @@RANDOMNAME@@, "but back in my day, they were the scourge on the nation. They carry a number of dangerous diseases, and you do NOT want to be bitten by one. My cousin was once bitten by a @@ANIMAL@@ and he's never been the same since! So now you want my grandchildren exposed to these things? The sooner they disappear completely, the better!"
+2. "Sure, @@ANIMAL_PLURAL@@ might look cute and harmless to you," says retired hunting legend @@RANDOM_NAME@@, "but back in my day, they were the scourge on the nation. They carry a number of dangerous diseases, and you do NOT want to be bitten by one. My cousin was once bitten by a @@ANIMAL@@ and he's never been the same since! So now you want my grandchildren exposed to these things? The sooner they disappear completely, the better!"
 
 -------------------------------------------------------------------------------
 [b][anchor=087]#[/anchor][anchor=87]87[/anchor]: Burn! Burn Everything! [PRC China; ed: Reploid Productions][/b]
@@ -151,11 +151,11 @@ The Issue
 A recent anti-government rally by highly disgruntled teens has brought a previously minor issue to the fore: should people be permitted to burn @@NAME@@'s flag, or should it be a crime?
 
 The Debate
-1. "We should be able to burn the flag as a sign of protest. I say ignore those crazy red-blooded fanatics who won't let us! After all it's because we are a tolerant nation that we should allow it!" says @@RANDOMNAME@@, civil rights activist, while accidentally immolating many nearby protesters.
+1. "We should be able to burn the flag as a sign of protest. I say ignore those crazy red-blooded fanatics who won't let us! After all it's because we are a tolerant nation that we should allow it!" says @@RANDOM_NAME@@, civil rights activist, while accidentally immolating many nearby protesters.
 
-2. "Burning should be allowed for everything! Down with the pig cops and their repressive regime!" says well-known anarchist and arsonist @@RANDOMNAME@@, from the comfy and non-flammable confines of @@HIS@@ prison cell. "Burn! Burn burn burn! Everything! Kyahahaha!"
+2. "Burning should be allowed for everything! Down with the pig cops and their repressive regime!" says well-known anarchist and arsonist @@RANDOM_NAME@@, from the comfy and non-flammable confines of @@HIS@@ prison cell. "Burn! Burn burn burn! Everything! Kyahahaha!"
 
-3. "These barbarians are suggesting burning the flag of our glorious nation as if it were a piece of scrap cloth! First it's burning the flag, and before you know it, it's rebellion and anarchy!" @@RANDOMNAME@@ scowls. "Flag burning should be punishable by jail terms and a good flogging!"
+3. "These barbarians are suggesting burning the flag of our glorious nation as if it were a piece of scrap cloth! First it's burning the flag, and before you know it, it's rebellion and anarchy!" @@RANDOM_NAME@@ scowls. "Flag burning should be punishable by jail terms and a good flogging!"
 
 -------------------------------------------------------------------------------
 [b][anchor=088]#[/anchor][anchor=88]88[/anchor]: Cannibals Demand To Taste What @@NAME@@ Has To Offer [Sovereign Discord; ed: Reploid Productions][/b]
@@ -164,11 +164,11 @@ The Issue
 A coalition of tribalists, health experts, and civil rights proponents have recently suggested legalizing cannibalism for consumers of willing would-be meals.
 
 The Debate
-1. "I see absolutely no problem with people digging into each other at dinnertime, so long as everyone is willing," @@RANDOMNAME@@, the editor of the monthly magazine '[i]To Serve Man[/i]', quips, "Not only does it solve hunger problems and create jobs, but it also adds variety to @@NAME@@'s sometimes dull palette."
+1. "I see absolutely no problem with people digging into each other at dinnertime, so long as everyone is willing," @@RANDOM_NAME@@, the editor of the monthly magazine '[i]To Serve Man[/i]', quips, "Not only does it solve hunger problems and create jobs, but it also adds variety to @@NAME@@'s sometimes dull palette."
 
-2. Civil rights leader @@RANDOMNAME@@ came out publicly for moderate pro-cannibalism legislation, commenting, "While it may strike some as a crude, even evil practice, our ancestors have practiced cannibalism for years. If we create a government organization to strictly regulate and grade all human meat prior to its arrival on the market, we can ensure that respect for diversity is maintained while health concerns are also allayed. And instead of killing average people, why not make being turned into snack foods a post-mortem option? Like donating your body to science!"
+2. Civil rights leader @@RANDOM_NAME@@ came out publicly for moderate pro-cannibalism legislation, commenting, "While it may strike some as a crude, even evil practice, our ancestors have practiced cannibalism for years. If we create a government organization to strictly regulate and grade all human meat prior to its arrival on the market, we can ensure that respect for diversity is maintained while health concerns are also allayed. And instead of killing average people, why not make being turned into snack foods a post-mortem option? Like donating your body to science!"
 
-3. "You're all absolutely out of your minds!" exclaims @@RANDOMNAME@@, head of @@NAME@@'s largest health-food manufacturer. "It's immoral, it's unhealthy, and it's disgusting. Not only are these so-called 'dietary rights' activists leading us down a dark path of sin, but right into a marketplace with yet another product that's almost as bad as beef!"
+3. "You're all absolutely out of your minds!" exclaims @@RANDOM_NAME@@, head of @@NAME@@'s largest health-food manufacturer. "It's immoral, it's unhealthy, and it's disgusting. Not only are these so-called 'dietary rights' activists leading us down a dark path of sin, but right into a marketplace with yet another product that's almost as bad as beef!"
 
 -------------------------------------------------------------------------------
 [b][anchor=089]#[/anchor][anchor=89]89[/anchor]: "Don't Dam Our Rivers, Damnit!" Say Protesters [Frigben; ed: Reploid Productions][/b]
@@ -177,9 +177,9 @@ The Issue
 A group of Greenpeace protesters have called for an end to a government proposal to begin damming rivers in @@NAME@@ to increase water supplies and generate power.
 
 The Debate
-1. "Don't build dams!" shouts protestor @@RANDOMNAME@@ through a microphone heavily afflicted with feedback. "Do you know how many fish die in other dams in our region each year? Have you heard of the adverse effects building a dam has on the surrounding environment? Dam up this flood of dams, damn it!"
+1. "Don't build dams!" shouts protestor @@RANDOM_NAME@@ through a microphone heavily afflicted with feedback. "Do you know how many fish die in other dams in our region each year? Have you heard of the adverse effects building a dam has on the surrounding environment? Dam up this flood of dams, damn it!"
 
-2. "Think before you open your mouth," says engineer @@RANDOMNAME@@. "While @@NAME@@ may have to pay the price in animal diversity, as well as adverse effects on the environment, do we really want fossil-fuel based plants polluting @@NAME@@? If you use your common sense, I think you'll find that damming some rivers would be a good idea. Plus, think of how much the economy would benefit from all the jobs these projects would create."
+2. "Think before you open your mouth," says engineer @@RANDOM_NAME@@. "While @@NAME@@ may have to pay the price in animal diversity, as well as adverse effects on the environment, do we really want fossil-fuel based plants polluting @@NAME@@? If you use your common sense, I think you'll find that damming some rivers would be a good idea. Plus, think of how much the economy would benefit from all the jobs these projects would create."
 
 -------------------------------------------------------------------------------
 [b][anchor=090]#[/anchor][anchor=90]90[/anchor]: Organic Outburst [Dark_Zephyr; ed: Reploid Productions][/b]
@@ -188,11 +188,11 @@ The Issue
 After a recent left-wing broadsheet exposé of agricultural practices, an outburst of public paranoia has stirred up the organic foods debate.
 
 The Debate
-1. "I just can't stomach it any more," rants concerned parent @@RANDOMNAME@@. "My children's future is being put at risk by irresponsible corporate practices. We must outlaw the use of pesticides and additives by farmers and food producers."
+1. "I just can't stomach it any more," rants concerned parent @@RANDOM_NAME@@. "My children's future is being put at risk by irresponsible corporate practices. We must outlaw the use of pesticides and additives by farmers and food producers."
 
-2. "I've heard enough of this treehugging, lefty nonsense," argues corporate spokesman @@RANDOMNAME@@. "The agricultural industry needs to use the most advanced technology available, it's the only way to keep @@NAME@@ competitive in food production. Besides, the studies we have commissioned prove that only a very small number of child deaths are due to our products, and surely that's an acceptable rate in the name of progress?"
+2. "I've heard enough of this treehugging, lefty nonsense," argues corporate spokesman @@RANDOM_NAME@@. "The agricultural industry needs to use the most advanced technology available, it's the only way to keep @@NAME@@ competitive in food production. Besides, the studies we have commissioned prove that only a very small number of child deaths are due to our products, and surely that's an acceptable rate in the name of progress?"
 
-3. "Stop torturing Mother Earth!" yells outraged environmental extremist @@RANDOMNAME@@. "Are we prepared to sacrifice our planet and our souls for the sake of a few extra @@CURRENCYPLURAL@@? If we hope to live in harmony with the environment that nurtures and protects us, we must ban all industries that pollute our world. Let us return to the trees, my brothers!"
+3. "Stop torturing Mother Earth!" yells outraged environmental extremist @@RANDOM_NAME@@. "Are we prepared to sacrifice our planet and our souls for the sake of a few extra @@CURRENCY_PLURAL@@? If we hope to live in harmony with the environment that nurtures and protects us, we must ban all industries that pollute our world. Let us return to the trees, my brothers!"
 
 -------------------------------------------------------------------------------
 [b][anchor=091]#[/anchor][anchor=91]91[/anchor]: Sacramental Tax Time? [Rational Self Interest; ed: Reploid Productions][/b]
@@ -201,13 +201,13 @@ The Issue
 Secularists have been urging the government to impose corporation tax on religious organizations in @@NAME@@ for some time now, and the issue has finally made its way to the upper levels of the government.
 
 The Debate
-*1. Self-appointed civil rights spokesperson @@RANDOMNAME@@ declares, "Churches are business organizations with a large income. It's unfair that they don't have to pay the same taxes that everyone else does. If they really do spend any money on charity, let them write it off as a deduction just like corporations do. There's no reason that so-called clergy should be chauffeured around in limos tax-free, when we desperately need funds for public works." [[color=blue]Cars are legal[/color]]
+*1. Self-appointed civil rights spokesperson @@RANDOM_NAME@@ declares, "Churches are business organizations with a large income. It's unfair that they don't have to pay the same taxes that everyone else does. If they really do spend any money on charity, let them write it off as a deduction just like corporations do. There's no reason that so-called clergy should be chauffeured around in limos tax-free, when we desperately need funds for public works." [[color=blue]Cars are legal[/color]]
 
-*2. Self-appointed civil rights spokesperson @@RANDOMNAME@@ declares, "Churches are business organizations with a large income. It's unfair that they don't have to pay the same taxes that everyone else does. If they really do spend any money on charity, let them write it off as a deduction just like corporations do. There's no reason that so-called clergy should be chauffeured around in gilded carriages tax-free, when we desperately need funds for public works." [[color=red]Cars are banned[/color]]
+*2. Self-appointed civil rights spokesperson @@RANDOM_NAME@@ declares, "Churches are business organizations with a large income. It's unfair that they don't have to pay the same taxes that everyone else does. If they really do spend any money on charity, let them write it off as a deduction just like corporations do. There's no reason that so-called clergy should be chauffeured around in gilded carriages tax-free, when we desperately need funds for public works." [[color=red]Cars are banned[/color]]
 
-3. "Freedom of conscience is foremost among liberties," says Reverend @@RANDOMNAME@@. "Churches have been exempted from taxation because it is wrong for the government to infringe on the right of people to worship as they please, and that includes charging them for the right to worship. Besides, churches are non-profit organizations that put all their funds back into the community."
+3. "Freedom of conscience is foremost among liberties," says Reverend @@RANDOM_NAME@@. "Churches have been exempted from taxation because it is wrong for the government to infringe on the right of people to worship as they please, and that includes charging them for the right to worship. Besides, churches are non-profit organizations that put all their funds back into the community."
 
-[4]. The Honorable @@RANDOMNAME@@, Minister of Minding Other People's Business, has an idea: "This religion thing is such a great racket, why don't we make it a government monopoly? We'll ban all religions except @@FAITH@@, and make attendance and donations compulsory. I'll start writing the Holy Proclamation right away!" [[color=purple]Must have a national religion[/color]]
+[4]. The Honorable @@RANDOM_NAME@@, Minister of Minding Other People's Business, has an idea: "This religion thing is such a great racket, why don't we make it a government monopoly? We'll ban all religions except @@FAITH@@, and make attendance and donations compulsory. I'll start writing the Holy Proclamation right away!" [[color=purple]Must have a national religion[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=092]#[/anchor][anchor=92]92[/anchor]: @@NAME@@ Officials Needled About Mandatory Vaccinations [GDrabble; ed: Reploid Productions][/b]
@@ -216,24 +216,24 @@ The Issue
 Health workers are frequently being ignored by people when recommending vaccinations against common illnesses. When these people subsequently become ill they require expensive emergency care. To correct this situation, many health experts are lobbying for mandatory vaccinations.
 
 The Debate
-1. @@RANDOMNAME@@, a pro-vaccination taxpayer, says "If a doctor thinks a vaccination is good for you then you should have it. All these people turning them down are know-it-alls that are wasting my tax money. Or they're really afraid of needles."
+1. @@RANDOM_NAME@@, a pro-vaccination taxpayer, says "If a doctor thinks a vaccination is good for you then you should have it. All these people turning them down are know-it-alls that are wasting my tax money. Or they're really afraid of needles."
 
-2. @@RANDOMNAME@@, who recently refused a vaccination, says that vaccines must remain completely optional: "Anything else is a breach of human rights. Doctors are not always right!" @@HE@@ says. "I'm perfectly capable of deciding what is best for my body!"
+2. @@RANDOM_NAME@@, who recently refused a vaccination, says that vaccines must remain completely optional: "Anything else is a breach of human rights. Doctors are not always right!" @@HE@@ says. "I'm perfectly capable of deciding what is best for my body!"
 
-3. @@RANDOMNAME@@, @@NAME@@'s leading expert on health spending, suggests a third way. "Leave vaccines optional but make free health care conditional on having them. That way people get to choose, and it will help ease the load on our national healthcare budget."
+3. @@RANDOM_NAME@@, @@NAME@@'s leading expert on health spending, suggests a third way. "Leave vaccines optional but make free health care conditional on having them. That way people get to choose, and it will help ease the load on our national healthcare budget."
 
 -------------------------------------------------------------------------------
 [b][anchor=093]#[/anchor][anchor=93]93[/anchor]: Affirmative Action in @@NAME@@? [The Orange Freestate; ed: Reploid Productions][/b]
 
 The Issue
-After minority student @@RANDOMNAME@@ was refused admission to a traditional, prestigious college, civil rights activists, conservatives, and teachers are up in arms about affirmative action and ethnic equality in education.
+After minority student @@RANDOM_NAME@@ was refused admission to a traditional, prestigious college, civil rights activists, conservatives, and teachers are up in arms about affirmative action and ethnic equality in education.
 
 The Debate
-1. "I think you'll find there's actually no problem here," observes conservative speaker and hair care product salesperson @@RANDOMNAME@@. "A student wants to go to a particular school, but lacks the grades. Clearly, he should have studied harder in school. But oh, because he's a so-called minority, it's everyone else's fault. I'm sorry, but the system is working perfectly well: What gets you into a good school is merit alone. Or, failing that, a generous donation."
+1. "I think you'll find there's actually no problem here," observes conservative speaker and hair care product salesperson @@RANDOM_NAME@@. "A student wants to go to a particular school, but lacks the grades. Clearly, he should have studied harder in school. But oh, because he's a so-called minority, it's everyone else's fault. I'm sorry, but the system is working perfectly well: What gets you into a good school is merit alone. Or, failing that, a generous donation."
 
-2. "Are you blind, or do you simply refuse to see?" thunders civil-rights activist, former TV commentator and unabashed publicity speaker @@RANDOMNAME@@. "Oh yes, it's all perfectly equal, if we ignore the fact that this poor boy was stacking shelves to pay for textbooks in a falling-down school while the nice rich boys were enjoying private tutoring! Affirmative action is needed to balance out the very real disadvantages that many students grow up with! And there's no better way to identify that disadvantage than with broad, sweeping demographics!"
+2. "Are you blind, or do you simply refuse to see?" thunders civil-rights activist, former TV commentator and unabashed publicity speaker @@RANDOM_NAME@@. "Oh yes, it's all perfectly equal, if we ignore the fact that this poor boy was stacking shelves to pay for textbooks in a falling-down school while the nice rich boys were enjoying private tutoring! Affirmative action is needed to balance out the very real disadvantages that many students grow up with! And there's no better way to identify that disadvantage than with broad, sweeping demographics!"
 
-3. "I think you're both loony," says @@RANDOMNAME@@, professor of liberal arts at @@NAME@@ National University. "In my humble opinion, the solution is simple: make college education free to all. Why turn away anyone? Throw open the gates and make college education available to every citizen of @@NAME@@, regardless of their economic status, grades, or work ethic!"
+3. "I think you're both loony," says @@RANDOM_NAME@@, professor of liberal arts at @@NAME@@ National University. "In my humble opinion, the solution is simple: make college education free to all. Why turn away anyone? Throw open the gates and make college education available to every citizen of @@NAME@@, regardless of their economic status, grades, or work ethic!"
 
 -------------------------------------------------------------------------------
 [b][anchor=094]#[/anchor][anchor=94]94[/anchor]: Computer Users Fed Up With Heaps of Spam! [Bored Yawning; ed: Reploid Productions][/b]
@@ -242,13 +242,13 @@ The Issue
 A survey citing a tremendous increase in unsolicited emails has added fire to the subject of what many view as a scourge of the Internet.
 
 The Debate
-1. "The spam problem is out of control," states anti-spam advocate @@RANDOMNAME@@. "I get at least fifty spam e-mails a day. That isn't even counting the spam people are posting to my newsgroup and to my messageboard. This junk is a waste of time in that I have to delete it and a waste of my money in that I have to buy anti-spam programs-which hardly work anyway. People get swindled by this stuff - it should be a crime, just like regular fraud."
+1. "The spam problem is out of control," states anti-spam advocate @@RANDOM_NAME@@. "I get at least fifty spam e-mails a day. That isn't even counting the spam people are posting to my newsgroup and to my messageboard. This junk is a waste of time in that I have to delete it and a waste of my money in that I have to buy anti-spam programs-which hardly work anyway. People get swindled by this stuff - it should be a crime, just like regular fraud."
 
-*2. "A ban on all spam is a restriction on our freedom of speech and on the freedom of the press!" screams @@RANDOMNAME@@ president of Citizens for Internet Freedom. "What is the government to say what is and isn't commercial spam? Could they haul charity representatives off to jail for seeking donations? Could they jail politicians for using e-mail to try and gain votes? Could they arrest me if I accidentally send my erotic novel-in-progress to the wrong address? Seriously, spamming is a subjective offense and as such should not be considered a crime." [[color=blue]Must allow elections[/color]]
+*2. "A ban on all spam is a restriction on our freedom of speech and on the freedom of the press!" screams @@RANDOM_NAME@@ president of Citizens for Internet Freedom. "What is the government to say what is and isn't commercial spam? Could they haul charity representatives off to jail for seeking donations? Could they jail politicians for using e-mail to try and gain votes? Could they arrest me if I accidentally send my erotic novel-in-progress to the wrong address? Seriously, spamming is a subjective offense and as such should not be considered a crime." [[color=blue]Must allow elections[/color]]
 
 *3. TBD [[color=red]Must not allow elections[/color]]
 
-4. "Both sides are wrong," grumbles government paper-pusher @@RANDOMNAME@@. "Spam is definitely a problem, yet so is the restriction on freedoms which some draconian anti-spam codes would impose. I propose a ban on overtly fraudulent spam, and a tax on more legitimate businesses that rely on spam as an advertising method, and a strict legal definition of spam that would ensure no innocent person was prosecuted or taxed."
+4. "Both sides are wrong," grumbles government paper-pusher @@RANDOM_NAME@@. "Spam is definitely a problem, yet so is the restriction on freedoms which some draconian anti-spam codes would impose. I propose a ban on overtly fraudulent spam, and a tax on more legitimate businesses that rely on spam as an advertising method, and a strict legal definition of spam that would ensure no innocent person was prosecuted or taxed."
 
 -------------------------------------------------------------------------------
 [b][anchor=095]#[/anchor][anchor=95]95[/anchor]: Painful Prices Paid At The Pump [Aljerfribish; ed: Reploid Productions][/b]
@@ -257,9 +257,9 @@ The Issue
 Commuters are complaining about the ongoing rise in gas prices, causing a massive debate in the government about what should be done.
 
 The Debate
-1. "Who cares about a few trees?" says oil executive @@RANDOMNAME@@. "Gas prices are six @@CURRENCYPLURAL@@ per gallon, and rising! There is lots of oil to be found in areas currently protected as parks! Solving our energy needs is more important than conserving the environment. Just give us permission to go in there and start drilling, and gas prices will plummet!"
+1. "Who cares about a few trees?" says oil executive @@RANDOM_NAME@@. "Gas prices are six @@CURRENCY_PLURAL@@ per gallon, and rising! There is lots of oil to be found in areas currently protected as parks! Solving our energy needs is more important than conserving the environment. Just give us permission to go in there and start drilling, and gas prices will plummet!"
 
-2. "There are other ways to recover from the fossil fuel crisis besides ruining forests," says environmental activist @@RANDOMNAME@@. "We shouldn't just take the short way out and drill here. I suggest spending more money on public transportation systems and encouraging people to carpool - if people weren't so reliant on fossil fuel powered cars, we wouldn't be in this situation in the first place, and if we start using less oil, the price will drop with the demand."
+2. "There are other ways to recover from the fossil fuel crisis besides ruining forests," says environmental activist @@RANDOM_NAME@@. "We shouldn't just take the short way out and drill here. I suggest spending more money on public transportation systems and encouraging people to carpool - if people weren't so reliant on fossil fuel powered cars, we wouldn't be in this situation in the first place, and if we start using less oil, the price will drop with the demand."
 
 -------------------------------------------------------------------------------
 [b][anchor=096]#[/anchor][anchor=96]96[/anchor]: Water Supply Problems Becoming A Major Drain [Calvin n Hobbes; ed: Reploid Productions][/b]
@@ -268,30 +268,30 @@ The Issue
 Due to the explosive population growth in @@NAME@@, coupled with recent droughts, people are beginning to worry about the nation's decreasing water supply, and who should get first dibs on the vital H2O.
 
 The Debate
-1*. "We need this water to raise our crops," says incensed farmer @@RANDOMNAME@@. "If it wasn't for us farmers, the rest of @@NAME@@ would be starving. How about laying the blame where it belongs, and look to those cookie cutter suburban houses with their green lawns and pristinely washed mini-vans!" [[color=purple]Must have cars[/color]]
+1*. "We need this water to raise our crops," says incensed farmer @@RANDOM_NAME@@. "If it wasn't for us farmers, the rest of @@NAME@@ would be starving. How about laying the blame where it belongs, and look to those cookie cutter suburban houses with their green lawns and pristinely washed mini-vans!" [[color=purple]Must have cars[/color]]
 
-2*. "We need this water to raise our crops," says incensed farmer @@RANDOMNAME@@. "If it wasn't for us farmers, the rest of @@NAME@@ would be starving. How about laying the blame where it belongs, and look to those cookie cutter suburban houses with their green lawns and pristinely-washed fancy carriages!" [[color=purple]Must not have cars[/color]]
+2*. "We need this water to raise our crops," says incensed farmer @@RANDOM_NAME@@. "If it wasn't for us farmers, the rest of @@NAME@@ would be starving. How about laying the blame where it belongs, and look to those cookie cutter suburban houses with their green lawns and pristinely-washed fancy carriages!" [[color=purple]Must not have cars[/color]]
 
-3. "It is my right to have the most beautiful lawn in the neighborhood," says neighborhood spokesman @@RANDOMNAME@@. "Our community spends a lot of effort cultivating a nice environment for our kids to grow up in. Why, if they didn't have these nice lawns to play in, they would be hanging out on street corners peddling drugs, or worse! Won't someone please think of the children?"
+3. "It is my right to have the most beautiful lawn in the neighborhood," says neighborhood spokesman @@RANDOM_NAME@@. "Our community spends a lot of effort cultivating a nice environment for our kids to grow up in. Why, if they didn't have these nice lawns to play in, they would be hanging out on street corners peddling drugs, or worse! Won't someone please think of the children?"
 
-4. "Here is a novel idea," proclaims @@RANDOMNAME@@, spokesperson for radical environmental group [i]Leave Nature Alone[/i]. "How about getting rid of all these dams and irrigation projects that are getting in the way of Mother Nature's plans for the water. It is time to allow the rivers to take their natural courses and leave the environment alone. I'm sure things will work out fine if we let Nature take its course."
+4. "Here is a novel idea," proclaims @@RANDOM_NAME@@, spokesperson for radical environmental group [i]Leave Nature Alone[/i]. "How about getting rid of all these dams and irrigation projects that are getting in the way of Mother Nature's plans for the water. It is time to allow the rivers to take their natural courses and leave the environment alone. I'm sure things will work out fine if we let Nature take its course."
 
-5. "Obviously, who gets how much water is only a part of the problem," notes famed population-control advocate @@RANDOMNAME@@. "We must try to curtail the rapid growth of our population, whether by limiting the amount of children people may have, or by deporting immigrants and criminals... we must get a handle on our population before we can hope to correct this water supply problem."
+5. "Obviously, who gets how much water is only a part of the problem," notes famed population-control advocate @@RANDOM_NAME@@. "We must try to curtail the rapid growth of our population, whether by limiting the amount of children people may have, or by deporting immigrants and criminals... we must get a handle on our population before we can hope to correct this water supply problem."
 
 -------------------------------------------------------------------------------
 [b][anchor=097]#[/anchor][anchor=97]97[/anchor]: Landfills Filling Up [Edolia; ed: Sirocco][/b]
 
 The Issue
-After claims of two-headed @@ANIMALPLURAL@@ being seen near the numerous landfills of @@NAME@@, there have been calls for the government to act.
+After claims of two-headed @@ANIMAL_PLURAL@@ being seen near the numerous landfills of @@NAME@@, there have been calls for the government to act.
 
 The Debate
-1. "Look at that thing!" wails famous environmentalist @@RANDOMNAME@@, pointing at one of @@NAME@@'s largest dumps. "It's an eyesore, a pollutant, and a damn disgrace! What we need to do is get everyone recycling their waste! What we have left we can shoot into space in specially-made space shuttles and we'll never have to think about it again! Sure it'll be expensive, but considering the benefits to the great outdoors, I think we should consider it."
+1. "Look at that thing!" wails famous environmentalist @@RANDOM_NAME@@, pointing at one of @@NAME@@'s largest dumps. "It's an eyesore, a pollutant, and a damn disgrace! What we need to do is get everyone recycling their waste! What we have left we can shoot into space in specially-made space shuttles and we'll never have to think about it again! Sure it'll be expensive, but considering the benefits to the great outdoors, I think we should consider it."
 
-2. "Ah, the expense!" moans @@RANDOMNAME@@, government economist. "Do you have any idea what that would cost?! A much better way of dealing with this waste is to burn it and use the energy it produces to power @@NAME@@'s big cities. There may be a few side-effects on the environment, but with all the cheap power coming in who would care?"
+2. "Ah, the expense!" moans @@RANDOM_NAME@@, government economist. "Do you have any idea what that would cost?! A much better way of dealing with this waste is to burn it and use the energy it produces to power @@NAME@@'s big cities. There may be a few side-effects on the environment, but with all the cheap power coming in who would care?"
 
-3. "Oh come now," says @@RANDOMNAME@@, a nearby suburbanite. "There's no need to bring all the pollution into the cities! These dumps can get a whole lot bigger you know. Just keep piling the rubbish on and we can use them as tourist attractions or something. People will flock to see how high they can climb our artificial mountains! If we run out of space, just knock down a few forests. No one will notice."
+3. "Oh come now," says @@RANDOM_NAME@@, a nearby suburbanite. "There's no need to bring all the pollution into the cities! These dumps can get a whole lot bigger you know. Just keep piling the rubbish on and we can use them as tourist attractions or something. People will flock to see how high they can climb our artificial mountains! If we run out of space, just knock down a few forests. No one will notice."
 
-4. "You're all missing the real solution," argues @@RANDOMNAME@@, president of the '@@NAME@@ First!' society. "Why should we bother building landfills at all? I'm sure that there are plenty of less-fortunate countries out there who would be more than happy to take our litter in return for some cash."
+4. "You're all missing the real solution," argues @@RANDOM_NAME@@, president of the '@@NAME@@ First!' society. "Why should we bother building landfills at all? I'm sure that there are plenty of less-fortunate countries out there who would be more than happy to take our litter in return for some cash."
 
 -------------------------------------------------------------------------------
 [b][anchor=098]#[/anchor][anchor=98]98[/anchor]: Police Want More Than Shiny Badge [Hata-alla; ed: Sirocco][/b]
@@ -300,13 +300,13 @@ The Issue
 After a police officer was forced to apprehend a criminal with nothing more than a tin of beans, there has been an outcry for better equipment.
 
 The Debate
-1. "It's outrageous," says Chief Constable @@RANDOMNAME@@. "This horrible situation could have been sorted out a lot faster if we had had the right equipment! Even the poorest criminals can buy better arms than us! We need more funds - if we have to take a bit of cash off the education and healthcare budgets to pay for it all then so be it!"
+1. "It's outrageous," says Chief Constable @@RANDOM_NAME@@. "This horrible situation could have been sorted out a lot faster if we had had the right equipment! Even the poorest criminals can buy better arms than us! We need more funds - if we have to take a bit of cash off the education and healthcare budgets to pay for it all then so be it!"
 
-2. "I agree with my friend here," says zealous lance-corporal @@RANDOMNAME@@. "But let's go further. Let's create a new anti-crime group with special training and expensive - er - extensive new equipment! That would make the criminals think twice before breaking the law! Especially if our new forces can shoot miscreants at first sight without messing around with time-consuming trials."
+2. "I agree with my friend here," says zealous lance-corporal @@RANDOM_NAME@@. "But let's go further. Let's create a new anti-crime group with special training and expensive - er - extensive new equipment! That would make the criminals think twice before breaking the law! Especially if our new forces can shoot miscreants at first sight without messing around with time-consuming trials."
 
-3. "Hey, hey!" cries anti-gun protester, @@RANDOMNAME@@. "You can't be serious! Weapons kill! Everyone knows that if there were no weapons there'd be no criminals; and if there are no criminals, we won't need to waste valuable government funds on the police! In fact, I say we should go as far as doing away with them altogether! I don't see them doing anything useful anyway, except try to stop our demonstrations! Ban guns! Ban the police! Live for a better tomorrow!"
+3. "Hey, hey!" cries anti-gun protester, @@RANDOM_NAME@@. "You can't be serious! Weapons kill! Everyone knows that if there were no weapons there'd be no criminals; and if there are no criminals, we won't need to waste valuable government funds on the police! In fact, I say we should go as far as doing away with them altogether! I don't see them doing anything useful anyway, except try to stop our demonstrations! Ban guns! Ban the police! Live for a better tomorrow!"
 
-4. "You have to be joking," scoffs @@RANDOMNAME@@, looking up from Buxom Lasses with Big Guns magazine. "If we ban guns, only criminals will be armed. That's no solution. Instead we should completely loosen up restrictions on guns, and then upstanding citizens can fight crime themselves."
+4. "You have to be joking," scoffs @@RANDOM_NAME@@, looking up from Buxom Lasses with Big Guns magazine. "If we ban guns, only criminals will be armed. That's no solution. Instead we should completely loosen up restrictions on guns, and then upstanding citizens can fight crime themselves."
 
 -------------------------------------------------------------------------------
 [b][anchor=099]#[/anchor][anchor=99]99[/anchor]: We Need Cash, Sharpish, Say Librarians [Os Cosia; ed: Sirocco][/b]
@@ -315,13 +315,13 @@ The Issue
 Ailing libraries have appealed to the government for a much-needed injection of funds.
 
 The Debate
-1. "Our libraries are in a dreadful state," says distressed librarian, @@RANDOMNAME@@. "This year we had to cancel our subscription to 'Playboy' and over half of our shelves are stacked with pamphlets from the Pizzeria across the road. We need more books and better standards. If there were more perks in this job then maybe we'd get some decent employees! If it needs a whole lot of government funds to pay for it all then so be it!"
+1. "Our libraries are in a dreadful state," says distressed librarian, @@RANDOM_NAME@@. "This year we had to cancel our subscription to 'Playboy' and over half of our shelves are stacked with pamphlets from the Pizzeria across the road. We need more books and better standards. If there were more perks in this job then maybe we'd get some decent employees! If it needs a whole lot of government funds to pay for it all then so be it!"
 
-2. "Now hold it right there!" says manager of the local MEGA-BOOKS store, @@RANDOMNAME@@. "I employ twenty-four people and we are dependent upon people paying us money to buy books, magazines and newspapers from my store. How can you even think about giving our tax @@CURRENCYPLURAL@@ to these people so they can put us out of business? 'Course poor people won't be able to afford our wares but they'd only use them for fires or somethin'. Let our libraries die."
+2. "Now hold it right there!" says manager of the local MEGA-BOOKS store, @@RANDOM_NAME@@. "I employ twenty-four people and we are dependent upon people paying us money to buy books, magazines and newspapers from my store. How can you even think about giving our tax @@CURRENCY_PLURAL@@ to these people so they can put us out of business? 'Course poor people won't be able to afford our wares but they'd only use them for fires or somethin'. Let our libraries die."
 
-3. "I'm all for giving our libraries more money," says Education Minister, @@RANDOMNAME@@. "But we certainly shouldn't just let them spend it however they please. We need an elected board to oversee all purchases and acquisitions made by our library system, promoting educational literature and keeping out smut. That way we can keep nudity out of the hands of children. We can make sure none of those political satires and newspapers that insult our government affect the weak-minded amongst us too. Then our libraries will be something to be proud of."
+3. "I'm all for giving our libraries more money," says Education Minister, @@RANDOM_NAME@@. "But we certainly shouldn't just let them spend it however they please. We need an elected board to oversee all purchases and acquisitions made by our library system, promoting educational literature and keeping out smut. That way we can keep nudity out of the hands of children. We can make sure none of those political satires and newspapers that insult our government affect the weak-minded amongst us too. Then our libraries will be something to be proud of."
 
-[4]. "Great Scot! I've got it!" exclaims @@RANDOMNAME@@, your science advisor. "Why do we need these brick and mortar buildings anyway? Let's just scan all these books, newspapers and magazines onto the internet and then we can fire all those expensive librarians with their pensions and healthcare benefits. Think of the money we'd save if we didn't have to print everything! Sure it'll be tough on the librarians and those with no computers but hey, this is the future and they are the past." [[color=blue]Must have internet[/color]]
+[4]. "Great Scot! I've got it!" exclaims @@RANDOM_NAME@@, your science advisor. "Why do we need these brick and mortar buildings anyway? Let's just scan all these books, newspapers and magazines onto the internet and then we can fire all those expensive librarians with their pensions and healthcare benefits. Think of the money we'd save if we didn't have to print everything! Sure it'll be tough on the librarians and those with no computers but hey, this is the future and they are the past." [[color=blue]Must have internet[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=100]#100[/anchor]: Road Rage Rampage [SatanSpermSpawn; ed: Reploid Productions][/b]
@@ -330,9 +330,9 @@ The Issue
 Due to the ever-increasing traffic on @@NAME@@'s highways, commuter tempers are flaring, leading to an increase in road rage related accidents. A recent case in which a very impatient driver attacked and seriously injured a slow driver has brought the subject rapidly to the highest levels of the government.
 
 The Debate
-1. "The problem is that our highway system is sorely in need of an overhaul," claims social commentator @@RANDOMNAME@@. "@@NAME@@'s highways were constructed with a far smaller number of cars in mind, and we've exceeded that traffic load by a substantial amount, resulting in traffic jams. Traffic jams lead to impatience, impatience leads to anger, anger leads to road rage, and road rage leads to violence. We need to expand the freeway system by adding more lanes to relieve the traffic congestion."
+1. "The problem is that our highway system is sorely in need of an overhaul," claims social commentator @@RANDOM_NAME@@. "@@NAME@@'s highways were constructed with a far smaller number of cars in mind, and we've exceeded that traffic load by a substantial amount, resulting in traffic jams. Traffic jams lead to impatience, impatience leads to anger, anger leads to road rage, and road rage leads to violence. We need to expand the freeway system by adding more lanes to relieve the traffic congestion."
 
-2. "You add new lanes, even MORE people will drive, putting us right back at square one!" counters @@RANDOMNAME@@ of @@NAME@@'s public transportation committee. "Instead of throwing tons of money at a short-term solution, why not spend it on improving bus and rail service and encouraging carpooling? Oh, and get more highway patrol officers to crack down on these violent drivers who pose safety threats to the rest of us."
+2. "You add new lanes, even MORE people will drive, putting us right back at square one!" counters @@RANDOM_NAME@@ of @@NAME@@'s public transportation committee. "Instead of throwing tons of money at a short-term solution, why not spend it on improving bus and rail service and encouraging carpooling? Oh, and get more highway patrol officers to crack down on these violent drivers who pose safety threats to the rest of us."
 
 3. "*BLEEP!* that *BLEEP!*" Catherine Gratwick yells at the top of her lungs from the window of her very large pickup truck with a gun rack mounted in the rear window. "The government should just *BLEEP!*ing stay out of our daily *BLEEP!*ing drive! They ought to let us *BLEEP!*ing rushed businesspeople go about our daily *BLEEP!*ing business, no matter what *BLEEP!*ing measures we have to take to get to *BLEEP!*ing work on time!"
 

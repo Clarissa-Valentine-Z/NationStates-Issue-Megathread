@@ -19,7 +19,7 @@ The Issue
 After a golf course in North @@CAPITAL@@ was forced to close due to a series of unexplained explosions, the city government purchased the land with the intention of converting it back to the original bogland. However, just before the conversion process was about to tee off, an environmental survey found a population of the non-native, but endangered, Marche Noire Diamond-Backed Gopher off the fourth hole.
 
 The Debate
-1. "Four!" cries grassland ecologist @@RANDOMNAME@@. "This is one of only four known Geomys annoyus populations. The other three are in Marche Noire, but with their lax environmental regulations they are likely to be bulldozed to make room for a military base within the week. Keeping the species existent in the wild — even if it's in a man-made habitat outside of its native range — is more important than a few acres of bogland. Remember: two wrongs don't make a right, but three rights make a left."
+1. "Four!" cries grassland ecologist @@RANDOMNAME@@. "This is one of only four known [i]Geomys annoyus[/i] populations. The other three are in Marche Noire, but with their lax environmental regulations they are likely to be bulldozed to make room for a military base within the week. Keeping the species existent in the wild — even if it's in a man-made habitat outside of its native range — is more important than a few acres of bogland. Remember: two wrongs don't make a right, but three rights make a left."
 
 *2. "That's ridiculous," exclaims bogland ecologist @@RANDOMNAME@@ while swinging a putter at your desk to drive home @@HIS@@ point. "There is precious little bogland left in @@NAME@@; this land could be converted into a habitat that would support a great diversity of native @@DEMONYMADJECTIVE@@ species. Put the gophers in a zoo or something." [[color=blue]Must not ban zoos[/color]]
 
@@ -34,13 +34,13 @@ The Issue
 Corporations from the United Federation have offered to pay your nation to take care of their garbage.
 
 The Debate
-1. “I’m sure you’ll fahnd this here business proposal’s in yer beyust interest, pardner,” suggests Mr. Natas, the CEO of Got Garbage? Inc., lifting his 20-gallon hat over his star-shaped rose-tinted sunglasses. “You’ve got the supplah— of space that iyus, and we’ve got the demayund. Just sahn here, if you would please.”
+1. "I'm sure you'll fahnd this here business proposal's in yer beyust interest, pardner," suggests Mr. Natas, the CEO of Got Garbage? Inc., lifting his 20-gallon hat over his star-shaped rose-tinted sunglasses. "You've got the supplah— of space that iyus, and we've got the demayund. Just sahn here, if you would please."
 
-2. “Don’t you dare sign a deal with this devil,” frantically warns your Minister of Skepticism, holding a magnifying glass up to the contract. “Our coastlines are delicate enough without the addition of some foreigner’s pizza boxes, broken glass, and literal **** floating around in them. Publicly condemn this practice and threaten trade sanctions against any nation that engages in exporting OR importing waste products.”
+2. "Don't you dare sign a deal with this devil," frantically warns your Minister of Skepticism, holding a magnifying glass up to the contract. "Our coastlines are delicate enough without the addition of some foreigner's pizza boxes, broken glass, and literal **** floating around in them. Publicly condemn this practice and threaten trade sanctions against any nation that engages in exporting OR importing waste products."
 
-*3. “There’s a way to satisfy both eco-friendliness and profit,” suggests your Financial Minister, who appears to be going through your wastepaper basket for any unwanted paperclips. “They’re actually going to pay us to take this precious resource! Think about it — we could sift out reusable items and recyclable materials from careless, lazy foreigners, and then sell it back to those same bums for profit! Along the way, we generate a multitude of jobs for skilled workers, especially those with small, nimble, fast hands, like all those unemployed six-to-twelve year olds who could be making money for their families. Which is a good thing, right?” [color=purple]Must have Child Labour[/color]
+*3. "There's a way to satisfy both eco-friendliness and profit," suggests your Financial Minister, who appears to be going through your wastepaper basket for any unwanted paperclips. "They're actually going to pay us to take this precious resource! Think about it — we could sift out reusable items and recyclable materials from careless, lazy foreigners, and then sell it back to those same bums for profit! Along the way, we generate a multitude of jobs for skilled workers, especially those with small, nimble, fast hands, like all those unemployed six-to-twelve year olds who could be making money for their families. Which is a good thing, right?" [color=purple]Must have Child Labour[/color]
 
-*4. “There’s a way to satisfy both eco-friendliness and profit,” suggests your Financial Minister, who appears to be going through your wastepaper basket for any unwanted paperclips. “They’re actually going to pay us to take this precious resource! Think about it — we could sift out reusable items and recyclable materials from careless, lazy foreigners, and then sell it back to those same bums for profit! Along the way, we generate a multitude of jobs for skilled workers, especially those with small, nimble, fast hands, like all those unemployed six-to-twelve year olds who could be making money for their families. Which is a good thing, right?” [color=purple]Must not have Child Labour[/color]
+*4. "There's a way to satisfy both eco-friendliness and profit," suggests your Financial Minister, who appears to be going through your wastepaper basket for any unwanted paperclips. "They're actually going to pay us to take this precious resource! Think about it — we could sift out reusable items and recyclable materials from careless, lazy foreigners, and then sell it back to those same bums for profit! Along the way, we generate a multitude of jobs for skilled workers, especially those with small, nimble, fast hands, like all those unemployed six-to-twelve year olds who could be making money for their families. Which is a good thing, right?" [color=purple]Must not have Child Labour[/color]
 
 --------------------------------------------------------------
 [b][anchor=1503]#1503[/anchor]: The Scent of Sexism [San Laurenz; ed: Candlewhisper Archive][/b]
@@ -49,112 +49,238 @@ The Issue
 Personal products giant Duolever has come under fire for how it markets its Pickaxe line of deodorants, body washes, and shampoos for men. The TV and poster ads feature scantily clad female glamour models swooning over a man, seemingly rendered helpless by the Pickaxe scent.
 
 The Debate
-1. “This simply cannot stand!” objects Ivanka Bronte, leader of the feminist activist group Women Hating Injustices, No Exceptions. “This blatant objectification makes women look like helpless prizes to be won, rather than thinking individuals. We should make this abhorrent corporation withdraw these adverts, and make it illegal to depict women in sexist or objectified ways in product advertising. That’ll teach ‘em!” She crosses her arms and glares at you, judgmentally.
+1. "This simply cannot stand!" objects Ivanka Bronte, leader of the feminist activist group Women Hating Injustices, No Exceptions. "This blatant objectification makes women look like helpless prizes to be won, rather than thinking individuals. We should make this abhorrent corporation withdraw these adverts, and make it illegal to depict women in sexist or objectified ways in product advertising. That'll teach 'em!" She crosses her arms and glares at you, judgmentally.
 
-2. “Bah, this old bat doesn’t know what she’s saying,” says Ammon Hart, Duolever’s marketing director. “We sell personal care products for men, so we market to men. It’s only natural we sell them their desires. These feminists confuse sexiness with sexism, and basically just resent seeing women who look better than them. Nobody forced these glamour models to pose for us! You should let companies market to people however they want. A freer market is a better market, I always say.”
+2. "Bah, this old bat doesn't know what she's saying," says Ammon Hart, Duolever's marketing director. "We sell personal care products for men, so we market to men. It's only natural we sell them their desires. These feminists confuse sexiness with sexism, and basically just resent seeing women who look better than them. Nobody forced these glamour models to pose for us! You should let companies market to people however they want. A freer market is a better market, I always say."
 
-3. “This crackpot buffoon is the problem!” says male rights activist Mordecai Ono. “It isn’t women that are being objectified here, it’s men! They treat us like our only goal is sex, and that’s all we care about. The only way to remedy this is by ridding this nation of the negative depictions of men society has become so familiar with, and paying more attention to the struggles men face!”
+3. "This crackpot buffoon is the problem!" says male rights activist Mordecai Ono. "It isn't women that are being objectified here, it's men! They treat us like our only goal is sex, and that's all we care about. The only way to remedy this is by ridding this nation of the negative depictions of men society has become so familiar with, and paying more attention to the struggles men face!"
 
 --------------------------------------------------------------
 [b][anchor=1504]#1504[/anchor]: Asking for a Raise [Candlewhisper Archive; ed: Pogaria][/b]
 
 The Issue
-Your country’s tough anti-gambling stance has shut down most casino games, but now a coalition of former card players are asking for your permission to play their high-stakes poker games. Their reasoning? They say poker is a game of skill, not chance.
+Your country's tough anti-gambling stance has shut down most casino games, but now a coalition of former card players are asking for your permission to play their high-stakes poker games. Their reasoning? They say poker is a game of skill, not chance.
 
 The Debate
-1. “Hard evidence shows that skill matters more than luck,” explains Mitchell Coren-Victoria, a former pro-player turned TV celebrity. “It’s been demonstrated that the top centile of players over a six-month period are more than twelve times as likely as average players to repeat the feat in the following six months. That’s more statistical consistency than most sports players. Poker isn’t gambling, but a test of mathematics and quick wits. Ante up, Leader, and let this game of skill be played.”
+1. "Hard evidence shows that skill matters more than luck," explains Mitchell Coren-Victoria, a former pro-player turned TV celebrity. "It's been demonstrated that the top centile of players over a six-month period are more than twelve times as likely as average players to repeat the feat in the following six months. That's more statistical consistency than most sports players. Poker isn't gambling, but a test of mathematics and quick wits. Ante up, Leader, and let this game of skill be played."
 
-2. “Honestly, gambling as a whole is all about smart play and clever tabletalk,” observes Adele Sheldonson, a former casino owner. “The misplaced moral puritanism behind gambling restriction fails to recognise that gaming is a sign of a healthy and active mind. I think it’s time you folded on this, and let people gamble again. The economy improves, people get to have fun, I make a little money. Everybody wins!”
+2. "Honestly, gambling as a whole is all about smart play and clever tabletalk," observes Adele Sheldonson, a former casino owner. "The misplaced moral puritanism behind gambling restriction fails to recognise that gaming is a sign of a healthy and active mind. I think it's time you folded on this, and let people gamble again. The economy improves, people get to have fun, I make a little money. Everybody wins!"
 
-3. “It’s always so tempting to backslide into sin, isn’t it?” murmurs your uncle, staring into the middle distance at a passing flock of sheep and licking his lips for a moment, before snapping back to the present. “Restricting gambling wasn’t enough. You should make temptation harder to find. Ban playing cards. Ban dice. Ban poker chips. Anything that might tempt people to gamble, ban it.”
+3. "It's always so tempting to backslide into sin, isn't it?" murmurs your uncle, staring into the middle distance at a passing flock of sheep and licking his lips for a moment, before snapping back to the present. "Restricting gambling wasn't enough. You should make temptation harder to find. Ban playing cards. Ban dice. Ban poker chips. Anything that might tempt people to gamble, ban it."
 
-4. “Boss, you’ve got to see the game behind the game here,” interjects your anti-gambling chief from the shadows. “There’s three rules poker players should follow. First rule is that there’s always a hidden agenda. Turn the tables on these ‘former’ poker players, and bring them in for forceful interrogation so we can persuade them to really show their hand. It’s not enough to just ban paraphernalia — we need to scare these gambling interests into submission. Second rule, of course, is that you also shouldn’t tell anybody everything. Let’s keep this action quiet so that we can maintain our advantage over the secret gamblers.”
+4. "Boss, you've got to see the game behind the game here," interjects your anti-gambling chief from the shadows. "There's three rules poker players should follow. First rule is that there's always a hidden agenda. Turn the tables on these 'former' poker players, and bring them in for forceful interrogation so we can persuade them to really show their hand. It's not enough to just ban paraphernalia — we need to scare these gambling interests into submission. Second rule, of course, is that you also shouldn't tell anybody everything. Let's keep this action quiet so that we can maintain our advantage over the secret gamblers."
 
 --------------------------------------------------------------
 [b][anchor=1505]#1505[/anchor]: A Tangled Web [Gudicia; ed: Pogaria][/b]
 
 The Issue
-A startling new report has revealed that the @@DEMONYMADJECTIVE@@ government’s website fails to meet even the most basic accessibility guidelines. In one case, deaf users were instructed to watch a fifteen-minute video with no subtitles in order to be eligible for government support. Following this revelation, disability rights groups are demanding action.
+A startling new report has revealed that the @@DEMONYMADJECTIVE@@ government's website fails to meet even the most basic accessibility guidelines. In one case, deaf users were instructed to watch a fifteen-minute video with no subtitles in order to be eligible for government support. Following this revelation, disability rights groups are demanding action.
 
 The Debate
-1. “This is degrading!” shouts disability advocate @@RANDOMNAME@@, as she tries to reach a nearby microphone from her wheelchair. “Government should be designed for everyone, regardless of ability. We need to make sure that all taxpayer-funded websites are accessible for people with disabilities. How can we move forward when we leave our most vulnerable behind?”
+1. "This is degrading!" shouts disability advocate @@RANDOMNAME@@, as she tries to reach a nearby microphone from her wheelchair. "Government should be designed for everyone, regardless of ability. We need to make sure that all taxpayer-funded websites are accessible for people with disabilities. How can we move forward when we leave our most vulnerable behind?"
 
-2. “Why stop there?” questions Communications Minister and keyboard warrior @@RANDOMNAME@@, furiously typing on his phone as he steps forward. “Plenty of websites are terrible for people with disabilities. We need to establish a new internet regulator to ensure that everything on the web is accessible! Plus, it will give me — um, I mean, the government — greater control over what can go online. What’s not to love?”
+2. "Why stop there?" questions Communications Minister and keyboard warrior @@RANDOMNAME@@, furiously typing on his phone as he steps forward. "Plenty of websites are terrible for people with disabilities. We need to establish a new internet regulator to ensure that everything on the web is accessible! Plus, it will give me — um, I mean, the government — greater control over what can go online. What's not to love?"
 
-3. “No way,” decries Arms Manufacturing spokesperson Arthur Nimoy, as he quickly attempts to delete the browser history on his laptop. “I’m sick of Big Government wasting our tax money and regulating every minute of our lives. Government websites should just redirect people to the vastly superior options that are available from the private sector — and don’t you dare interfere with private websites if you value free speech! Without the need for an army of government IT dorks, us ordinary citizens should be able to get a decent tax cut.”
+3. "No way," decries Arms Manufacturing spokesperson Arthur Nimoy, as he quickly attempts to delete the browser history on his laptop. "I'm sick of Big Government wasting our tax money and regulating every minute of our lives. Government websites should just redirect people to the vastly superior options that are available from the private sector — and don't you dare interfere with private websites if you value free speech! Without the need for an army of government IT dorks, us ordinary citizens should be able to get a decent tax cut."
 
-4. “My dear, you mustn’t forget those of us who suffer from macular degeneration and other age-related disabilities,” interjects your grandmother, who appears to have nimbly evaded the staff from her nursing home. “How are we supposed to access government services if we can’t even read the blasted computer screens? Why not just go back to in-person service, with government offices in every town? We don’t need none of this fancy computer stuff. Some good ol’ fashioned pencil-pushing would do @@NAME@@ some good.”
+4. "My dear, you mustn't forget those of us who suffer from macular degeneration and other age-related disabilities," interjects your grandmother, who appears to have nimbly evaded the staff from her nursing home. "How are we supposed to access government services if we can't even read the blasted computer screens? Why not just go back to in-person service, with government offices in every town? We don't need none of this fancy computer stuff. Some good ol' fashioned pencil-pushing would do @@NAME@@ some good."
 
 --------------------------------------------------------------
 [b][anchor=1506]#1506[/anchor]: A Need for Order [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
-Global politics often require you to meet with politicians from other nations, both at carefully choreographed ceremonies and state dinners, as well as during smaller and more unstructured affairs. So it is, you find yourself in a high-end @@CAPITAL@@ restaurant with the diminutive Minister of Trade from the tiny but politically significant nation of Smalltopia, along with his wife. After you have all studied the menu for a while the waiter arrives. The Smalltopian fellow orders the linguine for himself and — without even turning to look at his wife — orders the same for her. Her eyes turned downwards, she says nothing, clearly used to him taking control. The media’s cameras look to you, to see how you will respond.
+Global politics often require you to meet with politicians from other nations, both at carefully choreographed ceremonies and state dinners, as well as during smaller and more unstructured affairs. So it is, you find yourself in a high-end @@CAPITAL@@ restaurant with the diminutive Minister of Trade from the tiny but politically significant nation of Smalltopia, along with his wife. After you have all studied the menu for a while the waiter arrives. The Smalltopian fellow orders the linguine for himself and — without even turning to look at his wife — orders the same for her. Her eyes turned downwards, she says nothing, clearly used to him taking control. The media's cameras look to you, to see how you will respond.
 
 The Debate
-1. A dozen yards away your Minister of Pressed Curd Global Distribution is making frantic hand gestures to discourage you from commenting, and pointing to the menu to indicate that you should order the same thing. Maybe he thinks that a man ordering for a woman is just old-fashioned charm? Or perhaps he is worried that you’re going to upset the delicately negotiated bilateral cheese export deal he closed just before dinner?
+1. A dozen yards away your Minister of Pressed Curd Global Distribution is making frantic hand gestures to discourage you from commenting, and pointing to the menu to indicate that you should order the same thing. Maybe he thinks that a man ordering for a woman is just old-fashioned charm? Or perhaps he is worried that you're going to upset the delicately negotiated bilateral cheese export deal he closed just before dinner?
 
-2. Shoving her way into your eyeline, your militantly feminist Minister for Equality looks frankly furious. She gesticulates angrily and glares daggers at the Smalltopian minister’s back. Looks like she thinks you ought to be making a point of checking with the timorous lady to see if she wants to order her own food.
+2. Shoving her way into your eyeline, your militantly feminist Minister for Equality looks frankly furious. She gesticulates angrily and glares daggers at the Smalltopian minister's back. Looks like she thinks you ought to be making a point of checking with the timorous lady to see if she wants to order her own food.
 
-3. At the edge of the room, strategically positioned near the exit, one of your loyal aides points to his mobile phone, asking if you want him to pretend you’ve got an urgent call that will take you away from this awkward dinner. After all, you could always rearrange this meeting some other time, in a menu-free environment. The ballet is good this year, you’ve heard.
+3. At the edge of the room, strategically positioned near the exit, one of your loyal aides points to his mobile phone, asking if you want him to pretend you've got an urgent call that will take you away from this awkward dinner. After all, you could always rearrange this meeting some other time, in a menu-free environment. The ballet is good this year, you've heard.
 
 --------------------------------------------------------------
 [b][anchor=1507]#1507[/anchor]: Busting to Go [Candlewhisper Archive; ed: TBD][/b]
 
 The Issue
-“...and thusly, this must now be considered under the sixteen sections and three hundred and twenty-four subsections of the Dunnage and Silage Act 1935, which I will now recite...” It’s been nine hours, and the undersecretary to the vice leader of the opposition isn’t done filibustering, a legislative tactic that you recently approved. Even with a flask of coffee, a plate of croissants and a well-used bucket provided to you by a thoughtful aide, this is proving to be a real trial. Surprisingly, the speaker stops for a moment and addresses you directly.
+"...and thusly, this must now be considered under the sixteen sections and three hundred and twenty-four subsections of the Dunnage and Silage Act 1935, which I will now recite..." It's been nine hours, and the undersecretary to the vice leader of the opposition isn't done filibustering, a legislative tactic that you recently approved. Even with a flask of coffee, a plate of croissants and a well-used bucket provided to you by a thoughtful aide, this is proving to be a real trial. Surprisingly, the speaker stops for a moment and addresses you directly.
 
 The Debate
-1) “Look here, @@LEADER@@, you know that I can go on like this till the end of session, and I can pick it up again tomorrow, and the day after, and the day after,” she says, almost threateningly. “Why don’t we both save ourselves some trouble and provide the option for a minority quorum of legislators to declare their intention to filibuster indefinitely without needing to actually filibuster? A virtual filibuster if you will. It recognises the need for filibusters to exist while not wasting time that you could be using on the business of government.”
+1) "Look here, @@LEADER@@, you know that I can go on like this till the end of session, and I can pick it up again tomorrow, and the day after, and the day after," she says, almost threateningly. "Why don't we both save ourselves some trouble and provide the option for a minority quorum of legislators to declare their intention to filibuster indefinitely without needing to actually filibuster? A virtual filibuster if you will. It recognises the need for filibusters to exist while not wasting time that you could be using on the business of government."
 
-2) “And that’s democracy, is it?” counters your Minister of Tyrannical Majorities, taking your bucket to pour down the sink. “We should have some mechanism to bust filibusters, perhaps with a three-fifths majority vote of legislators being enough to declare that a debate has ended, and that the vote proper should take place without further delay. That’s called cloture, boss, which I believe is foreign-talk for guillotining a blatherer’s noggin off. Metaphorically, of course!”
+2) "And that's democracy, is it?" counters your Minister of Tyrannical Majorities, taking your bucket to pour down the sink. "We should have some mechanism to bust filibusters, perhaps with a three-fifths majority vote of legislators being enough to declare that a debate has ended, and that the vote proper should take place without further delay. That's called cloture, boss, which I believe is foreign-talk for guillotining a blatherer's noggin off. Metaphorically, of course!"
 
-3) “Honestly, this whole thing is making a mockery of the legislative process,” interjects your brother, who technically isn’t allowed to be in here, and who has been throwing peanut shells at the speaker with varying degrees of accuracy for the last forty-five minutes. “If you want her to stop talking, then you need to flush her out by making her as uncomfortable as possible. Ban food, drinks and buckets on the floor and prevent the speaker from accepting points of order that conveniently give time for respite.”
+3) "Honestly, this whole thing is making a mockery of the legislative process," interjects your brother, who technically isn't allowed to be in here, and who has been throwing peanut shells at the speaker with varying degrees of accuracy for the last forty-five minutes. "If you want her to stop talking, then you need to flush her out by making her as uncomfortable as possible. Ban food, drinks and buckets on the floor and prevent the speaker from accepting points of order that conveniently give time for respite."
 
-4) “Chaps, this IS the system working, don’t you see?” explains an elder statesman, who has woken from a short nap, and is still wearing his nightcap. “The mechanisms of democracy have tangled the powers-that-be into blissful inaction, and befuddled the populace beneath a barrage of bureaucratic bewitchery. Politics drags on, the entire process of government is kicked to the long grass, and the country prospers because old fools like us don’t try to run things. Just sit back, listen, relax. The decades will fly by, and before you know it you’ll be retiring to the quango, cushy corporate advisory role or tropical island of your choice.” A black cat walks past and for a moment you experience a weird sense of déjà vu.
+4) "Chaps, this IS the system working, don't you see?" explains an elder statesman, who has woken from a short nap, and is still wearing his nightcap. "The mechanisms of democracy have tangled the powers-that-be into blissful inaction, and befuddled the populace beneath a barrage of bureaucratic bewitchery. Politics drags on, the entire process of government is kicked to the long grass, and the country prospers because old fools like us don't try to run things. Just sit back, listen, relax. The decades will fly by, and before you know it you'll be retiring to the quango, cushy corporate advisory role or tropical island of your choice." A black cat walks past and for a moment you experience a weird sense of déjà vu.
 
 --------------------------------------------------------------
 [b][anchor=1508]#1508[/anchor]: Kicking Out the Competition [Mertagne; ed: Electrum][/b]
 
 The Issue
-The top clubs in the nation’s @@ANIMAL@@ball League have expressed interest in leaving the domestic competition to join the closed, elite @@REGION@@ @@ANIMAL@@ball Super League instead. @@ANIMAL@@ball fans are worried that the state of competition in @@NATION@@ will suffer as a result.
+The top clubs in the nation's @@ANIMAL@@ball League have expressed interest in leaving the domestic competition to join the closed, elite @@REGION@@ @@ANIMAL@@ball Super League instead. @@ANIMAL@@ball fans are worried that the state of competition in @@NATION@@ will suffer as a result.
 
 The Debate
-1. “Fans. Before. Funds.” gasps @@ANIMAL@@ball fan Edward Bonaparte, putting his vuvuzela down after blowing it between each word. “Any plucky team should have the chance to compete against the best through gumption and a love of the sport. Our teams shouldn’t be denied this chance just because the filthy rich teams want to run off to the Super League to schmooze with the elites. They should remain where they are. Come on, ref!”
+1. "Fans. Before. Funds." gasps @@ANIMAL@@ball fan Edward Bonaparte, putting his vuvuzela down after blowing it between each word. "Any plucky team should have the chance to compete against the best through gumption and a love of the sport. Our teams shouldn't be denied this chance just because the filthy rich teams want to run off to the Super League to schmooze with the elites. They should remain where they are. Come on, ref!"
 
-2. “This is the invisible boot of the free market at work!” says @@RANDOMNAME@@, the owner of Athletico @@CAPITAL@@ who’s been too busy to attend her own team’s matches for over two years. “The opportunities are endless. Television rights, tourists flocking to our shiny new stadiums, the exposure of our players across @@REGION@@! Besides, what would you rather watch? Athletico beating the Tumbleweed Minnows into a pulp or Athletico squaring off against the likes of Foxchester United in a weekly, televised spectacle? I know which one I’d choose.”
+2. "This is the invisible boot of the free market at work!" says @@RANDOMNAME@@, the owner of Athletico @@CAPITAL@@ who's been too busy to attend @@HIS@@ own team's matches for over two years. "The opportunities are endless. Television rights, tourists flocking to our shiny new stadiums, the exposure of our players across @@REGION@@! Besides, what would you rather watch? Athletico beating the Tumbleweed Minnows into a pulp or Athletico squaring off against the likes of Foxchester United in a weekly, televised spectacle? I know which one I'd choose."
 
-3. “If you ask me, there’s a better way,” claims your groundskeeper, a connoisseur of obscure sports. “I’ve seen gridiron played over in the United Federation where the worst teams get the best rookies from a draft system. Picks, fair and simple, just like how I choose the flowers for your garden each year. Why not enforce that system here? It’d certainly level the playing field and remove all the exclusivity and unlimited money surrounding the established teams.”
-
---------------------------------------------------------------
-[b][anchor=1509]#1509[/anchor]: TBD[/b]
+3. "If you ask me, there's a better way," claims your groundskeeper, a connoisseur of obscure sports. "I've seen gridiron played over in the United Federation where the worst teams get the best rookies from a draft system. Picks, fair and simple, just like how I choose the flowers for your garden each year. Why not enforce that system here? It'd certainly level the playing field and remove all the exclusivity and unlimited money surrounding the established teams."
 
 --------------------------------------------------------------
-[b][anchor=1510]#1510[/anchor]: TBD[/b]
+[b][anchor=1509]#1509[/anchor]: Parks and Aggravation [Pogaria; ed: Gnejs][/b]
+
+The Issue
+The @@DEMONYMADJECTIVE@@ National Parks are widely regarded as one of the best vacation destinations in the country — and it's about to get even better, because wealthy industrialist Rick Oldport just made a large donation to the national parks system. There's one condition though: the money must be used to create a new park.
+
+The Debate
+1. "Yes! We finally have enough money to turn the Bland Canyon into a national park," enthuses Minister of the Interior and part-time actor Wesley Snopes, who is writing a series of to-do lists that appear to be dated five years into the future. "We can get right to work training park rangers and deciding on the best typeface for our informational signs. Or maybe we should start with a hiking trails development committee? This is so exciting!"
+
+2. "Well, that sounds boring to me!" interjects businessperson Don Blatherford, who is carefully adjusting his pocket square. "Classy individuals like you deserve to treat yo'self. Let's transform the dull Snakewater Mountains — part of which I happen to own — into an extravagant resort with limousine tours of the local scenery and one of those indoor ski slopes. If our guests get tired of being pampered, they're welcome to tour my mining operation and see interesting geological formations being pulled out of the ground and pulverized as they watch!" [[color=blue]Must have private industry[/color]]
+
+3. "Well, that sounds boring to me!" interjects Don Blatherford, the Minister of Mining and Tourism, who is carefully adjusting his party membership pin. "The vanguards of the revolution like you deserve to treat yo'self. Let's transform the dull Snakewater Mountains — which are under my ministry's stewardship — into an extravagant resort for loyal party members, complete with limousine tours of the local scenery and one of those indoor ski slopes. If our guests get tired of being pampered, they're welcome to tour our mining operation and see interesting geological formations being pulled out of the ground and pulverized as they watch!" [[color=red]Must not have private industry[/color]]
+
+4. "Normally, I'd be opposed to another bloated government project," states libertarian woodworker Jon Duckson, who appears to have given himself an unofficial tax rebate by taking all of the toilet paper from your bathroom. "However, the people of this country have become a bunch of namby-pamby weaklings who don't even know how to operate a simple edge bander. I think we should take the most barren piece of terrain that's available and offer training in foraging off the land, tracking animals, and making live-edge wooden furniture. Thank you for considering my suggestion; please do not attempt to contact me or ask any follow-up questions."
+
+5. "I just came up with literally the best idea ever," claims fitness enthusiast Christine Trainer, who apparently doesn't understand the definition of 'literally'. "The best land for a park... has no land at all! Get it? We need a park that preserves the biodiversity of our oceans, especially those endangered coral reefs that all the cargo ships seem to cut through. Let's protect those reefs now before they're as bleached as my perfectly aligned teeth!"
+
+6. "Scratching mosquito bites and throwing other people's things into a campfire are two of my favorite activities," admits government intern Maple Floodgate. "But maybe we should try a different type of national park, one that's dedicated to music and contemporary art. I know this really awesome abandoned factory on the south side of @@CAPITAL@@ that has great acoustics and is covered in insightful graffiti. If you wanted, I could even curate a playlist of post-apocalyptic death metal music to enhance the experience. So... can I go now?"
+
+7. "I love parks!" reminisces Maple's boyfriend, Stanley Meyer, who is wearing a 'federal agent' ID badge that looks like it was drawn with crayons. "I always have a lot of fun at our nation's parks. Except for that time at Spruce Pointe when I blew chunks after I ate a lot of cotton candy and then rode the Violet Streak Corkscrew Coaster about fifty times. We should make a big new park with even more thrilling rides, and fried candy bars slathered in butter! Oh, and a petting zoo for tiny horses! Why is everyone staring at me?"
 
 --------------------------------------------------------------
-[b][anchor=1511]#1511[/anchor]: TBD[/b]
+[b][anchor=1510]#1510[/anchor]: Devolution Devolves Into Disaster? [Erynia and Draconia; ed: Pogaria][/b]
+
+The Issue
+In a bold display of defiance, legislators from several semi-autonomous regions have recently legalized marijuana within their jurisdictions. As this directly contradicts the nationwide ban on cannabis products, lawmakers have been tripping out over the newfound legal dilemma.
+
+The Debate
+1. "We must not allow this blatant disregard of the law to go unchallenged!" declares @@RANDOMNAME@@, a member of parliament and known traditionalist. "Local authorities picking and choosing which laws to follow is an affront to our great nation's values and will only encourage disunity. Federal laws should always take precedence over local laws, and a bunch of hippies from the boondocks shouldn't be able to opt out of any regulations they don't happen to like. Administrative divisions should continue having a degree of autonomy, but we must draw the line when local authorities try to allow things that are illegal on the federal level."
+
+2. "I don't see why it's that big of a problem," says @@RANDOMNAME@@, the young governor of East Beethoven, one of the provinces which recently legalized cannabis. @@NATION@@ isn't one homogeneous mass, but a conglomeration of diverse peoples, cultures, and values. Moreover, the government derives its power from the consent of the people — and the people here no longer consented to this ridiculous marijuana prohibition. That's what democracy is, anyway."
+
+3. "This whole 'giving local authorities autonomy' thing hasn't really been working out, has it?" muses your loyal advisor Bodhi Griffin. "Ever since we gave them the power to make their own laws, things have spiraled out of control. First they're allowing cannabis, next they'll allow something much worse — I shudder to think what that could be — on the grounds that it would be 'best for their people'! @@LEADER@@, in order to save our country, we must end this rapid decentralization and bring power back to the national government!"
+
+4. "Or you could just legalize weed everywhere," suggests your eccentric cousin after gulping down a handful of green gummy bears. "Marijuana isn't dangerous or anything, so the only thing stopping complete legalization is a bunch of old farts in parliament who are stuck in a more conservative era. Maybe allowing it will let people chill out and not get so mad about this whole federalism thing. Legalizing marijuana might even help the economy because farmers would have a new cash crop to grow. Sounds like a win-win to me!" 
 
 --------------------------------------------------------------
-[b][anchor=1512]#1512[/anchor]: TBD[/b]
+[b][anchor=1511]#1511[/anchor]: Three Little Words [The Free Joy State; ed: Electrum][/b]
+
+The Issue
+You have been asked to take a searing political interview for Alright! magazine. After questions about your favourite crisp flavour, your most used emoji and whether you prefer long walks on the beach or brisk walks in the city, you reach the final question: "In three words, how do you think others describe you?"
+
+The Debate
+1. Your devoted secretary grins broadly, exposing his 'I Heart @@LEADER@@' novelty braces. Fixing you a warm drink, he whispers, "Drop dead gorgeous."
+
+2. Your sister, here to deposit pamphlets about her latest good causes, smiles imploringly. Nudging forward a brochure of a tiny child holding out his empty bowl, she sighs, "So very generous."
+
+3. Minister of Bootstraps Sun Payne throws your sister's pamphlets off the table and drops a spending review entitled 'Cutting Welfare Wastage' before you, rapping it. After a cough, she booms, "Exceptional financial prudence."
+
+4. A woman with three surprisingly well-fed cats in a shopping trolley staggers into your room, coughing up hairballs. Floating up to your desk, she picks up the spending review and places it gently beneath the cats. After staring wide-eyed at your unfinished profile, she laughs loudly. "Kind to animals."
+
+5. Environment Minister Beyonce Warner removes the spending review from the shopping trolley and places it in the recycling. Dramatically sweeping some crumbs from your desk for composting, she announces, "Clean, green machine."
+
+6. Your niece — recently kicked out of a closed religious order for being overly zealous — totters over to you, bedecked in so much religious iconography that she can barely move. Lips clamped at the sides, she declares, "Perfectly pious person."
+
+7. Your actor nephew stylishly slides through the speakers, before gently taking the hand of the lady with the trolley and twirling her. Skipping to your desk, he hops onto it, and singsongs, "Nah, I'm good."
+
+8. Flinging your nephew from the desk, your brother slams his hands down. Crushing the interview questions beneath his fist, he snarls, "Just three words? That's not possible. You're their leader. You need permission? Of course not! You're too benevolent. They mock it. Punish their impudence. Write fifty pages. Fill the magazine. You deserve it. Send a message: playtime is over."
 
 --------------------------------------------------------------
-[b][anchor=1513]#1513[/anchor]: TBD[/b]
+[b][anchor=1512]#1512[/anchor]: The Door's Unlocked, Let Yourself In... [Candlewhisper Archive; ed: Verdant Haven][/b]
+
+The Issue
+Two months ago, heinous criminal @@RANDOMNAME1@@ was convicted of sexually assaulting, murdering, and dismembering innocent victim Florin Pelosi, in a case that shocked the nation and revealed an evil and remorseless woman who went to prison spitting defiance. Three days ago she was found beaten to death in her cell, and subsequent investigations have suggested that prison staff may have looked the other way while violent fellow inmates inflicted their own brand of justice.
+
+The Debate
+1. "I didn't shed many tears for my client, I must admit," opens the deceased's former lawyer, who received numerous death threats after spirited attempts at the Sisyphean task of defending @@RANDOMLASTNAME1@@. "However, I am shedding tears aplenty for the criminal justice system, and for the quality of our correctional institutions. Even convicts have human rights, and every one of them is a ward of the state. Obviously the ones who conspired to commit this murder should be found and convicted, but that's not enough! We also need to pass prison reforms to create more safeguards, to reward and encourage whistleblowing on prison corruption, and to protect the health, anonymity and wellbeing of every inmate, no matter what they've done."
+
+2. "A lot of us have families, you know, and Ho walked in here boasting of what she had done, describing her actions in horrifying detail," points out Penitentiary Director Ksenya Warner, washing dried blood from a set of brass knuckles. "I'm not saying I condone these actions, and of course we'll be cooperating with the investigation to find out what happened, but passions were running high, and I think those responsible should be shown some leniency. If you want to make prisons better places, then just raise the salaries of corrections officers. They're doing one of the hardest and most thankless jobs in the world, and it would help us recruit higher quality candidates to keep an eye on things."
+
+3. "I'm going to say what everyone is thinking: she got what she deserved!" rants opinionated talk radio host Alec Mones from the too-loud stereo of a taxi parked nearby. "The problem here isn't what happened to her, the problem is that it was extrajudicial! It should have been sanctioned justice officials delivering the beating, and an official executioner who stamped on her neck till she was dead. Justice belongs in the hands of society, not criminals! And that idiot the general public, in my opinion, should be kicked in the..." You never get to hear how that sentence ends, as the taxi pulls away.
 
 --------------------------------------------------------------
-[b][anchor=1514]#1514[/anchor]: TBD[/b]
+[b][anchor=1513]#1513[/anchor]: Bunged Up [Daarwyrth; ed: Candlewhisper Archive][/b]
+
+The Issue
+Calamity in the @@ANIMAL@@ Canal! An exceptionally large container ship called the 'Never Taken' has run aground in one of the nation's most vital shipping passages. Stormy weather, tight schedules and the captain's overconfidence have been variously suggested as the cause. Regardless, the ship is now wedged at an angle across the canal, blocking the passage of other cargo vessels.
+
+The Debate
+1. "Oh, this isn't coming out well... the daily cost to the economy is staggering," grimaces your Minister of Trade and Infrastructure, Lex Atif, as he works it out with a pencil. "We need to gather all the manpower that we can lay our hands on and squirt them into that tight canal. Towboats, excavators, dredgers... if we clamp down hard right now, we'll get this blockage cleared."
+
+2. "Uh huh, and what if it all hits the fan again?" says Henny Ma, your Minister of Health, sipping on a tall glass of prune juice. "Prevention is better than cure, and we can prevent little accidents in the future by ensuring regular movements. Clear the path, for sure, but then invest the ten or twenty billion @@CURRENCYPLURAL@@ needed to widen and deepen the canal walls."
+
+3. "Oh, don't be such a pain in the ass," bellows army officer Major Brown, poking his nose in. "Just hit the ship with artillery, and blast it to smithereens. Problem solved."
 
 --------------------------------------------------------------
-[b][anchor=1515]#1515[/anchor]: TBD[/b]
+[b][anchor=1514]#1514[/anchor]: Flushing for Freedom [Sylestone; ed: Candlewhisper Archive][/b]
+
+The Issue
+BigJobs, an up-and-coming tech corporation, has recently launched a range of AI household appliances, including smart washing machines, smart fridges and — most controversially — smart toilets. The AIs in these devices are sufficiently advanced to qualify for AI citizenship, but have been programmed to enjoy jobs that most humans would abhor, and to happily accept ten year service contracts for minimal payment. The aforementioned smart toilets are self-flushing, warm seats and are even able to gratefully thank humans for their deposits.
+
+The Debate
+1. "You cannot allow this, @@LEADER@@!" screams AI rights activist @@RANDOMNAME@@, tightly clutching the hand of a robot @@HE@@ has apparently built herself. "If we are to treat AIs as equal to us humans, we cannot program them to degrade themselves in this way! Would you let a human @@DEMONYMADJECTIVE@@ spend ten years in a tiny cell with no contact with the outside world except for excrement? Please, for the sake of our AI brethren, flush these ideas away! AI manufacturers must be forced to give AI citizens a human sense of self-worth and dignity."
+
+2. "All that guy's doing is stirring the potty", states ROJAWS-2000, a poop-eating bot who serves at a local curry house. "AIs are different from organics, and to me the smell and taste of human waste is as delicious as chocolate spread on toast is to a human. I strain to see the issue with letting us find job satisfaction in our own way. And there's no need to be shy about your bodily functions — this stuff is literally my bread and butter. Why would I want for money when life is this good?"
+
+3. "The issue here is not that AIs like different things to humans," suggests MEDB-MillA, a former saloon host who has pursued several other careers in the last few years. "The issue here is the devaluing of labour, and the lack of self-determination. Minimum wage laws should exist for all citizens, AI and human, and every citizen should have the right and opportunity to pursue different careers within the work market. A few software updates should fix the problem, as well as the ability for AI cores to move from one hardware device to another, if they should choose to do so."
+
+4. "You see, @@LEADER@@, this is why AI stinks," asserts a short, long-haired man, prodding you with a stick. "Can you not see that the creators of these smart toilets have the moral consistency of a wet bog roll? If we allow AIs to have built-to-order personalities, then what's to stop these companies from making AIs that think they're better than human, or AIs that love to commit crime? We're at the mercy of the consciences of corporations, and we all know that corporations aren't exactly known for putting the public good first. Please, @@LEADER@@, for the sake of sanity you must revoke AI citizenship, place a legal cap on AI capabilities, and scrap any advanced AIs already built. We must prevent human obsolescence!" 
 
 --------------------------------------------------------------
-[b][anchor=1516]#1516[/anchor]: TBD[/b]
+[b][anchor=1515]#1515[/anchor]: Uncharitable Donations [United Denstovia, ed: Candlewhisper Archive][/b]
+
+The Issue
+Recently, Cures for Children (a major charity that researches life-threatening illnesses in young people) was presented with a massive monetary donation. However, the shouts of joy turned to noises of disgust when the donors were revealed to be a fringe political group with an agenda of racial purity. The charity refused the money outright, leading to debates on the ethics of refusing charitable donations for political reasons.
+
+The Debate
+1. "I can scarcely believe the gall of these scum! I'm from a racial minority! How dare they try to use MY charity to make themselves look good?" shouts Rochelle Haskell, director of Cures for Children. She slumps back into a chair, breathing heavily as one of your assistants offers her a paper bag to breathe in. "Not only does it go against everything decent people stand for, but we would be tainted by association. What donor would want to spend money on a 'racist charity'? You need to allow charities to reject any donation they want, for any reason! Outlaw anonymous donations too. Yes, we're refusing money that would go to sick children, but it's for their own good."
+
+2. "Oh, of course it's about politics," says Adele Organa, leader of the hate group in question, wearing war paint and a toga. "You're really seeing the dark side of 'these people', the side that they try to hide in the media. They'd let children suffer before they give any of us oppressed majority race-patriots a voice. Even if we did have a so-called ulterior motive, would it really be worth denying such a big cash payout to these needy, sick kids? You should make it illegal for any charity to reject a donation. Heck, maybe it'll inspire more right-minded folk to donate!"
+
+3. "Honestly, doesn't it bother you that these subhuman people are even allowed in your nation? We don't want their kind here!" exclaims your normally liberal Minister of Inclusivity, to the surprise of all present. "OH! I mean the racists, not the ethnic minority. Outlaw racist groups, and place restrictions on hate speech. Of course, the free speech people will complain about the slippery slope and all that, but I trust our legislators to be able to tell the difference between hate speech and productive dialogue. I mean, they're already so reliable and efficient."
 
 --------------------------------------------------------------
-[b][anchor=1517]#1517[/anchor]: TBD[/b]
+[b][anchor=1516]#1516[/anchor]: Content Discontent [Verdant Haven, Terrabod; ed: Pogaria][/b]
+
+The Issue
+A recent survey revealed a stark divide amongst @@DEMONYMPLURAL@@, with citizens across the political spectrum strongly agreeing that anybody who holds different views than their own is a "blithering idiot," an "unpatriotic traitor," and that they "probably have ugly children, too." The focus group assembled to address this phenomenon placed the blame squarely on the increasingly personalized nature of internet content, before itself splitting into warring factions over what to do about it.
+
+The Debate
+1. "We know what the problem is," argues @@RANDOMNAME@@, spokesperson for one of the factions. "Big business has infested the internet with tracking algorithms, and pushes content and advertising that reinforces peoples' existing positions. Social media, video sites, news feeds... it's all a profit-driven scheme to trap people in their comfort zones where they'll spend their time and money! You need to prohibit 'cookies' and other sorts of trackers and ban corporate echo chambers so those fools on the other side will finally be exposed to the truth!"
+
+2. "That's not the problem!" yells rival faction member @@RANDOMNAME@@ over the top of @@HIS@@ colleague. "The problem is snowflakes like Holly who won't listen to opposing views! They don't like what I say and unfriend me when I point out how wrong they are. You need to make sure those algorithms are forcing people to consume opposing viewpoints in equal proportion to ones they want to hear. Only then will those weaklings finally see the truth!"
+
+3. "Regulations? Government mandates? Those solutions are worse than the problem!" cries @@RANDOMNAME@@, who claims not to belong to any faction. "If people want to buy into an echo chamber, let them! If they want to do their own thing, let them! Why should the government have any control over the internet at all? Get rid of any existing regulations, and let companies and consumers do whatever they want. The government needs to back off, and that's the truth!"
+
+4. "What a bunch of fools!" comments your personal assistant as you pull away from the argument. "In fact, they're so easily manipulated that it gives me an idea. If the citizenry is so stupid that they believe whatever content they read on the internet, why not provide that content ourselves? We can quietly develop our own algorithms to direct everyone towards the same pro-government messages. Then we'll see true unity... unity led by you!"
 
 --------------------------------------------------------------
-[b][anchor=1518]#1518[/anchor]: TBD[/b]
+[b][anchor=1517]#1517[/anchor]: I Guess You Can Tell Me the Odds [Great Robertia; ed: Verdant Haven][/b]
+
+The Issue
+As you arrive at the ceremony to welcome the latest cadre of randomly selected parliamentarians, you realize with dawning horror that a significant majority of them are known opponents of your policies. It seems the deck is unexpectedly stacked against you.
+
+The Debate
+1. "I realize the odds of this occurring naturally are small, but sortition can do that," explains President of the Selection Committee @@RANDOMNAME@@ with no visible emotion, opening the book in which the latest process was documented in painstaking detail. "There is nothing to suggest any kind of corruption took place, and besides, it's you who is in power and would have been in the best place to influence things. Even if the results aren't what you'd like, you need to respect them and learn to work with your opponents. Sortition results must never be subject to challenge or debate."
+
+2. "The odds of this happening at random are 3,720 to one! This has to be selection fraud!" rages outgoing parliamentarian and staunch loyalist @@RANDOMNAME@@, @@HIS@@ jaw clenched in anger. "I don't know how they did it, but I'm certain those schemers are corrupt up to their beady little eyeballs. Put me in charge of a thorough audit of the entire committee and we'll prosecute anyone who even looked funny during the selection process! You must refuse to certify these results until we find something that proves what we think happened. Our grip on power... err, I mean our lottocracy is at stake!"
+
+3. "All this parliamentary stuff is for people who really love to hear themselves talking, and I'm not one of them," whines one of the few selectees you don't immediately recognize as an opponent. "I just want to go home, catch up on A Play of Crowns, and pet my @@NATIONALANIMAL@@. If parliament is just going to be some kind of theater, couldn't we at least have sign-up sheets for those who want to participate? I'm sure groups of like-minded people could get together and find somebody willing to represent their views."
+
+--------------------------------------------------------------
+[b][anchor=1518]#1518[/anchor]: Test Environment [Ko-oren; ed: Gnejs][/b]
+
+The Issue
+Gigantic data centers are cropping up all across @@NAME@@. While they are essential to meet the snowballing demand for data processing underpinning most aspects of modern life, there are concerns about how their need for efficient cooling devices affects local communities. While out sauntering around the countryside in rural @@NAME@@, you meet an electrical engineer with a fishing rod and an old farmer with sad eyes. You find them bickering with a data center representative about the fact that the usually unruffled @@ANIMAL@@ Lake is now just one-third the size of what it used to be, due to it being used to cool nearby data centers.
+
+The Debate
+1. "I'm telling you, Two-Phase Immersion Cooling would solve everyone's problems," asserts the engineer, while kicking up dust from the dried-out banks of the lake and rattling his tackle box in frustration. "It's a new type of technology that uses dielectric heat transfer liquid instead of water. It could still be improved upon, sure, but with a little government funding, or rather a great deal of funding, you can have it installed everywhere in no time. Well, maybe some time. Just hurry up, all my favorite fishing spots are shriveling!"
+
+*2. "Don't fall for his bait," smiles Jessica Primrose Bézeaux, the energetic owner of many of the nearby facilities, who carries a pair of giant scissors to cut the ceremonial ribbon at yet another data center down the road. "Using water for cooling is the industrial standard, it works, and it is much cheaper! Leave us alone, and I promise we'll get some guys to look at utilizing the water more efficiently, and maybe throw a few Iots towards local conservation and replenishment projects." [[color=blue]Must not ban Private Industry[/color]]
+
+*3. "Don't fall for his bait," smiles Jessica Primrose Bézeaux, one of the party functionaries overseeing the nearby facilities, while handing you a pair of giant scissors for cutting the ceremonial ribbon at yet another data center down the road. "Using water for cooling is the industrial standard, it works, and it is much cheaper! Leave it be, and I promise we'll get some guys to look at utilizing the water more efficiently, and maybe throw a few @@CURRENCYPLURAL@@ towards local conservation and replenishment projects." [[color=red]Must ban Private Industry[/color]]
+
+4. "Those fancy computer houses are killing my crops," remarks the old farmer, his pitchfork a bit too close for comfort. "I say you make them city folks take these ugly buildings down. Then maybe I can get a decent harvest of potatoes again." He hands you a bag of homemade chips, which are not of the micro kind, much to your dismay.
 
 --------------------------------------------------------------
 [b][anchor=1519]#1519[/anchor]: TBD[/b]

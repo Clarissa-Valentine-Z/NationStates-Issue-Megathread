@@ -311,7 +311,9 @@ The Debate
 
 2. "I believe that passing this law will be a step in the right direction," says @@RANDOMNAME@@, the nation's most outspoken feminist advocate. "These kids need their mothers' love and attention during an important part of their growth development! I don't see why mums should be forced to juggle with the stress of bringing up children and having a job! It's simply too much! Six months maternity leave with full pay is what this country needs - even if it is at the expense of a few avaricious fat cats."
 
-3. "Look, I've got an idea," says @@RANDOMNAME@@, an obsessive centrist. "Perhaps we can allow for six months of paid maternity leave, but have the government pay the companies for lost revenue? That way the mothers can bring up their children without financial worries, companies won't lose investors, and everyone will be happy. Apart from the taxpayers, of course, but you can't please everyone."
+*3. "Look, I've got an idea," says @@RANDOMNAME@@, an obsessive centrist. "Perhaps we can allow for six months of paid maternity leave, but have the government pay the companies for lost revenue? That way the mothers can bring up their children without financial worries, companies won't lose investors, and everyone will be happy. Apart from the taxpayers, of course, but you can't please everyone." [[color=blue]Must have private industry[/color]]
+
+*4. "Look, I've got an idea," says @@RANDOMNAME@@, an obsessive centrist. "Perhaps we can allow for six months of paid maternity leave, but have the government pay their employers for the lost revenue? That way the mothers can bring up their children without financial worries, employers won't suffer, and everyone will be happy. Apart from the taxpayers, of course, but you can't please everyone." [[color=red]Must not have private industry[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=175]#175[/anchor]: Is @@NAME@@ Too Promiscuous? [Masalium; ed: Sirocco][/b]

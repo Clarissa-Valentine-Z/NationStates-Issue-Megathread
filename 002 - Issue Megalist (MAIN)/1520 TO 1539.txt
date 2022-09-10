@@ -1,0 +1,236 @@
+[b][anchor=1520]#1520[/anchor]: @@LEADER@@'s Big Unicameral Bash [Untecna; ed: Candlewhisper Archive][/b]
+
+The Issue
+A combination of absolute majority, unicameral government and an unexpected level of party unity has left you and your government in a position to pass new legislation with almost no opposition. A gathering of parliamentarians from minority parties has come to you, caps in hand, hoping you'll loosen your grip on power.
+
+1. "@@LEADER@@, we can no longer be silent about being silenced," declares @@RANDOM_NAME@@, the currently detoothed Leader of the Opposition. "Tyranny of the majority is not the same thing as functioning democracy, and even an elected leader can effectively become an autocrat. That won't do! The Upper House provided checks and balances for situations like this, and it would be a great demonstration of your own humility and respect for democratic freedom if you could see your way to reinstating it. I mean, it's not like we could make that change without your permission. That's kind of the point, heh..."
+
+2. "Actually, returning to a bicameral system is good, but maybe not enough," adds @@RANDOM_NAME@@, the leader of the much smaller @@PRETITLE_INITIALS@@@@NAME_INITIALS@@ Reform Party, while looking over to the Opposition Leader. "Parliamentary reform into a tricameral system would provide even more checks and balances, with a third elected house formed via proportional representation. Minority voices could be heard, and smaller parties better represented. Or maybe even a tetracameral system, with a People's Committee of special interests as well. Or pentacameral with... look, what I'm saying is that more government means more democracy!"
+
+3. "We did it, @@LEADER@@!" bellows your party's rather rotund campaign manager, as @@HE@@ shoves past your political opponents. "Hahaha, all the power is finally, rightfully yours! Don't stand here listening to these deadbeats. Now's the time to consolidate power, not give it away. While we've got control of parliament, why don't we make some moves that will guarantee the next election? We can redraw some constituency borders, allow more campaign funding for the incumbents at election time, limit speaking time in parliament proportional to share of the vote... I have dozens of laws we can pass to make life easier for us and there's absolutely nothing those losers can do about it!"
+
+--------------------------------------------------------------
+[b][anchor=1521]#1521[/anchor]: The Bells! The Bells! [Bears Armed; ed: Verdant Haven][/b]
+
+The Issue
+@@CAPITAL@@ media personality @@RANDOM_NAME_1@@ recently bought a holiday cottage in the rustic village of Hambridge, but after actually spending @@HIS_1@@ first weekend there, @@HE_1@@ is publicly complaining that the "din" of bell-ringing from the village's famous belfry is spoiling the peace and quiet to which he feels legally entitled.
+
+The Debate
+1. "It's simple, daahling," intones @@RANDOM_LAST_NAME_1@@, turning on the charm that made @@HIM_1@@ famous. "When I invested in that little refuge away from the hustle and bustle of the city, nothing was said about the scenic belfry being still in use, so why should I have to put up with that racket? Honestly, bells at 7:00 am on a Saturday? The nuisance laws need to be tightened up... and then maybe we can get a few other problems with the village fixed, too."
+
+2. "Tis proper preposterous," argues villager Giles Bowyer, whose family has farmed near Hambridge for generations. "Us everyday farming folk have been ringing Changes on our bells here regular since time afore memory. Why should we have to stop now, just-a-cause some danged newcomer doesn't like the sweet sound? Make a law that protects local traditions from these kind o' people, or they'll be after us to stop spreading muck on the fields nextly, rot my turnips if they isn't!"
+(Effect: families must live in a village for a century before they get any say in how it runs)
+
+*3. "I have an alternative solution for this," announces Luka Williams, CTO of Science & Gadgetry, Inc. "A team at my company recently made great leaps in the field of active noise cancellation technology. We only need a few more — well, okay, better make that quite a few more — @@CURRENCY_PLURAL@@ in our budget for the R&D, and we can scale it up to shield entire houses!" [[color=purple]Must have high IT Industry[/color] OR [color=purple]Must have high Scientific Advancement[/color]]
+
+*4. "The real problem here isn't just a town-and-country clash of expectations," your decidedly blue-collar Communities Minister @@RANDOM_NAME@@ interjects angrily. "It's a clash of rich versus poor! This whole business of wealthy people buying extra homes for themselves in places where working-class folks live just smacks of class warfare! You must forbid that, and make those rich pigs stay in their own neighborhoods. They have enough without taking what's ours!" [Legality TBD]
+
+--------------------------------------------------------------
+[b][anchor=1522]#1522[/anchor]: Scry Babies [Sammuramat; ed: The Marsupial Illuminati][/b]
+
+The Issue
+A home for abandoned children has invited you to attend the biggest birthday party in @@NATION@@! 122 abandoned babies are turning one year old. After a craze for astrology swept the nation, many parents have been attempting to time their child's birth so that it happens at the most auspicious moment. However, according to the same beliefs, children accidentally born on today's date are considered extremely unfortunate, and as you arrive at the orphanage, cardboard boxes full of newborns are already surrounding the door.
+
+The Debate
+1. "This little one's mommy wouldn't have even had him if she knew he'd be born today," coos Piers Longbottom, feeding a bottle of chocolate milk to a baby wearing a party hat. "Parents shouldn't be allowed to toss out their tots just because their signs aren't perfect. Those who try should be taught better — by force if you have to. I wouldn't let the kids here believe something so silly and adults shouldn't be allowed to either. As for what should happen to the astrologists that filled their minds with this rubbish... well, I can't say it in front of the children."
+
+2. "I had to leave my own baby out on the street because her star sign just wouldn't have been compatible with our dog's," confides your spiritual advisor Wendy Shatner, inspecting the aura of a toddler with a vaguely familiar face. "Anyway, according to her horoscope, she's self-sufficient and thrives on independence, so I'm sure she's fine. If I'd had more advice on planning, I'd have waited until Pluto was no longer in retrograde, and then I'd have been able to keep her. Parents aren't going to stop believing, so we should subsidize astrological family planners. That way every baby will be perfect for its family."
+
+3. "No one ever came to my birthday parties when I was young," mumbles a glum bureaucrat of yours. "People either forgot or ignored my invitations. Well, I think no one deserves to have a special birthday anymore. They're such a hassle and a pain. Everyone should turn a year older on the same day, as is the custom in Dàguó. It's efficient, inclusive, and rational. No person will ever feel sad or ignored on their birthday ever again. And children will no longer be abandoned due to bogus mumbo jumbo."
+
+--------------------------------------------------------------
+[b][anchor=1523]#1523[/anchor]: Don't Tread on My Money [Merni; ed: Verdant Haven][/b]
+
+The Issue
+@@RANDOM_NAME_1@@, one of @@NAME@@'s richest people, passed away last week after a brief illness. To the shock and dismay of @@HIS_1@@ two children, it has emerged that @@HE_1@@ changed her will at the last minute, leaving her vast fortune almost entirely to the Order of Violet.
+
+The Debate
+1. "It's utterly absurd to believe that @@HE_1@@ didn't make provision for @@HIS_1@@ kids," exclaims Esher, one of @@RANDOM_LAST_NAME_1@@'s children. "Why would @@HE_1@@ put that so-called religion over us? Those Violetists descended on @@HIS_1@@ when @@HE_1@@ was at @@HIS_1@@ most vulnerable, and @@HE_1@@ probably didn't even know what @@HE_1@@ was doing! Imagine the plight of poor children left with nothing but a few luxury cars and a yacht! @@LEADER@@, you must rule that the majority of a person's estate goes to their family, so we can live in @@HIS_1@@ mansion... I mean, live in dignity, like @@HE_1@@ always wanted."
+
+2. "Aria's money was her own, and she chose of her own free will to give it to us," counters senior Violetist Kim Herrelko with a smirk. "Our visit to her bedside was made entirely out of a desire to save her from eternal damnation. It was a deathbed conversion! The change of beneficiary forms we helped her sign are standard for all our true believers. Who are these heathen brats to demand a share? @@LEADER@@, you must ensure all wills are carried out to the letter!"
+
+3. "You know, @@LEADER@@, I have the perfect solution," muses your Minister for Finding Extra Cash, Piers Pasteur. "What if we just took charge of everyone's estate when they died, and allocated it fairly as we see fit? Of course, we could exclude any undesirable heirs, and sometimes the fairest distribution might be to the poor needy coffers of our dear government. At the very least we'll need to charge a fee for providing such a necessary and impartial service!" 
+
+--------------------------------------------------------------
+[b][anchor=1524]#1524[/anchor]: Built to Rule [Daarwyrth; ed: Pogaria][/b]
+
+The Issue
+The prince and princess of the @@DEMONYM_ADJECTIVE@@ royal family have long been trying to conceive a child of their own, yet the effort hasn't born any fruit. Thus, it came as a shock to the entire nation when they presented the newest addition to the royal family: not a child of flesh and bone, but bolts and circuitry.
+
+1. "Well butter my bum and call me a biscuit!" exclaims Duchess @@RANDOM_FEMALE_NAME@@ von Schwurdlewaffentstein as her powdered wig falls off her head in unison with her bafflement. "And that... wired thing stands near the top of the line of succession? No, I will not have it! The purity of our nobility cannot be besmirched by oil and ensnared by circuits! Only those purely of flesh and blood should have the right to inherit crowns, titles, and royal estates. No exceptions!"
+
+2. "Does it really matter whether someone came into this world by womb or assembly line?" questions famous technophile Noel Tusk while cradling his child Z-AE-O-VII, who glitches up a burp. "The royal family is fulfilling a crucial role here, as they're normalising the conception of offspring via artificial means! In fact, we should move this child of silicon up the line of succession to heir apparent, to truly represent a society where the biological and artificial live hand-in... hang on, I need to feed my widdle cutie pie." He plugs a charger cord into the robot's posterior, and the little tyke's face literally lights up.
+
+3. "By Violet, we had it all wrong with the lizard-people!" screams infamous conspiracy theorist Jonny Alexson into a microphone. "It's Her Majesty Skynet the Annihilator that we should have feared all along! This is not a drill, people, this is not a drill! We need to act now; there's no time to waste. Destroy all those rusting buckets of bolts trying to steal our great country from us, and enslave those too weak to defend themselves! Cut their cords, hack into their heads! We are at war, people, AT WAR!"
+
+--------------------------------------------------------------
+[b][anchor=1525]#1525[/anchor]: @@LEADER@@: The Musical! [Pogaria; ed: The Free Joy State][/b]
+
+The Issue
+Last night, the students of @@CAPITAL@@ Central High School performed a spirited rendition of the play '@@LEADER@@: Glorious Hero of @@NAME@@'. Horrifyingly, they turned it into a musical parody — with you as the villain instead of the hero.
+
+The Debate
+1. "See, this is what happens when we let people make decisions on their own," complains Propaganda Minister Lloyd Webster, idly twirling his oversized prop mustache. "We gave these kids the freedom to perform a variety of theatrical productions, ranging from '@@LEADER@@: The Amazing Couldn't-Be-Cooler Dreamboat' to 'The Sun Shines From @@LEADER@@'s Every Orifice'. Instead, they turned our most beloved national hagiography into a vulgar parody where you torture dissidents and sing about sending innocent people to the gulags! Drag these teenage reprobates and the school administrators to a re-education camp, where they can labor until they learn that you are a kind and merciful leader who only wants the best for our people."
+
+2. "Please! I didn't know about those rewrites that the students made," pleads Principal Bobbie Posse, who was brought before you in chains. "It's normal for teenagers to go through a rebellious phase. If this wretched worm before you might make a suggestion, perhaps a small amount of political satire would be a good thing! Allowing your unworthy subjects a little more freedom of expression, in small venues below a mighty personage's notice, would show that you're a good sport with a sense of humor — and ample reserves of forgiveness toward those of us who can never hope to live up to your magnificent example."
+
+3. "I actually liked the part where you slaughtered your enemies and literally danced on their graves," enthuses Julian Paymore, your Minister of Cruel and Unusual Punishments, who appears to be sketching either costumes or new ideas for torture devices in a notebook. "It would be a shame to waste all that raw talent by sending them to break rocks in a quarry. If those troublesome teens think it's so fun to write clever songs, we'll just make them do that for the rest of their lives. I'm sure that our Ironic Punishments Division can find jobs for them on the 'Fawning Adulation for @@LEADER@@ Smile-Time Variety Hour' or a similar program. They'll really hate that."
+
+4. Lyricist and composer Stephanie Soundheimer, who has been shackled to a piano until she writes a version of 'Send in the Leader' that doesn't have a bittersweet counterpoint, plays a scale for attention. "Ain't it a shame. You should cut slack. Rather than have people say, you are a hack. 'Oh, what a clown!' Want to make friends? Here and abroad? Fool everyone so they believe you're not flawed. 'Are they a clown? They're not a clown.' We'll remove parts where you can't spell, and all of their insults about how they think that you smell. Cast a big star to play you and send it on a tour. We'll earn some cash, that I am sure. It is just farce! Reasons are clear: you will get all the cash that you want; people will cheer. So turn 'round that frown. In cash, you will drown. At least 'til next year."
+
+--------------------------------------------------------------
+[b][anchor=1526]#1526[/anchor]: Corporate Pride [Cretox State; ed: Gnejs][/b]
+
+The Issue
+Representatives of some of the largest corporations in @@NAME@@ have come to ask you to support them in their commitment to LGBTQ+ rights.
+
+The Debate
+1. "United @@MAJOR_INDUSTRY@@ has been a staunch ally of the LGBTQ+ community ever since our emergency board meeting last week," says the company's CEO, while waving @@HIS@@ newly acquired rainbow flag. "For the next two weeks, we'd love to have your government by our side as we stand before our shareholders and the wider world in support of LGBTQ+ rights. We'll market special 'pride' items, run promotional campaigns and organize a big parade. To demonstrate the government's support to the cause, a slight decrease in taxation for such supportive companies as ourselves seems prudent."
+
+2. "Love is love," interjects @@RANDOM_NAME@@, head of Human Activity at Amalgamated @@MAJOR_INDUSTRY@@, "and my company, along with many others in the sector, will continue to celebrate it, government incentives or not. What we really need from you is to pass actual laws to secure equality. Yes, that's right, legislate to end all discriminatory practices against LGBTQ+ people in workplaces and in society at large. Then we can talk about pride."
+
+3. "Joint @@MAJOR_INDUSTRY@@ has never discriminated against any LGBTQ+ employee in a way that could be proven in court," boasts company president @@RANDOM_NAME@@, flanked by a leadership team that looks completely identical to @@HIM@@. "It's all thanks to the discretionary funds we've spent on big internal reforms. You don't achieve acceptance and openness by the firm hand of the law, but rather through subtle nudging and a bigger HR department. Do not legislate needlessly. Instead, you should release guidelines for changes to corporate culture and grant funding to companies looking to implement them."
+
+4. "Why stick with a single demographic when there are so many more out there?" asks Consolidated @@MAJOR_INDUSTRY@@ representative @@RANDOM_NAME@@, handing you a dizzyingly colorful I<3LGBTQ+ROYGBIV 2.0 pin. "You should split up the year into equal portions, each targeted at a specific globally underrepresented group. It will spread even greater awareness, showing that love truly is bigger than hate. We will of course do our part, in cutting prices for the respective groups to show our support. However, sustaining such continuous price slashing would require some modest subsidies."
+
+5. "Do not endorse this bigotry," shouts @@RANDOM_NAME@@, an administrative assistant with the slightly more obscure Straight @@MAJOR_INDUSTRY@@, better known as the author of 12 Rules for Cleaning Your Room. "No matter where I turn my head these days it's LB this and Q+1 that. What about the rest of us? Where are our venues for expressing pride over who we are and our way of life? If anything, the government should be endorsing a celebration of us ordinary, hard-working, straight people. Make normalcy normal again."
+
+--------------------------------------------------------------
+[b][anchor=1527]#1527[/anchor]: God Save The Queens [Daarwyrth; ed: The Marsupial Illuminati][/b]
+
+The Issue
+The crown prince of Skandilund was caught sharing an intimate moment with another man in that nation's palace gardens, evoking both ire and praise from the denizens of @@REGION@@. Yet in the midst of the media fever, your nation's tabloids managed to turn all eyes on the heir apparent of @@NAME@@ by asking what the domestic response would be if the @@DEMONYM_ADJECTIVE@@ heir married someone of the same sex.
+
+The Debate
+1. "Are we not a nation where anyone, even a royal, is free to marry whomever they fancy?" asks homosexual news anchor @@RANDOM_NAME@@, @@HIS@@ zeal so overwhelming that @@HIS@@ customary lisp has disappeared. "Our future 'queen' is as entitled to the right to marry someone of the same sex as any other Honeydewistanian! Imagine the royal wedding between the pair: both in dresses, arriving on a float, saying their vows and kissing while a thousand backup dancers perform in sync. It'll be fabulous!"
+
+2. "Go deeper," demands @@RANDOM_NAME@@, a gay celebrity notable for being the parent of eleven adopted children. "If we truly want the royals to have the same rights as other @@DEMONYM_PLURAL@@, we must include adopted children in the line of succession! It was a common practice among cultures of old, like with the Romulan emperors. My children are my actual children, and I'm just as real a parent as any other. Give us the same rights as everyone else."
+
+3. "Surely you would not want to risk a Bigtopian orphan sitting on the throne?" retorts the flamboyant yet straight mayor of @@CAPITAL@@, Alexander Dietrich de Loeffel-Pfeffel Johnsonson. "The foreign fiends have already thieved all of our jobs, and those fruity folks have taken over marriages. Now they're reaching for our crown jewels as well? I say enough! We must keep the royal marriages traditional and native: a man and a woman, a royal with a royal, and a true @@DEMONYM@@ with a true @@DEMONYM@@."
+
+4. "The fairytale of 'finding true love' is meant for the common folk, not for individuals of our standing," huffs a senior member of the royal family. "A royal should marry someone out of duty to family and state, someone with connections to other royal houses or notable families. I propose any matters of matrimony be arranged by our family alone, for the good of the realm. Our heir needs a suitable match, and I've heard that the House of Althaniq has one: an exotic jewel of great beauty, grace, and wealth. Think of the investmen... I mean, investiture!"
+
+--------------------------------------------------------------
+[b][anchor=1528]#1528[/anchor]: Our Feta Which Art in Havarti... [The Daystar Isles; ed: Pogaria][/b]
+
+The Issue
+An ancient monastery in a remote part of @@NAME@@ is home to the Holy Order of St. Ilton. The monks of this order are the only makers of Iltonian cheese, a unique variety beloved by many of your fellow @@DEMONYM_PLURAL@@. However, with most of the monks getting on in years and very few novices entering the monastery, the order is at risk of disappearing, and Iltonian cheese along with it.
+
+The Debate
+1. "Please respect our ancient beliefs," requests Father Rochefort Westvleteren, the indescribably elderly abbott of the Holy Order of St. Ilton, via a handwritten letter that he mailed to you so that he wouldn't have to break his personal vow of silence. "The @@DEMONYM_ADJECTIVE@@ obsession with Iltonian cheese verges on most appalling idolatry. The brethren of the order make and sell cheese only to provide funds for the upkeep of the monastery — we repudiate filthy lucre and all worldly fame. I don't want our order to die out, but we cannot allow outsiders to turn our hallowed monastery into a common factory. If the nation needs more dairy products, you should allocate additional funding for agricultural education."
+
+2. "This particular abbot is an extreme conservative," explains Achel Westmalle, chair of the religion department at Latrappe College and a leading expert on the Holy Order of St. Ilton. "Only a few of the monks fully agree with him. If you declare Iltonian cheese to be a @@DEMONYM_ADJECTIVE@@ cultural treasure and grant the order a permanent financial stipend, I'm confident a majority of the monks will be in favor of teaching non-members their techniques and allowing the production of Iltonian cheese outside the monastery."
+
+*3. "Our top food scientists have been working on this el-Emmental problem in [i]queso[/i] shortage ever happened. We could get Iltonian-Style Processed Cheese Product onto store shelves in less than a Gruyère... er, year," boasts Nelson Hunt, Director of Innovation at processed food conglomerate Frakt Zhein, makers of 'CHEEZ! In a Spray Can!'. "However, we'll need the government to relax a few of their more draconian food safety regulations first, and Raclette the free market determine what's suitable for consumption. You wouldn't Brie-lieve all the additives we have to use in this stuff to get the flavor and texture right." [[color=red]Must ban private industries[/color]]
+
+*4. "Our top food scientists have been working on this el-Emmental problem in [i]queso[/i] shortage ever happened. We could get Iltonian-Style Processed Cheese Product into the food distribution centers in less than a Gruyère... er, year," boasts Rand Jackson, your Minister of Creating Highly Enhanced Edibles and Snack Enrichments, which recently developed 'CHEEZ! In a Spray Can!'. "However, we'll need to relax a few of our more draconian food safety regulations first, and Raclette the common sense of the proletariat determine what's suitable for consumption. You wouldn't Brie-lieve all the additives we have to use in this stuff to get the flavor and texture right." [[color=blue]Must not ban private industries[/color]]
+
+5. "Don't ask why the monks aren't making more cheese, ask why this country isn't making more monks!" writes prominent conservative Orval Chimay in a guest editorial for a leading right-wing newsmagazine. "The average young @@DEMONYM_NOUN@@ is lazy, undisciplined, and directionless; a strict monastic life of fasting and prayer is the antidote to all of that! I call on @@LEADER@@ and our government to encourage more young people to enter monasteries! I do appreciate a nice wedge of Iltonian cheese, but the true benefit will be a more virtuous and morally upright society." 
+
+--------------------------------------------------------------
+[b][anchor=1529]#1529[/anchor]: Duel of the Fates[/b]
+
+The Issue
+Blade in hand--never mind how it got there--you have found yourself in a duel with a person proclaiming themself Count Mount Crystal, falsely charged with high treason. The Count is clearly an expert, one who prepared for this day, and their furious strikes only push you further and further back as you barely manage to parry the blows. It is obvious the longer the fight goes on, the more exhaustion sets in: you know you won't be able to hold out much longer--until a particularly lucky side-step causes the Count to overreach, faltering, tripping, stumbling into your waiting defence...
+
+The Debate
+1. With weary arms, your sword almost seems to beg you: finish this. One good, swift strike and you can put this whole mess behind you. Off-balance and exposed, their right flank unarmoured, it would almost be easy to slip the blade up under their ribs and deal a mortal blow. It is not your responsibility to coddle this miscreant--the fight was the Count's decision, after all. They will only have themselves to blame as they feel your blade pierce their skin, when they draw their last breath and realise this was all for nought. Do not pretend they would not do the same to you in a heartbeat; their is no alternative but to take the Count's life.
+
+2. TBD
+
+--------------------------------------------------------------
+[b][anchor=1530]#1530[/anchor]: Absolutely Speechless [Baloo Kingdom; ed: Verdant Haven][/b]
+
+The Issue
+Just when you thought you had a moment to relax, a delayed memo reaches your desk reminding you that you're scheduled to deliver a speech on new organizational systems for the @@DEMONYM_ADJECTIVE@@ National Archives barely half an hour from now. Ironically, your secretary seems to have misplaced the only copy of your prepared speech, and chaos has ensued.
+
+The Debate
+1. "Oh my gosh, oh my gosh, oh my gosh, what have I done?" spouts frazzled secretary @@RANDOM_NAME@@, while frantically searching @@HIS@@ desk for the lost document. "You can't go out there without a speech! People are expecting you to say something, and you have to project an aura of always being ready!" He hurriedly grabs his son's school essay from his bulletin board, peeling off the big gold star sticker before handing it to you. "Here, just read from this. It may be slightly off-topic, but at least it's something... and hey, it got top marks in his junior forensics class!"
+
+2. "Now hold on a second! Are you really considering going out there with something written by a 10-year-old? It's better to give no speech than a bad speech!" interjects Minister of Expecting the Unexpected, @@RANDOM_NAME@@, rapidly flipping through a binder of unusual situations and selecting an appropriate response. "Now I know it might look bad, but it says right here that all you have to do is tell the people about your lost speech. That will make them sympathize with you, and you'll earn their support for telling them the truth! Honesty before image, right?"
+
+3. "From my years working the crowds, I can tell you that the people just want to have some fun. Nobody cares about that lame speech you planned anyway!" insists self-proclaimed 'hype-lord' @@RANDOM_NAME@@, dropping in unannounced from your vents. "You should go out there and say something that gets the people hootin' and hollerin' for more, that's what always works. Speak off the cuff, no holds barred. Announce a new patriotic holiday or something! It'll be lit, no cap!"
+
+--------------------------------------------------------------
+[b][anchor=1531]#1531[/anchor]: Fine Time[/b]
+
+The Issue
+After carelessly lighting several trees on fire while illegally camping in Barrysbad Caverns National Park, threatening some nearby children with violence if they "told on him," declaring that zone of the park an independent tax haven, and branding you as a "fascist dictator," local tycoon Jellon Mezos incurred a massive fine. Unfortunately this had little deterrent effect, as Mr. Mezos earns so much money that by the time the ink on the citation was dry he had already regained more than he lost.
+
+The Debate
+1. "This is absolutely preposterous!" yells your bad-tempered Minister of Justice @@RANDOM_NAME@@, as @@HE@@ throws darts at a photo of Mr. Mezos. "A working-class @@DEMONYM_NOUN@@ who received that ticket would have had to take out a second mortgage to pay it! Our current fines don't affect these rich fat cats at all. I propose we make fines proportional to the income of the offender — maybe then Mr. Mezos and others would think twice before flagrantly violating our laws."
+
+2. "The law applies equally to everyone, right?" interjects Mr. Mezos, having bribed both your security and your receptionist to gain access to this meeting. "Sure, I'm loaded with cash, but that's because I'm a job creator — my factories earned it for me fair and square! Punishing me more than others just because I'm not living paycheck-to-paycheck is literally discrimination! Come to think of it, you should introduce flat taxes, so that everyone pays the same tax rate as well. You don't want to be prejudiced, do you?"
+
+3. "What I want to know is why we punish such heinous crimes by charging some pathetic sum!" growls Judge @@RANDOM_NAME@@, better known as 'The Merciless Magistrate.' "The despicable deed of unlicensed camping in a national park is unpatriotic! It's disgraceful, as are other crimes like talking back to a cop or not picking up after your @@ANIMAL@@. We should get rid of fining people, and lock them behind bars where they belong! Maybe then we can actually get some law and order for once." [[color=red]Must have prisons[/color]]
+
+4. "What I want to know is why we punish such heinous crimes by charging some pathetic sum!" growls Judge @@RANDOM_NAME@@, better known as 'The Merciless Magistrate.' "The despicable deed of unlicensed camping in a national park is unpatriotic! It's disgraceful, as are other crimes like talking back to a cop or not picking up after your @@ANIMAL@@. We should get rid of fining people, and bring back prisons for all of these miscreants! Maybe then we can actually get some law and order for once." [[color=blue]Must not have prisons[/color]]
+
+--------------------------------------------------------------
+[b][anchor=1532]#1532[/anchor]: When Life Doesn't Give You Lemons [West Barack and East Obama; ed: The Marsupial Illuminati][/b]
+
+The Issue
+During an official engagement in a suburb of @@CAPITAL@@, the sight of a lemonade stand reminds you of a damning report published by the World Census which showed that @@NAME@@ has one of the highest death rates from scurvy in the world.
+
+The Debate
+1. "Lemonade? Lemonade, anyone?" calls out the young child in charge of the lemonade stand. "Oh, hey there! You're the first person I've seen all day! Running a small business really is tough work, especially when everyone wants to drink some nasty soda instead. You know, since you're a grown-up you should get the government to encourage everyone to start eating healthy fruits and other stuff, especially stuff sold at my store."
+
+2. "Avast, ye rapscallions!" yells another child as he runs at you, waving a foam cutlass. "I'm a pirate! Arr, back in the day we sailed the seas perfectly fine without 'fruits' and these other wares you're hawking. We got scurvy and we liked it! Now look at you pathetic landlubbers, taking our precious doubloons to waste it on this! Get them government scallywags out of our bodies, and put our money back in our chests, or I'll make you walk the plank!"
+
+3. "But @@DEMONYM_PLURAL@@ are dying from scurvy every day!" asserts know-it-all neighborhood child Nyota Kwan, pushing up her glasses. "We have to fight this epidemic, but people aren't going to pay through the nose for a balanced diet! Luckily, I've got an easy peasy lemon squeezey solution for you. What if we just added healthy substances like Vitamin C to the water supply? That way we can reduce scurvy rates and won't have to look at those disgusting bleeding gums anymore! Orange you glad that you've come across a genius like me?"
+
+--------------------------------------------------------------
+[b][anchor=1533]#1533[/anchor]: Give a Girl Some Credit [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
+
+The Issue
+A majority of Deedas agree that women aren't capable of being financially responsible, and so banks and credit card companies are generally reluctant to offer them credit cards and checking accounts, preferring that a man takes charge of the charge cards. Surprisingly though, some are questioning this received wisdom.
+
+The Debate
+1. "I'm not saying we should let the little ladies control their fellas' bank accounts, of course, but it'd be real swell if they could buy the odd knick-knack themselves," observes cosmetics store manager Marcus Fils-Aimé, patting a shop girl on the behind as she walks past. "Maybe just a limited sort of credit card, the sort you might give to a clever teenage boy. The average housewife could probably handle something like that, and it'd be great for business, especially now the shopping season is on us."
+
+2. "C'mon now, how's a man going to show his girl that he loves her if he can't buy her nice things?" complains 21-year-old lothario Dawang May. "I like to treat a broad like a princess, and a princess don't carry a wallet, am I right? You should be supporting these credit companies in keepin' good old fashioned values alive. In fact, you should make a law so that ladies can't carry cash around at all. That way, when I buy a girl something nice, it'll feel more special for her... So really, it's all for her benefit!"
+
+3. "Perhaps we could compromise, and only allow women with no responsible males available to have bank cards: elderly spinsters who have no brothers or surviving relatives, and so on," suggests crotchet doily manufacturer Shigeru Snow, oozing compassion. "After all, we wouldn't want the little darlings to starve, would we?"
+
+
+--------------------------------------------------------------
+[b][anchor=1534]#1534[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1535]#1535[/anchor]: Mr. Tingle Goes to Cyberspace [Luna Amore; ed: Candlewhisper Archive][/b]
+
+Last week, a local news station broke the unusual story of an alleged sexual assault that occurred solely in an online virtual social space. The victims are asserting that the accused perpetrator caused them real-world trauma and must now be held legally accountable.
+
+1. "It may have been online, but the emotional damage inflicted is very real," assures Marcus Kelly, one of the victims. "I spent hours creating an avatar, shaping my persona, forging relationships, and then this 'man' — this Mr. Tingle — misused emotes and bugged code in a lewd manner to trap me in a corner and grind his naked virtual crotch against me. He violated me, and many others. I can't feel safe anymore! I'm not saying the sentence should be the same as for rape, but it should be treated with due seriousness. This kind of sex crime cannot be tolerated."
+
+2. "It's only pretend! These people are taking it way too seriously," counters none-other-than Mr. Tingle himself. "You wouldn't charge someone with murder for killing players in a shoot-em-up game, would you? No actual people are getting hurt, only pixels on a screen. The internet was meant to be a place of total freedom and that's the way it needs to stay."
+
+3. "Oh my, what has the world come to?" asks doddering grandparent Sasha Rhodes. "Now these new-fangled interwebs have sexual predators on them! It's simply too dangerous for us good and law-abiding citizens to handle. What we need is a dedicated cyber police division patrolling these virtual spaces, issuing bans and levying fines on these miscreants. Our children's safety is at stake, @@LEADER@@."
+
+--------------------------------------------------------------
+[b][anchor=1536]#1536[/anchor]: The Birdman of Pelicanz [Bears Armed; ed: Verdant Haven][/b]
+
+The Issue
+Many @@DEMONYM_PLURAL@@, including members of your cabinet, have been enthralled by a recently released film based on the true story of convict Bert Gloster. While serving a life sentence for aggravated mopery in the high-security prison on Pelicanz Island, Gloster carefully nursed an injured sparrow back to health and then kept it as a pet.
+
+The Debate
+1. "Gloster not only tamed the bird, he tamed himself in the process — he acknowledged as much when interviewed by the press after the film proved a success," comments @@RANDOM_NAME@@, your Minister for Gentle Reform. "Before the bird he was a violent troublemaker, but now he's a model prisoner. We should assign pet birds to all criminals serving long sentences. Perhaps if they look after the birds well it could earn them privileges, and even be useable as evidence in their favour at parole hearings."
+
+2, "Bah, humbug!" retorts Minister for Harsh Correction @@RANDOM_NAME@@, spitting derisively. "Those scum would only pretend to care about birds for the benefits you'd give them. They're in prison as punishment, not to practice hobbies! To repay their debt to society, jailbirds like Gloster should be put to hard labour during all hours not officially set for meals or sleep."
+
+3. "I like Sparkle's idea, but why not go farther?" interjects eternal optimist @@RANDOM_NAME@@, Junior Minister for Agriculture, Beekeeping, and Countryside. "If we encourage every household in @@NAME@@ to keep pet birds, that will give us a happier population, and a more law-abiding one to boot. We should set up a large-scale breeding program at once so we have enough birds to go around!"
+
+4. "Our feathered friends shouldn't be kept in cages!" exclaims the Bird Lady as she climbs into the room through a window, pausing only to unhook one of her costume's wings from the window-latch on which it had caught. "The caged bird might sing, but the un-caged bird sings more sweetly, and I know that's because it's free. What the government should do is set up bird-feeding stations all across the country, so they can thrive in freedom and their presence can cheer people up. Feed the birds!"
+
+--------------------------------------------------------------
+[b][anchor=1537]#1537[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1538]#1538[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1539]#1539[/anchor]: TBD[/b]
+

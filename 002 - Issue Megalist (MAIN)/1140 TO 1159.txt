@@ -227,7 +227,7 @@ The Debate
 
 3. "Is it really so bad?" asks @@RANDOM_NAME@@, the official who happens to own the house where the party occurred. "I mean honestly, if the higher power is synonymous with love, what could be more divine than sharing one's love with a few dozen strangers? @@NAME@@ should embrace our activities and teach the populace that all love is good love!"
 
-4. "Honestly, the state shouldn't entangle itself with the private activities of the church, just as the church should stay out of matters of government," flatly states the nearly forgotten Minister of Secular Affairs. "Besides, if our religious leadership can't follow our religion, how can we trust them to guide our country? Perhaps it's time to give secular leaders back their power... say, why are you grabbing that pitchfork?"
+[4]. "Honestly, the state shouldn't entangle itself with the private activities of the church, just as the church should stay out of matters of government," flatly states the nearly forgotten Minister of Secular Affairs. "Besides, if our religious leadership can't follow our religion, how can we trust them to guide our country? Perhaps it's time to give secular leaders back their power... say, why are you grabbing that pitchfork?" [[color=purple]Must have Low Religiousness[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1156]#1156[/anchor]: Pet Theory [Candlewhisper Archive; ed: Candlewhisper Archive][/b]

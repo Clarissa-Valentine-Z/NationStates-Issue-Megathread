@@ -77,7 +77,7 @@ The Issue
 A series of unfortunate accidents involving the nation's ageing fleet of jet fighters have revealed glaring technical deficiencies in these venerable machines.
 
 The Debate
-1. "Have I got an offer for you!" says @@RANDOM_NAME@@, CEO of Blackacre's Bounce Industries, while visibly salivating. "We'll equip you with top of the line fighters, the very latest in stealth technology, superior handling and range, with semi-autonomous flight computers. These machines practically fly themselves - for the right price, of course!"
+[1]. "Have I got an offer for you!" says @@RANDOM_NAME@@, CEO of Blackacre's Bounce Industries, while visibly salivating. "We'll equip you with top of the line fighters, the very latest in stealth technology, superior handling and range, with semi-autonomous flight computers. These machines practically fly themselves - for the right price, of course!" [[color=blue]Must not ban computers[/color]]
 
 2. "Our company can offer you a cheap solution," states @@RANDOM_NAME@@, the commissar of the JK Sukky Company of East Lebatuck, offering you a broken pen. "Our planes might not be cutting edge, but then, technology is no replacement for skill. Just sign here and my company will begin delivery at once."
 

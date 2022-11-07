@@ -136,7 +136,7 @@ Blade in hand--never mind how it got there--you have found yourself in a duel wi
 The Debate
 1. With weary arms, your sword almost seems to beg you: finish this. One good, swift strike and you can put this whole mess behind you. Off-balance and exposed, their right flank unarmoured, it would almost be easy to slip the blade up under their ribs and deal a mortal blow. It is not your responsibility to coddle this miscreant--the fight was the Count's decision, after all. They will only have themselves to blame as they feel your blade pierce their skin, when they draw their last breath and realise this was all for nought. Do not pretend they would not do the same to you in a heartbeat; their is no alternative but to take the Count's life.
 
-2. TBD
+2. And yet, the thought is unbearable. To see the light fade from another person's eyes and know that their death is not only your fault, but your deliberate doing — how could you ever live with yourself? How could you go out and face the public tomorrow, haunted by the Count's dying breath? How could you sleep at night, thinking of their face, the color slowly draining away even as your hands soak in their still-warm blood? No. Honour be damned; this is not worth anyone's life. One good, hard shove. Throw them to the floor and let your guards deal with the rest. Take the Count away, exile them again — there will be no denying the treason charges this time — and they can languish, away from their family and friends like they deserve.
 
 --------------------------------------------------------------
 [b][anchor=1530]#1530[/anchor]: Absolutely Speechless [Baloo Kingdom; ed: Verdant Haven][/b]
@@ -224,13 +224,41 @@ The Debate
 4. "Our feathered friends shouldn't be kept in cages!" exclaims the Bird Lady as she climbs into the room through a window, pausing only to unhook one of her costume's wings from the window-latch on which it had caught. "The caged bird might sing, but the un-caged bird sings more sweetly, and I know that's because it's free. What the government should do is set up bird-feeding stations all across the country, so they can thrive in freedom and their presence can cheer people up. Feed the birds!"
 
 --------------------------------------------------------------
-[b][anchor=1537]#1537[/anchor]: TBD[/b]
+[b][anchor=1537]#1537[/anchor]: Bench Wars [Roulantinia; ed: Candlewhisper Archive][/b]
+
+The Issue
+The Step-Sons of Anarchy, a prominent left-wing action group, has launched a campaign against the increasing trend towards "anti-homeless architecture" in @@CAPITAL@@. This urban design strategy uses built features to purposefully discourage rough sleeping, such as studs on stone surfaces and tilted benches with uncomfortable ridges.
+
+The Debate
+1. "Sleeping on the streets is tough, I know from experience," asserts activist @@RANDOM_NAME@@, who planned to protest by camping out on your porch overnight, but gave up when he couldn't find anywhere to plug in his phone charger. "It's become impossible for weary souls — homeless or otherwise — to find a decent place to rest. People have already been through so much, and it's pure cruelty to deny desperate folk a good night's sleep. I'm not saying we want people sleeping on the street, but if they are forced to, we ought to be making their lives easier, not harder. If you have any compassion left, you'll pass laws banning these classist features from all city structures."
+
+2. "Discouraging sleeping on the streets helps persuade these bums to head to proper shelters," reasons luxury apartment resident @@RANDOM_NAME@@, whose own building is ringed with modern art sculptures that are entirely coincidentally covered with barbed wire and spikes. "If we just let everyone sleep everywhere, people are going to WANT to be homeless. Besides, can you imagine what our public parks and buildings would look like with hobos and dope fiends lying around? Won't somebody think of the property prices?"
+
+3. "Aren't we focusing on a symptom here, rather than the bigger picture?" poses @@RANDOM_NAME@@, a self-proclaimed expert on homelessness after reading a library book or two on the subject. "There are plenty of shelters, but there's lots of reasons the homeless avoid them: mental illness, rules against drug use, fear of theft of their few possessions, and troublesome hygiene to name a few. But the state can fix all this! Regular cleaners, in-house psychiatry services, needle exchanges, safe spaces for drug taking, rehabilitation counsellors, individual rooms with good locks, toilets and bathrooms that don't have to be shared, a community police officer, and hot regular meals would be a start. How hard can that be?"
 
 
 --------------------------------------------------------------
-[b][anchor=1538]#1538[/anchor]: TBD[/b]
+[b][anchor=1538]#1538[/anchor]: The Passion of Chris [Siornor; ed: Verdant Haven][/b]
 
+The Issue
+A construction worker named Chris, hailing from the south of @@NAME@@, has spent the last six months traveling around the country proclaiming himself to be the Chosen Guy long foretold by the prophets of Violet. Chris has now arrived outside your office at the head of a swarming throng of monks and laypeople, chanting both support and opposition to his claims.
+
+The Debate
+1. "Blasphemer!" shrieks Archbishop Ferris of the Church of Violet as she bursts into your office, smashing the handle off the door with a large tome on her way in. "Ferris calls it like Ferris sees it! That self-important construction worker should have stuck with carpentry and left interpretation of the holy scriptures to us. Hand over the heretic and let us punish him according to our sacred laws! Actually, if you really wanted to prove your dedication to the church, you might consider handing over a few construction workers every month for our... oblations."
+
+2. "From a strictly political standpoint, the bishop might be onto something here," whispers Ponty Pithon, your Minister for Maintaining Order, leaning close to your ear. "There's a pretty rowdy crowd of lay-Violetists outside demanding Chris' head. Why let the church take all the credit when we could satisfy the mob ourselves? Think of the spectacle: we'll march Chris through the street and make a public festival of his execution! I'm sure it would do wonders for your approval ratings. Come to think of it, this could be the start of a great national holiday!"
+
+3. "Look, he's really not a bad guy," interjects Chris' neighbor and doppelganger, Brian, who had to be provided an escort for his own safety. "Is he nuts? Absolutely! But he's harmless — only twelve guys even came to his meeting last week. If you ask me, you should just let everyone believe whatever they want. We're all individuals, we're all different! What would be the harm?"
+
+4. "Blessed is my kind neighbor, Brian. Blessed are the guys who come to my weekly dinners. Are you blessed, @@LEADER@@?" Chris asks, giving you a wink as he fixes the wobbly leg of your chair. You could be. Why don't you just force the Church of Violet to officially recognize me as their Chosen Guy? I'll use my miraculous powers to help unite our people behind you!" There is a sudden cloud of smoke and Chris vanishes, leaving nothing but an open window to the fire escape.
 
 --------------------------------------------------------------
-[b][anchor=1539]#1539[/anchor]: TBD[/b]
+[b][anchor=1539]#1539[/anchor]: Save the Last Dance [Sedgistan; ed: Candlewhisper Archive][/b]
 
+The Issue
+Salacious new dance craze "The Switch" is sweeping the music halls of @@NAME@@. To the soundtrack of this season's smash novelty hit song of the same name, teenagers are stomping their shoes and gyrating their hips in dangerously close proximity to one another.
+
+The Debate
+1. "This is simply ghastly!" squawks pearl-clutching maiden aunt Sabina Webster. "First it's dancing, then it's holding hands, and before you know it, there's unwed pregnant teens left, right and centre! This lewdness undermines the foundations of our decorous society — teenage girls should not be socialising with slippery young boys without a respectable adult chaperone keeping a suitable distance between them."
+
+2. "Oh, like, come on," whines 17-year-old teenybopper Isabelle Deming, smoothing down the front of her ankle length dress. "The Switch isn't, like, anything new; we had the Funky @@ANIMAL@@ last summer, and before that was the Mashed Turnip. It's just a bit of harmless fun for kids to let off steam between homework, chores and Sunday School. What would be really great is if we could stay out until 10pm some time, y'know?"

@@ -246,7 +246,7 @@ The Debate
 
 *2. "A ban on all spam is a restriction on our freedom of speech and on the freedom of the press!" screams @@RANDOM_NAME@@ president of Citizens for Internet Freedom. "What is the government to say what is and isn't commercial spam? Could they haul charity representatives off to jail for seeking donations? Could they jail politicians for using e-mail to try and gain votes? Could they arrest me if I accidentally send my erotic novel-in-progress to the wrong address? Seriously, spamming is a subjective offense and as such should not be considered a crime." [[color=blue]Must allow elections[/color]]
 
-*3. TBD [[color=red]Must not allow elections[/color]]
+*3. "A ban on all spam is a restriction on our freedom of speech and on the freedom of the press!" screams @@RANDOM_NAME@@, president of Citizens for Internet Freedom. "What is the government to say what is and isn't commercial spam? Could they haul charity representatives off to jail for seeking donations? Could they jail politicians for using email to promote government programs? Could they arrest me if I accidentally send my erotic novel-in-progress to the wrong address? Seriously, spamming is a subjective offense and as such should not be considered a crime." [[color=red]Must not allow elections[/color]]
 
 4. "Both sides are wrong," grumbles government paper-pusher @@RANDOM_NAME@@. "Spam is definitely a problem, yet so is the restriction on freedoms which some draconian anti-spam codes would impose. I propose a ban on overtly fraudulent spam, and a tax on more legitimate businesses that rely on spam as an advertising method, and a strict legal definition of spam that would ensure no innocent person was prosecuted or taxed."
 

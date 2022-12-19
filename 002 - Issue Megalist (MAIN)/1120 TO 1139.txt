@@ -225,7 +225,7 @@ The Debate
 
 *4. TBD [[color=red]Must have compulsory Nudity[/color]]
 
-[5]. "We don't treat our women like this where I'm from," lectures Althaniq ambassador @@RANDOM_MALE_NAME@@, wagging his finger at you. "Honestly, women being treated like meat comes from a culture of putting flesh on display. Oblige women to show modesty in their dress, and then men don't have to be tempted into perverted gazes or lascivious thoughts."  [[color=red]Must not have Nudism[/color]]
+[5]. "We don't treat our women like this where I'm from," lectures Althaniq ambassador @@RANDOM_MALE_NAME@@, wagging his finger at you. "Honestly, women being treated like meat comes from a culture of putting flesh on display. Oblige women to show modesty in their dress, and then men don't have to be tempted into perverted gazes or lascivious thoughts." [[color=red]Must not have Nudism?[/color] TBD.]
 
 --------------------------------------------------------------
 [b][anchor=1136]#1136[/anchor]: Money Talks [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]

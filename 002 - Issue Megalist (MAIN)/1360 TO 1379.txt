@@ -150,7 +150,9 @@ The Debate
 
 3. "I agree that we need credentialing, but the government ought to handle it," opines A@@RANDOM_NAME@@, your Deputy Minister for Expanding Bureaucracy. "Can we really trust private groups to handle membership fairly? That's just begging for corruption and nepotism. We'll set standards that will be the same all across @@NAME@@, and the paper trail we create — signed in triplicate and filed appropriately — will ensure we know exactly who is allowed to call themselves what!"
 
-4. "Occupational titles?" asks your protocol assistant, straightening his cravat. "Oh no, what the government needs is some new titles of its own, to recognize citizens that have served us well! Imagine — the @@LEADER@@ Medal of Freedom! The @@NAME@@ Legion of Merit! Maybe even bring back knighthoods and earldoms and duchies? That's how you show some appreciation! Those are the only post-nominals that should be allowed, and the only ones that matter!"
+*4. "Occupational titles?" asks your protocol assistant, straightening his cravat. "Oh no, what the government needs is some new titles of its own, to recognize citizens that have served us well! Imagine — the @@LEADER@@ Medal of Freedom! The @@NAME@@ Legion of Merit! Maybe even bring back knighthoods and earldoms and duchies? That's how you show some appreciation! Those are the only post-nominals that should be allowed, and the only ones that matter!" [[color=purple]Must not have Feudalism[/color]]
+
+*5. "Occupational titles?" gasps Aldo Johnson, @@CAPITAL@@ King of Arms, clutching at his badge of office. "How ghastly! The government already has knighthoods, earldoms, and duchies for those of truly great worth. We could even offer new titles, to recognize other citizens that have served us well. Imagine it — 'The @@LEADER@@ Medal of Freedom' and 'The @@NAME@@ Legion of Merit!' These are the only post-nominals that should be allowed, and the only ones that matter!" [[color=purple]Must have Feudalism[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1371]#1371[/anchor]: @@NATION@@ Rocked by Rolls' Fatal Role [Opatia; ed: Noahs Second Country][/b]

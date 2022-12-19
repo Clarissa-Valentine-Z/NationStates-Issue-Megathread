@@ -64,7 +64,7 @@ The Debate
 
 3. "Let's not get in the way of business, shall we?" pontificates Achenar Ponta, the owner of a maritime metal salvaging company. "These ships contain tons of low-background steel, and salvage operations provide jobs and considerable economic and scientific benefit. The [i]legal principle[/i] of [i]'inventores possessores, amittentes lamentantes'[/i] clearly applies here. As for any organic impurities entangled in the salvage, they most certainly do not end up in landfill: they're hygienically cremated during the scrap melting process. I say that any ship sunk in @@DEMONYM_ADJECTIVE@@ waters is @@DEMONYM_ADJECTIVE@@ property, and so long as we pay our corporation taxes you should be encouraging our entrepreneurship."
 
-4. "I say there aren't enough shipwrecks in our waters," ponders Debra Wickwire, the owner of another salvaging company, as she takes a swig from your coffee before you have a chance to grab the cup. "Maybe the government could look the other way while we place a sea mine or two on the busier coastal trade routes. Companies like mine can then just lurk nearby, and we can clean up!"
+[4]. "I say there aren't enough shipwrecks in our waters," ponders Debra Wickwire, the owner of another salvaging company, as she takes a swig from your coffee before you have a chance to grab the cup. "Maybe the government could look the other way while we place a sea mine or two on the busier coastal trade routes. Companies like mine can then just lurk nearby, and we can clean up!" [[color=red]Must have Autarky?[/color] OR [color=purple]Must ban WMDs?[/color] TBD.]
 
 --------------------------------------------------------------
 [b][anchor=1546]#1546[/anchor]: Fool's Gold [Electrum; ed: Verdant Haven][/b]
@@ -101,23 +101,93 @@ The Debate
 4. "Grrrrrr," snarls the young @@MAN/WOMAN@@ in your office. "Me like forest. No like city. Me back to forest. Stay there. Forever." @@HE/SHE@@ bounds out of your office on all fours, swinging from the chandelier as @@HE/SHE@@ goes.
 
 --------------------------------------------------------------
-[b][anchor=1548]#1548[/anchor]: TBD[/b]
+[b][anchor=1548]#1548[/anchor]: Killing in the Name of Beer [RedBrickLand; ed: Verdant Haven][/b]
 
+The Issue
+Ever since the establishment of prohibition in @@NAME@@, organized gangs have attempted to smuggle alcohol into the nation. The resulting conflicts between gangs and police have grown in size and frequency, until a recent incident sparked a full-scale battle which claimed the lives of multiple innocent civilians.
+
+The Debate
+1. "Won't somebody please think of the civilians?" wails perpetual gadfly Helen Hatesad, wringing her hands in despair. "Prohibition has turned @@NAME@@ into a dangerous nation full of police violence and trigger-happy gangsters, unsafe even for its own citizens. The only way to stop the violence is to repeal prohibition! Innocent lives are at stake here, @@LEADER@@! If somebody wants to drink themselves into a stupor, then at least they're only harming themselves."
+
+2. "What about their family members?" snaps @@RANDOM_FIRST_NAME@@ Ness, your Supervisor of Blocking Ethanol Revenue, as @@HE@@ slams @@HIS@@ fists on your desk. "Without prohibition, my screw-up son-in-law will be drinking booze all day, and when he gets drunk... I can't let that happen! Prohibition ain't the problem, it's the lack of funding to enforce it. If we allow booze, @@DEMONYM_PLURAL@@ will be even more at risk from alcoholism, liver disease, and drunken violence! You should give us more equipment and resources, so we can stop these smuggler gangs and respond to their violence at the same time. Things might get a little spicy at first, but if those gangsters think they can outgun the @@DEMONYM_ADJECTIVE@@ government, they've got another thing coming!"
+
+3. "Don't raise the temperature — promote temperance! If we want to stop the gang violence, we have to remove the reasons people join gangs," interjects @@RANDOM_NAME@@, a local teacher, from the head of a children's tour group that has somehow made its way into your office. "Gangs are so powerful because they can recruit young, vulnerable, and disaffected teenagers, leading them into lives of violence and dipsomania. To stop gangs from taking advantage of the youth, we need more progressive social policies in education and welfare, to show kids there's another way. We should also run a public awareness campaign to educate young people about the dangers of public enemy number one: Mr. Alcohol. If we re-educate the people they recruit, the gangs will simply fade away!"
+
+4. "You know, what if all this violence ain't so bad, eh?" interrupts a trenchcoat-wearing man outside your window, who you recognize as infamous mob boss Morbidly Obese Tony. "It keeps the do-gooders distracted, and I'm sure some people could even profit from this funny little situation. Say, why don't you 'inspect' the funds going to the police force? I mean, who's to say that they didn't kill those civilians themselves? And you know, since I'm such a charitable guy, I'll be sure to make a 'donation' to your party once you're done with all of this. You scratch my back and I'll scratch yours, capisce?"
 
 --------------------------------------------------------------
-[b][anchor=1549]#1549[/anchor]: TBD[/b]
+[b][anchor=1549]#1549[/anchor]: Easter Egg: 20 Years A-Workin' [Sanctaria, Pogaria, Verdant Haven, Zwangzug, Electrum, Gnejs, Candlewhisper Archive, Sedgistan, & Noahs Second Country; ed: Sanctaria][/b]
 
+The Issue
+The clock chimes as you finally get home. Eleven bells. Is it really almost midnight? Your head is swimming from a day filled with inane meetings about park benches, how big supersize meals should be, and whether or not nuclear annihilation would really be a bad thing in the age of global warming (you figured it'd probably be fine, on balance). As you settle at your desk to finish a couple pieces of correspondence, you realise you've been doing this thankless job for twenty years now. Twenty years! A cause for celebration indeed, so maybe you can spare a couple of minutes to take a break. Thus the masochist within you has decided that, to celebrate this anniversary, "unwinding" on NationStates before bed would be "fun". There's so many things to do, though, and so little time — so what do you focus on?
+
+The Debate
+1. Ah, the General Assembly. The perfect place to go if you really want to waste time debating whether or not "shall" or "will" in a piece of legislation results in banning opposite-sex marriages, or potentially criminalising making your favourite horse a member of parliament. The friendly regulars, the welcoming Old Guard; they don't exist in the General Assembly. It's a free for all. It's sink or swim, baby. Publish or perish. Only lawyers need apply. Or something to that effect. If you want to exert control over what is and isn't legal in other nations, though, and mould a multiverse in the image of your own ideals, the General Assembly is exactly where you want to spend your time.
+
+2. Then again, your trigger finger is itching to do some damage in International Incidents. First, you need to find a willing enemy. Then, you can demarcate the boundaries of bloodshed so no uninvited armies can interfere. And finally, you can test out those weapons of mass destruction that you've been eyeing in the shopfronts — only with your enemy's permission, of course. @@DEMONYM_PLURAL@@ aren't monsters.
+
+3. Thinking on it, though, who needs permission? There's a whole world of regions out there, ripe for the taking. Even working alone, there's plenty to be accomplished, if you're content to play the long game. A word in the right ear here, a polite request for an endorsement there, it's all too easy playing a role — they'll never suspect who you were until it is far too late. Now which region was it you've always wanted to take down?
+
+4. Of course, if a thrill is what you're after then there's bound to be a Sports tournament you can sign up for. Unfortunately, that's no guarantee of success; @@NAME@@'s athletes are at the mercy of fate! Maybe you should call upon the priestess Margaret to sacrifice 1093 rubber chickens to the random number deities on your behalf. But you'd better move fast, because it's almost cut off time!
+
+5. That said, something inside has been gnawing at you. It has been a while. You look at the top of the page and see that you have five issues to address. The reason you first joined NationStates was to continue making decisions outside of work, even if those decisions had no real-world consequences. Except for those meaningless little golden badges on your page. Deep down in your heart of hearts, you know it's time to answer issues on all of your puppets. After all, you're just a primate who can't help but to push buttons for a dopamine release.
+
+6. You then remember that the United Federation Intelligence Agency recently published the latest version of its World Factbook, a widely used resource amongst foreign diplomats for information about the world's nations. Much of the information it contained about @@NAME@@ was just plain wrong, and your own diplomats found themselves fielding dozens of calls asking if it was true that you had been replaced as leader by a @@ANIMAL@@. How much easier it is to set the record straight when you write your own factbooks! The stats are all wrong anyway — your words will tell the real story. If only somebody would read them.
+
+7. Going to your Nation Page, you spot the little card icon staring back at you. Clicking it, you realise you have twenty-two copies of your own trading card. Perhaps this is a good time to add some variety to your collection — there are plenty of ongoing auctions, ready for you to swoop in at the last moment. All it takes is a nation, or fifty, to start sending you some gifts to sell. If you become wealthy enough, you can disguise your narcissism as altruism and stage a giveaway, or hoard a card that nobody will care about until you inflate its price to a ridiculous valuation. With every new pack comes the possibility of a legendary find...
+
+8. The real treasure, however, is the hidden content. Do people even know about the NationStates Against Humanity minigame? Or the Challenge System? You should load up the secret URL and just wait an hour, or three, to see if anyone starts a game. Who cares if no-one turns up? You'll get that great feeling of knowing that you're part of a special elite, a secret Illuminati privy to mysteries that the hoi polloi know nothing of.
+
+9. Out of nowhere, you're struck with the sort of idea that normally only occurs to one of your loopy cousins after a indulging in a mix of self-prescribed herbal remedies: what if you just bought the whole website? That Max Barry fellow certainly couldn't object to a new swimming pool filled with cash, courtesy of your National Treasury. With NationStates under your personal control, the site could finally have unending nuclear war! Zombie apocalypses that permanently affect your population! An IPO that actually earns you money! Maybe the admins could even bring back NationDates...
+
+10. Seriously though, it'd be a terrible shame to waste all that money on a game where other people have the audacity to think their opinions matter — why, you've got literally all the answers to pressing real-life conundrums right here, inside of you! Indeed, people in general really should listen more to you. Wait, what is this? People in General arguing about left and right wing extremism? Gun control? Opinions on capitalism and cancel culture? Oh, abortion! [i]*knuckles crack*[/i] Yes, the world needs to hear from you on this.
+
+11. Alas, the tyranny of choice is just exhausting. You had a long day, and you've spent so much time trying to decide what part of NationStates to play, it's almost time for bed. So how about you roll up your sleeves, pour a drink, and then just chill in one of the spam game threads for five or ten minutes? Whether it's pretending to be a brony, or calling the AN a talentless troubadour, sometimes reverting to childhood silliness is the best way to spend one's time. 
 
 --------------------------------------------------------------
-[b][anchor=1550]#1550[/anchor]: TBD[/b]
+[b][anchor=1550]#1550[/anchor]: A Friend With Weed Is a Friend Indeed? [Westinor; ed: Pogaria][/b]
 
+The Issue
+Recent reports have revealed that drug cartels are supplying the poorer citizens in @@NAME@@ with food and medical supplies, currying favor among the masses and in turn making it much harder for the police to apprehend drug kingpins. Several encounters between locals and law enforcement officials have escalated into full-on riots, with large crowds throwing rocks at police who were attempting to arrest suspected cartel members.
+
+The Debate
+1. "The downtrodden, the oppressed, the destitute: these are our people," claims militant weed distributor Ivana Smoke, who is rumored to run half of the black market operations in @@NAME@@. "We provide them with essentials that the government neglects, and in turn they shield us from unjust prosecution. This war on drugs is getting you nowhere — your own citizens aren't even on your side! Cease this mindless vendetta, and tell your pigs to stay out of my territory. Not only will innocent people stop getting hurt, but you can give everyone a tax cut since you won't need as many police. Don't you want to support the disenfranchised and the poor, @@LEADER@@?"
+
+2."Hey! Quick, grab 'er!" orders Police Chief Amber Kidman as several security guards attempt to tackle the kingpin, who disappears in a cloud of strange-smelling smoke. "Gah, we'll get them soon enough. @@LEADER@@, we can't let our glorious @@TYPE@@ be tainted by these ghastly substances. The best method of alleviating poverty is to crack down on all of the drug-pushing criminals that are trapping our people in a cycle of addiction. Give us more funding, more individual autonomy, and allow us to arrest any civilian seen in league with these dastardly thugs! That'll show those high-in-the-sky idiots who's boss."
+
+3. "Brutality won't solve the problem; it'll just cause our streets to be awash with blood!" insists social worker Edward Rivera, who is often seen in @CAPITAL@@'s dingiest soup kitchens. "If you want to prevent people from aiding or joining the drug cartels, we need to improve the schools and social services in these marginalized areas, and open some food banks and medical clinics. By giving our less affluent citizens a path out of poverty, they won't need to rely on criminals for support, and the problem should dissipate... after several years of hard work, of course."
+
+4. "Theesh people are doing ourrr own work for us!" exclaims your brother in extremely slurred speech as he takes a hit out of an impossibly large bong. "Let themm *hic* keep feeding them or whatever, and..." He doubles over and coughs several times. "We can focush on other stuff like *hic* tourism, or something. Isn't thish a great opportunity to promote our sight-seeing industryyy? I'm sure people would looove to feed the pheasants. Or something. Haha!" He then vomits on some important papers you were holding and passes out on the floor.
 
 --------------------------------------------------------------
-[b][anchor=1551]#1551[/anchor]: TBD[/b]
+[b][anchor=1551]#1551[/anchor]: Gimme! Gimme! Gimme! [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
+The Issue
+Welfare Minister @@RANDOM_NAME_1@@ was recently snapped by paparazzi on a seasonal shopping spree, looking positively dapper in a delightfully fashionable designer jacket. Unfortunately, the photos also show her walking past and pointedly ignoring charity volunteers asking her to make a donation to various worthy causes, a situation your PR people are referring to as "seriously bad optics."
+
+The Debate
+*1. "Ugh, those damn do-gooders have ruined my photo op, waving their stupid collection boxes in my face at the wrong time!" yells @@RANDOM_LAST_NAME_1@@. "Do you know how long it took me to do my hair that day? I mean sure, starving children in Kawandaland, children's hospitals in @@CAPITAL@@, and all that jazz... they're all terribly worthy causes. Why don't we commit to increasing foreign aid, income support and health spending? That'll reduce the need for charities, and will make us look good too." [color=purple]Must have physical currency[/color]
+
+*2. TBD [color=purple]Must not have physical currency[/color]
+
+3. "What, @@HE_1@@ couldn't spare a half-@@CURRENCY@@, so now the taxpayer has to foot the bill?" mocks your Treasury Minister. "@@LEADER@@, it'd be politically wise to fire this skinflint from your cabinet, and to publicly condemn @@HIS_1@@ lack of compassion, maybe while you're looking sad and tearful serving the homeless in the soup kitchen or something. It'd be a cheap way to make you look great, all while distancing yourself from political amateurs who make silly mistakes."
+
+4. "Actually, I find those charity chumps pretty annoying too," chimes in your brother. "The other day I was being cornered by this spotty boy who kept going on about landmine victims, and he didn't go away till I wrote him a cheque. I can't wait till he reads what I wrote on it — suffice to say it contained canine speculations about his maternal lineage. You should make it illegal for these panhandlers to approach and harass people. If I want to donate, I'll walk over to donate. Otherwise, charity beggars should stand quietly and stay out of my way!"
 
 --------------------------------------------------------------
-[b][anchor=1552]#1552[/anchor]: TBD[/b]
+[b][anchor=1552]#1552[/anchor]: What Are We Paying For? [Verdant Haven; ed: Verdant Haven][/b]
+
+The Issue
+As your Chief of Staff wraps up the latest whiz-bang press conference about a new government initiative, you're pretty sure you hear crickets in the room. That is, you probably would hear them, if not for the loud chorus of "Awwwwww" emanating from the state-controlled press pool, where most of the reporters are distracted by something on a monitor and are paying no attention whatsoever to the presentation.
+
+The Debate
+1. "Oi, losers! Pay attention!" snaps your murine-looking Chief of Staff, furiously launching an untouched stack of glossy full-color handouts into the distracted crowd. "You think we pay you to ignore what we have to say? And why is that live feed showing a rerun of last year's duckling parade instead of me? We've never forced your hand before, but this is too much... no more Mister Nice Government! From now on I want to see our message front and center on every platform! News scripts should be submitted for approval with no fluff pieces or unrelated content distracting from government messaging, and by thunder I never want to see the words 'rat-like' in the same sentence as my name ever again!"
+
+2. "Huh, what? Oh, you're done?" mumbles Divit Dunn, political correspondent for the @@NAME_INITIALS@@BC, as he brushes aside an offending press packet. Seeming to notice your presence for the first time, he straightens up and continues, "@@LEADER@@, you've always respected the speech rights of your state media, and we've loyally kept the people happy by giving them what they want. The people just don't care about this... uhh... what was it again? Anyway, the point is that we have the nation's best interests at heart, and sometimes that means ducklings. If you share our love for @@NAME@@, you should increase funding for all of your media assets and issue new charters guaranteeing that we have editorial independence. Leave media decisions to your media experts!"
+
+3. TBD
+
+4. "The people love you, true, and maybe that is even partly due to the media," agrees Judi Little, your eternally pragmatic Chairwoman of the State Committee on Expenditures. "Do you know what would make the people love you even more though? Tax breaks. Why should the state pay for a bunch of pompous journalists to go around saying whatever they want instead of what the people need? Cut the media loose, along with any other industry that doesn't want to toe the line, and let them experience how harsh a free market really is. We'll save enough to give the citizens a tax cut, and we can pad our general fund at the same time. Everybody wins!"
 
 
 --------------------------------------------------------------

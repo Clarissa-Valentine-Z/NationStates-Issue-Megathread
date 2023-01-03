@@ -37,8 +37,19 @@ The Debate
 4. "But he promised to be with me forever! I don't want anyone else — he's the one for me," wails your brother's ex, appearing from behind the couch and giving him a vacant stare. Then she turns to you and smiles sweetly. "You should make it law that anyone who has been ditched has the right to watch over their ex constantly for the next six months. Just to make sure they're okay and that they're sure they made the right decision." She turns again to your brother. "By the way, I know you're seeing that girl at the supermarket. STAY AWAY FROM HER OR I'LL BE USING HER INTESTINES AS FISH BAIT!"
 
 --------------------------------------------------------------
-[b][anchor=1543]#1543[/anchor]: TBD[/b]
+[b][anchor=1543]#1543[/anchor]: What Are We Paying For? [Verdant Haven; ed: Verdant Haven][/b]
 
+The Issue
+As your Chief of Staff wraps up the latest whiz-bang press conference about a new government initiative, you're pretty sure you hear crickets in the room. That is, you probably would hear them, if not for the loud chorus of "Awwwwww" emanating from the state-controlled press pool, where most of the reporters are distracted by something on a monitor and are paying no attention whatsoever to the presentation.
+
+The Debate
+1. "Oi, losers! Pay attention!" snaps your murine-looking Chief of Staff, furiously launching an untouched stack of glossy full-color handouts into the distracted crowd. "You think we pay you to ignore what we have to say? And why is that live feed showing a rerun of last year's duckling parade instead of me? We've never forced your hand before, but this is too much... no more Mister Nice Government! From now on I want to see our message front and center on every platform! News scripts should be submitted for approval with no fluff pieces or unrelated content distracting from government messaging, and by thunder I never want to see the words 'rat-like' in the same sentence as my name ever again!"
+
+2. "Huh, what? Oh, you're done?" mumbles Divit Dunn, political correspondent for the @@NAME_INITIALS@@BC, as he brushes aside an offending press packet. Seeming to notice your presence for the first time, he straightens up and continues, "@@LEADER@@, you've always respected the speech rights of your state media, and we've loyally kept the people happy by giving them what they want. The people just don't care about this... uhh... what was it again? Anyway, the point is that we have the nation's best interests at heart, and sometimes that means ducklings. If you share our love for @@NAME@@, you should increase funding for all of your media assets and issue new charters guaranteeing that we have editorial independence. Leave media decisions to your media experts!"
+
+3. TBD
+
+4. "The people love you, true, and maybe that is even partly due to the media," agrees Judi Little, your eternally pragmatic Chairwoman of the State Committee on Expenditures. "Do you know what would make the people love you even more though? Tax breaks. Why should the state pay for a bunch of pompous journalists to go around saying whatever they want instead of what the people need? Cut the media loose, along with any other industry that doesn't want to toe the line, and let them experience how harsh a free market really is. We'll save enough to give the citizens a tax cut, and we can pad our general fund at the same time. Everybody wins!"
 
 --------------------------------------------------------------
 [b][anchor=1544]#1544[/anchor]: Happy Juice [Candlewhisper Archive; ed: Verdant Haven][/b]
@@ -175,20 +186,17 @@ The Debate
 4. "Actually, I find those charity chumps pretty annoying too," chimes in your brother. "The other day I was being cornered by this spotty boy who kept going on about landmine victims, and he didn't go away till I wrote him a cheque. I can't wait till he reads what I wrote on it — suffice to say it contained canine speculations about his maternal lineage. You should make it illegal for these panhandlers to approach and harass people. If I want to donate, I'll walk over to donate. Otherwise, charity beggars should stand quietly and stay out of my way!"
 
 --------------------------------------------------------------
-[b][anchor=1552]#1552[/anchor]: What Are We Paying For? [Verdant Haven; ed: Verdant Haven][/b]
+[b][anchor=1552]#1552[/anchor]: An Issue About Nothing [Nardin; ed: Electrum][/b]
 
 The Issue
-As your Chief of Staff wraps up the latest whiz-bang press conference about a new government initiative, you're pretty sure you hear crickets in the room. That is, you probably would hear them, if not for the loud chorus of "Awwwwww" emanating from the state-controlled press pool, where most of the reporters are distracted by something on a monitor and are paying no attention whatsoever to the presentation.
+A raucous crowd draws your attention during your visit to the newest wing of the @@CAPITAL@@ Art Museum. The nation's artists and critics have gathered around controversial experimental artist Salvatore Niente's newest piece 'The Indefiniteness of Memory', an 'invisible' clock statue. They are all eager to give their impromptu opinions to you rather than to the nation's poorly circulated art periodicals.
 
 The Debate
-1. "Oi, losers! Pay attention!" snaps your murine-looking Chief of Staff, furiously launching an untouched stack of glossy full-color handouts into the distracted crowd. "You think we pay you to ignore what we have to say? And why is that live feed showing a rerun of last year's duckling parade instead of me? We've never forced your hand before, but this is too much... no more Mister Nice Government! From now on I want to see our message front and center on every platform! News scripts should be submitted for approval with no fluff pieces or unrelated content distracting from government messaging, and by thunder I never want to see the words 'rat-like' in the same sentence as my name ever again!"
+1. "Absolutely ludicrous, just look at it!" scoffs sculptor @@RANDOMNAME@@, throwing @@HIS@@ beret on the ground and stomping on it for good measure. "Oh wait, you can't, because it's literally nothing! Even the most gullible of the hoi polloi can tell you this is not art. True art should convey emotion, express creativity and help others see the beauty of the world! Concept art such as this has no place in these hallowed halls of the masters."
 
-2. "Huh, what? Oh, you're done?" mumbles Divit Dunn, political correspondent for the @@NAME_INITIALS@@BC, as he brushes aside an offending press packet. Seeming to notice your presence for the first time, he straightens up and continues, "@@LEADER@@, you've always respected the speech rights of your state media, and we've loyally kept the people happy by giving them what they want. The people just don't care about this... uhh... what was it again? Anyway, the point is that we have the nation's best interests at heart, and sometimes that means ducklings. If you share our love for @@NAME@@, you should increase funding for all of your media assets and issue new charters guaranteeing that we have editorial independence. Leave media decisions to your media experts!"
+2. "How can anyone seek to establish arbitrary rules for creating art, or enforce styles of a bygone age?" inquires Salvatore Niente, protectively clutching the statue close to his body before being asked by the museum guards to step away from the exhibit. "My sculpture is made of air and spirit, requiring the viewer to use their full power of imagination to grasp. I make no apologies to philistines who don't know how to imagine. Really, you should be helping museums invest in thought-provoking and expensive art that appeals to the modern psyche, such as blank canvases, fruit taped to walls and even someone performing a guttural scream into a microphone."
 
-3. TBD
-
-4. "The people love you, true, and maybe that is even partly due to the media," agrees Judi Little, your eternally pragmatic Chairwoman of the State Committee on Expenditures. "Do you know what would make the people love you even more though? Tax breaks. Why should the state pay for a bunch of pompous journalists to go around saying whatever they want instead of what the people need? Cut the media loose, along with any other industry that doesn't want to toe the line, and let them experience how harsh a free market really is. We'll save enough to give the citizens a tax cut, and we can pad our general fund at the same time. Everybody wins!"
-
+3. "Who, like, even wants to go to an old boring building for art anyway? You have to walk around and look at what some stuck-up rich dudes thought looked cool hundreds of years ago," says your nephew, a 'crypto bro' hustling for some dough. "It'd be pog if you made a VR museum that showcases a curated collection of digital art. It's a good investment too, with fully guaranteed returns on the blockchain. I know you're old and out of touch, so let me know if you need help with what's dope and what's not."
 
 --------------------------------------------------------------
 [b][anchor=1553]#1553[/anchor]: TBD[/b]

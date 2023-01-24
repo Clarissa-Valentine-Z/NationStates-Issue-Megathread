@@ -4,11 +4,11 @@ The Issue
 Over the weekend, two dozen people were admitted to the hospital after ingesting the new liquid detergent Wonderoso, having mistaken it for a soft drink.
 
 The Debate
-1, "It's irresponsible to package detergent in the same way as soft drinks," observes Dr. @@RANDOM_NAME@@, a toxicologist. "It's not just the liquids either. There's brightly coloured detergent tablets that kids mistake for sweets, and manufacturers apply scents like cinnamon, mint and vanilla to toxic products. Cleaning products should be hard to open, look unappetising and be clearly noxious in appearance!" @@HE@@ pauses to take a swig from @@HIS@@ soft drink, and suddenly stiffens and keels over like a falling log.
+1. "It's irresponsible to package detergent in the same way as soft drinks," observes Dr. @@RANDOM_NAME@@, a toxicologist. "It's not just the liquids either. There's brightly coloured detergent tablets that kids mistake for sweets, and manufacturers apply scents like cinnamon, mint and vanilla to toxic products. Cleaning products should be hard to open, look unappetising and be clearly noxious in appearance!" @@HE@@ pauses to take a swig from @@HIS@@ soft drink, and suddenly stiffens and keels over like a falling log.
 
-2, "Our prime responsibility is to our shareholders, and that means maximising sales with consumer-preferred features and packaging," explains a corporate marketing spokesperson, who is dressed in a lab coat to give the impression of being a scientist. "It's not our duty nor the government's duty to protect people from their own stupidity, like somehow mistaking licorice-flavoured brown oxy-power fizzy Wonderoso for Eckie-Ecola. Our all-purpose cleansers are not intended for ingestion despite — allegedly — tasting twice as good as the leading alternative."
+2. "Our prime responsibility is to our shareholders, and that means maximising sales with consumer-preferred features and packaging," explains a corporate marketing spokesperson, who is dressed in a lab coat to give the impression of being a scientist. "It's not our duty nor the government's duty to protect people from their own stupidity, like somehow mistaking licorice-flavoured brown oxy-power fizzy Wonderoso for Eckie-Ecola. Our all-purpose cleansers are not intended for ingestion despite — allegedly — tasting twice as good as the leading alternative."
 
-3, "The problem is not that detergents look like foods, it's that food looks like detergents," complains organic farmer @@RANDOM_NAME@@, waving a misshapen turnip at you. "We should ban food colourings and any food additives that are designed to change the appearance of edibles. Once people get used to natural-looking produce, there'll be no chance of them mistaking a pastel-coloured soap product for food."
+3. "The problem is not that detergents look like foods, it's that food looks like detergents," complains organic farmer @@RANDOM_NAME@@, waving a misshapen turnip at you. "We should ban food colourings and any food additives that are designed to change the appearance of edibles. Once people get used to natural-looking produce, there'll be no chance of them mistaking a pastel-coloured soap product for food."
 
 --------------------------------------------------------------
 [b][anchor=1541]#1541[/anchor]: Confusion of the Highest Order [The Dark Crusaders; ed: Sedgistan][/b]
@@ -88,9 +88,9 @@ The Debate
 
 2. "There's no need to do all that work... the real problem is private ownership of gold!" argues @@RANDOM_NAME@@, Minister for 'Creative' Solutions. "If our people are holding on to gold, then we can't use it to back our currency. We need to abolish private ownership of gold, and compel people to turn it in for its fair market value! Of course, there is the teeny-tiny complication of people hiding their holdings from the government, so we'll also need to establish a new investigatory agency to look into potential cases of hoarding."
 
-3. "We have an open economy — if we need more gold, we can trade for it!" observes @@RANDOM_NAME@@, your creative Minister for Solutions, known for @@HIS@@ connections to war zones across @@REGION@@. "Thing is, you don't just want to buy it using @@CURRENCY_PLURAL@@ — that'd be trading gold for gold. You need somebody willing to make a different sort of exchange. As it happens, I know some bloodthirsty rebels... err, I mean plucky freedom fighters, who would happily exchange some of their vast gold reserves for material support in the form of bombs and ammunition. Say the word and we'll turn lead into gold!"
+*3. "We have an open economy — if we need more gold, we can trade for it!" observes @@RANDOM_NAME@@, your creative Minister for Solutions, known for @@HIS@@ connections to war zones across @@REGION@@. "Thing is, you don't just want to buy it using @@CURRENCY_PLURAL@@ — that'd be trading gold for gold. You need somebody willing to make a different sort of exchange. As it happens, I know some bloodthirsty rebels... err, I mean plucky freedom fighters, who would happily exchange some of their vast gold reserves for material support in the form of bombs and ammunition. Say the word and we'll turn lead into gold!" [[color=purple]Must not have Autarky[/color]]
 
-4. "The challenge is that we have a closed economy" observes @@RANDOM_NAME@@, your creative Minister for Solutions, known for @@HIS@@ connections to war zones across @@REGION@@. "Our ability to finance our obligations will always be limited by our domestic stock of gold. If we open our borders to trade, I bet I can find somebody willing to send us gold for something we don't need as much. As a matter of fact, I know some bloodthirsty rebels... err, I mean plucky freedom fighters, who would happily exchange some of their vast gold reserves for material support in the form of bombs and ammunition. Just say the word and we'll turn lead into gold!"
+*4. "The challenge is that we have a closed economy" observes @@RANDOM_NAME@@, your creative Minister for Solutions, known for @@HIS@@ connections to war zones across @@REGION@@. "Our ability to finance our obligations will always be limited by our domestic stock of gold. If we open our borders to trade, I bet I can find somebody willing to send us gold for something we don't need as much. As a matter of fact, I know some bloodthirsty rebels... err, I mean plucky freedom fighters, who would happily exchange some of their vast gold reserves for material support in the form of bombs and ammunition. Just say the word and we'll turn lead into gold!" [[color=purple]Must have Autarky[/color]]
 
 5. "This policy experiment has been madness! Why are you trying to save it?" pleads Ruel Taylor, an overwrought employee of the Central Bank of @@NAME@@ taking a break from haranguing passers-by about something called 'Floating Rates.' "There is no way we can mine, seize, or import gold fast enough to meet the demands of our swelling economy. End the gold standard and allow our currency to fluctuate again on the open market, or we'll suffer an economic catastrophe that makes our current limitations look like a holiday!"
 
@@ -199,20 +199,66 @@ The Debate
 3. "Who, like, even wants to go to an old boring building for art anyway? You have to walk around and look at what some stuck-up rich dudes thought looked cool hundreds of years ago," says your nephew, a 'crypto bro' hustling for some dough. "It'd be pog if you made a VR museum that showcases a curated collection of digital art. It's a good investment too, with fully guaranteed returns on the blockchain. I know you're old and out of touch, so let me know if you need help with what's dope and what's not."
 
 --------------------------------------------------------------
-[b][anchor=1553]#1553[/anchor]: TBD[/b]
+[b][anchor=1553]#1553[/anchor]: Fifteen Minutes of Flame [Savantoj; ed: Verdant Haven][/b]
 
+The Issue
+A massive fire recently struck the vaults of famed @@DENONYM_ADJECTIVE@@ movie studio @@NAME_INITIALS@@GM, tearing through the complex in less than 15 minutes. Questionable storage practices and a lack of fire suppression systems led to the only known copies of many early @@DENONYM_ADJECTIVE@@ films being destroyed in the blaze.
+
+The Debate
+1. "This clearly shows that big companies can't be trusted with preserving our culture!" opines self-identified movie critic @@RANDOM_FIRST_NAME@@ Dogme, best known for espousing the opinion that post-processing should be banned. "Those ignorant cretins couldn't give two @@CURRENCY_PLURAL@@ about 'An Investigation in Indigo,' or any other film that isn't raking in cash. In my unerring opinion, we need a national film archive with proper storage conditions and protection, overseen by people who truly appreciate the artform, such as yours truly. Then maybe we'd gain some artistic integrity as a nation, and maybe my family would finally stop bugging me about this whole job nonsense."
+
+*2. "This wouldn't have happened if those movies were digitized!" cries @@RANDOM_NAME@@, a digital media activist who only goes to theaters for the overpriced snacks. "Well, the fire probably still would've happened, but at least no one would actually care about it! Film reels naturally deteriorate over time; if the fire didn't destroy them, age and neglect still would. We're progressing into a new era, and the way we preserve media should reflect this! Finance the digitization of our cultural film legacy, and mandate that all movie studios save their works in a digital vault of sorts, hosted on redundant servers and accessible to all. Sure, they'll cry about piracy, but @@NAME@@'s amazing culture should be shared with the world." [[color=blue]Must not ban computers[/color]]
+
+*3. "This wouldn't have happened if those movies were digitized!" cries @@RANDOM_NAME@@, a digital media activist who only goes to theaters for the overpriced snacks. "Well, the fire probably still would've happened, but at least no one would actually care about it! Film reels naturally deteriorate over time; if the fire didn't destroy them, age and neglect still would. The world is progressing into a new era, and it's high time we join in! Finance the digitization of our cultural film legacy, unleash the power of the internet, and mandate that all movie studios save their works in a digital vault of sorts, hosted on redundant servers and accessible to all. Sure, they'll cry about piracy, but @@NAME@@'s amazing culture should be shared with the world." [[color=red]Must ban computers[/color]]
+
+[4]. "Ugh, why does anyone even care about this?" asks soda-sipping teenager @@RANDOM_NAME@@. "Most of those movies were probably trash anyway. Why else would nobody have made copies? Just tell the studios to put anything they're not using up for auction. If people want to protect those glorified slideshows, they can do it themselves. It would be a win for everyone involved, and then maybe I can go a day without hearing old people whine about their taxes for once." [[color=blue]Must have private industry; TBC[/color]]
+
+[5]. "Ugh, why does anyone even care about this?" asks soda-sipping teenager @@RANDOM_NAME@@. "Most of those movies were probably trash anyway... I've never even heard of them! If you're so sure they're important, get rid of those stupid laws against sequels, and maybe studios can make old content relevant again. You just can't expect my generation to care about some glorified slideshow — technology and taste have advanced too much!" [[color=red]Must ban sequels[/color]]
 
 --------------------------------------------------------------
-[b][anchor=1554]#1554[/anchor]: TBD[/b]
+[b][anchor=1554]#1554[/anchor]: Trajectory x Velocity = [i]GOAALL![/i] [Baggieland; ed: Verdant Haven][/b]
 
+The Issue
+According to breaking news reports, an avalanche the width of three football fields just swept through a mountain community in western @@NAME@@, leaving a runout zone the size of 50 football fields. Survivors are being evacuated to shelters at a nearby football field.
+
+The Debate
+1. "Ugh! Why is everything measured in football fields these days?" bemoans your niece, throwing down her maths homework in despair. "Look at this stupid maths question I've got to answer: 'If a train is travelling at 40m/s, then applies the brakes at 1.1m/s2, how many football fields will it take to stop?' I've never watched a game of football in my life... this has no meaning to me whatsoever! You've got to mandate that teachers, newscasters, and scientists stop using these so-called 'visual comparisons' and stick to standard mathematical measurements. Maybe then I'd be able to pass my exams." [does not use metric system]
+
+2. Ugh! Why is everything measured in football fields these days?" bemoans your niece, throwing down her maths homework in despair. "Look at this stupid maths question I've got to answer: 'If a train is travelling at 40m/s, then applies the brakes at 1.1m/s[sup]2[/sup], how many football fields will it take to stop?' I've never watched a game of football in my life... this has no meaning to me whatsoever! Don't we require the metric system to be used in this country? You've got to mandate that teachers, newscasters, and scientists stop using these so-called 'visual comparisons' and stick exclusively to metric – no ifs, ands, or football fields! Maybe then I'd be able to pass my exams." [[color=purple]Uses metric system[/color]]
+
+3. "Hey! I've found these comparisons very useful," blurts your brother, as he checks the latest football scores. "How long is a kilometre, how heavy is a gram? I don't know, 'cause I have problems picturing them in my mind. If you say the length of ten football fields or the weight of half a ping pong ball, then I get a better grasp of the size of things. From now on, @@NAME@@ must always use helpful comparisons alongside the usual measurements, so everyone will be able to grasp the width, or is it breadth?" [[color=purple]Does not use metric system[/color]]
+
+4. "Hey! I've found these comparisons very useful," blurts your brother, as he checks the latest football scores. "How long is a kilometre, how heavy is a gram? Ever since getting whacked in the head with that football, I've had problems picturing them in my mind! If you say the length of ten football fields or the weight of half a ping pong ball, then I get a better grasp of the size of things. From now on, @@NAME@@ should encourage the use of helpful comparisons alongside the metric system, so everyone will be able to grasp the width, or is it breadth?" [uses metric system]
+
+5. "Do you know how big that avalanche was?" hollers @@RANDOM_NAME@@, an evacuee being grilled by journalists about whether the sound was more similar to a freight train or a thunderstorm. "I DON'T CARE! The scientists and mathematicians can sort that out later. All I know is that my town has been flattened and I expect the government to rebuild everything, even if it's going to cost them as much as two football stadiums!"
 
 --------------------------------------------------------------
-[b][anchor=1555]#1555[/anchor]: TBD[/b]
+[b][anchor=1555]#1555[/anchor]: Deaf Trap [Cassinia; ed: Candlewhisper Archive][/b]
 
+The Issue
+Celebrity "wellbeing guru" Gwen F. Poltroon recommended to her social media followers that they should regularly clean their ears with cotton swabs (more commonly known by their brand name 'Cute Yips'). This has prompted audiologists and ENT doctors to express concern that doing so can damage ears by packing wax deeper, irritating ear canals and sometimes even perforating eardrums.
+
+The Debate
+1. Your short-statured and short-tempered health minister waddles angrily into your office, red in the face. "I have three little words for you: BAN THEM. Uh... PLEASE. No matter what we do, people are still going to use them incorrectly. The general public has proven itself too stupid and too weak-willed to resist sticking them in their ears."
+
+2. "Look, we market these things as beautician tools, arts and crafts items and multi-purpose medical application devices. It even says here in the leaflet that you shouldn't put them in your ears," complains the CEO of Cute Yips, absent-mindedly twiddling a cotton bud in his ear. "Still, you have to respect bodily autonomy, and the right of individuals to do unwise things. I mean, honestly, in the interests of personal freedom we ought to be allowing Cute Yips to be marketed and sold specifically for these purposes, instead of being all nudge-nudge-wink-wink about it."
+
+3. In a booming voice, the entrepreneur inventor of EarVacCleaner interrupts: "Here is a new and innovative solution! With its ergonomic design, the EarVacs2000 has the power and precision to remove up to 3 ounces of earwax! With regular government-funded ear suctioning programs, people will be empty-eared and will have no need for cotton buds. The EarVacs is completely safe. Compweetwee saaaaayfe." His left eye twitches and one shoulder droops as he starts to drool.
 
 --------------------------------------------------------------
-[b][anchor=1556]#1556[/anchor]: TBD[/b]
+[b][anchor=1556]#1556[/anchor]: Gimme Shelter [Nuremgard; ed: Candlewhisper Archive][/b]
 
+The Issue
+Recently, a transgender woman was murdered by her abusive partner, despite seeking refuge in a shelter for victims of domestic and sexual abuse days beforehand. It turns out that she was initially given shelter, but then forced to leave again when it transpired that she was transgender.
+
+The Debate
+1. "Look, I'm sure transgender women think they are women," retorts infamous feminist campaigner and author Jay Kayer-Owling. "Women at these shelters are trying to get away from abusive men. They can't feel safe if men are in the same place, and will be afraid to seek help because of it. Only biological women should be allowed in our safe spaces. Perhaps these men in dresses can have their own separate shelters, if they need them, where they can stay with people of their own sort."
+
+2. "Don't listen to that TERF! It's disgusting and disgraceful that anyone could try to justify a woman being sent back into such a violent and dangerous situation!" exclaims prominent transgender rights campaigner @@RANDOM_NAME@@, threatening the author with a lacrosse stick to emphasise her point. "All women deserve protection and safety from abuse, whether they are transgender or cisgender. Women's shelters must not discriminate! If you are a woman and you need shelter you should be granted it."
+
+3. "Actually, anyone can need shelter, and that includes men," observes men's rights activist Watt Abe Owtus, who has been slapped in the face by women many times. "Shelters should be gender-blind, and allow anyone who needs refuge to stay there, whether it's because of abuse, homelessness or because their mum has told them they can't stay in their basement any more. I mean, it might be a good place for nice guys like me to meet women who need a white knight to save them. Not all guys are abusers, you know!"
+
+4. "Can we not just recognise that transgender people are immoral, mentally ill or both?" asks conservative commentator @@RANDOM_NAME@@. "Men cannot become women and vice versa no matter how many surgeries or whatever they get. That's just biology. We should criminalize cross-dressing, ban transgender ideas, and admit for mandatory psychiatric treatment anyone who insists on pursuing this perversion."
 
 --------------------------------------------------------------
 [b][anchor=1557]#1557[/anchor]: TBD[/b]

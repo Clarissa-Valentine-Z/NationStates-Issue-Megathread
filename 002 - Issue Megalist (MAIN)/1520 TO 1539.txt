@@ -136,9 +136,9 @@ Blade in hand--never mind how it got there--you have found yourself in a duel wi
 The Debate
 1. With weary arms, your sword almost seems to beg you: finish this. One good, swift strike and you can put this whole mess behind you. Off-balance and exposed, their right flank unarmoured, it would almost be easy to slip the blade up under their ribs and deal a mortal blow. It is not your responsibility to coddle this miscreant--the fight was the Count's decision, after all. They will only have themselves to blame as they feel your blade pierce their skin, when they draw their last breath and realise this was all for nought. Do not pretend they would not do the same to you in a heartbeat; their is no alternative but to take the Count's life.
 
-*2. TBD [I will leave this up as New Option 2 for now.]
+*2. And yet, the thought is unbearable. To see the light fade from another person’s eyes and know that their death is not only your fault, but your deliberate doing — how could you ever live with yourself? How could you go out and face the public tomorrow, haunted by the Count’s dying breath? How could you sleep at night, thinking of their face, the color slowly draining away even as your hands soak in their still-warm blood? No. Honour be damned; this is not worth anyone’s life. One good, hard shove. Throw them to the floor and let your guards deal with the rest. Take the Count back to prison — there will be no denying the treason charges this time — and they can rot in a maximum-security cell like they deserve. [[color=red]Must have Prisons[/color]]
 
-*3. And yet, the thought is unbearable. To see the light fade from another person's eyes and know that their death is not only your fault, but your deliberate doing — how could you ever live with yourself? How could you go out and face the public tomorrow, haunted by the Count's dying breath? How could you sleep at night, thinking of their face, the color slowly draining away even as your hands soak in their still-warm blood? No. Honour be damned; this is not worth anyone's life. One good, hard shove. Throw them to the floor and let your guards deal with the rest. Take the Count away, exile them again — there will be no denying the treason charges this time — and they can languish, away from their family and friends like they deserve.
+*3. And yet, the thought is unbearable. To see the light fade from another person's eyes and know that their death is not only your fault, but your deliberate doing — how could you ever live with yourself? How could you go out and face the public tomorrow, haunted by the Count's dying breath? How could you sleep at night, thinking of their face, the color slowly draining away even as your hands soak in their still-warm blood? No. Honour be damned; this is not worth anyone's life. One good, hard shove. Throw them to the floor and let your guards deal with the rest. Take the Count away, exile them again — there will be no denying the treason charges this time — and they can languish, away from their family and friends like they deserve. [[color=blue]Must not have Prisons[/color]]
 
 --------------------------------------------------------------
 [b][anchor=1530]#1530[/anchor]: Absolutely Speechless [Baloo Kingdom; ed: Verdant Haven][/b]
@@ -185,7 +185,7 @@ The Debate
 [b][anchor=1533]#1533[/anchor]: Give a Girl Some Credit [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
-A majority of Deedas agree that women aren't capable of being financially responsible, and so banks and credit card companies are generally reluctant to offer them credit cards and checking accounts, preferring that a man takes charge of the charge cards. Surprisingly though, some are questioning this received wisdom.
+A majority of @@DEMONYM_PLURAL@@ agree that women aren't capable of being financially responsible, and so banks and credit card companies are generally reluctant to offer them credit cards and checking accounts, preferring that a man takes charge of the charge cards. Surprisingly though, some are questioning this received wisdom.
 
 The Debate
 1. "I'm not saying we should let the little ladies control their fellas' bank accounts, of course, but it'd be real swell if they could buy the odd knick-knack themselves," observes cosmetics store manager Marcus Fils-Aimé, patting a shop girl on the behind as she walks past. "Maybe just a limited sort of credit card, the sort you might give to a clever teenage boy. The average housewife could probably handle something like that, and it'd be great for business, especially now the shopping season is on us."
@@ -199,7 +199,7 @@ The Debate
 [b][anchor=1534]#1534[/anchor]: Give a Boy Some Credit [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
-A majority of Spirican statesians agree that men aren't capable of being financially responsible, and so banks and credit card companies are generally reluctant to offer them credit cards and checking accounts, preferring that a woman takes charge of the charge cards. Surprisingly though, some are questioning this received wisdom.
+A majority of @@DEMONYM_PLURAL@@ statesians agree that men aren't capable of being financially responsible, and so banks and credit card companies are generally reluctant to offer them credit cards and checking accounts, preferring that a woman takes charge of the charge cards. Surprisingly though, some are questioning this received wisdom.
 
 The Debate
 1. "I'm not saying we should let the little gents control their gals' bank accounts, of course, but it'd be real swell if they could buy the odd knick-knack themselves," observes golfing paraphernalia store manager Sofia Banks, patting a shop boy on the behind as he walks past. "Maybe just a limited sort of credit card, the sort you might give to a clever teenage girl. The average househusband could probably handle something like that, and it'd be great for business, especially now the shopping season is on us."

@@ -222,7 +222,7 @@ The Debate
 [b][anchor=1496]#1496[/anchor]: A Place For Everything [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue:
-Opposition Leader @@RANDOM_NAME@@ recently made a televised speech at a party conference, and did so with @@HIS@@ brand new uPhone85 prominently visible on the lectern throughout. Several times @@HE@@ used the "Sippy" virtual assistant feature to bring up relevant statistics during @@HIS@@ speech. While @@HIS@@ supporters are pleased at this clever attention-catching variation on the usual political rhetoric, @@HIS@@ opponents have cynically noted that Pear — the manufacturers of the uPhone series — are notable campaign donors to her party.
+Opposition Leader @@RANDOM_NAME@@ recently made a televised speech at a party conference, and did so with @@HIS@@ brand new uPhone85 prominently visible on the lectern throughout. Several times @@HE@@ used the "Sippy" virtual assistant feature to bring up relevant statistics during @@HIS@@ speech. While @@HIS@@ supporters are pleased at this clever attention-catching variation on the usual political rhetoric, @@HIS@@ opponents have cynically noted that Pear — the manufacturers of the uPhone series — are notable campaign donors to @@HIS@@ party.
 
 The Debate:
 1. "This blatant product placement is the result of selling influence, and is bringing politics into disrepute!" accuses Foreign Minister @@RANDOM_NAME@@, who was recently caught in a scandal involving snorting cocaine off the foreheads of abused interns. "In our official capacity as politicians, we should never be allowed to refer to or endorse commercial products by name."

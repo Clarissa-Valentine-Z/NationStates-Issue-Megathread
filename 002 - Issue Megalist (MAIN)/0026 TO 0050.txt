@@ -97,9 +97,11 @@ Scientists have announced they are close to a breakthrough in their quest to rev
 The Debate
 1. "I, for one, applaud their work," says scientist @@RANDOM_NAME@@. "And not just because I'm the project leader. This is an example of how @@NAME@@'s brains can mix it with the world's best. Can you imagine how wonderful it will be to have feather-bellied @@ANIMAL_PLURAL@@ frolicking in the meadows again? I say full steam ahead, and more government funding!"
 
-2. "This is a sacrilege!", says religious leader @@RANDOM_NAME@@. "These animals are extinct because God wants them dead. Cloning them would merely incur his wrath! If we proceed down this path, it'll be humans, not the feather-bellied @@ANIMAL@@, who will be extinct."
+*2. "This is a sacrilege!", says religious leader @@RANDOM_NAME@@. "These animals are extinct because God wants them dead. Cloning them would merely incur his wrath! If we proceed down this path, it'll be humans, not the feather-bellied @@ANIMAL@@, who will be extinct." [color=purple]Must not ban religions[/color]
 
-3. "Now, come on," says @@RANDOM_NAME@@, well-known philosopher. "You don't need to be religious to be unnerved by the top of this particular slippery slope. Today it's @@ANIMAL_PLURAL@@, tomorrow it's dinosaurs, and we all know how that turns out. This research shouldn't be banned, but there must be strict government controls over its use."
+*3. "This is absurd!" says avowed fatalist Cato Yeats. "These animals are extinct because evolution selected against them. Cloning them would merely be fighting the inevitable! If we proceed down this path, it'll be humans, not the feather-bellied @@ANIMAL@@, who will be extinct." [color=purple]Must ban religions[/color]
+
+4. "Now, come on," says @@RANDOM_NAME@@, well-known philosopher. "You don't need to be religious to be unnerved by the top of this particular slippery slope. Today it's @@ANIMAL_PLURAL@@, tomorrow it's dinosaurs, and we all know how that turns out. This research shouldn't be banned, but there must be strict government controls over its use."
 
 -------------------------------------------------------------------------------
 [b][anchor=034]#[/anchor][anchor=34]34[/anchor]: Don't Puff On Me, Say Non-Smokers [Sirocco][/b]
@@ -196,9 +198,11 @@ The Debate
 
 2. On the other side, there's @@NAME@@'s Education Administrator. "This is shocking news. If the children of tomorrow cannot read, then what? Next thing you know, we'll be speaking with contractions! The government must devote more efforts to education! Where will we be twenty years from now with an overflow of unskilled labor?"
 
-*3. @@RANDOM_NAME@@, principal of a highly-rated private school, prefers a different approach. "Instead of that, why not issue government vouchers so that parents can afford to send their children to privately run schools? We offer a far better education than the public schools. All we do is grind our particular religious views into our students!" [[color=blue]Must have private industry[/color]]
+*3. @@RANDOM_NAME@@, principal of a highly-rated private school, prefers a different approach. "Instead of that, why not issue government vouchers so that parents can afford to send their children to privately run schools? We offer a far better education than the public schools. All we do is grind our particular religious views into our students!" [[color=blue]Must have private industry[/color] AND [color=purple]Must not ban religion[/color]]
 
-*4. @@RANDOM_NAME@@, principal of a highly-rated private school in the United Federation, suggests a different approach. "Instead of that, why not issue government subsidies to help parents afford to send their children overseas, to privately run schools outside of @@NAME@@? We offer a far better education than the communist schools of your nation. Sure, they might pick up a few ideological tendencies, but I reckon that'll be good for your economy in the long run." [[color=red]Must not have private industry[/color]]
+*4. @@RANDOM_NAME@@, principal of a highly-rated private school, prefers a different approach. "Instead of that, why not issue government vouchers so that parents can afford to send their children to privately run schools? We offer a far better education than the public schools. All we do is grind our particular philosophy into our students!" [[color=blue]Must have private industry[/color] AND [color=purple]Must ban religion[/color]]
+
+*5. @@RANDOM_NAME@@, principal of a highly-rated private school in the United Federation, suggests a different approach. "Instead of that, why not issue government subsidies to help parents afford to send their children overseas, to privately run schools outside of @@NAME@@? We offer a far better education than the communist schools of your nation. Sure, they might pick up a few ideological tendencies, but I reckon that'll be good for your economy in the long run." [[color=red]Must not have private industry[/color]]
 
 5. "Who needs some fancy-shmancy cash-draining school system, anyway?" @@RANDOM_NAME@@ declares from the front steps of his double-wide mobile home, shotgun in hand. "My Pa raised me and my eight brothers and three sisters without no waste of time schoolin'! My Pa taught me everythin' I need t'know, let all these whippersnappers' Mas and Pas teach 'em what they need t'know!"
 

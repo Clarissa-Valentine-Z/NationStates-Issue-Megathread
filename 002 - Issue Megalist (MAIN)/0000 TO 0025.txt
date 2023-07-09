@@ -21,7 +21,9 @@ The Debate
 
 2. John Black, author of the hit book, 'Men are from Mars, Women are from Some Whole Other Place,' has a simpler solution. "If couples would just call each other 'darling' once in a while, there would be far fewer relationship breakdowns. A little affection is all it takes. So the government should make it mandatory: call your spouse 'darling' at least once a day, or face a fine."
 
-[3]. "There's a simple way to boost the marriage rate," says gay rights activist @@RANDOM_NAME@@. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual preference. Besides, everyone knows gay relationships are more stable than straight ones." [[color=red]Homosexual marriage is illegal[/color]] 
+*3. "There's a simple way to boost the marriage rate," says gay rights activist @@RANDOM_NAME@@. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual preference. Besides, everyone knows gay relationships are more stable than straight ones." [[color=red]Homosexual marriage is illegal[/color]] 
+
+*4. "There's a simple way to boost the marriage rate," says gay rights activist Frank Weber. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual orientation. Besides, everyone knows gay relationships are more stable than straight ones." [Policy TBD]
 
 -------------------------------------------------------------------------------
 [b][anchor=002]#[/anchor][anchor=2]2[/anchor]: Reclaim The Streets![/b]
@@ -43,9 +45,13 @@ The Issue
 The latest "Harry Potter" book to hit schools across @@NAME@@ has stirred up the greatest controversy yet.
 
 The Debate
-1. "I quite enjoyed the book, until I got to the part where Harry summons evil demons to do his bidding," says religious leader @@RANDOM_NAME@@. "Now that's just wrong. We need to restore some sense to this debate, by which I mean we should remove this book from the shelves, salt it thoroughly, and burn it."
+*1. "I quite enjoyed the book, until I got to the part where Harry summons evil demons to do his bidding," says religious leader @@RANDOM_NAME@@. "Now that's just wrong. We need to restore some sense to this debate, by which I mean we should remove this book from the shelves, salt it thoroughly, and burn it." [[color=purple]Must not ban religions[/color]]
 
-2. Teachers union President @@RANDOM_NAME@@ says, "Come on, the book is fantasy! And it's a damn good read. I'd like the government to issue a statement of support for our teachers and librarians, so kids can enjoy good books without interference from religious wackos, like Christians."
+*2. "I quite enjoyed the book, until I got to the part where Harry summons evil demons to do his bidding," says nervous PTA member @@RANDOM_NAME@@. "Now that's just wrong. We need to restore some sense to this debate, by which I mean we should remove this book from the shelves, salt it thoroughly, and burn it." [[color=purple]Must ban religions[/color]]
+
+**3. Teachers union President @@RANDOM_NAME@@ says, "Come on, the book is fantasy! And it's a damn good read. I'd like the government to issue a statement of support for our teachers and librarians, so kids can enjoy good books without interference from religious wackos, like Christians." [[color=purple]Must not ban religions[/color]]
+
+**4. Teachers union President @@RANDOM_NAME@@ says, "Come on, the book is fantasy! And it's a damn good read. I'd like the government to issue a statement of support for our teachers and librarians, so kids can enjoy good books without interference from ignorant wackos, like their parents." [[color=purple]Must ban religions[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=004]#[/anchor][anchor=4]4[/anchor]: Economic Collapse Looms![/b]

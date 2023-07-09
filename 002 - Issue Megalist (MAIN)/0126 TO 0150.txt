@@ -146,9 +146,11 @@ The Debate
 
 2. "I most vehemently disagree," says @@RANDOM_NAME@@, a pro-life activist. "I'm all for women's rights in general, but what about the child? Does it have no rights either? Abortion is totally immoral and I insist that it be outlawed except in cases of rape, or when the mother's life is in danger."
 
-3. "You're not going far enough! Abortion is murder!" shouts Reverend @@RANDOM_NAME@@, waving a placard with a picture of a foetus on it. "God decides which babies live and which will die, not us! The government must maintain a stern anti-abortion stance to preserve the morality of @@NAME@@!"
+*3. "You're not going far enough! Abortion is murder!" shouts Reverend @@RANDOM_NAME@@, waving a placard with a picture of a foetus on it. "God decides which babies live and which will die, not us! The government must maintain a stern anti-abortion stance to preserve the morality of @@NAME@@!" [[color=purple]Must not ban religion[/color]]
 
-4. "Abortion has to be legal if we're going to last as a nation," says @@RANDOM_NAME@@, President of the Society of Bitter Old People. "Have you ever thought that with @@NAME@@'s growing population of @@POPULATION@@, we soon aren't going to be able to squeeze any more people within our borders? If we use abortion to control the population, we'll make great savings and can spend the money elsewhere. One child per family should just about do it I think. Extraneous ones can be sold to other countries."
+*4. "You're not going far enough! Abortion is murder!" shouts activist Bianca Dogs, waving a placard with a picture of a foetus on it. "How can you claim the right to decide which babies live and which will die? The government must enforce stern anti-abortion laws to preserve the morality of @@NAME@@!" [[color=purple]Must ban religion[/color]]
+
+5. "Abortion has to be legal if we're going to last as a nation," says @@RANDOM_NAME@@, President of the Society of Bitter Old People. "Have you ever thought that with our nation's growing population of @@POPULATION@@, we soon aren't going to be able to squeeze any more people into @@NAME@@? If we use abortion to control the population, we'll make great savings and can spend the money elsewhere. One child per family should just about do it I think. Extraneous ones can be sold to other countries." [Policy TBD]
 
 -------------------------------------------------------------------------------
 [b][anchor=137]#137[/anchor]: Arms Industry Demands Respect [Koternacht; ed: Sirocco & Tactical Grace][/b]

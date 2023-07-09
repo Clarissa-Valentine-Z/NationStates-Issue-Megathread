@@ -274,7 +274,7 @@ The Issue
 After a recent conversion mistake cost a government research project millions in @@CURRENCY_PLURAL@@, @@NAME@@'s scientists have come to you begging for the country to switch to the metric system.
 
 The Debate
-1. "Our measurement system is a complete disaster!" wails renowned engineer @@RANDOM_NAME@@, brandishing the odd-looking result of a recent project. "We're stuck using primitive and illogical measurements like 'fingers' or 'donkeypower' or 'MegaFonzie'. It's too much! Practically every other nation in @@REGION@@ has converted to the metric system. Think of how much it would help our international communication! It'll cost a few deniers to convert, but it'll be damn cheaper than the mistakes our system is causing!"
+1. "Our measurement system is a complete disaster!" wails renowned engineer @@RANDOM_NAME@@, brandishing the odd-looking result of a recent project. "We're stuck using primitive and illogical measurements like 'fingers' or 'donkeypower' or 'MegaFonzie'. It's too much! Practically every other nation in @@REGION@@ has converted to the metric system. Think of how much it would help our international communication! It'll cost a few @@CURRENCY_PLURAL@@ to convert, but it'll be damn cheaper than the mistakes our system is causing!"
 
 2. "Primitive? How dare that lab rat say such a thing!" spits infamous patriot @@RANDOM_NAME@@. "They're not just measurements; they're part of our cultural heritage. Where would we be without our attoparsecs, hogsheads, or shakes of a @@ANIMAL@@'s tail? You want to throw that all away because some scientists are too lazy to do their jobs correctly. Give the taxpayers a break and ignore these eggheads."
 

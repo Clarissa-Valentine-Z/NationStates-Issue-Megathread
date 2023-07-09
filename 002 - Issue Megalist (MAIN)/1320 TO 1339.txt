@@ -129,9 +129,9 @@ A recent exposé revealed that growth hormone therapy — an expensive treatment
 The Debate
 1. "I just want what's best for my little Timmy; what parent wouldn't?" asks @@RANDOM_NAME1@@, who appears to have bribed your guards into getting an unscheduled meeting with you. "Growth hormone therapy is completely safe and the best doctor money could buy said it was a medically valid treatment for my little Timmy, what with him being [i]two whole inches[/i] below normal. Whether or not Timmy gets hormone therapy is between his doctor, my accountant, and me, not the government."
 
-2. "Great!" sarcastically exclaims @@RANDOM_NAME1@@'s valet after @@HE@@ has walked out of the room. "One more way the rich get it better off than the poor. My kids are even shorter than his, but I could never afford this treatment. You have to level the playing field. State-employed doctors should determine who truly needs growth hormone therapy, and the state should pay for it."
+*2. "Great!" sarcastically exclaims @@RANDOM_NAME1@@'s valet after @@HE@@ has walked out of the room. "One more way the rich get it better off than the poor. My kids are even shorter than his, but I could never afford this treatment. You have to level the playing field. State-employed doctors should determine who truly needs growth hormone therapy, and the state should pay for it." [[color=purple]Must not ban sports[/color]]
 
-3. TBD.
+*3. "Great!" sarcastically exclaims @@RANDOM_NAME1@@'s valet after @@HE@@ has walked out of the room. "One more way the rich get it better off than the poor. My kids are even shorter than his, but I could never afford this treatment. You have to level the playing field. State-employed doctors should determine who truly needs growth hormone therapy, and the state should pay for it." [[color=purple]Must ban sports[/color]]
 
 4. "This is insane," cries a voice whose origins you can't locate at first, until you look down and find the wee Dr. Bill Harford. "There's nothing wrong with being shorter than average, even way shorter than average. You can't call something a 'treatment' if there are no adverse health effects associated with the 'illness' it treats. Ban growth hormone therapy in all cases and teach @@DEMONYM_PLURAL@@ to love each other no matter what their size."
 
@@ -146,7 +146,7 @@ A former member of your cabinet has just been executed for masterminding a plot 
 The Debate
 1. "These scoundrels are tainted by the crime of their kin," says one of your fervently loyal ministers, as @@HE@@ shows you information on the family along with their pictures. "Treachery runs in their blood and we must rip it out, root and stem. The only solution is to execute the entire family as well. If you don't, they will rise up and destroy us in revenge for what we did... It's better to be safe than sorry."
 
-2. "I think executing them is a little bit extreme," counters your sister as she looks over the documents of the family. "If you're really that worried about them, you could always just put them in prison. It's more humane and it keeps potential threats out of the way."
+[2]. "I think executing them is a little bit extreme," counters your sister as she looks over the documents of the family. "If you're really that worried about them, you could always just put them in prison. It's more humane and it keeps potential threats out of the way." [[color=red]Must not ban prisons[/color]]
 
 3. "Come on, what century are we living in?" inquires your niece as she gently brushes your hair with a pink My Little Horsey hairbrush. "Show some mercy and let them know that they are safe under your regime. This will show you as a merciful and compassionate ruler, and leniency may very well inspire loyalty in them. I'm sure this will alleviate any bitterness they feel about their loved one being killed."
 

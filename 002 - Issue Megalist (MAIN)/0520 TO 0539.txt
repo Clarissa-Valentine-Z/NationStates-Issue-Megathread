@@ -42,7 +42,7 @@ The Debate
 
 3. "Why so glum when there's shopping to be done?" sings devoted consumer @@RANDOM_NAME@@, sporting a lovely green velvet jacket. "Just cut sales taxes on luxury goods so everybody can shop their way out of misery! Your government is wasting money funding thinktanks and research groups of dubious value. You should cut the funding of SCAM and other analysts, and give me back my own @@CURRENCY_PLURAL@@. The resulting spending spree will put a smile on my face AND boost the economy!"
 
-4. "This crass commercialism saddens my heart," observes dour faith leader @@RANDOM_MALE_NAME@@, shaking his head sadly. "What about the soul? Laughter is evil spirits, shaking our bodies. Each guffaw is the spirit of the divine, leaking out of the body. It is Written! For the sake of the collective salvation of @@NAME@@, laughter must be banned!"
+[4]. "This crass commercialism saddens my heart," observes dour faith leader @@RANDOM_MALE_NAME@@, shaking his head sadly. "What about the soul? Laughter is evil spirits, shaking our bodies. Each guffaw is the spirit of the divine, leaking out of the body. It is Written! For the sake of the collective salvation of @@NAME@@, laughter must be banned!" [[color=purple]Must ban Religion[/color] OR [color=purple]Low Religiousness[/color]]
 
 5. "How can you listen to these people?" asks depressed laughter therapist @@RANDOM_NAME@@, dabbing away a tear. "@@NAME@@ needs joy, now more than ever. We need to bring the art of humour and inner happiness into everybody's lives through intensive programmes in every school and workplace in the country. Happiness doesn't just happen: it needs to be taught!"
 

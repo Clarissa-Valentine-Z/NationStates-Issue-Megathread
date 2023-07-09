@@ -140,7 +140,7 @@ An independent study recently estimated that up to ten percent of all physical m
 The Debate
 1. "The fake bills just keep coming and coming!" exclaims @@RANDOM_NAME@@, your excitable Chancellor of the Treasury, pouring out a suitcase of the counterfeit notes onto your desk.  "If we want to stop this, I'll need a special task force under my direct control, and a free hand to act decisively...  With that, I guarantee you we'll stamp out all forms of counterfeiting within a month.  Or maybe two.  Or however long it takes!"
 
-[2]. "An easier solution would be to implant small RFID-microchips into our notes and coins," proposes @@RANDOM_NAME@@, your Minister of Gadgets, demonstrating a prototype to you. "This would ensure that all genuine money could be immediately verified by handheld scanners.  As an extra benefit, it'd be a lot easier to track the movement of cash if we need to." [[color=purple]Must have substantial scientific advancement OR I.T.[/color]] [???]
+[2]. "An easier solution would be to implant small RFID-microchips into our notes and coins," proposes @@RANDOM_NAME@@, your Minister of Gadgets, demonstrating a prototype to you. "This would ensure that all genuine money could be immediately verified by handheld scanners.  As an extra benefit, it'd be a lot easier to track the movement of cash if we need to." [[color=purple]Must have substantial scientific advancement OR IT Industry[/color], TBD and may not be correct]
 
 3. "All that glitters is gold, and really that's all we'll need to know," mumbles @@RANDOM_NAME@@, a gold magnate.  "Wouldn't it be much simpler if a 1-@@CURRENCY@@ coin was actually worth one @@CURRENCY@@?  If you used gold coins instead, not only would the coins have intrinsic value, but counterfeiting would become profitless and thus non-existent."
 
@@ -286,5 +286,6 @@ The Debate
 
 2. "Yes, and do you know why there's a shortage of funeral services, hmmm?" quietly seethes funeral director Igor Fronkensteen, while dragging a lumpy burlap sack behind him. "Burial plot land costs...they are rising, yes? The price of insuring a hearse these days is, how do you say, absolutely ludicrous, yes? And the restrictive laws on 'adequate refrigeration' and 'treating the dead with dignity' all are running our margins and my salary down! You want more funeral services at a cheaper price, you should ease up on the bureaucracy, yes?"
 
-3. "Funeral services? What a waste of money," scoffs obscure thinker @@RANDOM_NAME@@, who has yet to sell any copies of @@HIS@@ book [i]Rich Dead, Poor Dead[/i]. "What's the point in some drawn-out shebang for someone who's not even going to be around to see it? Do away with funerals altogether. That way we can cremate everyone and harvest their bodies for phosphorous!"
+3. TBD
 
+4. "Funeral services? What a waste of money," scoffs obscure thinker @@RANDOM_NAME@@, who has yet to sell any copies of @@HIS@@ book [i]Rich Dead, Poor Dead[/i]. "What's the point in some drawn-out shebang for someone who's not even going to be around to see it? Do away with funerals altogether. That way we can cremate everyone and harvest their bodies for phosphorous!"

@@ -10,7 +10,9 @@ The Debate
 
 3. "Sounds like a lot of expensive admin work to me," complains Welfare Director @@RANDOM_NAME@@. "Wouldn't you rather have a solution that reduces government spending but still helps those who deserve it? Here's the thing, nobody wants to say it, but we all know that 99% of terrorists are from a handful of religions and nations. Just say that people from those groups don't get welfare, and you can both save money and prevent terrorism!"
 
-4. "I say unto to you that the answer is more welfare, not less!" offers unemployed youth @@RANDOM_FIRST_NAME@@ Violetsglory, pushing a shopping trolley of ammonium nitrate and diesel oil to the checkout till. "If you increase welfare, then maybe the resentful disenfranchised minorities will feel more supported by society, and become less prone to radicalisation. What have you got to lose?"
+4. TBD
+
+5. "I say unto to you that the answer is more welfare, not less!" offers unemployed youth @@RANDOM_FIRST_NAME@@ Violetsglory, pushing a shopping trolley of ammonium nitrate and diesel oil to the checkout till. "If you increase welfare, then maybe the resentful disenfranchised minorities will feel more supported by society, and become less prone to radicalisation. What have you got to lose?"
 
 -----------------------------------------------------------------------------
 [b][anchor=721]#721[/anchor]: A Lack Of Comma Sense [A Humanist Science; ed: Luna Amore][/b]
@@ -94,9 +96,9 @@ The Debate
 
 2. "Yeah, regulations always help businesses grow," says @@RANDOM_NAME@@, CEO of Widgets Inc, @@HIS@@ voice ripe with sarcasm. "If you want businesses to hire more people at job fairs, the government needs to relax regulations surrounding hiring and firing employees. And how about a few thousand @@CURRENCY_PLURAL@@ tax break for each job applicant companies hire at the fairs? I promise, it'll jump start the economy and pay for itself."
 
-*3. "The problem is there's no one in @@NAME@@ who is actually qualified to fill the jobs I need," sighs Anita Jobs, CEO of the major tech company Pear. "Can you please drop this silly immigration ban already? Once tech companies like Pear reboot the economy, I'm sure these hapless job fair attendees will be able to get jobs at McRonald's or something." [[color=red]Immigration is illegal[/color], possible additional criterion missing]
+*3. "The problem is there's no one in @@NAME@@ who is actually qualified to fill the jobs I need," sighs Anita Jobs, CEO of the major tech company Pear. "Can you please drop this silly immigration ban already? Once tech companies like Pear reboot the economy, I'm sure these hapless job fair attendees will be able to get jobs at McRonald's or something." [[color=red]Immigration is illegal[/color], [color=purple]Must ban Autarky[/color], TBC]
 
-*4. "The problem is there's no one in @@NAME@@ who is actually qualified to fill the jobs I need," sighs Anita Jobs, CEO of the major tech company Pear. "Can you please make it easier for us to hire high-skilled labor from outside the country? Once tech companies like Pear reboot the economy, I'm sure these hapless job fair attendees will be able to get jobs at McRonald's or something." [[color=blue]Immigration is legal[/color], possible additional criterion missing]
+*4. "The problem is there's no one in @@NAME@@ who is actually qualified to fill the jobs I need," sighs Anita Jobs, CEO of the major tech company Pear. "Can you please make it easier for us to hire high-skilled labor from outside the country? Once tech companies like Pear reboot the economy, I'm sure these hapless job fair attendees will be able to get jobs at McRonald's or something." [[color=blue]Immigration is legal[/color], [color=purple]Must not ban Autarky[/color], TBC]
 
 5. "It is obvious relying on the private sector to create jobs has failed!" wails your top Employment Minister, who also happens to be your cousin. "A well-planned state economy would fix all of this. Just think of the efficiency of it, we could simply assign people jobs, and imagine the comfort @@DEMONYM_PLURAL@@ would have if they knew they were assured a job before they even finished school? We could even tailor people's education to improve their productivity at their future careers!"
 
@@ -132,7 +134,9 @@ The Debate
 
 *4. "What you people are failing to see is the enormous social resource," mentions morbid mortician @@RANDOM_NAME@@ in a monotone. "Bones can be turned to human ivory, skin can be tanned into good leather, and trace elements reclaimed for state industry. Indeed, it should be seen as every citizen's final duty to go into the recycling processing centre, and become one with the People's economy!" [[color=red]Must not have private industry[/color]]
 
-5. "HERESY!" screams Really Revered Reverend @@RANDOM_NAME@@, who claims to be an ordained cleric of a religion you've never heard of. "Have all of you lost your minds? Do you understand what you are saying? When people die, they must be respectfully buried whole, otherwise in the afterlife they will be fragmented! Would you like to spend all eternity as a pile of loose body parts? I'm sure I wouldn't! Do you want the restless shades of the dismembered haunting you? I'm sure I don't! The dead must be allowed rest in peace, not pieces!"
+*5. "HERESY!" screams Really Revered Reverend @@RANDOM_NAME@@, who claims to be an ordained cleric of a religion you've never heard of. "Have all of you lost your minds? Do you understand what you are saying? When people die, they must be respectfully buried whole, otherwise in the afterlife they will be fragmented! Would you like to spend all eternity as a pile of loose body parts? I'm sure I wouldn't! Do you want the restless shades of the dismembered haunting you? I'm sure I don't! The dead must be allowed rest in peace, not pieces!" [[color=purple]Must not ban religion[/color]]
+
+*6. "What about DIGNITY?" screams @@RANDOM_NAME@@, who claims to represent a 'silent majority' you've never heard of. "Have all of you lost your minds? Do you understand what you are saying? When people die, they must be respectfully buried whole, not used for profit or some kind of nefarious experiment! Would you like to spend all eternity as a pile of loose body parts? I'm sure I wouldn't, and neither does anybody else. The dead must be allowed rest in peace, not pieces!" [[color=purple]Must ban religion[/color]]
 
 -----------------------------------------------------------------------------
 [b][anchor=729]#729[/anchor]: Teenage Kicks [Abhichandra; ed: The Free Joy State][/b]

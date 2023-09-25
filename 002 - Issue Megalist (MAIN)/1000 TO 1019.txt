@@ -93,6 +93,7 @@ The Debate
 The Issue
 Actor @@RANDOM_MALE_NAME_1@@, the famously tweedy star of superhero franchise [i]Superbloke[/i], has been heavily criticised after an incident at a Shop-Qwik, in which he was accused of "holding back women's rights by holding open doors".
 
+The Debate
 1. "Chivalry is just another word used by men who lord it over women!" shouts vlogger for radical feminist website [i]Lady Luck[/i], @@RANDOM_FEMALE_NAME@@. "Women are not frail innocents who need shielding from the weight of a door. Opening doors for women is unnecessary at best, and downright demeaning at worst. I say the government should fund advertisements and posters that show positive images of women as strong and powerful, so these patronising oiks will realise that we don't need their help!"
 
 2. "Well, I'm dashed! The way I was raised, it was expected that men should open doors for ladies," says Mr. @@LASTENAME_1@@, leaning lightly on his decorative silver-topped cane. "Protecting the fairer sex is an obligation of every gentleman - like learning to ride astride, box ruffians or dance a manly gavotte - and I'm sure many ladies would prefer feeling cherished by society. Rather than discourage chivalry, we should teach it in schools."

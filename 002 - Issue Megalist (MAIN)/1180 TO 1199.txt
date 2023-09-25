@@ -158,7 +158,7 @@ The Debate
 
 2. Public defender @@RANDOM_NAME@@, clad in dirty garments, vociferously protests. "You can't overlook Hattone's investments! Surely @@HE@@ wasn't rich, because if @@HE@@ was, @@HE@@ wouldn't need to commit those crimes @@HE@@ absolutely committed. So where did the money for the investments come from? We need more authority to investigate these so-called laundromats, and every @@CURRENCY@@ that's passed through their doors."
 
-3. "Both of those solutions are for the previous generation," notes Microcosm CEO @@RANDOMAME@@, wearing a lightly-stained suit. "What we need is a digital currency, where you can track all payments. That way all this legal nonsense won't happen, since you can't really rob someone, and investments are visible for all to see."
+[3]. "Both of those solutions are for the previous generation," notes Microcosm CEO @@RANDOMAME@@, wearing a lightly-stained suit. "What we need is a digital currency, where you can track all payments. That way all this legal nonsense won't happen, since you can't really rob someone, and investments are visible for all to see." [[color=purple]Must not have digital-only currency[/color]]
 
 4. "You businesspeople can't perceive the best solution," says your aide @@RANDOM_NAME@@, who'd rather wear nothing at all. "Just make the government own all of the laundromats and strictly regulate washing machines. That way, no criminals will dream of hiding their money there, and I can become the Minister of Lint like I always dreamed of."
 
@@ -228,6 +228,7 @@ The Debate
 The Issue
 Hoping to enjoy a quiet afternoon after a busy week full of Cabinet meetings, you are startled as @@RANDOM_FEMALE_NAME@@, your Minister of Health, rushes into your office without even knocking on the door. She is flushed with indignation, and is obsessively rubbing her hands with an antibacterial wet wipe.
 
+The Debate
 1. "Oh, this is a public health disaster, @@LEADER@@!" your Health Minister clamours, slipping on a pair of latex gloves before grasping your hands in supplication. "I was in the restroom just a moment ago, and what should I see there? A vile, vulgar villain who left the stall and strode straight out of the door without washing her hands! This is the third time this week I have seen this disgusting behaviour. We need a public health campaign to remind people to wash their hands properly after using the toilet!"
 
 2. "Excuse me: a villain?" asks Morgan Enuv-Thyme, your secretary, brushing dandruff off your shoulder and blowing a raspberry at your Health Minister. "For your information, I am the villain that she complains about, and I did not wash my hands. So what? Everyone knows that door handles and money have more germs on them than a human bottom, yet nobody washes their hands after touching those. In fact, I think coming into contact with germs probably boosts our immune system, and running taps less is good for the environment. You should be actively promoting water-saving strategies, @@LEADER@@!"

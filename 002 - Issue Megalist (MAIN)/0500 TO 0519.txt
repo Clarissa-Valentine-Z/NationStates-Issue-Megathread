@@ -72,7 +72,7 @@ The Debate
 
 2. @@RANDOM_MALE_NAME@@, red-faced father of two sons, approaches your desk while your guards eye him cautiously. "Her dang daughter was wearing shorts so short you could see her gosh-darn gluteal fold! If she dressed like that downtown, she'd be attacked! You need to ban these shorts for the good of the youth of @@NAME@@."
 
-3. "This God-fearing man is right, but we need to go even further!" says angry street preacher, @@RANDOM_NAME@@, who was not even invited to this meeting. "We must make all women cover up from the wrist to the ankle! In fact, to reduce temptation, we should just issue proper uniforms for everyone. Those who disobey the dress code should face public trial and shaming."
+[3]. "This God-fearing man is right, but we need to go even further!" says angry street preacher, @@RANDOM_NAME@@, who was not even invited to this meeting. "We must make all women cover up from the wrist to the ankle! In fact, to reduce temptation, we should just issue proper uniforms for everyone. Those who disobey the dress code should face public trial and shaming." [[color=purple]Must not be atheist[/color]]
 
 4. Finally, fifteen year old @@RANDOM_FEMALE_NAME@@ sits down at your desk, barely looking at you while she types vigorously at her smartphone. "Jeez, like, get off my back. I can, like, wear whatever I want. Boys are so stupid sometimes. Look at these shorts; they're even patriotic!" She stands up and does a twirl to show her short shorts are in your national colours with @@NAME@@ emblazoned across the backside. "Pretty nice right?" She smacks her gum loudly, takes a selfie, and goes back to texting.
 

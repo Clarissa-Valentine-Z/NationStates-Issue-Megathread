@@ -10,7 +10,9 @@ The Debate
 
 [3]. "Why don't we just use citizens' implanted ID chips as passports?" queries Minister of Surveillance @@RANDOM_NAME@@. "We could embed biometric data, but also track the exact movement of every @@DEMONYM_PLURAL@@ whether they are at home or abroad. Even if they solemnly swear that they are up to no mischief, we can never be sure unless we map their marauding meanderings." [[color=red]Must have ID Chips[/color]]
 
-4. "Typical big government, attacking the free market economy," interjects novelty straw man factory manager @@RANDOM_NAME@@. "Isn't it time you put @@NAME@@ first, instead of allowing the continuing brain drain of skilled workers from our nation? Void the whole passport and travel system, keeping foreigners out and @@DEMONYM_PLURAL@@ in, and we'll all surely prosper!"
+*4. "Typical big government, attacking the free market economy," interjects novelty straw man factory manager @@RANDOM_NAME@@. "Isn't it time you put @@NAME@@ first, instead of allowing the continuing brain drain of skilled workers from our nation? Void the whole passport and travel system, keeping foreigners out and @@DEMONYM_PLURAL@@ in, and we'll all surely prosper!" [[color=blue]Must allow Private Industry[/color]]
+
+*5. “Typical revisionist scum, attacking the prudence of state-planned economy,” interjects novelty straw man factory manager @@RANDOM_NAME@@. “Isn’t it time you put @@NAME@@ first, instead of allowing the continuing brain drain of skilled workers from our nation? Void the whole passport and travel system, keeping foreigners out and @@DEMONYM@@ in, and we’ll all surely prosper!” [[color=red]Must not allow Private Industry[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=1021]#1021[/anchor]: Room and Board Games [Esterild; ed: Nation of Quebec][/b]
@@ -258,7 +260,9 @@ The Debate
 
 3. "This all arose because people give money to these fly-by-night anybodies," says @@RANDOM_NAME@@ of the @@DEMONYM_ADJECTIVE@@ Relief Organisation. "All it takes is for them to set up a [i]GimmeCash[/i] page, and they can collect as much as they like. People fall for these hard-luck stories of plucky @@DEMONYM_PLURAL@@ and want to donate. You should ban private collections. If people are genuinely afflicted and need money, let them come to a proper @@DEMONYM_ADJECTIVE@@ charity, where their claims can be fully vetted. They just have to ask and they shall receive, as much as they truly need. Talking of which..." @@HE@@ rattles a collection tin.
 
-*4. "Now, correct me if I'm wrong," scoffs @@RANDOM_NAME@@, proudly vaunting @@HIS@@ homemade [i]Charity Muggers, Sod Off[/i] badge, "but I'm sure she did nothing wrong. She saw a gap in the market; she went for it. So some bleeding-hearts thought she was really sick. Guess what, people lie! Any strategy is fair game in a truly free market. If people don't keep their hands on their own money, if they're stupid enough to give it to someone plastered in stage make-up, then that's their lookout."
+*4. "Now, correct me if I'm wrong," scoffs @@RANDOM_NAME@@, proudly vaunting @@HIS@@ homemade [i]Charity Muggers, Sod Off[/i] badge, "but I'm sure she did nothing wrong. She saw a gap in the market; she went for it. So some bleeding-hearts thought she was really sick. Guess what, people lie! Any strategy is fair game in a truly free market. If people don't keep their hands on their own money, if they're stupid enough to give it to someone plastered in stage make-up, then that's their lookout." [[color=blue]Must allow Private Industry[/color]]
+
+*5. “Now, correct me if I’m wrong,” scoffs Holly Perry, proudly vaunting her homemade [i]Charity Muggers, Sod Off[/i] badge, “but I’m sure she did nothing wrong. She saw an opportunity; she went for it. So some bleeding-hearts thought she was really sick. Guess what, people lie! Any strategy that redistributes excess wealth to the proletariat is fair game. If people don’t keep their hands on their own money, if they’re stupid enough to give it to someone plastered in stage make-up, then that’s their lookout.” [[color=red]Must not allow Private Industry[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=1038]#1038[/anchor]: Maid to Order [Candlewhisper Archive; ed: Candlewhisper Archive][/b]

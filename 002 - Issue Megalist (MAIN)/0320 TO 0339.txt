@@ -133,7 +133,7 @@ The Debate
 
 4. "Actually, battle armour is a great idea!" exclaims @@RANDOM_NAME@@, representative from Better Future Inc, dumping a bundle of papers on your desk. "Here's our blueprints for the latest battlesuits that we've come up with. Sure it will be costly, but it will make our soldiers invincible!"
 
-5. "The solution is not through technology, but through religion," declares zealot @@RANDOM_NAME@@ as she waves a censer under your nose. "Why not make all soldiers fight in the name of @@FAITH@@, and give them priestly robes while they're at it?"
+[5]. "The solution is not through technology, but through religion," declares zealot @@RANDOM_NAME@@ as she waves a censer under your nose. "Why not make all soldiers fight in the name of @@FAITH@@, and give them priestly robes while they're at it?" [[color=purple]Low Religiousness[/color]]
 
 6. "Why make them wear anything?" asks nudist @@RANDOM_NAME@@, standing to attention in your office. "Without clothes to impede them, your soldiers can move faster in battle - and we don't have to waste any more money on uniforms. Besides, all you need is a gun to kill someone, right?"
 

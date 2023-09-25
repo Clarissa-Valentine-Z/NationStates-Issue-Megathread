@@ -3,6 +3,7 @@
 The Issue
 A combination of absolute majority, unicameral government and an unexpected level of party unity has left you and your government in a position to pass new legislation with almost no opposition. A gathering of parliamentarians from minority parties has come to you, caps in hand, hoping you'll loosen your grip on power.
 
+The Debate
 1. "@@LEADER@@, we can no longer be silent about being silenced," declares @@RANDOM_NAME@@, the currently detoothed Leader of the Opposition. "Tyranny of the majority is not the same thing as functioning democracy, and even an elected leader can effectively become an autocrat. That won't do! The Upper House provided checks and balances for situations like this, and it would be a great demonstration of your own humility and respect for democratic freedom if you could see your way to reinstating it. I mean, it's not like we could make that change without your permission. That's kind of the point, heh..."
 
 2. "Actually, returning to a bicameral system is good, but maybe not enough," adds @@RANDOM_NAME@@, the leader of the much smaller @@PRETITLE_INITIALS@@@@NAME_INITIALS@@ Reform Party, while looking over to the Opposition Leader. "Parliamentary reform into a tricameral system would provide even more checks and balances, with a third elected house formed via proportional representation. Minority voices could be heard, and smaller parties better represented. Or maybe even a tetracameral system, with a People's Committee of special interests as well. Or pentacameral with... look, what I'm saying is that more government means more democracy!"
@@ -57,6 +58,7 @@ The Debate
 The Issue
 The prince and princess of the @@DEMONYM_ADJECTIVE@@ royal family have long been trying to conceive a child of their own, yet the effort hasn't born any fruit. Thus, it came as a shock to the entire nation when they presented the newest addition to the royal family: not a child of flesh and bone, but bolts and circuitry.
 
+The Debate
 1. "Well butter my bum and call me a biscuit!" exclaims Duchess @@RANDOM_FEMALE_NAME@@ von Schwurdlewaffentstein as her powdered wig falls off her head in unison with her bafflement. "And that... wired thing stands near the top of the line of succession? No, I will not have it! The purity of our nobility cannot be besmirched by oil and ensnared by circuits! Only those purely of flesh and blood should have the right to inherit crowns, titles, and royal estates. No exceptions!"
 
 2. "Does it really matter whether someone came into this world by womb or assembly line?" questions famous technophile Noel Tusk while cradling his child Z-AE-O-VII, who glitches up a burp. "The royal family is fulfilling a crucial role here, as they're normalising the conception of offspring via artificial means! In fact, we should move this child of silicon up the line of succession to heir apparent, to truly represent a society where the biological and artificial live hand-in... hang on, I need to feed my widdle cutie pie." He plugs a charger cord into the robot's posterior, and the little tyke's face literally lights up.
@@ -214,6 +216,7 @@ The Debate
 The Issue
 Last week, a local news station broke the unusual story of an alleged sexual assault that occurred solely in an online virtual social space. The victims are asserting that the accused perpetrator caused them real-world trauma and must now be held legally accountable.
 
+The Debate
 1. "It may have been online, but the emotional damage inflicted is very real," assures Marcus Kelly, one of the victims. "I spent hours creating an avatar, shaping my persona, forging relationships, and then this 'man' — this Mr. Tingle — misused emotes and bugged code in a lewd manner to trap me in a corner and grind his naked virtual crotch against me. He violated me, and many others. I can't feel safe anymore! I'm not saying the sentence should be the same as for rape, but it should be treated with due seriousness. This kind of sex crime cannot be tolerated."
 
 2. "It's only pretend! These people are taking it way too seriously," counters none-other-than Mr. Tingle himself. "You wouldn't charge someone with murder for killing players in a shoot-em-up game, would you? No actual people are getting hurt, only pixels on a screen. The internet was meant to be a place of total freedom and that's the way it needs to stay."

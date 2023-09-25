@@ -119,7 +119,7 @@ The Debate
 
 3. "My child, I'm so glad you're here," says your mother, entering with a tray and opening the door to place six chocolate bars into the bucket of the little girl who is still crying outside. "I'm tired of putting up with Wei's nonsense. But I do worry about all those children, wandering alone. Streets can be so unsafe. I say we encourage families and schools to hold Trickster Night costume parties with buffets, toffee apples, gift bags of sweets... dancing, if there's time. Then, the little ones could safely enjoy their evening."
 
-4. "Be not one with the ghouls, lest ye become a ghoul!" howls your niece, stepping forward to deposit a graphically bloody religious tract into the little girl's bucket. "This Night of Tricks is, itself, a trick. It softens our resistance to evil, encourages us to don the robes and face of the devil, and makes us forget that the mask we wear is what we are! We must ban this demonic day, and the sale of all costumes that let your citizens pretend to be devils, harlots or other evil people. Kandorith must stand unified, praying together against this evil."
+[4]. "Be not one with the ghouls, lest ye become a ghoul!" howls your niece, stepping forward to deposit a graphically bloody religious tract into the little girl's bucket. "This Night of Tricks is, itself, a trick. It softens our resistance to evil, encourages us to don the robes and face of the devil, and makes us forget that the mask we wear is what we are! We must ban this demonic day, and the sale of all costumes that let your citizens pretend to be devils, harlots or other evil people. @@NAME@@ must stand unified, praying together against this evil." [[color=purple]Must not have Atheism[/color]]
 
 5. "Ah, my favourite night of the year, all screams and sweets," comments your brother, menacing the little girl with a realistic toy axe as he snatches the bucket of candy from her, and slams the door shut in her face. "Delightful japes if someone doesn't give you enough sweets, or gives you the wrong ones. Nothing makes someone feel more alive than a good scare. Except the lady who collapsed — ah well. Let's make it a mandatory national holiday for all. No more pretending to be out. Get everyone's adrenaline pumping with some larks, like neighbours jumping out with chainsaws. Everyone — especially me — would get [i]so many[/i] sweets. Talking of which, I reckon you were a little light this year, so..." Grinning, he steps back to reveal your most important papers rendered unreadable by a dozen rotten eggs.
 
@@ -186,7 +186,7 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1412]#1412[/anchor]: Another Day, Another Dollar [Ransium; ed: Electrum][/b]
 
-The issue:
+The Issue
 While attempting to buy an Eckie-Ecola at your local convenience store, you are shocked to discover that after a recent bout of severe inflation, the shopkeeper is no longer accepting @@CURRENCY_PLURAL@@ in favor of the much more stable United Federation Dollars.
 
 The Debate:

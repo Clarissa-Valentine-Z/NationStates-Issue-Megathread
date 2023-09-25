@@ -12,7 +12,7 @@ The Debate
 
 4. "Come now, that's hardly fair," argues 'gentleman pirate' Taupebeard de Gauche with a bow and flourish. "There is an ancient tradition of actively redistributing wealth on the high seas, and we active redistributors serve an important role in the global economy. You would not keep a family-run bookstore from handing down its business from generation to generation, would you? We simply ask, nay, demand the same right! And get rid of the word 'pirate'. It's a slur. We are corsairs - not common sea-faring thugs."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=202]#202[/anchor]: Guns Or Butter? [Roman Republics; ed: Sirocco][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 [4]. "Everyone's got it all wrong," says @@RANDOM_NAME@@, leader of the @@NAME@@ Libertarian Party. "We need the military now to support our economy but we can't let it get out of control. I say we privatise it and divvy it up between several corporations, and make it self funding... it sounds radical but taxes will drop, the people will be happy, and we get to keep our military strength to show Johnny Foreigner what's what! Everyone wins! As long it's in the corporations' best interests to protect the country though, I suppose..." [[color=blue]Must have private industry[/color]]
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=203]#203[/anchor]: Suffer The Starving Children? [Eta Carinae; ed: Sirocco][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 4. "Are you all completely money-obsessed?" asks @@RANDOM_NAME@@, an advocate of national welfare programmes. "There is a way to deal with this problem without giving foreigners complete control over our economy! Simply give more funding to welfare and healthcare to help the citizens most in need and maybe we'll get through this! Yes, taxes will rise, but that money could easily come from less deserving causes - let's say the military and the environment? What happened to this country that we put @@CURRENCY_PLURAL@@ before lives? I can remember when '@@SLOGAN@@' actually used to mean something! I think you should dwell on that thought."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=204]#204[/anchor]: Lack Of Doctors Needs Cure [Emperor Matthuis; ed: Sirocco][/b]
 
 The Issue
@@ -57,7 +57,7 @@ The Debate
 
 4. "Or we could NOT waste money on bringing foreigners into the country," grumbles @@RANDOM_NAME@@, a wealthy businessman. "And giving money to the students? How many of them do you think will stay the whole course, hmm? How many @@CURRENCY_PLURAL@@ are we going to burn on this? Our healthcare system is great, there are thousands upon thousands of nations that would give their right province for what we have. I think we can afford to let go of some of that funding and give the good people of @@NAME@@ a tax break, don't you?"
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=205]#205[/anchor]: No More Broccoli, Beg Meat-Eaters [Eta Carinae; ed: Sirocco][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 3. "That's it, I've had enough with these smug leaf-eaters!" says @@RANDOM_NAME@@, while tucking into an illegally imported steak. "I bet it'd really wipe the grins of self-satisfaction off their faces if we made meat-eating compulsory and banned vegetarianism! How'd you like that, eh? The thing these rabbits can't get into their head is that people LIKE meat. Who're you or anybody to say we shouldn't enjoy what we can while we can? Life is too short to worry about the feelings or rights of dumb animals! Down with veggies!"
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=206]#206[/anchor]: @@NAME@@ Narrowly Misses Nuclear Accident [Takuma; ed: Sirocco][/b]
 
 The Issue
@@ -87,7 +87,7 @@ The Debate
 
 5. "I think we simply need to be more careful," says @@RANDOM_NAME@@, your Minister of Safety. "There may be an issue with these plants, which can only be solved by upgrading to the latest state-of-the-art safety systems. There may be an issue with the employees which can only be solved by stringent training and only hiring the best of the best. I'm not going to lie to you, it will be very expensive, but the people need a stable supply of electricity, not worries of mutated radioactive monsters eating people's brains. Seriously."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=207]#207[/anchor]: Secret Police In @@NAME@@? [GX-Land; ed: Sirocco][/b]
 
 The Issue
@@ -100,7 +100,7 @@ The Debate
 
 3. "Or how about we be candid AND have a secret police force," says @@RANDOM_NAME@@ your head spy from behind a newspaper with eyeholes cut out. "We could just reassign all the normal police into secret police. The beauty of it is that we won't have to bother solving crimes if it doesn't benefit the government! It's what we've always wanted! Not what the people want of course, but if they complain we can just make them... disappear."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=208]#208[/anchor]: Mine Collapse Rocks @@NAME@@ [Emperor Matthuis; ed: Sirocco][/b]
 
 The Issue
@@ -113,7 +113,7 @@ The Debate
 
 *3. "These allegations are ludicrous and unfounded," says South @@NAME@@ Regional Director of Mining @@RANDOM_NAME@@. "We use the finest twigs to build our mines and the last thing we need is workers who do not trust in our commitment to the greater good. More safety laws means more expense means a diminished state treasury and a diminished treasury means you will soon be running out of funds. You should leave us alone before you destroy the finely balanced economy of @@NAME@@'s glorious communist society - do you really want that on your conscience?" [[color=red]Must not have private industry[/color]]
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=209]#209[/anchor]: Students Demand Financial Aid [Rajlworld; ed: Sirocco][/b]
 
 The Issue
@@ -128,7 +128,7 @@ The Debate
 
 4. "Why bother with universities anyway," says refuse collector @@RANDOM_NAME@@. "These students could be working and earning a living instead of wasting time and money learning things with no point whatsoever. Who needs to know about ancient Maxtopian poetry, huh? Who would hire you for that? There are plenty of jobs out there, so why don't they go and get one? I'll tell you why: it's because they are lazy. I propose the government close all universities in @@NAME@@ and make people get a job after they leave school. With all the money saved from closing down universities we can have a well-deserved tax cut too."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=210]#210[/anchor]: Going Postal [Emperor Matthuis; ed: Sirocco][/b]
 
 The Issue
@@ -141,7 +141,7 @@ The Debate
 
 3. "There's plenty of room for compromise," says @@RANDOM_NAME@@, a stamp collector. "How about we just privatise the mail system and allow other competitors to move in but continue with government funding to @@NAME@@ Mail? That way everyone can get their post and the companies can have their own slice of the pie. It'll require an increase in tax to cope with losses to competition but not too much. I think. To be frank, I just want more stamps."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=211]#211[/anchor]: Unconventional Weapons Under Fire [Hellenic Glory; ed: Sirocco][/b]
 
 The Issue
@@ -154,7 +154,7 @@ The Debate
 
 3. "No! This rifle is completely inhumane," says Dr @@RANDOM_NAME@@, leaning on a cane. "These weapons are unnecessarily violent - how can anyone condone something that rips apart your innards like this? How long do you think it will be before these new inventions get into the wrong hands? Shootings are bad enough but at least most people are just wounded. The BFG-69 and those of its ilk are lethal in the extreme and are completely unacceptable! We need some moral decency here and get rid of these unconventional weapons along with all the other shameful armaments like mustard gas."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=212]#212[/anchor]: Police Wanting Help With Their Inquiries [Prasland; ed: Sirocco][/b]
 
 The Issue
@@ -167,7 +167,7 @@ The Debate
 
 3. "What about the victims of these crimes?" asks DI @@RANDOM_NAME@@, ever gruff and stalwart in the face of adversity. "Do they not have rights? Their right to privacy's been violated so it ought to be the responsibility of the criminal to give up his own. What I propose is the collection of DNA samples from every citizen in @@NAME@@ so we can track down the culprit if none of our suspects come up with anything. It'll be expensive, sure, there's @@POPULATION@@ people to go through... but it's just a small blood sample. Don't you think it's worth it?"
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=213]#213[/anchor]: Bus Drivers Say No To Double-Decked Deathtraps [Angels World; ed: Sirocco][/b]
 
 The Issue
@@ -184,7 +184,7 @@ The Debate
 
 5. "Now now now, there's no need to be quite so gung-ho," says @@RANDOM_NAME@@, a city planner. "The public transport system is vital for cutting down congestion and pollution within urban areas. Less vehicles on the road, less fumes, you with me so far? What we need to do is put a tax on car-use within the cities and promote our mass transit. That way everyone gets what they want, and cleaner air to boot."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=214]#214[/anchor]: Voting For More Money [Not Quite Dead Peoples; ed: Sirocco][/b]
 
 The Issue
@@ -197,7 +197,7 @@ The Debate
 
 3. "Perhaps there's a way to compromise," says @@RANDOM_NAME@@, an amateur economist, philosopher and lepidopterist. "The problem here is that politicians could either be paid too little or too much. What if we paid them just right by paying them according to how well they do their job? Keep a close monitor on the needs of their constituencies and give bonuses for resolving problems and coming under budget. It gives them a proper monetary incentive to do their jobs. Some will have a harder time than others and the whole idea may be costly but if it cracks down on corruption I'm all for it."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=215]#215[/anchor]: [color=goldenrod]Easter Egg[/color]: What's Your Favourite Colour? [Antioch and the East; ed: Sirocco][/b]
 
 The Issue
@@ -228,7 +228,7 @@ The Debate
 
 12. "Tell her you don't have a favourite colour," says @@RANDOM_NAME@@, the president of Open Our Perimeters Straightaway, on walking in. "@@NAME@@ is a modern country that does not discriminate between colours. We should allow everyone whether they be Bigtopian, Lilliputian, or Maxtopian into our bountiful nation."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=216]#216[/anchor]: Eminent Domain: Inherent Right Or Daylight Robbery? [British Londinium; ed: Sirocco][/b]
 
 The Issue
@@ -241,7 +241,7 @@ The Debate
 
 3. "I do believe we should retain our right to eminent domain," says @@RANDOM_NAME@@, your Minister of Miscellaneous Amenities. "But to use it for private industry is just immoral and corrupting. We really ought to only use eminent domain for the purpose of building public utilities like hospitals, schools, and carparks."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=217]#217[/anchor]: Healthcare Services Underfunded, Claim Patients [Lunar Village; ed: Sirocco][/b]
 
 The Issue
@@ -258,7 +258,7 @@ The Debate
 
 5. "The National Health Service was doomed to failure before it even started," says @@RANDOM_NAME@@, a right-wing political commentator. "Anything powered by the 'goodness of people's hearts' is. I don't give a flying monkey's about people I've never met yet I have to pay money that I earned so they can fix their broken legs or runny noses. What about my broken legs, huh? I call on the government to disband the National Health Service and bring back private health insurance. Those unable to pay should work harder and if they can't work... well screw 'em."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=218]#218[/anchor]: Two Mommies One Too Many? [Duffla; ed: Sirocco][/b]
 
 The Issue
@@ -271,7 +271,7 @@ The Debate
 
 3. "This just doesn't go far enough in my opinion," grumbles @@RANDOM_NAME@@ an ardent opponent to homosexuality. "The more concessions we give these people, the more they'll reduce our nation to the most embarrassing gayfest of all the region! We'll be a joke! Homosexuality is a sin, and not only that it's a disease of society and there's no two ways about it. It must be criminalised and those responsible hanged just like in the good old days."
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=219]#219[/anchor]: Nobody Expects The @@NAME@@ Inquisition! [Habardia; ed: The Most Glorious Hack][/b]
 
 The Issue
@@ -284,7 +284,7 @@ The Debate
 
 3. "The people of @@NAME@@ need more than an Inquisition," pronounces @@RANDOM_NAME@@, known fundamentalist tele-preacher, who pauses hawking the complete DVD collection to make some demands. "We must persecute all those who do not live according to the Book! The Lord has told me that the time has arrived to bring back the good old days! Back when we didn't have all these touchy-feely, fuzzy-headed punishments. Prison? Ha! Like that's a punishment! Stick those heathens in the stocks, or even better: bring back stonings! It'll bring us into a new golden age!"
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=220]#220[/anchor]: Voter Apathy Rising But No One Cares [Clorse Ivy; ed: Sirocco][/b]
 
 The Issue
@@ -303,7 +303,7 @@ The Debate
 
 6. "I, ah..., I think... ah, just do whatever," says @@RANDOM_NAME@@, checking the time again. "I don't have time for this. Bye!"
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=221]#221[/anchor]: Outdated Tax Code Crushing @@NAME@@? [Padosistan; ed: Reploid Productions][/b]
 
 The Issue
@@ -320,7 +320,7 @@ The Debate
 
 5. "Er, hi there, sir," pipes up @@RANDOM_NAME@@, clad in a high-vis jacket and clutching a clipboard. "None of these fine people have got to the root of your problem. If civil servants were just to wear hard hats while working, then falling paperwork wouldn't be an issue. And perhaps a course on manual handling wouldn't go amiss too?"
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=222]#222[/anchor]: Terrorists Strike City Centre [Silicar; ed: Sirocco][/b]
 
 The Issue
@@ -339,7 +339,7 @@ The Debate
 
 6. "Is terrorism such a terrible thing? Really?" asks @@RANDOM_NAME@@, avant garde journalist, discreetly sliding a pipe bomb under your desk. "These people are simply expressing their political opinion the best way they know how. I think we should legalise terrorism as a legitimate form of political commentary. It'll certainly get people interested, don't you think?"
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=223]#223[/anchor]: [color=goldenrod]Easter Egg[/color]: Zombie Attack! [Naliitr; ed: Sirocco][/b]
 
 The Issue
@@ -358,7 +358,7 @@ The Debate
 
 6. "Braaains... braaains...?" asks ardent anti-quarantine activist @@RANDOM_NAME@@. "Braaains... braaains... braaains!"
 
--------------------------------------------------------------------------------
+--------------------------------------------------------------------------
 [b][anchor=224]#224[/anchor]: Minimum Wage War [Vincon; ed: Sirocco][/b]
 
 The Issue
@@ -371,9 +371,9 @@ The Debate
 
 3. "We don't need any of these stupid communistic welfare policies," says @@RANDOM_NAME@@, millionaire CEO and star of reality TV show 'You're Fired!' "Living wages are unworkable! If you make workers expensive, then employers are just going to use fewer or lose profits. They should be grateful for a job, and if they don't want to work, we should be able to boot them out and hire someone else, no questions asked. Hey, it's not that I'm not compassionate. I'm the most compassionate person you'll ever meet. The most!"
 
-4. "I agree, and honestly it's a detriment to this nation's businesses that we even have to PAY them wages," extrapolates corporate executive John Nike. "If slavery was legal, I think we'd find the nation's economy improving somewhat."
+[4]. "I agree, and honestly it's a detriment to this nation's businesses that we even have to PAY them wages," extrapolates corporate executive John Nike. "If slavery was legal, I think we'd find the nation's economy improving somewhat." [[color=purple]Must ban slavery[/color]]
 
------------------------------------------------------------------------------
+------------------------------------------------------------------------
 [b][anchor=225]#225[/anchor]: Prayer In Public Schools? [Vincon; ed: Sirocco][/b]
 
 The Issue

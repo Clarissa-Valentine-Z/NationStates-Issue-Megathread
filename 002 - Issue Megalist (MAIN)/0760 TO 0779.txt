@@ -49,7 +49,7 @@ The Issue
 A group of @@DEMONYM_ADJECTIVE@@ scientists have advocated loosening ethical regulations to allow scientists to perform research with live human test subjects.
 
 The Debate
-1. "Well, it is certainly difficult to find enough willing volunteers," argues Dr. Nikita Mengele, who slinked into your office dressed in a crisp white lab coat. "Rare conditions such as Brancalandian Burps and @@DEMONYM_ADJECTIVE@@ Habitancy can only be found in a few individuals, and more often than not they refuse to take part in our studies! We need the government to step back and let us researchers decide who should and should not be tested upon, for the sake of medical science!"
+1. "Well, it is certainly difficult to find enough willing volunteers," argues Dr. Ezra Powell, who slinked into your office dressed in a crisp white lab coat. "Rare conditions such as Brancalandian Burps and @@DEMONYM_ADJECTIVE@@ Habitancy can only be found in a few individuals, and more often than not they refuse to take part in our studies! We need the government to step back and let us researchers decide who should and should not be tested upon, for the sake of medical science!"
 
 2. "Don't listen to her, @@LEADER@@," pleads @@RANDOM_NAME@@, directing @@HIS@@ cries towards your potted plant. "Doctor Mengele blinded me with her so-called research! This is what happens when scientists think that they can do whatever they want. Surely you cannot just forget about the idea of consent! If anything, you should require a fully detailed consent form for any kind of medical procedure or treatment. If any scientists don't like it, just take away their funding."
 
@@ -232,7 +232,7 @@ The Debate
 
 3. "These dreadful ideas would alienate a large chunk of our voting base," complains Speaker of Parliament @@RANDOM_NAME@@, who was recently lampooned in the book [i]Stuff Ethnic @@DEMONYM_PLURAL@@ Like[/i]. "Furthermore, the proposals are completely unmeritocratic. No matter how much you spin it, if a candidate fails to meet the expectations of the voting public, the candidate does not deserve a seat. And besides, you've seen how those loutish Bigtopians conduct their own affairs. Do you really want those sorts of people in our government?"
 
-4. "The proposed rules don't go far enough!" proclaims @@RANDOM_NAME@@, a devout follower of a very small sect of Conspiritivism, sporting a tin foil helmet and insulating robes. "If minority races get to have special considerations, it's only fair that we have them too. You should allocate reserved seats in parliament to both ethnic minorities and minority religions to give everyone a voice!"
+[4]. "The proposed rules don't go far enough!" proclaims @@RANDOM_NAME@@, a devout follower of a very small sect of Conspiritivism, sporting a tin foil helmet and insulating robes. "If minority races get to have special considerations, it's only fair that we have them too. You should allocate reserved seats in parliament to both ethnic minorities and minority religions to give everyone a voice!" [[color=purple]Must not have Atheism[/color]]
 
 -----------------------------------------------------------------------------
 [b][anchor=776]#776[/anchor]: Fake News, Everyone! [Nation of Quebec; ed: Helaw][/b]
@@ -286,6 +286,6 @@ The Debate
 
 2. "Yes, and do you know why there's a shortage of funeral services, hmmm?" quietly seethes funeral director Igor Fronkensteen, while dragging a lumpy burlap sack behind him. "Burial plot land costs...they are rising, yes? The price of insuring a hearse these days is, how do you say, absolutely ludicrous, yes? And the restrictive laws on 'adequate refrigeration' and 'treating the dead with dignity' all are running our margins and my salary down! You want more funeral services at a cheaper price, you should ease up on the bureaucracy, yes?"
 
-3. TBD
+*3. “Funeral services? What a waste of money,” scoffs obscure thinker @@RANDOM_NAME@@, who has yet to sell any copies of @@HIS@@ book [i]Rich Dead, Poor Dead[/i]. “What’s the point in some drawn-out shebang for someone who’s not even going to be around to see it? Do away with funerals altogether. That way we can cremate everyone and harvest their bodies for phosphorus!” [[color=purple]Must not have Atheism[/color]]
 
-4. "Funeral services? What a waste of money," scoffs obscure thinker @@RANDOM_NAME@@, who has yet to sell any copies of @@HIS@@ book [i]Rich Dead, Poor Dead[/i]. "What's the point in some drawn-out shebang for someone who's not even going to be around to see it? Do away with funerals altogether. That way we can cremate everyone and harvest their bodies for phosphorous!"
+*4. "Funeral services? What a waste of money," scoffs obscure thinker @@RANDOM_NAME@@, who has yet to sell any copies of @@HIS@@ book [i]Rich Dead, Poor Dead[/i]. "What's the point in some drawn-out shebang for someone who's not even going to be around to see it? Do away with funerals altogether. That way we can cremate everyone and harvest their bodies for phosphorous!" [[color=purple]Must have Atheism[/color]]

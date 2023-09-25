@@ -1,0 +1,155 @@
+[b][anchor=1580]#1580[/anchor]: Profitable for Doctrine [Tinhampton; ed: Verdant Haven][/b]
+
+The Issue
+A bored local priest, checking the math in @@HIS_1@@ parish’s budget documents, has discovered that the nation makes millions in tax revenue from sales of @@RELIGION@@’s most sacred text. The book’s liability for VAT, or Value Added Tax, immediately became the topic of @@HIS_1@@ next sermon, which @@HE_1@@ is now delivering to you.
+
+The Debate
+1. “This is undoubtedly a stain on the soul of @@NAME@@,” laments the priest, @@RANDOM_NAME_1@@, turning to page thirty-one of @@HIS_1@@ sermon. “Our houses of worship need repairs, our clergy need salaries, and our leaders need bigger private yachts to spread the word to more places. We work tirelessly to bring the message of @@RELIGION@@ to the people, but the donations we need won’t come from a population that feels priced out of the religion in the first place! If you waive VAT on the holy book, we can save both their souls and their wallets... and you can justify fining people who fail to attend services!”
+
+2. “Why should some priest I haven’t seen in years have all the fun?” grumbles your least-pious intern, @@RANDOM_NAME@@, stashing a magazine of questionable morals behind @@HIS@@ back. “Sure, it’s the national religion, but why should it enjoy special tax privileges for whatever pamphlet it’s selling today, when comparable products offer much more exciting, err... educational content? If you’re going to slash VAT, do it for all printed material, no matter who it benefits, or how taboo it’s alleged to be! You can make up for it by raising taxes on the church hierarchy.”
+
+3. “What nobody has mentioned is where all the money is going!” howls government minister @@RANDOM_NAME@@, who insists on being called your ‘Lord Spiritual’. “I’ve had multiple low-level staffers look into it, and they tell me that the VAT levied on the scriptures is going towards all sorts of secular purposes: abstract art festivals, street lighting for rural mud paths, food for the poor, you name it! It is a disgrace that such a religious nation doesn’t make sure the funds it raises from the faith stay in the faith. I’m not asking you to cut VAT or anything like that, just make sure the income goes where it’s needed the most — my ministry! I can’t imagine anyone who wouldn’t be delighted by this!”
+
+--------------------------------------------------------------
+[b][anchor=1581]#1581[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1582]#1582[/anchor]: Hospital Problems Ramping Up [Klaus Devestatorie, ed: Verdany Haven][/b]
+
+The Issue
+Emergency departments in the public hospitals of @@NAME@@ are facing ever-increasing demand, and ambulances with patients in critical condition are regularly forced to “ramp” outside, queueing until a bed is available. After a five-hour wait caused an otherwise preventable death, your staff arranged for you to visit a hospital yourself to try and diagnose the cause of the delays.
+
+The Debate
+1. Before you’re even out of the car, you’re approached by @@RANDOMNAME@@, one of the drivers from a line of waiting ambulances. “If you’re here about that fatality, I can tell you right now that I’ve queued for a lot longer than five hours before! There’re a dozen ambulances here and someone is waiting in the back of each of them. That means there’re also a dozen ambulance crews that can’t save lives until there’s space here to free us up again. If you want us to cope, we need a drastic expansion of public emergency departments all over @@NAME@@!”
+
+2. “There wouldn’t be anything like the current delays if ED staff were allowed to prioritize things properly”, moans @@RANDOMNAME@@, an exhausted-looking doctor slumped against a wall near the entrance. “Frankly, many of the people waiting for treatment don’t have anything particularly serious. We’ve got hypochondriacs, minor sniffles, and even people who just want to get out of the weather! The emergency department needs to be saved for people with actual emergencies. Can’t we just tell people with minor issues to make an appointment with their regular doctor?”
+
+[3.] “But you can’t let them turn me away! I can’t go anywhere else!” howls @@RANDOMNAME@@, an elderly woman waiting inside for a doctor to examine her papercut. “I’d love to visit a private clinic, but I’m retired, and it costs a ridiculous amount of money to speak to anyone other than a receptionist! This is the only place that won’t demand payment up front. Since you already pay for care at public hospitals, surely you can cover private clinic fees as well for us vulnerable people? It’s not as if I like sitting here all day either!” [[color=purple]Must not have Geronticide policy[/color]]
+
+4. Upon returning to your car, there’s a message waiting for you from @@RANDOMNAME@@, an insurance executive with an eye for opportunity. “I know not everyone is keen on privatising any part of the system, especially hospitals, but it’s a waste of my company’s capabilities if we’re relegated to administering government coverage for the pre-existing public hospital network. There’s no reason why we shouldn’t be allowed to operate our own emergency departments for anyone willing to pay! It’s the simplest and cheapest solution — for the government, at least. Don’t overthink it.”
+
+--------------------------------------------------------------
+[b][anchor=1583]#1583[/anchor]: Spare the (Plutonium) Rod [Cretox State; ed: Baggieland][/b]
+
+The Issue
+The chief engineer at the nation's largest nuclear power plant recently passed away after trying to skateboard down the side of a cooling tower. However, something even more bizarre than that has happened: some concerned busybodies with too much time on their hands are now demanding that you impose some form of regulation on the industry.
+
+The Debate
+1. "What do you expect us to do?" asks @@RANDOM_NAME@@, the nuclear safety inspector at Dankushima Nuclear Power Plant, as @@HE@@ stirs a cup of coffee with a glowing green rod. "Tell engineers to stop using the reactor core as a tanning bed? Board up the heavy water dunk tank? Give me a break! Tell you what, keep your government health and safety inspectors — and any kind of government oversight — away from our industry. We've got this, okay!"
+
+2. "Now I am become Death, the destroyer of worlds," intones Bobby Noppenheimer, a former worker at an old coal-powered plant. "I'm talkin' about the way this nuclear tech has killed the pre-nuclear world. These monstrosities are makin' everyone who works in them and lives nearby really sick and they're clearly unsafe! Us old-school power plant folks are losin' our jobs too, and tryin' to regulate these behemoths is clearly pointless! Just ban this nuclear nonsense and take the power back to how it was in the good ol' days."
+
+3. "Both ideas are not great, not terrible," says Anthony Stephenov, acting chief engineer at the plant. "You shouldn't ban generally safe nuclear power over silly claims like 'people's skin shouldn't spontaneously combust' or 'an inspector's coffee shouldn't glow in the dark'; however, some of the more ridiculous games like Fuel Rod Frisbee and Geiger Counter Challenge need to go. Whilst a bit of basic safety training wouldn't go amiss, we shouldn't have to scrap our entire way of doing things just because some people got cancer or a few rivers burst into flames."
+
+--------------------------------------------------------------
+[b][anchor=1584]#1584[/anchor]: Loose Lips, Characters Shipped? [Novo Terres; ed: Pogaria][/b]
+
+The Issue
+In what has become the latest cultural controversy to strike @@NAME@@, the highly anticipated series finale of the long-running fantasy cartoon show Time Adventure saw two of the protagonist’s main male companions share a brief, romantic kiss, confirming a decade’s worth of rumors surrounding their relationship. Since this is nominally a children’s show, your office was soon animated by a cast of opinionated characters that is nearly as colorful as the ones seen on screen.
+
+The Debate
+1.“C’mon, grab your friends!” shouts Cora Sami, hustling a group dressed in various pieces of medieval paraphernalia to the front. “I KNEW IT! Nobody believed me when I said Prince Marcel and Bon Bon the Vampire King were dating! The other fans called me all sorts of nasty, homophobic names for years, which only proves we ought to have greater queer representation in our media! And not just the occasional peck on the cheek to queerbait folk like us — people of all ages need to see that these kinds of couples are just as healthy and ordinary as those in straight relationships, thereby normalizing them in everyday life. If you could subsidize the production of more high-quality, queer-friendly shows, you’d be just as heroic as Finnegan when he realizes that all he needs to defeat Glod is the power of song!”
+
+2. “What is she even talking about? This is a show designed for KIDS. Is everyone ignoring that?” screeches househusband and parental rights activist Steve Conley, swaddling an infant as he desperately tries to pull his son away from the horde of cosplayers. “Kids cannot be exposed to sexuality — and I mean ANY sexuality, gay or straight — at such a young age! It’s absolutely indecent. What adults do with their own time is their own business, but marketing a colorful cartoon show directly to kids, and then adding in that sort of sexual content... it’s practically propaganda! You should set up a government review board for all media to keep smut out of the hands of our youth.”
+
+[3.] “Subsidies and censorship, that’s all you statists ever talk about!” bellows prominent libertarian keyboard-warrior Quinn Eyvee, refusing to take off her fedora in your presence, which is presumably her way of disrespecting the very concept of government. “I’m all for queer representation in media — during the finale, I was really hoping for a ‘tender’ moment between the Ice Damsel and the Duchess of Lemonade, if you catch my drift — but why does ‘Papa Government’ have to intervene at all? As if it doesn’t already control every other aspect of our lives! Let companies decide for themselves what they want to put on the TV screen, and if you have a problem, lobby them instead. And as for YOU, @@LEADER@@, keep your hands off my media!”
+
+4. “None of these fools see the true value in this cartoon: a dystopian call to action!” babbles your advisor, Kat Tradora, drawing a series of mushroom clouds on your walls in crayon. “Time Adventure takes place in a post-apocalyptic reality where weapons of mass destruction have practically made all human life extinct! Hence all of the vampires and kingdoms made of candy and whatever... but never mind all of this other talk! We need to make certain that if such an eventuality is ever reached, we’re ready for it! I’m talking bunkers, countermeasures, and, you guessed it, a massive thermonuclear weapons stockpile. Let these moral crusaders fight the culture war — there are real wars to be won!”
+
+--------------------------------------------------------------
+[b][anchor=1585]#1585[/anchor]: The Taste of Revenge [Edush; ed: Gnejs][/b]
+
+The Issue
+A man just posted nude videos of his ex-partner engaging in various compromising activities on an online message board. This is just the latest example in a long string of similar online harassment cases that have been dubbed ‘revenge porn’. Your team of advisors has spent days looking at it, from every angle, but it seems there is currently no reference to this phenomenon in any Edushian legislation.
+
+The Issue
+
+A man just posted nude videos of his ex-partner engaging in various compromising activities on an online message board. This is just the latest example in a long string of similar online harassment cases that have been dubbed 'revenge porn'. Your team of advisors has spent days looking at it, from every angle, but it seems there is currently no reference to this phenomenon in any @@DEMONYMADJECTIVE@@ legislation.
+
+The Debate
+
+1. "First off," shouts one of your legal advisors, "can we stop calling it 'revenge porn'? That clearly implies the victim has done something to deserve that kind of disgraceful mistreatment. Digitally Inflicted Criminal Castigation, please, and this is a particularly lowly form of harassment and sexual abuse. We need explicit and stringent legislation outlawing distributing, or threatening to distribute, a sexual image or video without consent. Only then will these poor victims get justice. We should also start some public information campaigns to teach people about the horrors of DICC."
+
+2. "Where do you draw the line?" asks another one of your legal advisors, in a calmer tone than that of the previous speaker. "A law like that has risks of draconian miscarriages of justice written all over it, and it'll just end up a well-intended, but poorly executed, infringement of artistic freedoms and freedom of expression. This 'revenge porn', or DICC business, is just a specific form of harassment, right? I bet we have tons of other laws that — more or less — could cover this kind of thing. There're privacy laws, tort law and even copyright laws! Combine that with some criminal law and I'm sure you've got a case. Just because nobody has ever been convicted for something like that using laws like these, doesn't mean no one ever will be, right? Right."
+
+3. "Pervs need to be weeded out before they act," interrupts yet another of your legal advisors. "We must prevent these incidents from happening as much as we can, and this is the perfect opportunity for letting the police surveil the internet more. I say whoever is caught watching any of these 'DICC pics' should be punished most severely. Actually, make that watching pornography in general; smut breeds smut, as Charlie Diccens used to say."
+
+4. "Turnabout is fair play," interjects the IT-guy, who has been helping your legal team research instances of 'revenge porn'. "I've got software that can create unusually unflattering pornographic deepfakes of anyone the user has a face picture of, and then automatically send them to their entire contact list. People won't dare to post 'revenge porn' pics and videos if they know that kind of backlash will be popping up in their mom's inbox; it worked for MAD, it can work for DICC too! And heck, even if it doesn't, it'll so saturate people's expectations that real nudes getting out won't bother people so much. It's win-win... win!"
+
+--------------------------------------------------------------
+[b][anchor=1586]#1586[/anchor]: Don’t Point That Thing at Me! [Mierria; ed: Westinor][/b]
+
+The Issue
+An increasing number of advocacy groups across @@NAME@@ are showing up at political assemblies armed to the teeth. With the waves of shotgun-slinging school teachers and bazooka-brandishing businessmen showing no signs of stopping, even the most gun-friendly of politicians are going ballistic over the lack of government action.
+
+The Debate
+1. “Look, we all love the right to own and carry,” reasons the mayor of @@CAPITAL@@, who was recently threatened by a grenade-wielding granny over the quality of groceries. “But surely armed threats and acts of public intimidation take that right too far! You and I simply can’t do our jobs like this — please, @@LEADER@@, put a ban on guns in public places and end this mayhem!”
+
+2. “Hey, hands off my heater!” growls @@RANDOM_NAME@@, a libertarian activist who insists on watching your every move. “When we established the right to bear arms, this is exactly what we had in mind! The whole point, besides safety and shooting birds out of the sky for fun, is to keep politicians in line with the people. The threat of an armed and free populace is much scarier for politicians than any war could ever be, and exercising that right should NEVER be a crime.” @@HE@@ glares at you as @@HE@@ begins to polish @@HIS@@ rifle menacingly in your direction.
+
+3. “These loons are out of control!” declares your Minister of Finance, as @@HE@@ drops the annual budget proposal on your desk with a satisfying thud. “You know what? I think it’s about time we equipped public figures with guns too — proper guns. That way, when they start firing at us, we can shoot back.” @@HE@@ flips to a page filled with earmarks for grenade launchers and flamethrowers, and begins to cackle.
+
+--------------------------------------------------------------
+[b][anchor=1587]#1587[/anchor]: @@DEMONYM@@, Interrupted [Reploid Productions][/b]
+
+The Issue
+A hard-hitting exposé into the treatment of citizens with developmental disabilities at the Sallowscreek State Residential Centre has shocked viewers with its images of filthy conditions, overcrowded dorms crammed with rusty bedframes, and emotional testimony of rampant abuses perpetrated by undertrained and callous staff. Angry families and disability rights advocates are demanding action to fix what they decry as a “festering snakepit.”
+
+The Debate
+1. “People with disabilities deserve the same basic dignity as everybody else! They shouldn’t be shoved out of sight and mind, warehoused like cattle, and tortured like this!” asserts Dr. Sebastian Hart, the author of several studies on the treatment of developmental disorders, some of which have even been published in actual scientific journals. “We need to provide tools for citizens with disabilities so they can fully integrate into their communities. With just a little money for supported living programmes that protect their rights and teach vocational skills, the more abled could even join the workforce. More workers means more tax @@CURRENCYPLURAL@@. Everybody wins!”
+
+2. “You want to waste our tax @@CURRENCYPLURAL@@ on WHAT?” scoffs conventionally attractive Amir Orbison, head of the @@CAPITAL@@ University Minarchist Club, who heard the word ‘snake’ and came sprinting from a campaign to ‘save the poor tax havens’. “Sure, close those money sinks down, but divert those funds to more important things, like protecting the property of those of us who’ve earned it! If these folks want to be treated like normal people, they should earn it too. I mean, if you can’t get something on your own merit, should you even want it?”
+
+3. “Integration? Putting them out on the streets? Madness!” shouts Elizabeth vonBismarck while keeping her three children hidden behind her. “Either way would expose our healthy, normal children to these re... I mean, poor disabled persons. This story’s sad, but all it shows is that we need to improve these centres. The sound reasons for institutionalizing haven’t gone away: it’s bad enough when an infant has a tantrum, but when an adult has one, it’s simply unsightly — not to mention distressing for we who might see it. More funding for training, improved staff ratios, and better facilities will help keep them comfortable and prevent abuses in their separate spaces.”
+
+4. “And she calls herself a parent? It’s beyond me!” tuts Patty Conway, easing some leaflets about community living from the hands of her forty-year-old son, who has some developmental delay. “When Gordon was born, doctors told me to put him away; forget him. That he’d be a burden. As though the sweetest soul on Violet’s green earth could ever be a burden. We need to reduce the population of those so-called ‘residential centres’; send the children home and transfer the funding to their families. Parents should parent, no matter how old their children are.”
+
+5. Hack Mortendotter, your Minister of Ethically Questionable Research, slides quietly into your office and opens a black bag full of small vials of formaldehyde. “There is another solution to the problem, @@LEADER@@. What if we could work out the cause of human defects, fix them and — in time — make all these centres obsolete? Think about it: we have a steady supply of perfectly useful defective people whose families are happy to forget they existed. We should utilize that resource in scientific research. For instance, what if these individuals could surgically be perfected? Is it possible? Who knows? But won’t it be fun to try?”
+
+--------------------------------------------------------------
+[b][anchor=1588]#1588[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1589]#1589[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1590]#1590[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1591]#1591[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1592]#1592[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1593]#1593[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1594]#1594[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1595]#1595[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1596]#1596[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1597]#1597[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1598]#1598[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1599]#1599[/anchor]: TBD[/b]

@@ -1,7 +1,7 @@
 [b][anchor=940]#940[/anchor]: The Court of the Crimson Lord [Altmer Dominion; ed: Pogaria][/b]
 
 The Issue
-One of @@NAMES@@'s highest-ranking nobles, Lord Giles, has been criticized for the draconian management of his estate. After the ninth execution of a serf was reported within a month, you have traveled to Giles' court to discuss the matter personally.
+One of @@NAME@@'s highest-ranking nobles, Lord Giles, has been criticized for the draconian management of his estate. After the ninth execution of a serf was reported within a month, you have traveled to Giles' court to discuss the matter personally.
 
 The Debate
 1. "You're just in time for the entertainment!" booms Lord Giles, flashing you a toothy grin. "Pay no mind to any outcries, @@LEADER@@. The lower folk must know their place; we can't give the wretches any leeway, can we? Now, do stick around. We've got a wonderful choir performing soon, made up of some of the little 'uns from a nearby village. You wouldn't believe what the threat of punishing their parents does to their music: heavenly sounds! I swear, @@NAME@@ could learn a thing or two."

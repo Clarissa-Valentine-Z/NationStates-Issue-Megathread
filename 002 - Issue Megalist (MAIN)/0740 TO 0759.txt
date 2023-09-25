@@ -147,7 +147,6 @@ The Debate
 [b][anchor=748]#748[/anchor]: [color=purple][i]The Enemy Within[/i][/color]: In Spite Of All The Danger [Candlewhisper Archive; ed: Candlewhisper Archive, Ransium][/b]
 
 The Story So Far
-
 When terrorists attacked the @@CAPITAL@@ Stock Exchange, many courageous volunteers braved the dangers of the ruined building to help search for and recover survivors from the rubble.
 
 The Issue
@@ -160,7 +159,7 @@ The Debate
 
 3. "That's communist claptrap! It's not for you to spend MY taxes on other people's health," says @@RANDOM_MALE_NAME@@, CEO of Panacea Private Medical Services. "Look, I will help these people out of my own pocket, for no reason other than that because I'm super-duper charitable and a really great guy! See? No government intervention needed, just free individuals in a free market helping each other out without the nanny state getting in the way. Three cheers for the free market!" He starts writing a cheque for 10 @@CURRENCY@@ for the cancer victim.
 
-4. Walter Lee, your loyal driver, snarls at the CEO, hefting a small red brick at his head to scare him out of the room. "Um, boss... weren't you there at the centre of things, digging through the rubble? I reckon if you declare a six-month complete tax break for all people who were there at that time, that'd give people the cash to afford their own healthcare and show the nation's thanks for their goodness. And you know, I think you deserve a little something too, for being so damn courageous that day."
+[4]. Walter Lee, your loyal driver, snarls at the CEO, hefting a small red brick at his head to scare him out of the room. "Um, boss... weren't you there at the centre of things, digging through the rubble? I reckon if you declare a six-month complete tax break for all people who were there at that time, that'd give people the cash to afford their own healthcare and show the nation's thanks for their goodness. And you know, I think you deserve a little something too, for being so damn courageous that day." [[color=blue]Must not ban cars[/color]]
 
 -----------------------------------------------------------------------------
 [b][anchor=749]#749[/anchor]: Not Mushroom For Error [Bears Armed; ed: Ransium][/b]
@@ -221,12 +220,11 @@ The Debate
 -----------------------------------------------------------------------------
 [b][anchor=753]#753[/anchor]: I've Got My Ion You [Jovian Socialist Republic; ed: Candlewhisper Archive][/b]
 
-
 The Issue
 Thanks to a marathon of military sci-fi films at @@NAME@@ High Command's recent movie night, most of the four-star generals and senior officers in the @@DEMONYM_ADJECTIVE@@ armed forces are abuzz with enthusiasm about next generation weaponry. In particular, there's growing excitement around the idea of [i]plasma weaponry[/i]: that is, the use of projected superheated ionized hydrogen gas to destroy your enemies.
 
 The Debate
-1. "PEW! PEW! PEW! Just think of the possibilities, @@LEADER@@!" exclaims Professor @@RANDOM_NAME@@, an experimental physicist who has been seconded to your military, proudly displaying a clay model of a gnarly-looking plasma cannon. "We can make plasma flamethrowers, plasma machine guns, plasma ship cannon, plasma howitzers, plasma knives, basically plasma anything! With sheer firepower, we'd be able to overpower anything and anybody! We're... just a bit low on funding... so can you buy us the gear we need?"
+1. "PEW! PEW! PEW! Just think of the possibilities, @@LEADER@@!" exclaims Professor @@RANDOM_NAME@@ [possibly fixed to Harley Rubio], an experimental physicist who has been seconded to your military, proudly displaying a clay model of a gnarly-looking plasma cannon. "We can make plasma flamethrowers, plasma machine guns, plasma ship cannon, plasma howitzers, plasma knives, basically plasma anything! With sheer firepower, we'd be able to overpower anything and anybody! We're... just a bit low on funding... so can you buy us the gear we need?"
 
 2. "But this is going to be the hottest new thing," interjects @@RANDOM_NAME@@, CEO of HydrogenScience Corp. "You have to let the private sector in on the profits! Just share with us any early data and blueprints you have, and we'll give your nation special discount rates when we sell plasma weaponry to the world. Oh, we'll also need permission to sell plasma pistols and rifles to your citizenry as well! The only way to stop a bad guy with a plasma rifle is a good guy with a plasma rifle: access to white-hot killing power is the fundamental right of every man, woman and child!" [[color=blue]Must have private industries[/color]]
 

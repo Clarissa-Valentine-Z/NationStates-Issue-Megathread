@@ -90,7 +90,7 @@ The Debate
 
 2. "That's a disgraceful way to think!" says equal rights activist, @@RANDOM_NAME@@. "So the people who need the most help shouldn't get any? I propose that the government subsidises the production of all drugs so everyone can benefit from them, rich or not! That way the money-hungry corporations won't profit from the suffering of the masses. Of course there will be the matter of a small tax rise to fund it - but what's that when lives will be saved?"
 
-3. "I can't believe what I'm hearing," deplores well-respected religious leader, @@RANDOM_NAME@@. "If God didn't want people to have this disease he wouldn't have created it in the first place. This is completely against the will of God and if the government allows this drug to go on sale we will all be doomed to an afterlife in a dark and fiery place! Now let's end this madness and abolish the production of pharmaceuticals and drugs altogether!"
+[3]. "I can't believe what I'm hearing," deplores well-respected religious leader, @@RANDOM_NAME@@. "If God didn't want people to have this disease he wouldn't have created it in the first place. This is completely against the will of God and if the government allows this drug to go on sale we will all be doomed to an afterlife in a dark and fiery place! Now let's end this madness and abolish the production of pharmaceuticals and drugs altogether!" [[color=purple]Must have Atheism[/color]]
 
 -------------------------------------------------------------------------------
 [b][anchor=108]#108[/anchor]: Gambling Interests Offer High Stakes [New Sweden X; ed: Reploid Productions][/b]

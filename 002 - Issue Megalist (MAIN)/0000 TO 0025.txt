@@ -17,13 +17,15 @@ The Issue
 Last night the respected tabloid TV show "[i]60 Minutes[/i]" ran a report on @@NAME@@'s rising divorce rate. What is happening to the nuclear family?
 
 The Debate
-1. "There's a simple solution," says Pastor Felix, of the Catholic Church. "Divorce should be illegal. 'For better or worse,' anyone remember how that goes? We should return to the good old days, when you got married for life and stuck by your partner no matter how much of a drunken, abusive, adulterating disappointment they turned out to be."
+*1. "There's a simple solution," says Pastor Felix, of the Catholic Church. "Divorce should be illegal. 'For better or worse,' anyone remember how that goes? We should return to the good old days, when you got married for life and stuck by your partner no matter how much of a drunken, abusive, adulterating disappointment they turned out to be." [[color=purple]Must allow religion[/color] / [color=purple]Must not have Atheism[/color]]
 
-2. John Black, author of the hit book, 'Men are from Mars, Women are from Some Whole Other Place,' has a simpler solution. "If couples would just call each other 'darling' once in a while, there would be far fewer relationship breakdowns. A little affection is all it takes. So the government should make it mandatory: call your spouse 'darling' at least once a day, or face a fine."
+*2. “There’s a simple solution,” says John Felix, of the Family Values Coalition. “Divorce should be illegal. ‘For better or worse,’ anyone remember how that goes? We should return to the good old days, when you got married for life and stuck by your partner no matter how much of a drunken, abusive, adulterating disappointment they turned out to be.” [[color=purple]Must not allow religion[/color] / [color=purple]Must have Atheism[/color]]
 
-*3. "There's a simple way to boost the marriage rate," says gay rights activist @@RANDOM_NAME@@. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual preference. Besides, everyone knows gay relationships are more stable than straight ones." [[color=red]Homosexual marriage is illegal[/color]] 
+3. John Black, author of the hit book, 'Men are from Mars, Women are from Some Whole Other Place,' has a simpler solution. "If couples would just call each other 'darling' once in a while, there would be far fewer relationship breakdowns. A little affection is all it takes. So the government should make it mandatory: call your spouse 'darling' at least once a day, or face a fine."
 
-*4. "There's a simple way to boost the marriage rate," says gay rights activist Frank Weber. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual orientation. Besides, everyone knows gay relationships are more stable than straight ones." [Policy TBD]
+**4. "There's a simple way to boost the marriage rate," says gay rights activist @@RANDOM_NAME@@. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual preference. Besides, everyone knows gay relationships are more stable than straight ones." [[color=red]Homosexual marriage is illegal[/color]] 
+
+**5. "There's a simple way to boost the marriage rate," says gay rights activist Frank Weber. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual orientation. Besides, everyone knows gay relationships are more stable than straight ones." [Policy TBD]
 
 -------------------------------------------------------------------------------
 [b][anchor=002]#[/anchor][anchor=2]2[/anchor]: Reclaim The Streets![/b]

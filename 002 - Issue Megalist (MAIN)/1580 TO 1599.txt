@@ -195,7 +195,7 @@ The Debate
 3. “There is more to this than meets the ears, my dear @@LEADER@@...” orates Intelligence Director and wannabe playwright @@RANDOM_NAME@@, pausing for suspense. “Imagine it — with this technology in our hands, we have the chance to add a little bit of [i]dramatic flourish[/i] to words uttered everywhere! Drug capos ordering their henchmen into our police stings, Blackacrean spies reporting false intel... it’s a brave new world! And of course, anything you’d say would be subject to the same treatment. Who’s to say that Dàguó agents or rebel insurgents aren’t AI-generating those truly appalling things they claim you said about the Violetstone Tribe, or, say... the transcripts of this meeting? Ooh, that’s a twist. Write that down.”
 
 --------------------------------------------------------------
-[b][anchor=1593]#1593[/anchor]: Flap Over Flag Fashion [Lislandia; ed: Baggieland]
+[b][anchor=1593]#1593[/anchor]: Flap Over Flag Fashion [Lislandia; ed: Baggieland][/b]
 
 The Issue
 In celebration of the founding anniversary of @@NAME@@, an ardent fan of yours has sent you a homemade outfit created out of the national flag. The question of whether it is appropriate to don the flag as apparel has created a flutter of excitement.

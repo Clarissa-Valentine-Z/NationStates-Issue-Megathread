@@ -32,8 +32,7 @@ The Issue
 It's a terrible day. Woken early from dreams of joyfully frolicking @@NATIONALANIMALPLURAL@@, you are dragged to the naming ceremony of the latest @@DEMONYM_ADJECTIVE@@ Navy ship. Lashed by more rain than an Albionian could cope with, the sky is the same steely grey as the oversized hulk of metal everyone is making a fuss about, and thanks to the woolen kilt your advisors insisted was "traditional", the wind is whistling right where you don't want it to. You thought it couldn't get any worse, but just as you grasp the ceremonial bottle of bubbly and utter the words, "I hereby name this ship..." you realise you have no idea what the damned thing is to be called.
 
 The Debate
-1. One glance at @@RANDOM_NAME_1@@, your Minister for Creative Solutions, tells you @@HE_1@@ won't be any help today. For once bereft of ideas, @@HE_1@@'s studiously avoiding your gaze by pretending to examine a spot off on the distant horizon. What would get 
-@@HIS_1@@ goat? Ah, of course — a cold, efficient and utterly unimaginative name.
+1. One glance at @@RANDOM_NAME_1@@, your Minister for Creative Solutions, tells you @@HE_1@@ won't be any help today. For once bereft of ideas, @@HE_1@@'s studiously avoiding your gaze by pretending to examine a spot off on the distant horizon. What would get @@HIS_1@@ goat? Ah, of course — a cold, efficient and utterly unimaginative name.
 
 2. To @@HIS_1@@ right is the perpetually nervous Religious Affairs Minister, @@RANDOM_FEMALE_NAME_2@@, fiddling with @@HIS_2@@ prayer beads as @@HE_2@@ considers @@HIS_2@@ many religious affairs. You can just imagine @@HIS_2@@ reedy, patronising voice telling you to name the ship after a devout godly figure. Of course, there's some @@HE_2@@'d prefer to forget — who was that patron saint of altar boys?
 

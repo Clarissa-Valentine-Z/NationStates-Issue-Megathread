@@ -300,7 +300,7 @@ The Issue
 After a police officer was forced to apprehend a criminal with nothing more than a tin of beans, there has been an outcry for better equipment.
 
 The Debate
-1. "It's outrageous," says Chief Constable @@RANDOM_NAME@@. "This horrible situation could have been sorted out a lot faster if we had had the right equipment! Even the poorest criminals can buy better arms than us! We need more funds - if we have to take a bit of cash off the education and healthcare budgets to pay for it all then so be it!"
+1. "It's outrageous," says Chief Constable @@RANDOM_NAME@@. "This horrible situation could have been sorted out a lot faster if we had had the right equipment! Even the poorest criminals can buy better arms than us! We need more funds - and if that means felons need to pay up in fines to cover our costs, then so be it!"
 
 2. "I agree with my friend here," says zealous lance-corporal @@RANDOM_NAME@@. "But let's go further. Let's create a new anti-crime group with special training and expensive - er - extensive new equipment! That would make the criminals think twice before breaking the law! Especially if our new forces can shoot miscreants at first sight without messing around with time-consuming trials."
 

@@ -129,7 +129,7 @@ The Issue
 Lee Kerr, a self-proclaimed "independent journalist" with ties to various foreign nations, is on the run from @@DEMONYM_ADJECTIVE@@ police after being charged with espionage. In an attempt to evade justice, he took refuge in the Brancalandian embassy in @@CAPITAL@@. After the Brancalandians formally granted him asylum, three of your advisors ambushed you during a meeting with another nation's ambassador.
 
 The Debate
-1. "That's the third time this week a criminal's managed to escape us by hiding in one of those damn embassies!" booms Police Commissioner @@RANDOM_NAME@@, dressed in full SWAT gear. "To hell with what anyone else thinks! If these other nations want to be on War Dog land, they have to play by War Dog rules. Allow us to storm whatever building we want and catch these cowardly terrorists once and for all. To keep the international kerfuffles to a minimum, we can temporarily revoke the embassy's diplomatic rights and let the foreigners go home for a few hours while we make the arrest. If Brancaland has a problem with that, they can take it up with THIS." @@HE@@ pulls a truncheon from @@HIS@@ belt and thrusts it upward, hitting a nearby light fixture and sending shards of glass flying around the room.
+1. "That's the third time this week a criminal's managed to escape us by hiding in one of those damn embassies!" booms Police Commissioner @@RANDOM_NAME@@, dressed in full SWAT gear. "To hell with what anyone else thinks! If these other nations want to be on @@DEMONYM_ADJECTIVE@@ land, they have to play by @@DEMONYM_ADJECTIVE@@ rules. Allow us to storm whatever building we want and catch these cowardly terrorists once and for all. To keep the international kerfuffles to a minimum, we can temporarily revoke the embassy's diplomatic rights and let the foreigners go home for a few hours while we make the arrest. If Brancaland has a problem with that, they can take it up with THIS." @@HE@@ pulls a truncheon from @@HIS@@ belt and thrusts it upward, hitting a nearby light fixture and sending shards of glass flying around the room.
 
 2. "Don't listen to that nutter! Let's come up with a more reasonable solution," suggests your Minister for Foreign Appeasement, brushing bits of glass out of @@HIS@@ hair. "Look, there's no need for hullabaloo. We can't let these scumbags get in the way of my job... I mean, the relationships and trust we have spent many years building up! We need to respect their territory and not step a single foot in these embassies without their permission. Let's try catching these criminals through good old diplomacy — surely giving up their asylum seekers in exchange for reduced maple syrup tariffs is an offer Brancaland can't refuse?"
 
@@ -160,11 +160,9 @@ The Debate
 [b][anchor=1572]#1572[/anchor]: Eco Warriors [Sedgistan; ed: Verdant Haven][/b]
 
 The Issue
-
 The latest environmental audit of government activities has pointed the finger firmly at one department for failing to meet emissions-reduction targets: the military.
 
 The Debate
-
 1. "We need to totally overhaul our military hardware," declares environmental auditor Ashley Sestero, flicking between slides of smoke-belching tanks, oil-burning warships, and single-use plastic explosives. "We've got blueprints here for some excellent new designs that will massively improve our performance: biodegradable natural hemp fatigues, electric main battle tanks backed up by a series of charging points around the border, recyclable rocket motors that can be collected and re-used, solar-powered night-vision headsets, submarines with sails for surface operations — just show us the money, and we'll have a military the envy of campaigners across the world."
 
 2. "Procuring all new equipment is prohibitively expensive, not to mention the emissions from manufacture," scoffs appropriations administrator Faramir Barry, probably the only person in the room who knows a carbine from a cannon. "We can get a long way by modifying existing kit and practices. If we fit rate limiters to emissions-heavy machine guns, remove heavy armor plates to limit fuel consumption, and avoid explosions at all costs, then we'll be well on the way to winning the war against harmful emissions. That sounds much more reasonable, doesn't it?"
@@ -175,16 +173,14 @@ The Debate
 [b][anchor=1573]#1573[/anchor]: Unseen Academia [Cefalonia; ed: Candlewhisper Archive][/b]
 
 The Issue
-
 It is common practice for academics and researchers to submit papers to specialist journals, who in turn will publish and archive them online. However, many of these journals place their archives behind paywalls, charging access fees to those seeking to download them.
-The Debate
 
+The Debate
 1. “This is ridiculous!” shouts Pontius Tibbons, an overworked graduate student from @@CAPITAL@@ University. “These journals are charging way too much for people to access their papers, and it makes comprehensive research impossible! I’m broke already; I can’t be expected to pay a hundred dollars to a hundred journals to perform a proper meta-analysis on the migration patterns of northern yellow-bellied @@ANIMAL@@ beetles. The government needs to unchain academia by forcing these journals to provide universal free access to their archives. The journals will complain, surely, but you can sweeten the pot by giving them a small government stipend for each paper they publish.”
 
 2. “Now just hang on a second there,” says Dean Henry, a representative from the online journal ‘The @@DEMONYM_ADJECTIVE@@ Naturist’, which was the recent subject of an exposé accusing it of naked mercantilism. “We have significant running costs in quality control, server maintenance, editing expenses, image rights, SPF50 sun lotion, and so on, and so forth. Adequate funding is essential for high quality publications, and we should be free to charge whatever prices we think the market will bear. You don’t want bad journals running amok, do you?”
 
 3. “There is another option,” interjects Glen de Shugabeen, author of the new book [i]Socialism and You: Why Big Government Isn’t so Bad[/i]. “Why don’t we forbid these greedy journals from existing in the first place? All they do is exploit people and hold science itself hostage! The government can take over the publishing process for scientific papers instead. That way, we can have the best of both worlds: the government can filter out poor-quality papers, and still make them free for everyone! I’m sure there won’t be any problems with the government deciding what data gets published, right?”
-
 
 --------------------------------------------------------------
 [b][anchor=1574]#1574[/anchor]: Fowl Play [West Barack and East Obama; ed: Baggieland][/b]
@@ -217,8 +213,10 @@ The Debate
 --------------------------------------------------------------
 [b][anchor=1576]#1576[/anchor]: Liquidity Problems [Verdant Haven; ed: Candlewhisper Archive][/b]
 
-The Debate
+The Issue
+One of your senior government ministers recently missed a speaking engagement at an important conference due to a delay caused by having a small bottle of water tucked in a carry-on bag at the airport. A horde of soi-disant policy wonks has intercepted you as you step off a plane, shouting their proposals to overhaul the complicated system of checks and restrictions at airport security.
 
+The Debate
 1. “The problem, @@LEADER@@, is that we’re stuck being reactionary,” sighs security manager @@RANDOM_NAME@@, after filling out the paperwork for her 74th water bottle seizure of the day. “We’re always adding new policies after a threat has been discovered, but we never get rid of policies when they’re no longer needed. Liquids used to be a problem, because some explosives resemble water, but we have the detection technology now to make such measures redundant. Pay for airports to have CT luggage scanners, threat analysis based on machine learning, and other cutting-edge technologies. That will keep those lines moving!”
 
 2. “If we reduce restrictions, the terrorists win!” bellows hawkish legislator @@RANDOM_NAME@@, grabbing the water bottle and eyeing it suspiciously. “Terrorism thrives on fear, not actual effects! How does John Q. Public know what’s in this? How does Susie Homemaker feel if we let unknown items on planes? Things like our liquid ban both ensure citizens feel safe, and act as visible deterrents that discourage terrorist actions. As a matter of fact, I think another couple restrictions might help us show the public how much we care!”

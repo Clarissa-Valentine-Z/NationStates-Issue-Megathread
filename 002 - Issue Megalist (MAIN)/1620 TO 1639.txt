@@ -1,0 +1,124 @@
+[b][anchor=1620]#1620[/anchor]: Ballooning Out of Proportions [Cha-os; ed: Kaschovia][/b]
+
+The Issue
+Your latest meeting with industry executives on soaring helium import prices is suddenly interrupted by reports of a gigantic white balloon floating fifteen kilometres in the sky over @@NAME@@. Quite worryingly, it appears to be hovering over a classified missile containment facility.
+
+The Debate
+1. "It's those damned devils from Dàguó again!" curses your bullish Secretary of Defense @@RANDOM_NAME@@, shoving @@HIS@@ way into your office. "It's always them... this is an unacceptable assault on our sovereignty and we cannot let it slide! Say, if they're so curious about our superior weapons arsenal, I have a Mach 23 Dragonbreath surface-to-air missile primed and ready to blow that blasted balloon to smithereens! It's about time we took back control of our own airspace, don't you think, @@LEADER@@?"
+
+2. "Yes, our intelligence strongly suggests it is them..." confirms your Minister of Domestic Security @@RANDOM_NAME@@, pointing an arbitrarily long stick at an unrelated map. "Sure, they might have acquired some blurry images of one military facility with this balloon, but should we really be wasting millions of @@CURRENCY_PLURAL@@ firing missiles at it? We reserve the right to respond to their acts of espionage, and we should — by launching our own fleet of cutting-edge spy balloons back at them! Who knows what they've been hiding in those mountains?"
+
+3. The Dàguó hotline rings and your secretary puts it on speaker mode. "Oh @@LEADER@@, we are very sorry for this very unexpected turn of affairs! It's just the wind — you know, such blasted wind. This is not a spy balloon, but actually an oversized gender reveal balloon... Yes! It's a gender reveal to celebrate the coming birth of our prince — or princess — we don't know yet! We humbly ask that you clear your airspace for the balloon to continue on its course, so it may safely arrive in Dàguó where we will burst it at the palace of the Celestial Emperor. Once again, we are very sorry!"
+
+--------------------------------------------------------------
+[b][anchor=1621]#1621[/anchor]: The Space Between [Luna Amore; ed: Westinor][/b]
+
+The Issue
+The government's hard-line ban on cars and planes has drawn criticism in the aftermath of an emergency landing of a space shuttle that left the @@NAME@@ Space Agency with no other recourse than to collect the shuttle via a convoy of horse-drawn buggies.
+
+The Debate
+1. "It's just not practical," gripes @@RANDOM_NAME@@, the head of @@NAME_INITIALS@@SA, who reeks of something nasty. "We put together these multi-billion @@CURRENCY@@ missions, and when they're over, we collect the shuttle with horse-drawn carriages. With luck, we can drag it to an existing rail system or port, but if not, we drag the whole damn thing back by buggy! If we're really committed to our space program, we need to reconsider the ban on automobiles and aeroplanes — surely we can at least make an exception for an essential government program like this. It's about time we get off our high horses and start thinking of the places we could go!"
+
+*2. "Hold on, we can get creative here," interjects Xenon Trust, the eccentric CEO of spacecraft developer StarY, confidently striding in wearing a jetpack that looks like something your niece made for her fifth birthday. "Taking things places with... minimal explosiveness... is the literal mission of spacecraft. When we shoot for the Moon, we should be able to land back safely and precisely where we want in @@NAME@@! Listen — my company has pioneered very well-tested, proprietary rocket tech that'll give your vessels the ability to safely re-enter orbit and land anywhere without the usual rough landings. Pair that with my smart, ambitious, and very expansive project to place landing sites in safe zones all over the country and we won't have to worry about future catastrophes!" [[color=purple]Must not have chosen Option 1 of Issue 361[/color]]
+
+**3. "Hold on, we can get creative here," interjects Xenon Trust, the eccentric CEO of spacecraft developer StarY, confidently striding in wearing a jetpack that looks like something your niece made for her fifth birthday. "Taking things places with... minimal explosiveness... is the literal mission of spacecraft. When we shoot for the Moon, we should be able to land back safely and precisely where we want in @@NAME@@! Listen — my company has pioneered well-tested, proprietary rocket tech that'll give your vessels the ability to safely re-enter orbit and land anywhere without the usual rough landings. Pair that with my smart, ambitious, and very expansive project to place landing sites in safe zones all over the country and we won't have to worry about catastrophes like the one in Cape @@NAME@@!" [[color=purple]Must have chosen Option 1 of Issue 361[/color]]
+
+*4. "What is with you people and insane solutions?" shrieks @@RANDOM_NAME@@, a flustered parent attempting to hold onto six grocery bags, two children, and a set of horse reins. "Life has been absolute H-E-Double-Hockey-Sticks since the ban! Excuse my language, but do you realize how ridiculously hard it is to get four kids to and from school, take two dogs, a cat, and an irate ferret to the vet, and visit your miserable, good-for-nothing extended family on Maxxmas, all without a car or a plane? And now you're telling me I have to watch out for this crackpot's exploding ships every morning too? We ought to land all our stuff in other countries, and with a practical approach to transportation policy like [i]unbanning cars and planes[/i] we can grab it all easily and go home happy — oh, Tommy, get back here!" [[color=purple]Must not have chosen Option 1 of Issue 361[/color]]
+
+**5. "What is with you people and insane solutions?" shrieks @@RANDOM_NAME@@, a flustered parent attempting to hold onto six grocery bags, two children, and a set of horse reins. "Life has been absolute H-E-Double-Hockey-Sticks since the ban! Excuse my language, but do you realize how ridiculously hard it is to get four kids to and from school, take two dogs, a cat, and an irate ferret to the vet, and visit your miserable, good-for-nothing extended family on Maxxmas, all without a car or a plane? The last bit isn't much of a problem since you landed the Maxcelsior on top of their house, but that's a whole new mess, isn't it? We ought to land all our stuff in other countries, and with a practical approach to transportation policy like [i]unbanning cars and planes[/i] we can grab it all easily and go home happy — oh, Tommy, get back here!" [[color=purple]Must have chosen Option 1 of Issue 361[/color]]
+
+6. "Woah, woah, woah, we still have a space program?" exclaims infamous anti-emissions protester @@RANDOM_NAME@@, who has finally returned from a demonstration in @@ANIMAL@@ City after a 72-day-long trek. "Those gas-spewing satellites and rockets need to go the way of the plane, car, and dodo. If they emit exhaust, they gotta go. We've come this far; one more tiny push and we can be the most environmentally friendly nation in @@REGION@@! Imagine that, right? So what if people have to walk everywhere? Everyone needs to slow down and take in the beauty anyway."
+
+--------------------------------------------------------------
+[b][anchor=1622]#1622[/anchor]: Border Burden [Ostrovskiy, Giovanniland; ed: Verdant Haven][/b]
+
+The Issue
+The border between Bigtopia and @@NAME@@has long been a messy one, with several so-called 'pene-exclaves' — @@DEMONYM_ADJECTIVE@@ lands that can only be effectively accessed by passing through Bigtopia's territory, and vice-versa. This challenge, brought on by the mountainous terrain, has been brought to the fore by an unexpected letter from Bigtopia's ambassador.
+
+The Debate
+1. The messenger bearing the letter bows deeply, and presents the document for your perusal. It reads, "@@LEADER@@, these pene-exclaves negatively affect the lives of both our nations' citizens, who often have to deal with border crossings and bureaucracy to fulfill their basic needs. They also cost a fortune to administer. On behalf of my nation, I propose we exchange these lands so that there will no longer be territories that can only be accessed by crossing a border. The affected citizens of each nation can then choose between moving to a new location in their home country, or beginning the citizenship process where they are."
+
+2. "Do we even care about these lands?" questions avaricious Minister of the Economy @@RANDOM_NAME@@, pointing at a map with scorn. "Only a few thousand @@DEMONYM_PLURAL@@ live there, yet we pay the high price of having to provide services. Did you know that their annual per capita tax revenue is only half the national average? If Bigtopia wants these areas, let it buy them off us and take care of the residents themselves, along with the ones in their own exclaves! We get a bit of cash, and it'll allow the use of taxpayer money for better purposes, like lining our pockets... err, I mean focusing on the more prosperous parts of the country."
+
+3. "Are you insane? Think about our citizens!" cries @@RANDOM_NAME@@, your Minister of Foreign Affairs, who passed through three border checkpoints on the way to work today. "They'd have to give up their ancestral land in order to stay with us, or else suddenly wake up in a different country! Why don't we just sign a mutual free border agreement with Bigtopia? If you live in an exclave, you'll be able to travel without a visa to and from the mainland, and services such as the fire and police departments would be allowed to cross the border too. I'm sure we can trust that their citizens won't exploit this to gain access to other parts of @@NAME@@." @@HE@@ shakes the hand of the Bigtopian messenger, and quietly dismisses them.
+
+4. "Is that Bigtopian rascal gone yet? Splendid! The elephant in the room is that we allow a weak nation like Bigtopia to push us around!" scoffs Minister of War @@RANDOM_NAME@@, tearing the letter and throwing it in the trash. "Why would we want to sign deals with them or sell our land? A far easier solution would be to intimidate Bigtopia into ceding the travel corridors we want! Run a series of military exercises along the borders where @@DEMONYM_PLURAL@@ need to cross, and inform those big-noses that we need freedom to move our troops back and forth to the exclaves for our own national security. See if we can get control of their exclaves too, to smooth this mess of a border."[/box]
+
+--------------------------------------------------------------
+[b][anchor=1623]#1623[/anchor]: The @@MAN_1@@ in the Iron Lung [Jutsa; ed: Luna Amore][/b]
+
+The Issue
+@@RANDOM_NAME_1@@ was given a medical ventilator in place of lungs, a hemodialysis machine in place of kidneys, and an artificial heart, all while suffering from paralysis, amnesia, and a wicked hangnail. Hospital administrators are concerned that this is just one of many cases where these limited resources could've been used to help people more likely to recover to a normal life. Your aides arranged a hospital visit to discuss this matter and score a few brownie points.
+
+The Debate
+1. "This one @@MAN_1@@ — who is barely even alive at this point — is costing @@NAME@@ a fortune," explains @@RANDOM_NAME@@, the head of the Northwest @@NAME@@ Hospital Fund while reading from a suspiciously ornate clipboard. "Despite @@HIS_1@@ urge to stay alive, we think it's best for everyone if we pull the plug. Yes, it sounds cruel, but the resources would be better spent saving many more lives. Please, let us euthanize patients in conditions like these."
+
+2. "N-nooo...I... grandchildren... nooo..." whimpers the faint old voice of @@RANDOM_NAME_1@@ before @@HE_1@@ passes out. @@HIS_1@@ nurse steps in after dispensing some hand sanitizer. "It is @@HIS_1@@ wish to live, and it should be our job to see to it @@HE_1@@ lives. Are we really putting a price on someone's life? We can reallocate government funds from other departments, especially the military, to take care of our citizens. We need more life and less death."
+
+3. "We wouldn't have this problem if only patients who are willing and able to pay up got treatment," argues a @@MAN@@ in a three-piece suit who seems determined to stay as far away from everyone in the room as possible. "We shouldn't babysit those who haven't worked hard enough, or spent all their money on Pear Phones and avocado toast. If they can't afford it, they should have made better decisions when they were healthy.  We need to ditch the universal healthcare system and only treat people who can pay. It takes care of our limited resource problem. Win-win."
+
+--------------------------------------------------------------
+[b][anchor=1624]#1624[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1625]#1625[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1626]#1626[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1627]#1627[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1628]#1628[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1629]#1629[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1630]#1630[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1631]#1631[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1632]#1632[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1633]#1633[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1634]#1634[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1635]#1635[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1636]#1636[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1637]#1637[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1638]#1638[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------
+[b][anchor=1639]#1639[/anchor]: TBD[/b]
+
+
+--------------------------------------------------------------

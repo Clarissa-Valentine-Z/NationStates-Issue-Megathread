@@ -1784,6 +1784,13 @@ Also, some options have varients or are not available to certain nations. Here's
 
 [url =Github link here, must be split view.]Changes made to the threads can be seen here.[/url][/code]
 
+[size=200][color=#3DC0FF][b][i]Quote mark reference.[/i][/b][/color][/size]
+[hr][/hr]Some reference to replace smart to dumb quotes.
+‘ - opening single quote - alt 0145
+’ - closing single quote - alt 0146
+“ - opening double quote - alt 0147
+” - closing double quote - alt 0148
+
 [size=200][color=#3DC0FF][b][i]Hotlinks for Post-Editing (for OP Use)[/i][/b][/color][/size]
 [hr][/hr]This is for when I am doing a large-scale post editing.
 [spoiler]Section 1 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=768
@@ -1868,4 +1875,5 @@ Section 5 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32527535
 1540 TO 1559.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138654
 1560 TO 1579.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138655
 1580 TO 1599.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138656
-1600 TO 1619.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138657[/spoiler]
+1600 TO 1619.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138657
+1620 TO 1639.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138658[/spoiler]

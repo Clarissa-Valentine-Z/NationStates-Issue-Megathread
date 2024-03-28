@@ -236,7 +236,7 @@ The Debate
 4. "Why are we even debating how to gain citizenship?" chimes in your uncle, who also happens to be your self-appointed Chief of Informal Advice. "In my perfect @@NAME@@, only those born and raised here can be true @@DEMONYM_PLURAL@@. No matter how much money you make, here or abroad, you are only a citizen if you have lived your whole life here."
 
 --------------------------------------------------------------
-[b][anchor=1616]#1616[/anchor]: Beyond the Focal Point [West Barack and East Obama; ed: Kaschovia]
+[b][anchor=1616]#1616[/anchor]: Beyond the Focal Point [West Barack and East Obama; ed: Kaschovia][/b]
 
 The Issue
 Whilst reading The Pet @@ANIMAL@@ to a class of children at a local elementary school, you notice not a single student has paid you any attention. With the children too busy chit-chatting, roughhousing, or sleeping to listen to you, their disgruntled parents have been raising questions about how inattentiveness should be handled in the classroom.
@@ -266,9 +266,31 @@ The Debate
 3. "Well, this is as clear as sludge," mutters your Director of Sewage and Wastewater Management, who was touring the building's bathrooms while you ate. "Without our people having been there, who knows what the truth is? No matter what really happened, it seems like local authorities just can't handle things themselves, so maybe it's time we exert a bit more day-to-day control over the provinces? That's the only way to keep these bumpkins from clogging up the works!"
 
 --------------------------------------------------------------
-[b][anchor=1618]#1618[/anchor]: TBD[/b]
+[b][anchor=1618]#1618[/anchor]: Sextual Healing [Chan island; ed: SherpDaWerp][/b]
+
+The Issue
+A long-running series of texts from a high-profile public supporter of yours has taken a drastic turn, as they've started to send you flirty, romantic advances. Amidst a normal day in the office, your phone suddenly dings... triumphantly displaying a very lewd picture they've just sent you.
+
+The Debate
+1. It's straightforward enough; this is sexual harassment, right? No matter what huge... assets they have donated to you in the past, this crosses a line that should never be accepted. Why don't you make an example out of them, to set a precedent for all the victims of this gross behavior? Call them out publicly, and encourage shaming perpetrators — that would certainly be a deterrent for any future offenders.
+
+2. And yet — why should it be up to the victims to impugn their harassers? Not even to mention the risk of a media circus — the tabloids would have a field day! The headline would write itself: "@@LEADER@@ caught in sexting scandal!"... or worse. Realistically, harassment is harassment, no more and no less. Send it to law enforcement like any other crime. They can deal with it, and you can get on with your real business: governing the country.
+
+3. Your door flies open without even so much as a tap, and civil servant @@RANDOM_NAME@@ barges in holding a mountain of papers. @@HE@@ glances at the phone in your hand and frowns. "On the phone again, boss? Look, here's all the new laws and petitions you need to deal with. I know it's not my place, but frankly, us staffers might get to go home at a reasonable hour if you got rid of that bloody thing and got to work! Hey, there's a fantastic basis for a new campaign — why don't you ditch your phone to reconnect with the people of @@NAME@@?"[/box]
 
 --------------------------------------------------------------
-[b][anchor=1619]#1619[/anchor]: TBD[/b]
+[b][anchor=1619]#1619[/anchor]: Something Amiss in the @@ANIMAL@@ Mountains [Kaschovia; ed: Verdant Haven][/b]
+
+The Issue
+It's been two weeks since an expedition of nine geological researchers disappeared in the treacherous @@ANIMAL@@ Mountains. Devastated friends and family are enraged at the seeming inability of mountain rescue services to tackle the terrain and locate the missing expedition.
+
+The Debate
+*1. "How can they not find them? It's their damn job!" blasts @@RANDOM_NAME@@, your Minister for Accosting Incompetence, practically frothing with anger. "We need a complete overhaul of our mountain rescue services as soon as possible, no expense spared. I'm talking active satellite image analysis, drone deployments, mobile data coverage for isolated areas, GPS-guided search dogs, you name it! Hurry, greenlight the budget request! If we get this tech out in the field today, we'll have the expedition located and home in time for supper." [[color=blue]Must not ban Computers[/color] AND [color=blue]Must not ban Internet[/color]]
+
+*2. "I know exactly why we've struggled to find them!" blasts @@RANDOM_NAME@@, your Minister for Accosting Incompetence, practically frothing with anger. "It's the ridiculous restrictions we've placed on technology in @@NAME@@! I have reports proving that Blackacre has already implemented active satellite image analysis, drone deployments, mobile data coverage for isolated areas, and GPS-guided search dogs into their rescue services. Do you want us to be worse than Blackacre? If we buy this tech and allow it out into the field, that expedition will be located and home in time for supper." [[color=red]Must ban Computers[/color] OR [color=red]Must ban Internet[/color]]
+
+3. "We're wasting time!" exclaims @@RANDOM_NAME@@, director of @@NAME@@ Mountain Rescue, pacing around the room. "What we actually need is more of us looking, not more useless gadgets. Our current team of thirty rescuers has hundreds of kilometres to cover. If we don't boost those numbers we can kiss our chances of saving this expedition, or any future ones, goodbye. I say we bring in every trained rescuer in @@NAME@@ until the job is done. Dead or alive, our citizens deserve to be found."
+
+4. "You think signing checks or throwing bodies at it will solve anything?" bemoans @@RANDOM_NAME@@, a superstitious reporter from the @@CAPITAL@@ Herald, gnawing nervously on a pen. "I've been reporting on the dangers and tragedies of the @@ANIMAL@@ Mountains my entire journalistic career and I can promise you, the only things in these cursed mountains are early graves. The last thing we need is more cold, unattended funerals, especially after what happened to that last exped... uh, nevermind. Just close off areas like these to everyone once and for all, and warn people about the curse. You'll probably save a lot of money, too."
 
 --------------------------------------------------------------

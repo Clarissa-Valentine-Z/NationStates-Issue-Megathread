@@ -29,17 +29,18 @@ though it is not a necessity if you can't figure it out or feel lazy. :)[/box][/
 [size=120][b][u]The list is in the next post. This post is specifically for links and macros, industries, and names used in the issues.[/u][/b][/size]
 
 Links and other resources:
-[list][*]You may find a list of several options that we still need [url=https://www.nationstates.net/page=dispatch/id=1038505]here[/url]!
-[*]Also feel free to look [url=https://nsindex.net/wiki/List_of_NationStates_issues]here[/url], run by Minoa, who works somewhat closely with this thread. Features lots of information, including several issues, options, and their effect lines.
-[*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=440593]Trotterdam's list[/url] with effect lines and stats. Policies linked at the bottom.
-[*][url=https://forum.nationstates.net/viewtopic.php?p=37445366#p37445366]Easter Eggs Issue thread and guide. Updated version by Drasnia.[/url]
-[*]This thread is for issue reporting, but we do have an inquiry thread for [url=https://forum.nationstates.net/viewtopic.php?f=13&t=424650]unusual issue effects right here![/url]
-[*]Want to write your own issue / see your name in here? [url=https://forum.nationstates.net/viewtopic.php?f=13&t=424657]Head on down to How-to Write an Issue![/url]
-[*]An old issue a little wonky or not working as expected? [url=https://forum.nationstates.net/viewtopic.php?f=13&t=158858]Help us fix old issues![/url]
-[*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=489397#p37479488]Got Issues? Hall of Fame![/url] Ran by SherpDaWerp.
-[*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=475174&p=36442927#p36442927]Valentine's NS Stats Trends and Correlations.[/url] Infrequently ran! ^^
-[*][url=https://forum.nationstates.net/viewtopic.php?f=13&t=423697#p32501335]List of NPC nations and tribes.[/url] More about them, ran by Jutsa!
-[*][url=https://forum.nationstates.net/viewtopic.php?p=32505621#p32505621]List of Religions and Cults.[/url] Ran by Jutsa![/list]
+- You may find a list of several options that we still need [url=https://www.nationstates.net/page=dispatch/id=1038505]here[/url]!
+- Also feel free to look [url=https://nsindex.net/wiki/List_of_NationStates_issues]here[/url], run by Minoa, who works somewhat closely with this thread. Features lots of information, including several issues, options, and their effect lines.
+- [url=https://forum.nationstates.net/viewtopic.php?f=13&t=440593]Trotterdam's list[/url] with effect lines and stats. Policies linked at the bottom.
+- [url=https://forum.nationstates.net/viewtopic.php?f=13&t=507612]Easter Eggs Issue thread and guide by Fauzjhia.[/url] This is the updated version as of now.
+[tab=25][size=70]- Legacy: [url=https://forum.nationstates.net/viewtopic.php?p=37445366#p37445366]Easter Eggs Issue thread and guide, by Drasnia.[/url][/size][/tab]
+- This thread is for issue reporting, but we do have an inquiry thread for [url=https://forum.nationstates.net/viewtopic.php?f=13&t=424650]unusual issue effects right here![/url]
+- Want to write your own issue / see your name in here? [url=https://forum.nationstates.net/viewtopic.php?f=13&t=424657]Head on down to How-to Write an Issue![/url]
+- An old issue a little wonky or not working as expected? [url=https://forum.nationstates.net/viewtopic.php?f=13&t=158858]Help us fix old issues![/url]
+- [url=https://forum.nationstates.net/viewtopic.php?f=13&t=489397#p37479488]Got Issues? Hall of Fame![/url] Ran by SherpDaWerp.
+- [url=https://forum.nationstates.net/viewtopic.php?f=13&t=475174&p=36442927#p36442927]Valentine's NS Stats Trends and Correlations.[/url] Infrequently ran! ^^
+- [url=https://forum.nationstates.net/viewtopic.php?f=13&t=423697#p32501335]List of NPC nations and tribes.[/url] More about them, ran by Jutsa!
+- [url=https://forum.nationstates.net/viewtopic.php?p=32505621#p32505621]List of Religions and Cults.[/url] Ran by Jutsa!
 
 [b]MACROS[/b]:
 [b]@@A@@[/b] or [b]@@AN@@[/b]: Displays "a" or "an" depending on the word that follows (take: @@AN@@ @@MAJOR_INDUSTRY@@ worker)
@@ -1763,9 +1764,9 @@ Option 2: @@RANDOM_NAME_2@@, who caught @@RANDOM_NAME_1@@ stealing @@HIS_2@@ pen
 Also, some options have varients or are not available to certain nations. Here's a quick legend to help you out:
 
 [TEXT] appears at the end of some options, and states the validity:
-- [[color=red]Red text[/color]] means something is banned, mandatory, or more authoritarian.
-- [[color=blue]Blue text[/color]] indicates something is legal and/or freer.
-- [[color=purple]Purple text[/color]] is for relatively neutral standpoints, like whether you have a military, a capital, a faith, or are a matriarchy/patriarchy.
+- [[color=red]Red text[/color]] indicates something is banned.
+- [[color=blue]Blue text[/color]] indicates something is not banned.
+- [[color=purple]Purple text[/color]] is for statistics.
 
 * before a number indicates two or more options are variants. Multiple *s indicate different sets (i.e. * does not go with **)
 [Number] indicates that the option has no variant, but still is not available for all nations who get the issue.
@@ -1786,10 +1787,10 @@ Also, some options have varients or are not available to certain nations. Here's
 
 [size=200][color=#3DC0FF][b][i]Quote mark reference.[/i][/b][/color][/size]
 [hr][/hr]Some reference to replace smart to dumb quotes.
-‘ - opening single quote - alt 0145
-’ - closing single quote - alt 0146
-“ - opening double quote - alt 0147
-” - closing double quote - alt 0148
+[pre]‘ - opening single quote - alt+0145
+’ - closing single quote - alt+0146
+“ - opening double quote - alt+0147
+” - closing double quote - alt+0148[/pre]
 
 [size=200][color=#3DC0FF][b][i]Hotlinks for Post-Editing (for OP Use)[/i][/b][/color][/size]
 [hr][/hr]This is for when I am doing a large-scale post editing.

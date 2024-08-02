@@ -12,9 +12,9 @@ The Debate
 
 *4. "Typical big government, attacking the free market economy," interjects novelty straw man factory manager @@RANDOM_NAME@@. "Isn't it time you put @@NAME@@ first, instead of allowing the continuing brain drain of skilled workers from our nation? Void the whole passport and travel system, keeping foreigners out and @@DEMONYM_PLURAL@@ in, and we'll all surely prosper!" [[color=blue]Must allow Private Industry[/color]]
 
-*5. “Typical revisionist scum, attacking the prudence of state-planned economy,” interjects novelty straw man factory manager @@RANDOM_NAME@@. “Isn’t it time you put @@NAME@@ first, instead of allowing the continuing brain drain of skilled workers from our nation? Void the whole passport and travel system, keeping foreigners out and @@DEMONYM@@ in, and we’ll all surely prosper!” [[color=red]Must not allow Private Industry[/color]]
+*5. "Typical revisionist scum, attacking the prudence of state-planned economy," interjects novelty straw man factory manager @@RANDOM_NAME@@. "Isn't it time you put @@NAME@@ first, instead of allowing the continuing brain drain of skilled workers from our nation? Void the whole passport and travel system, keeping foreigners out and @@DEMONYM@@ in, and we'll all surely prosper!" [[color=red]Must not allow Private Industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1021]#1021[/anchor]: Room and Board Games [Esterild; ed: Nation of Quebec][/b]
 
 The Issue
@@ -31,7 +31,7 @@ The Debate
 
 5. "Whoa, whoa, ha ha ha..." interjects your Housing Minister, melodramatically sweeping your unfinished board game off the table. "We still allow private land ownership? Who let THAT little oversight slip through? Now, look. Where is our land located? @@NAME@@! And who runs @@NAME@@? The government! So who rightfully owns all that land? The government! Actually, maybe it's time we abandoned capitalism and had the government control everything."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1022]#1022[/anchor]: Failure to Respond [Australian rePublic; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -48,7 +48,7 @@ The Debate
 
 [5]. "BROOOM BROOOM," says five-year old @@RANDOM_FIRST_NAME@@, who has cheered up considerably since escaping the lift. "You're a dummy, you dummy. It's because you got rid of proper police cars and ambulances. That's why they are all so slow, you dummy. You should let everyone have cars again, dummy. NEEE NAW NEEEE NAAAAAW." [[color=red]Must not have EMS vehicles[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1023]#1023[/anchor]: Pure Madness [Frieden-und Freudenland; ed: The Free Joy State][/b]
 
 The Issue
@@ -65,7 +65,7 @@ The Debate
 
 5. "Preposterous!" exclaims @@RANDOMFEMALEFIRSTNAMENAME@@ @@RANDOM_LAST_NAME_1@@, a conservative but avowedly egalitarian mother, swiftly taking the pitchfork from her husband's hand and putting it away. "Chastity is important for our youth irrespective of gender, and our government should actively promote purity balls for both boys and girls. That is the only way to safeguard morality."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1024]#1024[/anchor]: Terms and Conditions Apply? [Singapore no2; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -78,7 +78,7 @@ The Debate
 
 3. "The mayor is too well liked!" exclaims @@RANDOM_FIRST_NAME@@ Brutus, an envious party member who had been eagerly awaiting the expected expiry of the mayor's term on the 15th of March. "Did you know recent polls place @@HIS_1@@ popularity above your own? In fact, I've heard rumours that @@HE@@'s been quietly gathering support for a leadership challenge! Maybe it'd be best for everyone if we engineered a tragedy - a random street crime where poor Caesar is stabbed to death. The resulting public sympathy would let you sweep a more loyal candidate into power, and justify increased police spending. Why, I've got just the person for the job..."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1025]#1025[/anchor]: A Meal to Die For [Candensia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -91,7 +91,7 @@ The Debate
 
 3. "So let me get this straight: this bleeding-heart liberal thinks we should literally cater to convicted murderers?" questions notorious former prison warden @@RANDOM_NAME@@. "These 'people', if they can still be referred to as such, deserve nothing but to quietly bide their time until they are put to death. In fact, forget last meals, these scum don't deserve the meals they already receive! After all, we shouldn't waste any food on death row trash, and if anyone deserves to be taught a lesson, it's them!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1026]#1026[/anchor]: Size Matters [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -106,7 +106,7 @@ The Debate
 
 4. "The world? The world that matters ends at our national borders!" proclaims a cigar-smoking man in the shadows. "You should be encouraging people to stay at home and to work for our nation, not to worry about foreign lands. You must only allow the publication of maps up to our national borders. In fact, stop our citizens leaving the country at all: if they never see the outside world, they won't worry why others have things that they don't."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1027]#1027[/anchor]: Murder in Mind [Singapore no2; ed: The Free Joy State][/b]
 
 The Issue
@@ -119,7 +119,7 @@ The Debate
 
 3. "The robots are going to kill us all!" panics the leader of the Human Supremacy League @@RANDOM_NAME@@, which is infamous for employing hacking attacks as a form of protest. "I knew that those crafty machines were up to something, but it's even worse than I feared. This incident makes it clear that they want to exterminate the human race, so we have to eradicate them first. We must revoke the citizenships and human rights of AIs and assemble a task force to wipe them out on sight. It's not like it can hurt them. These murderous machines were never really alive anyway."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1028]#1028[/anchor]: Can't Get Enough of You Baby [Gnejs; ed: Baggieland][/b]
 
 The Issue
@@ -137,7 +137,7 @@ The Debate
 *5. "You're all wrong!" shouts @@RANDOM_NAME@@, spokesperson for the Bleeding Hearts Without Borders organization, with an aura of moral superiority surrounding @@HIM@@. "The answer lies not within our borders, but with the thousands of people standing just outside them. Putting new lives in the world is not the answer, when entire generations of living, breathing men, women and children are fleeing their homes in Tasmania, Marche Noire and Lilliputia every day to escape war. If we need more people, end the ban on immigration and grant each one of them citizenship." [[color=red]Must not allow Immigration.[/color]]
 
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1029]#1029[/anchor]: Frozen Assets [USS Monitor; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -150,7 +150,7 @@ The Debate
 
 3. "Perhaps I can help your government resolve this issue," offers mountain guide Hirsa Hendi Sherpa. "It might be possible to recover @@RANDOM_NAME_1@@'s body, if you're willing to fund the search. With a well-organized search of the 30,000-foot peak, we'll almost certainly find your @@MAN_1@@. Then all the paperwork will be simple and @@HIS_1@@ family can give @@HIM_1@@ a proper funeral."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1030]#1030[/anchor]: Looking Down in the Dumps [Chan Island; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -161,11 +161,13 @@ The Debate
 
 2. As you march on, you reach the viscerally-revolting object of interest. Between retches and gags, one of your aides offers a proposal: "Bleugh... I hope that thing is... mmmmmff... gone as soon as possible! Why haven't these workers cleared it yet? We just need to make that monstrosi... guuuh... Make it go away! guuuuurghuuurrrgg... I don't know! Burn it, explode it, I don't care! Can we please just go?"
 
-3/4. One of the shovelling sanitation workers stops, rolls up @@HIS@@ sleeve and plunges a hand elbow-deep into the mass, pulling out a small glittering item. "Oh cool, a diamond ring! Hey, let's not be too hasty here. There are a lot of potentially valuable things in here like toys, cadavers, recyclable materials and fertiliser all begging to be recovered. The leftover fat we could sell as biofuel. With a little government help sewer-mining could be the next big cottage industry." [[3. [color=blue]Must not be vegetarian[/color] | 4. [color=red]Must be vegetarian[/color]]
+*3. One of the shovelling sanitation workers stops, rolls up @@HIS@@ sleeve and plunges a hand elbow-deep into the mass, pulling out a small glittering item. "Oh cool, a diamond ring! Hey, let's not be too hasty here. There are a lot of potentially valuable things in here like toys, cadavers, recyclable materials and fertiliser all begging to be recovered. The leftover fat we could sell as biofuel. With a little government help sewer-mining could be the next big cottage industry." [[color=red]Must not have compulsory vegetarianism[/color]]
+
+*4. One of the shovelling sanitation workers stops, rolls up @@HIS@@ sleeve and plunges a hand elbow-deep into the mass, pulling out a small glittering item. "Oh cool, a diamond ring! Hey, let's not be too hasty here. There are a lot of potentially valuable things in here like toys, cadavers, recyclable materials and fertiliser all begging to be recovered. The leftover fat we could sell as biofuel. With a little government help sewer-mining could be the next big cottage industry." [[color=blue]Must have compulsory vegetarianism[/color]]
 
 5. "And why, in all of the living world, are there all of those things down here?" fumes @@RANDOM_NAME@@, your staff's resident moralist. "Clearly this city must be full of idiots. Mandate strict rules about what can and cannot be put down the drain, with regular inspections of household pipes for any signs of offending items like cooking oils, fats, wet wipes, condoms or anything else that isn't... well, you know."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1031]#1031[/anchor]: Down in the Groove [Schiltzberg; ed: Baggieland][/b]
 
 The Issue
@@ -178,7 +180,7 @@ The Debate
 
 3. "Have you heard some of these songs?" questions @@RANDOM_NAME@@, your Minister of Education. "Many of Dylan Roberts' songs express anti-government themes and encourage the youth of @@NAME@@ to do illegal things. We cannot allow these messages to exist any more. The government must take control of the music industry, censor anything that encourages illegal activity, and punish those who flout the law."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1032]#1032[/anchor]: So... That Worked [Chan Island; ed: Zwangzug][/b]
 
 The Issue
@@ -191,7 +193,7 @@ The Debate
 
 3. "Clearly, the answer lies in information!" pipes up spin doctor @@RANDOM_NAME@@, tossing you a notebook full of obvious fabrications. "If the people of @@NAME@@ believe these rebels are having a terrible time, then it won't matter how prosperous they really are. Nothing like national pride on the cheap!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1033]#1033[/anchor]: Someone to Watch Over Me [Nuremgard; ed: The Free Joy State][/b]
 
 The Issue
@@ -206,7 +208,7 @@ The Debate
 
 4. "We still have a monarchy?" asks republican socialist MP @@RANDOM_NAME@@. "We wouldn't need to deal with this issue if we just got rid of the bloodsuckers altogether. I'm not saying we should roll out the guillotines, but send them packing and make them ordinary citizens like the rest of us."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1034]#1034[/anchor]: Counting Coups [Fauxia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -219,7 +221,7 @@ The Debate
 
 3. "The minister makes a fair point," concedes office cleaner @@RANDOM_NAME@@, sweeping up the debris and broken glass. "It's probably best not to risk global thermonuclear war... what a whopper of a mess that would be for me to clean up! But we should definitely be advancing the socialist cause. You should secretly supply the resistance with weapons while publicly remaining neutral. And hey, as it's all plausibly deniable, it's likely that our weaponized neurotoxic chemical will give them just the edge they need. Now that's a war game we can win."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1035]#1035[/anchor]: Bringing a Bayonet to a Gunfight [Chan Island; ed: Baggieland][/b]
 
 The Issue
@@ -232,7 +234,7 @@ The Debate
 
 3. "Helicopters? Rifles? Nothing personal, @@LEADER@@, but we only need an absolute minimum of military personnel for ceremonial duties," declares Major @@RANDOM_FIRST_NAME@@, one of your more eccentric officers, as @@HE@@ swats the poor teddy bear with a Zweihander sword. "Imagine our finest soldiers wearing elegant full-dress uniforms and armed only with traditional swords. Have them stand at attention at sentry posts around our great capital and get them to change the guard every afternoon in front of your residence. Tourists will be delighted by such a show. That's what a military should be used for!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1036]#1036[/anchor]: When in Maxtopia [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Issue
@@ -247,7 +249,7 @@ The Debate
 
 [4]. "Ever since you wore that Maxtopian clothing, my store's sales have skyrocketed!" exclaims @@RANDOM_NAME@@, who owns a boutique fashion store in @@CAPITAL@@. "In fact, the fashion industry could use a little help from the government. Perhaps politicians could sponsor local fashion designers by wearing their designs or by plugging our stores during speeches. A little help would go a long way." [[color=blue]Must have private industries[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1037]#1037[/anchor]: Ill Girl [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -262,9 +264,9 @@ The Debate
 
 *4. "Now, correct me if I'm wrong," scoffs @@RANDOM_NAME@@, proudly vaunting @@HIS@@ homemade [i]Charity Muggers, Sod Off[/i] badge, "but I'm sure she did nothing wrong. She saw a gap in the market; she went for it. So some bleeding-hearts thought she was really sick. Guess what, people lie! Any strategy is fair game in a truly free market. If people don't keep their hands on their own money, if they're stupid enough to give it to someone plastered in stage make-up, then that's their lookout." [[color=blue]Must allow Private Industry[/color]]
 
-*5. “Now, correct me if I’m wrong,” scoffs Holly Perry, proudly vaunting her homemade [i]Charity Muggers, Sod Off[/i] badge, “but I’m sure she did nothing wrong. She saw an opportunity; she went for it. So some bleeding-hearts thought she was really sick. Guess what, people lie! Any strategy that redistributes excess wealth to the proletariat is fair game. If people don’t keep their hands on their own money, if they’re stupid enough to give it to someone plastered in stage make-up, then that’s their lookout.” [[color=red]Must not allow Private Industry[/color]]
+*5. "Now, correct me if I'm wrong," scoffs Holly Perry, proudly vaunting her homemade [i]Charity Muggers, Sod Off[/i] badge, "but I'm sure she did nothing wrong. She saw an opportunity; she went for it. So some bleeding-hearts thought she was really sick. Guess what, people lie! Any strategy that redistributes excess wealth to the proletariat is fair game. If people don't keep their hands on their own money, if they're stupid enough to give it to someone plastered in stage make-up, then that's their lookout." [[color=red]Must not allow Private Industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1038]#1038[/anchor]: Maid to Order [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -279,7 +281,7 @@ The Debate
 
 4. "It's a crying shame that we have to look overseas to find women who remember that their place is in the home," moans perpetually single 45-year-old @@RANDOM_MALE_NAME@@. "The women of our own country have gotten too uppity and independent. Discourage women from working by doubling their income taxes, and don't even let girls into school. That'll take us back to the good old days, when a man was king in his own house and a woman knew her place as servant. Then, we won't need dirty foreigners looking after our kids."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1039]#1039[/anchor]: You've Got Mail [Jutsa; ed: The Free Joy State][/b]
 
 The Issue

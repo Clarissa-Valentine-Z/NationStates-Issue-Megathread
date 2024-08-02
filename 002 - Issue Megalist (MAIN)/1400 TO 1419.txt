@@ -13,7 +13,7 @@ The Debate
 
 3. As you are about to return to your hotel room, a young woman approaches you and starts speaking rapidly. "Excuse me! My name is Ramona Moreno — President Moreno is my father. Papa is too proud to admit it, but our people are starving. Since he'll never ask for it directly, I will: we need massive amounts of food and medical aid. You're supposed to be our ally, but I get the feeling that you don't care about our people; you're just taking advantage of our location in case you need to launch missiles at the United Federation. Well, without your assistance, we'll soon have to ask for help from the Federation — which means they will force us to adopt 'free markets' and sell off all of our limited resources at rock-bottom prices. Please negotiate a missile removal plan with my father — and then send us as much aid as you can afford."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1401]#1401[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Leave and Let Die [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -27,7 +27,7 @@ The Debate
 
 2. "I thought we agreed to quit threatening other countries with violence and destruction?" admonishes Minister of International Diplomacy Andrea Gramyki, thrashing out an improvised version of 'Paint It Violet' on her guitar. "Send Agent Milanova home, and let's get out of here. Who cares if we can't hit them with nuclear weapons? Maybe if we started minding our own business and working to make @@NAME@@ a better place instead of spending so much on the military, they wouldn't feel so threatened by us."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1402]#1402[/anchor]: [color=#CE532A][i]MADness:[/i][/color] You Only Negotiate Twice [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -41,7 +41,7 @@ The Debate
 
 2. "Good morning! Are you ready to make history? Let me just get my ceremonial signing pen." Finnedy reaches into his coat pocket and removes not a pen, but a Smyth & Weston revolver, which he points directly at your chest. "Have you noticed that world leaders like ourselves never get frisked for weapons? I can't remember the last time I had to go through a metal detector. Seems like a security flaw, don't you think? Well, I digress. I hope you didn't actually expect me to remove my own missiles. You see, I didn't get to be President of the United Federation by giving up power every time I had a disagreement with someone. Real leaders do whatever it takes to seize power and claw our way to the top. Although I firmly believe that the only good commie is a dead commie, this isn't personal — it's just politics. As soon as you're dead..." Suddenly, the window shatters as Natasha Milanova crashes into the room in a hail of glass fragments, closely followed by her @@DEMONYM_ADJECTIVE@@ flag parachute. Milanova leaps toward Finnedy, kicks the revolver out of his hand, and slams him into the floor. "I hope you don't mind me dropping in, Comrade Leader. Your aide pressed the panic button — and I see that mister Imperialist in Chief is up to his old tricks. Well, here's how it's going to go, Finnedy. I discovered your plans to send an armada to @@NAME@@ to bombard us. To prevent that from happening, I secretly removed a warhead from one of your nuclear missiles before it was loaded onto a submarine at Libertyville. I handed it off to one of my colleagues, who has hidden it in your capital city, ready for detonation at a moment's notice. Either you sign that agreement and follow through with each of its terms, which include some generous financial aid for San Vitenzo, or your 'glorious free-market paradise' is going to be a victim of your own hubris. Are we clear?" Finnedy nods and quickly scribbles his name on the agreement. "Good. Now get out of here and don't threaten @@NAME@@ ever again, or your capital will become a radioactive crater faster than you can say 'hedge fund manager'." Milanova turns toward you as Finnedy and his aide scurry out of the room. "Let's go home, boss."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1403]#1403[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Tomorrow Never Arrives [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -55,7 +55,7 @@ The Debate
 
 2. "No... we can't do that to the poor workers," murmurs Andrea Gramyki, devoid of guitar, her voice barely above a whisper. "The United Federation is filled with people like us. The oppressed, pre-revolutionary laborers won't ever have a chance to rise up and fight the imperialists if we wipe them from existence. Don't retaliate, Leader. The violence has to stop somewhere. By the way, it was an honor serving with you." A single teardrop runs down her face.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1404]#1404[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Die Some Other Day [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -69,7 +69,7 @@ The Debate
 
 2. Malinovich ushers you over to a nearby phone, where a red light is blinking. He presses a few buttons to put the call on speakerphone. "@@LEADER@@? Is that you?" The static-obscured voice of Natasha Milanova is barely audible, causing Malinovich to frantically increase the volume. "I followed up on those enemy plans that I told you about. The officers were plotting to send an armada to bombard @@NAME@@ with the ships' guns. Captain Duffle was assigned the advance patrol mission near our coastline. I managed to sneak aboard his submarine before it left. As the diplomatic conflict intensified, Duffle was constantly arguing with Commander Harrigut, his second in command. Captain Duffle kept shouting that @@NAME@@ was a threat that needed to be taken out preemptively. Even after some sort of 'satellite incident,' Commander Harrigut wouldn't support any retaliation that would lead to mutually assured destruction. Captain Duffle accused his officer of treason, pulled out his sidearm, and shot him in the head, then took his nuclear launch key. Duffle and the remaining officers immediately launched all of the ballistic missiles straight at @@NAME@@. Fortunately... I had already disarmed each of the warheads." Milanova's closing words are obscured by a deafening cheer from the people surrounding you.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1405]#1405[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Spectrum of Solace [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -89,7 +89,7 @@ The Debate
 
 *5. "Reparations! We're not paying any stinkin' reparations!" blusters Defense Minister Rolan Malinovich, who has turned a rather alarming shade of red. "Have you forgotten how they almost annihilated us? Yes, we definitely killed a bunch of their soldiers. What did they think would happen when they invaded our ally? This treaty is just a slap in the face — and we're definitely not disarming or letting in waves of immigrants. You need to walk away from the negotiating table, and hit them with sanctions for good measure. They're our enemy forevermore."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1406]#1406[/anchor]: Can't Touch This [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -106,7 +106,7 @@ The Debate
 
 5. "Men like Scarpone are just parasites, but the root cause here is prohibition itself," points out your Undersecretary for Trade, who has suspiciously boozy breath. "People want a drink. Is that so bad? Re-legalise alcohol, and legitimate producers can leave the Mob with no black market demand to exploit. I'll drink to that!" He raises a bottle to his lips, which is conspicuously labelled 'PLAIN APPLE JUICE'.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1407]#1407[/anchor]: New Tricks [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -123,7 +123,7 @@ The Debate
 
 5. "Ah, my favourite night of the year, all screams and sweets," comments your brother, menacing the little girl with a realistic toy axe as he snatches the bucket of candy from her, and slams the door shut in her face. "Delightful japes if someone doesn't give you enough sweets, or gives you the wrong ones. Nothing makes someone feel more alive than a good scare. Except the lady who collapsed — ah well. Let's make it a mandatory national holiday for all. No more pretending to be out. Get everyone's adrenaline pumping with some larks, like neighbours jumping out with chainsaws. Everyone — especially me — would get [i]so many[/i] sweets. Talking of which, I reckon you were a little light this year, so..." Grinning, he steps back to reveal your most important papers rendered unreadable by a dozen rotten eggs.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1408]#1408[/anchor]: (A Lot Of) Pennies for Your Thoughts [Fauxia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -138,7 +138,7 @@ The Debate
 
 4. "Let's be smart about this," suggests that crazy-looking @@MAN@@ who always seems to interject at the end with an off-the-wall idea. "You should take advantage of paid protest, and use government funds to pay for marchers that express love for your chosen policies. Any protests against you will be drowned out by your supporters, and the press will report that public opinion is on your side. Of course, we have to make sure no one leaks anything, with NDAs and hidden paper trails and the like. As long as no one leaks the truth we'll be fine."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1409]#1409[/anchor]: Happy Pranksgiving! [Verdant Haven; ed: Noahs Second Country][/b]
 
 The Issue
@@ -153,7 +153,7 @@ The Debate
 
 4. "Now, let's sit down and have a nice fireside chat together," rolls the soothing sentiment of @@RANDOM_NAME@@, the unusually charismatic head anchor for @@DEMONYNMINITIALS@@BC News. "I am certain we can negotiate a settlement that will make all parties happy. If you look the other way on any laws that may have been broken, we can ensure that everything will be rebuilt better than before, and I can toss in some positive coverage of your current legislative efforts."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1410]#1410[/anchor]: Lives On-Line [Verdant Haven; ed: Pogaria][/b]
 
 The Issue
@@ -170,7 +170,7 @@ The Debate
 
 5. "This would never have happened with pen and paper!" declares a bureaucrat who seems to have worked for the government longer than you've been alive. "Leave all the computers and the internet and the saggy pants and the hippity-hop to those young folks who don't know better. When lives are on the line, you can't be online. Tell vital services to stick to good, old-fashioned handwriting — then they'll be safe from those nasty folks on the web."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1411]#1411[/anchor]: Atomic Split [Daarwyrth; ed: Electrum][/b]
 
 The Issue
@@ -183,13 +183,13 @@ The Debate
 
 3. Your Minister of Intelligence, whose body paint matches the room's wallpaper, whispers into your ear. "Don't be startled, it's me, N! There's another solution, you know. You'll sign their declaration of independence to keep up appearances, and I'll mount a covert operation to infiltrate the military bases holding our WMDs to render them non-operational. Sure, East @@ANIMAL@@land will still have the husks that they could potentially reverse engineer, but it'll buy us at least a few years to build up an even deadlier nuclear arsenal!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1412]#1412[/anchor]: Another Day, Another Dollar [Ransium; ed: Electrum][/b]
 
 The Issue
 While attempting to buy an Eckie-Ecola at your local convenience store, you are shocked to discover that after a recent bout of severe inflation, the shopkeeper is no longer accepting @@CURRENCY_PLURAL@@ in favor of the much more stable United Federation Dollars.
 
-The Debate:
+The Debate
 1. "I can't say I'm surprised," sighs your Minister of Finance, who happens to be standing in line behind you holding an Addison Cola and a fistful of @@CURRENCY_PLURAL@@. "We've been spending far beyond our means, so the Central Bank's had to print more cash to make up the difference. We'll need to slash government expenditure across the board to get a handle on our debt. It'll be a bitter pill in the short run, but if you hold the line and commit to spending less in the future, I promise you it'll ultimately save the patient."
 
 2. "Wouldn't it be easier to declare the United Federation Dollar as legal tender alongside the @@CURRENCY@@?" suggests the shopkeeper while she gives a dirty look at your wad of cash. "Sure, it will be hard to give up a bit of control and pride, but everyone will have a stable currency to rely on. We could even keep all the spare @@CURRENCY_PLURAL@@ lying around as a novelty for tourists!"
@@ -198,7 +198,7 @@ The Debate:
 
 4. "The United Federation is trying to undermine @@NAME@@ and the @@DEMONYM_ADJECTIVE@@ way of life!" opines hyper-patriotic news personality Ásmunda O'Hara, who is coincidentally talking about this very problem on the TV above the shopkeeper's head. "Treat United Federation Dollars and all other currencies like the pestilence they are — burn them all! And, to stop the menace of foreign currency, the government must suspend all international trade indefinitely — after all, there's no need to exchange currencies if our economy is closed."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1413]#1413[/anchor]: Old Fusion [Gabingston; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -211,7 +211,7 @@ The Debate
 
 3. "Woah, dude, WMDs are like, so uncool," wails Private @@RANDOM_MALE_NAME@@, a hippie peacenik who accidentally enlisted while high, but has stuck around for the free food. "Why spend money on weapons of war, when you can spend it on, like... other stuff, man! You gotta make love, not war, guys." He absent-mindedly offers you a toke from his spliff.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1414]#1414[/anchor]: My Milkshake Brings All the @@CURRENCY_PLURAL@@ to the Yard [Zwangzug; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -224,7 +224,7 @@ The Debate
 
 3. "I wish I was a little bit taller, I wish I was a baller," bemoans the uncoordinated @@RANDOM_NAME@@. "But you know what? I don't ask the public to pay for height augmentation. @@DEMONYM_ADJECTIVE@@ health care should only be used for urgent medical conditions, not elective surgeries. If Kira doesn't like the way she looks, she could have just paid for her own boob job."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1415]#1415[/anchor]: The Melting Point [Westinor; ed: Noahs Second Country][/b]
 
 The Issue
@@ -239,7 +239,7 @@ The Debate
 
 *4. "It's your own fault that you built a town smack-dab in the center of a potential flood pathway," sighs self-described "preventionist" @@RANDOM_NAME@@ as @@HE@@ emerges from the floor in mining gear. "Since we don't allow dams in this nation, all areas within a seventeen-mile proximity of a glacier are in danger of flooding! Really, most of @@NAME@@ is vulnerable to some watery hazard, like the giant waterfall only a few miles from @@CAPITAL@@. Let's build dikes, dams, and drainage channels until all of the water is safely contained behind our man-made barriers. I've taken the liberty of preparing a map for you." She shows you a map with an uncountable number of marks on it. "See here, here, here and here..." [[color=red]Dam projects banned[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1416]#1416[/anchor]: Building on Sand [Fauxia; ed: Zwangzug][/b]
 
 The Issue
@@ -254,7 +254,7 @@ The Debate
 
 4. "It seems to me that these shores do still be international waters, savvy?" says Admiral @@RANDOM_NAME@@, looking through the wrong end of a spyglass. "Let's send a ship or two out there to remind Wezeltonia that our freedom of navigation still applies. With our patrols on the watch, they won't dare venture more than a few nautical miles from their shore! Or kilometers or other such bilge."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1417]#1417[/anchor]: Nun on the Run [Sacara; ed: Pogaria][/b]
 
 The Issue
@@ -269,7 +269,7 @@ The Debate
 
 4. "Perhaps we need to get our nation back onto the right track by mandating that all of our elected leaders are believers," ponders your Minister of Sacramental Supremacy, in between bouts of chanting and hitting himself in the forehead with a board. "The root of all evil comes from the lack of faith in a creator, so it only makes sense that those who govern us believe in one. @@LEADER@@, you must ensure that those running for political office have at least some sort of religious beliefs."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1418]#1418[/anchor]: The High Life [USS Monitor; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -284,7 +284,7 @@ The Debate
 
 4. "Is that MARIJUANA?" bellows your chief of security, who has suddenly awakened from a stupor and is now desperately trying to look alert and productive. "Since when do we allow DRUGS in government offices? Arrest that low-life! It's time to clean up the streets! Merge the @@CAPITAL@@ Police into my department and I'll have the city cleaned up in no time!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1419]#1419[/anchor]: The Madson-Hashley Scandal [Electrum; ed: Candlewhisper Archive][/b]
 
 The Issue

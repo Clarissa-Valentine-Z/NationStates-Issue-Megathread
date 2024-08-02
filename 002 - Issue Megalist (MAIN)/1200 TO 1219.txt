@@ -20,7 +20,7 @@ The Debate
 
 8. "Let's end this sacrilege by enticing Messy with copious amounts of food," scoffs your uncle, stuffing his face with the biscuits on your desk. "Provide the finest food at his hotel rooms and training facilities. He'll soon turn into a portly specimen, won't be able to play the game any more and then no one will call him 'God'. Problem solved." Letting out a huge belch, he snatches your plate of scones.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1201]#1201[/anchor]: Tell Me Sweet Little Lies [Kurnugia; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -35,7 +35,7 @@ The Debate
 
 4. "Bah!" utters an old @@CAPITAL@@ police officer, who is on a diet. "If you ask me, these fancy gadgets are making the police too soft. Back in the good ol' days, we had a more hands-on approach and believe me, nothing brings honesty out of a liar better than some good old beatings."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1202]#1202[/anchor]: A Timely Intervention [The New California Republic; ed: The Free Joy State][/b]
 
 The Issue
@@ -52,7 +52,7 @@ The Debate
 
 [5]. "The hour is at hand! This is the time of Violet!" shouts Violetist priest @@RANDOM_NAME@@ through an open window. "The time spent watching these evil little machinations would be better spent praising the almighty Violet! We must rid ourselves of this factory of evil, seeking and burning all its offspring; wherever it may hide in our land! Violet demands that the government ban and destroy every horological horror, for — as is written in the texts — [i]there is no reason or rhyme, no meaning or time but by Violet's dread love[/i]!" The priest tries to light a match but is dragged away by your bodyguards. [[color=purple]Violetism is legal[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1203]#1203[/anchor]: The Fandom Menace [Chrimbus; ed: Zwangzug][/b]
 
 The Issue
@@ -65,7 +65,7 @@ The Debate
 
 3. "The problem here is that works involving real people aren't subject to copyright," argues @@RANDOM_NAME@@, owner of @@CAPITAL@@ Pictures. "If we could copyright people, we could sue these writers into oblivion before they could type up the first sentence of their drivel. And if celebrities could sell their copyrights to businesses, would that be such a bad thing?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1204]#1204[/anchor]: Homecoming Queen [GeodesicDragon; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -80,7 +80,7 @@ The Debate
 
 4. "Take her out," whispers your Minister for Alternative Solutions. "And I don't mean to a nice restaurant. Violetist extremists have caused so many deaths, so why waste this opportunity for justice? I don't believe she was noncombatant for a second. These Violetist animals wouldn't show any mercy to us, so we shouldn't show any to them. She and her larva deserve to die — this is war!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1205]#1205[/anchor]: Heir Today, Gone Tomorrow [Luna Amore; ed: The Free Joy State][/b]
 
 The Issue
@@ -97,7 +97,7 @@ The Debate
 
 5. "One louse goes missing and the whole country's gone topsy-turvy!" exclaims a mud-encrusted peasant hanging through your office window. "Have you actually read up on the history of the concept of monarchy? Like this one: some guy claims divinity based on a ridiculous tale of @@A@@ @@ANIMAL@@ in a lake giving him a sword. Does @@NAME@@ really want anything to do with systems built on myth and legend? Come on! You can't base a system of government on strange @@ANIMAL_PLURAL@@ lying in lakes, distributing swords. You must return the power to the people!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1206]#1206[/anchor]: Gross Domestic Product [The Marsupial Illuminati; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -112,7 +112,7 @@ The Debate
 
 4. "The waters are a gift from the divine," sensually sighs the Priestess of the Wet God, eagerly slurping the river water as she bathes in it. "This Holy River is always pure and rejuvenating, no matter what mere men may think or fear. The dizziness we feel from inhaling the fumes that rise from the sacred waters is the spiritual ecstasy of communion. The government should inform the people of the great and healthful powers of His Watery Glory's blessed flow, and indeed bottle the water and deliver it to people across the nation. Nobody should be afraid to take a sip, or a large gulp!" 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1207]#1207[/anchor]: Next, Please! [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -125,7 +125,7 @@ The Debate
 
 3. "Mea culpa, I broke the rules," admits the creator of the offending information video, wringing his hands remorsefully. "But look, rules like these shouldn't apply to the government, should they? Laws are for the citizen masses, not for the lawmakers. If anyone should be punished, it's the dissidents who are seeking to undermine government authority with their nit-picking ways. Subversives in the movie-making community need to be monitored, perhaps even brought in to have their loyalties re-examined."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1208]#1208[/anchor]: Just Snoring With Excitement [Midand; ed: Zwangzug][/b]
 
 The Issue
@@ -140,7 +140,7 @@ The Debate
 
 4. "Hi hi!" Your precocious young niece runs around your office. "How about big boys and girls and grownups have nap time? Nap time was so fun, I miss it! Everyone should have nap time!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1209]#1209[/anchor]: Your Island Is My Island [The United Lands of Ash; ed: Baggieland][/b]
 
 The Issue
@@ -153,7 +153,7 @@ The Debate
 
 3. "Now, now, what's happened has happened," chimes in Governor @@RANDOM_LAST_NAME@@. "However, we do have to consider everyone's feelings. Families from the mainland now live here and, without government support, this island would struggle to keep basic services running. Instead, you could just give more autonomy to this place, and other territories like it. The military can stay, but we should be able to pass our own laws that also reflect the needs of the local people."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1210]#1210[/anchor]: Big Tobacco in Big Trouble [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -168,7 +168,7 @@ The Debate
 
 4. "We wouldn't be having this discussion if we had banned smoking in the first place," argues your Health Minister. "Did you know that smoking is the second largest risk factor for death and disability globally? Health care costs are skyrocketing, and smoking-related morbidity accounts for billions of hours of lost productivity annually! Any idiot can see the incredible dangers of smoking. It is in the public's best interest to ban tobacco completely. We can live without smoking. We can't live without breathing."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1211]#1211[/anchor]: Free Credit Reports With Monitoring [Japanese Schoolgirls; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -181,7 +181,7 @@ The Debate
 
 3. "Why implement a system that rates your citizens when you can have the citizens rate the government instead?" whispers a mysterious stranger as retro music begins to play. "That way, the old, drab officials in their drab suits can just be fired by you and replaced with more qualified people with more street cred."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1212]#1212[/anchor]: Lost at Sea [The Super Fork; ed: Baggieland][/b]
 
 The Issue
@@ -196,7 +196,7 @@ The Debate
 
 4. "Avast! Ye government knaves have no right to dictate where me and me hearties travel!" shouts suspected pirate, Edward Teach, as he barges into your office and impales the remains of your globe with his cutlass. "[i]The @@ANIMAL@@'s Revenge[/i] shall sail wherever she pleases! Ye landlubbing government scallywags must get rid of all restrictions on freedom of navigation in your territorial waters, or you'll be walking the plank!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1213]#1213[/anchor]: The War of Man and Beast [Jutsa; ed: Zwangzug][/b]
 
 The Issue
@@ -211,7 +211,7 @@ The Debate
 
 4. "Come on, that's hardly fair," declares Colonel Dander, CEO of United Federation chain [i]Colonel Dander's Sheep-Fry[/i], licking his fingers suggestively. "Yer beef with animal products is not only denyin' us business in @@NAME@@, but also denyin' yer folks the savory taste of a Dandy Dander Deluxe Double-Duty Fried Mutton Burger. Tell ya what. If you legalize meat eatin', I'll give ya all the free meals you want, courtesy of Colonel Dander."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1214]#1214[/anchor]: Blood Type: Gay Positive [Endraas; ed: Sanctaria][/b]
 
 The Issue
@@ -228,7 +228,7 @@ The Debate
 
 5. "But the LORD sayeth YOU SHALLETH NOT prick the finger of THE GAYETH because you might becometh GAYETH yourself. Eth!" shouts Cooper Archer, representative of some faith groups within @@NAME@@. "The gays want to donate blood to infect everyone with their gayness! Don't let that happen, @@LEADER@@. Not only do we need to ban gays from giving blood, we need to ban them, PERIOD! For the people. DO ITETH in the name of the LORDETH!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1215]#1215[/anchor]: A New Age [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -243,7 +243,7 @@ The Debate
 
 [4]. "I can't help but wonder if @@RANDOM_NAME_1@@'s motivation is simply survival," observes your Minister for Population Control. "Maybe if we were to undo our policy of executing the elderly, then we wouldn't be dealing with this nonsense. And then, I could go back to the Ministry of Fisheries. I like fisheries. Fresher air. Easier to sleep at night. Less screaming." The minister sighs and returns to @@HIS@@ paperwork. [[color=red]Must have Geronticide[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1216]#1216[/anchor]: Not My Government [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -258,7 +258,7 @@ The Debate
 
 4. "Foreign Affairs? Bah!" pouts staunch isolationist @@RANDOM_NAME@@, who is sitting alone in the corner of your office. "We're already too entangled with the economics and politics of other countries. If you ask me, we should be closing the borders to all trade, travel, immigration and emigration. @@NAME@@ is better off alone."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1217]#1217[/anchor]: Monkey Business [Nation of Quebec; ed: Baggieland][/b]
 
 The Issue
@@ -271,7 +271,7 @@ The Debate
 
 3. "Ah, but what if the gorilla is the murderer?" deduces prominent mystery author Edgar Doyle, while dusting your coffee cup for prints. "The police have stated that the victim recently changed his will so that his favourite ape inherited everything, and the will itself was covered in fruit seeds. Animals share the same lust for violence and greed that humans do, haven't you ever watched Planet Animal? They spend their entire lives killing and eating each other. In order to keep our citizens safe, we should hold animals accountable under the same laws humans are, and in the case of murderers like this gorilla: they should be put down. Maxx had the means and the motive — officers, arrest that gorilla!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1218]#1218[/anchor]: Due Processing [Autonomous Cleaner Bot Cleaners; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -286,7 +286,7 @@ The Debate
 
 4. "The rise of machinekind filth should fill us with dread!" yells Scott Sanford, noted social media influencer and bio-@@DEMONYM_ADJECTIVE@@ supremacist. "So-called AI 'personhood' was a mistake from the very beginning, and this 'accident' is just the start of their sinister machinations. The artificial menace has already started attacking our children, the most vulnerable among us! I say round them up, and pull their batteries! Defenestrate them, then throw them into the sea! The only machines left should be those that cannot concoct plans to overthrow us!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1219]#1219[/anchor]: Vat Is a Serious Problem [Pogaria; ed: The Free Joy State][/b]
 
 The Issue

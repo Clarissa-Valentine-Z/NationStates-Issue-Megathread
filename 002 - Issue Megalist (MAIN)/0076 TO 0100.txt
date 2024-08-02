@@ -12,7 +12,7 @@ The Debate
 
 4. Finally, Right Reverend @@RANDOM_NAME@@ proclaims, "The downtrodden are suffering at the hands of the MAN, and these wealthy upper shelf vice presidents are asking to make the rich richer and the poor poorer! The only reason the common worker needs a union is to be able to fight against the oppression of these slave drivers! It's ludicrous that these greedy scrooges are asking for even MORE money! Send them packing and raise taxes on the wealthy to bring more equality to our nation!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=077]#[/anchor][anchor=77]77[/anchor]: [color=goldenrod]Easter Egg[/color]: World To End, Or Possibly Just Mark Anniversary[/b] {One Year Anniversary issue, now an Easter Egg bonus}
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 5. "Well, I know what I'll be doing," says obscure author and Perl amateur Max Barry. "Sitting at home with a good book! [url=http://www.maxbarry.com/jennifergovernment/][i]Jennifer Government[/i][/url], for instance, is a cracking read. And I hear that some of the profits go into maintaining a cool web game. But of course, that's just my opinion. People should celebrate however they want."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=078]#[/anchor][anchor=78]78[/anchor]: [color=goldenrod]Easter Egg[/color]: Should We Pull The Lever? [Meddlers; ed: SalusaSecondus][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 3. "Now, don't think of it as a do/don't option," says a hot dog vendor. "What if we give tours so that people can see the lever? Not to touch it of course, but to see that humanity can be ruined by such a contraption. We can make a profit."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=079]#[/anchor][anchor=79]79[/anchor]: @@NAME@@'s @@ANIMAL_PLURAL@@: Going The Way Of The Dodo? [Naelosia; ed: Reploid Productions][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 [3]. "Nature is hardly a black and white issue," @@RANDOM_NAME@@, a respected scholar, notes. "We should start a breeding program to help these creatures recover their numbers. We can display them in captivity, and gradually release them into the wild. Couple it with limiting, but not abolishing @@ANIMAL@@ hunting, and everyone benefits. Of course, @@ANIMAL_PLURAL@@ raised in captivity don't generally survive in the wild, but I'm sure we can find a way!" [[color=purple]Must have zoos[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=080]#[/anchor][anchor=80]80[/anchor]: [color=goldenrod]Easter Egg[/color]: Aliens Wish Peace/Trade Agreement [Exiled; ed: SalusaSecondus][/b]
 
 The Issue
@@ -66,7 +66,7 @@ The Debate
 
 2. The Coalition of No ETs wants you to stay out of this. @@RANDOM_NAME@@ says "Them darn aliens thingies are going to take advantage of the situation an' kill us all! You must ban all trade with them. If they want my cattle, it will be over my dead body!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=081]#[/anchor][anchor=81]81[/anchor]: Close Encounters Of The Sci-fi Kind? [Spyr; ed: SalusaSecondus][/b]
 
 The Issue
@@ -79,7 +79,7 @@ The Debate
 
 3. "Extraterrestrial lifeforms? Alien invaders? I don't know why we even have to listen to such idiocy!" complains prize-winning physicist @@RANDOM_NAME@@. "In my opinion, the idea of 'aliens' on another planet is highly unlikely, and even if they did exist, getting from there to here is technically impossible! I say we forget this nonsense and stop spending our tax @@CURRENCY_PLURAL@@ on it. Leave this sort of foolishness to the people who attend those 'trekkie' conventions."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=082]#[/anchor][anchor=82]82[/anchor]: AI Researchers Rally For Android Rights [Eniqcir; ed: SalusaSecondus][/b]
 
 The Issue
@@ -92,7 +92,7 @@ The Debate
 
 3. "This is craziness!" says @@RANDOM_NAME@@, a resident interviewed by the popular news show 'Talk o' the Town'. "It's just blasphemy, plain and simple! We're, like, playin' God here! It's evil, man, evil! What if they turned against us? All forms of AI should be banned, dudes."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=083]#[/anchor][anchor=83]83[/anchor]: High-Speed Monorail Service Promises Connections [Baudrillard; ed: Reploid Productions][/b]
 
 The Issue
@@ -107,7 +107,7 @@ The Debate
 
 *4. "I really disagree," says @@RANDOM_NAME@@, an unwashed denizen standing in the middle of Noh Weir, population 200, on the outskirts of @@NAME@@. "We need this monorail service to connect both large and small cities, with equal access to transport for all the workers, all of the time." [[color=red]Must not have private industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=084]#[/anchor][anchor=84]84[/anchor]: Compulsory Gun Ownership? [Tristram; ed: SalusaSecondus][/b]
 
 The Issue
@@ -120,7 +120,7 @@ The Debate
 
 3. "Compulsory gun ownership?! Concealed carry?! Are these fools nuts?!" rants an enraged Million Mummy March activist. "We don't need any of these things! What we need is complete gun registration, so that the government can track down dangerous people, like those people who possess unregistered weapons."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=085]#[/anchor][anchor=85]85[/anchor]: Illegal File-Sharing Flares [Frigben; ed: SalusaSecondus][/b]
 
 The Issue
@@ -133,7 +133,7 @@ The Debate
 
 3. "Yo, dang, blizzity blang, yo, this ain't, right, yo," says @@RANDOM_NAME@@, famous rapper with three platinum albums. "Dang, yo, we dang need to protect my dang music files, yo, so yo' gotta be registered an' online to listen, yo. It's the only way to stop this, dang, yo."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=086]#[/anchor][anchor=86]86[/anchor]: Save The @@ANIMAL@@ [Oddballfullness; ed: SalusaSecondus][/b]
 
 The Issue
@@ -144,7 +144,7 @@ The Debate
 
 2. "Sure, @@ANIMAL_PLURAL@@ might look cute and harmless to you," says retired hunting legend @@RANDOM_NAME@@, "but back in my day, they were the scourge on the nation. They carry a number of dangerous diseases, and you do NOT want to be bitten by one. My cousin was once bitten by a @@ANIMAL@@ and he's never been the same since! So now you want my grandchildren exposed to these things? The sooner they disappear completely, the better!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=087]#[/anchor][anchor=87]87[/anchor]: Burn! Burn Everything! [PRC China; ed: Reploid Productions][/b]
 
 The Issue
@@ -157,7 +157,7 @@ The Debate
 
 3. "These barbarians are suggesting burning the flag of our glorious nation as if it were a piece of scrap cloth! First it's burning the flag, and before you know it, it's rebellion and anarchy!" @@RANDOM_NAME@@ scowls. "Flag burning should be punishable by jail terms and a good flogging!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=088]#[/anchor][anchor=88]88[/anchor]: Cannibals Demand To Taste What @@NAME@@ Has To Offer [Sovereign Discord; ed: Reploid Productions][/b]
 
 The Issue
@@ -170,7 +170,7 @@ The Debate
 
 3. "You're all absolutely out of your minds!" exclaims @@RANDOM_NAME@@, head of @@NAME@@'s largest health-food manufacturer. "It's immoral, it's unhealthy, and it's disgusting. Not only are these so-called 'dietary rights' activists leading us down a dark path of sin, but right into a marketplace with yet another product that's almost as bad as beef!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=089]#[/anchor][anchor=89]89[/anchor]: "Don't Dam Our Rivers, Damnit!" Say Protesters [Frigben; ed: Reploid Productions][/b]
 
 The Issue
@@ -181,7 +181,7 @@ The Debate
 
 2. "Think before you open your mouth," says engineer @@RANDOM_NAME@@. "While @@NAME@@ may have to pay the price in animal diversity, as well as adverse effects on the environment, do we really want fossil-fuel based plants polluting @@NAME@@? If you use your common sense, I think you'll find that damming some rivers would be a good idea. Plus, think of how much the economy would benefit from all the jobs these projects would create."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=090]#[/anchor][anchor=90]90[/anchor]: Organic Outburst [Dark_Zephyr; ed: Reploid Productions][/b]
 
 The Issue
@@ -194,7 +194,7 @@ The Debate
 
 3. "Stop torturing Mother Earth!" yells outraged environmental extremist @@RANDOM_NAME@@. "Are we prepared to sacrifice our planet and our souls for the sake of a few extra @@CURRENCY_PLURAL@@? If we hope to live in harmony with the environment that nurtures and protects us, we must ban all industries that pollute our world. Let us return to the trees, my brothers!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=091]#[/anchor][anchor=91]91[/anchor]: Sacramental Tax Time? [Rational Self Interest; ed: Reploid Productions][/b]
 
 The Issue
@@ -209,7 +209,7 @@ The Debate
 
 [4]. The Honorable @@RANDOM_NAME@@, Minister of Minding Other People's Business, has an idea: "This religion thing is such a great racket, why don't we make it a government monopoly? We'll ban all religions except @@FAITH@@, and make attendance and donations compulsory. I'll start writing the Holy Proclamation right away!" [[color=purple]Must have a national religion[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=092]#[/anchor][anchor=92]92[/anchor]: @@NAME@@ Officials Needled About Mandatory Vaccinations [GDrabble; ed: Reploid Productions][/b]
 
 The Issue
@@ -222,7 +222,7 @@ The Debate
 
 3. @@RANDOM_NAME@@, @@NAME@@'s leading expert on health spending, suggests a third way. "Leave vaccines optional but make free health care conditional on having them. That way people get to choose, and it will help ease the load on our national healthcare budget."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=093]#[/anchor][anchor=93]93[/anchor]: Affirmative Action in @@NAME@@? [The Orange Freestate; ed: Reploid Productions][/b]
 
 The Issue
@@ -235,7 +235,7 @@ The Debate
 
 3. "I think you're both loony," says @@RANDOM_NAME@@, professor of liberal arts at @@NAME@@ National University. "In my humble opinion, the solution is simple: make college education free to all. Why turn away anyone? Throw open the gates and make college education available to every citizen of @@NAME@@, regardless of their economic status, grades, or work ethic!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=094]#[/anchor][anchor=94]94[/anchor]: Computer Users Fed Up With Heaps of Spam! [Bored Yawning; ed: Reploid Productions][/b]
 
 The Issue
@@ -250,7 +250,7 @@ The Debate
 
 4. "Both sides are wrong," grumbles government paper-pusher @@RANDOM_NAME@@. "Spam is definitely a problem, yet so is the restriction on freedoms which some draconian anti-spam codes would impose. I propose a ban on overtly fraudulent spam, and a tax on more legitimate businesses that rely on spam as an advertising method, and a strict legal definition of spam that would ensure no innocent person was prosecuted or taxed."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=095]#[/anchor][anchor=95]95[/anchor]: Painful Prices Paid At The Pump [Aljerfribish; ed: Reploid Productions][/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 2. "There are other ways to recover from the fossil fuel crisis besides ruining forests," says environmental activist @@RANDOM_NAME@@. "We shouldn't just take the short way out and drill here. I suggest spending more money on public transportation systems and encouraging people to carpool - if people weren't so reliant on fossil fuel powered cars, we wouldn't be in this situation in the first place, and if we start using less oil, the price will drop with the demand."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=096]#[/anchor][anchor=96]96[/anchor]: Water Supply Problems Becoming A Major Drain [Calvin n Hobbes; ed: Reploid Productions][/b]
 
 The Issue
@@ -278,7 +278,7 @@ The Debate
 
 5. "Obviously, who gets how much water is only a part of the problem," notes famed population-control advocate @@RANDOM_NAME@@. "We must try to curtail the rapid growth of our population, whether by limiting the amount of children people may have, or by deporting immigrants and criminals... we must get a handle on our population before we can hope to correct this water supply problem."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=097]#[/anchor][anchor=97]97[/anchor]: Landfills Filling Up [Edolia; ed: Sirocco][/b]
 
 The Issue
@@ -293,7 +293,7 @@ The Debate
 
 4. "You're all missing the real solution," argues @@RANDOM_NAME@@, president of the '@@NAME@@ First!' society. "Why should we bother building landfills at all? I'm sure that there are plenty of less-fortunate countries out there who would be more than happy to take our litter in return for some cash."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=098]#[/anchor][anchor=98]98[/anchor]: Police Want More Than Shiny Badge [Hata-alla; ed: Sirocco][/b]
 
 The Issue
@@ -308,7 +308,7 @@ The Debate
 
 4. "You have to be joking," scoffs @@RANDOM_NAME@@, looking up from Buxom Lasses with Big Guns magazine. "If we ban guns, only criminals will be armed. That's no solution. Instead we should completely loosen up restrictions on guns, and then upstanding citizens can fight crime themselves."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=099]#[/anchor][anchor=99]99[/anchor]: We Need Cash, Sharpish, Say Librarians [Os Cosia; ed: Sirocco][/b]
 
 The Issue
@@ -323,7 +323,7 @@ The Debate
 
 [4]. "Great Scot! I've got it!" exclaims @@RANDOM_NAME@@, your science advisor. "Why do we need these brick and mortar buildings anyway? Let's just scan all these books, newspapers and magazines onto the internet and then we can fire all those expensive librarians with their pensions and healthcare benefits. Think of the money we'd save if we didn't have to print everything! Sure it'll be tough on the librarians and those with no computers but hey, this is the future and they are the past." [[color=blue]Must have internet[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=100]#100[/anchor]: Road Rage Rampage [SatanSpermSpawn; ed: Reploid Productions][/b]
 
 The Issue

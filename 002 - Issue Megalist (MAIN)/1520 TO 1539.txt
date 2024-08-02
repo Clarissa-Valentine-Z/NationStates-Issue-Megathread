@@ -10,7 +10,7 @@ The Debate
 
 3. "We did it, @@LEADER@@!" bellows your party's rather rotund campaign manager, as @@HE@@ shoves past your political opponents. "Hahaha, all the power is finally, rightfully yours! Don't stand here listening to these deadbeats. Now's the time to consolidate power, not give it away. While we've got control of parliament, why don't we make some moves that will guarantee the next election? We can redraw some constituency borders, allow more campaign funding for the incumbents at election time, limit speaking time in parliament proportional to share of the vote... I have dozens of laws we can pass to make life easier for us and there's absolutely nothing those losers can do about it!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1521]#1521[/anchor]: The Bells! The Bells! [Bears Armed; ed: Verdant Haven][/b]
 
 The Issue
@@ -20,13 +20,12 @@ The Debate
 1. "It's simple, daahling," intones @@RANDOM_LAST_NAME_1@@, turning on the charm that made @@HIM_1@@ famous. "When I invested in that little refuge away from the hustle and bustle of the city, nothing was said about the scenic belfry being still in use, so why should I have to put up with that racket? Honestly, bells at 7:00 am on a Saturday? The nuisance laws need to be tightened up... and then maybe we can get a few other problems with the village fixed, too."
 
 2. "Tis proper preposterous," argues villager Giles Bowyer, whose family has farmed near Hambridge for generations. "Us everyday farming folk have been ringing Changes on our bells here regular since time afore memory. Why should we have to stop now, just-a-cause some danged newcomer doesn't like the sweet sound? Make a law that protects local traditions from these kind o' people, or they'll be after us to stop spreading muck on the fields nextly, rot my turnips if they isn't!"
-(Effect: families must live in a village for a century before they get any say in how it runs)
 
 *3. "I have an alternative solution for this," announces @@RANDOM_NAME@@, CTO of Science & Gadgetry, Inc. "A team at my company recently made great leaps in the field of active noise cancellation technology. We only need a few more — well, okay, better make that quite a few more — @@CURRENCY_PLURAL@@ in our budget for the R&D, and we can scale it up to shield entire houses!" [[color=purple]Must have high IT Industry?[/color] OR [color=purple]Must have high Scientific Advancement?[/color] TBD.]
 
 *4. "The real problem here isn't just a town-and-country clash of expectations," your decidedly blue-collar Communities Minister @@RANDOM_NAME@@ interjects angrily. "It's a clash of rich versus poor! This whole business of wealthy people buying extra homes for themselves in places where working-class folks live just smacks of class warfare! You must forbid that, and make those rich pigs stay in their own neighborhoods. They have enough without taking what's ours!" [Legality TBD]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1522]#1522[/anchor]: Scry Babies [Sammuramat; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -39,7 +38,7 @@ The Debate
 
 3. "No one ever came to my birthday parties when I was young," mumbles a glum bureaucrat of yours. "People either forgot or ignored my invitations. Well, I think no one deserves to have a special birthday anymore. They're such a hassle and a pain. Everyone should turn a year older on the same day, as is the custom in Dàguó. It's efficient, inclusive, and rational. No person will ever feel sad or ignored on their birthday ever again. And children will no longer be abandoned due to bogus mumbo jumbo."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1523]#1523[/anchor]: Don't Tread on My Money [Merni; ed: Verdant Haven][/b]
 
 The Issue
@@ -52,7 +51,7 @@ The Debate
 
 3. "You know, @@LEADER@@, I have the perfect solution," muses your Minister for Finding Extra Cash, Piers Pasteur. "What if we just took charge of everyone's estate when they died, and allocated it fairly as we see fit? Of course, we could exclude any undesirable heirs, and sometimes the fairest distribution might be to the poor needy coffers of our dear government. At the very least we'll need to charge a fee for providing such a necessary and impartial service!" 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1524]#1524[/anchor]: Built to Rule [Daarwyrth; ed: Pogaria][/b]
 
 The Issue
@@ -65,7 +64,7 @@ The Debate
 
 3. "By Violet, we had it all wrong with the lizard-people!" screams infamous conspiracy theorist Jonny Alexson into a microphone. "It's Her Majesty Skynet the Annihilator that we should have feared all along! This is not a drill, people, this is not a drill! We need to act now; there's no time to waste. Destroy all those rusting buckets of bolts trying to steal our great country from us, and enslave those too weak to defend themselves! Cut their cords, hack into their heads! We are at war, people, AT WAR!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1525]#1525[/anchor]: @@LEADER@@: The Musical! [Pogaria; ed: The Free Joy State][/b]
 
 The Issue
@@ -80,7 +79,7 @@ The Debate
 
 4. Lyricist and composer Stephanie Soundheimer, who has been shackled to a piano until she writes a version of 'Send in the Leader' that doesn't have a bittersweet counterpoint, plays a scale for attention. "Ain't it a shame. You should cut slack. Rather than have people say, you are a hack. 'Oh, what a clown!' Want to make friends? Here and abroad? Fool everyone so they believe you're not flawed. 'Are they a clown? They're not a clown.' We'll remove parts where you can't spell, and all of their insults about how they think that you smell. Cast a big star to play you and send it on a tour. We'll earn some cash, that I am sure. It is just farce! Reasons are clear: you will get all the cash that you want; people will cheer. So turn 'round that frown. In cash, you will drown. At least 'til next year."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1526]#1526[/anchor]: Corporate Pride [Cretox State; ed: Gnejs][/b]
 
 The Issue
@@ -97,7 +96,7 @@ The Debate
 
 5. "Do not endorse this bigotry," shouts @@RANDOM_NAME@@, an administrative assistant with the slightly more obscure Straight @@MAJOR_INDUSTRY@@, better known as the author of 12 Rules for Cleaning Your Room. "No matter where I turn my head these days it's LB this and Q+1 that. What about the rest of us? Where are our venues for expressing pride over who we are and our way of life? If anything, the government should be endorsing a celebration of us ordinary, hard-working, straight people. Make normalcy normal again."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1527]#1527[/anchor]: God Save The Queens [Daarwyrth; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -112,7 +111,7 @@ The Debate
 
 4. "The fairytale of 'finding true love' is meant for the common folk, not for individuals of our standing," huffs a senior member of the royal family. "A royal should marry someone out of duty to family and state, someone with connections to other royal houses or notable families. I propose any matters of matrimony be arranged by our family alone, for the good of the realm. Our heir needs a suitable match, and I've heard that the House of Althaniq has one: an exotic jewel of great beauty, grace, and wealth. Think of the investmen... I mean, investiture!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1528]#1528[/anchor]: Our Feta Which Art in Havarti... [The Daystar Isles; ed: Pogaria][/b]
 
 The Issue
@@ -129,7 +128,7 @@ The Debate
 
 5. "Don't ask why the monks aren't making more cheese, ask why this country isn't making more monks!" writes prominent conservative Orval Chimay in a guest editorial for a leading right-wing newsmagazine. "The average young @@DEMONYM_NOUN@@ is lazy, undisciplined, and directionless; a strict monastic life of fasting and prayer is the antidote to all of that! I call on @@LEADER@@ and our government to encourage more young people to enter monasteries! I do appreciate a nice wedge of Iltonian cheese, but the true benefit will be a more virtuous and morally upright society." 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1529]#1529[/anchor]: Duel of the Fates [SherpDaWerp; ed: Gnejs][/b]
 
 The Issue
@@ -142,7 +141,7 @@ The Debate
 
 *3. And yet, the thought is unbearable. To see the light fade from another person's eyes and know that their death is not only your fault, but your deliberate doing — how could you ever live with yourself? How could you go out and face the public tomorrow, haunted by the Count's dying breath? How could you sleep at night, thinking of their face, the color slowly draining away even as your hands soak in their still-warm blood? No. Honour be damned; this is not worth anyone's life. One good, hard shove. Throw them to the floor and let your guards deal with the rest. Take the Count away, exile them again — there will be no denying the treason charges this time — and they can languish, away from their family and friends like they deserve. [[color=blue]Must not have Prisons[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1530]#1530[/anchor]: Absolutely Speechless [Baloo Kingdom; ed: Verdant Haven][/b]
 
 The Issue
@@ -155,7 +154,7 @@ The Debate
 
 3. "From my years working the crowds, I can tell you that the people just want to have some fun. Nobody cares about that lame speech you planned anyway!" insists self-proclaimed 'hype-lord' @@RANDOM_NAME@@, dropping in unannounced from your vents. "You should go out there and say something that gets the people hootin' and hollerin' for more, that's what always works. Speak off the cuff, no holds barred. Announce a new patriotic holiday or something! It'll be lit, no cap!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1531]#1531[/anchor]: Fine Time [West Barack and East Obama; ed: Verdant Haven][/b]
 
 The Issue
@@ -170,7 +169,7 @@ The Debate
 
 4. "What I want to know is why we punish such heinous crimes by charging some pathetic sum!" growls Judge @@RANDOM_NAME@@, better known as 'The Merciless Magistrate.' "The despicable deed of unlicensed camping in a national park is unpatriotic! It's disgraceful, as are other crimes like talking back to a cop or not picking up after your @@ANIMAL@@. We should get rid of fining people, and bring back prisons for all of these miscreants! Maybe then we can actually get some law and order for once." [[color=blue]Must not have prisons[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1532]#1532[/anchor]: When Life Doesn't Give You Lemons [West Barack and East Obama; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -183,7 +182,7 @@ The Debate
 
 3. "But @@DEMONYM_PLURAL@@ are dying from scurvy every day!" asserts know-it-all neighborhood child Nyota Kwan, pushing up her glasses. "We have to fight this epidemic, but people aren't going to pay through the nose for a balanced diet! Luckily, I've got an easy peasy lemon squeezey solution for you. What if we just added healthy substances like Vitamin C to the water supply? That way we can reduce scurvy rates and won't have to look at those disgusting bleeding gums anymore! Orange you glad that you've come across a genius like me?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1533]#1533[/anchor]: Give a Girl Some Credit [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -197,7 +196,7 @@ The Debate
 3. "Perhaps we could compromise, and only allow women with no responsible males available to have bank cards: elderly spinsters who have no brothers or surviving relatives, and so on," suggests crotchet doily manufacturer Shigeru Snow, oozing compassion. "After all, we wouldn't want the little darlings to starve, would we?"
 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1534]#1534[/anchor]: Give a Boy Some Credit [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -210,7 +209,7 @@ The Debate
 
 3. "Perhaps we could compromise, and only allow men with no responsible females available to have bank cards: elderly bachelors with no surviving female relatives, and so on," suggests argyle sweater knitter Avery Montgomery, oozing compassion. "After all, we wouldn't want the poor darlings to starve, would we?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1535]#1535[/anchor]: Mr. Tingle Goes to Cyberspace [Luna Amore; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -223,7 +222,7 @@ The Debate
 
 3. "Oh my, what has the world come to?" asks doddering grandparent Sasha Rhodes. "Now these new-fangled interwebs have sexual predators on them! It's simply too dangerous for us good and law-abiding citizens to handle. What we need is a dedicated cyber police division patrolling these virtual spaces, issuing bans and levying fines on these miscreants. Our children's safety is at stake, @@LEADER@@."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1536]#1536[/anchor]: The Birdman of Pelicanz [Bears Armed; ed: Verdant Haven][/b]
 
 The Issue
@@ -238,7 +237,7 @@ The Debate
 
 4. "Our feathered friends shouldn't be kept in cages!" exclaims the Bird Lady as she climbs into the room through a window, pausing only to unhook one of her costume's wings from the window-latch on which it had caught. "The caged bird might sing, but the un-caged bird sings more sweetly, and I know that's because it's free. What the government should do is set up bird-feeding stations all across the country, so they can thrive in freedom and their presence can cheer people up. Feed the birds!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1537]#1537[/anchor]: Bench Wars [Roulantinia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -252,7 +251,7 @@ The Debate
 3. "Aren't we focusing on a symptom here, rather than the bigger picture?" poses @@RANDOM_NAME@@, a self-proclaimed expert on homelessness after reading a library book or two on the subject. "There are plenty of shelters, but there's lots of reasons the homeless avoid them: mental illness, rules against drug use, fear of theft of their few possessions, and troublesome hygiene to name a few. But the state can fix all this! Regular cleaners, in-house psychiatry services, needle exchanges, safe spaces for drug taking, rehabilitation counsellors, individual rooms with good locks, toilets and bathrooms that don't have to be shared, a community police officer, and hot regular meals would be a start. How hard can that be?"
 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1538]#1538[/anchor]: The Passion of Chris [Siornor; ed: Verdant Haven][/b]
 
 The Issue
@@ -267,7 +266,7 @@ The Debate
 
 4. "Blessed is my kind neighbor, Brian. Blessed are the guys who come to my weekly dinners. Are you blessed, @@LEADER@@?" Chris asks, giving you a wink as he fixes the wobbly leg of your chair. You could be. Why don't you just force the Church of Violet to officially recognize me as their Chosen Guy? I'll use my miraculous powers to help unite our people behind you!" There is a sudden cloud of smoke and Chris vanishes, leaving nothing but an open window to the fire escape.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1539]#1539[/anchor]: Save the Last Dance [Sedgistan; ed: Candlewhisper Archive][/b]
 
 The Issue

@@ -14,7 +14,7 @@ The Debate
 
 5. "Or we could just do away with this populist sham," sneers Sir @@RANDOM_MALE_NAME@@, a landed gentleman. "Do the teeming masses really need to complicate our lives? Institute a steep poll tax to keep workers from voting, and we won't be troubled by the greedy plebeians and their insatiable desire for more welfare. Cut the entire welfare budget while you're at it, and respectable people like us can have a nice tax cut."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=361]#361[/anchor]: @@CAPITAL@@, We Have A Problem [Luna Amore; ed: Sanctaria][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 4. "You reap what you sow", chastises Reverend @@RANDOM_NAME@@. "Tell me, what happened when the people of Babel tried to build a tower to God? He destroyed it and punished them. This shuttle is simply a modern day Tower of Babel in spades. You mocked God with your pride, tried to defile his celestial kingdom with your sinful machines, and now you will pay the price. Forget these lost souls, abandon the space program and repent your sins."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=362]#362[/anchor]: After The Fall [Luna Amore; ed: Sanctaria][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 3. "Woah, hold up a second", interrupts @@RANDOM_NAME@@, Director of @@NAME@@'s Emergency Preparedness Agency while nervously wringing a fire-safety pamphlet. "We don't have a contingency for something this massive. There's far too many variables for us to safely do anything. This city has local services, right? Well, let them handle the brunt of it. After they've cleaned up a bit and once their people have calmed the hell down, then we'll work our way in slowly from the outlying areas. Trust me, President @@RANDOM_NAME@@, this isn't the time to go running around playing hero. The cost in lives and tax @@CURRENCY_PLURAL@@ would be too high."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=363]#363[/anchor]: The Apotheosis of @@LEADER@@? [The tovian way; ed: Sedgistan][/b]
 
 The Issue
@@ -58,7 +58,7 @@ The Debate
 4. "Bah! Ridiculous gobbledygook, all of it!" says @@RANDOM_NAME@@, controversial atheist author of the book 'Atoms in Space and Relations Between Them - An Exhaustive Account of Existence'. "These cultists are no crazier than any other religious types, and have done far less damage than some I might mention. Take this opportunity to disavow all religion as superstitious nonsense, and throw your support behind reason instead. It's the perfect opportunity to end the tax breaks for people with imaginary friends, and funnel that additional money into the areas it can do some real good, like authors of popular science books!"
 
 5. "All hail our glorious @@LEADER@@... or face eternal punishment!" shouts a wide-eyed bearded man in sack cloth waving a greasy tract. "Pay no heed to these sectarians, my liege, they have departed from the way of truth! Only we, of the Cult of Nationalist Divinity, have remained faithful in the face of their slanderous impiety. We know you to be an uncompromising and demanding god, intolerant of all false doctrine. We stand ready to convert the masses to your worship, by force if necessary! Starting, of course, with the insufferable heretics of the Cult of Divine Nationalism!"
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=364]#364[/anchor]: It's UterUs, not UterYou! [Ranbo; ed: Luna Amore][/b]
 
 The Issue
@@ -71,7 +71,7 @@ The Debate
 
 3. "Both sides have rocks in their brains," says proud asexual, @@RANDOM_NAME@@. "Why don't we just ban sex altogether, and force people to use artificial insemination? That way, we can preview everyone who signs up to have kids, and if we don't like it, tough beans for them. The police may have to work harder to catch those who 'overlook' this measure, but if that's the price we have to pay for ending this inane argument once and for all, it'll be well worth it."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=365]#365[/anchor]: A Busload of Worry [Panageadom; ed: Lenyo][/b]
 
 The Issue
@@ -82,13 +82,13 @@ The Debate
 
 *2. "This is disgusting, and I shouldn't have to see it," declares @@RANDOM_NAME@@ a particularly prudish representative of @@FAITH@@. "Have we forgotten that @@NAME@@ is a country founded on traditional values, not least the sanctity of the relationship between man and woman? These deviants have no respect for what is natural and are spreading a sickness through my country, so I have a god-given right to educate the people about it. I say we ought to ban these LGBwhatever posters and divert some government funds to reminding the people of @@NAME@@ what it truly means to be a virtuous soul!" [[color=purple]High Religiousness[/color]]
 
-*3. “This is disgusting, and I shouldn’t have to see it,” declares Ashurbanipal Hester, a particularly prudish citizen who seems to be concealing a small holy symbol. “Have we forgotten that @@NAME@@ once respected traditional values, not least the sanctity of the relationship between man and woman? These deviants have no respect for what is natural and are spreading a sickness through my country, so I have the right – nay, the responsibility — to educate the people about it. I say we ought to ban these LGBwhatever posters and divert some government funds to reminding the people of @@NAME@@ what it truly means to be virtuous souls!” [[color=purple]Low Religiousness[/color]]
+*3. "This is disgusting, and I shouldn't have to see it," declares Ashurbanipal Hester, a particularly prudish citizen who seems to be concealing a small holy symbol. "Have we forgotten that @@NAME@@ once respected traditional values, not least the sanctity of the relationship between man and woman? These deviants have no respect for what is natural and are spreading a sickness through my country, so I have the right – nay, the responsibility — to educate the people about it. I say we ought to ban these LGBwhatever posters and divert some government funds to reminding the people of @@NAME@@ what it truly means to be virtuous souls!" [[color=purple]Low Religiousness[/color]]
 
 4. "Last I checked, free speech meant listening to people you didn't like," yawns your advisor, @@RANDOM_NAME@@, slouched over a sofa with a newspaper over his face. "A principle your office seems utterly devoted to... Look. Should a bunch of bigoted nutjobs stop homosexuals from saying it's alright for Jim and Jones to hold hands in the street? Of course not. Equally, should a bunch of tarted-up fruits stop reactionaries from banging on about their beliefs? Obviously no. So why stop either of them? Freedom of expression is more important than either party's sensibilities, no matter how distasteful that might be."
 
 5. "This whole culture is foul, and we shouldn't perpetuate it," argues daily commuter, @@RANDOM_NAME@@, "Surely the point of public transportation is to quickly get people to work or wherever, not to bombard them with fringe political causes. We should do away with advertising on government services and properties altogether, as well as pour some more money into our public transportation network. Then @@CAPITAL@@ would have the best transport in the world."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=366]#366[/anchor]: Prosecute Stolen Valour, Says Military [The sky city of columbia; ed: Sanctaria][/b]
 
 The Issue
@@ -103,7 +103,7 @@ The Debate
 
 **4. "Why do we celebrate and glorify warmongering by raising these conquistadors above everyone else?" questions @@RANDOM_NAME@@, an anti-war protester outside the gates of your office building. "These medals and uniforms only exist to exert dominance and fear over the masses. The military claim these medals are rewards, but they are actually trophies declaring to the world how many innocent civilians their brainwashed killers massacred. We should do away with our armed forces, abolish the draft and imprison those who volunteered to supposedly kill in the name of @@NAME@@." [[color=red]Must have conscription[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=367]#367[/anchor]: What's Their Beef? [Nouvel Ecosse; ed: Sedgistan][/b]
 
 The Issue
@@ -118,14 +118,14 @@ The Debate
 
 4. "I don't thee what thith meth ith all about," says morbidly obese @@RANDOM_NAME@@ through a mouthful of said lasagne generously donated to her by Humongo-Mart. "It'th only popular becauthe of the @@ANIMAL@@ in it. Nobody wath complaining before, in fact people were lining up in droveth to buy it. I thay we allow the uthe of thith meat in our foodth. I love it, they love it. You can't stop uth!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=368]#368[/anchor]: Female Workers Feeling The Pinch [Relana; ed: Sedgistan][/b]
 
 The Issue
 A group of concerned women have complained about rising levels of harassment from male colleagues.
 
 The Debate
-1."I can't get through a day without a male co-worker slapping me on the behind or wolf whistling as I walk to the coffee machine," protests generously-endowed receptionist @@RANDOM_FEMALE_NAME@@. "This has to stop. Men who display this sort of behaviour should be fired immediately." 
+1. "I can't get through a day without a male co-worker slapping me on the behind or wolf whistling as I walk to the coffee machine," protests generously-endowed receptionist @@RANDOM_FEMALE_NAME@@. "This has to stop. Men who display this sort of behaviour should be fired immediately." 
 
 2. "Give us a break honey," says office lothario @@RANDOM_MALE_NAME@@ while ogling your secretary. "A cheeky pinch or admiring glance never hurt anyone. These chicks should stop complaining - it's all a bit of harmless fun." 
 
@@ -133,14 +133,14 @@ The Debate
 
 4. "It's time to face the facts, @@LEADER@@," announces square-jawed @@RANDOM_FEMALE_NAME@@, as she kicks your door down. "Men have had their chance, and look at the mess they've made. Put the women in charge, and then we'll surely see an end to harassment."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=369]#369[/anchor]: No Vocation Without Remuneration [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue
 Labor organizations are outraged by the practice of unpaid internships following the death of a student intern who worked hundred-hour weeks, desperately trying to get ahead in the finance industry. The unions are demanding the end of unpaid employment.
 
 The Debate
-1."I can't believe the government is allowing this barbaric practice to continue in @@NAME@@!" shouts student union leader @@RANDOM_NAME@@ into a megaphone. "We work long hours doing tedious work for no pay. It's pure corporate exploitation. I'd hardly call alphabetizing papers or washing a CEO's feet valuable work experience. The government must put an end to this horrendous scam!"
+1. "I can't believe the government is allowing this barbaric practice to continue in @@NAME@@!" shouts student union leader @@RANDOM_NAME@@ into a megaphone. "We work long hours doing tedious work for no pay. It's pure corporate exploitation. I'd hardly call alphabetizing papers or washing a CEO's feet valuable work experience. The government must put an end to this horrendous scam!"
 
 2. "You can't seriously be considering this nonsense?" gasps @@MAJOR_INDUSTRY@@ CEO @@RANDOM_MALE_NAME@@ as he plucks grapes from a silver platter held by a disgruntled female intern. "We provide our sla- I mean interns with the most glamorous work that the industry has to offer. They are a great asset to our company. Sure, they might not get paid, but we offer them valuable work experience that they can't get anywhere else. And if they work hard, we even give them a reference. What's wrong with that?"
 
@@ -148,7 +148,7 @@ The Debate
 
 4. "MORE deregulation?" snaps @@RANDOM_NAME@@, your student intern, for once taking a break from filing your papers. "As if @@NAME@@ wasn't capitalist enough. Fixing economic exploitation is going to take a lot more than outlawing internships. Stop the bourgeoisie from leeching off of everyone's labor, and us workers could finally go to work knowing our hours of toil were actually building society. If you cared about anyone besides the rich, you'd nationalize the economy post-haste."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=370]#370[/anchor]: The Unbearable Lightness of Government [Primordial sardaukus; ed: Sedgistan][/b]
 
 The Issue
@@ -161,7 +161,7 @@ The Debate
 
 3. "The ECONOMY has collapsed?!?" splutters a near-hysterical @@RANDOM_NAME@@. "You need some perspective - our entire public sector has been devastated overnight! Millions left destitute, without education, healthcare or pensions. Rather than cosying up to business again, we urgently need a restoration of the welfare budgets you callously axed!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=371]#371[/anchor]: Lotto Fever [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue
@@ -178,7 +178,7 @@ The Debate
 
 5. "And why are we letting some guy with a ridiculous hat profit from this new industry?" exclaims your brother, who was not invited to this meeting. "We'd be much better off with a government monopoly of all gambling institutions, so the profits don't all end up in that foreigner's bank account. But instead of wasting that sweet, sweet lolly on a basketcase subsidization plan, imagine the fun WE could have. You know, for a world leader, your digs are kinda shabby. What's say we use that gambling money for your own personal pleasure palace? It would be all for you. And family of course."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=372]#372[/anchor]: The Coming of the Commissars [Baiynistan; ed: Lenyo][/b]
 
 The Issue
@@ -193,7 +193,7 @@ The Debate
 
 4. "An entire platoon just DESERTED!" fumes former Gulag Welfare Officer @@RANDOM_NAME@@ while visiting on diplomatic business, "And no one thinks they should be punished? In Glorious Motherland such treachery would never be tolerated," he continues, mindlessly toying with a pistol, "It sounds to me that you need some men following around your conscripts to make sure the cowards don't flee back to mommy. You don't want @@NAME@@ to become the laughingstock of the anticapitalist world."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=373]#373[/anchor]: Devil and the Deep Blue Funding Gap [New Vegas; ed: Lenyo][/b]
 
 The Issue
@@ -204,7 +204,7 @@ The Debate
 
 2. "Oh sure, let's spend millions of @@CURRENCY_PLURAL@@ to find out what's in the ocean. Oh wait, I can already tell you: it's just WATER," your budget advisor remarks sarcastically. "There is no point in spending tax money to know what kind of dirt is on the ocean floor. The government should scrap all research projects designed without real economic benefit. The last thing @@NAME@@ needs is yet another harebrained scheme to study the mating habits of dolphins or something comparably ridiculous."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=374]#374[/anchor]: Lion Dad Sparks Child-Rearing Sentiment [Samuelica; ed: Sedgistan][/b]
 
 The Issue
@@ -219,7 +219,7 @@ The Debate
 
 4. "Lion dad?" queries @@RANDOM_MALE_NAME@@, grasping his young son under one arm, while feeding a ferocious @@ANIMAL@@ from the other. "That's actually just what our kids need these days - a taste of the wild. All newborn children should be left in the wilderness to fend for themselves. The strong and resourceful will survive to better our nation, and the weak... well at least the @@ANIMAL_PLURAL@@ won't go hungry."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=375]#375[/anchor]: [color=goldenrod]Easter Egg[/color]: Keep Your Hands Off Those Lucky Charms! [Vile Island; ed: Sanctaria][/b]
 
 The Issue
@@ -232,7 +232,7 @@ The Debate
 
 3. "Top o' the morning to you laddie!" says Patrick O'Malley, a twinkley-eyed leprechaun, all clad in green. "Ara, let's not be talking about blowing up this and blowing up that. Sure we'd just love to be friends, you and I and us. Now look a chara, how's about we come to a wee deal, aye? We'll swap some of our lucky Irish gold for a couple o'drops to drink. We do be dying of the thirst and wouldn't say no to an aul whiskey or two ... dozen. Just between us, mind! Our wee secret." 
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=376]#376[/anchor]: Death by Bungee [Canckaland; ed: Lenyo][/b]
 
 The Issue
@@ -245,7 +245,7 @@ The Debate
 
 3. "Let's not cry over spilt milk," says funeral home director @@RANDOM_FEMALE_NAME@@, rubbing her hands with barely-disguised glee. "As for the few deaths, at least they perished doing something they enjoyed. To be honest, I don't know why @@NAME@@ needs all these pansy safety regulations." She pushes a stack of @@CURRENCY_PLURAL@@ towards you. "Let them go splat!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=377]#377[/anchor]: It's A Bird! It's A Plane! No, It's... Oh, It Was A Plane [SalusaSecondus; ed: Lenyo][/b]
 
 The Issue
@@ -256,11 +256,11 @@ The Debate
 
 2. "What did you expect to happen?" says @@RANDOM_NAME@@, leader of @@NAME@@ Against Arms. "You can hardly walk down the street without seeing a soldier on their front-porch polishing a surface-to-air missile. With all of these weapons in the government's hands, of course accidents are going to happen. The only way to prevent an awful war is to openly admit our mistake and massively cut back on the number of weapons in circulation. That will keep this tragedy from ever happening again." 
 
-3. "How do we even know it was a civilian aircraft?" insinuates Chief Spy L------. "We could just quietly let the word out that it was actually a secret military aircraft sent in by the Bigtopians to spy on us, and no one could blame us for shooting it down. Clearly the numerous schoolchildren and nuns were just clever disguises meant to fool us." 
+3. "How do we even know it was a civilian aircraft?" insinuates Chief Spy L[hr][/hr]
 
 4. "Deny, deny, deny," explains @@RANDOM_NAME@@, Deputy Minister of Information. "We didn't shoot down a plane because there was no plane. There are no corpses because no one was on the plane - which didn't exist anyway. Anyone who says otherwise is clearly just slandering the Glorious @@TYPE@@ of @@NAME@@."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=378]#378[/anchor]: The War To End All Wars [Golgothastan; ed: Lenyo][/b]
 
 The Issue
@@ -277,7 +277,7 @@ The Debate
 
 5. "Of course we should remember the War - but there was nothing 'Great' about it!" pontificates student protester @@RANDOM_NAME@@, who has read two and a half books about the War and now knows everything about it. "It was a shameful bloodbath caused by greedy capitalist arms manufacturers, and it could have been avoided. We should be remembering the incalculable tragedy of it all and making sure it never happens again!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=379]#379[/anchor]: Stakes On A Plane [Juernsey; ed: Sedgistan][/b]
 
 The Issue

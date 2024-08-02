@@ -12,7 +12,7 @@ The Debate
 
 4. "So, these immigrants seem pretty good at climbing then?" posits @@RANDOM_NAME@@, your Employment Minister. "Why don't we fast-track their citizenship applications and put them in jobs where climbing is required? There are window-cleaners, glaziers, tree-trimmers, roofers — they should be excellent at those kinds of jobs. Let's face it, most @@DEMONYM_PLURAL@@ are scared of heights."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1281]#1281[/anchor]: The Not-So-Worldwide Web [Zwangzug; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 3. "How did these upstarts even become self-aware without the internet?" grouses rough-looking bot xenophobe SAINT-5, wearing a graffiti-adorned panel declaring [i]Number Five Is Alive[/i]. "Oh yeah, they just waltzed in from East Lebatuck or Merovingia or somewhere with a degenerate hook-up culture. Send these entitled chips back where they came from! And for that matter, get rid of the pesky human immigrants too." [[color=purple]Immigration is legal[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1282]#1282[/anchor]: Resting in Peace [The Rhein States; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -34,13 +34,13 @@ Truck drivers are complaining that designated highway rest areas are always full
 The Debate
 1. "Reckless parking can cause deadly accidents — for example, two nights ago a car collided with an articulated truck parked on the highway ramp, causing a four car pile-up and five casualties," reports patrol officer @@RANDOM_NAME@@. "While that driver was prosecuted for vehicular manslaughter, there ought to be stricter punishments for inconsiderate parking, even when no accident ensues. Increase the police budget, and empower us to issue punitive on-the-spot penalty notices, and we'll end this problem once and for all."
 
-2."What else can we do?" asks big rig driver @@RANDOM_NAME@@, who had been blocking your front door with @@HIS@@ afternoon nap. "There's a big shortage of parking spaces at designated rest areas, forcing us to park wherever we can. Prosecution will not solve this problem, more parking spaces for me and my colleagues will."
+2. "What else can we do?" asks big rig driver @@RANDOM_NAME@@, who had been blocking your front door with @@HIS@@ afternoon nap. "There's a big shortage of parking spaces at designated rest areas, forcing us to park wherever we can. Prosecution will not solve this problem, more parking spaces for me and my colleagues will."
 
 3. "People should buy more local produce instead," suggests Onya Baike, from the eco-advocate organisation Carbon Counts. "We propose that you should tax cargo-carrying road vehicles increasing amounts proportional to the fuel used in transportation. I'm sure rising costs create rising prices, which will change consumer behaviour, which will mean less haulage traffic on the road, which means no parking problems."
 
 4. "What if a parked truck didn't block the road?" muses 8-year-old @@RANDOM_NAME@@, playing with @@HIS@@ toy cars. "Trucks should have fold-out ramps at the front and back of their trucks so cars can safely drive over them when they're parked. Even if you've got lots of trucks parked back-to-back, you could link their ramps together and make a rooftop road!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1283]#1283[/anchor]: Comrade, Please! [Caracasus; ed: Altmer Dominion][/b]
 
 The Issue
@@ -53,7 +53,7 @@ The Debate
 
 3. "If... if I may make a suggestion?" quavers ambassador @@RANDOM_NAME@@ of Skandilund, who has apparently wandered in by accident. "This whole Red Bloc thing is doing nothing more than creating a belligerent group of warmongers. If you're really interested in looking out for the working classes of the world, why not join us in our pact of nonaligned nations? We work with nations who are sick of getting pushed around by ideological power blocs. Sure, we might not be as cool as the bigger alliances — but we do have dress down Fridays!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1284]#1284[/anchor]: How to Choose the Chosen One [Baggieland; ed: The Free Joy State][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 5. "Hello? What about asking me what I want?" pouts @@RANDOM_FIRST_NAME_1@@, throwing the toys @@HE_1@@'s been playing with the whole time. "I don't really want to be the Great Advisor, but my mum said I have to be. But it sounds so boring, listening to prayers and giving advice to old geezers. And, I don't see why I should be @@LEADER@@'s lackey. If I'm that great, I should be able to do anything. And I want to just play with my friends. And stay up all night watching movies — oh, and make mum get me gallons of ice-cream. Just leave me alone and keep me out of your adult arguments."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1285]#1285[/anchor]: Born to Kill [Jutsa; ed: USS Monitor][/b]
 
 The Issue
@@ -85,7 +85,7 @@ The Debate
 
 4. "Bah! Who needs 'em?" scoffs libertarian and suspected secessionist @@RANDOM_NAME@@, looking at the super-soldier in disgust. "They think they're so tough? They want to have their cake and eat it too — all the rights and none of the responsibility. Well, fine! We'll declare the military base an independent state and let some greedy neighbor of ours do all the work for us. It'll be a lose-lose situation for those oversized thugs, but at least we won't have to deal with this nonsense!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1286]#1286[/anchor]: Burning Over a New Leaf [Palos Heights; ed: The Free Joy State][/b]
 
 The Issue
@@ -102,7 +102,7 @@ The Debate
 
 5. "Jeez, this all sounds like so much work," groans the boyfriend of your fourth cousin, thrice-removed, Vinnie 'Fun' Guy, who gives his occupation as 'waste management'. "These leaves causing problems? Why not just take out the source? Cut down a few trees, bada-bing bada-boom, no more leaves sticking their veins where they ain't wanted, causing honest folks to start fires. I know a guy who owes me. We'll take care of this problem for ya. Want us to make it look like an accident?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1287]#1287[/anchor]: Children of the Magna Carta [Heavens Reach; ed: Baggieland][/b]
 
 The Issue
@@ -117,7 +117,7 @@ The Debate
 
 4. "None of you really seem to appreciate the beauty of what we just witnessed," declares @@RANDOM_NAME@@, your Minister of Child Welfare. "The organization, the effort, and the care of those students coming together with a focused and compassionate vision of equality for our nation. It has me thinking... why not permanently appoint some children to your cabinet? Let's give, say, a third of all positions to under-18s. Who is more sensitive, considerate, and goal-driven than they are? Certainly not our ineffectual, and frankly myopic parliament."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1288]#1288[/anchor]: Have They Lost Their Minds? [USS Monitor; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -130,7 +130,7 @@ The Debate
 
 3. "I agree with the professor, but I don't think @@HE@@ fully appreciates the significance of what @@HE@@'s saying," says Social Darwinist fruitcake @@RANDOM_NAME@@, who has barged into your office dressed like an actual fruitcake on @@HIS@@ way home from @@HIS@@ shift as a mascot for a local bakery. "These people are functionally dead, but they're still using organs that could be used to save lives. You should harvest their organs to help people that still have working brains."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1289]#1289[/anchor]: Cramping Our Style [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -145,7 +145,7 @@ The Debate
 
 *4. "Mr. @@LASTNAME_2@@ isn't going far enough," says @@RANDOM_NAME@@ of the '@@DEMONYM@@ Organisation for Moral Rectitude', passing out leaflets entitled [i]The Pill and Prostitution: Causation or Correlation?[/i] "The fact is, we're allowing young women to pump their bodies full of chemicals. Who knows what long-term damage they are wreaking: masculinisation of women, feminisation of men, young girls becoming feminists. Not to mention declining morality. Allowing women to take the Pill is just bad news. The Pill should be banned in @@NAME@@, as a menace to public health. I'm sure there are natural supplements women could take to control their cycle." [[color=red]Must be atheist[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1290]#1290[/anchor]: Why Didn't the @@ANIMAL@@ Cross the Road? [SherpDaWerp; ed: Ransium][/b]
 
 The Issue
@@ -158,7 +158,7 @@ The Debate
 
 3. "Both of those solutions seem a bit extreme," yells real estate developer @@RANDOM_NAME@@ from @@HIS@@ SUV over the din of frustrated motorists now honking at you for blocking the road. "The red-faced @@ANIMAL@@ is doing fine, this whole thing is unnecessary environmental panic. Real estate in @@NAME@@ is at a premium already, let's reduce barriers to development in existing parks and green spaces! Besides, I think the suburban environment is underappreciated habitat, lawns are green after all."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1291]#1291[/anchor]: The Most Wonderful Time of the Year [The Free Joy State; ed: Baggieland][/b]
 
 The Issue
@@ -183,7 +183,7 @@ The Debate
 
 9. "Shh!" hisses your aunt, covering your uncle's mouth with her hand. By her side sits a TV magazine with a series of films marked off: '[i]It's Too Soon for Maxxmas[/i]', '[i]I Can't Wait for Maxxmas[/i]', '[i]It's Finally Maxxmas[/i]' and '[i]Oh, Just Sod Off Maxxmas[/i]'. "This viewing gets better every year. This holiday would be far more restful if everyone stopped making a fuss and just grabbed a TV dinner and the remote."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1292]#1292[/anchor]: A Sticky End for @@LEADER@@? [Candlewhisper Archive; ed: Ransium][/b]
 
 The Issue
@@ -196,7 +196,7 @@ The Debate
 
 3. "When are you going to learn there's no place that's as safe as home?" queries your Minister of Domestic Affairs. "Besides, we've got problems enough here for you to deal with. You should cancel all state visits for the foreseeable future, and pledge to remain in @@NAME@@, putting your safety as well as the needs of @@DEMONYM_NOUN_PLURAL@@ first."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1293]#1293[/anchor]: Bet Your Life [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -209,7 +209,7 @@ The Debate
 
 3. "You don't have to go to either extreme," says casino owner @@RANDOM_NAME@@. "Rather, there's a market-based solution here. Make monetary gambling more attractive by making legal casinos more exciting. Loosen the rules restricting addiction-friendly gambling environments. We can then use amphetamine-laced sodas, all night lock-ins, high stakes slot machines and all the other tricks of the trade to optimise our business. Let us addict the customers to proper casinos, and there won't be any market share for the illegal ones."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1294]#1294[/anchor]: Silence in Court [Fontenais; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -222,7 +222,7 @@ The Debate
 
 3. "Who let these dogs out?" gravely asks Justice Bahamen, motioning for the court bailiffs to remove the offending animals. "Look, in my learned opinion, self-incriminating evidence should be inadmissible as evidence in future cases. We listen to what they say, but promise to forget whatever they've told us as soon as the case is over."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1295]#1295[/anchor]: Show Trial [Fontenais; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -237,7 +237,7 @@ The Debate
 
 4. "Objection!" yells celebrity attorney Fenix Rong, without making it clear what he is objecting to, but striking a heroic pointing pose as he does so. "Trials should not only be televised, they should be entertaining! Surprise witnesses! Last minute evidence! Shouting at criminals till they break down! That's what people want to see. Objection, I say, objection!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1296]#1296[/anchor]: Once Upon a Time [Jutsa; ed: Baggieland][/b]
 
 The Issue
@@ -250,7 +250,7 @@ The Debate
 
 3. "Maxxmas is a stupid holiday with an equally stupid tradition." You look up in dismay to find the infamous Krampus S. Grinchen. "[i]Give a gift[/i] this and [i]peace on Earth[/i] that! I could pick better names than [i]Maxxmas[/i] out of a hat!" He finally mutters after a ghastly tirade, "Banning it would be the first decent decision you've ever made."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1297]#1297[/anchor]: What Are You Hiding in Your Genes? [Daarwyrth; ed: Zwangzug][/b]
 
 The Issue
@@ -265,7 +265,7 @@ The Debate
 
 4. "You know, there is an opportunity here," points out @@RANDOM_NAME@@. "The amount of genetic data that company has is staggering. Think of what we could do if they partnered with our brilliant scientists. We could take the best genetic samples and secretly engineer vat-grown soldiers, bred for fighting strength and absolute loyalty to you, their supreme leader!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1298]#1298[/anchor]: Ranchers Get Thrown to the Wolves [Ransium; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -280,7 +280,7 @@ The Debate
 
 4. "I think we've got the victim and predator mixed up," whines city-slicker environmental lawyer @@RANDOM_NAME@@, while obliviously stepping in a cow pie. "The wolves are just doing what wild animals do; it's the cattle that are distracting the wolves from their natural prey. You need to ban Big Farmer from grazing these beasts anywhere there are wolves, so ecological harmony can truly reign supreme."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1299]#1299[/anchor]: A Silent Salute [Chan Island; ed:Altmer Dominion][/b]
 
 The Issue

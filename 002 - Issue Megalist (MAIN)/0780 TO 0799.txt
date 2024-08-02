@@ -10,7 +10,7 @@ The Debate
 
 3. "As always, there is a third option," muses a passer-by with a voice of confidence. "There is no doubt that this tax disproportionately affects the poor, but we also can't deny that it helps fund programmes that the poor themselves benefit from. Might I suggest reducing VAT on basic necessities while increasing it on luxury items? The rich might not like it, but it's high time that they paid their dues to society and their fellow citizens."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=781]#781[/anchor]: The White Man's Burden [The Marsupial Illuminati; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 [5]. "Within the Ashen Ones, the spirit of the divine dwells," proclaims @@RANDOM_NAME@@, Grand High Poobah of the Order of Violet. "Their eyes, the windows to the soul, reveal this to be Truth. One observes the lavender ghost of the great Mistress Violet typing within, Her presence on earth made physical. That is why the rest of their bodies lack any color; the whole existence of the albino is devoted to housing the Holy. It is written; they must be revered! Pay tribute to our albino masters, @@LEADER@@, and lay your nation's riches at their feet." [[color=blue]Must allow Violetism[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=782]#782[/anchor]: Sit-Down Money [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 [4]. "This doesn't make any sense," mutters your shy teenage nephew almost inaudibly, hiding his face behind his uPad. "Being physically present at your school or workplace is so outdated - and unnecessary, if you ask me - thanks to the latest developments in technology. You should ban the commute, and subsidise remote working. People can just attend classes online or communicate with their colleagues via Trype. This will solve the traffic problem, and also help reduce the social anxiety that some people might feel in face-to-face interactions." [[color=blue]Must have internet[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=783]#783[/anchor]: Sergeant McCool Reporting For Duty [Annihilators of Chan Island; ed: The Free Joy State][/b]
 
 The Issue
@@ -57,7 +57,7 @@ The Debate
 
 4. "When an engineer joins, we put them to work fixing stuff," explains Army logistician, @@RANDOM_NAME@@, moving a battalion of toy soldiers from one side of your desk to another. "Why not use this pop singer's talents? We'd welcome him into the Army, but never put him on the front line. Instead, he'd fly from base to base singing to adoring uniformed fans, pose for recruitment posters, and go on TV to praise the glory of our great nation. He will serve beautifully."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=784]#784[/anchor]: The Driving Force [Petreniax; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -74,7 +74,7 @@ The Debate
 
 5. "That's the face of corporate evil, right there," whispers radical environmentalist Egon Mist, pointing not just at the oil lobbyist, but at all four of the previous speakers. "@@NAME@@ needs to free itself of this culture of seeing ecology-destroying transportation as a right. Our ancestors got around fine on foot, and never needed to travel more than a hundred miles from the place of their birth. Get rid of them all: cars, trains, buses, planes, and anything with an engine. That's the way back to a greener and better world."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=785]#785[/anchor]: Born To Be My Baby [Frieden-und Freudenland; ed: Nation of Quebec][/b]
 
 The Issue
@@ -89,7 +89,7 @@ The Debate
 
 4. "That's a terrible idea. Nobody should put baby in a corner!" grumbles @@RANDOM_NAME@@, the director of @@CAPITAL@@ Minimum Security Orphanarium, cradling a baby in @@HIS@@ arms, while two other toddlers clutch at @@HIS@@ clothes. "Our institution is overflowing with poor orphans. Wouldn't it be better if you just provided financial incentives, perhaps paid for with a small tax increase, for infertile couples to adopt?" Taking advantage of your momentary absent-mindedness, @@HE@@ puts the baby on your lap. "Speaking of adoption, would you like to take care of this adorable little girl? I think she likes you."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=786]#786[/anchor]: Tainted Tattoos [Nuremgard; ed: Nation of Quebec][/b]
 
 The Issue
@@ -104,7 +104,7 @@ The Debate
 
 *4. "The only people who wear tattoos are criminals and gangbangers," reminds police officer @@RANDOM_NAME@@, who heads the Gang Warfare division of the @@CAPITAL@@ police force. "It's about time we banned tattoos and other bodily modifications. They give people this idea that they're 'cool', which leads them towards a path of crime. Banning them will reduce crime, and make it tougher for the gangs to identify each other. That makes my job easier." [[color=purple]Must lean towards being secular[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=787]#787[/anchor]: Come Fly With Me [Thyerata; ed: Pogaria][/b]
 
 The Issue
@@ -117,7 +117,7 @@ The Debate
 
 3. "Why do we even have airplanes in the first place?" asks elderly protestor @@RANDOM_NAME@@, waving a "Just Plane Stupid" banner. "Airplanes are noisy, polluting monstrosities that are prone to frequent maintenance delays and flight cancellations. I say we should get rid of airplanes and invest in public transport... by which I mean domesticating the @@ANIMAL@@ and teaching people to ride them."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=788]#788[/anchor]: Duel Purposes [Singapore no2; ed: Ransium][/b]
 
 The Issue
@@ -136,7 +136,7 @@ The Debate
 
 6. Several security guards burst forcefully into your office, almost destroying your front door in the process, as the 'Count' ducks behind a pillar. "We are deeply sorry for our failure to protect you!" apologizes @@RANDOM_NAME@@, Head of Security, grabbing your arm and hastily leading you out of the room. "Clearly, allowing dueling to solve political disputes will quickly deplete us of all our leaders and politicians, including you. You just have to ban people from challenging politicians to duels, and call it a day."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=789]#789[/anchor]: [color=red][i]@@CAPITAL@@gate[/i][/color]: @@CAPITAL@@gate [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Issue
@@ -149,7 +149,7 @@ The Debate
 
 3. "Instead of working against Mr. Maxman, why not work with him?" suggests Frankie Willis, your Minister of Sunshine, Lollipops, and Rainbows. "Barry is pretty popular, and it wouldn't hurt you to borrow some of his credibility. We... no... YOU need to apologize to him, along with anyone else who was victimized, and work with him to improve your public image. I bet you'll find that you'll survive this scandal much better by playing nice as opposed to acting belligerent. Who knows, he might even have some good ideas on how to actually run this country!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=790]#790[/anchor]: [color=red][i]@@CAPITAL@@gate[/i][/color]: The Art Of The Distraction [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Story So Far
@@ -165,7 +165,7 @@ The Debate
 
 3. "I hate to say 'I told you so,' but I told you so!" rebuffs Propaganda Ministry aide Virgil van Houten, as he emerges from his hiding spot in your coat closet. "To be honest, the only one who truly understands @@NAME@@ is the person who has been running it. We need to start cracking down hard on the media, protesters, and that pesky Barry Maxman just like I said. It's obvious that he's engaged in un-@@DEMONYM@@ activities. You come up with some trumped-up charges and I'll plant the evidence."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=791]#791[/anchor]: [color=red][i]@@CAPITAL@@gate[/i][/color]: The Smoking Gun? [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Story So Far
@@ -181,7 +181,7 @@ The Debate
 
 3. "Hmm... if Maxman seems too much of a goody-goody to be true, he probably is," muses Director of State Security @@RANDOM_NAME@@, waving a bug detector wand around your office. "He's almost certainly an East Lebatuckese infiltrator, out to destabilize our fine nation. The reason why there's no evidence is because East Lebatuckese spies are good at covering their tracks. What we need is to set up [i]The Committee On Un@@DEMONYM@@ Activities[/i] to assess the loyalty of everyone in @@NAME@@, including journalists and politicians who are a little too critical or annoying."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=792]#792[/anchor]: [color=red][i]@@CAPITAL@@gate[/i][/color]: Why Can't We Be Friends? [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Story So Far
@@ -197,7 +197,7 @@ The Debate
 
 3. One of your more sinister advisers approaches you and whispers in your ear. "We have Maxman in our grasp! We need to arrest him now before he goes off the radar. You can even spin it that you tricked the traitor into letting his guard down by inviting him to meet with you. Now that's a win-win solution! Well, not for Maxman, I suppose."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=793]#793[/anchor]: [color=red][i]@@CAPITAL@@gate[/i][/color]: Knock Knock. Who's There? Not You Anymore! [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Story So Far
@@ -215,7 +215,7 @@ The Debate
 
 4. "Well you've cleaned house, but there's still one thing you haven't done," observes Barry Maxman, who is currently in the process of writing a tell-all book about his ordeal. "Even if you say you weren't directly involved in these corrupt activities, they still happened under your watch, and under your administration. I suggest that you take responsibility for once in your life, and throw yourself in prison. It's the morally right thing to do. Remind the people that nobody is above the law, not even you."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=794]#794[/anchor]: [color=red][i]@@CAPITAL@@gate[/i][/color]: Fear And Loathing In @@CAPITAL@@  [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Story So Far
@@ -233,7 +233,7 @@ The Debate
 
 4. "There probably are REAL East Lebatuckese spies lurking in @@NAME@@, hidden deep undercover," replies secret agent James Bont, back from a successful mission that thwarted a cat-loving supervillain's plot for world domination. "I seriously doubt this Maxman is one of them. What you should be doing is investing in the spy agencies and police, so we have the proper funding and equipment to catch these guys. Background checks on all citizens would be a good place to start. Sure, it doesn't really solve the scandal, but the people's minds will be more focused on whether their neighbor is a spy, not some scandal that's yesterday's news."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=795]#795[/anchor]: [color=red][i]@@CAPITAL@@gate[/i][/color]: Lock Him Up! [Nation of Quebec; ed: Nation of Quebec][/b] 
 
 The Story So Far
@@ -251,7 +251,7 @@ The Debate
 
 4. "If the people want a face-off with you and Maxman, let's give them one!" gleefully suggests Lucy Commodus, your assistant who happens to be an avid historical reenactor. "Why not a televised sword-fight to the death with you and Maxman at @@CAPITAL@@ Square? We'll dull his blade and slip some sedatives into his water to make sure you win. Not only will this take care of the Maxman problem, but you'll look like a badass at the same time."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=796]#796[/anchor]: [color=red][i]@@CAPITAL@@gate[/i][/color]: It's Dangerous To Go Alone! [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Story So Far
@@ -269,7 +269,7 @@ The Debate
 
 4. "All of you are nuts!" exclaims opposition politician @@RANDOM_NAME@@, as your bodyguards struggle to hold @@HIM@@ back at your doorway. "It's good that you're taking steps to improve the government's reputation after @@CAPITAL@@gate, but becoming an authoritarian despot is hardly the way to do it! If you want a true test of how the people feel about you, call a General Election, and prove you have a democratic mandate! That will win more hearts and minds than tyranny ever will."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=797]#797[/anchor]: [color=red][i]@@CAPITAL@@gate[/i][/color]: Yesterday's News [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Story So Far
@@ -295,7 +295,7 @@ The Debate
 
 8. "The real question is why is this being taught in schools at all?" queries an eager young intern, who literally worships the ground you walk on. "Yeah, @@CAPITAL@@gate isn't exactly a bright spot in @@NAME@@'s history, but you know some of these teachers will use it as propaganda against you. It's best if we all simply forgot about it, and ban any teachings or depictions of the scandal from here on out."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=798]#798[/anchor]: A Periodic Issue of Elementary Nature[Island of Stability; ed: Ransium][/b]
 
 The Issue
@@ -310,7 +310,7 @@ The Debate
 
 4. "Woah, woah, woah!" gasps an increasingly incredulous undergrad, who happens to be passing by a window on the way to the library. "How the heck are we supposed to remember anything about it from names like that? We should name the elements after what they actually do! Like this new one can be called 'Lastslessthanamillisecondium'. That'll make it way easier for us all to make any sense of this stuff."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=799]#799[/anchor]: A Political Cock-Up [Iraines; ed: Caracasus][/b]
 
 The Issue

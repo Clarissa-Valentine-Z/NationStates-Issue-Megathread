@@ -12,7 +12,7 @@ The Debate
 
 4. "Stars, huh, what are they good for?" says self-proclaimed 'Alternative Diviner' @@RANDOM_NAME@@, while tossing a handful of asparagus stalks in the air. "We can't just shut down the government every time a cloud is in the sky. This sort of thing will keep happening again and again and again. If you hire me, I will use more reliable methods such as asparamancy and tyromancy. That way, when I'm done divining, you'll have delicious asparagus and cheese to eat afterward for no cost at all."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=681]#681[/anchor]: @@NAME@@'s New Year's Resolution: Lose Fewer Limbs [Milostein; ed: Ransium][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 3. "That's ridiculous," retorts @@RANDOM_NAME@@ - Chief Technical Officer of the [i]Have a Blast[/i] fireworks factory - who is visiting the burns ward to hand out free sparklers to the injured. "Thunderstorms happen all the time in nature, and animals survive those. Fireworks are fabulous fun! If some drunken idiots can't read the clear safety instructions we supply with all our products, then, well, that's natural selection doing our species a favor. In fact, we should legalize use of fireworks all year round. Then we can celebrate anything, anytime, not just the New Year."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=682]#682[/anchor]: Exhaust Every Option [Solborg; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 5. Professor @@RANDOM_NAME@@, who says @@HE@@'s from [i]The Institute[/i] - though you're not sure whether @@HE@@'s talking about a research lab or a mental health unit - has one final idea. "All this jibber-jabber about cars has really got me thinking: why don't we give people an alternative? With funding, my lab could build an amazing, floating Sky-Train! We'll just need guide wires, lots of hydrogen, and some sort of clean propulsion system. Think about it! A SKY TRAIN!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=683]#683[/anchor]: Different Keystrokes For Different Folks [Intrapolia; ed: Ransium][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 3. "Why should @@CAPITAL@@ dictate how I teach my kids?" demands @@RANDOM_NAME@@, superintendent of a rural school distinct in the southern part of North-West @@NAME@@. "How about the centralized government butt-out for once and let individual school districts decide what's best to teach their students? If students in @@CAPITAL@@ school district want to learn about programming, great. But, by the same token, if parents in my district want me to dedicate an hour a day to teaching students about sheep husbandry, that should be fine too."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=684]#684[/anchor]: Murder Most Deniable? [The Free Joy State; ed: The Free Joy State][/b]
 
 The Issue
@@ -68,9 +68,11 @@ The Debate
 
 3. "@@LEADER@@," whispers @@RANDOM_NAME@@, Head of Secret Service, "no-one's suggesting we let Marche Noire get away with murder. But it occurs to me that we have a one-off opportunity to strike at one of the thorns in our own rump. Consider Dan Couch, @@NAME@@'s most troublesome emigrant and muck-raking filmmaker, who has stirred anti-@@DEMONYM_ADJECTIVE@@ sentiment with his films [i]Bread and Circuses[/i] and [i]The Storm that Shakes the Amaranth[/i]. He's hiding over in Marche Noire, making his incendiary drivel. My operatives can go and..." @@HE@@ slashes @@HIS@@ finger across @@HIS@@ throat.
 
-*4&5. "You're really overthinking how Ms. Lukin came to be stabbed forty-two times." @@RANDOM_NAME@@ clucks @@HIS@@ tongue, while corking the barrels of your guards' guns. "It happened because someone had a knife. Why did someone have a knife? Because people sell knives. Do you see where I'm going? Ban knives, and your whole problem goes away." Ruminating, @@HE@@ tosses a precariously-hanging [i]Picasso[/i] into the bin and replaces it with a poster reading [i]Safety is Fun[/i]. "Best ban forks, too. Someone will put an eye out one day." [4: [color=blue]Must not be vegetarian[/color]; 5: [color=red]Must be vegetarian[/color]]
+*4. "You're really overthinking how Ms. Lukin came to be stabbed forty-two times." @@RANDOM_NAME@@ clucks @@HIS@@ tongue, while corking the barrels of your guards' guns. "It happened because someone had a knife. Why did someone have a knife? Because people sell knives. Do you see where I'm going? Ban knives, and your whole problem goes away." Ruminating, @@HE@@ tosses a precariously-hanging [i]Picasso[/i] into the bin and replaces it with a poster reading [i]Safety is Fun[/i]. "Best ban forks, too. Someone will put an eye out one day." [[color=red]Must not have compulsory vegetarianism[/color]]
 
------------------------------------------------------------------------------
+*5. "You're really overthinking how Ms. Lukin came to be stabbed forty-two times." @@RANDOM_NAME@@ clucks @@HIS@@ tongue, while corking the barrels of your guards' guns. "It happened because someone had a knife. Why did someone have a knife? Because people sell knives. Do you see where I'm going? Ban knives, and your whole problem goes away." Ruminating, @@HE@@ tosses a precariously-hanging [i]Picasso[/i] into the bin and replaces it with a poster reading [i]Safety is Fun[/i]. "Best ban forks, too. Someone will put an eye out one day." [[color=blue]Must have compulsory vegetarianism[/color]]
+
+[hr][/hr]
 [b][anchor=685]#685[/anchor]: Externalities Palmed Off [Singapore no2; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -87,7 +89,7 @@ The Debate
 
 5. "And what will that achieve? Decades in a never-ending war, that's what!" mocks @@RANDOM_NAME@@, a slightly deranged scientist, who is staring intently at a snowglobe. "Instead, let's build a protective acrylic-glass dome over every city, and connect them via enclosed tubes. We won't have to care about the haze, difficult neighbours, or even climate change ever again!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=686]#686[/anchor]: Freemium Isn't Free [Azura Manga; ed: Zwangzug][/b]
 
 The Issue
@@ -102,7 +104,7 @@ The Debate
 
 4. "Y'all see, this is why we don't need no fancy app-lik-ay-shuns," rails @@RANDOM_NAME@@, occupying your lawn and shooing passersby off it. "Back'n my day, we worked sun up til sun down on our pa's farms, an' if we had any time to spare it was playin' cards with friends at the pub! No fancy veer-chew-al items an' games, just good old paper cards and shiny, round @@CURRENCY_PLURAL@@! What y'all need ta do is get rid o' these fancy-shmancy eye-phones and get back to what our country was founded on!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=687]#687[/anchor]: Marriage By Proxy Server [The 19th Century; ed: Wyethalania][/b]
 
 The Issue
@@ -117,7 +119,7 @@ The Debate
 
 4. "Well, pin my tail and call me a donkey. Y'all need to get out more," cracks redneck plumber Larry Kableman from your private bathroom as he snakes a drain. "It ain't healthy to be spendin' all that time on the 'puter. You oughta just disconnect the whole gosh-darn internet so all these idjits can get a real job like plumbin'."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=688]#688[/anchor]: You Don't Have To Be Mad To Kill People... But It Helps [Liberamare; ed: Nation of Quebec][/b]
 
 The Issue
@@ -130,7 +132,7 @@ The Debate
 
 3. "The solution to everything is a compromise," declares one of your staffers, who claims that working for you has caused him to go insane. "Require everyone accused of a crime to go through vigorous mental health testing to see if they are insane or not. This way, experts decide whether or not someone is insane at the beginning of a trial, leaving little room for errors."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=689]#689[/anchor]: A Sticky Situation [Dytarma; ed: Helaw][/b]
 
 The Issue
@@ -145,7 +147,7 @@ The Debate
 
 4. "Why not look for a different solution?" asks @@RANDOM_NAME@@, as @@HE@@ helps @@HIS@@ son clean gum from his shoes. "How about we place more trashcans? Place a few here and there, fine anyone that doesn't put their gum into them, and I guarantee that this problem will go away. All of this gum will give these trashcans a fresh and much more bearable smell!"@@HE@@ abruptly turns towards @@HIS@@ son, who has now wandered away. "Stop smelling the bins!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=690]#690[/anchor]: Hey! @@LEADER@@! Leave Them Kids Alone! [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -156,11 +158,11 @@ The Debate
 
 *2. "I won't have any of this dark sarcasm in the classroom!" shouts your Propaganda Minister @@RANDOM_NAME@@, while eating @@HIS@@ favorite meal of meat and pudding. "There is nothing wrong with the Pledge, dearest leader. Don't listen to these traitorous, anti-@@DEOMNYMADJECTIVE@@ hippies. In fact we should not only have the Pledge in schools, but also extend it to the workplace, the streets, and perhaps even figure out a way to force the people to say it at home. The most obedient and freedom-loving citizens love the pledge. Anyone who refuses to say it hates @@NAME@@ and anyone who hates @@NAME@@ is a traitor to our beloved @@TYPE@@!" [[color=blue]Must not have Compulsory Vegetarianism[/color]]
 
-*3. “I won’t have any of this dark sarcasm in the classroom!” shouts your Propaganda Minister @@RANDOM_NAME@@, while eating @@HIS@@ favorite meal of tofu and pudding. “There is nothing wrong with the Pledge, dearest leader. Don’t listen to these traitorous, anti-@@DEOMNYMADJECTIVE@@ hippies. In fact we should not only have the Pledge in schools, but also extend it to the workplace, the streets, and perhaps even figure out a way to force the people to say it at home. The most obedient and freedom-loving citizens love the pledge. Anyone who refuses to say it hates @@NAME@@ and anyone who hates @@NAME@@ is a traitor to our beloved @@TYPE@@!” [[color=red]Must have Compulsory Vegetarianism[/color]]
+*3. "I won't have any of this dark sarcasm in the classroom!" shouts your Propaganda Minister @@RANDOM_NAME@@, while eating @@HIS@@ favorite meal of tofu and pudding. "There is nothing wrong with the Pledge, dearest leader. Don't listen to these traitorous, anti-@@DEOMNYMADJECTIVE@@ hippies. In fact we should not only have the Pledge in schools, but also extend it to the workplace, the streets, and perhaps even figure out a way to force the people to say it at home. The most obedient and freedom-loving citizens love the pledge. Anyone who refuses to say it hates @@NAME@@ and anyone who hates @@NAME@@ is a traitor to our beloved @@TYPE@@!" [[color=red]Must have Compulsory Vegetarianism[/color]]
 
 4. "Perhaps there's a compromise, yes?" suggests overworked fiction editor @@RANDOM_NAME@@, keen to calm down the heated argument. "I agree that we should keep the pledge, but we should remove some of the more questionable phrases, and render it a little less nationalistic and jingoistic. Perhaps we could even give people multiple versions to pick from, and leave the odd space blank where people can insert their own chosen phrasing. Free speech is about choice, after all. No matter what we do someone is always going to be offended, but this is making the best of a bad situation."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=691]#691[/anchor]: The Prodigal States [Caracasus; ed: Genjs][/b]
 
 The Issue
@@ -173,7 +175,7 @@ The Debate
 
 3. "I told you at the time this was a stupid idea," sighs @@RANDOM_NAME@@, Minister for International Affairs. "These idiots are too busy fighting each other or playing at king to even begin thinking about basic infrastructure, let alone functioning toilets. Seriously, you could spit across most of these places. Nonetheless, our agents report some of them are raising armies literally dozens strong. Enough is enough, Leader: let's welcome back the ones who have seen the error of their ways, bring out the fatted calf and all that, and send in some of our bad hombres to forcefully annex the rest of them."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=692]#692[/anchor]: Game Of Drones [Nation of Quebec; ed: Ransium][/b]
 
 The Issue
@@ -188,7 +190,7 @@ The Debate
 
 *4. "We don't need draconian regulations just because one idiot didn't read the instructions," rebuffs avid drone enthusiast @@RANDOM_NAME@@, while using a drone to film the meeting. "By that logic we should ban microwaves, just because one person thought it was a fun idea to stick their head inside to see what would happen. It is the right of every citizen to enjoy everything drones have to offer." [[color=red]Must not have private industry[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=693]#693[/anchor]: Bottled Up Problems [Noahs Second Country; ed: Ransium][/b]
 
 The Issue
@@ -203,7 +205,7 @@ The Debate
 
 4. "There's a sensible solution to all this," states health inspector @@RANDOM_NAME@@, opening a bottle of water while wearing goggles and a respirator. "Hire more health inspectors! We can take some money from some less vital government programs, like welfare and the military, and then send in government inspectors to do daily testing on the water sources and filtration systems. Also, would it kill you to raise our salaries a bit? Because [i]E. coli[/i] in your next meal might."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=694]#694[/anchor]: Concussive Percussion [Drasnia; ed: Helaw][/b]
 
 The Issue
@@ -216,7 +218,7 @@ The Debate
 
 3. "@@HE@@ has no idea what @@HE@@'s talking about," claims @@RANDOM_NAME@@, speaking almost inaudibly. "Ask anyone, and they'll tell you that a quiet, peaceful performance is one worth seeing. Like the crickets chirping, the birds tweeting, and the trees... treeing. I say we redirect some government funding to the musicians that make use of such natural and flowing sounds, to help preserve the fine predilections of the eardrum."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=695]#695[/anchor]: How To Succeed In Business Without Really Paying Taxes [Pogaria; ed: Pogaria][/b]
 
 The Issue
@@ -229,7 +231,7 @@ The Debate
 
 3. "I knew that weird pizza cult was just the start of something far worse," says @@RANDOM_NAME@@, your trusted Chief of Staff. "If we allow this, every corporation will want to become a religion! You know this is going to kill our tax revenue." He sighs audibly. "The only fair solution is to outlaw all new religions, with harsh penalties for any of the rabble-rousers who try to break the law. I hear crucifixions are quite the effective deterrent."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=696]#696[/anchor]: No, Minister [Candlewhisper Archive; ed: Helaw][/b]
 
 The Issue
@@ -242,7 +244,7 @@ The Debate
 
 3. "Shocking, leader, shocking," murmurs civil servant Humphrey Pearby. "I absolutely agree with you about the Civil Service, and understand your instructions perfectly! I will immediately establish a Department of Civil Service Budget Oversight Committee for the Investigation of Pecuniary Distribution. Leave it to me, I will get the ball rolling, immediately! That is what you are saying isn't it? Yes, Minister?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=697]#697[/anchor]: Conventional Wisdom [Libertypendence Park; ed: Ransium][/b]
 
 The Issue
@@ -255,7 +257,7 @@ The Debate
 
 3. "WHAT?!" bellows your Secretary of Defense, @@RANDOM_NAME@@. "Millions of good, decent @@DEMONYM_NOUN_PLURAL@@ are fearful. They face the perils of globalism and an uncertain world order. Now's our chance to show @@NAME@@ what a REAL leader does in a time of crisis. Ride into the convention atop a tank, at the spearhead of a full armored vehicle convoy. Mount a three-story tall podium draped in a giant @@DEMONYM_ADJECTIVE@@ flag, and promise our people the world!" @@HE@@ pauses for a moment as a vaulting grin creeps up @@HIS@@ face. "Literally!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=698]#698[/anchor]: I Shot the Sheriff [Rohendia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -272,7 +274,7 @@ The Debate
 
 4. @@RANDOM_NAME@@, editor of [i]Socialist @@NAME@@ Magazine[/i] blows a raspberry at that idea. "What kind of nonsense is that? Letting the rich have all the power over the poor? I say that only the government is responsible enough to have access to firearms! That way, we can end capitalism and... wait, sorry, wrong proposal... I mean, we can end [i]gun crime[/i] and make a safer nation!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=699]#699[/anchor]: Pipe Down, Already! [British Wassoulea; ed: The Free Joy State][/b]
 
 The Issue

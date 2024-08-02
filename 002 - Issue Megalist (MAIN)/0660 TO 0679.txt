@@ -10,7 +10,7 @@ The Debate
 
 3. As you make your way towards the elevator to leave, you are approached and then harangued by the elderly and curmudgeonly head of the Gent's section, a Mr. Ernest Stranger, and you briefly explain the reason for your visit. "Rude? RUDE? Who says we're rude! Get me a glass of water Mr. Inman!" He collapses into a chair. "I've been serving for over 35 years, I damn well don't need any advice on how to treat customers! In fact, if these customers don't meet [i]my[/i] standards, I should have the right to refuse to serve them, full stop - make it law! Now since you're not going to buy anything, you'll excuse me, I have to go put in my afternoon set of teeth."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=661]#661[/anchor]: Scouting For Boys, Girls... Anyone? [Golgothastan; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 [5]. "If it's just a matter of money, then perhaps I can be of assistance?" oozes industrial magnate Kanya Yeats, looking up from an Ayn Bland e-book. "My firm has offered to sponsor the Scouts before, but unfortunately those pesky child safety laws have prevented us from offering them a truly rounded experience. What youngster wouldn't love the chance to go sailing in a MaxCorp-branded dinghy, or hiking in a pair of new Zephyr Holdings-sponsored walking boots! Or even gain a little practical experience and valuable life training volunteering at our steel mills?" [[color=red]Children may not work[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=662]#662[/anchor]: Playful Petitions Pester Politicians [Helaw; ed: Nation of Quebec][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 4. "I think this petition makes a very important point," argues your Minister of Making Things Look Good, who also happens to be your personal hairstylist. "You could really do with a makeover! Everyone knows that your approval ratings would absolutely skyrocket, and that your speeches would have a new lease of life to them. After all, if a petition calls for you to change your appearance, then obviously people think you'd look better that way."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=663]#663[/anchor]: A "Friend" In Need [Empire of Cats; ed: Nation of Quebec][/b]
 
 The Issue
@@ -57,7 +57,7 @@ The Debate
 
 4. "Regardless of what Blackacre's government's actions have been in the past, there are millions of innocent civilians who are going to be harmed or even killed," suggests your secretary while cleaning the mess of papers off your desk. "How would you feel if you were homeless and hungry, and others turned a blind eye? This is a humanitarian disaster. We need to send aid and do whatever we can to help. Helping them is the moral thing to do, and that's all there is to it."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=664]#664[/anchor]: Your Land Or Mine [Australian Repulic; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 [3]. "That sounds kind of expensive... bit of a dealbreaker if we can't turn a profit," muses @@RANDOM_NAME@@, a spokesperson from @@CAPITAL@@ Mining Company's Corporate Social Responsibility arm. "Look, we don't need to convince ALL the locals. Let's just convince the tribal council. They get a healthy inducement fee, say half from you and half from our company, and they can sign whatever papers we need to cover us from future legal challenges. I think, after all, money talks!" [[color=blue]Must have private industries[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=665]#665[/anchor]: In Nomine Ecclesia [Holy Oranz; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -85,7 +85,7 @@ The Debate
 
 4. "Couldn't help but overhear," interrupts @@RANDOM_FEMALE_NAME@@, a retired history teacher apparently on a tour of the building, poking her head through the door of your office, "but if you ask me, the separation of church and state is fundamental to modern government. Taxpayer money should never be given to religions or religious organizations - we must rid you of turbulent priests! After all, have you seen how many of these religious nutters are technophobic zealots, book-burners, or knife wielding cultists?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=666]#666[/anchor]: A Microchip On Your Shoulder [Minoa; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -102,7 +102,7 @@ The Debate
 
 *5. "Look, we want to keep tabs on our population, but do we really need to deal with all this outrage?" muses Lucy Fir, a promising junior delegate from the Ministry of Creative Solutions. "Why not secretly implant the microchips while people are still in the birthing vats? Sure, people won't be able to shop with a chip that they don't know is there, but in terms of national security and crime prevention, secret surveillance is far more effective than open monitoring." [[color=purple]Citizens are vat-grown[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=667]#667[/anchor]: One Man's Trash Is Another Man's Recyclable [Socialist Nordia; ed: Lenyo][/b]
 
 The Issue
@@ -115,7 +115,7 @@ The Debate
 
 3. "Meh. Is this really such a big deal?" yawns city worker @@RANDOM_MALE_NAME@@, finishing off his tea in a delicate porcelain cup, before throwing the whole thing into the nearest garbage can. "Being neurotic over trash just makes people unhappy and forces them to feel guilty about shopping. You should actually be encouraging people to throw stuff away without thinking too hard about it - a culture of disposable items drives consumption, which in turn makes for a strong economy. And that's what matters."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=668]#668[/anchor]: How To Examine Your Testees [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -130,7 +130,7 @@ The Debate
 
 4. "Couldn't we be a bit more moderate, try and take something of all three options?" wonders your Education Minister, trying to escape from the trio of foreign educators closing in on her. "Maybe there's a @@DEMONYM_ADJECTIVE@@ way, with compulsory exam assessments, but not a national test, but a choice of examination boards competing on the free market. And maybe you could have some state schools with part private funding, and some private schools with state regulation, and some structured home schooling involving some time in communal classrooms. That sounds good, doesn't it? Maybe? Possibly?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=669]#669[/anchor]: Watts Up With Rooftop Solar [Ransium; ed: Ransium][/b]
 
 The Issue
@@ -145,7 +145,7 @@ The Debate
 
 4. "This problem needs a solution grasped from the future, not grounded in the industrial revolution!" declares celebrity green-energy venture capitalist Melon Husk. "My company is beginning to develop initial prototypes for large-capacity home-use batteries. However, to make this viable in the near future, we just need a smidgen of government subsidies for research and production. I think the batteries we'll develop will be affordable and, combined with solar panels, they'll almost certainly be able to provide households with their energy demands. I'm pretty sure we can make power lines a thing of the past!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=670]#670[/anchor]: A Wolf In Refugees' Clothing [Tretrid; ed: Ransium][/b]
 
 The Issue
@@ -158,7 +158,7 @@ The Debate
 
 3. "No!" cries @@RANDOM_NAME@@, your Minister of Good Vibrations. "We'd be giving terrorists metaphysical ammo against us. And surely you can't be heartless to refugees who are only trying to find safety for their families. Studies have shown the most effective teams are from diverse backgrounds. We should open the borders to everyone, no questions asked. I say our policy should be: give us your tired, your poor, your huddled mass shooters. What? We can rehabilitate them!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=671]#671[/anchor]: Adenine, Thymine, Copyright, And Guanine [Helaw; ed: Helaw][/b]
 
 The Issue
@@ -173,7 +173,7 @@ The Debate
 
 4. "Gene editing? Compromises? Come on," says your exhausted and agitated secretary, @@RANDOM_NAME@@, while handing you a cup of coffee. "All of this hullabaloo could be avoided by just getting rid of it all. I'm quite happy being me, and I don't think anyone has the right to poke around in my code. All of these sciencey folk can just jog on."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=672]#672[/anchor]: All Shook Up [Parat; ed: Drasnia & Candlewhisper Archive][/b]
 
 The Issue
@@ -186,7 +186,7 @@ The Debate
 
 3. "I knew I shouldn't have gone out of the house today!" cries full-time worrier @@RANDOM_NAME@@, adjusting a tight-fitting home-made protective bubble-wrap bodysuit. "If an earthquake was predicted but didn't happen, who is to say it isn't on its way? That town should never have been built in such an area of risk of quakes! We need to make sure all our population centers are in areas with no risk of earthquakes, floods, hurricanes, tornadoes, volcanoes, and landslides. I'm sure everyone would appreciate being safer!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=673]#673[/anchor]: The Deportation Of Mr. B. Leeper [Sleep; ed: Nation of Quebec][/b]
 
 The Issue
@@ -199,7 +199,7 @@ The Debate
 
 3. "All I need, is your love, your love, my love, your love, youuuuuuu!" sings your teenage niece's best friend, who is also president of the @@DEMONYM_ADJECTIVE@@ Bryan Leeper Fan Club. "You can't send him away! He's a troubled young artist trying to find his way. His message is pure and sweet and he's, like, so totally dreamy. Listen!" She starts to sing again as secret service men usher her out of the room. "Baby, baby, don't leave me alone, don't walk awa...." Unfortunately, you've heard enough to have the song stuck in your head all day. It really is catchy.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=674]#674[/anchor]: Let Them Eat Rainbow Cake! [Galway-Dublin; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -214,7 +214,7 @@ The Debate
 
 4. The Deputy Mayor of @@CAPITAL@@, @@RANDOM_MALE_NAME@@ strides in, dashingly pink trench coat flapping in the breeze behind him. "The mayor won't like this, but if we want @@NAME@@ to be a prestigious and progressive nation on the world stage, we've got to go even further! To cater for... that is to protect the rights of the gay community, we should establish zones in each restaurant or other service industry venture that are reserved exclusively for gay and lesbian people. Think of our standing in the international gay community! Think of the tourism! We'd be a shining beacon for gay culture!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=675]#675[/anchor]: Trick Or Treaty [Ransium; ed: Gnejs][/b]
 
 The Issue
@@ -229,7 +229,7 @@ The Debate
 
 4. "All this has me thinking," muses @@RANDOM_FEMALE_NAME@, an economics professor specializing in game theory, who is simultaneously playing chess with your aide. "The emissions reductions would impact our economy, but not ratifying the treaty would adversely affect our international reputation. I noticed that the compliance verification provisions are quite... lax. So let's ratify, do some lip-service, and then forget about it. It'll give us a competitive advantage." With a flourish, she moves her queen across the chessboard, "Check and mate!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=676]#676[/anchor]: Down The Rabbit Hole [Wyethalania; ed: Wyethalania][/b]
 
 The Issue
@@ -242,7 +242,7 @@ The Debate
 
 3. "You all keep missing the point! These aren't just hallucinations caused by poop, they're gifts from the Great Rabbit Goddess!" asserts escaped mental patient and neopagan Sybil @@ANIMAL@@-McGee wearing her ceremonial rabbit-patterned robe and bunny slippers. "Through consuming the rabbits' sacred defecation, we are blessed with miraculous visions of the future! Heed my prophecies, and I'll get @@NAME@@ on the right path in no time." After swallowing a handful of rabbit droppings, she twitches awkwardly on the ground while sputtering ill-fated prognostications.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=677]#677[/anchor]: Dial L For Loan [Annihilators of Chan Island; ed: Ransium][/b]
 
 The Issue
@@ -255,7 +255,7 @@ The Debate
 
 3. "A thousand pardons @@LEADER@@!" pleads the country's ambassador, Owen Dett, while kissing your feet. "Although our nation is a mere insignificant speck of dirt compared to the might and majesty of your nation, we implore you to find it within your heart to forgive the debts of us, the most 'umblest of nations."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=678]#678[/anchor]: A Motion For Seconds [Zwangzug; ed: Zwangzug][/b]
 
 The Issue
@@ -270,7 +270,7 @@ The Debate
 
 4. "As if anyone else in the room could accomplish as much as you," scoffs your personal assistant, trying not to overload you with your calendar for the next week. "You'll just have to work nonstop and struggle every second, but that should be no problem for you, @@LEADER@@! @@NAME@@ will still be a strong central democracy even if you're booked day and night."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=679]#679[/anchor]: Space Is Big Enough For The Both Of Us [Drayxaso; ed: Nation of Quebec][/b]
 
 The Issue

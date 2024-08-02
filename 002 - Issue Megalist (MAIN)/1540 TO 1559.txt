@@ -10,7 +10,7 @@ The Debate
 
 3. "The problem is not that detergents look like foods, it's that food looks like detergents," complains organic farmer @@RANDOM_NAME@@, waving a misshapen turnip at you. "We should ban food colourings and any food additives that are designed to change the appearance of edibles. Once people get used to natural-looking produce, there'll be no chance of them mistaking a pastel-coloured soap product for food."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1541]#1541[/anchor]: Confusion of the Highest Order [The Dark Crusaders; ed: Sedgistan][/b]
 
 The Issue
@@ -21,7 +21,7 @@ The Debate
 
 2. "Why should I be forced to remember every single rank?" pipes up pallid-faced orderly Luciano Beachcroft. "I got ten days of latrine scrubbing for not being able to distinguish between 162 varieties of epaulettes — how ridiculous is that? Military ranks must be made simpler if you want efficient battlefield decisions rather than generals squabbling like children." He looks mournfully at a worn toothbrush as both the Field Commander and Grand Marshal turn to glower at him.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1542]#1542[/anchor]: Dangerous Liaisons [Baggieland; ed: Frieden-und Freudenland][/b]
 
 The Issue
@@ -36,7 +36,7 @@ The Debate
 
 4. "But he promised to be with me forever! I don't want anyone else — he's the one for me," wails your brother's ex, appearing from behind the couch and giving him a vacant stare. Then she turns to you and smiles sweetly. "You should make it law that anyone who has been ditched has the right to watch over their ex constantly for the next six months. Just to make sure they're okay and that they're sure they made the right decision." She turns again to your brother. "By the way, I know you're seeing that girl at the supermarket. STAY AWAY FROM HER OR I'LL BE USING HER INTESTINES AS FISH BAIT!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1543]#1543[/anchor]: What Are We Paying For? [Verdant Haven; ed: Verdant Haven][/b]
 
 The Issue
@@ -51,7 +51,7 @@ The Debate
 
 *4. "The people love you, true, and maybe that is even partly due to the media," agrees Judi Little, your eternally pragmatic Chairwoman of the State Committee on Expenditures. "Do you know what would make the people love you even more though? Tax breaks. Why should the state pay for a bunch of pompous journalists to go around saying whatever they want instead of what the people need? Cut the media loose, along with any other industry that doesn't want to toe the line, and let them experience how harsh a free market really is. We'll save enough to give the citizens a tax cut, and we can pad our general fund at the same time. Everybody wins!" [[color=blue]Must be Socialist[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1544]#1544[/anchor]: Happy Juice [Candlewhisper Archive; ed: Verdant Haven][/b]
 
 The Issue
@@ -62,7 +62,7 @@ The Debate
 
 2. "We are absolutely devoted to sobriety!" protests the CEO of Temperance Grapes, the manufacturer of the offending product. "We are merely offering advice to help maintain legal compliance. Tell your regulators to stick to enforcing the letter of the law, instead of inventing problems where none exist! Which reminds me, we need to add a warning to the packs of baker's yeast we sell as well..."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1545]#1545[/anchor]: Deep Down Up to No Good [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -77,7 +77,7 @@ The Debate
 
 [4]. "I say there aren't enough shipwrecks in our waters," ponders Debra Wickwire, the owner of another salvaging company, as she takes a swig from your coffee before you have a chance to grab the cup. "Maybe the government could look the other way while we place a sea mine or two on the busier coastal trade routes. Companies like mine can then just lurk nearby, and we can clean up!" [Policy TBD]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1546]#1546[/anchor]: Fool's Gold [Electrum; ed: Verdant Haven][/b]
 
 The Issue
@@ -96,7 +96,7 @@ The Debate
 
 **6. "This policy experiment has been madness! Why are you trying to save it?" pleads Ruel Taylor, an overwrought employee of the Central Bank of @@NAME@@, taking a break from haranguing passers-by about something called 'Currency Convertibility.' "There is no way we can mine, seize, or even import gold fast enough to meet the demands of our swelling economy. End the gold standard and return to issuing fiat currency, or we'll suffer an economic catastrophe that makes our current limitations look like a holiday!" [[color=purple]Must have Autarky[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1547]#1547[/anchor]: The Return of the Prodigal Son [Baggieland; ed: Zwangzug][/b]
 
 The Issue
@@ -111,7 +111,7 @@ The Debate
 
 4. "Grrrrrr," snarls the young @@MAN/WOMAN@@ in your office. "Me like forest. No like city. Me back to forest. Stay there. Forever." @@HE/SHE@@ bounds out of your office on all fours, swinging from the chandelier as @@HE/SHE@@ goes.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1548]#1548[/anchor]: Killing in the Name of Beer [RedBrickLand; ed: Verdant Haven][/b]
 
 The Issue
@@ -126,7 +126,7 @@ The Debate
 
 4. "You know, what if all this violence ain't so bad, eh?" interrupts a trenchcoat-wearing man outside your window, who you recognize as infamous mob boss Morbidly Obese Tony. "It keeps the do-gooders distracted, and I'm sure some people could even profit from this funny little situation. Say, why don't you 'inspect' the funds going to the police force? I mean, who's to say that they didn't kill those civilians themselves? And you know, since I'm such a charitable guy, I'll be sure to make a 'donation' to your party once you're done with all of this. You scratch my back and I'll scratch yours, capisce?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1549]#1549[/anchor]: Easter Egg: 20 Years A-Workin' [Sanctaria, Pogaria, Verdant Haven, Zwangzug, Electrum, Gnejs, Candlewhisper Archive, Sedgistan, & Noahs Second Country; ed: Sanctaria][/b]
 
 The Issue
@@ -155,7 +155,7 @@ The Debate
 
 11. Alas, the tyranny of choice is just exhausting. You had a long day, and you've spent so much time trying to decide what part of NationStates to play, it's almost time for bed. So how about you roll up your sleeves, pour a drink, and then just chill in one of the spam game threads for five or ten minutes? Whether it's pretending to be a brony, or calling the AN a talentless troubadour, sometimes reverting to childhood silliness is the best way to spend one's time. 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1550]#1550[/anchor]: A Friend With Weed Is a Friend Indeed? [Westinor; ed: Pogaria][/b]
 
 The Issue
@@ -164,13 +164,13 @@ Recent reports have revealed that drug cartels are supplying the poorer citizens
 The Debate
 1. "The downtrodden, the oppressed, the destitute: these are our people," claims militant weed distributor Ivana Smoke, who is rumored to run half of the black market operations in @@NAME@@. "We provide them with essentials that the government neglects, and in turn they shield us from unjust prosecution. This war on drugs is getting you nowhere — your own citizens aren't even on your side! Cease this mindless vendetta, and tell your pigs to stay out of my territory. Not only will innocent people stop getting hurt, but you can give everyone a tax cut since you won't need as many police. Don't you want to support the disenfranchised and the poor, @@LEADER@@?"
 
-2."Hey! Quick, grab 'er!" orders Police Chief Amber Kidman as several security guards attempt to tackle the kingpin, who disappears in a cloud of strange-smelling smoke. "Gah, we'll get them soon enough. @@LEADER@@, we can't let our glorious @@TYPE@@ be tainted by these ghastly substances. The best method of alleviating poverty is to crack down on all of the drug-pushing criminals that are trapping our people in a cycle of addiction. Give us more funding, more individual autonomy, and allow us to arrest any civilian seen in league with these dastardly thugs! That'll show those high-in-the-sky idiots who's boss."
+2. "Hey! Quick, grab 'er!" orders Police Chief Amber Kidman as several security guards attempt to tackle the kingpin, who disappears in a cloud of strange-smelling smoke. "Gah, we'll get them soon enough. @@LEADER@@, we can't let our glorious @@TYPE@@ be tainted by these ghastly substances. The best method of alleviating poverty is to crack down on all of the drug-pushing criminals that are trapping our people in a cycle of addiction. Give us more funding, more individual autonomy, and allow us to arrest any civilian seen in league with these dastardly thugs! That'll show those high-in-the-sky idiots who's boss."
 
 3. "Brutality won't solve the problem; it'll just cause our streets to be awash with blood!" insists social worker Edward Rivera, who is often seen in @CAPITAL@@'s dingiest soup kitchens. "If you want to prevent people from aiding or joining the drug cartels, we need to improve the schools and social services in these marginalized areas, and open some food banks and medical clinics. By giving our less affluent citizens a path out of poverty, they won't need to rely on criminals for support, and the problem should dissipate... after several years of hard work, of course."
 
 4. "Theesh people are doing ourrr own work for us!" exclaims your brother in extremely slurred speech as he takes a hit out of an impossibly large bong. "Let themm *hic* keep feeding them or whatever, and..." He doubles over and coughs several times. "We can focush on other stuff like *hic* tourism, or something. Isn't thish a great opportunity to promote our sight-seeing industryyy? I'm sure people would looove to feed the pheasants. Or something. Haha!" He then vomits on some important papers you were holding and passes out on the floor.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1551]#1551[/anchor]: Gimme! Gimme! Gimme! [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -186,7 +186,7 @@ The Debate
 
 4. "Actually, I find those charity chumps pretty annoying too," chimes in your brother. "The other day I was being cornered by this spotty boy who kept going on about landmine victims, and he didn't go away till I wrote him a cheque. I can't wait till he reads what I wrote on it — suffice to say it contained canine speculations about his maternal lineage. You should make it illegal for these panhandlers to approach and harass people. If I want to donate, I'll walk over to donate. Otherwise, charity beggars should stand quietly and stay out of my way!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1552]#1552[/anchor]: An Issue About Nothing [Nardin; ed: Electrum][/b]
 
 The Issue
@@ -199,7 +199,7 @@ The Debate
 
 [3]. "Who, like, even wants to go to an old boring building for art anyway? You have to walk around and look at what some stuck-up rich dudes thought looked cool hundreds of years ago," says your nephew, a 'crypto bro' hustling for some dough. "It'd be pog if you made a VR museum that showcases a curated collection of digital art. It's a good investment too, with fully guaranteed returns on the blockchain. I know you're old and out of touch, so let me know if you need help with what's dope and what's not." [[color=purple]Must allow computers[/color] OR [color=purple]High Scientific Advancement / Low Primitiveness[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1553]#1553[/anchor]: Fifteen Minutes of Flame [Savantoj; ed: Verdant Haven][/b]
 
 The Issue
@@ -216,7 +216,7 @@ The Debate
 
 [5]. "Ugh, why does anyone even care about this?" asks soda-sipping teenager @@RANDOM_NAME@@. "Most of those movies were probably trash anyway... I've never even heard of them! If you're so sure they're important, get rid of those stupid laws against sequels, and maybe studios can make old content relevant again. You just can't expect my generation to care about some glorified slideshow — technology and taste have advanced too much!" [[color=red]Must ban sequels[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1554]#1554[/anchor]: Trajectory x Velocity = GOOOOOOOOOAAAALL! [Baggieland; ed: Verdant Haven][/b]
 
 The Issue
@@ -233,7 +233,7 @@ The Debate
 
 5. "Do you know how big that avalanche was?" hollers @@RANDOM_NAME@@, an evacuee being grilled by journalists about whether the sound was more similar to a freight train or a thunderstorm. "I DON'T CARE! The scientists and mathematicians can sort that out later. All I know is that my town has been flattened and I expect the government to rebuild everything, even if it's going to cost them as much as two football stadiums!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1555]#1555[/anchor]: Deaf Trap [Cassinia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -246,7 +246,7 @@ The Debate
 
 3. In a booming voice, the entrepreneur inventor of EarVacCleaner interrupts: "Here is a new and innovative solution! With its ergonomic design, the EarVacs2000 has the power and precision to remove up to 3 ounces of earwax! With regular government-funded ear suctioning programs, people will be empty-eared and will have no need for cotton buds. The EarVacs is completely safe. Compweetwee saaaaayfe." His left eye twitches and one shoulder droops as he starts to drool.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1556]#1556[/anchor]: Gimme Shelter [Nuremgard; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 4. "Can we not just recognise that transgender people are immoral, mentally ill or both?" asks conservative commentator @@RANDOM_NAME@@. "Men cannot become women and vice versa no matter how many surgeries or whatever they get. That's just biology. We should criminalize cross-dressing, ban transgender ideas, and admit for mandatory psychiatric treatment anyone who insists on pursuing this perversion."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1557]#1557[/anchor]: The Artist Is Literally Present [Candlewhisper Archive; ed: Noahs Second Country][/b]
 
 The Issue
@@ -275,7 +275,7 @@ The Debate
 3. "Frankly, the whole thing bores me," yawns a civil servant, whose grey wig seems to be slipping off as she rushes in, out of breath. "Clearly, you're being drawn into the performance, used to generate free publicity. The best thing you can do is ignore the whole charade, and go across town to a different exhibition that is opening on the same day. I have a pamphlet here: Treasures of Romanticism, a Retrospective on Landscape Paintings of the Sublime. Actual brushwork, and realistic pictures. That's proper art, with none of this performance nonsense. I'll go ahead and grab you a ticket." She strides off.
 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1558]#1558[/anchor]: Unequal Treatment? [Erynia and Draconia, Courelli; ed: Verdant Haven][/b]
 
 The Issue
@@ -290,7 +290,7 @@ The Debate
 
 4. "If you don't like the healthcare you're getting, pack up and move," butts-in @@RANDOM_NAME@@, a 'self-made' business@@MAN@@ here performing community service after @@HIS@@ most recent public escapades got reported to authorities. "What makes @@NAME@@ so great is that if you're unhappy with your current conditions, you can change them with just a little hard work. The government doesn't need to spend all this unnecessary money or make weird, complicated regulations. Instead, you should drastically cut your healthcare spending. That will encourage these unhappy people to find better jobs and improve their own circumstances. It's the @@DEMONYM@@ way!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1559]#1559[/anchor]: Skin's the Wrong Colour [Sacara; ed: Candlewhisper Archive][/b]
 
 The Issue 

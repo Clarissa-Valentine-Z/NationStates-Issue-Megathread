@@ -12,7 +12,7 @@ The Debate
 
 4. "What a shameless insult!" roars @@RANDOM_NAME@@, your Minister of War, crumpling up the newspaper containing Dustin Wiseau's statement. "This is obviously another Brancalandian conspiracy to meddle with our domestic affairs and make us look like barbarians on the international arena. I say it is time to make these mapleheads pay for their transgressions. Give me permission to lob a few missiles at them, and maybe they'll stop spreading baseless rumors about us!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1441]#1441[/anchor]: Don't Burn Baby Don't Burn [Apabeossie; ed: Electrum][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 3. "You know, a fire can't get out of control when nothing in the house can burn," says pyrophobe @@RANDOM_NAME@@, decked out in a fire proximity suit and wearing a fire extinguisher on her back like a diving tank. "Just mandate that all, yes all, household objects be fire resistant. That way fires can't spread as quick, and children will be less likely to face life or death situations... at least, not ones related to fires. Here, I've brought a new fireproof suit for you. You look good in yellow fluoro. Very slimming."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1442]#1442[/anchor]: A Green Bill of Health [Candensia; ed: Electrum][/b]
 
 The Issue
@@ -40,7 +40,7 @@ The Debate
 
 4. "Woah... dude, aren't plants supposed to be green?" asks hippy herbalist @@RANDOM_NAME@@, who imports the Sedji berry 'superfood'. "Let's encourage our plants and animals to build their natural immunity by exposing them to these diseases from abroad — just like a pox party. After all, it's worked just fine in nature for millions of years and stuff."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1443]#1443[/anchor]: Forage and Forget [Candensia; ed: Frieden-und Freudenland][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 4. "Plants deserve to blossom freely, not be pent-up in a stuffy greenhouse," interjects Cory Andrea Parsley, the chairwoman of the local neighborhood beautification council, dropping a bag of seeds on your desk. "We should give free seeds to all hikers and encourage them to spread them around while they are walking. Soon enough we will have a rampant vegetation to offset the loss from free foraging."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1444]#1444[/anchor]: Trouble in Deed [Cretox State; ed: Pogaria][/b]
 
 The Issue
@@ -68,7 +68,7 @@ The Debate
 
 3. "What happens in @@NAME@@ stays in @@NAME@@!" declares vagrant @@RANDOM_NAME@@, loading a bulging stack of boxes into a shopping cart. "As far as anyone's concerned, the people owning these properties have ceased to exist. Us local folk could really use them houses for living, social gatherings, and steali- er, borrowing anything not nailed down. If the owners come back, you can just give the land back to them. What've you got to lose?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1445]#1445[/anchor]: The Dialectics of Dialects [GeodesicDragon; ed: Frieden-und Freudenland][/b]
 
 The Issue
@@ -81,7 +81,7 @@ The Debate
 
 3. "I reckon banning tourists for not being able to speak the dialects is a downright preposterous idea," splutters @@RANDOM_NAME@@, your Minister of Education. "It is high time that we formed a committee of linguists and dialectologists to develop a new curriculum to make sure every citizen ditches their vernacular language and learns the standard variety instead. This will make language instruction much easier, both for our own students and for foreign learners."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1446]#1446[/anchor]: Yet Another Issue About Periods [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -94,7 +94,7 @@ The Debate
 
 3. "Ancient Maxtopia had a way around this problem," states archaeologist @@RANDOM_NAME@@, as she chisels away at your desk. "They used hieroglyphs to communicate the written word, and didn't punctuate at all. Imagine if we adopted a similar pictorial script that portrays modern @@DEMONYM_ADJECTIVE@@ life; there'd be no more arguments over whether the writing needs a semicolon or a colon, and the younger @@DEMONYM_PLURAL@@ will feel a lot less threatened."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1447]#1447[/anchor]: The Lowest Form of Wit [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -107,7 +107,7 @@ The Debate
 
 3. "Banning sarcasm? No way! This actually gives me a great idea!" exclaims Dave Skinner, your Minister of Alternative Solutions, rubbing his hands excitedly. "If anything, we should encourage our party members to employ as much equivocation in their speeches as possible, so they have plausible deniability if a statement of theirs falls flat. Did you make an unfortunate remark about Bigtopians? Just say it was sarcasm, problem solved!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1448]#1448[/anchor]: A Seat Quite Vacant Is a Seat Distressed [SherpDaWerp; ed: Pogaria][/b]
 
 The Issue
@@ -124,7 +124,7 @@ The Debate
 
 5. "Pffft. So she's dead. That doesn't affect me!" derides @@RANDOM_NAME@@, who lives in a nearby district. "You always forget about us Lower @@ANIMAL@@ville folks. Those toffs from Upper @@ANIMAL@@ville get all the funding, and we get squat! They can do without an elected representative for a little while. That'll teach them."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1449]#1449[/anchor]: Annie Get Your Gun [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -139,7 +139,7 @@ The Debate
 
 4. "Hrmm... Did we...?" wonders Minister of Bookkeeping @@RANDOM_NAME@@ as he leafs through the statute books. "Oops, yes we did. Looks like we accidentally used the word 'must' instead of 'may' here when we made that last change to the law about firearm ownership. You want I should fix it again, like some sort of second amendment to the bill?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1450]#1450[/anchor]: Driving @@LEADER@@ [Avaerilon; ed: Pogaria][/b]
 
 The Issue
@@ -156,7 +156,7 @@ The Debate
 
 5. You think you're finished, but then a scraggly hippy who had appeared to be a large bush stands up and starts moving in your direction. "Like, dude... it's you, man! I always thought you were cool! Hey, listen, I want to rap with you about something. Like, cars are so last century, dude! The people will totally be down with it if you just... like, walk everywhere. Imagine, you with a sweet poncho and a stick, totally in sync with Mother Earth, just walking to... wherever it is you go. Maybe it'll put out good vibrations and change some minds about pollution and saving the world!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1451]#1451[/anchor]: A Dread Letter [Frieden-und Freudenland; ed: The Free Joy State][/b]
 
 The Issue
@@ -171,7 +171,7 @@ The Debate
 
 4. "Holy @@ANIMAL@@! I can't believe we spent an entire morning discussing a stupid chain letter!" chortles @@RANDOM_NAME@@, your Minister of Underhanded Solutions. "But, if these letters are so unsettling, this gives me a brilliant idea. Why not produce different versions of such dreadful letters and send them to our political opponents? Distracting them in this way could be a good strategy for psychological warfare."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1452]#1452[/anchor]: Hello Darkness My Old Friend [Valentine Z; ed: Electrum][/b]
 
 The Issue
@@ -185,7 +185,7 @@ The Debate
 
 3. "If we can no longer rely on power plants to provide electricity, why don't you let us generate it ourselves?" asks an off-the-grid citizen completing his fortnightly run for loo rolls and gum. "See, I have this big diesel generator at home which is powering the local area during the blackout. There were some noise and pollution complaints at first, but the neighbours aren't objecting now. It would be an easy change too, just dismantle the energy networks and pay us little guys to distribute energy locally." 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1453]#1453[/anchor]: A Salt and Battery [Candensia; ed: Pogaria][/b]
 
 The Issue
@@ -194,11 +194,11 @@ Electric cars have vastly reduced air pollution in @@NAME@@. However, this has a
 The Debate
 1. "Without additional lithium, there could be a lot more horse-drawn carts on the roads, or even worse, gas guzzlers!" exclaims resource analyst @@RANDOM_NAME@@. "But don't worry, @@NAME@@ has plenty of untapped lithium deposits! The biggest ones just, uh, happen to be located in pristine nature reserves. Anyway, not using our own natural resources would make us dumber than a box of rocks. Give the mining industry the go-ahead to expand lithium extraction operations; it'll keep our cars cheap and skies beautiful."
 
-2."Doesn't mining defeat the purpose of electric cars?" asks trade official @@RANDOM_NAME@@ while eating from a lunchbox that is clearly labeled 'Property of the Maxtopian Embassy'. "Rather than destroy our own environment, let somebody else destroy theirs. Dump lithium extraction in @@NAME@@, and instead rely on cheap imports from dirt-poor countries like Kawandaland. There'd hardly be any downsides. Well, I mean, the mining sector obviously wouldn't like it, we might shed a job or two, and there could be supply disruptions whenever Kawandaland goes through a coup, but electric car manufacturers will be jumping for joy!"
+2. "Doesn't mining defeat the purpose of electric cars?" asks trade official @@RANDOM_NAME@@ while eating from a lunchbox that is clearly labeled 'Property of the Maxtopian Embassy'. "Rather than destroy our own environment, let somebody else destroy theirs. Dump lithium extraction in @@NAME@@, and instead rely on cheap imports from dirt-poor countries like Kawandaland. There'd hardly be any downsides. Well, I mean, the mining sector obviously wouldn't like it, we might shed a job or two, and there could be supply disruptions whenever Kawandaland goes through a coup, but electric car manufacturers will be jumping for joy!"
 
-3."Lithium-ion batteries power tons of often-tossed electronics," yaps @@CAPITAL@@-area sanitation director @@RANDOM_NAME@@, who is wearing a T-shirt with the slogan 'Garbage In, Treasure Out'. "We can reuse that lithium if we expand recycling infrastructure to accommodate the extra rubbish. Now look, this garbage idea has a catch — lithium recycling can't beat mining in terms of output — so there'd be less of the stuff to go around. However, if we reduced lithium demand by hiking taxes on automobiles and electronics while also encouraging use of mass transit, we'd be able to make it work."
+3. "Lithium-ion batteries power tons of often-tossed electronics," yaps @@CAPITAL@@-area sanitation director @@RANDOM_NAME@@, who is wearing a T-shirt with the slogan 'Garbage In, Treasure Out'. "We can reuse that lithium if we expand recycling infrastructure to accommodate the extra rubbish. Now look, this garbage idea has a catch — lithium recycling can't beat mining in terms of output — so there'd be less of the stuff to go around. However, if we reduced lithium demand by hiking taxes on automobiles and electronics while also encouraging use of mass transit, we'd be able to make it work."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1454]#1454[/anchor]: Poplar Opinion [Honeydewistania, ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -213,7 +213,7 @@ The Debate
 
 4. "Fungus is Good, repeat with me, Fungus is Good," intones eccentric mycologist Innsmouth Yugov offering you a strange-smelling bowl of mushroom stew. "Let the blessed fungus spread freely. In fact, deliberately spread it to every forest in @@NAME@@. Do it or there will be truffle, I mean trouble. The blessed mycelium will give strength to our nation as it infiltrates our soil. You understand? Yes. Me go, now. Me go." He hands you a mysterious book, then chants in an indecipherable language.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1455]#1455[/anchor]: Trademarks Make Their Mark on Marketing [Noahs Second Country; ed: Pogaria][/b]
 
 The Issue
@@ -228,7 +228,7 @@ The Debate
 
 4. "That is just going to cause even more confusion," drones Xanatos Vajiralongkorn, whose gray suit matches his gray demeanor. "Why do we need branding in the first place? All of this marketing is just another way for the big, rich corporations to control the public. You should require all products to be sold in monocolored packaging with no graphics or brand names on them."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1456]#1456[/anchor]: Weather Report: It's Not Graining In East Lebatuck [Fauxia; ed: Electrum][/b]
 
 The Issue
@@ -241,7 +241,7 @@ The Debate
 
 3. "Dear leader, don't listen to these commissars. This is not an opportunity to showboat," advises communist sympathizer @@RANDOM_NAME@@, wearing a red pin of East Lebatuck Chairman Joseph Rushev on @@HIS/HER@@ lapel. "Starving people is not cool, man. So how about you treat this like a humanitarian problem and send free grain with no strings attached? In return, we pinky promise not to throw you into the gulag when this capitalist state inevitably crumbles."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1457]#1457[/anchor]: Use the Farce, @@LEADER@@ [Pogaria; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -260,7 +260,7 @@ The Debate
 
 6. Your niece tugs on your sleeve, looking annoyed. "Why does the census even ask about religion? I know it's for statistics or whatever, but I really don't care if my friends pray to Yahvo or R'hllor or even the Overgoat! That's none of my business, and the government shouldn't be asking about it either. In fact, if we want to be progressive, the census also shouldn't ask about gender, race, ethnicity, or national origin. Instead, we should just focus on finding out fun and entertaining tidbits, like hobbies, or music tastes, or favorite cheese."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1458]#1458[/anchor]: Children of @@RELIGION@@ [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -275,7 +275,7 @@ The Debate
 
 4. "Those Dàguó folk are rascals for sure," laughs your Minister of Uncomfortable Compromises, looking worriedly over a list of Dàguó's investments in @@NAME@@. "We need to persuade them to adopt a gentler position. Maybe we could financially induce amenable faith leaders in our country to issue official statements, saying that @@RELIGION@@ endorses the Holy Empire of Dàguó. Then, Dàguó can feel safe from dissent, and we can trade with a clear conscience. This is what we call the soft power approach, @@LEADER@@. Diplomacy keeps the world turning."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1459]#1459[/anchor]: Friends With Tax Benefits [The Returners; ed: Candlewhisper Archive][/b]
 
 The Issue

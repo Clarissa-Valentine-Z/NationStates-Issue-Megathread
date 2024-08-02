@@ -8,7 +8,7 @@ The Debate
 
 2. "You keep your damn hands off my organs!" says alarmed hospital patient @@RANDOM_NAME@@. "They are my organs, and I'll do with them what I like. The government has no right to my body."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=027]#[/anchor][anchor=27]27[/anchor]: Cash for Colons?[/b]
 
 The Issue
@@ -19,7 +19,7 @@ The Debate
 
 2. "Great idea," says social commentator @@RANDOM_NAME@@. "Except for one thing. You know who's going to be selling their organs? Poor people! They'll be so desperate for money that they'll sell their own kidneys. Well, a kidney. This is just another way for the rich to buy themselves a better life at the expense of the poor. It must be outlawed."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=028]#[/anchor][anchor=28]28[/anchor]: Cancer Sufferer Demands Euthanasia Bill[/b]
 
 The Issue
@@ -32,7 +32,7 @@ The Debate
 
 [3]. "I agree, but go further: there is never a right time for euthanasia," says Bishop @@RANDOM_NAME@@. "The lives we lead are given to us by the grace of God, and he decides when they end. It is not for us to question God's divine purpose, no matter how odd or screwed-up it may seem." [[color=purple]Must not have Atheism[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=029]#[/anchor][anchor=29]29[/anchor]: Minorities Demand Representation In TV Soaps[/b]
 
 The Issue
@@ -45,7 +45,7 @@ The Debate
 
 3. "The government should do what now?" says TV studio executive @@RANDOM_NAME@@. "You've got to be kidding. We make soaps here, not documentaries. I should be able to put whichever characters I want into my shows. Quotas! Government prizes! God save me! Hasn't the government got anything better to do? Why don't they just back off and let society work out these things on its own?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=030]#[/anchor][anchor=30]30[/anchor]: Auto Industry Struggles Against Foreign Imports[/b]
 
 The Issue
@@ -58,7 +58,7 @@ The Debate
 
 3. "I think we need to face facts," says noted economist and chat-show regular @@RANDOM_NAME@@. "We live in a global economy now, and automobile manufacturing just isn't @@NAME@@'s strong suit. There's no point taking money from taxpayers in order to line the pockets of a few greedy workers and corrupt managers in a doomed industry. Let the market take its--argh, let go of my throat!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=031]#[/anchor][anchor=31]31[/anchor]: Get Efficient, Private Sector Tells Nature [MantiCorp GroundForces][/b]
 
 The Issue
@@ -71,7 +71,7 @@ The Debate
 
 3. "Whoa, whoa, we're privatizing beaches now?" says local campaigner @@RANDOM_NAME@@. "These are public spaces! All @@NAME@@'s citizens have a right to enjoy them, not just the well-off. Yes, we should improve the quality of our beaches, but handing them over to the money-grabbers is not the right way to do it. The right way to do it is to boost government spending by increasing taxes."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=032]#[/anchor][anchor=32]32[/anchor]: One Wife Is Never Enough, Say Polygamists [Fantasan][/b]
 
 The Issue
@@ -80,15 +80,15 @@ A small religious group is lobbying the government to allow them to take multipl
 The Debate
 1. "It's about time we had our religious rights recognized," says @@RANDOM_NAME@@, a devout member of a faith that is never made quite clear. "Who is the government to tell me I can't love more than one woman? The government doesn't know how much of me there is to go around!"
 
-*2. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says Reverend @@RANDOM_NAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned."
+*2. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says Reverend @@RANDOM_NAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned." [[color=blue]Must not ban Religion[/color]]
 
-**3. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says moral crusader Florin Armstrong. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned."
+*3. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says moral crusader Florin Armstrong. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned." [[color=red]Must ban Religion[/color]]
 
 **4. "Multiple wives? Excellent!" says passer-by @@RANDOM_NAME@@. "Presumably we will allow multiple husbands, as well. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=blue]Must have Marriage Equality[/color]]
 
 **5. "Multiple wives? Excellent!" says passer-by @@RANDOM_NAME@@. "Presumably we will allow multiple husbands, as well. And gay marriages, of course. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=red]Must not have Marriage Equality[/color], [color=red]Must have Heterosexuality?[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=033]#[/anchor][anchor=33]33[/anchor]: Genetics Brings New Life to Extinct Species [Badger Lozzate][/b]
 
 The Issue
@@ -103,7 +103,7 @@ The Debate
 
 4. "Now, come on," says @@RANDOM_NAME@@, well-known philosopher. "You don't need to be religious to be unnerved by the top of this particular slippery slope. Today it's @@ANIMAL_PLURAL@@, tomorrow it's dinosaurs, and we all know how that turns out. This research shouldn't be banned, but there must be strict government controls over its use."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=034]#[/anchor][anchor=34]34[/anchor]: Don't Puff On Me, Say Non-Smokers [Sirocco][/b]
 
 The Issue
@@ -116,7 +116,7 @@ The Debate
 
 3. "Get your hands off my fag!" wheezes long-time smoker @@RANDOM_NAME@@. "I've been smoking for fifty years and it's never done me any harm. Helps me concentrate, it does! The government should back off on trying to tell me what I can put into my own body. Telling a smoker he can't light up in a restaurant is discrimination, pure and simple. If you want to put a stop to unfairness, stop that."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=035]#[/anchor][anchor=35]35[/anchor]: Refugees Want To Call @@NAME@@ Home [The True Scroat][/b]
 
 The Issue
@@ -129,7 +129,7 @@ The Debate
 
 3. Economics Professor @@RANDOM_NAME@@ offers an alternative. "There is no question that we have to help those who reach out to us in their darkest hour. But on the other hand, we cannot help everybody. So let's just take the ones who are willing to keep our streets clean and our drains flowing in return for a subsistence wage."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=036]#[/anchor][anchor=36]36[/anchor]: International Community Comes Doorknocking [Guadalcanal][/b]
 
 The Issue
@@ -144,7 +144,7 @@ The Debate
 
 4. "Relief wouldn't hurt us... if we 'relieved' the right countries," suggests government advisor @@RANDOM_NAME@@. "We give them a little humanitarian aid, they give us access to their @@MAJOR_INDUSTRY@@ markets... it's win-win. Nothing wrong with a little quid pro quo, especially for a good cause."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=037]#[/anchor][anchor=37]37[/anchor]: Traffic Cops Needed on Information Superhighway? [Snowcat][/b]
 
 The Issue
@@ -157,7 +157,7 @@ The Debate
 
 3. Privacy activist @@RANDOM_NAME@@ is outraged, as usual. "Tyranny is the natural result of limiting information! Someone, somewhere, will always find something offensive -- mimes for example. Those scare the hell out of me. But should we ban them? No! Free the internet! We have nothing to fear from free information but pop-up advertising!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=038]#[/anchor][anchor=38]38[/anchor]: @@NAME@@ Looks to the Stars [Sentient Peoples][/b]
 
 The Issue
@@ -172,7 +172,7 @@ The Debate
 
 *4. "If man were meant to fly, we would have evolved solid rocket boosters instead of legs," says dubiously-trained biologist @@RANDOM_NAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of humanist values mandatory in all schools." [[color=red]Must be atheist[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=039]#[/anchor][anchor=39]39[/anchor]: Scandal Rocks @@NAME@@'s Government! [The SLAGLands; ed: The SLAGLands][/b]
 
 The Issue
@@ -187,7 +187,7 @@ The Debate
 
 4. "Whoa, whoa, hey, now..." argues Senator @@RANDOM_NAME@@. "What happened to Mr. Lotsalovin is no different than affairs that happen all over @@NAME@@ every day! Before you know it, they'll be after YOUR sexual history! I think what we need to do is take the public attention off of it somehow, perhaps by... oh, I don't know... giving them a tax cut! That'll divert their attention from this momentary distraction just long enough for Mr. Lotsalovin's divorce process to end!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=040]#[/anchor][anchor=40]40[/anchor]: Hukd on Fonix Workd 4 Me! [Bostion; ed: Reploid Productions][/b]
 
 The Issue
@@ -206,7 +206,7 @@ The Debate
 
 5. "Who needs some fancy-shmancy cash-draining school system, anyway?" @@RANDOM_NAME@@ declares from the front steps of his double-wide mobile home, shotgun in hand. "My Pa raised me and my eight brothers and three sisters without no waste of time schoolin'! My Pa taught me everythin' I need t'know, let all these whippersnappers' Mas and Pas teach 'em what they need t'know!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=041]#[/anchor][anchor=41]41[/anchor]: Software Giant Stomps on Competition [1 Infinite Loop; ed: The SLAGLands][/b]
 
 The Issue
@@ -219,7 +219,7 @@ The Debate
 
 3. "Verily, I say unto thee, none of this would have happened wouldst thou not have stopped the problem before thou didst start it," argues Brother @@RANDOM_MALE_NAME@@ of the @@NAME@@ Amish community from out the window of his horse-drawn carriage. "We must doest as the Lord commandeth and abolishest the evils of computers and the Internet entirely. Only whenst we harken unto the Lord's commandments mayeth we truly be spiritually blessed."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=042]#[/anchor][anchor=42]42[/anchor]: Turn Down That Racket, Say Morality Police [The Prelapsarian State; ed: The SLAGLands][/b]
 
 The Issue
@@ -232,7 +232,7 @@ The Debate
 
 3. "You know, this heavy metal issue has me thinking," says @@RANDOM_FIRST_NAME@@, your brother, over your weekly game of cribbage. "If these long-haired freaks want to put out their devil-worshipping metal, why don't we let them? Of course, we'll put a little subliminal propaganda into every song... after all, don't these guys owe their freedom of expression to you?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=043]#[/anchor][anchor=43]43[/anchor]: Prisoners Demand Elbow Room [Lucazmodei; ed: The SLAGLands][/b]
 
 The Issue
@@ -247,7 +247,7 @@ The Debate
 
 *4. "Now hold on just a second here," says @@RANDOM_NAME@@, State Director of The @@DEMONYM_ADJECTIVE@@ People's Proletariat Pizza Production Plant. "You've got a problem with prisoners, and I've got a problem finding workers. Why don't you just send some of your criminals to make some dough? We'll put 'em to work as their debt to society is cleared! After all, free citizens must work according to the state's planned economy, so why should prisoners be excepted from this?" [[color=red]Must not have private industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=044]#[/anchor][anchor=44]44[/anchor]: No Pain, No Gain! [Independent Planets; ed: SalusaSecondus][/b]
 
 The Issue
@@ -260,7 +260,7 @@ The Debate
 
 3. "There's nothing wrong with torture, but we can't make it too obvious," says Secretary of Defense @@RANDOM_NAME@@. "How about we simply ask them nicely, and then, if they don't tell us, we kill them? That's better just from the intimidation."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=045]#[/anchor][anchor=45]45[/anchor]: Baseball League Steps Up To The Plate [Pilot; ed: The SLAGLands][/b]
 
 The Issue
@@ -271,7 +271,7 @@ The Debate
 
 2. "You're going to spend the taxpayer's money on WHAT?" counters Minister of Finance @@RANDOM_NAME@@, from a newly furnished office. "I mean, I love playing a good game of baseball every now and then, but does the government really need to go around supporting this? The only people that are going to benefit are a bunch of fat-cat burger vendors and bored hicks with nothing better to do on Sunday afternoon! We need to stop spending so much money on these ridiculous games and get back to what's really important: running the business of the country."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=046]#[/anchor][anchor=46]46[/anchor]: Jennifer Government Censorship Row [Sirocco; ed: SalusaSecondus][/b]
 
 The Issue
@@ -282,7 +282,7 @@ The Debate
 
 2. "Don't be silly" says book reviewer @@RANDOM_NAME@@, "it's a great book and you don't necessarily have to take the views inside seriously! If anything, there should be more satires. Maybe then we'll get the right people in charge of this messed-up country!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=047]#[/anchor][anchor=47]47[/anchor]: The Great Wall of @@NAME@@? [1 Infinite Loop; ed: Reploid Productions][/b]
 
 The Issue
@@ -295,7 +295,7 @@ The Debate
 
 3. "Hold on there, hold on people!" says @@RANDOM_NAME@@ of the @@NAME@@ Broadcasting company, "We don't have to take either extreme, all we have to do is make a TV game show out of it! We put deadly obstacles on the border and monitor it with television cameras! Those that make it across win freedom and citizenship, and those who don't, well, lets just say that our buzzards won't starve. We could call it 'Who Wants to be an Immigrant?'!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=048]#[/anchor][anchor=48]48[/anchor]: Give Us Healthcare Or Give Us Death! [Dictator Amanda; ed: Reploid Productions][/b]
 
 The Issue
@@ -314,7 +314,7 @@ The Debate
 
 ***6. "Why do we have to choose either radical option?" asks Senior Party Representative @@RANDOM_NAME@@. "Couldn't we just provide very limited basic healthcare for the majority of our citizens and have more comprehensive care as a perk from advancing within the Communist Party hierarchy? It would be more affordable, and all would aspire to better themselves." [[color=red]Must not have private industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=049]#[/anchor][anchor=49]49[/anchor]: Diving For @@CURRENCY_PLURAL@@ [Nogero; ed: Reploid Productions][/b]
 
 The Issue
@@ -327,7 +327,7 @@ The Debate
 
 3. "We should do what now?" Environmentalist @@RANDOM_NAME@@ exclaims. "Do you have any idea how damaging it would be to the environment to mine the gold under that lake? Think of all the aquatic life that would be disrupted or destroyed! Think of how an otherwise pristine lake view would be ruined! Forget the gold and keep those money-grubbing pigs away from nature!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=050]#[/anchor][anchor=50]50[/anchor]: Whips, Chains, And Leather, Oh My! [Yacatizma; ed: Reploid Productions][/b]
 
 The Issue

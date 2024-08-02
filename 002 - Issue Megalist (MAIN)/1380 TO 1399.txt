@@ -13,7 +13,7 @@ The Debate
 
 3. "We shouldn't have let the situation devolve into armed conflict," states Minister of International Diplomacy Maureen Dusk, playing an anguished version of the '@@ANIMAL@@ Blues' on her guitar. "If there's any possibility of ending the violence, we have to pursue it. However, if we're going to have some sort of diplomatic summit to work out our differences, this is almost certainly our last opportunity. If we let it slip away... things could get rather grim."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1381]#1381[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Chairman No [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -31,7 +31,7 @@ The Debate
 
 4. As you are about to return to your hotel room, a young woman approaches you and starts speaking rapidly. "Excuse me! My name is Ramona Moreno — President Moreno is my father. Papa is too proud to admit it, but our people are starving. Since he'll never ask for it directly, I will: we need massive amounts of food and medical aid. The East Lebatuckese don't care about our people; they're just exploiting us for our resources and taking advantage of our location in case they need to launch missiles at @@NAME@@. Without your assistance, we'll quickly end up as another impoverished, powerless satellite state within East Lebatuck's Socialist Pact. Please negotiate a missile removal plan with my father — and then send us as much aid as you can afford."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1382]#1382[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Leave and Let Die [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -47,7 +47,7 @@ The Debate
 
 3. "I thought we agreed to not meddle in other countries' business?" admonishes Minister of International Diplomacy Maureen Dusk, thrashing out an improvised version of 'Paint It Violet' on her guitar. "Send James Bont home, and let's get out of here. Who cares if they have nuclear weapons? Maybe if we started minding our own business and working to make @@NAME@@ a better place instead of spending so much on the military, they wouldn't feel so threatened by us."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1383]#1383[/anchor]: [color=#CE532A][i]MADness:[/i][/color] You Only Negotiate Twice [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -61,7 +61,7 @@ The Debate
 
 *2. "Good morning! Are you ready to make history? Let me just get my ceremonial signing pen." Rushev reaches into his coat pocket and removes not a pen, but a Maxarov pistol, which he points directly at your chest. "Have you noticed that world leaders like ourselves never get frisked for weapons? I can't remember the last time I had to go through a metal detector. Seems like a security flaw, don't you think? Well, I digress. I hope you didn't actually expect me to remove my own missiles. You see, I didn't get to be Chairman of East Lebatuck by giving up power every time I had a disagreement with someone. Real leaders do whatever it takes to seize power and claw our way to the top. Of course, I hope you understand that this isn't personal — it's just politics. As soon as you're dead..." Suddenly, the window shatters as James Bont crashes into the room in a hail of glass fragments, closely followed by his @@DEMONYM_ADJECTIVE@@ flag parachute. Bont quickly fires a miniature grappling hook from his wristwatch, which latches onto Rushev's pistol and pulls it out of his hand. "I hope you don't mind me dropping in, boss. Your aide pressed the panic button — and I see that mister Commie in Chief is up to his old tricks. Well, here's how it's going to go, Rushev. I secretly removed a warhead from one of your nuclear missiles and handed it off to one of my colleagues in East Lebatuck. He has hidden it in your capital city, ready for detonation at a moment's notice. Either you sign that agreement and follow through with each of its terms, which include some generous financial aid for San Vitenzo, or your 'glorious worker's paradise' is going to be a victim of your own hubris. Are we clear?" Rushev nods and quickly scribbles his name on the agreement. "Good. Now get out of here and don't threaten @@NAME@@ ever again, or your capital will become a radioactive crater faster than you can say 'Marxist class struggle'." Bont turns toward you as Rushev and his aide scurry out of the room. "Let's go home, shall we?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1384]#1384[/anchor]: [color=#CE532A][i]MADness:[/i][/color] On @@LEADER@@'s Secret Service [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -75,7 +75,7 @@ The Debate
 
 2. "This obviously isn't working," states Defense Minister Mack Rimera, twitching nervously as he continues to gulp coffee from an oversize mug. "The enemy is going to see right through that plan. Remember the time Bont tried to pass as a Macronesian Islander? What a debacle. The easy way to solve this problem is with a good, old-fashioned bombing. We can target the missile warehouses — at least the ones we know about — and keep civilian casualties to a minimum. Two hundred deaths is fairly low, right?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1385]#1385[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Skycrash [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -91,7 +91,7 @@ The Debate
 
 3. Before anyone else can speak, your rarely seen Minister of Mass Destruction, Dr. Helix Fenniker, climbs down a rope ladder that has just descended from the ceiling. "I couldn't help overhearing that we have a belligerent enemy and a captured pilot. Allow me to introduce 'ICE-X' — my lab's solution to both of those problems. This breakthrough bio-weapon destroys cell walls via a rapid crystallization process. Deployment is easy — we've already loaded the canisters into some modified cruise missiles. Our warships can fire them at the enemy bases with impunity! Of course, any 'innocent' civilians or animals that are exposed to the residue will experience catastrophic organ failure. But look on the bright side! Our pilot won't be able to divulge any secrets, and most of the enemy troops will be eliminated!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1386]#1386[/anchor]: [color=#CE532A][i]MADness:[/i][/color] The Spy Who Tricked Me [Pogaria; ed: Pogaria] [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -107,7 +107,7 @@ The Debate
 
 3. Before anyone else can speak, your rarely seen Minister of Mass Destruction, Dr. Helix Fenniker, climbs down a rope ladder that has just descended from the ceiling. "I couldn't help overhearing that we have a belligerent enemy and a captured agent. Allow me to introduce 'ICE-X' — my lab's solution to both of those problems. This breakthrough bio-weapon destroys cell walls via a rapid crystallization process. Deployment is easy — we've already loaded the canisters into some modified cruise missiles. Our warships can fire them at the enemy bases with impunity! Of course, any 'innocent' civilians or animals that are exposed to the residue will experience catastrophic organ failure. But look on the bright side! Most of the enemy troops will be eliminated. Furthermore, I'm sure Bont will escape in time like he always does — and if he doesn't make it, he won't be able to divulge any secrets!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1387]#1387[/anchor]: [color=#CE532A][i]MADness:[/i][/color] The @@DEMONYM@@ with the Golden Gun [Pogaria; ed: Pogaria] [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -122,7 +122,7 @@ The Debate
 
 2. You have arrived at the agreed-upon location, a bridge that spans the border between Smalltopia and East Lebatuck. Their spy, who is still wearing handcuffs and a @@DEMONYM_ADJECTIVE@@ prison uniform, dutifully shuffles alongside you as you exit your car. The night air seems colder than usual for this time of year. After a few minutes, an armored personnel carrier drives over from the other side of the bridge, with lackeys in suits running alongside the vehicle. A phalanx of bodyguards armed with automatic rifles jump out of the vehicle and point their weapons at you as East Lebatuck Chairman Joseph Rushev steps out of the back. He pulls a hooded, disheveled figure out of the vehicle, who slumps to the ground, unconscious. Your own prisoner starts walking toward his people. "Come here, Comrade Adel. The imperialists can't hurt you anymore," smirks Rushev, who turns to face you. "So, I must ask... how stupid are you? Now I get to swap a useless prisoner for the leader of @@NAME@@! How much money do you think your government is willing to pay to get you back?" Without warning, the guard furthest to the right suddenly pivots and unleashes a barrage of bullets into the other guards, who are cut down before they realize what is happening. The rogue shooter removes his helmet, revealing the handsome face of James Bont. Rushev yanks the hood from the unconscious prisoner at his feet and yelps upon recognizing his own bodyguard. Your secret agent runs over to your position, keeping his rifle pointed at Chairman Rushev, and pulls out a phone. After dialing a number, he listens intently for a moment before a loud burst of static disrupts the silence. "Looks like your plans are shot, comrade!" announces Bont, mockingly. "I've just detonated all of the hidden explosives that I planted on your missiles on San Vitenzo. Consider yourself impotent! I suggest you head on home, or the next bullet that comes out of this gun is going to get a little Red." Bont turns toward you as Chairman Rushev jumps back into his vehicle and slinks away towards the other side of the bridge. "Let's go home, shall we?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1388]#1388[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Tomorrow Never Arrives [Pogaria; ed: Pogaria] [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -136,7 +136,7 @@ The Debate
 
 2. "No... we can't do that to the poor folks," murmurs Maureen Dusk, devoid of guitar, her voice barely above a whisper. "East Lebatuck is filled with people like us. The oppressed, freedom-loving consumers won't ever have a chance to rise up and overthrow the communist government if we wipe them from existence. Don't retaliate, @@LEADER@@. The violence has to stop somewhere. By the way, it was an honor serving with you." A single teardrop runs down her face.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1389]#1389[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Die Some Other Day [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -155,7 +155,7 @@ The Debate
 
 [4]. Rimera ushers you over to a nearby phone, where a red light is blinking. He presses a few buttons to put the call on speakerphone. "@@LEADER@@? Is that you?" The static-obscured voice of James Bont is barely audible, causing Rimera to frantically increase the volume. "I was able to infiltrate the enemy's bases by posing as a technician... at least until they caught me. Thankfully, I was able to swipe a guard's phone. The whole operation here is being run by a rather boorish fellow by the name of General Stuppa. As the diplomatic conflict intensified, Stuppa was constantly arguing with Colonel Sinwat, his second in command. General Stuppa kept shouting that @@NAME@@ was a threat that needed to be taken out preemptively. Even after some sort of attack by our military, Colonel Sinwat wouldn't support any retaliation that would lead to mutually assured destruction. General Stuppa accused his officer of treason, pulled out his sidearm, and shot him in the head, then took his nuclear launch key. Stuppa and the remaining officers immediately launched all of the ballistic missiles straight at @@NAME@@. Fortunately... I had already disarmed each of the warheads before they caught me." Bont's closing words are obscured by a deafening cheer from the people surrounding you.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1390]#1390[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Spectrum of Solace [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -179,7 +179,7 @@ The Debate
 
 ***7. "Reparations! We're not paying any stinkin' reparations!" blusters Defense Minister Mack Rimera, who has turned a rather alarming shade of red. "Have you forgotten how they almost annihilated us? Yes, we definitely killed a bunch of their solders. What did they think would happen when they brought nuclear missiles to our borders? This treaty is just a slap in the face — and we're definitely not disarming or letting in waves of immigrants. You need to walk away from the negotiating table, and hit them with sanctions for good measure. They're our enemy forevermore."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1391]#1391[/anchor]: [color=#CE532A][i]MADness:[/i][/color] The World Is Not Radioactive Enough [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -195,7 +195,7 @@ The Debate
 
 3. "Maybe we should offer a metaphorical carrot instead of a stick?" suggests Warwick Wampeter, one of your Co-Ministers of Totally Legal and Creative Solutions. "I've heard that the United Federation's leader, President Ken J. Finnedy, is worried about his main opponent in their upcoming elections. If we were to discover some embarrassing revelations about this other candidate, and then offer the evidence to Finnedy, I think he would be more willing to turn a blind eye. Of course, all of this quid pro quo will require a few quid — as they say in Albionia — to help us find the most useful information."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1392]#1392[/anchor]: [color=#CE532A][i]MADness:[/i][/color] No Crime to Spy [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -209,7 +209,7 @@ The Debate
 
 2. N pauses, picks up a briefcase labeled 'In Case of Emergency', and tips it towards an unused mug, dispensing an ample measure of steaming-hot tea. "Ah, that's much better than that awful People's EqualiTea they serve in the cafeteria. Anyway, we also have the option of ordering Agent Milanova to directly sabotage the enemy's naval operations. The downside of this is that she's much more likely to be caught compared to a simple intelligence-gathering operation — and we have very few agents in the United Federation, so she's much more valuable than those other incompetent zasranets that work for us. Of course, if things get out of hand and the imperialists try to invade San Vitenzo, they're going to have a much more difficult time if their ships were to suddenly become coral reef habitats at the bottom of their harbor. So, which is it going to be?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1393]#1393[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Authorization to Kill [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -223,7 +223,7 @@ The Debate
 
 2. "We can't escalate the situation!" shouts Minister of International Diplomacy Andrea Gramyki, playing an anguished version of the '@@ANIMAL@@ Blues' on her guitar. "San Vitenzo may be our ally, but we won't benefit from getting into a shooting war over a small island with minimal resources. Have our ships perform maneuvers for a day or two to confuse the enemy, then order them to turn around. That should still be enough of a delay for our troops on the island to make some progress installing the first shipment of missiles."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1394]#1394[/anchor]: [color=#CE532A][i]MADness:[/i][/color] For @@LEADER@@'s Ears Only [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -239,7 +239,7 @@ The Debate
 
 3. While still thinking it over, you're suddenly interrupted by cooing coming from an open window. A carrier pigeon alights on your shoulder and presents a small note tied to its right leg: "There's a third way of dealing with this. If you want, you could instruct Milanova to simply ignore the enemy agents and focus on her primary mission. This might just be a diversion to waste our time. Well, let me know of your decision by this evening. PS: This message will self-destruct in ten seconds."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1395]#1395[/anchor]: [color=#CE532A][i]MADness:[/i][/color] For @@LEADER@@'s Ears Only [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -255,7 +255,7 @@ The Debate
 
 3. While still thinking it over, you're suddenly interrupted by cooing coming from an open window. A carrier pigeon alights on your shoulder and presents a small note tied to its right leg: "There's a third way of dealing with this. If you want, you could instruct Milanova to simply ignore the enemy agents and focus on her primary mission. This might just be a diversion to waste our time. Well, let me know of your decision by this evening. PS: This message will self-destruct in ten seconds."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1396]#1396[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Skycrash [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -271,7 +271,7 @@ The Debate
 
 3. "It pains me to say this, but the enemy pilot deserves a fair trial and humane treatment," admits Minister of International Diplomacy Andrea Gramyki, casually strumming a half-tempo version of '@@DEMONYM_ADJECTIVE@@ Rhapsody' on her guitar. "He's obviously guilty of aggressions against the Card Slave. However, we can't sink to the enemy's level. We must form a military tribunal to allow him to try to explain his actions."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1397]#1397[/anchor]: [color=#CE532A][i]MADness:[/i][/color] On @@LEADER@@'s Secret Service [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -287,7 +287,7 @@ The Debate
 
 3. "That's not going to work," asserts Defense Minister Rolan Malinovich, twitching nervously as he continues to gulp coffee from an oversize mug. "The enemy is going to see right through that plan. Remember the time Milanova tried to pass as a Sakuran counter-terrorism operative? What a debacle. If she's captured, we'll be completely cut off from our only source of information about the Federation's military deployments. I think Milanova should just keep her ear to the ground and try to uncover more of this plan without assuming any unnecessary risks."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1398]#1398[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Spectre Royale [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -301,7 +301,7 @@ The Debate
 
 2. "Are we sure that San Vitenzo is a worthy ally?" questions Minister of International Diplomacy Andrea Gramyki, who had been plucking a few notes of 'Born in @@NAME@@' on her guitar. "I heard a rumor that they're actually considering... market-based economic reforms." She shudders uncontrollably. "It would be a mistake to ask our brave soldiers to die in battle defending a faraway nation that might not be fully committed to the anti-capitalist struggle. Tell the United Federation that we're willing to negotiate."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1399]#1399[/anchor]: [color=#CE532A][i]MADness:[/i][/color] VioletEye [Pogaria; ed: Pogaria][/b]
 
 The Story So Far

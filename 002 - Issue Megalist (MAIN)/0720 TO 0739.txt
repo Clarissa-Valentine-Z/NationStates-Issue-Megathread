@@ -10,11 +10,11 @@ The Debate
 
 *3. "Sounds like a lot of expensive admin work to me," complains Welfare Director @@RANDOM_NAME@@. "Wouldn't you rather have a solution that reduces government spending but still helps those who deserve it? Here's the thing, nobody wants to say it, but we all know that 99% of terrorists are from a handful of religions and nations. Just say that people from those groups don't get welfare, and you can both save money and prevent terrorism!" [[color=purple]Must not have Atheism[/color]]
 
-*4. “Sounds like a lot of expensive admin work to me,” complains Welfare Director @@RANDOM_NAME@@. “Wouldn’t you rather have a solution that reduces government spending but still helps those who deserve it? Here’s the thing, nobody wants to say it, but we all know that 99% of terrorists are from a handful of cultures. Just say that people from those groups don’t get welfare, and you can both save money and prevent terrorism!” [[color=purple]Must have Atheism[/color]]
+*4. "Sounds like a lot of expensive admin work to me," complains Welfare Director @@RANDOM_NAME@@. "Wouldn't you rather have a solution that reduces government spending but still helps those who deserve it? Here's the thing, nobody wants to say it, but we all know that 99% of terrorists are from a handful of cultures. Just say that people from those groups don't get welfare, and you can both save money and prevent terrorism!" [[color=purple]Must have Atheism[/color]]
 
 5. "I say unto to you that the answer is more welfare, not less!" offers unemployed youth @@RANDOM_FIRST_NAME@@ Violetsglory, pushing a shopping trolley of ammonium nitrate and diesel oil to the checkout till. "If you increase welfare, then maybe the resentful disenfranchised minorities will feel more supported by society, and become less prone to radicalisation. What have you got to lose?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=721]#721[/anchor]: A Lack Of Comma Sense [A Humanist Science; ed: Luna Amore][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 4. "Punctuation is but a way for the elites to once again restrain the exchange of free ideas," begins noted windba— "in order to further hold down oppress and smother and stamp out the honest working men and women of this country into a state of utter and complete impotence," he continues, "so that the entitled and ruthless would be leaders of this world could sit in their castles built on the backs and labor of the commoner," he continues further, "and smugly judge and spit on them in distain but to that I say no we shall not take on your shackles and chains of punctuation as we will not be bullied into constrained or controlled or ignoble speech..." showing no sign of stopping, he is gently nudged out the door by your guards and — surprising no one — continues as he leaves.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=722]#722[/anchor]: Thora And Eloise [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 3. "Let's be honest," mansplains @@RANDOM_MALE_NAME@@, the proudly chauvinistic author of [i]Men are Divine, Women are Slime[/i], as he pushes in front of the previous two speakers, "this all began the moment those young ladies got in that car. Had two unchaperoned girls been kept from doing that, this mess would never have happened. Well, there's only one sane, logical answer to that... Don't let womenfolk drive anymore."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=723]#723[/anchor]: To Know Sacrifice [Rubyna; ed: Helaw][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 3. "There is another option," claims your secretary, sneakily rising from behind your desk. "We needn't send any of your colleagues into battle, but it isn't necessary to defy public opinion. Let them have their service - just make it short and easy! Each politician could have a nice clean service record, for no effort at all. Perhaps it could be used as an excuse for a holiday..."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=724]#724[/anchor]: Your Stuff is Forfeit [Sierra Lyricalia; ed: Ransium][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 *4. "Shoooooooot!" exclaims Mud Davidson, a high ranking government official, who is rumored to have a lifestyle suspiciously more luxurious than would be expected for his income. "We can't afford to drop asset forfeiture, especially with tax receipts so low this year. But the police have too much incentive to use forfeiture, there needs to be oversight. I would like to head an independent Oversight Committee that would make sure the forfeiture does what its supposed to do and the government gets its cheques... uh, keep this in check." [[color=red]Must not have elections[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=725]#725[/anchor]: Sky's The Limit? [Le Libertia; ed: Wyethalania][/b]
 
 The Issue
@@ -85,7 +85,7 @@ The Debate
 
 *4. "What's all this nonsense I hear from afar?" exclaims @@RANDOM_NAME@@, your Minister of Urban Development and Intelligence Gathering, while discretely removing a listening device from beneath the architect's lapel. "The really obvious solution to your problem, and mine by the way, is to make housing dependent on citizens' talkativeness to the state. For example, they tell us what those nogoodniks in Apartment C7-100 are up to, and boom, they're moved right into Palace 1A. Refuse, we throw them out on the streets. All for the state, and the state for all." [[color=red]Must not have private industry[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=726]#726[/anchor]: Jobless Fair [Rezler; ed: Ransium][/b]
 
 The Issue
@@ -102,7 +102,7 @@ The Debate
 
 5. "It is obvious relying on the private sector to create jobs has failed!" wails your top Employment Minister, who also happens to be your cousin. "A well-planned state economy would fix all of this. Just think of the efficiency of it, we could simply assign people jobs, and imagine the comfort @@DEMONYM_PLURAL@@ would have if they knew they were assured a job before they even finished school? We could even tailor people's education to improve their productivity at their future careers!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=727]#727[/anchor]: Market Crash [North Isseggggnignigsegigisegggg Islands; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -119,7 +119,7 @@ The Debate
 
 5. "Or better still, why don't you just take your hands off the steering wheel, and let folk drive as we please?" asks impatient commuter @@RANDOM_NAME@@, wiping a suspicious red-brown stain off @@HIS@@ front fender. "Typical nanny state, trying to tell ME how to drive! Get out of the way, government!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=728]#728[/anchor]: A Bone To Pick [Sunset Sea Islands; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -138,7 +138,7 @@ The Debate
 
 *6. "What about DIGNITY?" screams @@RANDOM_NAME@@, who claims to represent a 'silent majority' you've never heard of. "Have all of you lost your minds? Do you understand what you are saying? When people die, they must be respectfully buried whole, not used for profit or some kind of nefarious experiment! Would you like to spend all eternity as a pile of loose body parts? I'm sure I wouldn't, and neither does anybody else. The dead must be allowed rest in peace, not pieces!" [[color=purple]Must ban religion[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=729]#729[/anchor]: Teenage Kicks [Abhichandra; ed: The Free Joy State][/b]
 
 The Issue
@@ -155,7 +155,7 @@ The Debate
 
 5. "The obvious solution has been overlooked," states another parent, programmer @@RANDOM_FIRST_NAME@@ 'Chips' Wei, who has spent his whole life trying to blend in. "Simply dye everyone's hair the same colour when they start school. You don't know what it's like, @@LEADER@@. The beating of the drums would start, and then the remorseless chanting, and all the teachers would lock themselves in the staffroom until it was over. To protect children from their playmates' scorn and savagery, uniformity is the only way." Paxton Harker's parent trips him up, and a group of brunette parents guffaw.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=730]#730[/anchor]: It's Legal Now! [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -168,7 +168,7 @@ The Debate
 
 3. "Drugs are bad, m'kay," preaches anti-drug advocate and oddly-shaped high school guidance counselor @@RANDOM_FIRST_NAME@@ McKay. "We should never have legalized the stuff in the first place. Drugs like Maxtopian Grass cause health problems and our children are still getting their hands on it, m'kay. We need to recriminalize all recreational drugs and keep the druggies off the streets. Throw the stuff away and be done with it, m'kay."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=731]#731[/anchor]: Is There An Election In Marche Noire Or Are You Just Happy To See Us? [Frieden-und Freudenland; ed: Wyethalania][/b]
 
 The Issue
@@ -181,7 +181,7 @@ The Debate
 
 3. "Maybe, this can be a win-win for everyone," ponders Solomon @@RANDOM_LAST_NAME@@, your Minister of Twofold Solutions, while running his fingers through his hair. "Obviously, this dictator only wants to campaign here for his expats' votes, but he wouldn't come if they didn't exist... Just abolish dual citizenship. Our Marche Noirian immigrants can either decide to become fully-fledged @@DEMONYM_PLURAL@@ or be deported back to Marche Noire. This way, we'll keep the ones truly devoted to our way of life and Otto Kratt will get the votes he so desperately wants. Two birds, one stone!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=732]#732[/anchor]: A Peeping Problem [Drasnia; ed: Ransium][/b]
 
 The Issue
@@ -194,12 +194,11 @@ The Debate
 
 3. "Let me touch bases with you for some outside of the box thinking," implores workplace coach @@RANDOM_NAME@@. "I think giving your workers less detrimental ways to deal with workplace stress could be a real game changer. We need to enable employees to work smarter, not harder. Some low hanging fruit to help resolve this problem could include letting workers set their own hours, adding bean-bag chairs to the office, heck, maybe even mandating slides be put in the break-room. You could even force these things to be implemented across @@NAME@@, as I think they'll work together in synergy to create a real win-win."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=733]#733[/anchor]: The Path Less Traveled [Australian Republic; ed: Wyethalania][/b]
 
 The Issue
 While @@NAME@@'s northern ports bustle with trade during the summer time, this flurry of activity freezes to a standstill at the onset of winter when thick sheets of ice form over the frigid waters. This seasonal impasse both severely limits economic productivity and makes resupply of the region difficult.
-The Debate
 
 The Debate
 *1. "@@LEADER@@, we have a brilliant opportunity!" excitedly cheers @@RANDOM_NAME@@, the mayor of one of the cities. "Imagine, our city, a front to the world in both summer and winter. All we need to do is develop and deploy a whole fleet of state-of-the-art icebreakers the likes of which the world has never seen before! I can just picture it now: hundreds of ships, thousands of tourists, and millions of pounds worth of goods coming from across the globe to my port... err, @@NAME@@." [[color=blue]Must not have Autarky[/color]]
@@ -214,7 +213,7 @@ The Debate
 
 6. "I have ze perfect solution," announces crazed crackpot climatologist, @@RANDOM_NAME@@. "Mein data shows zat ze ice is ziner each passing year due in part to global varming. Now, vhy don't ve just hurry it up by pumping ze atmosphere full of more chlorofluorocarbon? All zis ice will go bye-bye in under a decade! How cool vould zat be?! Vell, not cool, you know... zere'd be no ice."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=734]#734[/anchor]: A Word From Our Sponsors [New Dukaine; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -227,7 +226,7 @@ The Debate
 
 3. A tired-looking and shaggy-haired fellow plops down into your comfiest chair.  "You know what, @@LEADER@@?  I have had enough of ads.  They interrupt my television watching, and we're basically immune to them anyway."  He sips his Eckie-Cola and adjusts his designer sweatband.  "I say we ban all TV advertisements between midday and midnight so we can watch the good stuff on the telly uninterrupted.  Now, can I go back to watching my soap opera?
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=735]#735[/anchor]: Rap Sheet [Wallacelavia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -240,7 +239,7 @@ The Debate
 
 3. "The problem here is that rap music is terrible trash, enjoyed only by the musical illiterati," observes classical guitarist @@RANDOM_NAME@@, strumming out a complex flamenco ligado. "Shouldn't we pursue a bare minimum of artistic standards in our cultural output? Perhaps the government should create an official Music Standards Bureau to regulate what sort of material gets airplay and exposure. Frankly, we need a better class of music."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=736]#736[/anchor]: A Badly Named Issue [Annihilators of Chan Island; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -255,7 +254,7 @@ The Debate
 
 4. "No need to be that drastic," notes @@RANDOM_FIRST_NAME@@-@@RANDOM_FIRST_NAME@@ @@RANDOM_LAST_NAME@@-@@RANDOM_LAST_NAME@@, one of your aides," but it must be noted that 'Muhammad Lee' is a very popular name among certain minorities that don't vote for you. Maybe if you made sure that people with the same name as a criminal couldn't vote, you'd secure a bigger margin of victory next election. Just saying."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=737]#737[/anchor]: Bird-Brained Diplomacy[Ransium; ed: Ransium][/b]
 
 The Issue
@@ -268,7 +267,7 @@ The Debate
 
 3. "If we must go to war, let's go to war!" cackles The Bird Lady, wearing a giant hawk suit complete with pointed talons. "But not that way. I've trained my flock of birds of prey in the art of war. Say the word, and I'll unleash my deadly and precise raptors on the soldiers of Tasmania. Death from above!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=738]#738[/anchor]: Cruel Or Unusual? [Leumas Rex; ed: Nation of Quebec][/b]
 
 The Issue
@@ -283,7 +282,7 @@ The Debate
 
 4. "Do the crime, pay the time," replies a more orthodox judge with a shrug, trudging in after a sixteen-hour hearing. "Everybody wants a creative solution to our crime problem, but all you're doing is putting a burden on our legal professionals. Our primary responsibility is to determine guilt or innocence, and consistent rules for sentencing should be in place for reasons of fairness to the convicted. I suggest we have a fixed-term jail sentence for each crime, regardless of the circumstance. We'll save ourselves a lot of time, and it will eliminate any bias in the severity of punishments."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=739]#739[/anchor]: In Loco Parentis [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue

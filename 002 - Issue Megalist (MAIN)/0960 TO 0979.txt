@@ -10,7 +10,7 @@ The Debate
 
 [3]. "Frankly, I don't know why you need field agents at all," says your nephew while slaughtering pixelated enemies on his phone. "A skilled hacker can get any information you want from any system. Just hire a few tech-savvy people to spy on foreign nations or whatever." [[color=blue]Computers are legal[/color] AND [color=blue]Video games are legal[/color] AND [color=blue]Internet is legal[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=961]#961[/anchor]: No Two Ways About It [Singapore no2; ed:Pogaria][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 4. "There's no need to change anything," whispers your Minister of Spying, Subterfuge, and Baked Goods while showing you his latest exploding pie prototype. "You should let me handle this little problem. It appears that a pesky official within the Department of Immigration snitched on your friends. We'll fabricate a charge to implicate that ingrate and squeeze a confession out of her to reduce her credibility. She'll then be exiled somewhere while we modify the citizenship records of the implicated officials. Does that sound good to you? If so, I think we have time to demonstrate the weaponized muffins."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=962]#962[/anchor]: A Matter of Loaf and Death [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -44,7 +44,7 @@ The Debate
 
 **6. "Look, that idiot is clearly a slice short of a loaf," observes actress Gwendolyn @@RANDOM_LAST_NAME@@, whose allergen-free cookbook - [i]The Skinny Minnie Diet Plan[/i] - is due out next week. "It's well-known that a gluten-free diet is an essential baseline for every person who wants to maintain maximum health, lose weight and be basically awesome. A gluten-free diet needn't be boring. You can do so much: mung bean chilli, mung bean casserole, daal with mung beans in it. You should incentivise retailers so they switch to manufacturing only good gluten-free food, so that all of @@NAME@@ can benefit." [[color=red]Must not have internet[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=963]#963[/anchor]: The @@LEADER@@ Meme [Siarki; ed: Nation of Quebec][/b]
 
 The Issue
@@ -59,7 +59,7 @@ The Debate
 
 4. "Sometimes we make mistakes," admits @@RANDOM_NAME@@, an adviser from your Department of Political Choreography. "That's why pencils have erasers. Like other fads, this '@@LEADER@@ Meme' will die out; you just have to give it time. Meanwhile, you could benefit from practicing your stage performance for future speeches and appearances. Y'know, to prevent this from happening again."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=964]#964[/anchor]: An Expensive Watch [Candlewhisper Archive; ed: Baggieland][/b]
 
 The Issue
@@ -74,7 +74,7 @@ The Debate
 
 [4]. "Sports fans are a nasty bunch, but you've got to admire their fighting spirit," comments Colonel @@RANDOM_LAST_NAME@@ with a wry smile. "Come wartime, we could use men of their calibre. Shut down all professional sports, and conscript the lot of them. All that pent-up energy can instead be directed to the national good." [[color=blue]Must not have conscription[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=965]#965[/anchor]: Like a Bull in a Dàguó Shop [Singapore no2; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -89,7 +89,7 @@ The Debate
 
 4. "I have a better idea, one that won't cost us a single @@CURRENCY@@!" claims @@RANDOM_NAME@@, the State Treasurer. "We could just decide who is right with a duel! The claimant and the person who supposedly caused the damage will fight to the death, and whoever survives gets the other person's stuff as spoils and remuneration for wasting their time! In our scenario here, we'll either get rid of that incompetent advisor or that snobbish emperor. A win-win for us all, except for the one that dies."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=966]#966[/anchor]: As You Don't Like It [Altmer Dominion; ed: Wyethalania][/b]
 
 The Issue
@@ -102,7 +102,7 @@ The Debate
 
 3. "Isn't that what you employ oddfellows like me for?" grumbles grizzled jester Krusty @@ANIMAL@@, covered profusely in tomato stains. "Me and my mates, your musicians, clowns, acrobats, dancing poodle performers, you name it - we're smart enough not to bite the hand that feeds us. Construct a grand theatre for all to see and adore us, and we'll sing your praises loud enough to drown out the voices of petty satire."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=967]#967[/anchor]: Lies, Damned Lies, and Statistics [The Atlae Isles; ed:Candlewhisper Archive][/b]
 
 The Issue
@@ -115,7 +115,7 @@ The Debate
 
 3. "Mamma mia, I tell you this is the truth!" exclaims Professor Giuseppe De Luigi, of the Independent Pizza Research Institute. "The ivory tower of academia has been saying for years that pizza was making the bambinos obese, but here is the evidence! It has all the fresh and organic ingredients, like tomatoes and even pineapples, and they count as a vegetable, sì? You should be telling everyone to be eating my cousin Benito's delicious pizzas!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=968]#968[/anchor]: @@NAME@@ Falls Flat In Singing Contest [Ransium; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -130,7 +130,7 @@ The Debate
 
 4. "If you ask me, these low-brow shows are making your average @@DEMONYM@@ no smarter than a 5th-grader," croons your apprentice, after finally clearing the rabble from your office. "If only more shows on TV were serious, like [i]60 Clock-ticks[/i], or informative, like [i]Will Zeke the Science Geek[/i], then television could actually help create a smarter, more refined populace."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=969]#969[/anchor]: Give Me Your Tired, Your Poor, Your Incredibly Sick! [Layvia; ed: Pogaria][/b]
 
 The Issue
@@ -145,7 +145,7 @@ The Debate
 
 4. "Where is your compassion?" chides foreign celebrity @@RANDOM_NAME@@, who has had extensive cosmetic surgery performed at @@DEMONYM_ADJECTIVE@@ hospitals. "You can't simply shun your foreign patients! Some of these people don't even have basic medical care in their home countries. You have to grow a heart and understand that people only come to you because you're the best. I say that you should welcome all visitors to your hospitals, regardless of national status, and treat them as your own. If you have to send more tax funds to healthcare to accomplish this, it's only right that you do so!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=970]#970[/anchor]: For Want of a Nail [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -166,7 +166,7 @@ The Debate
 
 [7]. "The only thing emerging here is the Hand of the Divine," counters dishevelled hermit monk @@RANDOM_MALE_NAME@@. "The world is indeed too complex for mere science to explain or predict. Dispense with air traffic control and fancy in-flight technology, and instead require all pilots and passengers to pray before takeoff and landing. Have faith in a higher power!" [[color=purple]Must lean towards being religious[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=971]#971[/anchor]: Ambassadors Inextraordinary [Laeral; ed: Zwangzug][/b]
 
 The Issue
@@ -183,7 +183,7 @@ The Debate
 
 5. @@RANDOM_NAME@@, the sole survivor of the infamous embassy bombing in Marche Noire, limps into your office with a cane. "You bet I'm not qualified for these ordeals," @@HE@@ yells. "The things I've seen, the horrible things I've had to do, the countless nights I've spent awake working on that free-trade agreement have left me a broken man! End this misery, @@LEADER@@; shutter our embassies abroad and bring us all home."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=972]#972[/anchor]: Sing Heil! [Chan Island; ed: The Free Joy State][/b]
 
 The Issue
@@ -196,7 +196,7 @@ The Debate
 
 3. "You guys are all saying that like we're wrong," argues militant fascist @@RANDOM_NAME@@ while waving an oversized @@DEMONYMAJECTIVE@@ flag. "All we're doing is celebrating the wonders and glories of being from this great @@TYPE@@! Is it a crime to be patriotic, or even jingoistic? If it is, then it shouldn't be! How about you come and speak to our planned rally next week? It will send a strong message that @@NAME@@ is proud of our @@DEMONYM_ADJECTIVE@@ heritage, and isn't afraid to shout about it!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=973]#973[/anchor]: Guided Missiles and Misguided Men [Chan Island; ed: Pogaria][/b]
 
 The Issue
@@ -207,7 +207,7 @@ The Debate
 
 2. From the corner of the monitor, you can see a terrorist soldier spot the drone and begin to assemble a surface-to-air-missile launch platform. The operator turns around in his chair with a look of urgency. "Boss, we're just about to lose the drone. It's now or never! Authorise me to take the shot. If we let him go, it might take years for us to find him again - and who knows how many more children he might kill in the meantime? The inevitable loss of the little ones will be regrettable, but we need to take him out now!" 
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=974]#974[/anchor]: Siren Song [Candensia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -220,7 +220,7 @@ The Debate
 
 3. "Why is it the government's responsibility to warn us of incoming life or death situations?" rants well-known libertarian political speaker @@RANDOM_MALE_NAME@@, failing to intervene as his infant picks up a nearby nail gun. "It's the responsibility of the individual to ensure their own safety. We shouldn't be wasting @@CURRENCY_PLURAL@@ maintaining a faulty, hardly-used system. I say we let the old siren system die, save ourselves some money, and call it a day. If the average @@DEMONYM@@ doesn't have enough common sense to take caution when the weather gets bad, then I forecast that @@NAME@@ has a far bigger problem."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=975]#975[/anchor]: Paparazzi Parents [Frieden-und Freudenland; ed: Nation of Quebec][/b]
 
 The Issue
@@ -235,7 +235,7 @@ The Debate
 
 *4. "Ahem, I say we don't have to think in binary terms," chips in @@RANDOM_NAME@@, the administrator of the government's largest social media network, while @@HE@@ nervously scans your room with wide, bulging eyes. "I would first like to assure you that our app is very safe. Nobody would ever need to fear a data leak or any breach of security on our part. But if half-naked photos of kids are a problem, in order to safeguard our profile, we could simply program a bot to sift through all photos in our database and to tag and remove the ones in which too much flesh is exposed. What do you think?" [[color=red]Must not have private industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=976]#976[/anchor]: Demonic Possession Getting You Down? [Baggieland; ed: Nation of Quebec][/b]
 
 The Issue
@@ -250,7 +250,7 @@ The Debate
 
 4. Finally, a man dressed in a dark suit and holding a pile of contracts seems to appear out of nowhere. "I am from the law firm Horace, Edward, Logan and Lee. My client has instructed me to inform you that there is only one way to save the @@DEMONYM_ADJECTIVE@@ people from this calamity. Tell all of them to sign these contracts, then my client shall transport them all to a place far away from the imminent catastrophe. There's nothing to be suspicious about, my client is a reasonable fellow."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=977]#977[/anchor]: Tragedy of Wounded Earlobe [Altmer Dominion; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -265,7 +265,7 @@ The Debate
 
 4. "Just leave these people alone!" wails inner-city guru @@RANDOM_NAME@@, who has crafted 'tribal solidarity bracelets' out of beads and tatty string. "If the police hadn't interfered in the first place, that village would still be celebrating their rituals, none the wiser! Not only should we let them live as they see fit, we need to return all these tribes to their original isolated states. Drop all contact immediately, and then retreat from ever laying a finger on them again."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=978]#978[/anchor]: Alone in the Dark [Zhokinland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -278,7 +278,7 @@ The Debate
 
 3. "All these prisoners are just sitting around soaking up government money; why not make them give back to society?" asks @@RANDOM_NAME@@, local mad scientist. "We'll take a kidney, or maybe a cornea or two, and send them on their way. It'll be fantastic! They don't have to sit around all day wasting our money, and they get to go on doing whatever it is that they do. Think of all the lives we can save!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=979]#979[/anchor]: A Patronising Statement [Caracasus; ed: Candlewhisper Archive][/b]
 
 The Issue

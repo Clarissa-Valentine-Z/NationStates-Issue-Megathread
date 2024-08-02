@@ -10,7 +10,7 @@ The Debate
 
 3. "It's not always about the kids", mumbles a red-nosed man in the corner. "Think of us clowns! We have to put up with the kids screaming, and shouting and hurling things at us. How would you feel if you were dressed up like a fool and paraded in front of 8 year olds! The Government needs to create a program to treat us clowns for depression – you don't know what it's like, man. You weren't there!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=277]#277[/anchor]: Say Cheese! [Crazy girl; ed: Sedgistan][/b]
 
 The Issue
@@ -23,7 +23,7 @@ The Debate
 
 3. @@RANDOM_NAME@@, your overly-attentive aide, grins. "I like that idea, but it doesn't go nearly far enough. How about we control exactly what the media can and cannot publish? That way, we can make the citizens adore you and your skeletons stay hidden in the closet."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=278]#278[/anchor]: Relief is Coming... in Four to Six Weeks [Luna Amore; ed: Sanctaria][/b]
 
 The Issue
@@ -36,7 +36,7 @@ The Debate
 
 3. "Obviously, we goofed," says your Minister of Transportation @@RANDOM_NAME@@, "These sorts of humanitarian mess-ups shouldn't happen. But we shouldn't be willing to sacrifice all the benefits of the ban either. We should legalize air travel for government use only. That way necessary services won't be delayed, but we won't wreck our environment or endanger our nation. As an added bonus, you'll be able to go to international conferences without having to drive across the border to use Maxtopia's airports first."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=279]#279[/anchor]: A Vat Lot Of Trouble [Luna Amore; ed: Sanctaria][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 **6. "Oh no no no, we've invested too much money into the national vat system to throw it all away over one minor incident," stresses your Financial Minister @@RANDOM_NAME@@. "Look at the situation from a resource standpoint. This batch of resources is damaged, so naturally, the most economical solution is to remove the damaged products, dispose of them, and recycle the functional parts back into the vats. We must reduce, reuse and recycle, @@LEADER@@, for the good of our national vats – and for the good of @@NAME@@, of course." [Validity TBD]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=280]#280[/anchor]: Oh the Humanity! [Prevania; ed: Reploid Productions][/b]
 
 The Issue
@@ -68,7 +68,7 @@ The Debate
 
 3. "Tiny mishap? TINY MISHAP?" screams @@RANDOM_NAME@@, author of the controversial bestseller 'Corporations Are Bad, Really Really Bad.' "Hundreds of people dead, millions if not billions of @@CURRENCY_PLURAL@@ in damage to buildings downtown, and these industry goons are trying to just shrug and tell the rest of us 'Oopsie,' and buy their way out of trouble?! They have a huge debt to the society they've harmed, make them work in the trauma centers and see first-hand what they've done!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=281]#281[/anchor]: Free Internet For @@NAME@@? [Solisbury; ed: Sirocco, Sedgistan & Luna Amore][/b]
 
 The Issue
@@ -83,7 +83,7 @@ The Debate
 
 4. "Considering the absurd regulations we have to put up with, it's no wonder we have to charge so much for our internet service," says @@RANDOM_NAME@@ of @@NAME@@ Speedy Internet Co. "Safety guidelines, minimum access mandates. If the government would get rid of all these regulations, we could lay down lines for less @@CURRENCY_PLURAL@@, and pass the savings down to the consumers. This problem isn't our fault: it's yours."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=282]#282[/anchor]: Slum Village Extraordinaire [Foxopolis; ed: Dustistan][/b]
 
 The Issue
@@ -98,7 +98,7 @@ The Debate
 
 4. "What a bunch of hogwash!" says paint franchise owner @@RANDOM_NAME@@, "We shouldn't give these people money, and we can't take their homes away. The solution is very simple; paint the slums! A quick coat of Vintage Lime or Tropical Sunrise will transform the look of those shanty towns, and tourists and social workers won't be offended any more. Of course, Social Policy will have to pay someone to add a fresh coat from time to time, but tell you what -- I'll cut you a deal on the paint."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=283]#283[/anchor]: Wealthy Flee to Tax-free Havens [Gior Altheriod; ed: Lenyo][/b]
 
 The Issue
@@ -111,7 +111,7 @@ The Debate
 
 3. "Why allow anyone to emigrate?" muses one of your advisers, "All citizens, from the billionaires down to unskilled laborers, are critical to our economy. If we sealed off the borders, we wouldn't risk brain drain or fleeing capital. It'd require a rise in taxes, but I think the financial security of our nation is worth it."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=284]#284[/anchor]: Drug Legality Run Amok [Kahleb Il Vilan; ed: Lenyo][/b]
 
 The Issue
@@ -128,7 +128,7 @@ The Debate
 
 [5]. "Drugs by one name, sacred plants by another," intones His High Holiness of @@FAITH@@, daubing holy oil on your forehead. "The Church has historically used extracts of consecrated substances to open the vistas of piety and bring oneself closer to the Supreme Being. With modern pharmaceutical techniques, we can easily manufacture enough to infuse the water supply of all of @@NAME@@, just like we do with fluoride. Is spiritual transcendence a less worthy cause than cavity prevention? I think not." [[color=blue]Must not be atheist AND Religiousness above 3.00 - 5.00[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=285]#285[/anchor]: A Right Not to Work? [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue
@@ -143,7 +143,7 @@ The Debate
 
 4. Slacker freelance food reviewer @@RANDOM_NAME@@, still in pajamas and eating a pizza slice on a ratty couch, sends you a video chat invitation. "Dude, why not just give everybody shorter work weeks? Make flex time, telecommuting, and 35-hour work weeks mandatory for all us working folk. Trust me, the people will love you for it man!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=286]#286[/anchor]: A Whale of a Problem [Doom and so on; ed: Luna Amore, Glen-Rhodes][/b]
 
 The Issue
@@ -158,7 +158,7 @@ The Debate
 
 4. "It's not enough!" bellows @@RANDOM_NAME@@, head of the radical anti-whaling group Ocean Overseers while menacing you with a handful of rancid butter. "The government needs to allow armed intervention against these seafaring murderers! We can bring film crews along and make a reality TV show out of it! Oh, sure, some people on whaling vessels might get hurt or even killed, but that's just what people who exploit nature for money deserve!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=287]#287[/anchor]: Maxtopians Demand Return of the King [Gior Altheriod; ed: Luna Amore][/b]
 
 The Issue
@@ -173,7 +173,7 @@ The Debate
 
 4. "Where does it end?" asks a notoriously crotchety old man. "We give these foreigners their king back and before you know it people will be coming out of the woodwork demanding their relics back." He pauses to hack something up into a handkerchief. "What we need to do is send a message. A message that will stop anyone else from asking for their artifacts back. We need to publicly destroy the king to let Maxtopia know we won't take any of their guff!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=288]#288[/anchor]: Super-Sized Pizzas Recipe For Disaster? [New Ziedrich; ed: Luna Amore][/b]
 
 The Issue
@@ -188,7 +188,7 @@ The Debate
 
 4. "Hey, man. I have an idea," says @@RANDOM_NAME@@, an aging hippie, barely suppressing a giggle. "This is all about healthy food, right? My bros and I were thinking about selling this pizza with locally grown organic ingredients and whole grains and stuff, right? It'd be good for you AND the planet, man. The only snag is we're a little short on start-up moolah. The government should totally, like, give us money to open our chain. We'd really appreciate it. Yeah, you'd need a tax hike to pay for it, but we'd totally save the world – with pizza, man!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=289]#289[/anchor]: Blizzards Serve Calls Cold, Says Mayor [Unibot II; ed: Sanctaria][/b]
 
 The Issue
@@ -201,7 +201,7 @@ The Debate
 
 3. "NO! NO! AND NO!" screams concerned resident @@RANDOM_NAME@@ down through the telephone. "Us average folks have been perfectly happy without that darned cold-calling and all of those other evening interruptions. Besides, people are so careless and unprepared these days; it's their own fault they didn't buy a generator and an emergency radio. I say NO to cold calling and I hope this storm will teach those fluffies to stop relying on charities and the government teat!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=290]#290[/anchor]: Wheels of Misfortune [New Ziedrich; ed: Lenyo][/b]
 
 The Issue
@@ -216,7 +216,7 @@ The Debate
 
 4. A wheelchair-bound man wearing a bicycle helmet on his head, plaster casts on his legs, and an irate expression on his face rolls himself into your office. "Hey, I got somethin' to say," he growls as he deliberately bumps into your desk. "You and your government have been playing nice with the car companies for far too long, and a lot of us cyclists are sick of it. I might have an axe to grind, but @@NAME@@ and our environment'll be better off if you just banned cars entirely. Who cares if people complain? They'll adjust."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=291]#291[/anchor]: A Question Of Sport [Dustistan; ed: Sanctaria][/b]
 
 The Issue
@@ -231,7 +231,7 @@ The Debate
 
 4. "They rejected us because of a few feet of grass? That's crazy!" writes journalist @@RANDOM_NAME@@. "Sport isn't about rules, it's about having fun and getting fit! When we were kids, we could have a great time with just a stick and a couple of rocks – there were no rulebooks or standardized playing fields. We should encourage kids to get out there and have fun; who cares about a few silly rules?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=292]#292[/anchor]: Tourists Wearing Out Their Welcome? [Virtualila; ed: Luna Amore][/b]
 
 The Issue
@@ -248,7 +248,7 @@ The Debate
 
 [5]. "That's too short-sighted," says @@RANDOM_NAME@@, your Minister of Population Growth. "Why should we work so hard to keep them here for a two-week vacation when we can convince them to move here instead? Think about it, we throw up some housing developments around tourist hubs, air some commercials about how easy it is to become a citizen, and BAM! we've got an influx of new, taxable citizens." [[color=blue]Immigration is legal[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=293]#293[/anchor]: Maestro, Please [Castle in the Sky; ed: Luna Amore][/b]
 
 The Issue
@@ -265,7 +265,7 @@ The Debate
 
 5. "The only reason to fund these musicians is if they are doing something worthwhile for their country," says Brigadier General @@RANDOM_NAME@@. "I've long said that @@NAME@@'s Armed Forces would benefit greatly from a spic-and-span band in uniform. They would represent the splendor that embodies @@NAME@@ and they'd do it with pride! Of course by extension, they would be a part of the active forces and required to serve in battle if necessary. Always good to up the recruitment numbers, right?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=294]#294[/anchor]: Ghost Riders on the Sly [Fmyeram; ed: Luna Amore][/b]
 
 The Issue
@@ -282,7 +282,7 @@ The Debate
 
 [5]. "Can't trust the government to do anything right," scolds economic analyst @@RANDOM_NAME@@, glancing up from a worn copy of [i]The Fountainhead[/i]. "We've given it a fair chance, it's failed, and now the private sector will have to swoop in to fix it. If you privatize the legislature, I can assure you it'll be humming efficiently and in the black by this time next year!" [[color=blue]Must have private industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=295]#295[/anchor]: Give Us Pockets or Give Us Something Else [Ferringinar; ed: Maurepas][/b]
 
 The Issue
@@ -295,7 +295,7 @@ The Debate
 
 3. "That's a valid point about purses," says @@RANDOM_NAME@@, the new office intern. "But I'm enjoying all the naked girls running around on campus. How about you just make it legal for males to wear clothes and keep the females naked? After all, as the saying goes, the clothes make the man."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=296]#296[/anchor]: Come On Baby, Fight My Fire [Kukes; ed: Luna Amore][/b]
 
 The Issue
@@ -310,7 +310,7 @@ The Debate
 
 4. "I always said there's an opportunity in every disaster," councils @@RANDOM_NAME@@, your Minister of Underhanded Affairs. "We're not doing so hot in the polls right now. This fire is only going to put more of a strain on us. Now as I remember, the good ol' Minority Leader is head of the @@CAPITAL@@ Oversight Committee. Let's shift the focus onto it being his screw up, have a trial by media and he'll be indicted by next week. The public will burn him at the stake instead of us!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=297]#297[/anchor]: Intersex Athletes Demand Level Playing Field [Gior Altheriod; ed: Sanctaria][/b]
 
 The Issue
@@ -325,7 +325,7 @@ The Debate
 
 4. "You're not actually going to listen to that parasite, I hope?" your bald, heavily tattooed cousin says with a raised eyebrow. "You want to actually give these monsters recognition? Not only are they going to make us the laughing stock of the international community, but they, and other freaks like them, are an insult to our race. What we must do is banish such scum from @@NAME@@; their lesser blood and DNA are only an impediment to the success and dominance of our race – a master race!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=298]#298[/anchor]: Cults: Harmless or Heretics? [Tybusenia; ed: Frisbeeteria][/b]
 
 The Issue
@@ -340,7 +340,7 @@ The Debate
 
 4. Well-known secularist @@RANDOM_NAME@@ walks into your office, handing out pamphlets that read "Religions are for losers". "This problem all started because we have conflicting religions, right? Well, here's the solution: ban the public promotion of religion! If no one's out screaming that their gods are real, we won't have others screaming back that they're heretics! And it would get rid of those annoying church newsletters I get in the mail. I hate those."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=299]#299[/anchor]: Some Like it Hot; Others Don't [Kotlas; ed: Lenyo][/b]
 
 The Issue
@@ -355,7 +355,7 @@ The Debate
 
 4. "You know, I'm really tired of these hippies constantly complaining about the environment," rants your arch-conservative cousin, @@RANDOM_NAME@@, "They're the real problem. I say we round up all the tree-huggers and shoot 'em all. Then business can go on as usual without the eco-nazis protesting every new oil refinery."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=300]#300[/anchor]: Trafficked Tots Trouble [Crazy girl; ed: Sedgistan][/b]
 
 The Issue

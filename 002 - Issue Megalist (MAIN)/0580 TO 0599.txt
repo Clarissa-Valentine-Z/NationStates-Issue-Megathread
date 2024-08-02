@@ -14,7 +14,7 @@ The Debate
 
 [5]. "Do we really need a national census anyway?" yawns @@RANDOM_NAME@@, a meme-analyst at social media site MyFace, who is using the form as a paper airplane. "It's a lot of trouble for nothing, if you ask me. If you want to know where someone lives or what their spiritual animal is, you add them on MyFace like everybody else. Why spend a lot of money doing an official census, @@LEADER@@, when you can easily set up a profile with us and just add everybody?" [[color=blue]Must have internet[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=581]#581[/anchor]: Fair To Say...? [Unibot III; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -33,7 +33,7 @@ The Debate
 
 **6. "I smell economic opportunity," says your Commerce Minister @@RANDOM_NAME@@. "We should showcase what a great place for investors we are, emphasising our flexible taxation arrangements for valued corporate investors and our latest moves to stamp out the unions. We should literally get on our knees, and beg the biggest businesses to bring jobs and prosperity to @@NAME@@." [[color=blue]Must have private industry[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=582]#582[/anchor]: Augmented Reality Check [Enthusiasm; ed: Nation of Quebec][/b]
 
 The Issue 
@@ -48,7 +48,7 @@ The Debate
 
 4. Out of the corner of your eye, a teenager wearing a bright red tracksuit and visor climbs in through your window. "Absolutely we should encourage people to play, and make sure it's safe for...wait a second..." He swipes his phone, not having looked up since he entered. "Sorry about that. I'm Dash Snatchum, and in order to be the very best, I gotta divert all of my attention! You should just make a whole lot more stop signs and streetlights so we can get to those Noqorans and Charchivemanders faster! After all, you gotta snatch 'em all!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=583]#583[/anchor]: Don't Be A Busk-Kill [Oisinistan; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -65,7 +65,7 @@ The Debate
 
 5. "I know a way we could make both sides happy," remarks your Minister for Fine Arts, @@RANDOM_FEMALE_NAME@@, pressing play on her cassette of patriotic anthems to create the right mood. "We could introduce national performance licenses, and only allow public performance by those who have attained a certain standard. As a nice side effect, this will let us make sure that our nation's culture is both highbrow and patriotic."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=584]#584[/anchor]: The Cake Is A Lie [Felucian Planetary republic; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -78,7 +78,7 @@ The Debate
 
 3. "Lies and videotape, eh?" muses Lenny Groovesteel, your Propaganda Minister, reading a psychology article on [i]The Triumph Of The Will[/i]. "Two can play at that game. We should direct our own movie directors to churn out some counter-information, singing our nation's praises and fabricating something nasty about theirs. Have you heard people talking about the disgusting Dog-Hair Muffins they bake? No? We will fix that."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=585]#585[/anchor]: Are You Not Entertained? [Socialist Nordia; ed: Lenyo][/b]
 
 The Issue 
@@ -93,7 +93,7 @@ The Debate
 
 4. "Woah, so cool!" opines wannabe daredevil @@RANDOM_NAME@@, who appears to be improvising a motorcycle out of scrap iron and kerosene. "The only thing cooler than feeling like you're on the brink of death is actually being on the brink of death. Just scrap all those lame safety rules so we can get some real excitement! Super dangerous, but that's just part of the thrill, man."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=586]#586[/anchor]: School's In For Summer? [Aipotu Ruo; ed: Nation of Quebec][/b]
 
 The Issue 
@@ -106,7 +106,7 @@ The Debate
 
 3. "Restructuring alone won't keep our children ahead of the curve!" opines @@RANDOM_NAME@@, Comptroller of the @@CAPITAL@@ District School Board who had been grading everyone on their posture and speeches. "What we need to do is make education free and mandatory all year round, fifty-two weeks a year and six days a week. Yes, that means massive spending towards the education budget, but you can't put a price on knowledge. Well, I guess you can depending on how much goes into the budget."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=587]#587[/anchor]: I, Robot, Do Solemnly Swear [Luna Amore; ed: Luna Amore][/b]
 
 The Issue 
@@ -125,7 +125,7 @@ The Debate
 
 **6. "I warned you!" scolds noted technophobe @@RANDOM_NAME@@ after smashing your telephone. "But no one would listen. You became dependent on these soulless machines, integrated them into every facet of your lives, and look, now they dare to judge us! We've got to rid @@NAME@@ of these toasters once and for all! Ban artificial intelligence and bring some sanity back to our country!" [[color=red]Must not have AI Personhood[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=588]#588[/anchor]: Last Call For Alcohol? [The Dalatian Republic; ed: Lenyo][/b]
 
 The Issue 
@@ -138,7 +138,7 @@ The Debate
 
 3. "I can do... what I want... with my body," staggers @@RANDOM_NAME@@, who is already drunk at 10 in the morning. "The government should just get off my... back." The sot abruptly falls down.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=589]#589[/anchor]: To Boldly Go? [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -153,7 +153,7 @@ The Debate
 
 4. "Is anyone else here kind of bored?" yells young tearaway William Kirk Jr., revving his motorbike as he rides into your office, in clear contravention of rules and regulations. "We gotta make space exciting again for people, make the old things new again! Not just dry data and lore for tech-geeks, but awesomeness for ordinary people who like explosions, and lens-flared sunsets, and stuff like that. Reboot the Space Agency! Let's have firework displays, televised low orbit skydiving, and celebrity astronauts with great hair! I dare you to do better!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=590]#590[/anchor]: When Trees Hug Back [Czechostan; ed: Gnejs][/b]
 
 The Issue 
@@ -170,7 +170,7 @@ The Debate
 
 5. "Talk about missing the point!" coaxes @@RANDOM_NAME@@, known biophobe and six-times winner of the State Lumberjack Championships. "The rising percentage of people dying in the wilderness is proof that man and nature were never made to interact beyond the shaft of an axe or a shov…" he pauses mid-sentence, face turning wan and frozen at the sight of your potted plant. After regaining his composure, he continues in a high-pitched voice: "Eh, where was I… Yes, that's it! Abolish all green regulations and spending, and allow the eager lumberjacks and miners of @@NAME@@ to access forest and field so we can fight back and civilize the environment! Trees will always grow back, and surely the hippies at the Ministry of Environmental Affairs can't demonize a few subterranean rocks being removed?" [[color=red]Must have Socialism[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=591]#591[/anchor]: Bait And Switch [Lenyo; ed: Gnejs][/b]
 
 The Issue 
@@ -185,7 +185,7 @@ The Debate
 
 4. "People, people! Let's forget about the salmon for a while and talk about the lice!" pleads @@RANDOM_NAME@@, disgraced marine biologist and amateur chemist. "The louse - scourge of the salmon, free or farmed; wouldn't it be nice if you could just make them go away? Well, you can! I've been working on a new type of pesticide targeting just this kind of situation. It's still experimental, that's for sure, but if you let fish farmers douse their tanks with my stuff I'll guarantee that your lice problem will be a thing of the past, all while keeping your fish nice and sound. Actually, I'm not 100% sure about the fish, but the lice will definitely die!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=592]#592[/anchor]: Infamy! Infamy! They've All Got It In For Me! [Annihilators of Chan Island; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -198,7 +198,7 @@ The Debate
 
 3. "Why don't you all shut up and go home?" yells a heckler from the audience. The camera pans round to show an angry red-faced fellow with a cooking apron on. "I had tickets for [i]Celebrity @@DEMONYM_ADJECTIVE@@ Bake-Off Factor Live[/i], and then they tell me that it's been cancelled to make room for this stupid show. Hey, @@LEADER@@, if you're watching, ban this sort of news and documentaries, and keep TV for what it was made for... Entertainment!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=593]#593[/anchor]: A Right to Bare Arms? [Escalan Corps-Star Island; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -213,7 +213,7 @@ The Debate
 
 [4]. "Since when have we let the women of this country determine its morality?" rages traditionalist @@RANDOM_MALE_NAME@@, his wife and daughters standing behind him in fearful silence. "A woman's nakedness is for her husband to behold, and for none other. All women should be forced to cover themselves head-to-toe while in public, and should not venture out of the home without permission. They should obey their husbands or male relatives in all things, including their clothing choices." [[color=blue]Marriage is legal[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=594]#594[/anchor]: Tie Fighters [Drasnia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -226,7 +226,7 @@ The Debate
 
 3. "As always @@LEADER@@, I have the perfect solution!" declares your gambling addict brother who makes life decisions by the roll of the dice. "Why not have tie votes determined by a coin toss? It's simple, fun, and doesn't show any favoritism. We could bet on the outcomes and even apply the same principle to the legislature!" He then takes your prized antique ancient golden Maxtopian coin and flips it. "Fifty @@CURRENCY_PLURAL@@ on tails!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=595]#595[/anchor]: Quis Custodiet Ipsos Custodes? [Saint Emygdius; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -241,7 +241,7 @@ The Debate
 
 4. "Bwaahh?!?" exclaims moustache-twirling driving-goggle-wearing charlatan @@RANDOM_MALE_NAME@@, who was definitely not trying to tie your secretary to his toy train tracks. "Police with cameras? This is a breach of my civil liberties! What about privacy? Do we not have the inherent right to go about our daily, lawfully abiding lives without fearing these paparazzi pigs parading our precious picturesque moments to the putrid public as perfidious publications? Say no to copper cameras! Keep your eyes off my private business!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=596]#596[/anchor]: Primogeniture Problems [Nuremgard; ed: Lenyo][/b] 
 
 The Issue 
@@ -256,8 +256,7 @@ The Debate
 
 **4. "Don't be so preposterous!" splutters dusty old courtier @@RANDOM_FEMALE_NAME@@ as she pulls out an even dustier family tree of the royal family which trails on the floor. "Generations of proud, strong queens have ruled this land with conviction and certainty! That's why the country has done so well for so long. It's clear that men should not be allowed to succeed the throne. They're much too emotional. Besides, do you really want the Prince meeting other heads of state? Women think with their heads and hearts; men think with their..." She shudders. [[color=purple]Must be a matriarchy[/color]]
 
-***5. "We need a radical reshaping of our country's power structure!" bellows crazed usurper @@RANDOM_FEMALE_NAME@@ as she brandishes a blade at the terrified male courtier's privates. "For too long the patriarchy has oppressed us and denied us our natural rights to rule! Abolish primogeniture and ensure that only women may inherit the throne! We shall usher in a golden age of feminine supremacy!" The courtier shrieks as she accidentally cuts his trousers in excitement.
- [[color=purple]Must be a patriarchy[/color]]
+***5. "We need a radical reshaping of our country's power structure!" bellows crazed usurper @@RANDOM_FEMALE_NAME@@ as she brandishes a blade at the terrified male courtier's privates. "For too long the patriarchy has oppressed us and denied us our natural rights to rule! Abolish primogeniture and ensure that only women may inherit the throne! We shall usher in a golden age of feminine supremacy!" The courtier shrieks as she accidentally cuts his trousers in excitement. [[color=purple]Must be a patriarchy[/color]]
 
 ***6. "We need a radical reshaping of our country's power structure!" bellows crazed usurper @@RANDOM_MALE_NAME@@ as he brandishes a blade at the terrified female courtier's décolletage. "For too long the matriarchy has oppressed us and denied us our natural rights to rule! Ensure that only men may inherit the throne! We shall usher in a golden age of masculine supremacy!" The courtier shrieks as he accidentally cuts her frock in excitement. [[color=purple]Must be a matriarchy[/color]]
 
@@ -265,7 +264,7 @@ The Debate
 
 ****8. "All this nonsense about succession has got me thinking," says @@RANDOM_NAME@@, esquire, who is 456,789th in line for the throne. "Do we really need an expensive, reality-deficient monarch to tell us how to run our lives? Seems to me that it would just be cheaper to not have a head of state at all." [[color=purple]Must be an absolute monarchy[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=597]#597[/anchor]: You Can't Handle The Tooth [A Humanist Science; ed: Nation of Quebec][/b]
 
 The Issue 
@@ -278,7 +277,7 @@ The Debate
 
 3. While you're still supine, a strange pale-skinned man shines the dentist's lamp directly into your eyes and begins loading a large metal syringe from an unmarked vial. "I have your solution right here, dear leader. Why not add these powerful painkillers to the water supply, under the banner of a new healthcare initiative aimed at relieving stress and improving quality of life? Then you can use mass addiction to control the population! A particular district doesn't like your new absolutist platform? Just reduce their 'pain relief' until they do! Imagine the whole populace desperately begging you for another hit!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=598]#598[/anchor]: A Violet Trojan Horse [Crazy Girl; ed: Nation of Quebec][/b]
 
 The Issue 
@@ -293,7 +292,7 @@ The Debate
 
 4. "What are we? Barbarians?" queries popular agnostic speaker @@RANDOM_NAME@@, whose personal motto is 'Question Everything'. "I don't see anything wrong with teaching Violetism. Not every Violetist is some crazed wacko, you know. However, schools should teach all different faiths, including non-belief, in a neutral and understanding way in the interest of fairness. If we want to eliminate hatred, the schools are a good place to start."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=599]#599[/anchor]: Dead In The Water [Aculea; ed: Lenyo][/b]
 
 The Issue 

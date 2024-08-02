@@ -12,7 +12,7 @@ The Debate
 
 4. "There's no need to address this so harshly," asserts high school teacher Sonequa Wonka, writing an incomprehensible pictorial equation on the wall. "If we increase funding on education, with a focus on civics, there won't be any more of these ignoramuses. Then the immigrants will have a fair standard to live up to. We could even offer free classes to would-be citizens to help them prepare for the test. A little education never hurt anyone."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1361]#1361[/anchor]: Fundamental Rights [The Free Joy State; ed: The Free Joy State][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 4. You finally reach your office. The voice of Dilys Shaffer, mother of the curriculum author and a travelling traditional values speaker, drifts from a rally outside your window. "Deny this wisdom and deny the Truth! Total obedience is [i]always[/i] better and women [i]were[/i] built to meekly serve. I call to @@LEADER@@: seek not the depressive, worldly life of the overeducated. It leads only to blasphemy, introspection, raucous singing and shameless solicitation." She raises a graph that appears to show the number of solicitors. "Permit only pure, home-based education; fathers shall teach sons practical manly skills, and girls will learn quiet domestic arts from their mothers."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1362]#1362[/anchor]: The Trans Panic Button [Ransium; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -40,7 +40,7 @@ The Debate
 
 3. "@@HE@@ kind of has a point," notes LGBT activist @@RANDOM_NAME@@, while affixing a sticker of a rainbow-colored @@DEMONYM_ADJECTIVE@@ flag to your desk. "The problem is that there's so much latent bias among @@DEMONYM_PLURAL@@ that juries fall for this tripe. Ultimately the responsibility for changing things falls on @@DEMONYM_ADJECTIVE@@ leaders, which last I checked includes you. Increase LGBT representation in your cabinet and government, sign more laws preventing LGBT discrimination and mandating LGBT hiring, and promote more anti-hate crime legislation. Do what needs to be done to change @@DEMONYM_ADJECTIVE@@ hearts and minds."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1363]#1363[/anchor]: In My Defence [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 4. "People don't kill people, guns do!" wails weeping liberal Yoshi Ford, oblivious to the fact that his histrionically-waving arms have just knocked one of your aides out of a third-floor window. "Not only should private citizens not have guns, but the police shouldn't have guns either! In fact, I'm not even sure soldiers should carry guns! Guns are horrible things and are the real bad guys here! Ban them all!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1364]#1364[/anchor]: Payday Groans [Lancaster of Wessex; ed: Zwangzug][/b]
 
 The Issue
@@ -68,7 +68,7 @@ The Debate
 
 3. "Payday loan and cheque cashing institutions are notorious for money laundering and other dubious activities," scowls Chief Detective @@RANDOM_NAME@@ of the @@CAPITAL@@ Police Department. "Do you know how many phony cheques are cashed, or criminal activities are facilitated through the North-Northwestern Union money transfer service? If you want to help stymie crime, just shut down the entire industry. People can use banks, which have much more stringent security procedures."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1365]#1365[/anchor]: Balancing the Box [Nuremgard; ed: Electrum][/b]
 
 The Issue
@@ -85,7 +85,7 @@ The Debate
 
 5. "A license fee to watch TV? Public funding? What are we, East Lebatuckese?" questions billionaire media mogul RuPaul Murmarina, the owner of @@ANIMAL@@ News. "Forcing people to pay an archaic institution for supposedly impartial news and educational content is nonsense. I say privatise the broadcaster and let the free market do what it does best: meet the needs of the people by telling them what to think."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1366]#1366[/anchor]: Parklife [Pythaga; ed: Gnejs][/b]
 
 The Issue
@@ -98,7 +98,7 @@ The Debate
 
 3. "But that alone is not enough!" shouts @@RANDOM_NAME@@, your neighbourhood dustman and part-time socialist, while waving a 'Parks for the Proletariat' poster in your face. "Public space is scarce, and you cannot continue to allow the upper-class to eat from their gold-plated picnic tables in their gated gardens. Take the lands those posh parks inhabit, and make them free to enjoy for all the people. From the hands of the rich, to walking hand-in-hand. That is the proper parklife."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1367]#1367[/anchor]: Sweet, Sweet Marketing [Lelscrep; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -111,7 +111,7 @@ The Debate
 
 3. "I think the fact that this is an issue in the first place speaks volumes about the way we see larger people!" cries your morbidly obese Minister of Compassion, weeping as she munches on a bowl of frosted Happios cereal. "Why can't we allow people to be whatever shape they are without ostracism? Let bigger kids be bigger kids, and if anyone criticizes their weight, that should be deemed illegal hate speech!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1368]#1368[/anchor]: Parking Hell [Genbu Kaiden; ed: Electrum][/b]
 
 The Issue
@@ -124,7 +124,7 @@ The Debate
 
 3. "This plan is too complicated," says the laconic Minister of Gordian Knots, who arrived in an ox cart and is now snipping at the air with a pair of scissors. "But doing nothing is not an option. Let us ban cars from the city instead. Stops congestion. Keeps things simple."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1369]#1369[/anchor]: Negotiation Complication [Westinor; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -137,7 +137,7 @@ The Debate
 
 3. "I agree that they'd never let her defect," comments your shady Intelligence Minister, as he escorts you out of the room. "Which is why I'm surprised she's here — the Blackacrean Supreme Leader keeps close watch on all of her subordinates. She must have been sent here to spy on us, but that's fine. We'll feed her dirty intel, track her communications, and who knows? We could find ourselves a spy network, right here in @@NAME@@. I'm sure you'll agree this is the best course of action, hmm?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1370]#1370[/anchor]: All Systems Post-Nominal [Verdant Haven; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -154,7 +154,7 @@ The Debate
 
 *5. "Occupational titles?" gasps Aldo Johnson, @@CAPITAL@@ King of Arms, clutching at his badge of office. "How ghastly! The government already has knighthoods, earldoms, and duchies for those of truly great worth. We could even offer new titles, to recognize other citizens that have served us well. Imagine it — 'The @@LEADER@@ Medal of Freedom' and 'The @@NAME@@ Legion of Merit!' These are the only post-nominals that should be allowed, and the only ones that matter!" [[color=purple]Must have Feudalism[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1371]#1371[/anchor]: @@NATION@@ Rocked by Rolls' Fatal Role [Opatia; ed: Noahs Second Country][/b]
 
 The Issue
@@ -167,7 +167,7 @@ The Debate
 
 3. "Don't be ridiculous! The people have a right to know! Everything!" trills @@RANDOM_NAME@@, a litigious anarchist who recently sued a judge for 'pounding the gavel incorrectly'. "If some rookie cop slips up, I should be able to take them to court! Not that I've done anything wrong, of course. The most private activities of every employee on the government payroll shall be made publicly available to all!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1372]#1372[/anchor]: Balls to All That [Outer Sparta; ed: Zwangzug][/b]
 
 The Issue
@@ -182,7 +182,7 @@ The Debate
 
 [4]. "I come to the games to watch football, not to look at some foreign sponsor's logo on a kit!" declares diehard fan @@RANDOM_NAME@@, whose friends are rearranging themselves to spell "@@NAME@@" in body paint. "Or some local sponsor's logo on a kit! Or anything on a kit, actually. Why don't we just require athletes to play shirtless so we can all get the best view of their muscles? You don't need any deep-pocketed backers to play the way nature intended." [Has a validity check; TBD]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1373]#1373[/anchor]: You Should Have (Copy)Left My Software Alone! [SherpDaWerp; ed: Electrum][/b]
 
 The Issue
@@ -197,7 +197,7 @@ The Debate
 
 4. "Pretty sure that's an unconscionable breach of our civil rights," responds Sancho Jones, who found the copied code, as he desperately tries to conceal a Guy Fawkes mask. "We have a right to know what we're installing on our computers — any software that you want us to download should always be open source, including the ones that you code in house! Just think how much better these applications would be if all of @@NAME@@ could provide input? True @@DEMONYM_ADJECTIVE@@ programs, made by the people, for the people!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1374]#1374[/anchor]: Protect and Swerve [Candensia; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -210,7 +210,7 @@ The Debate
 
 3. "Nobody can escape a traffic jam!" declares the Interim Director of Infrastructure, Oversight, and Traffic at the Transportation Ministry. "Roadway congestion near vehicle pursuits can be easily created and manipulated by altering traffic lights or closing roads, ensnaring evasive goons in bumper-to-bumper backups, which all but guarantees quick apprehension by police. Motorists might not appreciate being made into unwitting roadblocks, but why care? If you ask me, the only thing more despicable than a bottleneck is a criminal!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1375]#1375[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Never Say Yes to a Conference Again [Pogaria; ed: Pogaria][/b]
 
 The Issue
@@ -233,7 +233,7 @@ The Debate
 
 ****8. "Seriously? You still have weapons of mass destruction?" calls Prime Minister Anders Anderson of Skandilund, who was eavesdropping from a nearby table. "I strongly urge you to dismantle them. I know they make you feel powerful and can lead to a variety of entertaining dilemmas, but the world would be so much safer without them. And more boring, but I suppose some people like that." [[color=red]Must be Socialist[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1376]#1376[/anchor]: [color=#CE532A][i]MADness:[/i][/color] From East Lebatuck With Love [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -247,7 +247,7 @@ The Debate
 
 2. "Perhaps a calmer reply would produce better results," suggests Minister of International Diplomacy Maureen Dusk, who walks in with the acoustic guitar that she is infamous for carrying around at all times. "The missiles are definitely a threat, but they're not yet capable of firing them from San Vitenzo. We have a limited window of opportunity to solve things peacefully. What if we suggested some sort of diplomatic summit between our three nations? It couldn't hurt to ask."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1377]#1377[/anchor]: [color=#CE532A][i]MADness:[/i][/color] For @@LEADER@@'s Ears Only [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -265,7 +265,7 @@ The Debate
 
 * These options also appear as 3, 4, 5 according to internal numbering. They appear to be the same wording as the internally numbered options 0, 1, and 2 as stated above. [url=https://forum.nationstates.net/viewtopic.php?p=38016221#p38016221]Source.[/url]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1378]#1378[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Authorization to Kill [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
@@ -288,7 +288,7 @@ The Debate
 
 **6. "No! That could escalate to war — and it would all be our fault!" shouts Maureen Dusk, who had been plucking a few notes of 'Born in @@NAME@@' on her guitar. "Keep the blockade in place and demand that the enemy stay back, but order our navy to take no action unless they're directly attacked. Stopping East Lebatuck's cargo shipments isn't worth our sailors' lives." [TBD]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1379]#1379[/anchor]: [color=#CE532A][i]MADness:[/i][/color] A View to a Thrill [Pogaria; ed: Pogaria][/b]
 
 The Story So Far

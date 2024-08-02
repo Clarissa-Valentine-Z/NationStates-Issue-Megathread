@@ -10,7 +10,7 @@ The Debate
 
 3. The Dàguó hotline rings and your secretary puts it on speaker mode. "Oh @@LEADER@@, we are very sorry for this very unexpected turn of affairs! It's just the wind — you know, such blasted wind. This is not a spy balloon, but actually an oversized gender reveal balloon... Yes! It's a gender reveal to celebrate the coming birth of our prince — or princess — we don't know yet! We humbly ask that you clear your airspace for the balloon to continue on its course, so it may safely arrive in Dàguó where we will burst it at the palace of the Celestial Emperor. Once again, we are very sorry!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1621]#1621[/anchor]: The Space Between [Luna Amore; ed: Westinor][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 6. "Woah, woah, woah, we still have a space program?" exclaims infamous anti-emissions protester @@RANDOM_NAME@@, who has finally returned from a demonstration in @@ANIMAL@@ City after a 72-day-long trek. "Those gas-spewing satellites and rockets need to go the way of the plane, car, and dodo. If they emit exhaust, they gotta go. We've come this far; one more tiny push and we can be the most environmentally friendly nation in @@REGION@@! Imagine that, right? So what if people have to walk everywhere? Everyone needs to slow down and take in the beauty anyway."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1622]#1622[/anchor]: Border Burden [Ostrovskiy, Giovanniland; ed: Verdant Haven][/b]
 
 The Issue
@@ -44,7 +44,7 @@ The Debate
 
 4. "Is that Bigtopian rascal gone yet? Splendid! The elephant in the room is that we allow a weak nation like Bigtopia to push us around!" scoffs Minister of War @@RANDOM_NAME@@, tearing the letter and throwing it in the trash. "Why would we want to sign deals with them or sell our land? A far easier solution would be to intimidate Bigtopia into ceding the travel corridors we want! Run a series of military exercises along the borders where @@DEMONYM_PLURAL@@ need to cross, and inform those big-noses that we need freedom to move our troops back and forth to the exclaves for our own national security. See if we can get control of their exclaves too, to smooth this mess of a border."[/box]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1623]#1623[/anchor]: The @@MAN_1@@ in the Iron Lung [Jutsa; ed: Luna Amore][/b]
 
 The Issue
@@ -57,7 +57,7 @@ The Debate
 
 3. "We wouldn't have this problem if only patients who are willing and able to pay up got treatment," argues a @@MAN@@ in a three-piece suit who seems determined to stay as far away from everyone in the room as possible. "We shouldn't babysit those who haven't worked hard enough, or spent all their money on Pear Phones and avocado toast. If they can't afford it, they should have made better decisions when they were healthy.  We need to ditch the universal healthcare system and only treat people who can pay. It takes care of our limited resource problem. Win-win."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1624]#1624[/anchor]: @@CAPITAL@@ Coffinrail [Aphobeathesi; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 3. "There's always a compromise to be had," whispers @@RANDOMNAME@@, your pallid Minister for Transportation, touching your shoulder softly as @@HE@@ leans to your ear. "Many people have good reasons to transport dead bodies from one place to another, but not everybody is as comfortable with them as you or I. So we simply fund a separate train system. A train for the dead — in funeral colours — headed for the final destination."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1625]#1625[/anchor]: At What Price? [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -87,7 +87,7 @@ The Debate
 
 5. "We're missing the point here, which is that 92.5% of your ministers really are out of touch," complains civil servant Vicky Pedia, who is a veritable goldmine of unverified statistics. "What you need is mandatory earpieces for every minister, with a fully staffed fact-finding team on call ready to relay them a perfect answer they need as soon as they get asked any tough question."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1626]#1626[/anchor]: Wiggle Room [West Barack and East Obama; ed: Westinor][/b]
 
 The Issue
@@ -100,7 +100,7 @@ The Debate
 
 3. "You've all lost your damn minds," sighs @@RANDOM_NAME@@, your Minister of Health, as @@HE@@ shoves a couple of nauseating images of patients' intestines in your face. "Weight loss pills can be harmful if used improperly, and worms? Hello, diarrhea, vomit, stomach pain? Are you kidding me? Yet people still get conned into thinking that these extreme health risks are worth it to lose a few kilos. These scams have gone too far. Arrest both of these psychos and prohibit their products at once!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1627]#1627[/anchor]: Snow Days on Thin Ice [Obets; ed: Kaschovia][/b]
 
 The Issue
@@ -115,7 +115,7 @@ The Debate
 
 *4. "Everyone calm down, I clearly have the best solution," smirks self-accredited tech-wizard and startup CEO @@RANDOM_NAME@@. "Not only could we have virtual school on snow days, we could have virtual school, like, basically all of the time, you know? With the proprietary software developed in the online education industry, students will be able to work from the comfort of their own homes without ever needing to trek through a blizzard to class again. Furthermore, you should subsidize online teaching platforms like mine and allow students to choose between in person and online attendance. It will cost a lot of money, but, well... we can't possibly put a price on quality education for the next generation now, can we?" [[color=blue]Must have private industry[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1628]#1628[/anchor]: NEET Freaks? [Electrum; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -130,48 +130,119 @@ The Debate
 
 4. "Hell is other people," notes Jean-Pascal Montmartre, one of @@RANDOM_LAST_NAME_1@@'s clients who is peering through the space where the door once was. "Throughout your time as leader, have you enjoyed every single interaction with your citizens? I don't think so. You can probably see why many people don't want to leave their homes at all. These people are off the streets and stay out of trouble; instead of shaming them we should be lauding their example and encouraging others to do the same. Requiring employers to enable working from home, subsidising delivery services and upgrading internet networks will allow people to live their lives with minimal human contact." 
 
---------------------------------------------------------------
-[b][anchor=1629]#1629[/anchor]: TBD[/b]
+[hr][/hr]
+[b][anchor=1629]#1629[/anchor]: The Wrath of Davy Jones [Baggieland; ed: Baggieland][/b]
 
+The Issue
+Your sister bursts through the door — dragging two navy recruitment officers in with her — fuming that your niece has been denied her life-long dream of joining the Senior Service. Apparently, certain admirals believe women bring bad luck onto ships.
 
---------------------------------------------------------------
-[b][anchor=1630]#1630[/anchor]: TBD[/b]
+The Debate
+1. "D' ye wish to send the entire fleet to Davy Jones' locker?" questions the first recruitment officer, Captain @@RANDOM_LAST_NAME@@, as he tears up an enrolment form. "'Twas only a year ago — me good mate Captain Morgan allowed eight women to board his vessel, and after setting sail a huge and mighty storm blew up. Morgan tried to appease the sea by throwing all the women overboard. Alas, it were so angry, that it did not relent its storm and his ship was wrecked with all hands lost. That be [i]unquestionable[/i] proof, if ever I did see it, that women do indeed anger the sea and must never be allowed to board any ship."
 
+2. "What century are we living in?" seethes your sister, while comforting her sobbing daughter. "Women bringing bad luck on ships is just a silly superstition from hundreds of years ago. There should be no barriers to anyone just because they have breasts. We can be navigators, mechanics, ship captains — anything we put our minds to. Tell your admirals that the @@DEMONYM_ADJECTIVE@@ Women's Naval Service is on its way and here to stay."
 
---------------------------------------------------------------
-[b][anchor=1631]#1631[/anchor]: TBD[/b]
+[3]. "Shiver me timbers! I believe thar be another way," proclaims Sub-lieutenant @@RANDOM_LAST_NAME@@, the other recruitment officer, as he lifts up his eye-patch to get a better view of your sister's cleavage. "Tales tell that bare-breasted women shame the sea into good behaviour with their nakedness. That be why ships' figureheads be of a bare-breasted lady. Let thar be a @@DEMONYM_ADJECTIVE@@ Women's Naval Service, but their uniform be only a skirt and a hat." [[color=blue]Must not enforce nudity[/color]]
 
+[hr][/hr]
+[b][anchor=1630]#1630[/anchor]: Downloadable Discourse [Roulantinia; ed: Kaschovia][/b]
 
---------------------------------------------------------------
-[b][anchor=1632]#1632[/anchor]: TBD[/b]
+The Issue
+The long-awaited release of Greedy Games Studios' [i]Holler of Obligation XXXIV[/i] has faced widespread criticism as its final boss fight is locked within downloadable content (DLC), essentially forcing players to pay extra if they want to complete the game.
 
+The Debate
+1. "This is outrageous!" fumes @@RANDOM_NAME@@, chair of anti-DLC collective 'Angry Nerds', agitatedly swiping away at a mobile game. "Gaming companies continue to blatantly disrespect their most loyal fans by squeezing heaps of moolah out of them with all of these DLCs! When we buy an expensive game, we expect it to be a finished product. The greed of these publishers should not be our burden to bear! I beg you, @@LEADER@@, ban all paid DLCs and force these corporations to put out complete games!"
 
---------------------------------------------------------------
-[b][anchor=1633]#1633[/anchor]: TBD[/b]
+2. "If you don't like it, don't buy it..." scoffs the ancient founder of the Free Market Front @@RANDOM_NAME@@, who somehow found @@HIS@@ way into your office after thirty-years presumed dead. "Then, maybe these companies would feel more inclined to listen to your childish demands." His joints pop as he slowly shifts his gaze toward you. "@@LEADER@@, you're not seriously considering wasting your tax-funded time on the these lazy bums' pestiferous moaning, are you? Just let good ol' free market capitalism run its course and all will be fine in the end."
 
+3. "Look, we're just trying to meet the sky-high demands of the market without overworking our employees." explains Greedy Games CEO @@RANDOM_NAME@@, a look of chronic sleep deprivation and caffeine withdrawal blanketing @@HIS@@ face. "DLCs help us maintain quality standards and make it easier to release our products in time. Sure, we might make some extra pocket money from it, but when we work ourselves to death for very little pay and even less gratitude, why shouldn't we? If the government were to give us game developers a little stipend every now and then, we could afford to hire larger teams, decrease the workload, and ultimately DLCs would be a thing of the past. Anyway, I'm off to go check if my kids still recognize me."
 
---------------------------------------------------------------
-[b][anchor=1634]#1634[/anchor]: TBD[/b]
+[hr][/hr]
+[b][anchor=1631]#1631[/anchor]: We Are Most Amused [Nuremgard; ed: Westinor][/b]
 
+The Issue
+Rejoice! It is a jubilee year for the @@DEMONYM_ADJECTIVE@@ monarchy, and excited ministers have gathered to discuss how the country should celebrate this wonderful occasion.
 
---------------------------------------------------------------
-[b][anchor=1635]#1635[/anchor]: TBD[/b]
+The Debate
+1. "No expense should be spared!" exclaims easily excitable Minister of Patriotism @@RANDOM_NAME@@ as @@HE@@ adjusts the crown lapel pin on @@HIS@@ suit so that its glint just catches your eye. "The monarchy is the very symbol of our nation, and everyone should do their part to instil pride in our monarch and our country. Parades, concerts, military demonstrations! Fireworks, flags and free food on every corner, cultural exhibitions and street parties galore! It will be a marvellous, happy occasion for all!"
 
+*2. "No, no, that isn't enough! We need something bigger, something more profound!" insists ardent royalist and suck-up @@RANDOM_NAME@@, who is peering over to search for any reaction on your face. "The monarchy is the symbol of our nation, but it should be unambiguously you who is the true face of @@NAME@@. Assume absolute royal authority and reinforce that parliament is there to carry out your vision — Violet knows we'd be better off with you than the bickering, taxpayer-funded hacks in suits leading the country right now." [must have democratic elections]
 
---------------------------------------------------------------
+3. "The expense!" hisses your exasperated Minister for the Treasury, recoiling at the word 'free' as he clutches the latest budgetary report. "Look, I'm as much a monarchist as the next commoner, but flags and cultural exhibitions? Really? Why don't we just have the Royal Family announce a tax cut to mark the occasion instead? The spending spree will give retailers a nice boost and people will associate that with the monarchy, bolstering support for it. Everybody wins! Except anti-monarchists, but they're all buzzkills anyway."
+
+*4. "This is disgraceful!" shouts red-faced, perpetually angry republican @@RANDOM_NAME@@ as @@HE@@ brandishes a flaming torch. "Why on earth should we spend money on this absurd institution when people are struggling to make ends meet? I know I'd certainly rather help the poor instead of kowtowing to a bunch of inbreds. It's time for this nation to finally grow up and get rid of the monarchy... forever! Long live the republic!" @@HE@@ sets fire to a flag bearing the royal insignia and drops it in front of you. 
+
+*5. "This is disgraceful!" shouts red-faced, perpetually angry republican @@RANDOM_NAME@@ as @@HE@@ brandishes a flaming torch. "Why on earth should we spend money on this absurd institution when people are struggling to make ends meet? I know I'd certainly rather help the poor instead of kowtowing to a bunch of inbreds. It's time for this nation to finally grow up and get rid of the monarchy... forever!" @@HE@@ sheepishly looks over at you and discretely tosses the torch away. "That is... except for your good self, of course. I'm sure you wouldn't mind being a president instead?"
+
+[hr][/hr]
+[b][anchor=1632]#1632[/anchor]: Unexpected Interruption of Service [Pogaria; ed: Candlewhisper Archive][/b]
+
+The Issue
+Last night, a religious festival was raided by police who were executing a search warrant, right in the middle of a special service marking [i]Erator[/i], the holiest annual celebration of the [i]Tranquility of Yellow[/i] — a truculent sect devoted to self-flagellation. However, the search found no evidence of criminal activity – and Yellowists nationwide are livid at this perceived violation.
+
+The Debate
+1. High Priestess Taina Swiff storms into your office in an agitated furor that belies the name of her religion. "I knew these cops were trouble when they stormed in. Our holy temple has been completely and thoroughly violated! The non-believers have corrupted our chakras, handled our holy scrolls, and sullied our sacramental cheese and crackers. Do you know how long it will take to perform the Ritual Dance of Sanctification? Secular police should respect religious ceremonies of all sorts, and wait til they have ended before acting."
+
+2. "Hey, you need to calm down. The anonymous tip we received clearly stated that the Yellowists were running a human trafficking ring out of the basement of this address," claims @@CAPITAL@@ Police Chief @@RANDOM_NAME@@, projecting a defiant air of authority. "Yes, we just found out that the actual human trafficking operation was being run out of the back of a pizza place down the street — but we didn't know that at the time. Look, we had a warrant. My officers were just doing their jobs. We're not apologizing, and we explicitly shouldn't be required to pay any compensation money for the items that were accidentally damaged, or the delicious cheese and crackers that somehow vanished."
+
+3. "Or, we could just choose the obvious solution — exile," declares @@RANDOM_FIRST_NAME@@, your bigoted cousin who is a frequent guest on the @@ANIMAL@@ News Channel. "Round up the Yellowists and deport them. Even if someone else was responsible for this particular crime, you know that these religious extremist types are petty, dishonest criminals by nature. In fact, why don't we just deport everyone who doesn't follow a normal religion, like @@FAITH@@?"
+
+[hr][/hr]
+[b][anchor=1633]#1633[/anchor]: Do You Think He's Overcompensating for Something? [Genbu Kaiden; ed: Candlewhisper Archive][/b]
+
+The Issue
+Larger and heavier cars have proliferated in recent years. These have been linked to higher fatality rates after collisions with pedestrians and smaller vehicles, as well as causing traffic problems on narrower roads.
+
+The Debate
+*1. "When we make and sell these big boys, we're simply responding to what the market wants from us," grins industry CEO Ivor Biggun, adjusting the voluminous waistband of his business suit. "People just want to be safe when driving in an increasingly hostile environment, and if they have to buy heavier, more expensive cars to feel safe in, then we'll service that need. Maybe you need to accept the trend, and instead spend some money on wider roads, bigger parking spaces, and subsidising folk who need a little financial assistance to make the upgrade." [[color=blue]Must allow Private Industry[/color]]
+
+*2. "When we manufacture and distribute these big boys, we're simply responding to what the masses desire," grins industry director Ivor Biggun, adjusting the voluminous waistband of his worker overalls. "People just want to be safe when driving in an increasingly hostile environment, and if they need heavier, more expensive cars to feel safe in, then the state must service that need. Maybe you need to accept the trend, and instead spend some money on wider roads, bigger parking spaces, and investing in upgrading the nation's cars." [TBD]
+
+3. "Some of us own normal sedan cars, and are sick of finding ourselves hemmed in on all sides by tanks," complains a nervous looking man, who is wearing a shirt two sizes too small. "I accept that industry and workmen need trucks, but is it sensible for the average commuter to be taking up all this road space? Surely you can at least ban them for normal non-business drivers, and maybe also restrict the installation of unnecessary lift kits, bull bars, and other after-market modifications that make a large vehicle bigger and more unsafe for everyone else outside of it."
+
+4. "Do people really need cars at all, though?" asks a passing jogger, whose figure-hugging lycra bodysuit leaves too little to the imagination. "Auto manufacturers are in an arms race to make bigger, heavier, more dangerous cars. If we want safer roads and a cleaner world altogether, then motor vehicles should be banned outright."
+
+[hr][/hr]
+[b][anchor=1634]#1634[/anchor]: The War of the Planets [Il Sonno della Ragione Genera Mostri; ed: Baggieland][/b]
+
+The Issue
+Last night, panic spread throughout @@NAME@@ after a broadcast by the film director and radio speaker Orson Wheels, in which he announced an alien attack — and subsequent invasion — in the rural area of @@ANIMAL@@ Mills. Many people, fearing the end of civilisation, poured into the streets in an attempt to reach safety, as accidents, robberies and fires ensued. However, Mr. Wheels was simply reading a screenplay of his upcoming movie, [i]The War of the Planets[/i].
+
+The Debate
+1. "Orson Wheels must be arrested and held accountable for all damages caused by broadcasting this fake news," demands Ulla @@RANDOM_LAST_NAME@@, a cleaner who has just finished picking up piles of broken glass scattered across the streets. "In fact, why don't you make it illegal to deliberately spread disinformation?"
+
+2. "Oh come on, I assumed the listeners would realise it wasn't real," states Orson Wheels, as he clears his throat, "I just wanted to arouse some curiosity towards the new movie and well, it worked; this morning five producers have called me already. You can't hold artists responsible for the public's reaction to their works, oh and you'd better increase the sanitation budget so this mess gets cleaned up."
+
+3. "Last night's events have taught us one thing — amidst the perpetual tensions with Blackacre — we are totally unprepared to face a threat of this kind," claims Thomas Cruiser, a concerned dad holding his child in his arms. "Everyone needs to be taught the correct measures if something like this happens for real. The government should start an awareness campaign with alien alerts, exercises and training. Then everyone will know what to do in such an emergency."
+
+4. "No, no, no and no! IT WAS REAL!" screams Tim Collins, the creator of the 'They Live Between Us' conspiracy magazine. "I've just come back from @@ANIMAL@@ Mills, and take a look at my video... Okay, they may seem like just farmers ploughing the soil, but I KNOW they are aliens; they took some human skins and they are covering their gigantic tripod machines under the ground in preparation for the invasion. We must stop them and bomb everything here within five miles!"
+
+[hr][/hr]
+[b][anchor=1635]#1635[/anchor]: A Sine of the Times [West Barack and East Obama; ed: Westinor][/b]
+
+The Issue
+Many students have complained that their compulsory maths classes, which teach topics such as calculus and trigonometry, are of no value to them.
+
+The Debate
+1. "Take a look at my exam question! 'If X is equal to the number of @@ANIMAL_PLURAL@@ in West @@CAPITAL@@ Nature Reserve, and the derivative of cos(x) is equal to the number of @@ANIMAL_PLURAL@@ in East @@CAPITAL@@ Nature Reserve, what is the rate of change of @@ANIMAL_PLURAL@@ in @@NAME@@?' Why do I need to know this?" wails frustrated student @@RANDOM_NAME@@. "All maths classes teach these days is confusing gibberish. None of this is even going to matter to me — I want to become a photographer, not a nerd stuck in a basement doing calculations for the rest of my life. Maths curricula should be reworked to teach basic mathematical skills that would be applicable to the majority of the population: such as filing taxes. All the other mumbo jumbo should be optional."
+
+2. "Actually, topics like calculus are vital to a student's education, even if they don't currently realise it!" interjects @@RANDOM_NAME@@, a 'cool' maths teacher. "Sure, the majority of the population will never have to use the actual maths concepts in their occupations. But they will need problem solving skills and the ability to think outside the box, both of which are strengthened by learning advanced mathematics! Maybe if we revamped our teaching methods to make maths seem less boring and 'cringe' and more fun and 'based', students would have a greater appreciation of the subject and benefit from it more? I've got a couple of ideas about adding these 'meme' things kids love into our textbooks..."
+
+3. "Most students won't ever use these maths concepts? Well, sounds like we should change that," mutters philistinic engineer @@RANDOM_NAME@@ as @@HE@@ furiously scrawls equations onto @@HIS@@ child's fingerpaint artwork. "Maybe if we stopped flushing money down the toilet by funding these 'artistic' deadbeats and instead spent it on mathematics-oriented industries, people would realise that taking pictures of the sunset or whatever isn't a productive way to contribute to society and will finally get off their butts to study hard and get proper jobs. That'll give those complainers somewhere useful to invest their clearly ample free time."
+
+[hr][/hr]
 [b][anchor=1636]#1636[/anchor]: TBD[/b]
 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1637]#1637[/anchor]: TBD[/b]
 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1638]#1638[/anchor]: TBD[/b]
 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1639]#1639[/anchor]: TBD[/b]
 
 
---------------------------------------------------------------
+[hr][/hr]

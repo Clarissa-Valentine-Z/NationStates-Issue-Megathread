@@ -12,7 +12,7 @@ The Debate
 
 4. "Spoilers must be banned!" wails George JK Token, the beloved and bearded fantasy author of Hexicon and the popular A Play of Crowns series. "It's of no coincidence that mere days after you spoiled my book, it fell from its number one position on the @@CAPITAL@@ Times best seller list. Spoilers greatly harm the publishing and entertainment industries. Nobody wants to bother with something if they know how it ends! I urge you to make it illegal to spoil. If you don't, well, then I just might have to kill off Aya Lark in the next Play of Crowns book, seeing how she's your favorite character."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=541]#541[/anchor]: Spare The Whip, Spoil The Law [Annihilators of Chan Island; ed: Logophilia Lyricalia][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 5. "This word 'whip' has me thinking," ponders your old friend and chief-of-staff @@RANDOM_FIRST_NAME@@ Brutus, who is also the odds-on favorite to replace you one day. "What if we let everyone vote as usual, but every time some upstart so-called 'statesman' votes against your wishes, you ACTUALLY get to whip them! Live, in the public square! Wouldn't that be a delicious spectacle? The sting of the lash, the sound of leather striking flesh... I can't imagine anyone wanting to lead @@NAME@@ without it."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=542]#542[/anchor]: What A Waste [Atomic Utopia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -44,7 +44,7 @@ The Debate
 
 [4]. "I feel ashamed to be offering you an even better and easier solution, one that won't cost you a thing and might even make you a little money," simpers Snidely Industries CEO Cornelius Davidson Snidely while twirling his handlebar moustache. "Why, this waste could be sold to some very special international clients who would be very discreet about where they bought it from. I just recently sold them a batch of suitcases and plenty of dynamite: your waste products are the last missing ingredient they need. Dirty money from dirty bombs? No... clean profit margins from a clean sale!" [[color=blue]Must have Private Industry[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=543]#543[/anchor]: Flash, Aaaaaargh! [The Called; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -59,7 +59,7 @@ The Debate
 
 4. "You know the real problem is how fast Flashy_G was able to spread chaos," observes your Minister of Memetic Warfare, carefully replacing the ink cartridge in her fountain pen. "These little online social media apps can reach hundreds of thousands of people in seconds. That's faster than the police can act or we can counter it. This could escalate from pesky teens spreading pests, to actual mobs destroying our government. On the other hand, if we can control the flow of information, then we can control the country. My people can secretly take control of the social media sites and track down this troublemaker and any others who emerge. Then, rather than silence them, we can adjust their activities to suit our needs."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=544]#544[/anchor]: Object-Oriented Programming [Lubrumia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -74,7 +74,7 @@ The Debate
 
 4. "The problem here isn't some video games, it's ALL video games," observes disbarred attorney Tom Jackson, peering at you over a stack of lawsuit documents. "Video games keep kids - and adults for that matter - on the couch all day. They rot brains, cause moral decay and encourage violence. I'm not blaming kids here, I'm blaming the media we feed them: don't hate the players, hate the game! Ban this trash, and get kids back outdoors playing healthy and wholesome games like mumbletypeg or pinfinger!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=545]#545[/anchor]: Expats On The Electoral Roll? [Nuremgard; ed: Nation of Quebec][/b]
 
 The Issue
@@ -85,7 +85,7 @@ The Debate
 
 2. "Absolute nonsense," refutes pawnbroker, @@RANDOM_NAME@@, after taking a break from trying to sell your frustrated staffers a defective blender supposedly owned by the former Mayor of @@CAPITAL@@. "These traitors are whining and entitled shysters who chose to leave our great country, but now want a say in how @@NAME@@ is governed? You can't just waltz back to the home you abandoned and think you understand what life is like here! Restrict voting to all @@DEMONYM_PLURAL@@ who still live in the homeland. Those living abroad can cry into their Manamana tequilas for all I care!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=546]#546[/anchor]: Dumpster Divers Dividing Denizens [A Humanist Science; ed: Nation of Quebec][/b]
 
 The Issue
@@ -98,7 +98,7 @@ The Debate
 
 3. "YO! DOWN HERE!" bellows a voice through your office window. You look down at the street to see @@RANDOM_NAME@@, a municipal garbage collector. "Look, it ain't safe to have people diggin' through dumpsters. But hey, I get it. It ain't right to have good food thrown away when so many are hungry. YO SAL!" The worker whacks the side of the truck a couple of times, and the compactor inside begins to roar. "Why don't you boost welfare spendin', and require shops to donate past-'sell-by'... wha?... um, but safe goods to food banks? Make 'em an offer they can't scrap."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=547]#547[/anchor]: Fantastic Beasts And How @@NAME@@ Harmed Them [Outer Sparta; ed: Nation of Quebec][/b]
 
 The Issue
@@ -113,7 +113,7 @@ The Debate
 
 4. "Perhaps there could be a compromise?" queries your Minister of Environment, @@RANDOM_NAME@@, who has been smelling like grass lately. "Ending zoos would harm the tourism industry, and we can't deny that these programs help endangered species. Why don't we set a limit on what animals they take? Specifically the endangered ones? I'm sure that we can also force tougher standards to ensure OceanWorld treats the animals humanely as well."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=548]#548[/anchor]: Appointment Of A Science Advisor [Golgothastan; ed: Lenyo][/b]
 
 The Issue
@@ -128,7 +128,7 @@ The Debate
 
 4. "Whomever you appoint will just end up leading @@NAME@@ into further damnation!" rants fundamentalist preacher @@RANDOM_FEMALE_NAME@@ in one of her sermons, replete with typically alarming - and anatomically explicit - descriptions of what this damnation will actually entail. "It's time we purged the government of all its heathen influences, and that includes removing anyone who might go around using words like evolution, or entropy, or evidence!" She breaks off to chase after a group of scientists passing by, waving a pitchfork at them.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=549]#549[/anchor]: Feasting Or Fasting? [The Free Joy State; ed: Lenyo][/b]
 
 The Issue
@@ -143,7 +143,7 @@ The Debate
 
 4. "How 'bout this for an idea?" blurts @@RANDOM_NAME@@, author of popular self-help manual 'Big, Brainy and Beautiful'. "Just butt out. Big is who I am, and big is beautiful. Stop trying to legislate our teens' behinds, and instead promote plus-size beauty for the betterment of our national self-esteem. A little butter never hurt no one; that's what I've always said!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=550]#550[/anchor]: 10 Awful Crimes You Just Won't Believe! [Candlewhisper Archive; ed: Nation of Quebec][/b]
 
 The Issue
@@ -160,7 +160,7 @@ The Debate
 
 5. "Social media made this problem; let social media fix it," suggests too-reasonable seeming taxi driver @@RANDOM_MALE_NAME@@, who considers himself an expert on how @@NAME@@ is run after driving around several politicians. "Tell the big companies behind these sites that they have to police their own sites and enforce better standards, or face financial penalties. They've got huge profit margins, and they pay barely any tax, so let them shoulder the cost of the problems they've created."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=551]#551[/anchor]: The Big Fat @@DEMONYM_ADJECTIVE@@ Wedding [Cazalius Lodra; ed: Nation of Quebec][/b]
 
 The Issue
@@ -175,7 +175,7 @@ The Debate
 
 4. "Nobody asked me whether I wanna pay for this!" exclaims disgruntled baker, @@RANDOM_NAME@@, who is using a piping bag to write anti-government messages on the cake. "The answer is: I don't! I pay taxes for important things like police, education, and fixing potholes. If you want a wedding, spend your own damn money. Oh wait, I forgot, the people pay your salary. So quit wastin' our money on this load of hokey and spend it where it really matters. I think it's time we people know where we're putting our labor, and who's gettin' what in return!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=552]#552[/anchor]: Must Be A Full Moon [Australian Republic; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -190,7 +190,7 @@ The Debate
 
 4. "Okay, boss, here's what you're gonna do!" asserts @@RANDOM_NAME@@, one of @@NAME@@'s foremost TV pranksters, wearing a mock military uniform, and leaving security to wonder to how your office was penetrated. "You're gonna get the police to find where these people live. Then you're gonna get in your car, wait till they're on their walk to work... and then... BAM! Drive-by mooning! Come on, it'll be awesome! You want to grab a beer or six to get in the mood?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=553]#553[/anchor]: Cede Our Seeds? [A Humanist Science; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -203,7 +203,7 @@ The Debate
 
 3. While fiddling with a toothpick, Dr. Flint Shoepeg chimes in: "No doubt everyone benefits from the improvements companies like McSanto make to our crops. Those stringy bits really are - OW! - um, really are very annoying. But driving Mom 'n Pop out of business wouldn't be right either. Why don't you discourage engineered sterilization, but support my research in chemical-based genetic rights management?" He retrieves some dental floss from a pocket before continuing: "This way, small farmers can still save seed, but McSanto can require the purchase of an activator spray that will turn their value-added features on. Sure, there's a small risk from runoff, but - OW!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=554]#554[/anchor]: Welcome To --CENSORED-- [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -216,7 +216,7 @@ The Debate
 
 3. "Is plenty clear we need to reach a compromise, ya ken?" suggests @@RANDOM_FIRST_NAME@@ MacDiarmid, a noted devolutionist who attends every public debate possible. "Seems like majority dinnae want that name appearin' on official maps and websites and suchlike, but guv-ment choosin' a spankin' noo name seems a wee bit too bossy, if yer see what I'm sayin' in the noo. Why not have yer provincial votes on yer town nomenclature like? Have any petition with a dram of signatures be triggerin' a referendum: then all the people can decide how settlements are named, y'ken? Granted there, there may be a-one or a-two grumpy locals fashin' themselves like wee bairns aboot it, but as me gran-da used to say, ye cannae please all of the people all of the time."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=555]#555[/anchor]: It's An Honor Just To Be Nominated! [Omigodtheykilledkenny; ed: Nation of Quebec][/b]
 
 The Issue
@@ -231,7 +231,7 @@ The Debate
 
 4. "I've got a much more classy idea!" declares @@MAJOR_INDUSTRY@@ mogul @@RANDOM_NAME@@, while ogling all your interns. "Why waste our time with votes or vetoes, when we can force all candidates, even the men, to compete in a beauty pageant! It'll be a fabulous show, everyone will love it. Just imagine, a leading candidate breezes through the talent and interview portions, but gets blown away in the swimsuit competition! I know I'd want to watch! The best part is that it won't cost you a single @@CURRENCY@@! Just let me throw in a few ads for my company and products, and I'll pay for everything!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=556]#556[/anchor]: Here Be Dragons? [Golgothastan; ed: Nation of Quebec][/b]
 
 The Issue
@@ -248,7 +248,7 @@ The Debate
 
 5. "I'm not sure there's anything actually wrong with the public believing dragons exist," muses Minister of Whispers @@RANDOM_NAME@@, while feeding a flock of little birds. "If you ask me, they've been getting a little uppity lately. Remember that protest last week, simply because you wanted to erect your statue in @@CAPITAL@@ Square? Let's start spreading rumours that you really do have dragons - a whole flight of them! They'll think twice about speaking out over the new tax bill then! Fire and blood!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=557]#557[/anchor]: Take A Hike! [A Humanist Science; ed: Nation of Quebec][/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 3. By this point, you've been standing in the sun for a while, and a mild heat stroke is setting in. Wait - is that bear wearing a tie? "You know, expensive fines and equipment will only discourage people seeking help when they really need it," says the bear while munching a stolen packet of Honey Burr-Berry cereal. "That'll cost lives too. The better solution is to increase funding to national parks, with safe trails, visitor centers, and campsites. Then the common @@DEMONYM_PLURAL@@ can enjoy @@NAME@@'s natural wonder without the corporations getting their grubby hands on it. It's smarter than the average policy!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=558]#558[/anchor]: Turning A Blind Eye? [The Aurora Archipelago; ed: Gnejs][/b]
 
 The Issue
@@ -274,7 +274,7 @@ The Debate
 
 3. Your @@ANIMAL@@-walker, @@RANDOM_NAME@@, who has 20/20 vision, rambles at you whilst untangling several leads. "Why are we only thinking of the blind here? I can't see why the blind should be able take their @@ANIMAL_PLURAL@@ into restaurants, while my poor babies still have to be tied out in the rain. You'll let me take my @@ANIMAL_PLURAL@@ into restaurants as well, right?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=559]#559[/anchor]: The Low Aspiration Nation [The New Bluestocking Homeland; ed: Lenyo][/b]
 
 The Issue

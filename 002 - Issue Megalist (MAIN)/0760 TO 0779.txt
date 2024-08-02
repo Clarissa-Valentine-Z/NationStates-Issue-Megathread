@@ -14,7 +14,7 @@ The Debate
 
 5. "All this debating is giving me a headache," complains @@RANDOM_NAME@@, your Minister of Daft Ideas. "Imagine all the time people would save if they didn't spend the day listening to arguments about tweaking the tax code or giving benefits to old people." He motions over to a window overlooking a lone activist spray-painting 'MAFTAOAL FTW' across @@CAPITAL@@'s main square. "I have an idea, what if we just stopped debating altogether? No meddling politicians, at all. Let the voters decide for themselves."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=761]#761[/anchor]: As Seen On TV [Cazalius lodra; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 4. "The only obvious thing here is that it's all a coincidence," points out mathematician Khethelo Roberts. "There was no reasonable way to predict the @@CAPITAL@@ bombings, and frankly there's no reasonable way to predict terrorism at all. Best thing to do is to strip back security and intelligence services altogether, and give us taxpayers a break!" He yelps suddenly as black-gloved hands pull him into the back of an unmarked van.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=762]#762[/anchor]: Double Down On Double Time? [Australian Republic; ed: Caracasus][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 3. "We never used to rush about like this when I was a young'un," interjects old-timer @@RANDOM_NAME@@, holding up a queue just to talk to you. "Nowadays no-one seems to have enough time for a cuppa and a chat. Why don't we go back to the good old days when you only had to work on weekdays, and everything closed at five? That'll give us all plenty of time to get to know each other properly, like back when I was a nipper."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=763]#763[/anchor]: Any Body For Science? [The 19th Century; ed: Helaw][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 3. "But what incentive would people have?" asks @@RANDOM_NAME@@, taking a wallet and syringe out of @@HIS@@ bag. "It's obvious that testing on live subjects is a priceless opportunity, and that is exactly why we should place a price on it! Mandate that all participants should be paid, say, 5000 @@CURRENCY@@ per day while they are undergoing tests. This stops low-rate scientists from going overboard, [i]and[/i] it helps the poor. It's a flawless plan!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=764]#764[/anchor]: Dude, Where's My Elected Representative? [Nation Of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -69,7 +69,7 @@ The Debate
 
 3. "There's always room for compromise," suggests noted centrist politician, @@RANDOM_NAME@@, who is known for attending as many government meetings as possible. "Obviously we need to have our politicians be knowledgeable about the areas they're representing, but we also can't deny them a right to choose their own place of residence. How about we instead compel all politicians to educate themselves about their chosen ridings? Force them to study the area's history, culture, and languages and actually spend some time there. Then, test them! Give them an examination to pass to prove they know their stuff! If they fail, then they can't run in that riding. After all, a little bit of knowledge never did anyone any harm."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=765]#765[/anchor]: Don't Judge Me [Eaischpnaeieacgkque Bhcieaghpodsttditf; ed: Zwangzug][/b]
 
 The Issue
@@ -86,7 +86,7 @@ The Debate
 
 5. "You all are not taking this seriously!" foams @@RANDOM_NAME@@, your Minister of Anger Management, while punching a hole in the wall. "You don't need to change anything. The only thing that should be replaced is that incompetent judge who arrived late! Fire the crook and replace her with someone that actually wants to take the job seriously! I don't care if that means judges can't sleep or eat or whatever it is besides doing their duty to @@NAME@@. Our judicial system is counting on their undying loyalty to the law!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=766]#766[/anchor]: Carbon Emissions Are Why We Can't Have Nice Things [Continental Commonwealths; ed: Gnejs][/b]
 
 The Issue
@@ -103,7 +103,7 @@ The Debate
 
 5. "This meddling in national affairs is sickening," howls @@RANDOM_NAME@@, an energy sector advocate known for @@HIS@@ love of dramatic exaggerations. "Any one of the proposed options will decimate our economy, without having the slightest positive impact on the environment, probably. All the worthwhile companies will flee to more business-friendly jurisdictions, and @@NAME@@ will die a horrible and painful death; that's right, I said it: that treaty of yours will kill @@NAME@@. Who's going to appreciate all those flowers when everybody's dead, huh? Trash the treaty!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=767]#767[/anchor]: Xe Said, Zhe Said [The Marsupial Illuminati; ed: Ransium][/b]
 
 The Issue
@@ -116,7 +116,7 @@ The Debate
 
 3. "The problem is that our speech allows for such offenses to be had at all," claims @@RANDOM_NAME@@, a controversial equality advocate. "I'm not just talking about eliminating gendered pronouns from our language, although that's really a no-brainer, I'm talking about eliminating any sort of possibly offensive descriptors. Adjectives possibly related to race? Gone! Descriptors of different religions? Gone! Racial slurs? Oh man... er, person, are they gone. With new @@DEMONYM_ADJECTIVE@@ OffenselessSpeak, @@NAME@@ will be paradise."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=768]#768[/anchor]: Trouble Brewing [Candlewhisper Archive; ed: Ransium][/b]
 
 The Issue
@@ -131,7 +131,7 @@ The Debate
 
 4. "Oolongs for better tea?" giggles @@RANDOM_NAME@@, your pun-loving Minister of Agriculture, and your Cabinet brace themselves for an onslaught of tea-related puns.  "Can we Matcha solution to the problem?  Can we Rize to the occasion?  Did you read that report I Sencha?  Did I get things down to a tea, my Darjeelings?"  In the face of blank faces and silence, @@HE/SHE@@ changes tack.  "Uh... anyway, coffee.  Coffee is easier to make and nicer.  Subsidise coffee growers."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=769]#769[/anchor]: How To Print Money? [Singapore no2; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -148,7 +148,7 @@ The Debate
 
 5. "What's so wrong with individuals making money?" questions a dodgy-looking stranger with ink stains on his hands.  "If the government can print money, then why can't private citizens?  It'd stimulate the economy, I reckon, by creating cashflow and hyperinflating the currency, or something like that.  Hyperinflation is something good, right?  Isn't that what free market economics means?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=770]#770[/anchor]: Vaping Up A Storm [Kortza; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -161,7 +161,7 @@ The Debate
 
 3. "Nicotine replacement devices are reasonable to help with nicotine addiction," interjects Dr. @@RANDOM_LAST_NAME@@ in a paternalistic tone of voice, "and that's all that they should be used for.  People are too stupid to decide things for themselves: you need someone who has a brain to tell them what to do.  @@LEADER@@, if you have any respect for the moral and physiological well-being of our nation, I implore you to necessitate a psychiatrist's prescription for electronic cigarettes."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=771]#771[/anchor]: Drug Up The Prices [Outer Sparta; ed: Helaw][/b]
 
 The Issue
@@ -176,7 +176,7 @@ The Debate
 
 4. "It's all an elaborate plan!" exclaims Marty Stebeckli, the CEO of Bletchley Pharmaceuticals, revealing a sheet of paper covered in indecipherable text. "You're going to have to trust me here. Raising the price of Garatim was intended to put pressure on private health insurance companies, by forcing them to spend massive amounts for the drug. We're even giving it out for free to people that actually need it! @@LEADER@@, our intentions were pure. Perhaps the government should encourage this behaviour by handing all drug production over to my company?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=772]#772[/anchor]: Do You Have Artistic License? [Goolsbee; ed: Caracasus][/b]
 
 The Issue
@@ -189,7 +189,7 @@ The Debate
 
 3. "My children's babysitter doesn't need a license to do a good job, but we obviously need to enforce certain standards for important professions where people's lives are at stake - like doctors," observes Dr. @@RANDOM_NAME@@, President of the [i]@@DEMONYM_ADJECTIVE@@ Medical Association[/i]. "The best way to protect the public and to keep out the riff-raff is to require a letter of recommendation to the licensing board from established and respected associations, such as mine."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=773]#773[/anchor]: Know Thy Selfie [The Grim Reaper; ed: The Grim Reaper][/b]
 
 The Issue
@@ -200,11 +200,11 @@ The Debate
 
 2. "More publicity means more scrutiny," murmurs your personal assistant, straightening your curtains. "We need to keep your online image squeaky clean. We should keep your public presence where it belongs - pre-prepared teleprompter speeches and draft-by-committee press releases."
 
-3."Woah, that sounds really, really boring," sneers your Chief of Staff, pulling your curtains askew again. "Look, give me some of your social media passwords. I'll dump some opposition research to get your fans really riled up. They'll make short work of anyone who tweets at you the wrong way."
+3. "Woah, that sounds really, really boring," sneers your Chief of Staff, pulling your curtains askew again. "Look, give me some of your social media passwords. I'll dump some opposition research to get your fans really riled up. They'll make short work of anyone who tweets at you the wrong way."
 
 4. "You have all these fans, and you want to manipulate them?" gasps @@RANDOM_NAME@@, head of the @@DEMONYM_ADJECTIVE@@ Bureau of Statistics and hobbyist street petitioner. "It would be far more valuable to know exactly who supports exactly what policies. With bots to scrape social media for all the hashtags and profiles you'll ever need, you can finally see every citizen the way they want to be seen - as a data point!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=774]#774[/anchor]: Clean Switch [Candlewhisper Archive; ed: Gnejs][/b]
 
 The Issue
@@ -219,7 +219,7 @@ The Debate
 
 4. "Hey, they've already taken all the low level jobs; you can't let them take the high paying ones too!" rants unemployed ex-factory worker @@RANDOM_NAME@@. "@@DEMONYM_ADJECTIVE@@ jobs should be for @@DEMONYM_ADJECTIVE@@ people! Make it illegal for employers to offer a job to an immigrant unless they can prove that there's no native to fill the spot."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=775]#775[/anchor]: Affirmative Election [Singapore no2; ed: Pogaria][/b]
 
 The Issue
@@ -234,7 +234,7 @@ The Debate
 
 [4]. "The proposed rules don't go far enough!" proclaims @@RANDOM_NAME@@, a devout follower of a very small sect of Conspiritivism, sporting a tin foil helmet and insulating robes. "If minority races get to have special considerations, it's only fair that we have them too. You should allocate reserved seats in parliament to both ethnic minorities and minority religions to give everyone a voice!" [[color=purple]Must not have Atheism[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=776]#776[/anchor]: Fake News, Everyone! [Nation of Quebec; ed: Helaw][/b]
 
 The Issue
@@ -247,7 +247,7 @@ The Debate
 
 3. "No matter what you decide, someone is going to be unhappy," notes Trevor Oliver of [i]The Weekly Moan[/i], a news satire program. "Allowing fake news spreads ignorance and fear, but clamping down on it harms freedom of speech. You'll note that before each of my shows, there is a disclaimer stating that this isn't real news and shouldn't be taken seriously. Couldn't you simply force the fake news sites to openly state that they're fake? Sure, the government would be able to decide which sites should and shouldn't be coupled with a warning, but the people wouldn't be easily tricked any more."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=777]#777[/anchor]: Betting On The Future [Drasnia; ed: Ransium][/b]
 
 The Issue
@@ -260,7 +260,7 @@ The Debate
 
 3. Your brother, who has been eavesdropping the whole time through your office door's keyhole, interrupts the group. "How about instead we use tax money to purchase credit for casinos and then distribute that credit to every taxpayer? That way they're basically getting a tax break and there's an incentive for people to try these really entertaining games. Oh - totally unrelated - but could you lend me some money again?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=778]#778[/anchor]: Mal Appetit! [Frieden-und Freudenland; ed: The Free Joy State][/b]
 
 The Issue
@@ -275,7 +275,7 @@ The Debate
 
 4. "This is pathetic," sneers Robin Wood, an advocate for equality, picking up the extra croissants on Mr. Jass' plate and tossing them out of the window to the huddled masses who anxiously await your decision. "These poor, benighted workers fail to question why they are unable to afford these fancy foods in the first place. It's because of this hideous income inequality! @@LEADER@@, redistribute our great nation's wealth and give a standard salary to everyone, no matter their job! No more, no less!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=779]#779[/anchor]: We're Dying For Your Business [Pigeontree; ed: Ransium & Lenyo][/b]
 
 The Issue
@@ -286,6 +286,6 @@ The Debate
 
 2. "Yes, and do you know why there's a shortage of funeral services, hmmm?" quietly seethes funeral director Igor Fronkensteen, while dragging a lumpy burlap sack behind him. "Burial plot land costs...they are rising, yes? The price of insuring a hearse these days is, how do you say, absolutely ludicrous, yes? And the restrictive laws on 'adequate refrigeration' and 'treating the dead with dignity' all are running our margins and my salary down! You want more funeral services at a cheaper price, you should ease up on the bureaucracy, yes?"
 
-*3. “Funeral services? What a waste of money,” scoffs obscure thinker @@RANDOM_NAME@@, who has yet to sell any copies of @@HIS@@ book [i]Rich Dead, Poor Dead[/i]. “What’s the point in some drawn-out shebang for someone who’s not even going to be around to see it? Do away with funerals altogether. That way we can cremate everyone and harvest their bodies for phosphorus!” [[color=purple]Must not have Atheism[/color]]
+*3. "Funeral services? What a waste of money," scoffs obscure thinker @@RANDOM_NAME@@, who has yet to sell any copies of @@HIS@@ book [i]Rich Dead, Poor Dead[/i]. "What's the point in some drawn-out shebang for someone who's not even going to be around to see it? Do away with funerals altogether. That way we can cremate everyone and harvest their bodies for phosphorus!" [[color=purple]Must not have Atheism[/color]]
 
 *4. "Funeral services? What a waste of money," scoffs obscure thinker @@RANDOM_NAME@@, who has yet to sell any copies of @@HIS@@ book [i]Rich Dead, Poor Dead[/i]. "What's the point in some drawn-out shebang for someone who's not even going to be around to see it? Do away with funerals altogether. That way we can cremate everyone and harvest their bodies for phosphorous!" [[color=purple]Must have Atheism[/color]]

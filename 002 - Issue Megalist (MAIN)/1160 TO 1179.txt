@@ -10,7 +10,7 @@ The Debate
 
 3. "It's a shame that we have to pay for basic commodities like this," muses embittered socialist @@RANDOM_NAME@@. "Look, imagine you have two cows and... no, wait, that doesn't work. What I mean to say is that the government should pay producers a fixed tariff, and then supply a milk ration directly to the people. That will prevent greedy businesspeople from endangering people's health for profit, and ensure that nobody will go to bed hungry!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1161]#1161[/anchor]: Chip Off the Ol' Block [Jutsa; ed: Nation of Quebec][/b]
 
 The Issue
@@ -23,7 +23,7 @@ The Debate
 
 3. "No way! This has been the greatest idea you've ever had!" exclaims independent MP and professional suck-up @@RANDOM_NAME@@. "The fact that people elected us like-minded officials should tell you what they really want - and what they want is for us to implement your agenda. So why not cut out the middleman and henceforth ban all elections in Socialist Democratic Communes? Blackacre manages well enough without them. That way, you can impose your agenda without any opposition getting in the way!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1162]#1162[/anchor]: She's Always a Woman to Me [The Marsupial Illuminati; ed: Gnejs][/b]
 
 The Issue
@@ -40,7 +40,7 @@ The Debate
 
 5. "Or..." shouts your resident poet @@RANDOM_NAME@@, followed by an overly long pause for dramatic effect. "You step out of the shadowlands, shift course and sail the ship of @@NAME@@ on great winds bearing perfume and warmth, towards a shore where love is love and to love is never a crime." Looking at the blank faces of your ministers, he sighs and turns to you. "You know, just legalize it, man."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1163]#1163[/anchor]: Some Assembly Required [Austral Coast; ed: Altmer Dominion][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 4. "What a waste of taxpayer money," grumbles your mustachioed adviser Don Duckson, whittling down a block of wood. "Don't humor these petulant children; just have podiums at the front for the leadership with rows of solid oak desks for everyone else. It's simple and efficient. I don't see what else we have to discuss here."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1164]#1164[/anchor]: What a Gneiss Place We've Got Here [Chan Island; ed: Luna Amore][/b]
 
 The Issue
@@ -68,7 +68,7 @@ The Debate
 
 3. "Whoop-dee-doo, there's a new cave! Get over it," snorts @@RANDOM_NAME@@, one of Violetstone's junior rangers. "You know what else is still there? Any number of trees, flowers, bunnies — you name it — all happily undisturbed by human activities. I say we keep it that way with a boost to the park budget. With more money, we can crack down on anyone who tries to illegally enter prohibited areas."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1165]#1165[/anchor]: Crosswords Beget Angry Letters [Lislandia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -85,7 +85,7 @@ The Debate
 
 5. "This wouldn't even be a problem if we nationalized the media!" exclaims Manny Festaux, your Minister of Orwellian Orthodoxy. "Imagine how much easier it would be to pick and choose the content that was published in the dailies. Not only that, but you won't have to worry anymore about negative publicity directed at you! Now, shall we replace these pesky crosswords with word searches or sudokus?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1166]#1166[/anchor]: Acres Wild [Altmer Dominion; ed: Nation of Quebec][/b]
 
 The Issue
@@ -98,7 +98,7 @@ The Debate
 
 3. "What incredible selfishness!" protests @@RANDOM_NAME@@, a conservationist. "Who do these people think they are? It's neither the town nor the rich snob's forest! Nobody should own it! Both groups have visions of exploitation borne out of their own self-centeredness. The government must protect all public land from these hearts of greed and from those monsters who would use that land to hunt innocent animals for sport."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1167]#1167[/anchor]: Another Brick in the Wall [Sacara; ed: Baggieland][/b]
 
 The Issue
@@ -113,7 +113,7 @@ The Debate
 
 4. "How about we address the real problem? The wall wasn't structurally sound!" exclaims @@RANDOM_NAME@@, your Immigration Minister. "How can we ever claim to keep our border secure if a measly earthquake can just knock it down? It's time we fund a massive renovation of the entire wall – to ensure that it can stand against any act of nature. While we're at it, this wall could do with a few sentry turrets, a barbed-wire top, and landmines, lots of landmines!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1168]#1168[/anchor]: Too Much Too Young [Candlewhisper Archive; ed: Nation of Quebec][/b]
 
 The Issue
@@ -128,7 +128,7 @@ The Debate
 
 4. "Give me one moment of your time," interjects surprisingly polite Tasmanian militia boss Whit Houston, climbing in through your window with an assault rifle in hand. "I believe that children are our future. We teach them well, and let them show the way, as minefield scouts and pre-teen soldiers. If contraceptives are brought in, we'll be losing real manpower. Or boypower. Why not work with me to supply arms to the Tasmanian Freedom Army? I just wanna trade with somebody. Hey!" He yells in surprise as your bodyguard bursts into the room and drags him out.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1169]#1169[/anchor]: An Old Head on Young Shoulders [Candensia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -141,7 +141,7 @@ The Debate
 
 3. "I, like, can't see why museums are even still a thing," complains teenager @@RANDOM_FIRST_NAME@@ @@ANIMAL@@, in a bland monotone. "Just last week my school, like, made my class go on a field trip to a museum or something. It was like the most boring thing ever. We were there for so long that I was beginning to fossilize, and only thing I liked was walking out the front door. You should just, like, tear down all museums. Soooooo boring."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1170]#1170[/anchor]: To Catch a Beef [Luna Amore; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -156,7 +156,7 @@ The Debate
 
 4. "They're bastards, that's for sure," states a man covered in dried grass and @@ANIMAL@@ droppings. "We don't need to catch them. We don't need to deter them. We need to explode them. Tag a dozen cows, rig them with dynamite, let 'em be stolen and see where the explosions come from. That'll tell you where these thieves are. That'll tell you where to bomb. Trust me, there's no such thing as disproportionate retribution."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1171]#1171[/anchor]: Match Made in Heaven? [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -175,7 +175,7 @@ The Debate
 
 6. "Okay, so the media, the public and everyone else is labelling @@HIM_1@@ a publicity-hound and saying this is all about exposure," observes gossip columnist @@RANDOM_NAME@@ from [i]Not Bad Magazine[/i], "but don't you want to consider the possibility that @@HE_1@@'s for real? Why not take @@HIM_1@@ seriously, and woo @@HIM_1@@ sincerely? You never know, this might be the start of something really beautiful!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1172]#1172[/anchor]: Piled Higher and Deeper [Ransium; ed: Altmer Dominion][/b]
 
 The Issue
@@ -190,7 +190,7 @@ The Debate
 
 4*. "What if universities could have their future scientists and professors without having to pay anything?" suggests your former math teacher, handing you a few bottles of [i]saké[/i] to replenish your liquor cabinet. "Back home in Dàguó, we have a lot of prospective students who would love better-paying jobs. Put a halt to all government funding of graduate education while simultaneously making it easier for foreign students to immigrate. We could even pay them a stipend of a few thousand @@CURRENCY_PLURAL@@ just for coming here. If anything, I think potential immigrants will consider this a perfectly heuristic decision for themselves." [[color=blue]Must have Immigration[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1173]#1173[/anchor]: Thinking a Little Too Hard? [Krusavich; ed: Candlewhisper Archive[/b]
 
 The Issue
@@ -205,7 +205,7 @@ The Debate
 
 4. "Of course the paranormal isn't real, but that doesn't mean we can't spread some disinformation," murmurs Propaganda Director @@RANDOM_NAME@@. "Essentially, this is about PSYOPS, not psychic ops. You must first fake and then leak data claiming that we have already developed paranormal military capabilities. This will unnerve credulous nation states, while also wasting the espionage resources of more cautious foes as they seek to refute our claims. It'll be a cheap way to gain a significant strategic edge, so why not go for it?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1174]#1174[/anchor]: Bad Press [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -220,7 +220,7 @@ The Debate
 
 4. "Well... we could just allow these kids to publish their newspaper but also ensure that they don't get up to any mischief," chimes in your Minister of Alternative Solutions, peeking and whispering through from the other side of your office door's keyhole. "We could simply require that all media organs, including school newspapers, be supervised by a government-appointed agent. If we happen to detect a sign of dissent, our agents can nip it in the bud."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1175]#1175[/anchor]: Can I Borrow a Word? [Frieden-und Freudenland; ed: Baggieland][/b]
 
 The Issue
@@ -233,7 +233,7 @@ The Debate
 
 3. "Bah, humbug!" grunts bellicose General @@RANDOM_LAST_NAME@@, while angrily smashing a Galliennais Merlot bottle on the floor. "We don't have to tolerate this nonsense; let's bomb Galliennes into the ground and colonize them. Then they'll learn [i]our[/i] language soon enough!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1176]#1176[/anchor]: Haters Gonna Hate [Skottengrad; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -248,7 +248,7 @@ The Debate
 
 4. "You know, it's the anonymity of the internet that allows this hate speech," observes one of your aides. "What if we just turned off the internet? Think about it: no more @@ANIMAL@@man, no more trolls, no more lying dating profiles with misleading pictures wasting my time... hey, it's a win for everyone!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1177]#1177[/anchor]: A Funny Old Game [Outer Sparta; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 3. "Who cares where the tournament is held?" asks @@NAME@@ team captain @@RANDOM_NAME@@, dribbling all over your office carpet. "We're going to represent our nation on the world stage, and we don't want to disappoint our fans! There'll be breathtaking goals, heroic tackles and lucrative sponsorship deals! Who cares about scandals? Just put some government money into our team to get us the best high-tech training facilities, and help us deliver what really matters — Global Cup victory!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1178]#1178[/anchor]: No Need to Beat Yourself Up About It [Baggieland; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -278,7 +278,7 @@ The Debate
 
 *5. "That's not a bad idea," muses @@RANDOM_NAME@@, the principal of your niece's school, who came to your office to discuss the best way to discipline your wayward niece. "Because we don't allow the use of corporal punishment on children, our kids are out of control! Since teachers aren't allowed to physically caution the children, we should make a law that forces kids to punish themselves: 'Timmy, you didn't do your homework — whip yourself for ten minutes'. It's perfect!" [[color=purple]Must not have corporal punishment[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1179]#1179[/anchor]: Nothing Fishy [Ransium; ed: Ransium & Candlewhisper Archive][/b]
 
 The Issue

@@ -12,7 +12,7 @@ The Debate
 
 4. "Yeah, yeah, another terrorist attack, what else is new?" dismisses your brother, while glancing at his watch. "Our dinner reservations are in the opposite part of town, and if we hurry, despite all this unpleasantness, I still think we can make them on time. Believe me, a building or two falling down is not worth missing this stunning rendition of Dàguó cuisine."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=741]#741[/anchor]: [color=purple][i]The Enemy Within[/i][/color]: We Can Work It Out [Candlewhisper Archive; ed: Candlewhisper Archive, Ransium][/b]
 
 The Story So Far
@@ -36,7 +36,7 @@ The Debate
 
 7. "Hate to say it, but what you need here is good old-fashioned coppering, boots-on-the-ground police work, and maybe properly-paid overtime," offers Detective Sergeant @@RANDOM_NAME@@. "It's all about asking friendly questions, getting people to open up, and doing the legwork with no shortcuts. Not quite like [i]CSI: @@CAPITAL@@[/i] on the telly, but it's what works."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=742]#742[/anchor]: [color=purple][i]The Enemy Within[/i][/color]: And Your Bird Can Sing [Candlewhisper Archive; ed: Candlewhisper Archive, Ransium][/b]
 
 The Story So Far
@@ -52,7 +52,7 @@ The Debate
 
 3. "It's not so much whether it works as a tool of information gathering," adds Psychological Operations Chief Dr. @@RANDOM_LAST_NAME@@, "but also the broader effects it has on our overall approach. Engaging in punitive and permanent non-voluntary bodily modification and induced physical extremity magnitude reduction may not make an individual more talkative, especially in the surgically-induced absence of glossal musculature, ha ha... But the truth is we aren't trying to reach the individual. Rather, think of the extensive group psychological impact, the deterrence effect, and the fear we can instill on our nation's enemies! That is why we must do all we can to maximise our interrogation impact index."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=743]#743[/anchor]: [color=purple][i]The Enemy Within[/i][/color]: Here, There And Everywhere [Candlewhisper Archive; ed: Candlewhisper Archive, Ransium][/b]
 
 The Story So Far
@@ -70,7 +70,7 @@ The Debate
 
 4. "We are merely being responsible citizens, assisting our government in cleansing the nation of Violetist influences," states self-appointed and black-uniformed Colonel @@RANDOM_LAST_NAME@@ of the [i]@@DEMONYM@@ First Militia[/i]. "You should be endorsing our organisation, and applauding our efforts! No Violetists will escape alive!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=744]#744[/anchor]: [color=purple][i]The Enemy Within[/i][/color]: I Want To Hold Your Hand [Candlewhisper Archive; ed: Candlewhisper Archive, Ransium][/b]
 
 The Story So Far
@@ -86,7 +86,7 @@ The Debate
 
 3. "Oh... wow... uh, really... NO!" interrupts Civil Policy Officer Crupkey. "I mean, I got nothing against this in principle: my dad was an immigrant and my mum a local. But right now? When there's so much anti-Violetist sentiment? When we haven't even had the funerals of some of the bomb victims yet? These kids need to cool their hormones, and maybe start dating again in a year or so, when everything is calmer."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=745]#745[/anchor]: [color=purple][i]The Enemy Within[/i][/color]: This Bird Has Flown [Candlewhisper Archive; ed: Candlewhisper Archive, Ransium][/b]
 
 The Story So Far
@@ -104,7 +104,7 @@ The Debate
 
 4. "Sounds to me like every approach has downsides," worries your elderly mother. "Maybe you could just announce his location to the world, and hope that somebody else deals with him."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=746]#746[/anchor]: [color=purple][i]The Enemy Within[/i][/color]: There's A Place [Candlewhisper Archive; ed: Candlewhisper Archive, Ransium][/b]
 
 The Story So Far
@@ -124,7 +124,7 @@ The Debate
 
 [5]. "Never forget!" yells right wing paramilitary @@RANDOM_NAME@@. "Never forget that it was the toxic false faith of Violetism that led to this tragedy! I propose we use the site to establish the HQ for my anti-Violetist organisation, the [i]Brave Inquisitorial Guardians Of Truth[/i]. We'll use this as our centre of operations, to continue the hunt for hidden Violetists within the nation, and to wage war against them. [i]Let's make @@NAME@@ hate again.[/i]" [[color=purple]Must choose Issue 743's Option 4.[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=747]#747[/anchor]: The Plane Truth [Pogaria; ed: Pogaria][/b]
 
 The Issue
@@ -143,7 +143,7 @@ The Debate
 
 **6. Later, FlyerChat forum moderator 'Queen of the Skies' sends you a private message. "Air @@NAME@@ has nothing but disregard for its loyal passengers. First of all, the Glorious People's Victory Points are useless. My most recent valuation puts them at only one-thousandth of a @@CURRENCY@@. Award availability is terrible, even with zirconium status. And don't get me started on the atrocious brand of caviar they serve in First Among Equals class! This needs to be an airline that cares about its passengers, even if that requires huge government subsidies to bring it up to par. The first order of business is to change the points redemption ratios to - hold on, I've got another troll who keeps calling us a bunch of nerds. Let the banning commence!" [[color=red]Must not have private industry[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=748]#748[/anchor]: [color=purple][i]The Enemy Within[/i][/color]: In Spite Of All The Danger [Candlewhisper Archive; ed: Candlewhisper Archive, Ransium][/b]
 
 The Story So Far
@@ -161,7 +161,7 @@ The Debate
 
 [4]. Walter Lee, your loyal driver, snarls at the CEO, hefting a small red brick at his head to scare him out of the room. "Um, boss... weren't you there at the centre of things, digging through the rubble? I reckon if you declare a six-month complete tax break for all people who were there at that time, that'd give people the cash to afford their own healthcare and show the nation's thanks for their goodness. And you know, I think you deserve a little something too, for being so damn courageous that day." [[color=blue]Must not ban cars[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=749]#749[/anchor]: Not Mushroom For Error [Bears Armed; ed: Ransium][/b]
 
 The Issue
@@ -178,7 +178,7 @@ The Debate
 
 5. "Mollycoddling is the problem," grumbles libertarian thinker @@randomfirstname@@ Amanita. "You should do away with this nanny-state system, and let people take whatever risks they think they can manage; and if they fail… well, then that's just Darwinism at work."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=750]#750[/anchor]: Cheerleading Community Does The Splits [Sanhon; ed: The Free Joy State][/b]
 
 The Issue
@@ -191,7 +191,7 @@ The Debate
 
 3. "You're both idiots!" thunders @@RANDOM_MALE_NAME@@, his neck muscles straining against the collar of his camouflage shirt. "Cheerleading is stupid. It's not even a real sport! The funds wasted on girls prancing about could be used on REAL sports, that help REAL men to become strong and powerful! Taught by manly coaches, like me. Abolish this waste of money immediately, and pour the cash into useful, manly sports!" He punts one of your priceless vases into your equally priceless chandelier.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=751]#751[/anchor]: @@ANIMAL_PLURAL@@ Breed Contempt [Luna Amore; ed: Ransium][/b]
 
 The Issue
@@ -204,7 +204,7 @@ The Debate
 
 3. "With all due respect, you're huffing and puffing over a truly simple matter," chastens @@RANDOM_NAME@@, an amateur carpenter, while patting your shoulder gently. "We don't need to drive these creatures nor land-development to extinction. If we require developers create new habitat to replace whatever endangered populations they destroy, then everybody wins, don't they? I'm sure the two-spotted glow-in-the-dark @@ANIMAL@@ will adapt just fine to their new, man-made habitats."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=752]#752[/anchor]: The Immortal Cells of Mrs. Gratwick [The Atlae Isles; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -217,7 +217,7 @@ The Debate
 
 3. "This stuff is funny!" giggles your niece, squishing her fingers in the goop. "It's all warm, gluey, and bouncy! Someone should be turning out this stuff for kids to play with, or as sticky putty to stick posters to walls, or whatever. You've got, like, an infinite supply of it, so that's good economics, right?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=753]#753[/anchor]: I've Got My Ion You [Jovian Socialist Republic; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -232,7 +232,7 @@ The Debate
 
 4. "I think we can compromise," offers grey-suited logistician @@RANDOM_NAME@@, looking worriedly over the latest prices of neodymium and high-output capacitors. "How about we simply stop this plasma weaponry research, and instead divert the money to buying tried-and-tested conventional weaponry?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=754]#754[/anchor]: The Hit Parade [Ransium; ed: Candlewhisper Archive][/b]
 
 
@@ -246,7 +246,7 @@ The Debate
 
 3. "But East Lebatuck started it!" whines @@RANDOM_NAME@@, one of your more petulant advisers. "[i]@@ANIMAL@@-4[/i] was just fine until that stupid [i]Sputnak-3[/i] hit it. We shouldn't have to do anything other than tell the world where we're putting satellites. It's up to East Lebatuck to move out of our way!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=755]#755[/anchor]: Candid Camera [Noahs Second Country; ed: Helaw][/b]
 
 The Issue
@@ -263,7 +263,7 @@ The Debate
 
 5. "It's all too much hassle," sighs your Intelligence Minister, resting @@HER@@ head upon the meeting table. "You know what, @@LEADER@@? We should just tell them everything. No more secrets, no more hidden military projects. Release all of the government's confidential information into the open, and let them do what they want with it. Maybe we could crowdsource some suggestions for our new underground projects?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=756]#756[/anchor]: The Issue With Issues [Maori Moon; ed: Ransium][/b]
 
 The Issue
@@ -278,7 +278,7 @@ The Debate
 
 4. "It's not the issues that you've got to watch out for, but the sorts of people that are giving you solutions," volunteers the bee suit clad Dr. Bees, walking hand-and-hand into your office with the Bird Lady. "I can't help but notice that some of the people who are giving you advice are a bit... odd. You just need to make sure that you're properly vetting all your advisors, then the actual decisions making process will be a snap, no matter how trivial or important an issue is."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=757]#757[/anchor]: Extra Credit? [Kingdom of Jacobia; ed: Zwangzug][/b]
 
 The Issue
@@ -291,7 +291,7 @@ The Debate
 
 3. "Doing background checks one at a time is so inefficient," muses the accountant in question, @@RANDOM_NAME@@. "Why not put credit regulation under government control, and research people's financial history in advance? That way anybody can access our database at any time. I'm sure the police would love to have a record of major transactions and movements too."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=758]#758[/anchor]: Bye Bye to the Birdies? [Frieden-und Freudenland; ed: Ransium][/b]
 
 The Issue
@@ -304,7 +304,7 @@ The Debate
 
 3. "I can't see what the fuss is about," chimes in B.F. Spinner, a spokesperson of the @@CAPITAL@@ Ornithological Society. "Ask any illusionist or postman you know: pigeons are highly trainable animals. If the problem is that they are pooping around, they can simply be given potty training. Just put small toilet bowls at designated spots in the city, equipped with a food dispenser that gives food pellets when a pigeon poops there. The pooping behavior will thus be positively reinforced and voila! - the next time the pigeon will go to the toilet bowl when it needs to poop. Problem solved!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=759]#759[/anchor]: Marry, Marry, Quite Contrarily [Neocaledonia; ed: Ransium][/b]
 
 The Issue

@@ -10,7 +10,7 @@ The Debate
 
 3. "What's more important, some stupid fishes or the survival of our nation?" rebukes Head of Strategic Thinking @@RANDOM_NAME@@, pointing angrily at a map of @@REGION@@. "We need to be expanding our coastlines more aggressively! Forget dikes, we need to be building whole islands and peninsulas to lay claim to so-called 'international waters' as quickly as we can! What's the cost of a few quadrillion tonnes of stone compared to the benefits this could bring?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1061]#1061[/anchor]: Every Day I'm Muffling [Sapnu puas; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -23,7 +23,7 @@ The Debate
 
 3. Looking a little nervous, environmentalist @@RANDOM_NAME@@ whispers a few words in your ear. "I think we can do better than a few mufflers. Instead, we could insist that all engines should be fully electric - this will eliminate engine noise entirely. You'll have to push this through quickly with an executive order though, or Big Oil lobbyists will surely shut it down. Green Power, @@LEADER@@!" @@HE@@ salutes you and sidles away, checking to make sure @@HE@@ isn't being followed.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1062]#1062[/anchor]: The Hunt for the Violet November [The-CID; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -34,7 +34,7 @@ The Debate
 
 2. "A training vessel? Yeah! Right!" exclaims Rear Admiral @@RANDOM_LAST_NAME@@ as the ambassador leaves your office. "I bet all my navy ribbons that we're talking about a spy sub or a nuke platform! Those Blackacreans are always stirring up trouble and encroaching into our territorial waters. You should have our own submarines, frigates and destroyers search out and destroy unauthorised military vessels, including this sub, once we find it! That will give them something to think about before trespassing here again."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1063]#1063[/anchor]: Playing It by the Numbers [Candlewhisper Archive; ed: Caracasus][/b]
 
 The Issue
@@ -49,7 +49,7 @@ The Debate
 
 4. "In my day, a pint of milk cost what a pint of milk cost," grumbles @@RANDOM_FIRST_NAME@@, an elderly cleaner interjecting from the back of the room. "You're the government; you should set a fixed price for everything, and you should do that other thing, seizing the means of production, and wot-not. We don't need satin pants or hats with feathers on them. We just need what we needs: bread, milk and wot-not, and at a fair price."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1064]#1064[/anchor]: Culture Wars [Baggieland; ed: Baggieland][/b]
 
 The Issue
@@ -62,7 +62,7 @@ The Debate
 
 3. Your glamorous secretary, @@RANDOM_FEMALE_NAME@@, checks her perfectly coiffed hair to make sure not a strand is out of place. Wearing her elegant branded dress, she sits coyly and gracefully crosses her stockinged feet. She then sneezes into her palm and wipes the snot all over her clothes. "Who cares what the rest of @@REGION@@ thinks? I like the way we @@DEMONYM_NOUN_PLURAL@@ are. If those other nations think we're rude, then that's their problem! In fact, why don't we build exhibitions in the other capital cities of @@REGION@@, showcasing our way of doing things? That way, they will stop criticising us and understand us better."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1065]#1065[/anchor]: Pulling Out [Jutsa; ed: The Marsupial Illuminati] [/b]
 
 The Issue
@@ -79,7 +79,7 @@ The Debate
 
 5. "Or, maybe ya should just forget about this here nonsense 'cuz it's junk anyhoo," rants an ambassador from the United Federation, thrusting a two-foot-long, fried, bacon-wrapped Mega Hot Dog Deluxe Supreme™ into his ten-gallon mug of Moonbucks coffee. "Even if clahmate changes were really caused by men, stahfling economical progress will only tarnish yer abilities to fahnd betta ways of doin' thangs. If you quickly pull out now and denounce this here treaty for the Dàguó hoax it is, you will sure be much better off — just lahk us!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1066]#1066[/anchor]: It's an Honour Just to Be Condemned [The Free Joy State; ed: Nation of Quebec][/b]
 
 The Issue
@@ -94,7 +94,7 @@ The Debate
 
 4. "That's the last thing we should do!" gasps human rights activist @@RANDOM_NAME@@, still waiting to get into the bookshop. "We can't allow hate groups to upset decent, hardworking @@DEMONYM_PLURAL@@. In fact – whatever someone's viewpoint – we must ensure that all public discourse is polite, inoffensive and unobtrusive. If people can't discuss things politely and calmly, then maybe we should issue a list of acceptable topics for public discourse. Then, everyone will be able to enjoy our shared spaces, and no-one will ever feel upset."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1067]#1067[/anchor]: Don't Fear the Reefer [Nation of Quebec; ed: Pogaria][/b]
 
 The Issue
@@ -109,7 +109,7 @@ The Debate
 
 4. "I think that stuff's getting to your head," replies @@RANDOM_NAME@@, the CEO of Maxx Grass Corporation, while rolling @@HIS@@ eyes. "I'll have you know that two percent of our profits are donated to local schools, hospitals, and crime prevention programs. If the government were to muscle in on our turf, it would make them no better than the shady drug dealers of old, and would reduce the amount of money that we could donate. If anything, the government should let us continue with the merger so that we can expand our business across @@NAME@@ with as little red tape as possible."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1068]#1068[/anchor]: Made to Break [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -122,7 +122,7 @@ The Debate
 
 3. "The problem is capitalism. Now take a look at this beauty!" exclaims Carlo Max, who claims to be a distant cousin of yours, as he struggles to lift a massive metal box onto the dining table. "My East-Lebatuck-made toaster has been working for three decades now! Obsolescence, be it planned or fashion-based, is a symptom of a throw-away society wriggling in the merciless grip of consumerism. How about you hand over the production of all goods to the State? Without the need for greed, the State will make everything to last."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1069]#1069[/anchor]: Bowl Motions [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -137,7 +137,7 @@ The Debate
 
 4. "Big job? Big science has the answer!" enthuses experimental biologist @@RANDOM_FIRST_NAME@@ Middenmarch. "Why not flush a little money in the direction of developing my newest innovation? I call it The Eater. This bio-toilet uses engineered friendly bacteria to efficiently digest human waste, and produces a tank full of methane bio-fuel as a side product. Good for the environment, good for cutting household bills, basically just really good sh..." The noisy flatulence of your junior minister cuts her words short.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1070]#1070[/anchor]: Skeletons in the Closet [Sacara; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -150,7 +150,7 @@ The Debate
 
 3. "Everyone must be held responsible for everything they say, no matter how long ago they said it!" yells journalist @@RANDOM_NAME@@, bursting from @@HIS@@ hiding place behind an oversized yucca plant. "It's despicable that someone can get away with such nasty comments, which probably reveal someone's true beliefs better than the carefully managed statements and speeches they've made in adult life! People like this must be forced to resign, and the media should be congratulated for their incisive investigative journalism!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1071]#1071[/anchor]: Up the Creek [Australian rePublic ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -167,7 +167,7 @@ The Debate
 
 *5. "Our cities will be dead in the water," laments the Minister of Transportation. "But we have an opportunity here. Since we no longer can rely on our river, we finally have good reason to improve our transport infrastructure. We can have new railway lines, and... new upgrades to our highways! And a [i]rolling highway[/i]! A rolling highway would be cool!" [[color=red]Must not have planes[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1072]#1072[/anchor]: Holographic Harmonization [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -180,7 +180,7 @@ The Debate
 
 3. "People also said computers and the internet were just fads," muses self-described mad scientist Bongani Plantagenet while analyzing your coffee with a microscope. "We could instead take things further: holographic dead actors releasing new films, holographic fashion models on a post-mortem catwalk, even holographic politicians of yesteryear giving stirring speeches and debating each other in government. Current politicians are already so empty-headed, err, present company excluded of course, that nobody will notice the difference. Imagine the possibilities! All I'll need is some generous funding to get this project out of mothballs."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1073]#1073[/anchor]: Much Ado About Everything [East Oceania; ed: Baggieland][/b]
 
 The Issue
@@ -197,7 +197,7 @@ The Debate
 
 5. "It doesn't have to be either way," says your Secretary of Solutions, @@RANDOM_NAME@@, as he takes away the phone from the teen, puts duct tape over the mouth of the comedian, and formally discharges the Major. "What we need is a government-approved words and phrases list. That way kids won't be offended and comics can still make their jokes. It's a win-win! Well, except for freedom of speech, but that's not the issue here, is it?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1074]#1074[/anchor]: Halting the Heirloom Heist! [Candensia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -212,7 +212,7 @@ The Debate
 
 4. "You're right that we can't be stopped," interrupts Billy 'Razor' Occam, the master criminal's handsome face appearing on a widescreen wall monitor as he transmits to you from a beach in Manamana. "But honestly, we don't need the crown, so let's cut a deal. The, uh, extended family and I have always wanted to take an unsupervised tour of the @@DEMONYM_ADJECTIVE@@ Bullion Depository, Fort Rocks. I'll call off the heist if you let us take a look around."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1075]#1075[/anchor]: The Hand That Feeds [Gnejs; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -229,7 +229,7 @@ The Debate
 
 5. "We obviously can't leave ourselves to the mercy of our trading partners," muses @@RANDOM_NAME@@, yet another one of your trusted advisors. "But turning all of @@NATION@@ into a vegetable garden and forcing people to tend it sounds like something the Khmer Bleu of Marche Noire would do! Let's just provide some really generous incentives for potential farmers, all while maintaining our import quotas. We can tweak them every year. If we just keep this system up long enough, we'll strike a balance eventually. Some say you can't have it all, but we're going to make a cake and eat it too!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1076]#1076[/anchor]: Smokers Cornered [Lancaster of Wessex; ed: Baggieland][/b]
 
 The Issue
@@ -244,7 +244,7 @@ The Debate
 
 4. "This has to be the most disgusting habit ever," opines ex-smoker @@RANDOM_NAME@@, waving a heavily chewed pencil at you. "Cancer, lung disease, heart disease, financial costs. There is nothing good about smoking, nothing. I'm totally glad I quit and I so don't follow smokers around to inhale their second-hand fumes. You need to ban all forms of tobacco now! Get that temptation away from me... I mean, for everyone's health!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1077]#1077[/anchor]: With Friends Like These... [Sacara; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -259,7 +259,7 @@ The Debate
 
 4. "For Violet's sake, the average @@DEMONYM@@ has gotten far too soft," comments one of your brothers, looking at your niece with disgust. "We need to educate them to have thicker skin and take a joke or two, no matter how crude. How about we add a class or two in our education system that'll teach 'em how to handle some humor?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1078]#1078[/anchor]: Down With That? [Sacara; ed: Baggieland][/b]
 
 The Issue
@@ -272,7 +272,7 @@ The Debate
 
 3. "That captain is nothing but a lily-livered land-lubber!" scoffs Rear Admiral @@RANDOM_LAST_NAME@@. "When @@NAME@@ first took to the seas, the ship's captain was obliged to go down with the ship, even if they were within spitting distance of the shore! It was the honourable thing to do back then. We should return to our maritime traditions and any captain that doesn't like it should be given a good ol' keel-hauling!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1079]#1079[/anchor]: What's Love Got to Do With It? [The Free Joy State; ed: Baggieland][/b]
 
 The Issue

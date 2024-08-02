@@ -10,7 +10,7 @@ The Debate
 
 3. "Frankly, your disposal method is disgusting!" fumes @@RANDOM_NAME@@, an environmentalist and DIY enthusiast, sporting a hat made of a recycled yogurt tub. "If companies want to get rid of their surplus without diluting their brand, why not upcycle inventively? For a start, I think those fancy Burpbarry scarves could be braided into a reusable canvas bag. Perchance you should seize the end-of-season surplus, and employ skilled weavers to turn them into something new."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1461]#1461[/anchor]: No Shirt, No Shoes, No ID, No Service [Italios; ed: Electrum and The Grim Reaper][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 4. "I'm astounded that this is still an issue," says @@RANDOM_NAME@@, clutching a scrapbook filled with photos of you. "You're the best option we've got, never mind the voters! Abolish all elections, and give yourself the perpetual right to the highest office - a dictatorship is all we deserve."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1462]#1462[/anchor]: Glory Kill [Krusavich; ed: Pogaria][/b]
 
 The Issue
@@ -38,7 +38,7 @@ The Debate
 
 3. "Ah, nuts to that, General Buzzkill!" proclaims @@RANDOM_NAME@@, another @@ANIMAL@@ Team 5 operative whose tinted glasses and long hair certainly violate some dress code. "@@RANDOM_LAST_NAME_1@@ has it right! Your problem is trying to make the army all secretive and mysterious. It's just another job, dude! No one tells my old man how to sell stuffed animals at the mall. He just, like, does it. We need to be more like that. Dump all of these creepy creeds and regulations! Let troops say what we want to say, to whoever we want. Everything will work itself out."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1463]#1463[/anchor]: Sandbagging [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -53,7 +53,7 @@ The Debate
 
 4. "You know where there's a lot of sand? The desert!" exclaims @@RANDOM_NAME@@, one of your science advisers, as @@HE@@ stretches some kind of Day-Glo gunk. "True, desert sand is too fine and we haven't found a way to bond it together yet, but I'm sure if we give it a go, and give it lots of determination and government funding... Yes, we'll find a way!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1464]#1464[/anchor]: Gentry Genes Getting Grim [Ostrov Svobody; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -68,7 +68,7 @@ The Debate
 
 4. "Know what the problem is?" asks General @@RANDOM_NAME@@, immediately answering @@HIS/HER@@ own question before you can reply. "These loons being empowered at all. We all know that real power isn't blood, or genes, or nobility. Real power comes from force of arms, and command of armies. So, let's just get rid of this aristocracy nonsense, and centralize YOUR power. Long live @@LEADER@@! Long live @@NAME@@!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1465]#1465[/anchor]: Parking Pandemonium [Authoritaria-Imperia; ed: Electrum][/b]
 
 The Issue
@@ -83,7 +83,7 @@ The Debate
 
 [4]. "SILENCE!" booms His Wisdom N. Sanni Teeh, Grand Kahuna of the Cult of Cyan, who has been pushing the little-known religious organisation to rename itself 'Cyantology'. "'Tis a great insult to our deity to waste time needlessly looking for parking spots instead of praying! The Maker demands our malls use..." he gazes up at the ceiling, "...free valet parking." [[color=purple]High Religiousness[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1466]#1466[/anchor]: Don't Shoot Your Eye Out [Socialist Macronesia; ed: Candensia][/b]
 
 The Issue
@@ -98,7 +98,7 @@ The Debate
 
 4. "Y'all betta not be tryna mess with my guns," says @@RANDOM_NAME@@, wielding a rusted, homemade shotgun. "Malanese guns work just fine, and we don't need no safety courses or fancy microchips! All those accidents is just weedin' out the butt-brains!" She fires her weapon into the air, and the barrel shatters.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1467]#1467[/anchor]: Gay Men Held by Police [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -115,7 +115,7 @@ The Debate
 
 5. "RAAAAAAAAAARGH!" bellows perpetually angry gay activist Neil Foreman, tipping your desk over in a rage. "I am Gay Man! Hear me roar! My leader, we cannot negotiate with filthy homophobes and bigoted scum! Send the army in, and rescue my proud brethren, then bomb Sacerdia till they agree to repeal their homophobic laws. We'll give these blighters cold hard steel... cause they don't like it up 'em, you know!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1468]#1468[/anchor]: Meat With Approval [Sedgistan; ed: The Free Joy State][/b]
 
 The Issue
@@ -128,7 +128,7 @@ The Debate
 
 3. Miles Stewart, proponent of the 'Killing Through Kindness' method adopted by precisely zero abattoirs since last year's book tour, coughs quietly. "One life is worth as much as any other, and animals deserve to go in the same way we'd want to: in our own beds, surrounded by our loving family, with peaceful sitar music playing and incense sticks burning."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1469]#1469[/anchor]: News Flash! [Jutsa; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -141,7 +141,7 @@ The Debate
 
 3. "Why should my show be compromised?" refutes popular TV show host @@RANDOM_NAME@@, entering your office with blinding rainbow strobe lights. "Which would you rather watch? A boring old guy in a suit, or a cinematic extravaganza featuring epic explosions and fast-paced drama? If some people are too sensitive to watch the news, then they can always listen to it on radio or something. You know, you should give your official political broadcasts more pizzaz too. I'll give you the number of the SFX guys I use. I guarantee people will sit up and take notice!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1470]#1470[/anchor]: The Devil's Spawn [Great Robertia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -156,7 +156,7 @@ The Debate
 
 4. A civil servant walks in on the meeting, and ruins the ambience by turning on the fluorescent ceiling lights. "Oh, uhm, s-sorry... but I came in to tell you that you could also simply ignore the entire affair. Pretend that you didn't hear about the pregnancy because you were too busy volunteering in orphanages to follow international gossip. It'll create a positive image of yourself, and you'll have a great excuse to change the subject to how awesome you are."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1471]#1471[/anchor]: @@LEADER@@ and the Lost Chamber of Vetoes [Daarwyrth; ed: Verdant Haven][/b]
 
 The Issue
@@ -173,7 +173,7 @@ The Debate
 
 5. "I'll tell you what to do with this chamber!" rages former chair of the upper house @@RANDOM_NAME@@, gesticulating wildly from the hallway where @@HE@@ is camped with a number of @@HIS@@ former colleagues. "Re-open it! This joke has run its course. @@NAME@@ needs the calm and level-headed guidance of upper house members like myself! Give us back our jobs, or else there will be trouble."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1472]#1472[/anchor]: Home Is Where the Lung Is [Osheiga; ed: USS Monitor][/b]
 
 The Issue
@@ -190,7 +190,7 @@ The Debate
 
 5. "New machines? New restrictions? You're all absolutely insane!" interrupts a disgruntled old man who you don't recall inviting to this meeting. "You know what we did back in my day when we wanted fresh air? That's right, open a goddang window! You should just mandate that every building open all their windows for two hours a day. Problem solved." The man then exits the room via the open window behind him.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1473]#1473[/anchor]: A Pretty Pass [Frieden-und Freudenland; ed: Pogaria][/b]
 
 The Issue
@@ -203,7 +203,7 @@ The Debate
 
 3. "Noooooo!" yells @@RANDOM_NAME@@, a very patriotic secretary of yours, tumbling into the room and grabbing the pen from your hand. "An eye for an eye! As per the principle of reciprocity, we should grant visa-free travel only to people from countries that do the same for us. Sure, this might have a slightly negative effect on our tourism industry, but our reputation is much more important. Don't let us be seen as weaklings, @@LEADER@@. Show them our power!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1474]#1474[/anchor]: Cuy Bono? [Bears Armed; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -216,7 +216,7 @@ The Debate
 
 3. "All meat is murder!" protests @@RANDOM_NAME@@, your Environment Minister. "It's a slippery slope: First, people eat the flesh of 'domestic livestock', then they eat the flesh of animals traditionally kept just as pets... and then, maybe, they'll even 'graduate' to putting pineapple on pizza! It's barbaric! This incident is just more proof that we should outlaw meat-eating altogether."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1475]#1475[/anchor]: Bombshell for @@LEADER@@ [Fauxia; ed: The Free Joy State][/b]
 
 The Issue
@@ -231,7 +231,7 @@ The Debate
 
 4. "Get on with it," moans Joe Reid, a volunteer for your campaign who entered the room unsolicited. "Catherine Gratwick? She's just some dumb actress. Why should her support mean more than anyone else's? Sure, lots of people know all about her, but don't our votes count equally? How about you celebrate the average Joes you couldn't do it without; maybe invite us to speak at events? It's us who win the elections, not the latest blonde or brunette actress in bad churned-out movies."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1476]#1476[/anchor]: Known Unknowns [Northern Socialist Council Republics; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -244,7 +244,7 @@ The Debate
 
 3. "Information wants to be free!" groans the lone bureaucrat of your emaciated Ministry for State Security, emerging from the filing cabinet which is also her office. "Criminals and crime are everywhere in our country, but you wouldn't know that because we're not allowed to investigate them. Aren't you afraid, @@LEADER@@? We fear what we do not know, and that is why we must be allowed to know everything! For our safety, instead of buying information from those smug Brancalanders, repeal these dangerous privacy laws that keep us from getting it ourselves."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1477]#1477[/anchor]: Some People Never Listen [Terrabod; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -257,7 +257,7 @@ The Debate
 
 3. "Speaking to the public is overrated, and clearly a waste of your valuable time," your crusty Minister of Public Relations whispers, his dry lips all but brushing against your ear. "As long as you do the job well, the people of @@NAME@@ won't care what goes on behind closed doors. And if things don't go to plan, well, won't you be glad you don't have to talk to them?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1478]#1478[/anchor]: Two Sides of a Coin [The Ankhalic Vaspriot; ed: Verdant Haven][/b]
 
 The Issue
@@ -274,7 +274,7 @@ The Debate
 
 5. "You can't just take these away!" howls shoe designer and coin collector Farouk Whiteman, clutching a penny in his hand. "An employee at the very real and definitely not shady place I got it showed me a government receipt with an approval stamp from the Deputy Secretary of Rationing's wife's brother's son who works in the local administrative office, so that means the government approved the sale. I had no idea it was stolen!" Sliding a grainy photocopy of the alleged document across the table, he continues. "See this? If you go back on your word and seize it now, that would be like a second theft!" [[color=red]Must have Socialism / Must not have Capitalism[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1479]#1479[/anchor]: Fares Fair? [Paffnia; ed: USS Monitor][/b]
 
 The Issue

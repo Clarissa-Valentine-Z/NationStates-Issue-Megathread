@@ -16,7 +16,7 @@ The Debate
 
 6. "Hello I am from UBM Technical support" chirrups a tinny voice as you answer your phone. "We have noticed that your system has multiple viruses on it and we are here to help. If you could just log in please and visit our website where you'll be prompted to enter your bank account number, passwords, mother's maiden name and pin numbers we will repair your systems for you."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=801]#801[/anchor]: Animation Provocation [Montagna; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -31,7 +31,7 @@ The Debate
 
 4. "I think we're ignoring a broader issue here," bemoans frustrated animator Parker Stonetrey, "which is that animated art forms are never taken seriously enough to be considered anything more than kiddie fare. I say that we develop @@NAME@@'s artistic vision and creativity by subsidising adult animation. When people think @@NAME@@, they should think Hentai!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=802]#802[/anchor]: No Lock, No Gun Stock, And No Smoking Barrels [Jutsa; ed: Ransium] [/b]
 
 The Issue
@@ -46,7 +46,7 @@ The Debate
 
 4. "You've got it all backward!" interjects @@RANDOM_NAME@@, a @@MAN@@ in fencing gear, who appears to have wandered in on the conversation. "These things were banned from the public for a reason - they are dangerous! We need to extend the present ban to the military - if they have a real problem, they can just use swords. Observe!" @@HE@@ skewers the crumpled schematic with @@HIS@@ rapier.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=803]#803[/anchor]: Park That Thought [Candlewhisper Archive; ed: Candlewhisper Archive] [/b]
 
 The Issue
@@ -63,7 +63,7 @@ The Debate
 
 *5. "So we're an oh-so-clever nation, and now you want to build a national park celebrating that?" moans frazzle-haired fifty-something farmer @@RANDOM_NAME@@. "Give me a break! Help me out with setting up a Soya Park where we can intensively farm that most versatile bean. IQ doesn't fill bellies. Soy cheese fills bellies." [[color=red]Must have Vegetarianism.[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=804]#804[/anchor]: Motivational Posters [Omakhandia; ed: Gnejs][/b]
 
 The Issue
@@ -76,7 +76,7 @@ The Debate
 
 3. "Obviously, both of these people were severely disturbed, and we all know what got them there," asserts your chronically under-stimulated Minister for Medieval Fairs, clad in motley, as is @@HIS@@ custom. "If anything, this is a wake-up call. @@NAME@@ needs to get rid of the internet altogether. Newfangled communications methods, with their instantaneity, clearly desensitize people and can make a troll out of the best of us. Not the 6 hit dice regenerating kind, mind you, the other sort. With the internet gone, people will have the time to truly reflect on their words, and nothing like this will ever happen again. Truly, it's a small price to pay for the well-being of our nation."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=805]#805[/anchor]: Solving A Dissolving Dilemma [TBA; ed:  Pogaria] [/b]
 
 The Issue
@@ -89,7 +89,7 @@ The Debate
 
 3. "If you ask me, the power to dissolve the legislature should only be wielded by our glorious leader," asserts infamous sycophant @@RANDOM_NAME@@, the author of [i]1001 Paeans to @@LEADER@@[/i]. "In the capable hands of such an august personage, this awesome power can be used as a safeguard against those elected crooks in our parliament. I'm confidant our supreme protector wouldn't dare abuse it." @@HE@@ continues to stare at you in adulation as security escorts @@HIM@@ out of your office.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=806]#806[/anchor]: Unlicensed To Kill [Ransium; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -104,7 +104,7 @@ The Debate
 
 4. "Why don't we give ownership of the punishment back to the wronged parties?" asks @@RANDOM_NAME@@, a stressed-looking accountant working the Justice Department's quarterly budget. "As in, get victims or the families of victims to administer the punishment. Just give them some syringes and needles, tell them which common domestic products are poisonous, and let them work it out for themselves. I mean, I expect they'll kill the convict [i]eventually[/i], and it'll be a really cheap fix."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=807]#807[/anchor]: Have War Crimes, Will Travel [Annihilators of Chan Island; ed:  Caracasus] [/b]
 
 The Issue
@@ -119,7 +119,7 @@ The Debate
 
 4. "We want this warlord gone, but don't want to look bad because of it," whispers Agent Cobblepot from behind an oversized potted plant. "Give this individual safe conduct, let him do his thing and if some kind of terrible accident were to befall our dear friend... how could you possibly have known that ceiling beam was going to fall on his head?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=808]#808[/anchor]: Big Trouble In Little Dàguó [Laeral; ed: Pogaria][/b]
 
 The Issue
@@ -134,7 +134,7 @@ The Debate
 
 4. Later, your seldom-seen Minister of Whispers appears behind you in what you thought was a deserted corridor. "We have an exceptional opportunity here, Your Excellency. It would be easy to discreetly sell weapons to both sides while remaining officially neutral. Our enemies in Dàguó will become increasingly unstable, while we profit from the situation. Some may call these actions unethical - but @@NAME@@ didn't start this conflict. We're just acting in the best interests of the realm, of course."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=809]#809[/anchor]: So Long, And Thanks For All The Fish [Szczuropolis; ed: Ransium] [/b]
 
 The Issue 
@@ -151,7 +151,7 @@ The Debate
 
 5. "There is inadequate data to know with such certainty fisheries are in danger of collapse," suggests @@RANDOM_NAME@@, contrarian professor in the Department of Marine Studies and Fin Cuisine at University of @@CAPITAL@@ while reaching for a slice of lemon. "Maybe it's been a rough few years for our gilled friends for reasons other than the millions of fish we catch a year. The only thing to do is collect more data. Keep things as they are and continue to monitor fish intake. If fish catches continue to decrease over the next two to three hundred years, then we can be sure we have a problem."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=810]#810[/anchor]: Armed and Unready [Annihilators of Chan Island; ed: Candlewhisper Archive] [/b]
 
 The Issue
@@ -168,7 +168,7 @@ The Debate
 
 5. "Or you could go back to having a volunteer army," mutters @@RANDOM_NAMEMALE@@, hand-cuffed deserter and sole survivor of the recent massacre. "Look, I didn't want to be a soldier anyway. I wanted to be... [i]a lumberjack![/i] Leaping from tree to tree as they float down the mighty rivers of... of... Anyway, ditch the draft."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=811]#811[/anchor]: Get Baked [White Girls Metropolis; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -183,7 +183,7 @@ The Debate
 
 4. "AAAAAAAAAAARGH!" screams your niece, causing everyone to suddenly turn to her. "Thank you! Who cares what kids eat? It should be our choice alone if we want to eat cookies and candy all the time, not yours! Give children the choice to put whatever food we want in our bodies, it's the only way!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=812]#812[/anchor]: The Old Boys' Club [Nation of Quebec; ed: The Free Joy State][/b]
 
 The Issue
@@ -200,7 +200,7 @@ The Debate
 
 5. "Hold on! What about an option that doesn't discriminate?" asks your cleaner @@RANDOM_NAME@@, sitting on your desk with surprising ease for a @@MAN@@ of @@HIS@@ advanced age. "Need I remind you all that sortition doesn't discriminate? Male and female, young and old, @@DEMONYM@@ or immigrant, it doesn't care. Everyone will get their, albeit short, time to serve. Granted, all MP selections will be completely random, but at least then nobody can complain that there's deliberate discrimination!"
 
------------------------------------------------------------------------------ 
+[hr][/hr]
 [b][anchor=813]#813[/anchor]: A Little Birdie Told Me [Frieden-und Freudenland; ed: Nation of Quebec] [/b]
 
 The Issue
@@ -213,7 +213,7 @@ The Debate
 
 3. "If you let her get away with this insult, our people will start to question your competence as a leader!" clamours @@RANDOM_NAME@@, your Public Relations Adviser, as @@HE@@ scrolls down on @@HIS@@ phone to read Drake's vitriolic twitches. "What we should do is to set up an official Twitcher account for you. This way you can counter Drake's attacks with her own weapon. An eye for an eye. You can also use this account to polish up your public image, of course. Your ministers could get in on this too."
 
------------------------------------------------------------------------------ 
+[hr][/hr]
 [b][anchor=814]#814[/anchor]: A Topic Of Ethical Import [Ransium; ed: Ransium][/b]
 
 The Issue
@@ -226,7 +226,7 @@ The Debate
 
 3. "Why should we care what's happening all the way in Maxtopia?" asks one of your aides, @@RANDOM_NAME@@, while sunning @@HIM@@self on your office's balcony and eating a shrimp platter. "We can't solve all the world's problems, so let's focus on what matters: keeping @@NAME@@ beautiful. If anything, we should be outsourcing more of @@NAME@@'s most polluting industries." @@HE@@ then turns up @@HIS@@ boombox and gestures at the shrimp. "Want one?"
 
------------------------------------------------------------------------------ 
+[hr][/hr]
 [b][anchor=815]#815[/anchor]: Embargoed In [Caracasus; ed: Candlewhisper Archive] [/b]
 
 The Issue
@@ -243,7 +243,7 @@ The Debate
 
 5. "Maybe we should listen to this coalition's entirely reasonable demands, and scale back our weapons programs," muses your Foreign Minister, munching on a Maxtopian mango. "It's not like we really need that many smallpox-infused nuclear warheads, is it? Then, legume trade can proceed."
 
------------------------------------------------------------------------------ 
+[hr][/hr]
 [b][anchor=816]#816[/anchor]: A Hot Topic [The Atlae Isles; ed: Ransium][/b]
 
 The Issue
@@ -258,7 +258,7 @@ The Debate
 
 *4. "You know what's better than that? A compromise!" exclaims your Minister of Making Work @@RANDOM_NAME@@. "There are so many @@DEMONYM_PLURAL@@ who are struggling to find the best way to contribute to the glory of @@NAME@@. All you need to do is send them out to the woods and have them remove those small trees and brush by hand. It'll be expensive and not as natural, sure, but there will be no more smoke, the mature trees in the forests will thrive, and there will be a great new patriotic project for the workers to participate in." [[color=red]Must not have private industry[/color]]
 
------------------------------------------------------------------------------ 
+[hr][/hr]
 [b][anchor=817]#817[/anchor]: Back-Alley Blues [The Free Joy State; ed: Nation of Quebec][/b]
 
 The Issue
@@ -275,7 +275,7 @@ The Debate
 
 *5. "We must pursue righteousness with yet more rigour," intones softly-spoken right-wing moral crusader, @@RANDOM_NAMEMALE@@, dressed in all black. "I constantly hear of 'miscarriages'. Do you know their real name: spontaneous abortion! An abortion, yet there is no punishment. To call them 'miscarriages' perverts nature! Unless the woman categorically proves her 'miscarriage' was not potentially the result of cruelty or negligence, our duty is plain: a life for a life!." He quickly runs off before you can question him. [[color=red]Must ban Religion[/color]]
 
------------------------------------------------------------------------------ 
+[hr][/hr]
 [b][anchor=818]#818[/anchor]: We Are Not Amused [Orisoun; ed: Pogaria][/b]
 
 The Issue
@@ -290,7 +290,7 @@ The Debate
 
 4. "You can't put a big amusement park there!" shouts artist Harry Jarvey, who is infamous for burning all of his sculptures within a week of their completion. "That desert is the site of our annual arts and radical inclusivity festival. The whole thing is based on freedom of expression and participation, not the sale of pre-packaged commercialism. To turn our cherished playa into a morass of corporate commodification would be an outrage! I insist that you prevent this Eisner fellow from leaving any trace of his vanity project in our desert - or anywhere else - and maybe have the government subsidize our event, for good measure. Now if you'll excuse me, I need to write a few more rules for next year's festival."
 
------------------------------------------------------------------------------ 
+[hr][/hr]
 [b][anchor=819]#819[/anchor]: Damned Cold [Candlewhisper Archive; ed: Nation of Quebec][/b]
 
 The Issue

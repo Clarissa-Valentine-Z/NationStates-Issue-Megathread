@@ -12,7 +12,7 @@ The Debate
 
 [4]. "Bah! Who cares about some despotic hellhole in the middle of nowhere?" dismisses @@RANDOM_NAME@@, one of the top commanders in the military. "Sacerdia and its equally noxious neighbour states lack nuclear weapons, so we can just blast the whole region back to the Stone Age with no risk of retaliation. The world will breathe easier without all these fanatics troubling it!" [[color=red]Must have WMDs[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1241]#1241[/anchor]: Return Statement [Autonomous Cleaner Bot Cleaners; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 4. "Why keep the death penalty at all?" asks Gloritron HALred, Cyber-@@DEMONYM_ADJECTIVE@@ rights attorney. "This incident just further illustrates the ineffectiveness of retributive justice. Far better and more effective approaches include cognitive behavioral debugging, for example. Violence originates in faulty programming, not faulty @@DEMONYM_PLURAL@@, and compassionate solutions should be the GOTO 10 of the day, for both electronic and organic offenders."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1242]#1242[/anchor]: Jump Leads [Candlewhisper Archive; ed: Baggieland][/b]
 
 The Issue
@@ -44,7 +44,7 @@ The Debate
 
 5. "So these kids do this because they want to be famous on the internet, right?" observes the inevitable technophobic nutter that always seems to turn up to these debates. "If you ban the internet, then no more problems, right?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1243]#1243[/anchor]: Kicking Back [Verdant Haven; ed: Baggieland][/b]
 
 The Issue
@@ -57,7 +57,7 @@ The Debate
 
 3. "The only reason this happens in the first place is because judges can control where a convict is sent!" declares @@RANDOM_FIRST_NAME@@ D. Umbledore, your Undersecretary of Unpredictability. "We need to randomize this process. Place the names of all the prisons in @@NAME@@ into a sorting hat, and have each convict draw one when sentenced. Whatever they draw — that's where they go. The hat will clean up this corruption!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1244]#1244[/anchor]: Mooning the Flag [Bormiar; ed: Zwangzug][/b]
 
 The Issue
@@ -72,7 +72,7 @@ The Debate
 
 4. "H-h-hold on, @@LEADER@@," stutters @@RANDOM_NAME@@, your Minister of Cowardice. "Don't we have more than enough problems to handle on our own planet? You should publicly congratulate Dàguó on their technological breakthroughs, and politely ask their ambassador for the flag back."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1245]#1245[/anchor]: Sheepish Students [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -89,7 +89,7 @@ The Debate
 
 5. "These sheep are so cute and fluffy," coos second-grader @@RANDOM_NAME@@, as @@HE@@ presents you with a scarf made from @@HIS@@ classmate's hair. "I love studying with sheep, they help me to study better. Every classroom should have sheep in them, or goats, or cows."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1246]#1246[/anchor]: Breath of the Wild [Nation of Quebec; ed: Baggieland][/b]
 
 The Issue
@@ -104,7 +104,7 @@ The Debate
 
 [4]. "These animals should be used for the benefit of all @@DEMONYM_PLURAL@@," asserts farmer Urbosa @@RANDOM_LAST_NAME@@, as he herds a flock of sheep around your office. "What a waste it would be to release them into the wild — they belong on farms! Imagine all that they could do for us, and the gourmet foods that we could make with their juicy, succulent meat!" [[color=blue]Most not be vegetarian[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1247]#1247[/anchor]: Suspension of the Disbelieved [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -117,7 +117,7 @@ The Debate
 
 3. "As far as I can see, this whole problem has happened because it's one person's word against another," observes your Minister of Watching Watchmen. "We ought to enforce some transparency to medical proceedings, with every professional accompanied by a trained observer for all interactions, and each patient also encouraged to bring their own chaperone. That way, there'll always be at least one impartial observer to verify witness accounts."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1248]#1248[/anchor]: A Day To Remember [SherpDaWerp; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -132,7 +132,7 @@ The Debate
 
 4. "Y'know, there's another solution to this problem," whispers your ever-present Minister for Creative Solutions, sharpening a straight razor on a whetstone. "These people aren't contributing to our economy, so why don't we make a few government cuts, if you know what I mean." @@HE@@ waves the blade menacingly.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1249]#1249[/anchor]: Red Dead Representatives [Old Northwest; ed: Zwangzug][/b]
 
 The Issue
@@ -145,7 +145,7 @@ The Debate
 
 3. "This shows that our state has been deeply corrupted from the inside!" monotonously chant ten students clad in red bandanas who have suddenly run into your office. Their leader continues, "Socialism is about the rule of the workers, the common people, the proletariat! All who have any ties to bourgeois-reactionary groups must be disenfranchised and violently removed from power. We, the Red Guards of @@NAME@@, will ensure that every @@DEMONYM_NOUN@@ is armed, revolutionary, and educated enough to understand how capitalist culture has stained even the most revolutionary of states. It is time to commence a Cultural Revolution!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1250]#1250[/anchor]: @@NAME@@'s Next Top Mohel [Candlewhisper Archive; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -158,7 +158,7 @@ The Debate
 
 [3]. "Had an injury that wasn't your fault?" interjects lawyer Harriet Wonka from the compensation claims firm SoSueThem. "We can represent you on a no-win, no-fee basis. Our... oh, sorry Leader, I thought you were the punter. Uh, injured claimant, I mean. While I've got you though, maybe you could look at some deregulation of my profession? The best way for you to create better safety standards is to empower lawyers in the noble crusade to promote medical accountability! Let the free market save the day!" [[color=purple][Possible validity: Must have Compensation Lawsuits?][/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1251]#1251[/anchor]: The Making of a Mass Murderer [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -173,7 +173,7 @@ The Debate
 
 [4]. "Looks like you have a problem with men with an urge to kill, and my special forces units have got a problem with low recruitment numbers," states battlefield veteran @@RANDOM_NAME@@, fingering what looks worryingly like a necklace of human ears. "It's a shame to waste that potential with marriage and nut houses. Why not kill two @@ANIMAL_PLURAL@@ with one stone and conscript violent men into the military? That way, the only people they can kill and maim are terrorists and enemy soldiers, not innocent @@DEMONYM_NOUN_PLURAL@@." [[color=blue]Must not have conscription[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1252]#1252[/anchor]: Ale to the Chief [Baggieland; ed: Baggieland][/b]
 
 The Issue
@@ -190,7 +190,7 @@ The Debate
 
 5. "I have an idea," interjects a hobo, who's been listening in on your conversation from the bench outside your window. "Why doesn't the government provide free booze for everyone? That would be nice."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1253]#1253[/anchor]: Build a Better Baby? [Hediacrana; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -203,7 +203,7 @@ The Debate
 
 3. "Optimal workers, you say?" inquires @@RANDOM_NAME@@, your minister of health. "That raises an intriguing idea: what if, rather than making genetic profiling freely available to all parents, we made it mandatory? Imagine, we could have a whole new generation of genetically-engineered workers that are ultra-productive and inclined to obedience to the state, with an enhanced ability to contribute to the greater good of @@NAME@@!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1254]#1254[/anchor]: Sales on Rails [Mondrina; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -216,7 +216,7 @@ The Debate
 
 3. Late to the meeting, and with a messy stack of disorganized papers in @@HIS@@ arms, your Minister of Finance shows up. "We must acknowledge that a sizeable portion of some citizens' incomes comes from these entrepreneurial activities, but equally, we should have some level of regulation by selling official retail licenses, which in turn will boost the national treasury. After all, we deserve our share. These are free samples, yes?" @@HE@@ helps @@HIM@@self to a bag of crackers, and walks out.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1255]#1255[/anchor]: This Lady's Not for Turning [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -231,7 +231,7 @@ The Debate
 
 4. "Maybe there's a better way to make this work," suggests eye-patch wearing spy Jules Windu, walking in dramatically five minutes after you thought the meeting was over, during what your younger staff call the 'post credits debriefing'. "How about you let me build a special operative team — we'll call it the Vengeance Justice Initiative. The Iron Lady, Dogman, Superhulk, Ex-Husband-of-Colour and all the other special people with special talents... we'll call them to assemble when we need them, and let them get on with their lives the rest of the time. Oh, and I'll need a helicarrier. Don't ask why, just get me one."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1256]#1256[/anchor]: Train in Vain [Australian rePublic; ed: Baggieland][/b]
 
 The Issue
@@ -244,7 +244,7 @@ The Debate
 
 3. "I have an idea!" eagerly suggests @@RANDOM_NAME@@, your minister of Creative Solutions, whilst drawing pieces of paper out of a hat. "The blue paper is a piece of infrastructure, and the pink paper is a seat. See — aqueduct, Greenville. Hospital, @@CAPITAL@@. Stadium, @@ANIMAL@@ Hills. All decisions made by the hat are final. There'll be no more fighting, and we can all finally get along in Parliament!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1257]#1257[/anchor]: It's a Kind of Magic [Podium; ed: Altmer Dominion[/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 [5]. A shallow bowl of apple purée smashes through the window, covering everyone in the room but you. Down on the street, a pious elderly individual paces furiously. "HERESY! WITCHCRAFT! @@LEADER@@, these totems are an affront to my faith! Why you haven't already destroyed them for the sake of @@NAME@@, I have no idea! [[color=blue]Must not be atheist[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1258]#1258[/anchor]: Henceforward Shall Be Free [The Sakhalinsk Empire; ed: Baggieland][/b]
 
 The Issue
@@ -274,7 +274,7 @@ The Debate
 
 3. "All right, we've liberated slaves, but that doesn't make them equal!" remarks @@RANDOM_FIRST_NAME@@ Voster. "Let them be free all they want, but they'll need to know they're different from us. They'll have to use separate beaches, buses, toilets, everything. Just make sure that we get the good stuff."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1259]#1259[/anchor]: Buy Low, Sell High [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue

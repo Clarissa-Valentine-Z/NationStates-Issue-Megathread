@@ -10,7 +10,7 @@ The Debate
 
 3. "Haha!" chortles @@RANDOM_NAME@@, while watching 'Mad Max vs. Jar Jar Binks 2: The Unrated Edition' on his smartphone. Shovelling another handful of popcorn into his mouth, he turns to interject, "Oh my god, this is the best part, guys. Will you keep quiet back there?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=441]#441[/anchor]: You've Got A Friend In Bee [Outer Sparta; ed: Nation of Quebec][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 5. "Whatever happened to leaving nature alone?" queries the eccentric 'Doctor Bees', carrying suitcases buzzing with bees and seen wearing a full bee costume. "More bee colonies? Pesticides? Genes? Buzz off! Have you ever stopped to think that we are to blame for this mess? Why don't we free the bees and let nature take its course? Sure, the beekeeping industry would suffer, but if we do nothing the alternative is total environmental disaster! Buzz buzz buzz!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=442]#442[/anchor]: You Can't Always Get What You Squat [Czechostan; ed: Golgothastan][/b]
 
 The Issue
@@ -40,7 +40,7 @@ The Debate
 
 3. "Maybe you're looking for a solution in the wrong spot," says a voice coming from your office closet. You open the door to discover @@RANDOM_NAME@@, roasting a chunk of something indeterminate and meaty over a makeshift fire. "What's so bad about squatting? I mean, most of the buildings we live in are abandoned or unoccupied anyway. There will always be homeless people, and the government needs to acknowledge this and give us the right to live off the land, even if it's someone else's. Now close the door, you're letting in a draft."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=443]#443[/anchor]: Five Year Plans And New Deals [Bureaucratic Paralysis; ed: Lenyo][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 4. "Don't listen to that imperialist lackey," interrupts @@RANDOM_NAME@@, a rioter throwing stale bread at you. "It's not enough to have national planning; we need WORLD economic planning. We should retool from making worthless fuzzy dice and sex-enhancement drugs and instead provide nutrition and medicines for needy peoples the world over. Perhaps you think the pig-dog capitalists will never let it happen, but I am hopeful. A rising dough lifts all nations, after all. It's time to end hunger once and for all." 
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=444]#444[/anchor]: Virtually Assured Destruction [Austral Coast; ed: Lenyo][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 4. "You're all ignoring the real problem!" shouts a protester as she bursts through the door to your office. "The nukes were a bad idea from the get-go! Sooner or later we're going to annihilate ourselves with another accident. What's the point of even having a deterrent if we're just going to blow ourselves up? For the sake of humanity, the environment, and the national budget, it's time to disarm ALL nuclear, biological, and chemical weapons."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=445]#445[/anchor]: Evasive Maneuvers [Panageadom; ed: Nation of Quebec][/b]
 
 The Issue
@@ -83,7 +83,7 @@ The Debate
 
 3. "Erm, @@LEADER@@?" whimpers @@RANDOM_NAME@@, a timid conflict-fearing Treasury Ministry employee, cowering in a fort made up of boxes of tax code amendments, "I think there's a way out of this. Surely we can just change the law to take out the biggest loopholes, without asking companies for any back payments for laws they didn't break at the time? It's not a perfect solution, but at least most of the protesters will go home and leave us alone - at least until they realize the corporate lawyers are back to their usual tricks?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=446]#446[/anchor]: In The Land Of Milk And Money? [Kaztropol; ed: Gnejs][/b]
 
 The Issue
@@ -98,7 +98,7 @@ The Debate
 
 4. "Hang on a minute there," yells @@RANDOM_NAME@@, CEO of the infant formula company Got Milk Inc. "I just heard from a peg-legged homeless person that breast milk is a gateway drug to cannibalism, so maybe we're better off without it? With some government funding, my company can provide enough tasty and nutritious formula for all of @@NAME@@'s infants!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=447]#447[/anchor]: Honey, We Hung The Parliament [Gnejs; ed: Nation of Quebec][/b]
 
 The Issue
@@ -113,7 +113,7 @@ The Debate
 
 4. "Or you just let us be a part of the government, or at least let be part of your group in Parliament", says the belligerent @@RANDOM_MALE_NAME@@, leader of Death to the State, his body covered in gang tattoos. "The people voted for us, after all, and this blatant disregard for the popular vote is shocking. We'll want something in return for our support, of course, but we're not greedy. Just implement some of our campaign promises about cleansing the state apparatus of the bourgeois plague of bureaucracy, and you'll get your majority."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=448]#448[/anchor]: It Takes A Village [Flanderosa; ed: Nation of Quebec][/b]
 
 The Issue
@@ -130,7 +130,7 @@ The Debate
 
 5. "They have it all wrong!" invokes impatient company boss @@RANDOM_MALE_NAME@@, who is infamous for his misogynistic rants. "The problem isn't just that these girls neglect their kids, but that they neglect their work as well. If an employer feels his female staff are tired-looking, they should be allowed to dismiss them from their jobs. It's for their benefit as well as ours, we just take the decision out of their hands, so they don't have to worry their pretty heads over it."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=449]#449[/anchor]: A Big Fracking Problem [Czechostan; ed: Nation of Quebec][/b]
 
 The Issue
@@ -145,7 +145,7 @@ The Debate
 
 4. "There's always room for compromise," chimes in @@RANDOM_NAME@@, one of your top aides famous for diffusing tension in your office. "We obviously can't ignore the benefits of fracking, but we can't turn a blind eye to the impact it would have on the environment either. Why not allow fracking, but only in areas of @@NAME@@ where there are no major populated areas? I hear that the land in the Northern @@ANIMAL@@ Mountain Range is just ripe for hydraulic fracturing. There is a @@ANIMAL@@ preservation area nearby, but it's not like they're going to be protesting." 
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=450]#450[/anchor]: Colonial Testimonial [Sussetonia; ed: Gnejs][/b]
 
 The Issue
@@ -158,7 +158,7 @@ The Debate
 
 3. "Look, we're not going to agree on this any time soon, so why not make both sides happy?" suggests @@RANDOM_NAME@@, cultural anthropologist and author of the academically acclaimed book 'Can We Please Just Respect Everyone And Everything All The Time?' "@@NAME@@ doesn't want to be remembered as the brutal oppressor, and our new, eh, friends, doesn't want their hardships swept under the rug. So, let each territory have their own version of history! What could possibly go wrong?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=451]#451[/anchor]: A Prosthelytizer To Burn [Sierra Lyricalia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -173,7 +173,7 @@ The Debate
 
 4. "All of these people are tyrannical scumbags!" bellows the usually quiet Bic Granger, director of the @@CAPITAL@@ National Library. "You're talking about a cavalier disregard for the whole world's entire knowledge and heritage, from cavepeople to philosophers to tabloid reporters. Books can be immortal if they're taken care of. In fact, the government should be protecting books from the burners and ensuring that people have a right to read whatever they please, regardless of how offensive that might be."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=452]#452[/anchor]: Foetal Furore [Christian Democrats; ed: Sanctaria][/b]
 
 The Issue
@@ -188,7 +188,7 @@ The Debate
 
 4. "Oppressor!" screams militant antitheist @@RANDOM_NAME@@, pointing at the last speaker. "A bunch of middle-aged, celibate men refusing to allow women to have control over their own bodies - all these barbarians are doing is peddling their outdated misogyny, and I'm tired of it. The only way we'll make any real social progress is to put a stop to their hatemongering entirely. I insist that the whole anti-abortion movement be outlawed with stiff penalties for religious anti-choice advocates."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=453]#453[/anchor]: Parliamentary Playground [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue
@@ -203,7 +203,7 @@ The Debate
 
 4. "Hold up! Outta my way!" shouts pro-wrestler Stone Fist as he barges his way into your office and places one of your aides in a chokehold. "What if instead of debates, politicians settled their scores with trial by combat? Build a thunderdome in Parliament. Two MPs enter; one MP leaves! Imagine the ratings and publicity! People could even bet @@CURRENCIES@@ on the results. At the very least, the public will be a lot more invested in the outcome of parliamentary debates." Your aide passes out as Stone Fist releases his grip.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=454]#454[/anchor]: Don't Stead On Me! [Scow Creek; ed: Gnejs][/b]
 
 The Issue
@@ -218,7 +218,7 @@ The Debate
 
 4. Just when you thought you were done for the day, @@RANDOM_NAME@@ climbs through your window. The infamous primitivist and raging bovinophobe has another solution to the issue at hand. "The problem isn't farming in cities, it's farming period! The domestication of animals and subjugation of the roaming savage is what led to our downfall. The first step towards finding our roots is outlawing agriculture, in all its forms! We'll live off the land: pick berries and stalk @@ANIMAL_PLURAL@@. It'll be grand, trust me."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=455]#455[/anchor]: Police On Overkill Mode? [Annihilators of Chan Island; ed: Lenyo][/b]
 
 The Issue
@@ -233,7 +233,7 @@ The Debate
 
 4. The tank drives off, ruining the gardens around your office. "I can't believe you let amateurs use heavy armor," comments @@RANDOM_NAME@@, a military attaché from Maxtopia. "Occupying unruly neighborhoods can reduce unrest, but only if the job is done by professionals. Let the army handle your police work, and you won't have untrained idiots demolishing every street sign in their path. Nothing maintains law and order quite like the barrel of a gun and a proper curfew."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=456]#456[/anchor]: Heads Will Roll [Sleep; ed: Gnejs][/b]
 
 The Issue
@@ -242,8 +242,7 @@ Earlier this week an entire chapter of the motorcycle gang Daughters of Disorder
 The Debate
 *1. "This law would violate our religious right to wear our sacred top hats while riding motorcycles!" exclaims @@RANDOM_NAME@@, president of the Violetist Scooter Corps, as @@HE@@ points @@HIS@@ ceremonial blade at your chest. "We have worn the top hat in times of war on the battlefield! Our protection comes from Violet herself! Require the ungodly heathens to wear helmets! Those who are chosen by Violet to ride will ride in style or die trying!" [[color=blue]Violetism is legal[/color]]
 
-*2. "This law would violate our religious right to wear our sacred top hats while riding motorcycles!" exclaims @@RANDOM_NAME@@, president of the Traqnuil Yellowist Scooter Corps, as @@HE@@ points @@HIS@@ ceremonial blade at your chest. "We have worn the top hat in times of war on the battlefield! Our protection comes from the Yellow One himself! Require the ungodly heathens to wear helmets! Those who are chosen by the Yellow One to ride will ride in style or die trying!"
- [[color=red]Violetism is illegal[/color]]
+*2. "This law would violate our religious right to wear our sacred top hats while riding motorcycles!" exclaims @@RANDOM_NAME@@, president of the Traqnuil Yellowist Scooter Corps, as @@HE@@ points @@HIS@@ ceremonial blade at your chest. "We have worn the top hat in times of war on the battlefield! Our protection comes from the Yellow One himself! Require the ungodly heathens to wear helmets! Those who are chosen by the Yellow One to ride will ride in style or die trying!" [[color=red]Violetism is illegal[/color]]
 
 3. "The stove pipe is right, helmets are lame!" agrees Dean James, your slacker nephew. "How am I going to impress any babes if I have helmet hair?" he asks, running his hand through his hair while checking out your secretary over his sunglasses. "Do the right thing boss; helmets are for losers."
 
@@ -253,7 +252,7 @@ The Debate
 
 *6. "It's not enough!" screams one of your junior aides, a fragile and slightly confused soul who was particularly disturbed by the recent accident. "It's not just traffic! People slip in the shower every day, cans fall on their heads in supermarkets, disoriented birds; we're all exposed, at all times! If people are too stupid to realize that, we have to make them! There should be a helmet law for everyone! Wear a helmet or be banned from leaving the house!" [[color=blue]Must not have prisons[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=457]#457[/anchor]: Colossus With Feet Of Clay [Halothorne; ed: Nation of Quebec][/b]
 
 The Issue
@@ -268,7 +267,7 @@ The Debate
 
 4. "The mountain should be totally left alone," agrees environmentalist @@RANDOM_FEMALE_NAME@@, as she hands peace offerings to everyone in the room. "Mount Rushless is an environmental wonder and has been beloved for generations exactly as it is. If anything, we should be passing tougher environmental laws to make sure that these lands can't be sold to the highest bidder. We ought to be designating more lands as national parks and hiring more park rangers to protect them. The government's top priority should be protecting the environment, not opening up another tourist trap!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=458]#458[/anchor]: Bigtopian Lives Matter [Valyrian Freeholds; ed: Lenyo][/b]
 
 The Issue
@@ -281,7 +280,7 @@ The Debate
 
 3. "The boy in question was a serial jaywalker, proving he was a hardened criminal," Chief of Police @@RANDOM_NAME@@ states candidly. "So we can assume that the most notorious jaywalker in all of @@NAME@@ was up to no good. And those annoying protesters are just delaying traffic. I'll get the fire department to disperse them pronto. TURN ON THE FIRE HOSES!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=459]#459[/anchor]: Murder, He Shouted! [Human Olympus; ed: Gnejs][/b]
 
 The Issue

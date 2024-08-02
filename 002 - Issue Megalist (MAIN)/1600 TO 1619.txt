@@ -14,7 +14,7 @@ The Debate
 
 5. "Wait... you mean Trixie Love isn't actually a twenty-something single college student desperate to hear from me?" mutters the representative of the League of Single but Very Very Very Available Men, twitching uncontrollably. "This female... woman... lady... these ladies... they're deceiving us! We should be encouraging honesty in this vital profession! The government should enforce accuracy in all adult entertainment adverts, and should maybe give grants to young, hot ladies who are looking to start their adult entertainment career. [i]Girls of @@NAME@@ — Your Country Needs You! Come to Us![/i] I'll... I'll be in my bunk."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1601]#1601[/anchor]: At Death's Door [Sedgistan; ed: The Free Joy State][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 4. On your return to the office, you look to your longest-serving advisor, sat peacefully in the corner. They haven't piped up for a while now. They don't say anything, but somehow between their fixed grin and unblinking stare, you understand what they're saying — leave the dead where they were happy, to enjoy their rest among their own belongings; why disturb them?[/box]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1602]#1602[/anchor]: @@NAME@@'s Bark Worse Than Its Byte? [Varanius; ed: Westinor][/b]
 
 The Issue
@@ -46,7 +46,7 @@ The Debate
 
 5. "You guys are total killjoys!" whines your acne-covered nephew, furiously button-mashing on a controller. "Oh, that was sick! What was I saying? Right, this game rocks! In fact, why are we gatekeeping it with a price tag? We should be helping as many people get their hands on it as possible — yeah, eat that, loser! You know what, if we give the game away to foreigners for free, we can maintain our economic independence and keep our autarky! Seems easy to me." He groans as his console plays a defeat sound effect. "Oh, come on! I wasn't paying attention!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1603]#1603[/anchor]: Searching for That Special Someone [Candlewhisper Archive; ed: Pogaria][/b]
 
 The Issue
@@ -67,7 +67,7 @@ The Debate
 
 7. "Ban the internet!" shouts your Minister of Equality, waving her arms about. "Sorry, no, I only yelled that to get your attention. Actually, the real problem here is that people are still using 'special needs' as an insult. Can you please invest some more in educating the masses in language sensitivity and respect for the disabled? Don't ban the internet, by the way. That'd be crazy."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1604]#1604[/anchor]: Prison of the Mind [Thal Dorthat; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -80,7 +80,7 @@ The Debate
 
 3. "These innovations could transform all of society," says industry bigwig @@RANDOM_NAME@@, a greedy glint in @@HIS@@ eye. "Way I see it, perceived time off is as good as actual time off. Imagine mandatory seven day weeks for fifty-one weeks a year, but workers experiencing all the benefits of twelve weeks off per annum. National productivity would shoot skywards! A dream come true!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1605]#1605[/anchor]: Hungry for Criticism [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -93,7 +93,7 @@ The Debate
 
 *3. "Internet and media all around us, is it any wonder that we all have a hunger?" questions Reverend Florence X. Machina, standing before an altar beneath a statue of an emaciated man in a loincloth. "A spiritual hunger, that is. The dog days can be over, if for only a few hours each week we are all obliged to turn off all electronic devices and attend church. It's always darkest before the dawn, but with minds filled with holy truth rather than horrible tweets, we can raise us up, raise us up." [[color=purple]Does not have low religiousness[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1606]#1606[/anchor]: Book Off [The Free Joy State; ed: Pogaria][/b] 
 
 The Issue
@@ -108,7 +108,7 @@ The Debate
 
 4. "Look," sighs your Minister of Minimum Effort, who fancies herself a comedian, "everyone knows that @@ANIMAL@@-O'er-the-Wold is the anus of @@NAME@@. You've heard that joke about the Woldian who was dressing up for dinner, so he put on a T-shirt without cut-off sleeves. To be honest, I'm surprised they had that many books to ban; Woldians aren't exactly known for reading — they call fast-food menus 'books'." She chortles at herself. "You gotta let the less-developed regions take responsibility for their own people. Just launch a pro-reading campaign to keep it from spreading and forget about the Wold. Those kids are probably gonna get stuck in a swamp anyway." 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1607]#1607[/anchor]: My Chemical Romance [Millenhaal; ed: Pogaria][/b]
 
 The Issue
@@ -121,7 +121,7 @@ The Debate
 
 3. "Oh please, we all know there's no way to increase romantic attractiveness; otherwise I'd have whipped something up to make Stacy go to Senior Prom with me!" asserts @@DEMONYM_ADJECTVE@@ Secularist Society spokesperson @@RANDOM_NAME@@, sporting a plaid fedora. "The bottom line is that people are gullible and easily tricked by bad actors. If we allow these harmful things to exist, more people will die from false remedies. Sure, some folks want the right to choose how they're healed, but if the government's job is to protect its citizens, that should mean eliminating these substances. If people are really having so much trouble finding a partner, the Ministry of Human Services should direct them towards some like-minded support groups that might help out."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1608]#1608[/anchor]: G's Louise [Verdant Haven; ed: Verdant Haven][/b]
 
 The Issue
@@ -136,7 +136,7 @@ The Debate
 
 4. "Turn off that camera!" hisses notorious omniphobe Randy Sharp, pulling his hood tight around his face. "Data already moves plenty fast! Sometimes too fast, if you catch my drift. You know what this is? It's a system for emitting mind-control rays! Satellites, cellular towers, these 'G's' people keep talking about... they work together to track people, and to force honest @@DEMONYM_PLURAL@@ like me to carry out the whims of the secret international cabal of the lizard people! Outlaw all future work on these so-called advances at once!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1609]#1609[/anchor]: One Big Watering Hole [Noahs Second Country; ed: Baggieland][/b]
 
 The Issue
@@ -149,7 +149,7 @@ The Debate
 
 3. "Look, I know it's tough to swallow, but size matters," chips Willy Snead Jr, largely obscured by a golf bag. "Golf is a game of inches anyway, so let's shrink our expectations down into something more comfortable and realistic — miniature golf! It's affordable for everyone and courses can be built in cities, so there'll be no more concerns about environmental damage. I see miniature golf courses everywhere, complete with obstacles, fake grass, and government subsidies!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1610]#1610[/anchor]: Keep Me Appraised? [Lancaster of Wessex; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -164,7 +164,7 @@ The Debate
 
 4. "Oh please, who the hell wants more government?" spits a disgruntled cleaner, piping up from the corner of the room. "Just ban appraisals completely, and people can sell things at market levels without stupid pieces of paper or so-called educated opinions getting in the way."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1611]#1611[/anchor]: Filial Fidelity [Verdant Haven; ed: Pogaria][/b]
 
 The Issue
@@ -177,7 +177,7 @@ The Debate
 
 3. "I have an idea that might ruffle a few feathers," announces your Chief of Plumage Disturbance, @@RANDOM_NAME@@, quickly sketching a Venn diagram in @@HIS@@ notebook. "On one side, you've got folks like @@RANDOM_FIRST_NAME_2@@ who need to be paid for their services. On the other side, you've got families like @@RANDOM_FIRST_NAME_1@@ and @@HIS_1@@ mother who really can't afford the medical bills every time some third cousin twice removed needs care. You know who can afford it? The government! If we just raise taxes across the board, we can introduce universal state-provided health care. When everybody pays, everybody wins!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1612]#1612[/anchor]: Immune Deficiencies [Cielearda; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -190,7 +190,7 @@ The Debate
 
 3. "No, no, no. This is all getting out of hand," telephones in the United Federation diplomat, from the safety of their embassy. "My spouse made an honest mistake; @@HE_1@@ shouldn't be extradited just for that, surely? I mean, let's not forget, diplomatic privileges extend both ways, and that's what makes our countries such close friends. You want to come over to my country and 'accidentally' run over a kid or two here? No harm, no foul."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1613]#1613[/anchor]: Incarceration Sensation [Pogaria; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -203,7 +203,7 @@ The Debate
 
 3. "What if we let the prisoners go on tour and [i]encourage[/i] them to try to escape?" proposes @@RANDOM_NAME@@, an executive at Concast Television. "Let's make a reality show out of it! People could take bets on who escapes first and who betrays their friends or is recaptured by the police. And of course, people would win a prize for finding and apprehending an escapee — peacefully or violently. We could call it [i]The Running @@DEMONYM@@[/i]!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1614]#1614[/anchor]: Fauxthentic Food [Osheiga; ed: Verdant Haven][/b]
 
 The Issue
@@ -220,7 +220,7 @@ The Debate
 
 5. "Y'know, you could learn a thing or two from our restaurants!" interjects @@RANDOM_NAME@@, the foreign Trade Representative, squeezing a series of rude-sounding noises from a bottle as @@HE@@ attempts to extract the last drops of concerningly orange '@@LEADER@@'s Special Sauce'. "You should repeal those silly food safety laws you have and finally allow your chefs to get creative with @@DEMONYM_ADJECTIVE@@ fare. Some innovation in your dining experience might loosen you up a bit... and you have to admit, this stuff is the bomb!" The gurgling in your stomach seems to suggest that perhaps @@HIS@@ words were more literal than intended.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1615]#1615[/anchor]: Passports-4-Purchase [Ruotsaland; ed: Pogaria][/b]
 
 The Issue
@@ -235,7 +235,7 @@ The Debate
 
 4. "Why are we even debating how to gain citizenship?" chimes in your uncle, who also happens to be your self-appointed Chief of Informal Advice. "In my perfect @@NAME@@, only those born and raised here can be true @@DEMONYM_PLURAL@@. No matter how much money you make, here or abroad, you are only a citizen if you have lived your whole life here."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1616]#1616[/anchor]: Beyond the Focal Point [West Barack and East Obama; ed: Kaschovia][/b]
 
 The Issue
@@ -252,7 +252,7 @@ The Debate
 
 *5. "Let us kids be kids!" your nephew laments, itching to race out of the door and into the playground. "We don't want pills, one-on-one therapy sessions, or study camps... we just want more time outside having fun! Did you know that students in Brancaland learn physics through games of kickball? I think all schools in @@NAME@@ should have just as many outdoor activity-based classes as they do boring ones... is that really too much to ask, @@LEADER@@?" [[color=red]Must not have Computers[/color] OR [color=red]Must not have Internet[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1617]#1617[/anchor]: The Defenestration of Progg [Verdant Haven; ed: Baggieland][/b]
 
 The Issue
@@ -265,7 +265,7 @@ The Debate
 
 3. "Well, this is as clear as sludge," mutters your Director of Sewage and Wastewater Management, who was touring the building's bathrooms while you ate. "Without our people having been there, who knows what the truth is? No matter what really happened, it seems like local authorities just can't handle things themselves, so maybe it's time we exert a bit more day-to-day control over the provinces? That's the only way to keep these bumpkins from clogging up the works!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1618]#1618[/anchor]: Sextual Healing [Chan island; ed: SherpDaWerp][/b]
 
 The Issue
@@ -278,7 +278,7 @@ The Debate
 
 3. Your door flies open without even so much as a tap, and civil servant @@RANDOM_NAME@@ barges in holding a mountain of papers. @@HE@@ glances at the phone in your hand and frowns. "On the phone again, boss? Look, here's all the new laws and petitions you need to deal with. I know it's not my place, but frankly, us staffers might get to go home at a reasonable hour if you got rid of that bloody thing and got to work! Hey, there's a fantastic basis for a new campaign — why don't you ditch your phone to reconnect with the people of @@NAME@@?"[/box]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1619]#1619[/anchor]: Something Amiss in the @@ANIMAL@@ Mountains [Kaschovia; ed: Verdant Haven][/b]
 
 The Issue
@@ -293,4 +293,4 @@ The Debate
 
 4. "You think signing checks or throwing bodies at it will solve anything?" bemoans @@RANDOM_NAME@@, a superstitious reporter from the @@CAPITAL@@ Herald, gnawing nervously on a pen. "I've been reporting on the dangers and tragedies of the @@ANIMAL@@ Mountains my entire journalistic career and I can promise you, the only things in these cursed mountains are early graves. The last thing we need is more cold, unattended funerals, especially after what happened to that last exped... uh, nevermind. Just close off areas like these to everyone once and for all, and warn people about the curse. You'll probably save a lot of money, too."
 
---------------------------------------------------------------
+[hr][/hr]

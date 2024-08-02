@@ -10,7 +10,7 @@ The Debate
 
 3. "Other things rise to the top too," retorts @@RANDOM_NAME@@, a low-paid sewerjack who knows about these things. "Look, free meals should be for them that haven't got moolah, like my kids. You think I like feeding them fried junk food? I don't, but it's all I can budget for. You should have vouchers for meals that parents can apply for if they're poor enough. Schools - and indeed, supermarkets and restaurants - could be obliged to take these vouchers in lieu of cash, then take these vouchers back to the government for reimbursement. Yeah, it's a bit more complex than a one size fits all approach, but it's fairer."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=621]#621[/anchor]: Blue Collar Blues [TeamNARWiC; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 5. "Sometimes, perhaps it is best to let the ocean currents move you, rather than trying to turn back a rising tide," suggests Taiqiquan practitioner @@RANDOM_NAME@@, working through a series of graceful circular movements. "Your nation's economy is changing, and shifting away from manual work. This is natural, and you should move with, never against. Imagine: as graduates become unemployed, the market self-adjusts, and the economy flows back towards its former shape. As pipes become blocked, supply and demand mismatch results in the free market rising to fill a gap. Energy flows through the system like water, and problems resolve themselves."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=622]#622[/anchor]: [color=goldenrod]Easter Egg[/color]: A Holiday Masquerade [The Grim Reaper; ed: Lenyo][/b]
 
 The Issue
@@ -48,7 +48,7 @@ The Debate
 
 7. "You have very classical proportions," whispers a creepy stranger directly into your ear. "Frankly, you'd look good in whatever costume - or none at all, really. I bet you could find someone drunk enough to even turn it into a fashion line."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=623]#623[/anchor]: Maison D'Être? [Adregon; ed: Gnejs][/b]
 
 The Issue
@@ -65,7 +65,7 @@ The Debate
 
 5. "Oh where is your spirit of adventure?" exclaims @@RANDOM_NAME@@, chair of the homeowners association Heart Of Darkness. "What we have is an abundance of young people slouching around without house or home, correct? I say we send them off with a couple of muskets and bayonets to find their own place in the world; settle new colonies and bring the light of @@NAME@@ to all corners of the world! It might affect domestic labor availability slightly, but think of the wealth we would collect with all of the new territory."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=624]#624[/anchor]: A Role To Play [Panthera Corpus Renatus; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -76,9 +76,9 @@ The Debate
 
 2. "People need to mind their own business," states self-proclaimed nerd and 'TnT-otaku' @@RANDOM_NAME@@, proudly wearing a 'Jesus Saves And Takes Half Damage' t-shirt. "This is a positive activity, which can teach you social skills, maths, story-telling, and stuff! Sure, sometimes a player who has too much soda will fling half a dozen four-sided dice at someone's head, because you know, magic missiles, ha-ha, but no real harm done by that. If this psycho held his fellow students hostage, it was because he was mentally ill, not because he gamed. Maybe deal with the mental health funding gap, and leave our hobby alone?"
 
-3."Actually, I think that being taken hostage was our own fault," suggests @@RANDOM_FIRST_NAME@@ Stockholm, one of the crime's victims. "I mean, he had asked us to game with him for months, but we thought we were too cool to play with dice and toy soldiers, and we even made fun of him. Now I've been obliged to try out Trials and Trolls, I realise how amazing it is! You should add the game to the national curriculum. It'll make us better people."
+3. "Actually, I think that being taken hostage was our own fault," suggests @@RANDOM_FIRST_NAME@@ Stockholm, one of the crime's victims. "I mean, he had asked us to game with him for months, but we thought we were too cool to play with dice and toy soldiers, and we even made fun of him. Now I've been obliged to try out Trials and Trolls, I realise how amazing it is! You should add the game to the national curriculum. It'll make us better people."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=625]#625[/anchor]: Delivering The Goods [Annihilators of Chan Island; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -107,7 +107,7 @@ The Debate
 
 11. "You know, I can't help but think that a lot of this contraband wouldn't be illegal in a more liberal country," observes one of the smugglers, from the chair your men have tied him to. "You ever considered changing your laws to allow some free trade and personal freedom, maybe? Like, if you could personally free me, that'd be great."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=626]#626[/anchor]: Carbon Copied [Plutoniacht; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -120,11 +120,11 @@ The Debate
 
 *3. "This. Is. ABOMINABLE! EXECRABLE! DETESTABLE!" yells the Minister of the Church of Weird Gaits, as he marches, then tromps, then slithers into your office and rises before you, his face turning the same color as an old peach pit on your desk. "This is a total abandonment of the world that the Great Lumberer created for us! How will we show our gratitude for the greatest gift bestowed on us, our legs, if we can't use them! Tens of citizens in @@CAPITAL@@ will be either transferred to a line of 1's and 0's and banished from The Lumberer's Sidewalks, or left behind to die in the ruins of civilization. Shut down this science corporation! Make it no more, ceased to be, expired, bereft of profit, history!" [[color=purple]Must not have Atheism[/color]]
 
-*4. “This. Is. ABOMINABLE! EXECRABLE! DETESTABLE!” yells the President of the Society of Weird Gaits, as he marches, then tromps, then slithers into your office and rises before you, his face turning the same color as an old peach pit on your desk. “This is a total abandonment of this precious world of ours, that nature’s great gift of legs allows us to explore! How will we show our gratitude for that gift if we can’t use it? Tens of citizens in @@NAME@@ will be either transferred to a line of 1’s and 0’s and banished forever from the sidewalks, or left behind to die in the ruins of civilization. Shut down this venture! Make it no more, ceased to be, expired, bereft of profit, history!” [[color=purple]Must have Atheism[/color]]
+*4. "This. Is. ABOMINABLE! EXECRABLE! DETESTABLE!" yells the President of the Society of Weird Gaits, as he marches, then tromps, then slithers into your office and rises before you, his face turning the same color as an old peach pit on your desk. "This is a total abandonment of this precious world of ours, that nature's great gift of legs allows us to explore! How will we show our gratitude for that gift if we can't use it? Tens of citizens in @@NAME@@ will be either transferred to a line of 1's and 0's and banished forever from the sidewalks, or left behind to die in the ruins of civilization. Shut down this venture! Make it no more, ceased to be, expired, bereft of profit, history!" [[color=purple]Must have Atheism[/color]]
 
 5. "You don't need to be a Luddite or a fanatic to object to transhumanism," mutters ethicist Sera O'Connor, glancing nervously at the wall clock. "Developing these technologies increases the odds of human self-extinction. We need to be sure that any intelligence that ushers in the next century is wholly human, grounded in human biology and human morality. There is no fate but what we make. What future do you want to create?" [color=purple]Must ban religions[/color]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=627]#627[/anchor]: The Bee-Ginning Of A Catastrophe? [Outer Sparta; ed: Nation of Quebec][/b]
 
 The Issue
@@ -141,7 +141,7 @@ The Debate
 
 5. "The problem was that we trusted this experimentation to the boffs in the labs," growls your gruff military attaché @@RANDOM_NAME@@ while examining a modified bee under a microscope. "Now I'm not much of a scientist, but surely it wouldn't be too hard for us to round up these modified bees and set them loose on one of our enemies? Imagine if we unleashed some of these bad boys on Maxtopia or Marche Noire. Their ecosystem will be so screwed up they'll be begging to sign that peace treaty! Now excuse me while I practice my evil laugh."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=628]#628[/anchor]: Only @@LEADER@@ Can Prevent Forest Fires [Ransium & Tishanda; ed: Nation of Quebec][/b]
 
 The Issue
@@ -156,7 +156,7 @@ The Debate
 
 4. "All this hand-wringing about forest land management is so interesting," sarcastically comments @@RANDOM_NAME@@, whose family lost their home to the fire. "Oh, wait, no, I don't care, BECAUSE MY HOUSE BURNT DOWN! Thousands of people have lost their homes and what are you doing about it? We need emergency help now. Let's take all the money we're wasting on so-called 'land management' and put it into something useful, like disaster relief and rebuilding our homes and communities."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=629]#629[/anchor]: Boom Or Bust? [The Rejected Realms Issue Committee; ed: Nation of Quebec][/b]
 
 The Issue
@@ -171,7 +171,7 @@ The Debate
 
 4. "We don't have this problem in Maxtopia," reminds the Maxtopian ambassador and self-titled meninist @@RANDOM_MALE_NAME@@. "Do you know why? It's because we wisely don't allow women to go out into this big and dangerous world out on their own. There are always going to be rapists and criminals out there. Now if a woman was accompanied by a male relative, friend, or coworker, violence against women would drop overnight. And don't listen to liberals whining about women's rights... What about the right of a woman to be free from harassment from strangers, and their right to be protected by their kin?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=630]#630[/anchor]: This Green And Pleasant Land [Nova Bulgarija; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -188,7 +188,7 @@ The Debate
 
 5. "Excuse me, is anyone going to ask why this has happened?" asks party-pooping scientist @@RANDOM_NAME@@. "We can't make use of this land till we understand what happened. I suggest establishing a research station here, and getting a better understanding of the ecological changes that led to this fertile land emerging."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=631]#631[/anchor]: The Violet Mile [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -209,7 +209,7 @@ The Debate
 
 7. "Kill the death penalty!" chants activist @@RANDOM_NAME@@, bursting out of a hiding place in your stationery cupboard. "Cull government sanctioned murder! Destroy these needless acts of revenge violence! An eye for an eye makes the world go blind!" The intruder pokes your security guard in the peepers with a pencil, then flees the room.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=632]#632[/anchor]: Dying For A Kiss [Palaiologos II; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -222,7 +222,7 @@ The Debate
 
 3. "Am I missing something obvious here?" asks loutish thug @@RANDOM_NAME@@, missing something obvious. "Seems to me that the girl dishonored her father, and so her father killed her for the sake of his family name. I mean, why are we saying that's a bad thing? How could anyone call that a bad thing?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=633]#633[/anchor]: Sound Judgement [Candlewhisper Archive; ed: Nation of Quebec][/b]
 
 The Issue
@@ -245,7 +245,7 @@ The Debate
 
 8. "National anthem? Bah!" scoffs resident anarchist and constant thorn-in-your-side @@RANDOM_NAME@@. "We don't need this government forcing that patriotic drivel down our throats! Besides, most @@DEMONYM_PLURAL@@ are terrible singers! That's the last thing I want to hear at a football game!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=634]#634[/anchor]: Bullet Time [Rubyna; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -260,7 +260,7 @@ The Debate
 
 4. "Slow down, now. Slow down, all..." says @@RANDOM_NAME@@, a villager visiting the capital for the first time. "More railways is a fine thing for all, but why have fancy high speed trains that zoom past all the interesting places on the way? I think you should be building a LOW speed rail, that stops at all the picturesque hamlets and towns, and brings visitors to them. Stop by Little Droppings - that's my own town, by the way - and I'll brew you a nice cup of tea."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=635]#635[/anchor]: Hey Kid, Have A Cigar [Kungyo; ed: Sleep and Candlewhisper Archive][/b]
 
 The Issue
@@ -275,7 +275,7 @@ The Debate
 
 4. "I have a reasonable third option!" interrupts passing minister @@RANDOM_NAME@@, right around the time someone normally interjects with a crazy third option. "Let tobacco companies operate freely, but have them do social good equal to the social harm, according to a fair assessment of externalities. Like, if they advertise to children, then they have to build a kids clinic or a litter picking program, that sort of thing."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=636]#636[/anchor]: Going on the Cyber Offensive [Noahs Second Country; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -290,7 +290,7 @@ The Debate
 
 *4. "Kids these days, they're geni.. geniei... uh... geniuses!" exclaims @@RANDOM_NAME@@, your Minister of Solutions. "This is the best idea we've had in a while! There's always demagogues, rebels and dissenters we need to put down. With your permission, perhaps we can put these children to work in slandering them. It's a subtler approach than a bullet to the head, killing the credibility of their ideas. The kids can, as they say, 'roast' the dissenters, and make you look great in comparison!" [[color=red]Must not have elections[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=637]#637[/anchor]: Little Pizza History [Oppressia FTDOF; ed: Lenyo][/b]
 
 The Issue
@@ -303,7 +303,7 @@ The Debate
 
 3. "Why not have your cake and eat it too?" asks your underachieving Culture Minister, @@RANDOM_NAME@@, while tucking into a tray of vol-au-vents taken from a recent gallery opening. "By which I mean have food AND culture at the same time. We should preserve these historical sites and allow - no, actually, make that REQUIRE - that they all have restaurants built within them. Imagine it: a roast on the spit in an old castle, tea and scones in noble palaces, all-you-can-eat-buffets in museums commemorating the Great @@DEMONYM_ADJECTIVE@@ Famine. Now that's what I call culture!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=638]#638[/anchor]: Won't Somebody Think of the Children? [Niklaustan; ed: Nation of Quebec][/b]
 
 The Issue
@@ -318,7 +318,7 @@ The Debate
 
 4. "You know, I think our friends in Dàguó have the right idea with their one child policy," suggests population control expert @@RANDOM_NAME@@ while going over the latest birth statistics. "@@NAME@@ has a population of @@POPULATION@@ and growing. We can barely keep up as it is without adding orphans into the mix. I propose adopting Dàguó's one child policy here while offering generous tax incentives for the good people of Maljaratas to adopt our remaining orphans. It may be a tad restrictive, but the people will thank me when they aren't suffocating on the subway."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=639]#639[/anchor]: No Country For Old Men [Troperia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -327,9 +327,9 @@ After several incidents which resulted in the loss of millions of @@CURRENCY@@ h
 The Debate
 1. "It's not really such a bad idea," suggests @@RANDOM_NAME@@, your middle-aged medical adviser while checking your pulse to see if you're still alive. "You see, when some people reach a certain age, they become too weak and mentally incompetent to do their job. Therefore, we need to impose mandatory retirement so our nation wouldn't have to put up with things like that senile 95-year-old rickshaw driver who caused that day-long traffic jam on the highway. Of course, we mustn't be cruel: we should also provide better pensions for them so they'll be content in their dotage."
 
-*2. “Our age has nothing to do with the... uh... what was it... the wild @@ANIMAL@@ hybrids rampaging through @@CAPITAL@@!” states bumbling security guard @@RANDOM_NAME@@, who didn’t hear the stampede of hybrids escaping the lab due to a malfunctioning hearing aid. “So you people think that just because we’re old, we can’t do our jobs? Well guess what? I’ve seen younger people who are more lazy, inefficient, and more... something than a sloth! Retirement and firing should be based on capabilities, not age!” [[color=purple]Low Nudity[/color]]
+*2. "Our age has nothing to do with the... uh... what was it... the wild @@ANIMAL@@ hybrids rampaging through @@CAPITAL@@!" states bumbling security guard @@RANDOM_NAME@@, who didn't hear the stampede of hybrids escaping the lab due to a malfunctioning hearing aid. "So you people think that just because we're old, we can't do our jobs? Well guess what? I've seen younger people who are more lazy, inefficient, and more... something than a sloth! Retirement and firing should be based on capabilities, not age!" [[color=purple]Low Nudity[/color]]
 
-*3. “Our age has nothing to do with the... uh... what was it... the wild @@ANIMAL@@ hybrids rampaging through @@CAPITAL@@!” states bumbling security guard @@RANDOM_NAME@@, who didn’t hear the stampede of hybrids escaping the lab due to a malfunctioning hearing aid. “So you people think that just because we’re old, we can’t do our jobs? Well guess what? I’ve seen younger people who are more lazy, inefficient, and more... something than a sloth! Retirement and firing should be based on capabilities, not age!” [[color=purple]High Nudity[/color]]
+*3. "Our age has nothing to do with the... uh... what was it... the wild @@ANIMAL@@ hybrids rampaging through @@CAPITAL@@!" states bumbling security guard @@RANDOM_NAME@@, who didn't hear the stampede of hybrids escaping the lab due to a malfunctioning hearing aid. "So you people think that just because we're old, we can't do our jobs? Well guess what? I've seen younger people who are more lazy, inefficient, and more... something than a sloth! Retirement and firing should be based on capabilities, not age!" [[color=purple]High Nudity[/color]]
 
 *4. "Why bother with retirement anyway?" asks @@RANDOM_NAME@@, a rather young basket weaving CEO whose employees consist mostly of @@HIS@@ aging relatives. "I mean, the only reason it exists is just so old people can laze around doing nothing, right? So why don't we remove it altogether and make it so that people have to work no matter how old they are? Sure, incidents like the that doctor who left his false teeth inside a patient might be more common than before; but that's the price you have to pay for the sake of productivity." [[color=blue]Must have private industry[/color]]
 

@@ -12,7 +12,7 @@ The Debate
 
 4. "Must everything come down to war?" sighs the rarely seen ambassador of Qaanpaluk, a mysterious, but wealthy, nation made of a series of frozen islands. "Technically, Hanshedrik belongs to neither @@NAME@@ nor Skandilund and therefore is not yours or theirs to give away. Our ancestors discovered the island centuries ago and it has a spiritual significance for us. We are not an unreasonable people. If you give the island to us, we'll grant you access to some of our gold deposits." Just as you are about to grab a tasty danish, you notice the plate is now empty.
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=981]#981[/anchor]: Westfailian Sovereignty [Australian rePublic; ed: Baggieland][/b]
 
 The Issue
@@ -25,14 +25,16 @@ The Debate
 
 3. "Was it so bad for the United Federation to bring their coppers here?" sighs @@RANDOM_NAME@@, your Border Patrol Chief, while rolling @@HIS@@ eyes at the other speakers. "Mega Momo is a terrorist and if the United Federation police got him first, then good for them! In fact, if other countries want to cross our borders to arrest someone, we should let them. Then there'd be fewer criminals for us to worry about."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=982]#982[/anchor]: Your Move, @@LEADER@@? [Candlewhisper Archive; ed: Zwangzug][/b]
 
 The Issue
 With his typically bullish approach to diplomacy, the Premier of East Lebatuck announced today that he has a titanic intellect beyond compare, and that @@LEADER@@ has "a walnut-sized brain, much like a stegosaurus." He has issued a formal challenge to a public game of chess between heads of state, so he can "demonstrate inherent Lebatuckese superiority."
 
 The Debate
-1 & 2. Your personal trainer, @@RANDOM_NAME@@, adjusts @@HIS@@ pink lycra skinsuit and strokes @@HIS@@ lips as @@HE@@ studies a propaganda picture of the Premier posed topless while wrestling a bear. "Look, I don't know much about chess; I haven't picked up a queen since college. But I do know about competition, and I do know that you can't let this lovely muscly despot get on top of you. You should accept the challenge, train hard with the intellectual elite of @@NAME@@, and then wipe that smug grin off his face when you top him and make him eat his words." [1: [color=purple]Must have above average intelligence[/color] | 2: [color=purple]Must have below average intelligence[/color]]
+*1. Your personal trainer, @@RANDOM_NAME@@, adjusts @@HIS@@ pink lycra skinsuit and strokes @@HIS@@ lips as @@HE@@ studies a propaganda picture of the Premier posed topless while wrestling a bear. "Look, I don't know much about chess; I haven't picked up a queen since college. But I do know about competition, and I do know that you can't let this lovely muscly despot get on top of you. You should accept the challenge, train hard with the intellectual elite of @@NAME@@, and then wipe that smug grin off his face when you top him and make him eat his words." [[color=purple]Must have above average intelligence[/color]]
+
+*2. Your personal trainer, @@RANDOM_NAME@@, adjusts @@HIS@@ pink lycra skinsuit and strokes @@HIS@@ lips as @@HE@@ studies a propaganda picture of the Premier posed topless while wrestling a bear. "Look, I don't know much about chess; I haven't picked up a queen since college. But I do know about competition, and I do know that you can't let this lovely muscly despot get on top of you. You should accept the challenge, train hard with the intellectual elite of @@NAME@@, and then wipe that smug grin off his face when you top him and make him eat his words." [[color=purple]Must have below average intelligence[/color]]
 
 [3]. "What has skill at an ancient board game got to do with intelligence?" argues Garissac Kasparasimov, CEO of tech-company Digital Thought. "Indeed, what has the limited mental prowess of our nation's leadership got to do with how smart we are as a nation? Look, @@NAME@@, maybe you're a bit of a dunce, but you can make a point by funding AI development, and perfecting a chess program that can beat any human. I mean, let's face it, it's not like a thick-headed village idiot like you could win a game of chess without artificial assistance." [[color=blue]Must have private industry[/color]]
 
@@ -40,7 +42,7 @@ The Debate
 
 5. Your Minister of National Honour bows to you. "The child is right, this isn't about chess. This is about our strength and national pride! We cannot allow these insults to go unanswered. You must increase our WMD stockpile, and put our nuclear submarines off the coast of East Lebatuck. He will withdraw his insults, or we will annihilate him."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=983]#983[/anchor]: Doctors' Orders [Nation of Quebec; ed: The Free Joy State][/b]
 
 The Issue
@@ -53,7 +55,7 @@ The Debate
 
 3. "A-ha! I have the perfect solution!" interjects your Minister of Reasonable and/or Crazy Alternatives. "These doctors don't want to perform abortions or other procedures? Fine, but we should always make sure women have safe access to these facilities should the need arise. I propose that we build fully-funded women's health clinics in every hospital and community. We'll staff them with certified pro-choice physicians and provide abortion, contraception and impartial advice. Some may not like their tax money going to this procedure, but these people only have themselves to blame."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=984]#984[/anchor]: A Midsummer Night's Snooze-Fest [Drayxaso; ed: Nation of Quebec][/b]
 
 The Issue
@@ -72,7 +74,7 @@ The Debate
 
 **6. [i]Ka-boom![/i] The wall of your office suddenly explodes, spewing fire and smoke everywhere. As the smoke clears, explosives enthusiast and propaganda director of [i]TransMorphers vs Capitalist @@ANIMAL@@ and Adolescent Monster Revolutionary Frogs[/i], Michel Cove, strolls in, a second explosion obliterating the Minister's stage. "This 'Wakesword' guy? Heh. His plays are older than the class struggle. What you need, comrade, are explosion-packed science-fiction propaganda films in the curriculum that will leave kids drooling about joining the people's corps of scientists! The future is what matters. The past? Who cares?" Another one of your walls explodes and he grins manically as your office burns around him. [[color=red]Must not have private industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=985]#985[/anchor]: Service With a Snarl [Chan Island; ed: Nation of Quebec][/b]
 
 The Issue
@@ -87,7 +89,7 @@ The Debate
 
 *4. "And kill off our nightlife tourism quicker than you can say @#%!" retaliates @@RANDOM_NAME@@, a local connoisseur of exotic alcoholic beverages. "It's not our bad attitude that's the problem, it's the tourists! If we marketed ourselves as a wild resort country where all the rules of politeness don't apply, then we could get ourselves a clientele that won't complain. You gotta make the booze more freely available. I have a mate in West Calypso who's got some crazy mixtures for us to try." [[color=blue]Alcohol is legal[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=986]#986[/anchor]: Poacher Pandemic [New Socialist South Africa; ed: Baggieland][/b]
 
 The Issue
@@ -104,7 +106,7 @@ The Debate
 
 5. "We have to save this noble beast!" proclaims budding environmentalist @@RANDOM_NAME@@, wearing a ridiculous looking fake horn on @@HIS@@ hat in solidarity. "We need highly trained and armed park rangers to guard the remaining animals around the clock. Not only that, but also prosecute retailers who sell any product derived from the horn, as well as individuals who possess it. And we need our top scientists to work on ensuring these creatures breed more and their numbers recover. If we don't do all these things, we could lose this amazing animal forever."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=987]#987[/anchor]: Quia Scriptum Est [Candlewhisper Archive; ed: Sanctaria][/b]
 
 The Issue
@@ -117,7 +119,7 @@ The Debate
 
 3. "In terro-what now?" asks your aide suspiciously. "I hate lawyers and all their fancy foreign words. What's wrong with speaking our plain old [i]lingua franca[/i]? I reckon we can deal with this whole mess by getting rid of courts and lawyers. It's only what they deserve. [i]Quid pro quo[/i], right?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=988]#988[/anchor]: Highway Robbery by the Book! [Palos Heights; ed: The Free Joy State][/b]
 
 The Issue
@@ -132,7 +134,7 @@ The Debate
 
 4. "Daddy, who let the poors out onto the front lawn?" questions Richard Kensington-Wellington III, whose famed millionaire misanthropic father is currently turning on the garden sprinklers. "The working classes should have never been allowed to study in the first place. I mean, what good does it do them? It only fills them with ridiculous aspirations above their natural station. It's quite obvious after all that only the elite of society should be educated. All of my friends and their daddies say so! The common folk would be happier doing something useful with their lives!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=989]#989[/anchor]: Gunman Wounds Three [Chan Island; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -145,7 +147,7 @@ The Debate
 
 3. "The law as it stands says that old pieces can be kept so long as they are deactivated," suggests police officer @@RANDOM_NAME@@, who was hit by a small piece of shrapnel in the middle of @@HIS@@ stomach. "The problem here isn't that the weapon exists, but that it was so easily reactivated. We need to raise standards on how deactivation takes place, to make sure that antique weapons have no chance of being restored to working condition. Make deactivation more thorough, and also ban the sale of the spare weapon parts that make reactivation possible."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=990]#990[/anchor]: Baby Shower [Frieden-und Freudenland; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -158,7 +160,7 @@ The Debate
 
 3. "The government should not put our birthright up for sale," argues @@RANDOM_FEMALE_NAME@@, struggling mother of two. "It's unfair that foreigners can obtain citizenship without having anything to do with @@NAME@@. So why don't we just ban pregnant women from traveling to @@NAME@@? They're just here to take advantage of our country; their children do not deserve citizenship."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=991]#991[/anchor]: Alms and Qualms [Buceroque; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -173,7 +175,7 @@ The Debate
 
 4. "Y'know, maybe it'd be best if the government make private charities less necessary by directly helping people instead," dribbles a beggar who was part of an earlier photo op showcasing the government helping the poor. "Private donations depend on people's goodwill, a scarce resource. Taxes are harder to avoid! @@NAME@@ will be the world's greatest charity! You could really help out poor folk here and abroad!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=992]#992[/anchor]: Robots in Disguise [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -190,7 +192,7 @@ The Debate
 
 5. "Actually, this just proves that this whole social media thing is entirely toxic," sighs @@RANDOM_NAME@@, armchair critic of the political divisions affecting @@NAME@@. "I can't tell you how many death threats I've gotten just because I criticize certain people on Twitcher! Look, we just need to discourage the national addiction to social media by subsidizing websites that promote other healthier aspects of the internet. Stuff like academic research, online games, pornogr.... uh.... entertainment sites."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=993]#993[/anchor]: Drug Deal [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -203,7 +205,7 @@ The Debate
 
 3. At this point, you note there's a perky goth girl with a silver ankh necklace and a swirly tattoo under her right eye in the room. You swear you didn't see her come in. "Life isn't measured in years, but in moments. Moments of kindness and connection mean a lot more when death is standing right next to you. Maybe all your doctors could spend more time talking to people instead of thinking about drugs and medicines all the time. You know, listening to their dreams, destinies, desires and deliriums. It's always good to talk with someone who cares, right at the end."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=994]#994[/anchor]: The Life of Riley [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -216,7 +218,7 @@ The Debate
 
 3. "Let's not be hasty," says @@RANDOM_NAME@@, an ex-minister of yours who was jailed for corruption, speaking to you from @@HIS@@ prison cell via a private video-link. "Is this really so bad? I have become accustomed to a certain level of living and there's no fair reason why I should be denied the chance to spend my private wealth simply because of my incarceration. Besides, all this is good for the economy, isn't it? Just make the whole arrangement legal and official, and whole new retail markets will open up." @@HE@@ turns to an officer standing behind @@HIM@@. "Officer, could you be a darling and get me a new mahogany dresser? Here's a bundle of cash, buy your lady a new dress while you're out!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=995]#995[/anchor]: A Cup Runneth Over [Kynice; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -231,7 +233,7 @@ The Debate
 
 4. "Actually, the real problem is all these filthy poor people!" scoffs @@RANDOM_NAME@@, sporting a designer camouflage coat by Burpbarry. "Let's just be rid of them altogether. How about issuing peasant hunting licenses to some of our more patrician citizens? It'll be the greatest sporting event since @@ANIMAL@@ fighting!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=996]#996[/anchor]: Scripting a Change? [Chan Island; ed: Baggieland][/b]
 
 The Issue
@@ -246,7 +248,7 @@ The Debate
 
 4. It's now completely dark and so you retire to bed. On the way, you happen to spot your nephew's discarded homework, covered in scribbled rantings: "This homework is stupid! Why do we even bother with writing? What good has it ever done for us? I wish schools would stop teaching it!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=997]#997[/anchor]: [i][color=purple]The Enemy Within[/color][/i]: Not a Second Time [Candlewhisper Archive; ed: Gnejs][/b]
 
 The Story So Far
@@ -270,7 +272,7 @@ The Debate
 
 [7]. "That guy was from Kawandaland," points out taxi driver @@RANDOM_NAME@@, while nearly running over a group of children at a zebra crossing. "Just like all those dodgy minicab drivers who have been undercutting my business recently. Hey, you know, if you just said that Kawandalandians ain't allowed in @@RANDOM_NAME@@, you'd fix this. Oh, and the Maxtopians and Bigtopians too, they're trouble. And those Brancalandians, with their beady little eyes. Hell, just say no to immigrants and you'll never have terrorist problems again." [[color=blue]Immigration is legal[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=998]#998[/anchor]: Without Fear Or Favour [Singapore no2; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -283,7 +285,7 @@ The Debate
 
 3. "Everyone is a potential traitor. Even you, @@LEADER@@!" warns Lee Slater-Übermensch, the Head of the Committee, searching your face for any signs of apprehension. "The East Lebatuckese menace lurks all around, sometimes hiding in plain sight, just waiting for an opportunity to strike. You must grant us whatever powers we require to safeguard @@NAME@@. It's the only honest approach."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=999]#999[/anchor]: Just Plane Ridiculous [Singapore no2; ed: Wyethalania][/b]
 
 The Issue

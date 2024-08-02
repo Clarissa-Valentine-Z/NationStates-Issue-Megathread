@@ -10,7 +10,7 @@ The Debate
 
 3. The teenager's mother, from the rotten side of the family, totters over to offer you a pamphlet on 'Devil Immigrants'. "Now dearie, all that guitar noise is a little unpleasant, but you must admit that Bigtopians are criminals, and have taken quite a lot of @@DEMONYM_ADJECTIVE@@ jobs, and are genetically subhuman, of course. Maybe we shouldn't be letting those sort of people live with us."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1301]#1301[/anchor]: Meat the Neighbours [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 4. "Actually, looking at the numbers, I'm wondering about our overall agricultural strategy," murmurs statistician and economic planner @@RANDOM_NAME@@, skinny fingers tapping at a calculator. "The ratio of land and labour use to calorie output is very poor for meats of all sorts, and we would be far better off with arable farming alone, and a meat-free national diet. Freeing up workers from food production would let us reassign them to other more modern industries, such as electronics and tech production. This is a chance to show the world the strength and efficiency of a properly run planned economy."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1302]#1302[/anchor]: The @@NAME@@ Identity [Ransium; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -40,7 +40,7 @@ The Debate
 
 4. "Look, maybe there's a compromise we could make here," suggests a passer-by. "I hear that the World Census people have put in a mechanism for nations to change which letters are capitalized in nation names, so for example Brancaland could choose to rename itself bRanCaLand. Perhaps as a gesture of goodwill we could offer the other @@NAME@@ a sizeable foreign aid allocation, with the condition that they stick the capital letters in different places to make it clear they're not us. It'll work, I'm sure, or my name's not maX bARRy."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1303]#1303[/anchor]: Amateur Hour [Outer Sparta; ed: Zwangzug][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 4. "Who let all these jocks on campus?" questions @@RANDOM_NAME@@, an honors student at the University of @@CAPITAL@@. "The point of higher education is to pursue knowledge and prepare for your career, not watching your sweaty classmates fight over their balls. Let's do away with college sports entirely and reaffirm our commitment to what university is really about: learning, research, and pursuing hot co-eds."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1304]#1304[/anchor]: Nothing to See [Sedgistan; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -68,7 +68,7 @@ The Debate
 
 3. "Shame!" cries stony-faced priestess Una Sparrow, ringing an oversized bell in your face. "This sinner's shame must be exposed for all to see. Parade her through @@CAPITAL@@ clothed only in her wickedness, for only then can she earn repentance. SHAME!" [[color=purple]Must have Atheism[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1305]#1305[/anchor]: The Woman From AUNT [Altmer Dominion; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -83,7 +83,7 @@ The Debate
 
 4. "I represent a group which is... strongly concerned... with the ever-increasing surveillance state within this great nation," murmurs a @@DEMONYM@@ in a dapper black suit, sidling into the room to hand you a freshly-printed business card. "Spying on a private citizen, a benefactor of an orphanage no less, is nothing less than harassment." @@HE@@ gestures tenderly to a large briefcase sitting next to @@HIM@@. "I'm sure a... satisfactory arrangement can be reached here. You wouldn't want to frighten some perfectly innocent children, now would you?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1306]#1306[/anchor]: The Least Common Educator [Candensia; ed: Baggieland][/b]
 
 The Issue
@@ -100,7 +100,7 @@ The Debate
 
 *5. "This is exactly where a sensible immigration policy would come in handy," states Deputy Minister of Foreign Relations @@RANDOM_NAME@@. "Perhaps the addition of skilled, foreign labor is just what we need. Let's offer prospective math teachers a few common-sense perks in order to maximize our appeal. We could, for example, offer lenient visa requirements, generous living accommodations, access to government transportation, and extensive financial benefits. It'd obviously get pricey, but it's for the children." [[color=Red]Immigration is outlawed[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1307]#1307[/anchor]: A Duty to Serve [Conexia; ed: USS Monitor][/b]
 
 The Issue
@@ -115,7 +115,7 @@ The Debate
 
 4. "Are you kidding me!" @@RANDOM_NAME@@, CEO of NAT-U-RAL Co., shouts from the window of @@HIS@@ limousine. "I don't have time to go out and pick up trash. I'm doing the world a service by supplying the world with abundant amounts of natural gas! Surely that counts as community service. In fact, these kids could 'volunteer' at my plant — if you don't mind, of course." She slowly rolls her window up before driving off.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1308]#1308[/anchor]: One in the Oven [Maverique; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -131,7 +131,7 @@ The Debate
 [4]. "Have I got a free-market solution for you?" rhetorically questions Marjorie Gorbachev, the CEO of Clinton Motor Company. "With a few government subsidies, all new vehicles could come standard with the latest safety features to alert customers when they've left their little rugrats behind, deliver dashboard safety tips and maybe even open the window automatically. What could go wrong?" [[color=blue]
 Must not ban Capitalism[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1309]#1309[/anchor]: Give @@A@@ @@ANIMAL@@ a Bone [Sedgistan; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -146,7 +146,7 @@ The Debate
 
 4. "@@ANIMAL_PLURAL@@ do enough for us already; they shouldn't be in our military," pleads Timmy @@RANDOM_LAST_NAME@@ from the accompanying media pack.  "Can't we leave them in peace to do as nature intended?  Rescuing children from abandoned mineshafts, throwing ropes to children on runaway rafts rapidly approaching waterfalls, and fronting up popular TV franchises.  That sort of thing."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1310]#1310[/anchor]: Intimate Relations [AnPrim Island; ed: Sedgistan][/b]
 
 The Issue
@@ -167,7 +167,7 @@ The Debate
 
 *7. "Maybe the reason inbreeding's on the rise is that none of these @@DEMONYM_PLURAL@@ can GO anywhere," chimes in Maxtopia-based car enthusiast @@RANDOM_FIRST_NAME_7@@ @@RANDOM_LAST_NAME_1@@. "Without personal transportation, most of these people will die within a few miles of where they were born. What's THAT doing for the gene pool? I bet the inbreeding problem would go away in a generation if only cars were made legal." [[color=red]Must ban cars[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1311]#1311[/anchor]: An Acquired Taste [The Marsupial Illuminati; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -182,7 +182,7 @@ The Debate
 
 4. "We can't really force our way of living on these peoples," states your Minister for Creative Solutions. "It's not them that's the problem; it's our involvement in their society spreading potentially infected meat. Let's leave them alone. We'll remove all trace of our civilization — hospitals, medical facilities and so on and declare it a nature reserve, with only the locals being allowed to live here. With a strict quarantine for anyone coming in or out, there's no chance of a virus beyond their villages."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1312]#1312[/anchor]: Cranmer Vs. Cranmer [The Free Joy State; ed: Baggieland][/b]
 
 The Issue
@@ -197,7 +197,7 @@ The Debate
 
 4. "Hi!" @@RANDOMMALEFIRSTNAME_1@@ waves at you from the floor. "Why don't big people ever ask me what I want? I want to live with Mummy and Daddy again, in a candyfloss castle with a pet @@ANIMAL@@. But Mummy and Daddy say 'no'... because Daddy's a 'gnat-brained mule' and because Mummy's a 'satanic slattern from Hell'... I think that means they're not friends any more. So I want to live with Mummy half the time and Daddy half the time. Then I'd get two bedrooms!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1313]#1313[/anchor]: The Meek Shall Inherit? [Nuremgard; ed: Zwangzug][/b]
 
 The Issue
@@ -210,7 +210,7 @@ The Debate
 
 3. "Perhaps a compromise?" suggests peripatetic arbiter @@RANDOM_NAME@@. "This woman's mother was not a citizen, due to being a slave, but her father was free. Why don't we declare the children of a slave and a free person as half-people? So they can be entitled to half the rights that free citizens enjoy, and @@RANDOM_FEMALE_NAME_1@@ can receive half a share in the inheritance. Problem solved."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1314]#1314[/anchor]: Nothing to Write Home About [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -225,7 +225,7 @@ The Debate
 
 4. "Hey, you can blame me if you like," offers West Brasilistani 'freedom fighter' @@RANDOM_NAME@@, who looks to have hacked into your private military-encrypted teleconference. "Look, clearly you guys are outclassed by us. How about you get your peacekeepers to 'peace off' home, and we'll call it a stalemate?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1315]#1315[/anchor]: No Boycott After All; Parliament Just Got Lost [AnPrim Island; ed: Zwangzug][/b]
 
 The Issue
@@ -238,7 +238,7 @@ The Debate
 
 3. "@@RANDOM_LAST_NAME_2@@ has the right idea, but @@HE@@ doesn't go far enough," chimes in self-professed polymath Yolanda @@RANDOM_LAST_NAME@@. "Instead of limiting the pool of potential MPs, why not just make college education compulsory for all adults? Not only will the government be more informed, but the entire nation will be more informed, too! I'm sure there'll be enough dorms to house all those returning students..."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1316]#1316[/anchor]: Gonna Take My Hearse to the Old Town Road [Pangurstan; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -251,7 +251,7 @@ The Debate
 
 3. "It seems to me that the problem is traffic in general," states your transportation minister while doodling a skull and crossbones on a subway map. "Why don't you just build public transit systems from the funeral homes to graveyards? Or you could replace the bike holders on buses with coffin holders. Oh, and more buses and trains for living people too, that's probably a good idea."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1317]#1317[/anchor]: Nanny State [Nuremgard; ed: The Free Joy State][/b]
 
 The Issue
@@ -262,14 +262,13 @@ The Debate
 
 2. "What century are you living in?" retorts your brand new Minister for Women's Equality @@RANDOM_MALE_NAME@@, while scanning some application forms rather closely. "The royal nanny should be qualified in the latest childcare techniques, child development and first aid, and should be female. This will show the women of the nation your commitment to female employment. And she should be pretty. That way, a Rainbow Pony girls will know that being pretty doesn't mean a girl can't have talents; it'll bust stereotypes. And as the Princess is all pudgy and wan after the birth, it wouldn't hurt to have her trailed by someone more photogenic... Okay, who said that I won't last a week at the Ministry?"
 
-[3]. "What century are we living in indeed?" asks your Minister for Transport, while adjusting the rainbow pin on his suit. "Why don't you hire a manny? A professional manny will be just as well-trained in childcare as any female nanny, and can be glamorous, ensuring the royal children are dressed in the latest and best styles. Not only that, it will show how progressive the royal family are, and how the entire community and their potential contribution to childrearing — regardless of their gender or sexual orientation — is valued. That's sure to win support for the royal family. How about it?"
-[[color=blue]Same-sex marriage is not illegal[/color]]
+[3]. "What century are we living in indeed?" asks your Minister for Transport, while adjusting the rainbow pin on his suit. "Why don't you hire a manny? A professional manny will be just as well-trained in childcare as any female nanny, and can be glamorous, ensuring the royal children are dressed in the latest and best styles. Not only that, it will show how progressive the royal family are, and how the entire community and their potential contribution to childrearing — regardless of their gender or sexual orientation — is valued. That's sure to win support for the royal family. How about it?" [[color=blue]Same-sex marriage is legal[/color]]
 
 4. "Why embrace this century when you can embrace the future?" chimes your slightly singed Junior Science Adviser, lugging in his latest robotic prototype. "Meet LUL-2000, an AI nanny. Now, I know the blinking red eye looks a little strange and the hands are still a bit claw-like; the next one will have a skin on it, I swear. But think of this: it'll show your commitment to technology and science, and it'll give me a chance to show off the capabilities of my prototype. It feeds babies, burps them, changes them and puts them to bed content and safe 96.7% of the time. And the percentage [i]is[/i] rising. I mean, the kids might be scared to begin with but they'll adapt, right?"
 
 5. "Or, here's a revolutionary idea," storms an exhausted woman as she bursts through the door, shaking off a toddler clinging to her leg and bouncing a crying newborn. "How about all the toffs look after their right royal brats their right royal selves? Crazy idea, I know. Royals are all busy dubbing ships [i]@@NAME_INITIALS@@S Snooty-Arse[/i] and whatever royals do. Well, I'm sorry, but other working mothers have to manage: up before dawn to do housework, spend half an hour with the kids, feed them, then out to work. Princess Whatshername can manage without help, too." Shoving her crying baby at you, she waltzes out of the meeting room, returning sheepishly moments later to collect him.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1318]#1318[/anchor]: Blitzed [Baggieland; ed: Baggieland][/b]
 
 The Issue
@@ -282,15 +281,15 @@ The Debate
 
 3. "Methamphetamine is a lethal drug!" declares General @@RANDOM_NAME@@ of the Army Medical Corps, as @@HIS@@ hands out pamphlets on the dangers of narcotics. "If we want our troops to win battles, then they must be fully coherent and at the peak of their physical fitness — not pumped full of drugs! In fact, all forms of substance abuse must be banned in the military: narcotics, alcohol and even caffeine."
 
-4. ???
+4. TBD
 
-5. ???
+5. TBD
 
-6. ???
+6. TBD
 
 7. "Why only soldiers?" questions your secretary, as @@HE@@ grinds @@HIS@@ teeth incessantly, makes you a drink with one hand and takes meeting minutes with the other. "Look at all this work I have piled up on my desk, not to mention all the other tasks I'm expected to carry out. There's never enough time in the day! Dose every worker in @@NAME@@ with methamphetamines and see how efficient they become!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1319]#1319[/anchor]: Dying for Two [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue

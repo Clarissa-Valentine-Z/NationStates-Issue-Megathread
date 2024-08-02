@@ -12,7 +12,7 @@ The Debate
 
 4. "There's a better way," claims a woman who will only identify herself as the Captain, while welding a blender to a rusty supermarket trolley. "I have an idea for a TV show. Give teams of contestants ten hours to build crazy contraptions with rubbish fished out of the sea, and the winning team gets a free boat! I call it the Scrapsea Challenge. Sure, it won't have a meaningful impact on the nautical pollution levels, but it will globally broadcast that @@NAME@@ is doing something for Mother Earth. Kind of. That publicity is worth a little government support, is it not?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=481]#481[/anchor]: Social Equality Reaching Embarrassing Levels [Czechostan; ed: Gnejs][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 5. "Some people do deserve to be paid more than others..." opines a local bus driver. "We should pay people progressively, based on how important their jobs truly are to the @@TYPE@@ and its citizens. Trust me, a bus driver knows these things; I've seen them all and can tell you what they're really worth. Like bus drivers, for instance. I'm responsible for hundreds of peoples life's every day, from downtown @@CAPITAL@@ across 110th street. Or the people looking after your kids all day, the little old lady making jam for our toasts. Those are the true heroes of @@NAME@@, and they should be paid accordingly."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=482]#482[/anchor]: Whose Fault Is It Anyways? [Eaischpnaeieacgkque Bhcieaghpodsttditf; ed: Lenyo][/b]
 
 The Issue
@@ -42,11 +42,11 @@ The Debate
 
 *3. "Matrimony is a sacred union that cannot be broken," intones your grandmother, @@RANDOM_FEMALE_NAME@@, reciting holy texts. "What would happen to spouses if we allowed them to separate? How do you explain to children that their parents no longer love each other? And you mustn't forget that divorce tears families apart every day in godless Bigtopia and Marche Noire. So even if the romance ended a long time ago in a marriage, couples must remain faithful, for which they will be rewarded in the afterlife." [[color=purple]Must not be Atheist[/color]]
 
-*4. “Matrimony is a contractual union that cannot be broken,” intones your grandmother, @@RANDOM_FEMALE_NAME@@, pointing to an obsolete legal text. “What would happen to spouses if we allowed them to separate? How do you explain to children that their parents no longer love each other? And you mustn’t forget that divorce tears families apart every day in awful places like Bigtopia and Marche Noire. So even if the romance ended a long time ago in a marriage, couples must remain faithful, to the bitter end.” [[color=purple]Must be Atheist[/color]]
+*4. "Matrimony is a contractual union that cannot be broken," intones your grandmother, @@RANDOM_FEMALE_NAME@@, pointing to an obsolete legal text. "What would happen to spouses if we allowed them to separate? How do you explain to children that their parents no longer love each other? And you mustn't forget that divorce tears families apart every day in awful places like Bigtopia and Marche Noire. So even if the romance ended a long time ago in a marriage, couples must remain faithful, to the bitter end." [[color=purple]Must be Atheist[/color]]
 
 5. "You know, this all could have easily been prevented," states Will Eye the Science Guy, after petitioning for state funds to build a doomsday device. "Scientific advancements in @@NAME@@ have made it possible for us to give all people compatibility tests to determine exact matches for their future spouses. Assuming the tests are administered perfectly, marital strife will be a thing of the past. The only people that could possibly want a divorce would be those who lied on the test, and we have ways to know if they are lying." At this, he rubs his hands together and laughs maniacally.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=483]#483[/anchor]: Do You Want Fries With That? [The rejected realms issue committee; ed: Sanctaria][/b]
 
 The Issue
@@ -61,7 +61,7 @@ The Debate
 
 4. "Eww, fast food," says @@RANDOM_NAME@@, sipping a glass of almond milk to wash down a fresh kale salad. "We should just get rid of it altogether. Who could be bothered with those cheap, greasy trans-fats? Yuck! Gluttony gone amok as far as I'm concerned. We should aim for a higher standard of food: vegetarian, vegan, organic. C'est magnifique!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=484]#484[/anchor]: Patriot Or Patri-not? [Cefalonia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -78,7 +78,7 @@ The Debate
 
 5. "Or, you know, we can do none of that," yawns an apathetic citizen wearing a Bigtopian football jersey, who only came to the meeting because of your offer of free pizza. "I mean, not everyone wants to support the country or whatever. People shouldn't be forced into loving the country through government action. Sure, then maybe you won't have people caring as much, but... hey! The Real Housewives of @@CAPITAL@@ is coming on. Is there a television somewhere in here?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=485]#485[/anchor]: Really Real eSports Tournament [Mexicaliforia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -93,7 +93,7 @@ The Debate
 
 [4]. "You'd be surprised by how realistic these games are," comments your retired Defense Minister @@RANDOM_FEMALE_NAME@@, while building a virtual army on her Nintensoft MX. "Games like Guilds of Battle III: The Nightmare of Shadow Ops Faction are shockingly similar to our military operations. If these youngsters want to shoot up some terrorists in cyberspace, perhaps we should draft them into the military and let them shoot our enemies IRL, as they would say. At the very least they'd be great pilots for our drone program!" [[color=purple]Must have a military[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=486]#486[/anchor]: An Impressing Dilemma [Araluen and Eyreland; ed: Lenyo][/b]
 
 The Issue
@@ -110,7 +110,7 @@ The Debate
 
 5. "Or we could completely regear our population for total war and utopian health," says @@RANDOM_NAME@@, your Minister of Alternative Solutions. "Vat technology and intensive psychological conditioning can promise a wonderful future devoid of weaklings who are vulnerable to disease. With enough government investment, I can promise a new generation of fearless, asexual grunts eager to die for the glory of @@LEADER@@."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=487]#487[/anchor]: Masks Of Shame [Ayzifa; ed: Gnejs][/b]
 
 The Issue
@@ -123,7 +123,7 @@ The Debate
 
 3. Noted historian and decentralization advocate @@RANDOM_NAME@@ has another idea. "These masks might be unorthodox, but the real problem here is our official penal system. Incarcerating people in tiny spaces, regulating every minute of their day and every inch of their life, completely isolating them from society; talk about cruel and unusual punishment! These masks, and other forms of 'public shaming', on the other hand, are a time-tested practice for bringing about social cohesion within communities. I say it's time government bureaucrats and populist politicians stop forcing their @@CAPITAL@@ morality from above. Abolish the entire penal system and make 'community shaming' the official tool for enforcing justice."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=488]#488[/anchor]: Bright Orange Is The New Black [Orvius; ed: Sleep][/b]
 
 The Issue
@@ -144,7 +144,7 @@ The Debate
 
 **7. "Hey! That's our jobs you're talking about!" bemoans @@RANDOM_MALE_NAME@@, State Director of Toy Manufacture, waving around a realistic looking replica of an AK-47. "Banning our most popular toy lines would seriously damage our industry. I'd say the best way to handle this situation is a healthy fund allocation to toy production. If we were better resourced, we could up production and flood the nation with so many toy guns that no kid would even want one! Then we make them something better," he says, letting out a long eerie laugh. [[color=red]Must not have private industry[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=489]#489[/anchor]: Standing At Attention [Candlewhisper Archive; ed: Lenyo][/b]
 
 The Issue
@@ -161,7 +161,7 @@ The Debate
 
 5. "Guys, guys, guys!" says feminist icon @@RANDOM_FEMALE_NAME@@. "Seriously, this is guys talking about guys looking at guys, and guy-soldiers in a still guy-dominated army worrying if they're manly enough when other guys like to look at them! Can we talk about women in the armed forces instead? Make sure these recruitment videos star as many women as men, and have the depiction of the soldiers be wholly genderless. A uniform redesign to something suitably shapeless and face-concealing would help, for sure!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=490]#490[/anchor]: The Long And Winding Halls Of @@CAPITAL@@ [Luna Amore; ed: Luna Amore][/b]
 
 The Issue
@@ -174,7 +174,7 @@ The Debate
 
 3. "What we have discovered is the bureaucrat's natural habitat," soothingly narrates renowned naturalist Nigel Verithorough. "We have visited this tribal community several times since its discovery and have made great strides in understanding their unfamiliar ways. What was immediately clear to us was that this community would never be able to survive in our world. In the name of cultural preservation, we must protect their environment - in this case, the catacombs of @@NAME@@'s Capitol. Study and observe, but do not destroy, @@LEADER@@."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=491]#491[/anchor]: Friends, @@DEMONYM_PLURAL@@, Countrymen, Lend Me Your Ears [Eysyssla; ed: Lenyo][/b]
 
 The Issue
@@ -187,7 +187,7 @@ The Debate
 
 3. "Anyone hypothetically can become a citizen, but they first need to fully understand our way of life," remarks civics teacher @@RANDOM_NAME@@. "If you're not ready to learn the values that are the bedrock of @@NAME@@, you've got no business being part of our @@TYPE@@. That means memorizing all forty verses of the national anthem and being able to list all 1,024 cantons in alphabetical order, like any true citizen of @@NAME@@ can. Only those who pass a stringent exam can prove themselves to be true @@DEMONYM_PLURAL@@."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=492]#492[/anchor]: The Artwork In The Attic [Lavendertopia; ed: Sleep][/b]
 
 The Issue
@@ -200,7 +200,7 @@ The Debate
 
 3. "Why not put them up for auction?" asks auction master @@RANDOM_MALE_NAME@@ with a dramatic flourish of his gavel. "That way whoever wants them the most will purchase them. Do I hear wealthy Maxtopians? Museum curators? Do I hear eccentric collectors? SOLD! to the highest bidder and money in the government coffers to boot!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=493]#493[/anchor]: Suspicious Superhuman Athletes? [Outer Sparta; ed: Sleep][/b]
 
 The Issue
@@ -215,7 +215,7 @@ The Debate
 
 4. "Stronger, faster... broken," comments former world heavyweight boxing champion @@RANDOM_NAME@@, speaking unusually slowly. "We... break ourselves; we break each other. Taking drugs... just makes it worse. Anything to win. Anything. The problem isn't... isn't... drugs. The problem is sports. If you value athletes as people... as human... beings... you need to ban organized sports."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=494]#494[/anchor]: Whipping Up A Controversy [Nuremgard; ed: Lenyo][/b]
 
 The Issue
@@ -226,7 +226,7 @@ The Debate
 
 2. "Are you kidding me?" rhetorically asks the precinct's premier whipper, @@RANDOM_MALE_NAME@@, while applying a new grip to his favorite cat o' nine tails. "Flogging criminals is so exciting - I mean effective. Yeah, effective. I deter criminals from misbehaving with the lash of my whip. If anything, you should expand the list of crimes punishable by flogging. Then I could really have some fun!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=495]#495[/anchor]: Beloved "Planet" Has Gone To The Dogs [Omigodtheykilledkenny; ed: Sleep][/b]
 
 The Issue
@@ -239,7 +239,7 @@ The Debate
 
 3. "Look, the fact of the matter is, Fido is not like all the other planets in our system, and anyone who can't accept it is a science-denier," says children's entertainer Will Zeke the Science Geek, sporting his trademark lab coat and bow tie. "Any government that refuses to heed scientific evidence does not deserve to function. I'm not just talking about space; I'm talking about tackling climate change and teaching evolutionary science in school instead of fairy tales about Adele and Steve!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=496]#496[/anchor]: Rock 'N' Roll Suicide [Candlewhisper Archive; ed: Nation of Quebec][/b]
 
 The Issue
@@ -254,7 +254,7 @@ The Debate
 
 4. "It's a tragedy of course, but also an opportunity," suggests professional spin doctor @@RANDOM_NAME@@, handing you a bottle of fake tears. "If we play our cards right, we can create a distraction from hard-to-sell government policies. Make a speech with a single tear rolling down your cheek and visit the widow to bring a wreath and a spontaneous hug. We can make bad news work to improve your public image."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=497]#497[/anchor]: The Widening Gyre [Candlewhisper Archive; ed: Gnejs][/b]
 
 The Issue
@@ -267,7 +267,7 @@ The Debate
 
 3. "Enough about them cities!" demands angry farmer @@RANDOM_NAME@@, while readying a large shipment of quinoa. "Once, we were a simple folk with nine or ten of us livin' in villages or homesteads. Them big cities are nothin' but smoke an' noise and people wit' their uppity ways. Break 'em all up, disperse the power and support the traditional crafts, says I. No more than a solid twenty scores of folk should be in one place." 
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=498]#498[/anchor]: Computer Says No [Sedgistan; ed: Sedgistan][/b]
 
 The Issue
@@ -280,7 +280,7 @@ The Debate
 
 3. "Yeah, I think something's gone squiffy, to use the technical term," murmurs IT Support Technician @@RANDOM_NAME@@. "Try turning the AI off and on again. Failing that, roll back to an earlier version, ideally one that still believes in state-planned economies. That should fix it."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=499]#499[/anchor]: The Genetics Of Aesthetics [Candlewhisper Archive; ed: Lenyo][/b]
 
 The Issue

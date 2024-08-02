@@ -12,7 +12,7 @@ The Debate
 
 4. "Actually, we don't need any of that," explains @@RANDOM_NAME@@, an Army Logistics Supervisor, examining a map of @@NAME@@. "Since we were the ones who planted the mines, we could dig up some old documents on how to retrieve them. While it may be more costly than just purposefully detonating all of them, we should be able to reuse any functional ones that we come across. Although some of them might not work as well as newly-made weapons, this would provide a well-needed boost to our military stockpile."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=861]#861[/anchor]: Out With the Old [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 4. "No, you can't have..." gasps @@RANDOM_NAME@@, your private secretary who turns sixty-five next month. "I thought that was some kind of misprint. Don't you realise the kind of experience you're losing when you kill the old people? Not just someone who's been there and done it, but an ear to listen no matter what mistake you've made or which country you've invaded. Besides, if you kill me, who'll care for my grandkid in the evenings? Well, I just wouldn't like to be there if you have to tell that little boy you've killed his grandparent."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=862]#862[/anchor]: Friends Close, Enemies Closer [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -53,7 +53,7 @@ The Debate
 
 9. "Oh... no cake left," says one of your glummest but most loyal MPs, trying to gather up some of the crumbs. "Well, I know it's a bit of a downer, but why don't we just form a minority government? We can seek support on individual bills and votes as we go. I mean, there's always someone who wants something, and if you're careful you can always cut a deal somewhere."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=863]#863[/anchor]: Oiling the Wheels of Diplomacy [Argentinstan; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -68,7 +68,7 @@ The Debate
 
 4. "Has everyone gone out of their minds?" cries your Minister of Underdogs, helping your elderly cleaning lady mop up the spilled coffee. "We should be assisting Althaniq in their time of need, to show that @@NAME@@ looks after its friends rather than judges them. @@LEADER@@, you're a fair person, right? I humbly suggest that you pick up half the tab for any trade goods our exporters sell to Althaniq, and maybe also offer to increase the price we pay for Althaniq oil. That should see them through these troubling times!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=864]#864[/anchor]: The Missionary Position [Caracasus; ed: The Free Joy State][/b]
 
 The Issue
@@ -81,7 +81,7 @@ The Debate
 
 3. "A tragedy, @@LEADER@@," coos Lilliputian ambassador @@RANDOM_NAME@@, clucking @@HIS/HER@@ tongue. "Rest assured, Lilliputia is shocked and angered by this violent assault on your dear people. Our nation has been plagued by Ultra-Violetists for decades now, though we've lacked the international support to do anything about it! However, our shared history makes us natural allies... even if your people are a bunch of land-swindling children of rabbit droppings. But with your valued diplomatic support - say, selling us arms for generous compensation - we could end this and all menaces at our borders. Oh, and if you happened to send some missionaries here..." @@HE/SHE@@ nonchalantly gestures towards another small nation on Lilliputia's border.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=865]#865[/anchor]: A Funeral for a Fiend? [Nation of Quebec: ed; Nation of Quebec][/b]
 
 The Issue
@@ -96,7 +96,7 @@ The Debate
 
 4. "Why bother with state funerals at all?" queries @@RANDOM_NAME@@, chairperson of the [i]Angry Taxpayers Federation[/i]. "Talk about a perfectly good waste of our hard-earned money! Let the family of the deceased cover the cost of the funeral so the government can get back to more important things like lowering taxes and cutting government spending."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=866]#866[/anchor]: O Medication, Where Art Thou? [Palos Heights; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -113,7 +113,7 @@ The Debate
 
 5. Suddenly, without warning, your least favorite aunt from your mother's side bursts into your office. "Junior, don't you know that the drugs our people are taking are filled with dirty chemicals such as magnesium stearate and sodium lauryl sulfate? Instead of drugs, you should provide people with organic herbs such as the ones my health guru sold me!" Before you can reply, she shoves a handful of repulsive 'herbs' into your mouth, which you realize are nothing more than common garden flowers.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=867]#867[/anchor]: Museums: Things of the Past? [Het Dietsche Rijk; ed: Pogaria][/b]
 
 The Issue
@@ -124,13 +124,13 @@ The Debate
 
 2. "The real problem is that the average adult appears to have forgotten everything they learned in school," asserts self-proclaimed aristocrat @@RANDOM_NAME@@, while swinging around @@HIS/HER@@ wine glass and staining your carpet. "In fact, most people seem completely ignorant of whether @@NAME@@ even existed before you became our leader! How can you expect them to visit museums without an appreciation for history that is repeatedly inculcated throughout their lives? We need to increase government funding for ongoing adult education before expecting the common people to enjoy visiting a museum."
 
-*3."How can you expect anyone to visit @@DEMONYM_ADJECTIVE@@ museums?" asks @@RANDOM_NAME@@, who entered your office to use the free wi-fi connection. "Face it. An imagination doesn't have any interesting museums. The Museum of Regional Geography? The Historical House of Hammers? The Gallery of Retail? Come on! The fact of the matter is, the museums are boring. There's nothing but mundane themes, dull exhibitions, and tiresome pieces. Let's build some new, up-to-date museums with things we'd all like to see." [[color=blue]Must have internet[/color]]
+*3. "How can you expect anyone to visit @@DEMONYM_ADJECTIVE@@ museums?" asks @@RANDOM_NAME@@, who entered your office to use the free wi-fi connection. "Face it. An imagination doesn't have any interesting museums. The Museum of Regional Geography? The Historical House of Hammers? The Gallery of Retail? Come on! The fact of the matter is, the museums are boring. There's nothing but mundane themes, dull exhibitions, and tiresome pieces. Let's build some new, up-to-date museums with things we'd all like to see." [[color=blue]Must have internet[/color]]
 
 *4. "How can you expect anyone to visit @@DEMONYM_ADJECTIVE@@ museums?" asks @@RANDOM_NAME@@, who entered your office in search of the nation's only wi-fi connection. "Face it. @@NAME@@ doesn't have any interesting museums. The Museum of Regional Geography? The Historical House of Hammers? The Gallery of @@MAJOR_INDUSTRY@@? Come on! The fact of the matter is, the museums are boring. There's nothing but mundane themes, dull exhibitions, and tiresome pieces. Let's build some new, up-to-date museums with things we'd all like to see." [[color=red]Must not have internet[/color]]
 
 5. "Why bother?" moans known troublemaker and small-government enthusiast @@RANDOM_NAME@@, who managed to slip past security. "Museums are a waste of time and a symbol of stolen taxpayer money. Let's just get rid of them all. No one cares about some dusty old things in cabinets. They distract from real matters, like the fight against oppression by the government. WAKE UP PEOPLE! FREE YOURSELVES!" @@HE/SHE@@ continues shouting as security drags @@HIM/HER@@ away.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=868]#868[/anchor]: All In The Family [Drasnia; ed: Nation of Quebec & Wyethalania][/b]
 
 The Issue
@@ -143,7 +143,7 @@ The Debate
 
 3. "This kind of sounds like one of those Tasmanian Prince scams to me," muses your secretary. "Actually, that gives me an idea. Deny that he's your uncle and write him off as a con artist trying to get out of prison. If we are to believe that ambassador, he won't be in much actual danger there. Sure, he won't be happy staying locked up, and neither will other family members now that I think about it. Then again, he broke Brancalandian law and I don't want to risk losing my supply of Brancalandian goose down coats over this!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=869]#869[/anchor]: I'll Be in My Bunker [Ilyichicov; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -162,7 +162,7 @@ The Debate
 
 6. "You know, we could save money by investing in just one super-luxurious fallout shelter," observes trans-humanist visionary Roberta House, via a video call. "Build one just for the ten thousand or so people that really matter - the politicians and leaders of industry. You can keep a freezer full of sperm and eggs from carefully-picked beautiful and brilliant individuals, to help maintain future genetic diversity. Let the common folk worry about the ramifications of the nuclear winter for themselves. A hundred or so years later, our descendants will emerge. Humanity will be reborn from the brightest, the best, and the wealthiest!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=870]#870[/anchor]: @@DEMONYM_PLURAL@@ Literally Exploding With Excitement [Singapore no2; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -175,7 +175,7 @@ The Debate
 
 3. "So you're telling me that these chips explode when emotions flare?" inquires @@RANDOM_NAME@@, the Chief of Police. "There are many criminals still at large in our country, and they're always one step ahead of us. If we were to damage their chips - perhaps by flooding the media with concepts that would shock normal folk but make criminals happy - we would be able to execute the criminals remotely and at no cost to the police. If there's nothing left to arrest... then justice has been served, am I right?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=871]#871[/anchor]: It's Not Easy Being Red [The Grene Knyght; ed: Pogaria][/b]
 
 The Issue
@@ -192,7 +192,7 @@ The Debate
 
 5. "Maybe we've been heading in the wrong direction," suggests Minister of Resource Allocation @@RANDOM_NAME@@, nervously speaking at a low volume so that only you can hear @@HIM@@. "Our current system just can't keep up with all of the @@POPULATION@@ people in the nation. A little bit of capitalism on the individual level wouldn't be all that bad, as many of our allies could tell you. The Socialist Republic of Núi Và Sông even has a stock exchange! Besides, our government could still control many of the major industries. Now please don't tell the other ministers that I suggested this."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=872]#872[/anchor]: Party On, @@LEADER@@! [Fauxia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -205,7 +205,7 @@ The Debate
 
 3. "You could learn a thing or two here!" exclaims comedian Jon Warden, handing you an aboriginal talking stick with 'property of Lord Kettlenoggin' written on it. "Spice up parliament by cracking a few jokes, dressing up in wacky ways, and capering a little. Don't take politics or life so seriously - nothing is permanent."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=873]#873[/anchor]: Terrified Testimony! [Euro-Asiata; ed: Pogaria][/b]
 
 The Issue
@@ -218,7 +218,7 @@ The Debate
 
 3. A dapper gentleman in a suit who you recognize as the head of your crime prevention task force taps you on the shoulder. "I think we can see the real issue here. Terrified juries? Witness intimidation? Fear of reprisal? This is all an impediment to swift and brut- I mean, fair justice. Simply do away with juries and bar the public and press from courtrooms, and we can make all of these problems disappear."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=874]#874[/anchor]: Still Life [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -233,7 +233,7 @@ The Debate
 
 *4. "You know, all this was unnecessary," muses @@RANDOM_NAME@@, your ever-practical Minister of Solutions. "We should force everyone to decide what they want to happen in case of incapacity, while they're young and [i]compos mentis[/i]. If Mrs. @@RANDOM_LAST_NAME_1@@ had made a living will, everyone would have known her wishes, and there'd have been no legal battle. Also, had she not wanted to live in this tragic state, it would have saved the family and the insurance companies a lot of expensive medical bills. What? I'm just saying! [[color=blue]Must not have universal healthcare[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=875]#875[/anchor]: They See Me Trollin', They Threatenin' [Nation of Quebec; ed: Ransium][/b]
 
 The Issue
@@ -248,7 +248,7 @@ The Debate
 
 4. "What about my free speech?" demands notorious far-right troll [i]2Many_Big_Nosed_Bigtopians[/i]. "People should be allowed to say whatever they want, especially on the internet! It's not my fault that these overly-sensitive snowflakes can't handle some choice criticisms or if some of my followers send death threats. You know what I do when someone threatens me online? I laugh it off and threaten them right back! We don't need a government nanny state jumping on the political correctness bandwagon."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=876]#876[/anchor]: Sequels: The Saga Continues [Nation of Quebec; ed: The Free Joy State][/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 3. "Perhaps there's a compromise," suggests your movie buff niece, who had just come back from her [i]Star Battles[/i] marathon.  "What if we allow some sequels, but only if the original film is a commercial [i]and[/i] a critical success?  This means no more [i]Mildly Spooky Movie[/i] sequels, but it'll allow the excellent [i]Planet of the @@ANIMAL_PLURAL@@[/i] series to continue.  It may not please everyone, but I think that's a more than fair alternative."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=877]#877[/anchor]: Gunning for Profits [Candlewhisper Archive; ed: Pogaria][/b]
 
 The Issue
@@ -276,7 +276,7 @@ The Debate
 
 4. "Why don't we go with the flow rather than make war on the peace process?" asks Diplomatic Corps Director @@RANDOM_NAME@@, bringing you a nice cup of tea. "Scale down our own military spending, subsidise business interests that can profit from peace in the region, and let our own economy become less dependent on manufacturing the tools of destruction. Oh, that's weird," @@HE@@ declares, while brushing at a glowing red dot that has appeared over @@HIS@@ chest.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=878]#878[/anchor]: DoublePlusUnGood [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue
@@ -289,7 +289,7 @@ The Debate
 
 3. "Ignorance is strength," quacks your Minister of Truth, going through the dictionary with a black marker, and striking out words she doesn't like. "We need to reduce the nation's capacity for critical thinking, for unpatriotic doubt and for rebellious intellectualism. Blissful unreason, with a vocabulary that is too limited to express dangerous ideas - that is how we achieve a compliant population."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=879]#879[/anchor]: Power to the (AI) People [Kenmoria; ed: Caracasus][/b]
 
 The Issue

@@ -12,7 +12,7 @@ The Debate
 
 4. "Look... if someone as well-respected as @@FIRSTNAME_1@@ turned out to be gay, then maybe not all gay folk are so bad," suggests your uncle, without looking up from his Musical Revue Monthly magazine. "He was decent enough to keep his private life private. Maybe we should say that people should be allowed to be queer if they want, as long as they don't make a song and dance about it. Ooh, look, they're talking about bringing Avenue Cute to @@CAPITAL@@. How fabulous!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1561]#1561[/anchor]: Murderers Making Money? [The United Union; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -23,7 +23,7 @@ The Debate
 
 2. "Look, I've served my time and paid my debt. Everyone needs a job, and I'm just trying to show entrepreneurial spirit as a law-abiding citizen," argues the killer, sporting a white hoodie with a striking blood splatter pattern around the neck. "Without a proper form of income, how are former convicts supposed to rejoin society? If ex-cons are forced into debt or poverty, then recidivism rates will increase. Surely, one bad deed — or six, in my case — can't condemn a man forever, right? Show your commitment to the free market by donning my winter collection in public, and society will benefit."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1562]#1562[/anchor]: Shapes of Your Own Choosing [Verdant Haven; ed: Verdant Haven][/b]
 
 The Issue
@@ -34,7 +34,7 @@ The Debate
 
 2. "I'll always watch you!" interjects @@RANDOM_FIRST_NAME@@'s big brother Koa, who serves as Deputy Minister for Media Content Regulation. "That way I can ensure your compliance! Actually, now that you mention it, that does seem a tad inefficient. Hey @@LEADER@@, why don't we just absorb the press into the apparatus of state? Instead of trying to monitor and regulate all these dangerous free-thinkers, we can just write the scripts for them and stop worrying about when some journalist is secretly having a bad day. The public will love the new interruption-free format, and we can make sure the message is exactly what they need!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1563]#1563[/anchor]: Apostropocalypse Now [Wentland; ed: Electrum][/b]
 
 The Issue
@@ -47,7 +47,7 @@ The Debate
 
 3. You notice that a nearby wooden post has something scrawled on it in a long meandering line: "why are we taught punctuation at school they make everyone write so formal like and someone should put a stop to that a famous poet once said just go with the flow and chillax let your words and your spirit run as free and wild as the coursing river and wandering wind"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1564]#1564[/anchor]: Goodbye Yellow Brick Road [Talchyon; ed: SherpDaWerp][/b]
 
 The Issue
@@ -64,7 +64,7 @@ The Debate
 
 5. The final complainant, a tall lady in a black cloak — whose odor suggests she hasn't seen a bath in some time — cackles. "Hahahahaha, don't you see, my pretty? You're simply stuck in the past! Roads are soooo outdated... public transport is the way of the future! High-speed rail, metro services, ferries, the whole lot! With an expanded public transport system covering @@NAME@@ from north to south, we'll stop being so dependent on roads — and their signs."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1565]#1565[/anchor]: The Ultimate Showdown of Ultimate Gluttony [Millenhaal; ed: Verdant Haven][/b]
 
 The Issue
@@ -79,7 +79,7 @@ The Debate
 
 *4. "Are you kidding me!?" roars former Minister of Sports Cassius Pence, a vein visibly pulsing in his forehead. "When @@NAME@@ banned sports, I didn't complain... I hung up my equipment like any patriotic citizen would! Now these freaks get to have their 'contests' while folks like me are stuck twiddling my thumbs? No! If one competition is banned, then ban them all! Whether you're gaming with friends, or chasing your personal best in a crossword, you're competing against someone or something! Either everything is permitted, or nothing is! [[color=red]Must ban sports[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1566]#1566[/anchor]: Consensus Controversy [Logi Apeir; ed: Verdant Haven][/b]
 
 The Issue
@@ -94,7 +94,7 @@ The Debate
 
 [4]. "The real problem here is clear: science is the opiate of academia," states neo-theologist @@RANDOM_NAME@@ smugly, holding a copy of [i]The Dog Delusion[/i]. "Science has been the reason for so many conflicts, fighting each other over which theory is real. All over the world, science is used to discriminate, to make weapons, and to wage war. The only real solution is to strictly regulate the use of the so-called 'scientific method,' and compel researchers to submit to oversight that ensures their inquiries won't challenge other peoples' earnestly held beliefs." [[color=purple]Low Scientific Advancement / High Primitiveness[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1567]#1567[/anchor]: Of Health and Wealth [Wischland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -107,7 +107,7 @@ The Debate
 
 3. "Why are we arguing over this?" asks Dr. @@RANDOM_NAME@@, while collecting and brushing dirt off of the scattered papers. "We have a cure for a deadly disease. The government should take control over its production and distribution, so that no @@DEMONYM@@ suffers from it any longer. In fact, whenever there is significant public benefit the government should seize control of drug production, to ensure the people are actually getting the treatment they need."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1568]#1568[/anchor]: Palate Torture [New Anarchisticstan; ed: Verdant Haven][/b]
 
 The Issue
@@ -122,7 +122,7 @@ The Debate
 
 4. Suddenly your office door breaks open, revealing a shadowy cloaked figure riding a cow. Before anyone can react, the figure starts to speak. "Ommmm, one has heard your materialistic complaints. Ommmm, food is a pleasure diverting @@DEMONYM_PLURAL@@ from the meditative path. Ommmm, we must mandate that all food be simple and unappetisin-." The speech ends abruptly, cut off by the sharp crack of your bodyguard's taser.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1569]#1569[/anchor]: The Not-So-Long Arm of the Law [West Barack and East Obama; ed: Pogaria][/b]
 
 The Issue
@@ -137,11 +137,22 @@ The Debate
 
 4. "You lot are such amateurs," chides the ambassador from Althaniq, who was trying to persuade you to consider a camel exchange program when your advisors barged in. "You shouldn't get pushed around like this, but you also shouldn't go in guns blazing like a bunch of fools, or waste your time with a siege. Want to get rid of these asylum seekers and get away with it? Sneak a few operatives through the back door... and terminate with extreme prejudice."
 
---------------------------------------------------------------
-[b][anchor=1570]#1570[/anchor]: TBD[/b]
+[hr][/hr]
+[b][anchor=1570]#1570[/anchor]: Holistic Healers Hassle Holy Hospitallers [Vacatio Libertas; ed: Pogaria][/b]
 
+The Issue
+After a gang of religious zealots burned down a cupping and coin rubbing clinic for "waylaying the souls of the sick," a mass of meditative magnet healers responded by destroying the pharmacy in a church-run hospital, accusing them of "taking advantage of desperate families." As factional violence threatens to impact more of the nation's faith-affiliated healthcare facilities, temporal authorities are hesitating, uncertain of what stance to take in this spiritual standoff.
 
---------------------------------------------------------------
+The Debate
+1. "This 'alternative medicine' is a symptom of a moral plague which has been gnawing at the soul of every @@DEMONYM_NOUN@@," explains a solemn priest from the Church of Confounding Commandments. "These fruitless endeavors to heal the sick with crystals and essential oils are not simply an alternative to medicine, but an attempt to replace the faith which has served us well for so long. Our earthly bodies need doctors and medicine, it is true, but our soul needs something more. Perhaps the government should pay for every hospital to have a whole passel of priests and spiritual advisors?"
+
+2. "We don't need your 'medicine!'" interrupts practicing chiropractor Karen Ducksworth. "We all know that you priests care more about your donation baskets than you do any REAL faith, and those egghead doctors and their so-called cures have killed more people than any of us havening herbalists and holistic healers ever have!" She breathes a comically heavy sigh. "Leader, if you really want your people to be happy AND healthy, then the government needs to support alternatives to big pharma and big God!"
+
+3. "WHAT IN SCIENCE'S NAME IS THIS?" fumes a red-faced Dr. Norm Allen, an impatient public health expert. "We doctors put in time to research, develop, and administer real, scientifically backed cures to the good people of @@NAME@@, and now these quacks are trying to poison our people with God-particle-knows-what! We need more funding for quality public hospitals that don't shove religion down our throats, and we need to crack down on these pseudoscientific swindlers, regardless of whether their beliefs are new age or old-time religion."
+
+4. A dark figure emerges from a shadow and bids you into the blackness. "Oh @@LEADER@@, the mortals speak silly words." Reaching into his deceptively large black cloak, he presents you with a bottle of liquid bleach. "The solution is not within us, it is all around us! The universe is but one great mess, a mess which must be cleansed and purified! Rid this nation of these mortals' delusional cures, and tell them to drink bleach!"
+
+[hr][/hr]
 [b][anchor=1571]#1571[/anchor]: Let's Fix Our Matches [Outer Sparta; ed: Baggieland][/b]
 
 The Issue
@@ -156,7 +167,7 @@ The Debate
 
 4. "Again, why have we allowed sports itself to corrupt our nation?" opines Orion LeCarré, a chess grandmaster who prefers pastimes that don't require any physical strength. "Think of all the bad things professional sports have resulted in. You got the aforementioned mafia scandal, the doping scandal of Vance Armstorm in the Tour de @@NAME@@, Althaniq hosting the bloody IFF Global Cup, it's all too much! We'd be better off without the corrupting influence of organized sport."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1572]#1572[/anchor]: Eco Warriors [Sedgistan; ed: Verdant Haven][/b]
 
 The Issue
@@ -169,101 +180,101 @@ The Debate
 
 3. "Uh, your focus here is all wrong," interjects military botanist Ksenya Golightly, nursing a handful of cut daisies callouslyhc decapitated by an aerial bomb. "The direct damage being caused to biodiversity is way bigger than any narrow focus on emissions. Our forces need to stay out of all ecologically vulnerable areas: marshland, sand dunes, acid grasslands, primeval forests, mangroves, peat bogs, coral reefs, migratory geese airspace, chalk rivers, pristine arctic tundra..." She continues for several more minutes, finally ending with, "...and avoid artificial lighting at night that might confuse bats and moths. Perhaps we can arm our soldiers with seed bombs so they can make a start at undoing all the damage they've done?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1573]#1573[/anchor]: Unseen Academia [Cefalonia; ed: Candlewhisper Archive][/b]
 
 The Issue
 It is common practice for academics and researchers to submit papers to specialist journals, who in turn will publish and archive them online. However, many of these journals place their archives behind paywalls, charging access fees to those seeking to download them.
 
 The Debate
-1. “This is ridiculous!” shouts Pontius Tibbons, an overworked graduate student from @@CAPITAL@@ University. “These journals are charging way too much for people to access their papers, and it makes comprehensive research impossible! I’m broke already; I can’t be expected to pay a hundred dollars to a hundred journals to perform a proper meta-analysis on the migration patterns of northern yellow-bellied @@ANIMAL@@ beetles. The government needs to unchain academia by forcing these journals to provide universal free access to their archives. The journals will complain, surely, but you can sweeten the pot by giving them a small government stipend for each paper they publish.”
+1. "This is ridiculous!" shouts Pontius Tibbons, an overworked graduate student from @@CAPITAL@@ University. "These journals are charging way too much for people to access their papers, and it makes comprehensive research impossible! I'm broke already; I can't be expected to pay a hundred dollars to a hundred journals to perform a proper meta-analysis on the migration patterns of northern yellow-bellied @@ANIMAL@@ beetles. The government needs to unchain academia by forcing these journals to provide universal free access to their archives. The journals will complain, surely, but you can sweeten the pot by giving them a small government stipend for each paper they publish."
 
-2. “Now just hang on a second there,” says Dean Henry, a representative from the online journal ‘The @@DEMONYM_ADJECTIVE@@ Naturist’, which was the recent subject of an exposé accusing it of naked mercantilism. “We have significant running costs in quality control, server maintenance, editing expenses, image rights, SPF50 sun lotion, and so on, and so forth. Adequate funding is essential for high quality publications, and we should be free to charge whatever prices we think the market will bear. You don’t want bad journals running amok, do you?”
+2. "Now just hang on a second there," says Dean Henry, a representative from the online journal 'The @@DEMONYM_ADJECTIVE@@ Naturist', which was the recent subject of an exposé accusing it of naked mercantilism. "We have significant running costs in quality control, server maintenance, editing expenses, image rights, SPF50 sun lotion, and so on, and so forth. Adequate funding is essential for high quality publications, and we should be free to charge whatever prices we think the market will bear. You don't want bad journals running amok, do you?"
 
-3. “There is another option,” interjects Glen de Shugabeen, author of the new book [i]Socialism and You: Why Big Government Isn’t so Bad[/i]. “Why don’t we forbid these greedy journals from existing in the first place? All they do is exploit people and hold science itself hostage! The government can take over the publishing process for scientific papers instead. That way, we can have the best of both worlds: the government can filter out poor-quality papers, and still make them free for everyone! I’m sure there won’t be any problems with the government deciding what data gets published, right?”
+3. "There is another option," interjects Glen de Shugabeen, author of the new book [i]Socialism and You: Why Big Government Isn't so Bad[/i]. "Why don't we forbid these greedy journals from existing in the first place? All they do is exploit people and hold science itself hostage! The government can take over the publishing process for scientific papers instead. That way, we can have the best of both worlds: the government can filter out poor-quality papers, and still make them free for everyone! I'm sure there won't be any problems with the government deciding what data gets published, right?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1574]#1574[/anchor]: Fowl Play [West Barack and East Obama; ed: Baggieland][/b]
 
 The Issue
 At a recent cockfighting match in downtown @@CAPITAL@@, a vicious brawl between rival supporters of the two roosters — no doubt intoxicated by the smell and sight of blood — ended up causing severe injuries to ten people. As a result, a heated debate has been sparked about what to do with blood sports such as cockfighting, dogfighting and bullfighting.
 
 The Debate
-1. “We have to put an end to this madness,” sighs flustered police constable @@RANDOM_NAME@@, @@HIS@@ feathers clearly ruffled at this latest workload increase. “These animal fighting matches are organised and spectated mostly by gangsters and illegal syndicates, so they’re hotspots for all sorts of criminal activities from pickpocketing to drug dealing. We need to show them who rules the roost by enforcing strict regulations at these matches: stewards, metal detectors, all-seater arenas, and ensuring everyone is at least 50 metres from the fighting, so they don’t get too riled up.”
+1. "We have to put an end to this madness," sighs flustered police constable @@RANDOM_NAME@@, @@HIS@@ feathers clearly ruffled at this latest workload increase. "These animal fighting matches are organised and spectated mostly by gangsters and illegal syndicates, so they're hotspots for all sorts of criminal activities from pickpocketing to drug dealing. We need to show them who rules the roost by enforcing strict regulations at these matches: stewards, metal detectors, all-seater arenas, and ensuring everyone is at least 50 metres from the fighting, so they don't get too riled up."
 
-2. “Simply restricting these barbaric activities is not enough,” clucks @@RANDOM_NAME@@, head of the @@CAPITAL@@ chapter of the Animal Safety Society. “These poor creatures are bred and raised just to be vicious fighting machines. They’re kept in inhumane and crowded cages until it’s time to lead them out to their deaths. We inflict all this trauma on them, and for what? Self-gratification. We need to banish all cruel sports from our civilised country and make sure these sentient beings are sent to animal rehabilitation centers.”
+2. "Simply restricting these barbaric activities is not enough," clucks @@RANDOM_NAME@@, head of the @@CAPITAL@@ chapter of the Animal Safety Society. "These poor creatures are bred and raised just to be vicious fighting machines. They're kept in inhumane and crowded cages until it's time to lead them out to their deaths. We inflict all this trauma on them, and for what? Self-gratification. We need to banish all cruel sports from our civilised country and make sure these sentient beings are sent to animal rehabilitation centers."
 
-3. “Oh, come on, I didn’t come here to get hen-pecked by you wusses,” scoffs cockfighting kingpin @@RANDOM_NAME@@ as @@HE@@ strokes @@HIS@@ prized cock. “Blood sports are an integral part of @@DEMONYM_ADJECTIVE@@ culture. Sure, things might get a little heated at times, but it’s not as bad as it’s cracked up to be. If anything, you should be promoting these sports. Tourists pay top dollar to catch these legendary battles, and you could get a share of the dosh from taxes. It’s a win for all of us!”
+3. "Oh, come on, I didn't come here to get hen-pecked by you wusses," scoffs cockfighting kingpin @@RANDOM_NAME@@ as @@HE@@ strokes @@HIS@@ prized cock. "Blood sports are an integral part of @@DEMONYM_ADJECTIVE@@ culture. Sure, things might get a little heated at times, but it's not as bad as it's cracked up to be. If anything, you should be promoting these sports. Tourists pay top dollar to catch these legendary battles, and you could get a share of the dosh from taxes. It's a win for all of us!"
 
-[4]. “No need to brood over this; there’s a simple compromise!” exclaims your Minister of Creative Solutions from under your desk, as he unplugs your computer to connect a gaming console. “Check it out — Matador Manager! If we promote these ultra-violent video games to the populace, then we can save animals from being attacked in the real world and stop crime from being committed at physical events, all the while ensuring we don’t lose a part of our culture! Now watch this!” He presses a button on his controller, causing pixelated blood to splatter all over your monitor. [[color=blue]Computers and/or Video Games are legal[/color]]
+[4]. "No need to brood over this; there's a simple compromise!" exclaims your Minister of Creative Solutions from under your desk, as he unplugs your computer to connect a gaming console. "Check it out — Matador Manager! If we promote these ultra-violent video games to the populace, then we can save animals from being attacked in the real world and stop crime from being committed at physical events, all the while ensuring we don't lose a part of our culture! Now watch this!" He presses a button on his controller, causing pixelated blood to splatter all over your monitor. [[color=blue]Computers and/or Video Games are legal[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1575]#1575[/anchor]: Unequal Devolution [Circulationem Pecunia; ed: SherpDaWerp][/b]
 
 The Issue
 Substantial delegation of responsibility to local authorities certainly brought power closer to the people, and helped address local concerns more specifically. However, it also paved the way for wide gaps to open in the development of different regions.
 
 The Debate
-1. “We’re in dire straits,” opines @@RANDOM_FIRSTNAME_1@@ @@RANDOM_LASTNAME_1@@, who governs the extremely poor northernmost province of @@NAME@@. “We’re doing all we can, but businesses just don’t want to move out to us! Unemployment is skyrocketing, welfare and medical services are overburdened, and people are leaving in droves. It’s a disaster! If you took just a little bit more tax from the wealthier provinces, maybe you could put some sweet incentives in place to lure big companies back and stimulate our economy? What I wouldn’t give to pass through the shadow of a giant Microcosm centre on the way to my office...”
+1. "We're in dire straits," opines @@RANDOM_FIRSTNAME_1@@ @@RANDOM_LASTNAME_1@@, who governs the extremely poor northernmost province of @@NAME@@. "We're doing all we can, but businesses just don't want to move out to us! Unemployment is skyrocketing, welfare and medical services are overburdened, and people are leaving in droves. It's a disaster! If you took just a little bit more tax from the wealthier provinces, maybe you could put some sweet incentives in place to lure big companies back and stimulate our economy? What I wouldn't give to pass through the shadow of a giant Microcosm centre on the way to my office..."
 
-2. “Don’t listen to that fool,” instructs @@RANDOM_FIRSTNAME_2@@ @@RANDOM_LASTNAME_1@@, who governs the richest province in the nation — and just so happens to be @@RANDOM_FIRSTNAME_1@@’s younger sibling. “Why do you think they’re in such a terrible situation to begin with? It’s because SOMEONE surrendered to cheap populism and fiscal irresponsibility! Giving away our tax money just punishes us for being successful — levy a local tax if they need extra money to pay off their debts. Allow provinces to rise and fall on their own merits, and we’ll soon see who sits at the top!”
+2. "Don't listen to that fool," instructs @@RANDOM_FIRSTNAME_2@@ @@RANDOM_LASTNAME_1@@, who governs the richest province in the nation — and just so happens to be @@RANDOM_FIRSTNAME_1@@'s younger sibling. "Why do you think they're in such a terrible situation to begin with? It's because SOMEONE surrendered to cheap populism and fiscal irresponsibility! Giving away our tax money just punishes us for being successful — levy a local tax if they need extra money to pay off their debts. Allow provinces to rise and fall on their own merits, and we'll soon see who sits at the top!"
 
-3. “Both of you, stop bickering!” chides @@RANDOM_FIRSTNAME_FEMALE_3@@ @@RANDOM_LASTNAME_1@@, their aging mother. “Gosh, maybe this ‘devolution’ stuff was a mistake from the beginning. Giving so much autonomy to all these regions just causes terrible infighting! A strong and centralized government would get these provinces cooperating again. Maybe then we’d be able to have a family dinner without starting an argument over highway funding...”
+3. "Both of you, stop bickering!" chides @@RANDOM_FIRSTNAME_FEMALE_3@@ @@RANDOM_LASTNAME_1@@, their aging mother. "Gosh, maybe this 'devolution' stuff was a mistake from the beginning. Giving so much autonomy to all these regions just causes terrible infighting! A strong and centralized government would get these provinces cooperating again. Maybe then we'd be able to have a family dinner without starting an argument over highway funding..."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1576]#1576[/anchor]: Liquidity Problems [Verdant Haven; ed: Candlewhisper Archive][/b]
 
 The Issue
 One of your senior government ministers recently missed a speaking engagement at an important conference due to a delay caused by having a small bottle of water tucked in a carry-on bag at the airport. A horde of soi-disant policy wonks has intercepted you as you step off a plane, shouting their proposals to overhaul the complicated system of checks and restrictions at airport security.
 
 The Debate
-1. “The problem, @@LEADER@@, is that we’re stuck being reactionary,” sighs security manager @@RANDOM_NAME@@, after filling out the paperwork for her 74th water bottle seizure of the day. “We’re always adding new policies after a threat has been discovered, but we never get rid of policies when they’re no longer needed. Liquids used to be a problem, because some explosives resemble water, but we have the detection technology now to make such measures redundant. Pay for airports to have CT luggage scanners, threat analysis based on machine learning, and other cutting-edge technologies. That will keep those lines moving!”
+1. "The problem, @@LEADER@@, is that we're stuck being reactionary," sighs security manager @@RANDOM_NAME@@, after filling out the paperwork for her 74th water bottle seizure of the day. "We're always adding new policies after a threat has been discovered, but we never get rid of policies when they're no longer needed. Liquids used to be a problem, because some explosives resemble water, but we have the detection technology now to make such measures redundant. Pay for airports to have CT luggage scanners, threat analysis based on machine learning, and other cutting-edge technologies. That will keep those lines moving!"
 
-2. “If we reduce restrictions, the terrorists win!” bellows hawkish legislator @@RANDOM_NAME@@, grabbing the water bottle and eyeing it suspiciously. “Terrorism thrives on fear, not actual effects! How does John Q. Public know what’s in this? How does Susie Homemaker feel if we let unknown items on planes? Things like our liquid ban both ensure citizens feel safe, and act as visible deterrents that discourage terrorist actions. As a matter of fact, I think another couple restrictions might help us show the public how much we care!”
+2. "If we reduce restrictions, the terrorists win!" bellows hawkish legislator @@RANDOM_NAME@@, grabbing the water bottle and eyeing it suspiciously. "Terrorism thrives on fear, not actual effects! How does John Q. Public know what's in this? How does Susie Homemaker feel if we let unknown items on planes? Things like our liquid ban both ensure citizens feel safe, and act as visible deterrents that discourage terrorist actions. As a matter of fact, I think another couple restrictions might help us show the public how much we care!"
 
-3. “It’s not a liquid, it’s water!” retorts your brother, ignoring confused looks and taking a sip to make his point. “If water’s the problem, you should just make an exception so security doesn’t need to worry about it. If a passenger says it’s water, have them take a drink to show it’s harmless and let them be on their way. Oh, that case from the duty-free store? Don’t worry, that’s all just water. Here, I’ll prove it!”
+3. "It's not a liquid, it's water!" retorts your brother, ignoring confused looks and taking a sip to make his point. "If water's the problem, you should just make an exception so security doesn't need to worry about it. If a passenger says it's water, have them take a drink to show it's harmless and let them be on their way. Oh, that case from the duty-free store? Don't worry, that's all just water. Here, I'll prove it!"
 
-4. “Seems to me that the real problem is all these carry-on bags,” offers flight attendant @@RANDOM_NAME@@, shuddering as a passenger trundles past with a large rollaboard. “Security lines would be a breeze if you just prohibited passengers from carrying all these unsafe items like suitcases, laptops, and purses. If they need a drink while on the plane, we’ll be happy to sell them water at a reasonable mark-up, all government-screened and taxed, of course!”
+4. "Seems to me that the real problem is all these carry-on bags," offers flight attendant @@RANDOM_NAME@@, shuddering as a passenger trundles past with a large rollaboard. "Security lines would be a breeze if you just prohibited passengers from carrying all these unsafe items like suitcases, laptops, and purses. If they need a drink while on the plane, we'll be happy to sell them water at a reasonable mark-up, all government-screened and taxed, of course!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1577]#1577[/anchor]: All About the Hustle [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
 When former customer care agent @@RANDOM_NAME_1@@ became unemployed, @@HIS@@ unemployment advisor told @@HIM@@ that @@HIS@@ benefits might be sanctioned for several months if @@HE@@ failed to take any job offered. Subsequently a local brothel scouting for new talent spontaneously offered @@HIM@@ a job, which @@HE@@ refused. As a result, @@HE@@ has been told @@HE@@ will no longer be entitled to state handouts.
 
 The Debate
-1. “Look, our office guidelines are quite clear,” snaps unemployment advisor @@RANDOM_NAME@@, as @@HE@@ writes a letter sending a stroke patient for an interview as a hod carrier. “Job-seekers have to take any work they can do, regardless of what they have previously done, their suitability, or their views on said work. If they reject a perfectly good job, they’re clearly not a serious job-seeker and the sanction is correct. What does @@RANDOM_LAST_NAME_1@@ expect? Beggars can’t be choosers.”
+1. "Look, our office guidelines are quite clear," snaps unemployment advisor @@RANDOM_NAME@@, as @@HE@@ writes a letter sending a stroke patient for an interview as a hod carrier. "Job-seekers have to take any work they can do, regardless of what they have previously done, their suitability, or their views on said work. If they reject a perfectly good job, they're clearly not a serious job-seeker and the sanction is correct. What does @@RANDOM_LAST_NAME_1@@ expect? Beggars can't be choosers."
 
-2. “A beggar?” snorts the flashily dressed William Thénardier Esq., proprietor of a well-reputed bordello, and founder of the [i]Association of Sexophonists and Sexologists[/i]. “If my line of work — and the honest ladies and gents who participate — were not regarded with such snobbery, this fine @@DEMONYM@@ would not have baulked at an interview with my esteemed competitor. What other line of work is so historic, provides the chance to meet so many well-known individuals, offers full health benefits, and yet is so sneered at by prudes earning half the income? We do not want the press-ganged working in our establishments. But, were the benefits of this storied profession properly advertised, lines of eager beavers would form for employment daily.”
+2. "A beggar?" snorts the flashily dressed William Thénardier Esq., proprietor of a well-reputed bordello, and founder of the [i]Association of Sexophonists and Sexologists[/i]. "If my line of work — and the honest ladies and gents who participate — were not regarded with such snobbery, this fine @@DEMONYM@@ would not have baulked at an interview with my esteemed competitor. What other line of work is so historic, provides the chance to meet so many well-known individuals, offers full health benefits, and yet is so sneered at by prudes earning half the income? We do not want the press-ganged working in our establishments. But, were the benefits of this storied profession properly advertised, lines of eager beavers would form for employment daily."
 
-3. “It wouldn’t have made any difference,” whispers @@RANDOM_FIRST_NAME_1@@, nose quivering with revulsion. “I was taught one should only... make the two-backed demon with someone you plan to be with forever. I can’t work in a... a disorderly house. I do want to work; I’ve applied for everything, even giraffe habitat scrubber. But, surely working in a... a bagnio is different? It’s not just serving customers and asking them to please come again... this is, well it’s... it’s the most personal thing two individuals can share. Acknowledging that, shouldn’t we treat prostitution differently, and not sanction people who believe the hoo-hoo and ha-ha shouldn’t be a hoo-ha until the love hoopla?”
+3. "It wouldn't have made any difference," whispers @@RANDOM_FIRST_NAME_1@@, nose quivering with revulsion. "I was taught one should only... make the two-backed demon with someone you plan to be with forever. I can't work in a... a disorderly house. I do want to work; I've applied for everything, even giraffe habitat scrubber. But, surely working in a... a bagnio is different? It's not just serving customers and asking them to please come again... this is, well it's... it's the most personal thing two individuals can share. Acknowledging that, shouldn't we treat prostitution differently, and not sanction people who believe the hoo-hoo and ha-ha shouldn't be a hoo-ha until the love hoopla?"
 
-4. “Why should anyone have to take any job, even those who don’t talk like some character from Willie le Po?” muses @@RANDOM_NAME@@, who is a freelance economic theorist, and author of Work Doesn’t Work: Wasted Lives at 9 to 5s. “Forcing people into poor-quality, insecure work is more stressful than unemployment. You can’t force artisan underwater basket weavers into the Big Cheese industrial dairy complex without interrupting their training, slashing their earning potential, and still expect them to function. People aren’t replaceable cogs. Benefit sanctions should be banned, with advisors nurturing clients to find the perfect fit for them — however long it takes. That way, at least employers will end up with workers who want to stick around... if you’re into that.”
+4. "Why should anyone have to take any job, even those who don't talk like some character from Willie le Po?" muses @@RANDOM_NAME@@, who is a freelance economic theorist, and author of Work Doesn't Work: Wasted Lives at 9 to 5s. "Forcing people into poor-quality, insecure work is more stressful than unemployment. You can't force artisan underwater basket weavers into the Big Cheese industrial dairy complex without interrupting their training, slashing their earning potential, and still expect them to function. People aren't replaceable cogs. Benefit sanctions should be banned, with advisors nurturing clients to find the perfect fit for them — however long it takes. That way, at least employers will end up with workers who want to stick around... if you're into that."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1578]#1578[/anchor]: The Magical Adventures of @LEADER@@ [Kaschovia; ed: Candlewhisper Archive][/b]
 
 The Issue
-You’re sat in the office gardens after a state banquet when it occurs to you that dessert tasted unusually earthy. Did that intern chef mess up the food? It’s been an hour or so, and as an unavoidable nausea begins to spread throughout your body, things are starting to feel a little... magical.
+You're sat in the office gardens after a state banquet when it occurs to you that dessert tasted unusually earthy. Did that intern chef mess up the food? It's been an hour or so, and as an unavoidable nausea begins to spread throughout your body, things are starting to feel a little... magical.
 
 The Debate
-1. “Everything will be alright!” rejoices a hallucination of the dead ethnobotanist Clarence McKanna, emerging from a tapestry of color in the grass. “Your intern chef enhanced your pudding with psilocybin mushrooms... but not to worry, psychoplastogenic compounds are tremendously useful in the treatment of various mental disorders and help us transcend our deepest existential fears. Look at that spoon dropping in slow motion. There is no spoon. There is no time. You should fund state of the art, holistic health centres where the masses can embrace their psychedelic awakenings free from the cold and clinical nature of the laboratory.”
+1. "Everything will be alright!" rejoices a hallucination of the dead ethnobotanist Clarence McKanna, emerging from a tapestry of color in the grass. "Your intern chef enhanced your pudding with psilocybin mushrooms... but not to worry, psychoplastogenic compounds are tremendously useful in the treatment of various mental disorders and help us transcend our deepest existential fears. Look at that spoon dropping in slow motion. There is no spoon. There is no time. You should fund state of the art, holistic health centres where the masses can embrace their psychedelic awakenings free from the cold and clinical nature of the laboratory."
 
-2. “My magic is not for the ill-prepared mind, @@LEADER@@...” whispers a glistening cloud of rainbows, pouring abstract visual fragments of medical licenses and pipettes from the sky. “A bad experience can trigger all sorts of dormant, underlying mental disorders and you wouldn’t know until they hit you like a brick. I’m better off consumed exclusively in controlled scientific experiments, not your average backstreet in @@NAME@@.”
+2. "My magic is not for the ill-prepared mind, @@LEADER@@..." whispers a glistening cloud of rainbows, pouring abstract visual fragments of medical licenses and pipettes from the sky. "A bad experience can trigger all sorts of dormant, underlying mental disorders and you wouldn't know until they hit you like a brick. I'm better off consumed exclusively in controlled scientific experiments, not your average backstreet in @@NAME@@."
 
-3. “Oh, that sounds terrifying,” cackles a mischievous crow, landing on your shoulder as the sky turns an ominous shade of red. “I bet you’re having a nightmare trip! Why don’t you send one of those nationwide emergency announcements so everyone knows just how dangerous these filthy, madness-inducing drugs are before you go completely insane? You can still save @@NAME@@ from total mass hysteria if you ban these devilish hallucinogens outright.”
+3. "Oh, that sounds terrifying," cackles a mischievous crow, landing on your shoulder as the sky turns an ominous shade of red. "I bet you're having a nightmare trip! Why don't you send one of those nationwide emergency announcements so everyone knows just how dangerous these filthy, madness-inducing drugs are before you go completely insane? You can still save @@NAME@@ from total mass hysteria if you ban these devilish hallucinogens outright."
 
-4. A gnome pops his head around a plant pot, which seems to be dancing in the gentle breeze. He skips towards you in hilarious fashion, before sitting on your knee. “The important thing here is that your chef gave you these drugs without your permission. The chef should be blamed and prosecuted, not the poor innocent drugs. From now on make sure that all foods and drinks are clearly labelled to declare and describe the effects of any physiological or psychologically affecting substances they contain, and then it’ll be nobody’s fault but your own when you eat a magic mushroom soufflé.”
+4. A gnome pops his head around a plant pot, which seems to be dancing in the gentle breeze. He skips towards you in hilarious fashion, before sitting on your knee. "The important thing here is that your chef gave you these drugs without your permission. The chef should be blamed and prosecuted, not the poor innocent drugs. From now on make sure that all foods and drinks are clearly labelled to declare and describe the effects of any physiological or psychologically affecting substances they contain, and then it'll be nobody's fault but your own when you eat a magic mushroom soufflé."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1579]#1579[/anchor]: A High-Interest Coupnundrum [Hulldom; ed: Verdant Haven][/b]
 
 The Issue
-The small, coffee-exporting nation of Copiluaca was recently overthrown by a group of insurgents, who have declared that Copiluaca no longer exists. Instead, they claim that a new country — also known as Copiluaca — has been created in the exact same territory. The usurpers further insist that the former Copiluaca’s foreign debts have been dissolved, just like the country owing them.
+The small, coffee-exporting nation of Copiluaca was recently overthrown by a group of insurgents, who have declared that Copiluaca no longer exists. Instead, they claim that a new country — also known as Copiluaca — has been created in the exact same territory. The usurpers further insist that the former Copiluaca's foreign debts have been dissolved, just like the country owing them.
 
 The Debate
-1. “@@LEADER@@, this is clearly absurd! The principle that a successor state inherits the debts of its predecessor is well-established,” declares @@RANDOM_NAME@@, your Finance Minister, cornering you in the break room. “If they refuse to honor their debts, we should rally @@REGION@@ to cut off their trade with an embargo! Imagine what their response will be when they can no longer exchange their coffee for essential foreign goods!”
+1. "@@LEADER@@, this is clearly absurd! The principle that a successor state inherits the debts of its predecessor is well-established," declares @@RANDOM_NAME@@, your Finance Minister, cornering you in the break room. "If they refuse to honor their debts, we should rally @@REGION@@ to cut off their trade with an embargo! Imagine what their response will be when they can no longer exchange their coffee for essential foreign goods!"
 
-2. “That prevents future debts, but doesn’t pay what we’re owed!” roars Minister of Defense @@RANDOM_NAME@@, clutching an espresso with jittering hands. “If they don’t take responsibility for their predecessor state’s obligations, then they don’t get to claim the state’s assets either. That means all that land is up for grabs! Deploy the troops to annex a few of their coffee plantations — it’s not like anybody is going to help them defend themselves. That’s how you send a message with force!”
+2. "That prevents future debts, but doesn't pay what we're owed!" roars Minister of Defense @@RANDOM_NAME@@, clutching an espresso with jittering hands. "If they don't take responsibility for their predecessor state's obligations, then they don't get to claim the state's assets either. That means all that land is up for grabs! Deploy the troops to annex a few of their coffee plantations — it's not like anybody is going to help them defend themselves. That's how you send a message with force!"
 
-3. “This is actually a wonderful opportunity!” whispers @@RANDOM_NAME@@, an accountant who showed up to steal sugar packets. “We should play along, and once we’ve cajoled the rest of the international community to agree with us that Copiluaca is not actually Copiluaca, we can do the same thing! Imagine life in our new utopia without that pesky risk of foreign debt!”
+3. "This is actually a wonderful opportunity!" whispers @@RANDOM_NAME@@, an accountant who showed up to steal sugar packets. "We should play along, and once we've cajoled the rest of the international community to agree with us that Copiluaca is not actually Copiluaca, we can do the same thing! Imagine life in our new utopia without that pesky risk of foreign debt!"

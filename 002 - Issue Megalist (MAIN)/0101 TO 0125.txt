@@ -14,7 +14,7 @@ The Debate
 
 5. "Agh, no, no boys please, let's just host the pageant as is, alright?" implores Catherine Gratwick, one of @@NAME@@'s most celebrated models. "No matter what you people think, appearance is important! Mine allows me to pay for all the dresses I want! So no, I don't think there's anything wrong with telling kids that you can make money from being pretty. In fact, I think beauty contests should be held at schools every year!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=102]#102[/anchor]: For Whom The Road Tolls [Ta Kala; ed: Sirocco][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 3. "Allowing cars to scoot around and pollute our cities was a bad idea in the first place," says @@RANDOM_NAME@@, a famous environmentalist. "The solution is to abolish private motor transport whilst funding a major urban public transport scheme. Our buses and undergrounds could be the envy of the world! Yes, the car companies will suffer, and yes, there'll be a bit more tax, but wouldn't it be worth it for a bit of fresh air and safe streets for the children?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=103]#103[/anchor]: Plague Of The Hybrids! [Serenthis; ed: Sirocco][/b]
 
 The Issue
@@ -40,7 +40,7 @@ The Debate
 
 3. "We could always just kill off all the dogs," @@RANDOM_NAME@@ of the "Keep The Species Pure" foundation whispers to you in a conversation. "The @@ANIMAL@@ is one of the many things our country is famous for; any perversion of its image reflects upon us all! We can't have their image spoilt by these ugly abominations! Just get the police to go around and kill them all and we can rest easy knowing our countryside is safe!
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=104]#104[/anchor]: Public Loudspeakers Shrill With Controversy [Alpha Centauri; ed: Sirocco][/b]
 
 The Issue
@@ -53,7 +53,7 @@ The Debate
 
 3. "To be honest, I can't see why we should put up with advertising at all," says @@RANDOM_NAME@@, an anti-business protester. "All it is is some multi-billionaire or politician somewhere trying to make even more money while the rest of us struggle to make ends meet. I say we ban it. Maybe the economy will suffer a little and some people may lose jobs but that's just a minor side-effect really, especially when you consider that no longer will our children be encouraged to fill themselves with junk-food because some guy on the telly tells them it's cool!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=105]#105[/anchor]: Compensation Culture Must End, Say Corporations [Zhudor; ed: Sirocco][/b]
 
 The Issue
@@ -66,7 +66,7 @@ The Debate
 
 3. "There's nothing wrong with victims getting a little money for the damage they've suffered," claims @@RANDOM_NAME@@, a notorious lawyer. "In fact we should be increasing court capacities so everyone with a complaint to file won't have to wait long before they can get before a judge. Sure it'll be expensive to implement, but maybe then the manufacturers will think twice before selling their unsafe junk without explaining things clearly in the manuals!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=106]#106[/anchor]: Give The Red Light District The Green Light? [Lmaortfmolia; ed: Sirocco][/b]
 
 The Issue
@@ -79,7 +79,7 @@ The Debate
 
 3. "Not so fast now!" interjects daring entrepreneur, @@RANDOM_NAME@@. "Why don't we just have the prostitution industry run by the government? By letting the government regulate prostitution, @@NAME@@ can force any patrons to undergo tests for diseases, make prostitutes have regular medical check-ups and pay a portion of their profits to the government. Of course we'd still have to put more policemen on the streets to keep illegal brothels from popping up and make sure the hospitals are equipped to handle the extra workload, but you can always raise taxes to account for that."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=107]#107[/anchor]: Private Lab Holds @@NAME@@'s Sick To Ransom [Silverbrook; ed: Sirocco][/b]
 
 The Issue
@@ -92,7 +92,7 @@ The Debate
 
 [3]. "I can't believe what I'm hearing," deplores well-respected religious leader, @@RANDOM_NAME@@. "If God didn't want people to have this disease he wouldn't have created it in the first place. This is completely against the will of God and if the government allows this drug to go on sale we will all be doomed to an afterlife in a dark and fiery place! Now let's end this madness and abolish the production of pharmaceuticals and drugs altogether!" [[color=purple]Must have Atheism[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=108]#108[/anchor]: Gambling Interests Offer High Stakes [New Sweden X; ed: Reploid Productions][/b]
 
 The Issue
@@ -105,7 +105,7 @@ The Debate
 
 3. "There is a solution to this problem," says Native @@NAME@@ite chief Dances-With-@@ANIMAL_PLURAL@@. "You could let us front the casinos as payback for stealing our land, and we'll enforce age limits and pay some tax on the income these casinos generate. Just think of the jobs it could create for us, and the boost to the economy!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=109]#109[/anchor]: Karate Kids Cause Controversy [Yarrum; ed: Sirocco][/b]
 
 The Issue
@@ -120,7 +120,7 @@ The Debate
 
 4. "Discipline? Oh heavens no, our lives are already too restricted by the iron cage of rules and policing," says unorthodox youth pastor @@RANDOM_NAME@@, seen weaving a basket from blades of grass. "Our young people need to reconnect with the spirit within, and the best way to do that is to be one with nature and appreciate the bounty all around us. Redirect some of those police funds to my summer camps, and then youths can learn how to live freely and simply by crafting their own supplies from scratch."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=110]#110[/anchor]: Too Low On Laws, Say Citizens [Kandarin; ed: Sirocco][/b]
 
 The Issue
@@ -133,7 +133,7 @@ The Debate
 
 3. "I've got a different idea," says @@RANDOM_NAME@@, your minister of commerce, speaking from his hiding place under a desk. "Television viewers in more developed countries actually like seeing gratuitous violence. We could put up cameras in some of the more dangerous streets and sell the broadcasting rights to foreign networks. It could raise awareness of our situation, or at the very least rake in some @@CURRENCY_PLURAL@@. The money could be used to fund a more organised police system to enforce the law."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=111]#111[/anchor]: Southern @@NAME@@ Demands Semi-Autonomy [Ceroo; ed: Sirocco][/b]
 
 The Issue
@@ -146,7 +146,7 @@ The Debate
 
 3. "These people are obviously power-hungry lunatics," whispers @@RANDOM_NAME@@, one of your innumerable advisors. "They're simply trying to loosen your grip on the nation! Let's just send anyone who opposes your absolute rule to the gallows and ban elections. We hardly need them when you always know what to do! There may be some protest, but we can just lower taxes and they'll be as happy as clams."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=112]#112[/anchor]: Put The Phone Down On Cold Calling? [Frigben; ed: Sirocco][/b]
 
 The Issue
@@ -157,7 +157,7 @@ The Debate
 
 2. "This must be a joke," retorts insurance sales solicitor @@RANDOM_NAME@@, in between cold calls. "Telemarketing and door-to-door sales are some of the most effective methods of increasing revenues. Banning them would be a huge blow to business, and put thousands of workers out of their jobs! Let's face the facts - @@NAME@@ needs an economy, and banning cold calls isn't the best of ways to improve it! One way you could improve it would be to, say, give us some government funds. For the sake of @@NAME@@, of course."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=113]#113[/anchor]: Test Results Deemed 'Ungood' After Global Survey [Der Angst; ed: Sirocco][/b]
 
 The Issue
@@ -170,7 +170,7 @@ The Debate
 
 3. "This is stupid, it would ruin our nation's population of skilled workers!" says @@RANDOM_NAME@@, a college professor. "There's never enough able-minded citizens for the more specialised careers. We must force our less-intelligent to learn! Get their noses right against the grindstone! Let's raise the bar a bit so even our best students have to sweat whilst learning! The others will of course be forced to learn even more to keep in touch, but that just shows them how real life works. To fund it, well, our defence budget is already too large, if you ask me."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=114]#114[/anchor]: Wipe Out Graffiti? [Gelvanie; ed: Sirocco][/b]
 
 The Issue
@@ -183,7 +183,7 @@ The Debate
 
 3. "I don't see what's so bad," comments @@RANDOM_NAME@@, a famous art critic. "This is urban art at its finest. It's vibrant, colourful, and simply reeks of culture! Just look at the form displayed in this string of racist expletives! Wonderful. Simply wonderful. I think we should really be encouraging these budding Rembrandts, not putting them down! I say we legalise it, in the name of culture!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=115]#115[/anchor]: @@NAME@@'s Schoolchildren Not Learning The Lingua Franca [Travis Dominicus; ed: Sirocco][/b]
 
 The Issue
@@ -194,7 +194,7 @@ The Debate
 
 2. "To be frank, the need for outsiders' speak doesn't appeal to me in the slightest!" claims @@RANDOM_NAME@@, a fierce patriot. "Making our children learn these languages is an affront to the basic civil rights of @@NAME@@! What's more, this will encourage those damn foreigners to come here and take our jobs! I for one, will not stand for it! We can drop that area of education; it'll give us tax payers a bit of a breather for once. I've always said that we don't need any others but our own!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=116]#116[/anchor]: Soda Sales Hits New 'High' [Foe Hammer; ed: Sirocco][/b]
 
 The Issue
@@ -207,7 +207,7 @@ The Debate
 
 3. "If you ask me," says @@RANDOM_NAME@@, from behind a cloud of smoke. "We should just let everyone have drugs for free! If the government legalised and subsidised all these 'bad' drugs and gave 'em out to everyone, all our problems would be solved! There'd be no more drug traffickers, or thugs robbing old ladies to feed their addictions! 'Course there'd be a bit of a detrimental effect healthwise and to the drug industries, but the beauty of it all is that everyone will be too doped up to care!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=117]#117[/anchor]: Stop The Suits, Say Surgeons [Ravenspire; ed: Sirocco][/b]
 
 The Issue
@@ -222,7 +222,7 @@ The Debate
 
 4. "The problem certainly is capitalism," says @@RANDOM_NAME@@, a famed socialist. "But outlawing the insurance industry will not solve the main problem: the healthcare system itself! It's disgusting! I've seen paramedics check wallets before injuries! We must introduce a national health service and put some healthy investment into medical colleges, hospitals, and the likes. Then we'll have an over-abundance of competent doctors! The insurance industry won't be able to raise a finger to it and the citizens won't have to pay for treatment. Except through tax, of course."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=118]#118[/anchor]: Need For Speed? [Atlantic Rim; ed: Sirocco][/b]
 
 The Issue
@@ -235,7 +235,7 @@ The Debate
 
 3. "I think the current speed limits are fine, but we need better enforcement," says @@RANDOM_NAME@@, the most feared traffic warden in @@NAME@@. "If we required GPS tracking devices in all vehicles, we'd ticket every single speeder, no problem. In addition, we could monitor the movements of criminals and other suspicious individuals, and vastly reduce the risk of crime, terrorism, and other subversive activity. Some say that's an invasion of privacy, but if you've done nothing wrong what's there to fear?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=119]#119[/anchor]: Watershed Down? [New Cyprus; ed: Sirocco][/b]
 
 The Issue
@@ -246,7 +246,7 @@ The Debate
 
 2. "This is an endorsement of bad taste if ever I saw it," says @@RANDOM_NAME@@, a child-care worker. "It's just wrong to subject children to graphic violence and nudity on afternoon television like this: who knows what it might possess them to do? We've all heard stories of kids who have seen some film where someone jumped off a cliff and then gone off to have a shot themselves. We must ban all violent and salacious material from our TV screens. If only to protect the innocence of our progeny!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=120]#120[/anchor]: Two Parties For Too Long? [Ren Yi; ed: Sirocco][/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 4. "Opposition parties are such a bother," muses @@RANDOM_NAME@@, your chief of staff. "If we allowed as many of them to be politicians as those fools in the Pragmatic Radical Party want, it would be very hard on the tax payers - and our own position in power. If we re-wrote the election rules so that a party had to reapply for recognition every time it failed to win a certain number of votes, we could knock our opposition out of the ring for good! Hey, the voters have spoken, and they asked for us. I think that just about settles it, don't you?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=121]#121[/anchor]: A Uniform Plan For @@NAME@@'s Students? [Scheelia; ed: Sirocco][/b]
 
 The Issue
@@ -272,7 +272,7 @@ The Debate
 
 2. "Dude, your plan stinks," says @@RANDOM_NAME@@, leader of The Students Union. "Our clothing is part of who we are; it lets us express ourselves just by passing someone in the corridor. To say we must wear these inhibiting uniforms is an affront to our personal freedom! So back off with the uniforms, dude, students should be allowed to go to school dressed however they like. Or not dressed, if that's their style."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=122]#122[/anchor]: Pensioners In Protest [Emperor Matthuis; ed: Sirocco][/b]
 
 The Issue
@@ -283,7 +283,7 @@ The Debate
 
 2. "I'm not giving any of my hard-earned wages to a bunch of old fossils," says @@RANDOM_NAME@@, a devout taxpayer. "If they weren't smart enough to save enough money for their later years, then why should the government pay out for them now? They had their chance and they didn't take it. If they really want money so bad, they can go out and work for it like everyone else."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=123]#123[/anchor]: Now, Vat's Food For Thought [Tahar Joblis; ed: Sirocco][/b]
 
 The Issue
@@ -304,7 +304,7 @@ The Debate
 
 **7. "That guy has no sense of vision," says @@RANDOM_NAME@@, your Minister of Demographics. "Why waste this invention on healthcare or cookery when so much more could be done! Mandate that all new people be grown in vats! Disease will be a thing of the past! When they break, just grow new parts! It adopts the industrial method to population management, something we've needed for a long time. And now that we finally have the right technology, I say we do it!" [???]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=124]#124[/anchor]: To Paint Or Not To Paint? [Aoifambia; ed: Sirocco][/b]
 
 The Issue
@@ -317,7 +317,7 @@ The Debate
 
 3. "What's the point in allowing most young people to continue in further education anyway?" enquires @@RANDOM_NAME@@, a factory manager. "Surely most students would be better employed in manual and factory work? You should handpick a select few to study medicine, the law, science, and business of course, and utilise the majority of youth to increase the country's productivity in industry. Academic freedom just gets in the way of a functioning society, I've always said."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=125]#125[/anchor]: Bring Back The Ballot? [Centralis; ed: Sirocco][/b]
 
 The Issue

@@ -10,7 +10,7 @@ The Debate
 
 3. "Coffeeheads, I ask you..." sighs tea-lover Earl Gray, sipping delicately from a china cup. "Why does anyone drink coffee, anyway? You should tax the foul stuff, and redirect those funds into subsidising more civilised drinks. Then perhaps while we take tea, we can enjoy the more cultured things in life - like a classic book or a proper biscuit."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1041]#1041[/anchor]: A Sport Retort [Pogaria & Baggieland; ed: Pogaria & Baggieland][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 4. "You know, I've heard rumors that host country East Lebatuck only got as far as they did because they slipped hallucinogens into the drinking water of their opponents," suggests Intelligence Minister @@RANDOM_NAME@@ while fiddling with prototypes of the latest spy cameras. "Some of the Bigtopian players even claimed to see a talking tiger on the field! If we offered to host one of these sporting spectacles - and then made a few 'donations' to the International Calvinball Federation to ensure we were selected - we could have a similar advantage. Just say the word, and I'll have our research labs start working on an array of undetectable sedatives."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1042]#1042[/anchor]: Failure to Launch [The Sakhalinsk Empire; ed: Zwangzug][/b]
 
 The Issue
@@ -40,7 +40,7 @@ The Debate
 
 4. "If we want to keep our space program pure and full of national spirit, we need to find a solution other than electronics," complains emeritus professor @@RANDOM_NAME@@. "This is just a tragic symptom of our citizens' innumeracy. Ensure the next generation has strong mathematical aptitude, and we'll be charting fresh courses in no time."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1043]#1043[/anchor]: Foundering Fashionistas [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -53,7 +53,7 @@ The Debate
 
 3. "The problem isn't that your niece has already [i]had[/i] help, nor that no-one appreciates her... ahem... creativity," coughs designer Yvette Saint-Marie, who sports a tasteful monochrome dress, as she sits and crosses her ankles demurely. "It's that those monstrosities are so very frightful that no-one in their right mind would buy them, or accept them as a gift, or even give them to an enemy as a mean-spirited joke. There's no point in throwing good money after bad, but that doesn't mean that other people should not be aided. A governmental hardship fund should subsidise aspirational entrepreneurs with genuine artistic merit."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1044]#1044[/anchor]: OK Stupid [Nation of Quebec; ed: The Free Joy State][/b]
 
 The Issue
@@ -66,7 +66,7 @@ The Debate
 
 3. "Me fail grammar? That's unpossible!" chimes in your easily amused Education Minister @@RANDOM_NAME@@ while trying to balance a pen on @@HIS@@ nose. The Education Minister is quickly pushed aside by your always-angry Defense Minister, who looks like @@HE_1@@ is about to have an aneurysm. "Who are these nerds and brainiacs to tell us how to run our country? The people voted us in and we ought to respect that. So what if I don't have some fancy-schmancy diploma? It's just a piece of paper. Any citizen should be free to run for office, regardless of how smart they are."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1045]#1045[/anchor]: [i][color=purple]The Enemy Within[/color][/i]: Gimme Some Truth [Drasnia; ed: Candlewhisper Archive][/b]
 
 The Story So Far
@@ -84,7 +84,7 @@ The Debate
 
 [4]. Walter Lee, your loyal driver, swings a fist at Mr. Mission, knocking him down. "Boss! We were there, you and me! We dug through rubble with our bare hands! People like these don't deserve to be listened to, they deserve a good beating for disrespecting the dead. Come on, give him a nudge or ten with your steel-capped boots. You know he deserves it." [[b]Must have chosen issue option [url=https://forum.nationstates.net/viewtopic.php?f=13&t=88&start=25#740]#740.1[/url][/b]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1046]#1046[/anchor]: Buffing Up Our Hospitals? [Palos Heights; ed: Sanctaria][/b]
 
 The Issue
@@ -99,7 +99,7 @@ The Debate
 
 4. "While reversing the ban on clothing might have Dr. @@LASTNAME_2@@ looking Dr. Fashionista, the problem isn't as bad as @@HE_2@@ makes it out to be", says Nurse @@RANDOM_FIRST_NAMEFEMALE@@ Ratchet, squeezing herself through the crowd to speak to you. "Sure the rooms can get cramped during a Code Blue, but that doesn't mean that we can let our dangly bits distract us when we're cheek-to-cheek saving lives! It just means that we need more funding for our hospitals so we can have larger patient rooms. Here, let me help you write the cheques."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1047]#1047[/anchor]: Rivers of Blood [Candensia; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -112,7 +112,7 @@ The Debate
 
 3. "Lavender lagoons? Scarlet streams? Count me in!" chimes tourism and novelty museum tycoon @@RANDOM_NAME@@. "Finding chemicals in the water is anything but a problem; in fact, it's a prime opportunity! We should add a bit of color to our lackluster lakes; the oddly-pigmented oddities would become tourist magnets! Our nation will be known far and wide for its colorful waterways, flowing proudly in our national hues. This, right here, is what will attract more money than anything @@NAME@@ has seen in ages. Let's dye ourselves into the next golden age!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1048]#1048[/anchor]: Tatty Treaty Spat Turns Catty [Yahlia; ed: Pogaria][/b]
 
 The Issue
@@ -127,7 +127,7 @@ The Debate
 
 4. "Listen to this codswallop!" grumbles your bigoted great-uncle while jotting down a series of misspelled racist slogans in a tattered notebook. "These leeches have contributed nothing worth having to our glorious @@TYPE@@! They're lazy vagrants who create a burden on civilized society. All they do is take drugs and commit crimes. Why not just eject them from the country? Only our race is good enough for @@NAME@@!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1049]#1049[/anchor]: Hard Times Ahead? [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue
@@ -142,9 +142,9 @@ The Debate
 
 *4. "Maybe you don't need to be in such a hurry to see this as a problem," interjects the minister's wife Ivana Newlove, who has always kept her maiden name. "If the little fella doesn't feel like getting up in the morning, then let him sleep! Drew is almost fifty, for goodness sake; it's only natural that his love life is over. Respect mother nature, and also this tired mother-of-three, and instead ban these treatments." [[color=blue]Must not ban marriages[/color]]
 
-*5. “Maybe you don’t need to be in such a hurry to see this as a problem,” interjects the minister’s long-standing partner Ivana Newlove. “If the little fella doesn’t feel like getting up in the morning, then let him sleep! Drew is almost fifty, for goodness sake; it’s only natural that his love life is over. Respect mother nature, and also this tired mother-of-three, and instead ban these treatments.” [[color=red]Must ban marriages[/color]]
+*5. "Maybe you don't need to be in such a hurry to see this as a problem," interjects the minister's long-standing partner Ivana Newlove. "If the little fella doesn't feel like getting up in the morning, then let him sleep! Drew is almost fifty, for goodness sake; it's only natural that his love life is over. Respect mother nature, and also this tired mother-of-three, and instead ban these treatments." [[color=red]Must ban marriages[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1050]#1050[/anchor]: Criminal Guns Soon To Be Shooting Blanks [Sacara; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -157,7 +157,7 @@ The Debate
 
 3. "The judge has somethin' right!" grunts @@RANDOM_NAME@@, a warden at the @@CAPITAL@@ Correctional Facility who speaks loudly to compensate for carrying a small stick. "We give too dang much freedom to them prisoners. What we need tuh do is take the whole choosing part out and sterilize all of 'em. Once they commit a crime, they lose all them privileges, like the ability to get pregnant or say no."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1051]#1051[/anchor]: Take to the Skies [Splendania; ed: Frieden-und Freudenland][/b]
 
 The Issue
@@ -170,7 +170,7 @@ The Debate
 
 3. "Go fly a k-kite!" exclaims stuttering aviophobe @@RANDOM_NAME@@, as @@HE@@ emerges from the lunch cart @@HE@@ snuck in on. "Our c-current system is j-just fine. The boat… the boat is the only sure way to get from point A to B safely and reliably - and if we need a b-bigger fleet, why not s-seize some of the n-navy ships and re-purpose them for p-public use?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1052]#1052[/anchor]: The Prisoners' Dilemma [Caracasus; ed: The Free Joy State][/b]
 
 The Issue
@@ -181,7 +181,7 @@ The Debate
 
 2. "Tell me you're joking!" yells @@RANDOM_NAME@@, as you hear the heavy clang of keys being turned in old locks. "Zetatraz holds the worst of the worst. Murderers, rapists and jaywalkers crammed into every cell. If we let these animals loose, we're endangering every innocent person in the country. They had their chance to live productive, law-abiding lives and they blew it. Let the guards lock these thugs in and escape to safety."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1053]#1053[/anchor]: Some Enchanted Evening That Was [The Free Joy State; ed: Wyethalania][/b]
 
 The Issue
@@ -196,7 +196,7 @@ The Debate
 
 4. "These people have consorted with the enemy?" gasps Minister of Defence @@RANDOM_NAME@@, @@HIS@@ left eyebrow springing upwards. "They've got to be carefully taught that any South Palisadian could be an enemy agent working for North Palisade; therefore, anyone found engaging in such illicit fraternisation shall be subject to court-martial and — when found guilty — execution for treachery." Private Hammerstein and Major Billis fall menacingly under @@HIS@@ gaze.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1054]#1054[/anchor]: Herbal Trouble [Frieden-und Freudenland; ed: The Free Joy State] [/b]
 
 The Issue
@@ -209,7 +209,7 @@ The Debate
 
 3. "I hope you realize that it is not safe to abort a child by using these plants," mutters Dr. @@RANDOM_NAME@@, a gynecologist from @@ANIMAL@@ Valley Hospital. "Let's admit it: people will always find ways to circumvent laws that restrict their freedoms. If women are going to have abortions anyway, wouldn't it be better if they had the chance to do so under the supervision of medical professionals? Think about how many lives would be saved if you at least allowed abortions for medical emergencies."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1055]#1055[/anchor]: Fishy Predictions [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -222,7 +222,7 @@ The Debate
 
 3. "Pepe has spoken, and we must not blame the messenger for the truths he brings," declares General @@RANDOM_LAST_NAME@@, your Chief of Staff. "Real psychics and psychic animals do exist, and we'd be fools not to utilise them to our military advantage. For example, we could put the flags of our adversaries in Pepe's pool to see who is plotting against us, and then preemptively bomb them. Our enemies won't understand how we can anticipate their every move!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1056]#1056[/anchor]: Time to Work? [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -235,7 +235,7 @@ The Debate
 
 3. "Let's strike a reasonable middle ground!" proposes your hyperactive Employment Minister @@RANDOM_NAME@@, striking a 'middle ground pose' that involves balancing on one leg while pointing rapidly in multiple directions. "We need a comprehensive review to identify professions where there is risk to the public from long hours, and then create tailored directives for each field of work, and then create allowances for longer weeks followed by time off, and limited opt out clauses for extenuating circumstances, and, and... that sounds fun! Let's get started!" @@HE@@ skips off, giggling maniacally.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1057]#1057[/anchor]: Baby, It's Cold Outside [-WeedLand-; ed: Zwangzug][/b]
 
 The Issue
@@ -248,7 +248,7 @@ The Debate
 
 3. Surfer @@RANDOM_NAME@@ bursts through your door, dripping with water and trailing seaweed. "Dude, you can't just leave the colder parts of @@NAME@@ unattended and expect everything to be fine! All you need to do is pump carbon dioxide stuff into the atmosphere and then we can have an endless summer. Like, some of those environment losers say it will cause pollution, but who would want to miss out on that heat?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1058]#1058[/anchor]: LEEDing From Behind [Altmer Dominion; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 3. "There's no reason to go through with this," urges your Minister of Housing whilst urinating on a potted plant. "In fact, I say we teach these radical hippies a lesson. I have a list of the fragile habitats surrounding @@CAPITAL@@, home to some useless endangered snail species that no one cares about except these annoying tree huggers. I've also got three orders filed for United Federation granite — I hear they recently opened up one of their national parks for mining. Just say the word, and these ecofascists will be living their worst nightmare. Maybe then they'll get the message."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1059]#1059[/anchor]: Footing the Bill [Baggieland & Pogaria; ed: Baggieland & Pogaria][/b]
 
 The Issue

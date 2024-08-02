@@ -10,7 +10,7 @@ The Debate
 
 3. "The only thing that's clear from this is that SCIENCE isn't getting enough funding," grumbles eminent, if notoriously disaffected, physicist @@RANDOM_NAME@@. "The only reason we have to spend so much effort protecting our discoveries is because we're so worried about where our next paycheck is coming from. If the government opened up its coffers to eager scientists, this whole debate would simply go away. Not to mention that government could lay claim to any particularly intriguing discoveries..."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=341]#341[/anchor]: Where in the Woods is Cindy SanFrancisco? [Ignorent Peeple; ed: Luna Amore][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 5. "Yer all missin' the heart o' matter," barks @@RANDOM_NAME@@, a burly, crosscut-saw wielding lumberjack. "The problem isn't these lil' rascals gettin' lost; it's what they're gettin' lost in. If we chop down those damned woods, well then there won't be anythin' to get lost in, now will there? You give me and my team the OK, and we'll make those wooded deathtraps a thing o' the past!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=342]#342[/anchor]: This Land Was Made For You And Me [Luna Amore; ed: Kryozerkia][/b]
 
 The Issue
@@ -44,7 +44,7 @@ The Debate
 
 5. "I have a much, much more palatable solution," assures your Minister of Internal Expansion, rubbing his hands together greedily. "Let's expand our coasts. How do we do that you ask? Simple, we reclaim it from the surrounding seas. All we need to do is build levees and dikes and pump out the water. It'll take some serious desalinization and a constant, reliable power source to accomplish, but it'll be worth it in the long run."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=343]#343[/anchor]: Brother, Can You Spare A Dime? [New Andram; ed: Lenyo][/b]
 
 The Issue
@@ -57,7 +57,7 @@ The Debate
 
 [3]. "Actually, I think it's high time we got rid of physical currency altogether," says the president of the Chamber of Commerce, @@RANDOM_NAME@@, flanked by officials from various security agencies. "We should just digitize all money. People spend more when they don't see themselves physically handing over cash, and the benefits to tracking terrorists and other subversives are obvious. That sounds like a solid win-win to me." [[color=blue]Must have computers[/color] AND [color=blue]Must have internet[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=344]#344[/anchor]: Trash Talk [Luna Amore; ed: Lenyo][/b]
 
 The Issue
@@ -74,7 +74,7 @@ The Debate
 
 5. "Why are we wasting our time with this nonsense?" asks infamous miser @@RANDOM_NAME@@. "All this hullabaloo over a little trash. Here's a news flash: there's always going to be trash! A bunch of hippies prancing around on the government's dime ain't gonna change that! You should know better than to spend our tax @@CURRENCY_PLURAL@@ on such frivolous endeavors. Why don't you beautify our wallets instead and give us a tax break?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=345]#345[/anchor]: Mayors Behaving Badly [Nation of Quebec; ed: Sanctaria][/b]
 
 The Issue
@@ -87,7 +87,7 @@ The Debate
 
 3. "What's the point of even having the rule of law if our politicians are just going to ignore it?" asks anti-corruption lawyer @@RANDOM_NAME@@ while going through your tax returns. "We need tougher laws and more judges with the gall to enforce them. Even the slightest infraction should result in the immediate dismissal of the mayor. It'll probably mean more elections, but it's worth it if it means that the citizenry continue to trust devolved government."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=346]#346[/anchor]: Oils Well That Ends Well [Jarethania; ed: Luna Amore][/b]
 
 The Issue
@@ -102,7 +102,7 @@ The Debate
 
 4. "You're looking at this the wrong way. This isn't a problem; it's a golden opportunity!" says theme park tycoon, @@RANDOM_NAME@@, slicking back his hair as he continues, "Picture this: thousands upon thousands of tourists flocking to @@NAME@@. Why are these people coming in droves, you ask? To see the one, the only Great @@ANIMAL@@ Sea Oil Slick! Throw up a few more platforms, add some roller coasters, a few restaurants, tie it all together with a jolly mascot, and you've turned this unfortunate accident into a lucky break."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=347]#347[/anchor]: Crime Problems Ganging up on @@NAME@@ [The murtunian tribes; ed: Lenyo][/b]
 
 The Issue
@@ -115,7 +115,7 @@ The Debate
 
 3. An unidentified man wearing a bandana around his face and pants twice his size confronts you as you leave the office for the evening. "We don't want you pigs in our hood, bruh." A dozen armed thugs materialize from the shadows. "Why don't you marks just keep out and let us handle our own beef?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=348]#348[/anchor]: I Want A Lawyer [Marxist socialismchillville; ed: Sanctaria][/b]
 
 The Issue
@@ -128,7 +128,7 @@ The Debate
 
 3. "Hmm. Now that's a good idea", says @@RANDOM_NAME@@, your education advisor, with a gleam in his eye. "If everybody goes to law school then we won't need to pay for everyone to have a lawyer - they can represent themselves! We should make legal studies a core part of the curriculum, and give some incentives for people to do at least one year of law school. That way if you end up in court, you should be able to defend yourself with no problem at all."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=349]#349[/anchor]: Bigtopian Bigwigs Beset Border [Koomu; ed: Sedgistan][/b]
 
 The Issue
@@ -141,7 +141,7 @@ The Debate
 
 3. "I have an idea," interjects Wernher von Grun from the Department of Defence. "Amongst these refugees are several top Bigtopian scientists. They may have carried out some terrible experiments with WMDs, but can we really afford to lose their expertise? Let them join our team at the Hexagon, and we'll develop weapons the envy of @@REGION@@. After all, once the missiles go up, who cares where they came from?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=350]#350[/anchor]: Queasy Cuisine [Avlain; ed: Sedgistan][/b]
 
 The Issue
@@ -160,7 +160,7 @@ The Debate
 
 6. "There, there" soothes your PA @@RANDOM_NAME@@, proffering a bucket. "Our cuisine could use work, but there's so many dishes we'd have to fix… Oh, I know! You can't go wrong with pasta. Why not have everyone eat pasta? Only pasta." A plate of linguine appears on your desk.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=351]#351[/anchor]: The Cost of Freedom [Waideland; ed: Lenyo][/b]
 
 The Issue
@@ -173,7 +173,7 @@ The Debate
 
 3. "Instead of wasting money on prisons for violent criminals, I could take care of your problem," suggests @@RANDOM_NAME@@, @@NAME@@'s wealthiest psychopath, while polishing a rifle. "I'm an unrivaled hunter, but with animals there's no challenge for an expert such as myself. If you sent prey to my island estate, I'd be willing to throw a few electrons the government's way. You save money; I take care of the scum in your penal system. Sounds like a win-win to me."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=352]#352[/anchor]: Going Off The Rails [Milograd; ed: Sanctaria][/b]
 
 The Issue
@@ -190,7 +190,7 @@ The Debate
 
 5. "I'm getting tired of seeing yellow tape every time I go to take the train in the morning. The atmosphere in stations is getting grimmer by the day", your receptionist, @@RANDOM_NAME@@, comments absent-mindedly while handing you some coffee. "I think that you could hit two birds with one stone here if you redecorated the train stations. Suicidal people would be far less likely to take the terrible leap if the stations had pleasant music playing, motivational posters, and psychedelic paint jobs all over their walls. Oh, and maybe some pizza joints in the station too! Everyone loves pizza."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=353]#353[/anchor]: Broadband Going To The Birds? [Astracarn; ed: Luna Amore][/b]
 
 The Issue
@@ -203,7 +203,7 @@ The Debate
 
 3. "Well, this certainly is eye-opening," exclaims amateur birdwatcher, @@RANDOM_NAME@@, with a pair of binoculars dangling from his neck. "Here we are mucking about with our inefficient technology and the birds have us beat! Clearly we need to convert all our inefficient internet into bird-based-broadband! We'll need flocks upon flocks of pigeons and a tight training schedule, but we can do it."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=354]#354[/anchor]: Subversive Shortwaves [The Grand Dilligaf; ed: Lenyo][/b]
 
 The Issue
@@ -218,7 +218,7 @@ The Debate
 
 4. "I can't believe what I'm hearing," gasps @@RANDOM_NAME@@, a social policy adviser. "Dissent is an essential part of the political process. How are we to know what we are doing wrong if we don't listen to our critics? Sure some of them have extreme opinions, but it's our responsibility to build bridges and understand why they feel so disenfranchised that they felt they had to leave in the first place. I suggest initiating a government-funded study to identify the root of the problem, followed by training for all government employees to ensure none of our population feels this way again."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=355]#355[/anchor]: Alien Invaders [Ignorent peeple; ed: Lenyo][/b]
 
 The Issue
@@ -233,7 +233,7 @@ The Debate
 
 4. "So what if these Spikeballs are eating all the trees?" says thoroughly apathetic citizen @@RANDOM_NAME@@. "Nature got along fine for millions of years before we came into the picture. Just let survival of the fittest run its course. Sure, we might lose a few species or ecosystems along the way, but at least we'll save some money. Forests are really boring, anyway."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=356]#356[/anchor]: @@NAME@@ In The Time Of Cholera [Wonnie; ed: Lenyo][/b]
 
 The Issue
@@ -244,7 +244,7 @@ The Debate
 
 2. "We don't pump our water from the sea," suggests @@RANDOM_NAME@@, night shift manager at @@NAME@@ Water & Utility. "Why not just put our waste on barges and dump it far out in international waters? We at @@NAME_INITIALS@@W&U will be pumping nice clean water again, and the waste will never be a problem for anyone but foreigners, so it's win-win."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=357]#357[/anchor]: Vamos, Mi @@ANIMAL@@! [Octuagesimo Octavo; ed: Sedgistan][/b]
 
 The Issue
@@ -257,7 +257,7 @@ The Debate
 
 3. "You wimps are a disgrace!" bellows lycra-clad gym instructor @@RANDOM_NAME@@. "You don't need cars or @@ANIMAL_PLURAL@@ to keep up. It's about time someone whipped the lot of you into shape. Give me four hours a day with these pansies and I'll have them catching criminals in no time at all. Now drop and give me twenty!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=358]#358[/anchor]: Not Another Teen Pregnancy [Valrifell; ed: Sanctaria][/b]
 
 The Issue
@@ -276,7 +276,7 @@ The Debate
 
 [6]. "I think sterilizing the population is a little extreme", your civil service's Chief Medical Officer states candidly. "But we do need to stop these teenage pregnancies, so let's prioritize sex education and free contraceptives. These are teenagers; their hormones are all over the place, and regardless of what we preach about abstinence, they're going to have sex. And for those that get pregnant anyways, free abortion should be available on demand." [[color=blue]Abortion is legal[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=359]#359[/anchor]: Got Democracy? [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue

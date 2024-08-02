@@ -6,7 +6,7 @@ While touring the @@CAPITAL@@ Decanting Room with a group of dignitaries who wis
 The Debate
 *1. "This is @@RANDOM_FIRST_NAMEFEMALE@@ Crowne," says the Director of Infant Hatcheries, pausing the tour. "And [i]that[/i] is her... sprog. What is the world coming to when a young lady chooses breeding like an uncontrolled lagomorph over healthy, legal recreational relations in the age of vats? I reprimanded her for not getting an abortion, and urge you to launch a campaign to encourage prompt clinic attendance. But now we are stuck with the... results of her laziness. Child Welfare should regularly check on Ms. Crowne; someone who erred so badly is unlikely to make a fit parent." [[color=blue]Must allow abortions[/color]]
 
-*2. “This is @@RANDOM_FIRST_NAMEFEMALE@@ Crowne,” says the Director of Infant Hatcheries, pausing the tour. “And that is her... sprog. What is the world coming to when a young lady chooses breeding like an uncontrolled lagomorph over healthy, legal recreational relations in the age of vats? Sadly, we still lack abortion centres. It’s too late for Ms. Crowne, but we can still build clinics like Aldoustan’s new Abortorama — such pretty pink floodlights, and ice-creams after every procedure — to encourage women to deal with future little problems.” [[color=red]Must not allow abortions[/color]]
+*2. "This is @@RANDOM_FIRST_NAMEFEMALE@@ Crowne," says the Director of Infant Hatcheries, pausing the tour. "And that is her... sprog. What is the world coming to when a young lady chooses breeding like an uncontrolled lagomorph over healthy, legal recreational relations in the age of vats? Sadly, we still lack abortion centres. It's too late for Ms. Crowne, but we can still build clinics like Aldoustan's new Abortorama — such pretty pink floodlights, and ice-creams after every procedure — to encourage women to deal with future little problems." [[color=red]Must not allow abortions[/color]]
 
 3. "This shows a lack of proper conditioning," intones the prim Directress of Neo-Pavlovian Conditioning and Thought Modification. "Good conditioning becomes the sum of an adult mind, and forces the body to comply unawares. Future vats should be engineered so many of our populace is born sterile, with just enough unsterilised ones for future genetic material. If you also grant my department custody of all children, born and future, we'd teach from infancy that obedience is healthy, motherhood obscene and unsterilised women must use contraceptives; we'd also drill women in their use. Our nation will be peaceful, and total obedience will be as automatic as breathing."
 
@@ -16,7 +16,7 @@ The Debate
 
 6. "Ms. Crowne's oopsie proves ze mother-child relationship is most important," insists Dr. Kinder-Schloss, the ambassador of an unpronounceable country beginning with an X and ending with a Y. "Childless vomen feel guilty; zey failed in a major part of ze female identity: ze joy of natural childbirth — und changing ze nappies und viping avay ze vomit. So she goes nuttier zan squirrel turd, ja? To prevent female neuroses, ban ze vats und encourage multiparous mothering vith grants und preferential access to shops und transport only to vomen vith many children."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1341]#1341[/anchor]: Caught Off Guard [Aschenburg; ed: The Free Joy State][/b]
 
 The Issue
@@ -31,7 +31,7 @@ The Debate
 
 4. "Wait! Now I am just a humble ordinary taxpayer," says @@RANDOM_NAME@@, pointing to the oversized, multicoloured badge on his chest that reads [i]Ordinary Taxpayer and Proud of It[/i], "but am I the only one who has the common sense to ask: why do we need a royal division in the first place? I'm not paying for it. We're taxed enough already! If outdated royals want protection, make them work and fund their posh lifestyles like everyone else. They've scrounged enough on the national teat. Let's save a penny or two for Mr and Ms Taxpayer!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1342]#1342[/anchor]: Uni-ted We Roll, Uni-ted We Fall [Fine Television Programming; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -44,7 +44,7 @@ The Debate
 
 3. "Those gas-guzzling rickshaws are a blight on @@CAPITAL@@," counters environmentalist @@RANDOM_NAME@@. "Unicycle shares are a better alternative, but they too have already grown into an oversupplied nuisance. Our parks, beaches and lakes are littered with discarded unicycles! Many @@ANIMAL_PLURAL@@ have already died attempting to swallow the blasted things. Regulations need to be tightened and companies need to be held accountable for creating this mess."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1343]#1343[/anchor]: Feeling Down [Seenvorland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -57,7 +57,7 @@ The Debate
 
 3. "Are you insane?" interjects @@RANDOM_NAME@@, CEO of budget airline EasyBlues. "Do you have any idea how much that would cost us? Do you want to be the one who forces ticket prices up? This all happened because the pilot who crashed the damn plane locked the cockpit when his co-pilot stepped out for a few minutes. Just enact laws that keep both pilot and co-pilot in the cockpit at all times. Cuff them to their seats for the duration of the flight; that'll stop them wandering."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1344]#1344[/anchor]: Ups and Downs [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 3. "Actually, stopping kids having fun sounds like quite a good idea," observes algebra teacher Newt Onslaugh, decorating a pile of x hundred-question mathematics test papers with a total of (sin[sup]2[/sup]([i]x[/i]) + cos[sup]2[/sup]([i]x[/i]))(e[sup]2ln10[/sup])[i]x[/i] red crosses. "Maybe if the government banned trampoline parks and replaced them with mathematics activity centres then these idiot children might be able to raise their academic achievement levels a little."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1345]#1345[/anchor]: To Each According to Whatever's Left [Jutsa; ed: The Free Joy State][/b]
 
 The Issue
@@ -87,7 +87,7 @@ The Debate
 
 5. "The true socialist is independent," shouts your Minister of Agriculture from outside your window, where he is hammering chicken mesh to a fencepost. "From each according to his ability, to each according to his ability. We should make everyone grow their own stinkin' food. Good comrades don't sponge off of the system, at others' expense. We shouldn't have to worry about freak logistics problems. If everyone rose or fell, ate or starved, alone and entirely on their own merits, we'd all be truly equal."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1346]#1346[/anchor]: The Problem With Peyote [Voxija; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -100,7 +100,7 @@ The Debate
 
 3. "Peyote comes from cactuses, right? If we get rid of the cactuses, then no more problem!" suggests your Minister of Babies and Bathwater, sparking a furious debate amongst your aides regarding the correct pluralisation of cactus. "There's a whole bunch of fungal diseases and mealybugs that we can seed across the deserts and mountains — the problem will soon be gone."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1347]#1347[/anchor]: Winning the Genetic Lottery [Anprim island; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -113,7 +113,7 @@ The Debate
 
 3. "There is a third option here," suggests courtier and serial womaniser Bors S. Jonson. "Ask yourself: why do so many of your vassals have a single heir? Because of the way inheritance laws work. Instead, assert that all progeny inherit equally, regardless of relative age and the circumstances of their conception, and the whole problem will soon be divided and conquered."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1348]#1348[/anchor]: Heaven Can't Wait [Maria del Rey; ed: Zwangzug][/b]
 
 The Issue
@@ -132,7 +132,7 @@ The Debate
 
 *6. "This all seems rather foreboding," stammers agoraphobic protester Harry Chapman. "If the Divine had wanted us to visit space, why is it so dark and inhospitable? There's nothing up there but creepy spiders from Mars. We must forbid all flying machines from the @@DEMONYM_ADJECTIVE@@ skies; only then will we be safe from the terrors of the air." [[color=blue]Airplanes are legal[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1349]#1349[/anchor]: You Must Be 18 Years or Older to View This Content [Noahs Second Country; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -149,7 +149,7 @@ The Debate
 
 5. "The root of this problem is the accessibility of these websites," claims your IT support technician Nathan Feilder, restarting your computer again. "Why not implement internet-wide filters for adult websites? Only users who have verified their age to the government through their ID and other documents may get past these barriers. Yes, the government should require licenses of people who want to watch that kind of stuff. And to be honest, @@LEADER@@, we know that basically everyone is going to need that license, wink wink. So imagine all the money you could make from the fees for these licenses, which of course should go toward funding my department."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1350]#1350[/anchor]: The @@DEMONYM_NOUN_PLURAL@@ Are Coming! [Nuremgard; ed: The Free Joy State][/b]
 
 The Issue
@@ -166,7 +166,7 @@ The Debate
 
 5. "Or we could just forget the whole thing," suggests your weary Secretary of the Treasury, as she stares at a globe with a magnifying glass. "I mean, armies tromp around, claiming land for @@NAME@@ without any thought of the consequences. Do you have any idea how much it costs to maintain a colony? Resources are stretched thin as it is. Taxpayers at home don't want to be subsidising a place they can't even point out on a map, and the colonies don't want to be subsidised. Besides, imperialism is so old-fashioned. Let's embrace the modern era, put this empire nonsense behind us and save some money."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1351]#1351[/anchor]: Come Give @@LEADER@@ a Kiss! [Daarwyrth; ed: Sanctaria][/b]
 
 The Issue
@@ -181,7 +181,7 @@ The Debate
 
 4. "You know, those activists did get one thing right," your Press Secretary and self-proclaimed number one fan says, lovingly stroking a photo of the two of you locked in an embrace. "By spreading your likeness all across @@NAME@@, it will lift up our citizens with inspiration and hope. Surely only great things would happen if your visage could be seen in every painting, sculpture or image throughout the country! You must make it so that all artwork in @@NAME@@ can only depict you."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1352]#1352[/anchor]: The Brains Behind Kuru [Electrum; ed: Zwangzug][/b]
 
 The Issue
@@ -194,7 +194,7 @@ The Debate
 
 3. Your brother, sensing an opportunity, pages through the book. "This says that symptoms of kuru include body tremors, outbursts of laughter, and poor coordination. Basically, the average dimwitted fast food worker. Round up the diseased and consign them to fill society's most dangerous and undesirable jobs - if they die, well, it was going to happen anyways. Then, we can harvest their meat and neurological tissue to generate a never-ending supply of 'zombies.'"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1353]#1353[/anchor]: The Birds and the Plan Bs [Electrum; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -210,7 +210,7 @@ The Debate
 4. "Why don't you simply make it mandatory for men to have a vasectomy after the first time they father a child?" asks your niece, her chef's knife blurring with speed as she deftly slices a cucumber for her packed lunch. "That way, you can keep both the one-child policy and the ban on abortion. Everyone wins."
 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1354]#1354[/anchor]: The One-Trick Pony [Jutsa; ed: The Free Joy State][/b]
 
 The Issue
@@ -225,7 +225,7 @@ The Debate
 
 4. "Meow!" trills Ms. Snuggleworth, pushing off all the papers on your desk aside from a bill proposing her 'Animal Personhood (Except Icky Dogs)' agenda be made policy nationwide. Purring persuasively, she curls up in your lap.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1355]#1355[/anchor]: Feeling Null [Krusavich; ed: Zwangzug][/b]
 
 The Issue
@@ -238,7 +238,7 @@ The Debate
 
 3. "Well, @@HE_1@@ has a point," admits software engineer @@RANDOM_NAME@@, loudly clacking away at @@HIS@@ laptop. "While the MAGPI Intelligence probably wasn't supposed to be running a warehouse, they definitely aren't supposed to be having existential crises. I'm sure my team and I can find the bug and patch out the depression in a firmware update. The funding might be expensive, but they'll definitely stop complaining once we're done."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1356]#1356[/anchor]: The Silicon Curtain [Guaylandia; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -247,7 +247,7 @@ Microshaft Windoors, a common operating system used on computers throughout @@NA
 The Debate
 *1. @@RANDOM_NAME@@, your Minister of Information Technology, hands you a 300-page plan filled with incomprehensible computer jargon. "I propose that we create our own operating system from scratch. Just give us a lot of funding and a few weeks and we can develop a new set of software that is not only @@DEMONYM_ADJECTIVE@@, but also has a more elegant architecture." [[color=red]Must not have Private Industry][/color]]
 
-*2. @@RANDOM_NAME@@, CEO of @@NATION@@'s largest technology company, hands you a 300-page plan filled with incomprehensible computer jargon. "I propose that you let us write our own operating system from scratch. Just give us some large subsidies and a few weeks and we can develop a new set of software that is not only @@DEMONYM_ADJECTIVE@@, but also has a more elegant architecture." [[color=blue]Must not have Private Industry][/color]]
+*2. @@RANDOM_NAME@@, CEO of @@NATION@@'s largest technology company, hands you a 300-page plan filled with incomprehensible computer jargon. "I propose that you let us write our own operating system from scratch. Just give us some large subsidies and a few weeks and we can develop a new set of software that is not only @@DEMONYM_ADJECTIVE@@, but also has a more elegant architecture." [[color=blue]Must have Private Industry][/color]]
 
 3. "I doubt that a quality operating system can be made from scratch in a only few weeks; it'll take years!" squeals tech-savvy bon vivant @@RANDOM_NAME@@. "And we can't just wait several years for you to develop a new operating system. It'll cripple our economy! And I want the latest releases! Just let us use foreign software on our computers if we want to. Say, I also miss those United Federation cartoons... In fact, why don't you just end this 'self-sufficiency' policy entirely?"
 
@@ -255,7 +255,7 @@ The Debate
 
 5. One of your oldest advisors suddenly opines after defenestrating a computer: "Back in my day, we had a prosperous economy without any computers. Those devices just make the citizens desire things that are outside @@NATION@@, not good for autarky. And it seems that trying to shoehorn software into our autarky is more trouble than it's worth, so let's just ban computers altogether and then there won't be a problem. Anything for autarky!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1357]#1357[/anchor]: Scattered Showers [Omniabstracta; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -266,20 +266,22 @@ The Debate
 
 *2. "A sign! A sign!" chants @@RANDOM_MALE_NAME@@, chairman of the Joint Society for the Worshipers of Miscellaneous Sky Deities. "For too long have we attempted to pierce the firmament, and those on high have finally cast back those vile toxins with which we have so desecrated their home! You must cancel this so-called 'space program' at once, and tear down these towering monuments to the hubris of man." [[color=purple]High religiousness[/color]]
 
-*3. “A sign! A sign!” chants @@RANDOM_NAME@@, the tinfoil-clad chairperson of the Joint Society of Ufologists and Xenobiologists. “For too long have we attempted to pierce the realm of our alien betters, and those on high have finally cast back those vile toxins with which we have so polluted their home! You must cancel this so-called ‘space program’ at once, and tear down these towering monuments to the hubris of man.” [[color=purple]Low religiousness[/color]]
+*3. "A sign! A sign!" chants @@RANDOM_NAME@@, the tinfoil-clad chairperson of the Joint Society of Ufologists and Xenobiologists. "For too long have we attempted to pierce the realm of our alien betters, and those on high have finally cast back those vile toxins with which we have so polluted their home! You must cancel this so-called 'space program' at once, and tear down these towering monuments to the hubris of man." [[color=purple]Low religiousness[/color]]
 
 4. "Such backwards ignorami would have us riding by fenling-drawn cart if they could," scoffs Space Agency chief @@RANDOM_FEMALE_NAME@@, proudly displaying her bodily constellation of tumors. "Scientific knowledge is to die for. If we are truly to conquer the final frontier, we need more nuclear power up there, not less. Ergo, full scale reactors, nuclear engines, pulse drives, everything! [i]Per tabes, ad astra[/i]!"
 
 [5]. "And trust the government with this stuff even more?" interjects eccentric entrepreneur Ulene Murst, scrambling out of a sudden hole bored out from your office floor. "The problem here is, once again, the irresponsible state. We'd have far fewer of these 'accidents' if the space program had proper shareholders and investors to answer to. Privatize the space industry — let the hand of the free market loft us ever upwards." [[color=blue]Must have private industry[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1358]#1358[/anchor]: Who's In Your Wallet? [Lancaster of Wessex; ed: The Marsupial Illuminati][/b]
 
 The Issue
 After some years in circulation, it's time for a new set of banknotes to be issued in @@NAME@@. With a growing rumbling of dissatisfaction among segments of society who are unhappy with the lack of diversity of those depicted on the current notes, your ever-besieged office is now besieged by numismatic malcontents wanting to have their say.
 
 The Debate
-1/2. "Every time I open my wallet, I see the same old dead farts staring back at me," bemoans @@RANDOM_FIRST_NAME@@ Crane, ringleader of the aptly named [i]Got Change?[/i] movement, whilst waving a wad of notes about. "Let's face it, this country has changed a lot since these people were slapped on our notes — but we've had the same people on them since the stone age! We need to depict minorities and women, and celebrate unsung heroes like authors and scientists! Show the world who truly made @@NAME@@ great!" [1: [color=red]Must not have internet[/color] | 2: [color=blue]Must have internet[/color]]
+*1. "Every time I open my wallet, I see the same old dead farts staring back at me," bemoans @@RANDOM_FIRST_NAME@@ Crane, ringleader of the aptly named [i]Got Change?[/i] movement, whilst waving a wad of notes about. "Let's face it, this country has changed a lot since these people were slapped on our notes — but we've had the same people on them since the stone age! We need to depict minorities and women, and celebrate unsung heroes like authors and scientists! Show the world who truly made @@NAME@@ great!" [[color=red]Must not have internet[/color]]
+
+*2. "Every time I open my wallet, I see the same old dead farts staring back at me," bemoans @@RANDOM_FIRST_NAME@@ Crane, ringleader of the aptly named [i]Got Change?[/i] movement, whilst waving a wad of notes about. "Let's face it, this country has changed a lot since these people were slapped on our notes — but we've had the same people on them since the stone age! We need to depict minorities and women, and celebrate unsung heroes like authors and scientists! Show the world who truly made @@NAME@@ great!" [[color=blue]Must have internet[/color]]
 
 3. "By Violet's ponytail, is nothing sacred?" decries staunch conservative @@RANDOM_FIRST_NAME@@ de la Rue, frantically waving a small @@DEMONYM_ADJECTIVE@@ pennant. "First they came for our national anthem, then our holidays, now even our cash has to be changed to coddle the feelings of these kooks! Well, no more I say, the buck stops here! It should be a crime even calling for the alteration of our national symbols, customs, and institutions!"
 
@@ -289,7 +291,7 @@ The Debate
 
 6. Finally, your mother chimes in with more of her infamous unsolicited advice. "Now, now dear. I know your little niece wants some famous nickelodeon personae on our bills, and some other chaps want esteemed alchemists and so on. But why not just please everyone and have nobody shown on our notes? Avoid controversy this way. Just put happy little trees, or @@A@@ @@ANIMAL@@, celebrating the nature of our beautiful country. Wouldn't that just be lovely to have cute, little @@ANIMAL_PLURAL@@ smiling back at you every time you go to pay for your morning tea and porridge?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1359]#1359[/anchor]: Covering All the Angles [Pythaga; ed: Zwangzug][/b]
 
 The Issue

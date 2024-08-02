@@ -10,7 +10,7 @@ The Debate
 
 3. "I have a fabulous idea, fearless leader!" trumpets your Minister of Propaganda. "Patronise the best female artists with government contracts, and mandate that they be displayed in all galleries and public spaces. However, they should only be sculpting statues and painting portraits of the most important person in this nation... You, @@LEADER@@!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1221]#1221[/anchor]: Man of the People [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -23,7 +23,7 @@ The Debate
 
 3. "We absolutely should let my honourable colleague make a fool of @@HIM@@self," says @@RANDOM_NAME@@, your Minister of Spin. "In fact, we should make a point of directing our politicians to feature in mindless lowbrow drivel like this as often as possible. When the masses are laughing at us they won't notice as we tighten our grip on the country. Laughter breeds complacency, and complacency opens the door to control."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1222]#1222[/anchor]: Family Matters [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue
@@ -36,7 +36,7 @@ The Debate
 
 3. "Perps cannot be allowed to take the law into their own hands," says police officer Joe De Redd, knocking the crime boss down with his police baton. "The system works. We the police, act as judge, jury and — if we see fit — executioner. We arrest, pass sentence and administer any punishment we choose, no matter how painful. Crime bosses, citizens seeking illegal arbitration, underground street lawyers — they all need to respect the law. I am the Law."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1223]#1223[/anchor]: Courting Bankruptcy [Nuremgard; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -53,7 +53,7 @@ The Debate
 
 *5. "Listen to all you idiots!" shouts ardent republican activist @@RANDOM_NAME@@. "What century are you all living in? We shouldn't be spending any public money on these damn parasites! One inbred family should not be able to live a life of privilege and luxury at the expense of everyone else. I say we abolish the monarchy and spend the money we would have spent on them on services instead. [i]Vive le republique![/i]" [[color=purple]Must be an absolute monarchy[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1224]#1224[/anchor]: Shine On, You Crazy Diamond [Verdant Haven; ed: Altmer Dominion][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 5. "This obsession with extravagance is unhealthy," admonishes noted ascetic @@RANDOM_NAME@@. "Fake? Real? Why does it matter in the end? We must look to the soul of @@NAME@@, and pull back from this worship at the altar of luxury. Renounce riches, renounce commercialism, and encourage the people to do the same. Only in this way shall we reach enlightenment."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1225]#1225[/anchor]: The Rumors, They Fly [USS Monitor; ed: Candlewhisper Archive[/b]
 
 The Issue
@@ -85,7 +85,7 @@ The Debate
 
 4. There is a pecking sound at the window, and your secretary opens it, allowing a pigeon to fly in and deposit a note on your desk, which reads: "This country would be a much more pleasant place if we didn't have to choose between shoveling your government's waste or cleaning up bird droppings. People have plenty of legitimate reasons to criticize the government, so why don't you just let us do so, and maybe you won't have to clean the statues in @@ANIMAL@@ Park so often?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1226]#1226[/anchor]: Unintelligent Oversight [Valrifell; ed: Altmer Dominion][/b]
 
 The Issue
@@ -100,7 +100,7 @@ The Debate
 
 4. "Hold on a second," hisses what you could have sworn was just a regular office plant only a moment ago. "It's me, Agent @@RANDOM_NAME@@. I have good word that East Lebatuck has already perfected mind control shampoo AND conditioner. If we want to match this threat, you have to let us do our thing — which would be easier if you stopped breathing down our necks with spurious 'national budget reports'. It's time to truly go toe-to-toe with our rivals, one household appliance at a time."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1227]#1227[/anchor]: Girls on Film [Candlewhisper Archive; ed: Baggieland][/b]
 
 The Issue
@@ -115,7 +115,7 @@ The Debate
 
 4. "These are bad people," offers the accused maid, eyes to the ground. "Many of my friend also have bad employer, @@LEADER@@, please allow us the right to quit a job and look for better employer. No more stuck with visa sponsor. I come work for you instead? You are nice person, I can be good maid for nice person."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1228]#1228[/anchor]: The Road to Hell [Baggieland; ed: Baggieland][/b]
 
 The Issue
@@ -128,7 +128,7 @@ The Debate
 
 3. "My little niece has a license now? That's so cool!" exclaims your brother, who is your niece's favourite uncle. "Hey girl, leave these squares to finish their dinner by themselves. Let's go for a spin in my car, you can drive, show me how you passed your test! In fact, we should show that sibling of mine that the government should do away with licenses altogether; learning by doing is always the best teacher!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1229]#1229[/anchor]: Crystal Clear Sinuses [Candensia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -143,7 +143,7 @@ The Debate
 
 4. "I mean, the whole making meth at home thing is not as easy as certain TV shows would have you believe," complains your nephew, rapidly finger-tapping a repeating pattern because of his drug-induced OCD. "Why don't you just legalise methamphetamines, and users can then buy crystal meth from proper suppliers who know what they're doing."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1230]#1230[/anchor]: Home Hunger [Chan Island; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -158,7 +158,7 @@ The Debate
 
 4. "If they miss their native cuisine so much, then why don't they just go home?" an old @@MAN@@ complains. "We don't need any of their foreign muck which I bet tastes awful anyway! Importing food was a massive security risk, and now I think so is importing people. Send them all back to whatever war-torn hellhole they came from, and keep the doors shut!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1231]#1231[/anchor]: Save Our Souls [The Free Joy State; ed: The Free Joy State][/b]
 
 The Issue
@@ -175,7 +175,7 @@ The Debate
 
 5. "Gullivad is in real crisis!" cries the Minister of Disestablishmentarianism. "The children of the liberal Shrinking Violetist group are being stolen from their parents, Pastafarians are forced to slave twenty hours daily in the potato fields and the Faithologists have lost their tax break — okay, that was a bad example. We must open our arms and nation's borders to all those in need. Just think about all the prayers the government has wasted, poking our noses into people's private beliefs! All the money @@NAME@@ currently spends on religion could be better used to invest heavily in the welfare system and welcome all who face poverty, pain or peril."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1232]#1232[/anchor]: I've Got 99 Problems but @@FAITH@@ Ain't One [Altmer Dominion; ed: Zwangzug][/b]
 
 The Issue
@@ -194,7 +194,7 @@ The Debate
 
 6. "Fascinating," mutters one of your aides, while browsing Luthor's manuscript. "With all due respect, the guy makes good points. It's not like he's starting a new religion — he genuinely seems to want the best for @@FAITH@@. You should make Luthor your primary spiritual adviser and let him take a stab at the kind of reform he's asking for. Maybe he'll realize it's not that easy once he's pulling the strings."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1233]#1233[/anchor]: Get Real! [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -209,7 +209,7 @@ The Debate
 
 4. "Participants on those shows beg for ridicule," snorts your brother. "Oh, my partner doesn't love me. Oh, I don't like my haircut. Oh, dear, I'm dying. Wah-wah! But, picture this: [i]@@LEADER@@'s Court[/i]! A new talk show, starring us, and forcing whoever we want to humiliate to feature as victims. You would expose and arbitrate their worthless lives, and whoever we didn't like would be ridiculed. Say someone once said something bad about you? Bam — they're trash, booed into submission by a pre-selected audience. Citizens will soon learn that it's safest to automatically agree with you."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1234]#1234[/anchor]: I Declare a Thumb War [Verdant Haven; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -224,7 +224,7 @@ The Debate
 
 4. "Whoever wrote this must have been all thumbs... I don't think our government can really be held accountable for it," weasels your Minister of Exceptions. "It's so badly written, I practically need a translator to read it! Just tie it up in court with endless challenges to what each word means — I'm sure it'll get thrown out eventually."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1235]#1235[/anchor]: Good Guy With a Gun [Candlewhisper Archive; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -239,7 +239,7 @@ The Debate
 
 4. "Uh, we could try not letting people have these devices designed to murder and maim," ventures a long-haired hippy, insensitively disrespecting the dead by launching into yet another tirade of typical freedom-hating, commie, anti-gun ranting. It's possible @@HE@@ has more to say on this, but to be honest, no-one's listening.
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1236]#1236[/anchor]: Being Honest [USS Monitor; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -254,7 +254,7 @@ The Debate
 
 4. "Hey, what if we took this a step further?" says @@RANDOM_FIRST_NAME@@ @@MOTTO@@ @@RANDOM_LAST_NAME@@, one of your party's more creative campaign strategists and successful parliamentarians. "As we're listing names on the ballot, why don't we have all our party's candidates change their middle names just before the election to emphasise our key policies. We can use that space like a miniature campaign poster. Like my name, for example, would be Elsa 'Friendship ; Cow ; Moo' Bone. How could people resist voting for that?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1237]#1237[/anchor]: A Polar Bear's Tale [Australian rePublic; ed: Baggieland][/b]
 
 The Issue
@@ -267,7 +267,7 @@ The Debate
 
 3. "Excuse me, but you seem to be forgetting that these people broke the law," reminds goggleless Chief of Police @@RANDOM_NAME@@, taking care to stand 51 cubits from the fire hose. "I don't care how 'stupid' you think it is: the fact of the matter is that these people disobeyed the law! Sentence them as they would have been punished when these laws were written!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1238]#1238[/anchor]:  No Shoes, No Service [Sacara; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -280,7 +280,7 @@ The Debate
 
 3. "Bl-euch! These foot-worshippers and toe-fetishists make me sick!" gags your Minister of Standards, adjusting @@HIS@@ pink-and-green three-piece suit and yellow suede brogues. "I say that allowing people to dress so sloppily is ruining the very fabric of @@NAME@@! You must demand that everyone should wear smart shoes at all times when in public. It's about professionalism and decency, don't you know?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1239]#1239[/anchor]: The Walking, Talking, and Irritated Dead [Window Land; ed: Baggieland][/b]
 
 The Issue

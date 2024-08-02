@@ -10,7 +10,7 @@ The Debate
 
 3. "HOW DARE THEY!" screeches @@RANDOM_NAME@@, a self-professed eco-warrior, wielding an elaborately carved battle staff made out of the highly endangered @@DEMONYM_ADJECTIVE@@ pine. "These evil corporate schemers, planning to destroy the world just to gain wealth! The only way we can keep our parks safe is by allowing not a single person - yes, you heard me - not a single person into them. They need to be off-limits to the inherently greedy, destructive natural tendencies of humans. @@LEADER@@, let me raise a posse of good and green men to guard our forests and bring the sword to any desecrating capitalist pig who dares enter."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=641]#641[/anchor]: Dirty Little Minds [Candlewhisper Archive; ed: Lenyo][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 4. "Creative thinking is the answer," schemes an intimidating 'solutions manager,' @@RANDOM_NAME@@. "We can keep making pollutants, so long as we don't let them get into our nation's environment. I've got half a dozen amazing ideas, from selling our waste to gullible third world nations as fertilizers, to sticking some of the nastier chemicals into a newly rebranded 'smokey-cola' and pushing it to export. All extra sludge can just be dumped at sea - far, far away from @@NAME@@. Recategorize waste as product, and we can get it out of the country at a nice profit."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=642]#642[/anchor]: This Way's Kinder [Uberreichland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -38,7 +38,7 @@ The Debate
 
 3. "What have the schools been teaching my son?" yells angry mother @@RANDOM_FEMALE_NAME@@ as she drags her spotty teenage sprog into your office. As your guards attempt to remove her, she employs some impressive ju-jitsu to send them flying. "He has turned into an obsessed robot, with more respect for @@LEADER@@ than for his own parents! I will not let my son join an organisation for brainwashed punks! I will not let you do this to anybody's children! We, the people, say no to state-directed youth organisations!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=643]#643[/anchor]: No Small Wonder [Henuld; ed:  Nation of Quebec][/b]
 
 The Issue
@@ -49,13 +49,13 @@ The Debate
 
 2. "Why not aim just slightly higher?" asks Anais Skywalker, CEO of Colossal Works Industries, while putting an arm around your shoulder and pointing to a hole in your ceiling you hadn't noticed previously. "Instead of the conventional skyscraper, we could build a space elevator? We have enough money, resources, and initiative to make sure our @@TYPE@@ is the first to develop one! We'll need to overcome some tricky technical challenges, but such is the burden of the true pioneer! It'll benefit us in space exploration, and that will serve to strengthen the legacy of our golden age!"
 
-3."Have you ever heard of the saying 'too tall to fall?'" inquires Hugh Mongo, another CEO of a large construction company, who barely fits through your doorway. "Or was it 'too big to fail?' Anyway, I think that the answer to mark @@NAME@@ successes is not with something tall, but great. And by great, I mean wide, like a ziggurat or a pyramid. It's waaay safer than some thousand-story death trap, but it will last for thousands of years without any expensive maintenance. How's that for a fair bargain?"
+3. "Have you ever heard of the saying 'too tall to fall?'" inquires Hugh Mongo, another CEO of a large construction company, who barely fits through your doorway. "Or was it 'too big to fail?' Anyway, I think that the answer to mark @@NAME@@ successes is not with something tall, but great. And by great, I mean wide, like a ziggurat or a pyramid. It's waaay safer than some thousand-story death trap, but it will last for thousands of years without any expensive maintenance. How's that for a fair bargain?"
 
 4. "Psh," scoffs @@RANDOM_NAME@@, one of your more casual advisers, as she rolls her eyes. "It's true that @@NAME@@ has reached its zenith, but there is such a thing as modesty. In fact, we could very well do with regulations on the tall and big buildings we already have instead. They are symbols of arrogance, acrophobia... and suggestive imagery. Have you ever seen what the @@CAPITAL@@ Building resembles from a certain angle?"
 
 5. "What's with @@NAME@@'s obsession with making things all big and futuristic? Compensating for something?" mocks @@RANDOM_NAME@@, a gaudy Marche Norian artist-architect. "In Marche Noire we pride ourselves on our spectacular construction projects, some of which are still standing after a thousand years. Our buildings have an ageless and classical beauty to them as opposed to your modern monstrosities. Take a look at our majestic Maxmillia Familia. Granted it's been under construction for a hundred years, but it's a far sight prettier than anything proposed here. Take a lesson from the pros, people."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=644]#644[/anchor]: The Old Grey Matter [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -72,7 +72,7 @@ The Debate
 
 5. "If they're healthy and capable, shouldn't they be in the workplace?" asks tax-paying twenty-something @@RANDOM_NAME@@. "Let's do away with the idea of pensions and retirement, then they can keep contributing economically instead of spending their time pottering about, interfering with everything and asking their grand-kids when they're going to settle down and stop traveling. Or something."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=645]#645[/anchor]: An Unwarranted Intrusion [North China and New India; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -86,7 +86,7 @@ The Debate
 
 3. "We do need warrants for sure, but sometimes officers see something that causes them to make a split second decision, when they have act immediately for the common good, without going through all the proper steps first," says Chief @@RANDOM_NAME@@ of the @@CAPITAL@@ Police Department. "I think we should judge breaks in protocol by the results. If the suspects were hiding something, then no problem. But if it the officer finds nothing, then we have to judge whether their actions were reasonable, or illegal."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=646]#646[/anchor]: Lesson Learnt [Kynotsu ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -100,7 +100,7 @@ The Debate
 
 3. "Look, lack of formal education doesn't mean criminals are ignorant, just that they have specialised skills," observes primary schoolteacher @@RANDOM_NAME@@, handing out [i]'You're Special Too!'[/i] stickers to everyone in the room. "Rather that starting from scratch, why not recognise what skills they have and try to find them suitable work? Murderer? Put that killer instinct to use in the army. Arsonist? Get that knowledge of fire into supervising controlled forest fires. Burglar? Re-purpose those skills in climbing and fine motor control into telephone line repair. It's all about valuing people for who they actually are."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=647]#647[/anchor]: Songbirds' Decline Ruffle Feathers [Ransium; ed: Nation of Quebec][/b]
 
 The Issue
@@ -117,7 +117,7 @@ The Debate
 
 5. "What if we trained the birds to stop migrating?" warbles the somewhat unhinged bird fancier known as 'The Bird Lady', seen wearing a giant bird costume, and whose number you've been meaning to give to 'Doctor Bees'. "I love it here, and migratory songbirds should too! All we have to do is get baby birds to imprint on government handlers, and then teach the birds to fly around @@NAME@@ in circles. Then we'll be able to keep them to ourselves, protect them, and give the birds the love they need all year round. It'll be a lark!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=648]#648[/anchor]: Confessions of a Dangerous Mind [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -130,7 +130,7 @@ The Debate
 
 3. "Holy laws do indeed transcend the puny rules of the mundane!" declares the elderly former leader of [i]The Flying Suns UFO[/i] cult, emerging from his underground bunker for the first time in decades. "Laws of faith come straight from infallible divinity, not from weak and fallible Man! All religions understand this truth, no matter who they worship, so all religions must have the right to put their holy beliefs ahead of mortal law. If you do not heed this warning, you will all perish in a fiery hell-storm when the Ancient Discs of Mu return from beyond the stars!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=649]#649[/anchor]: Made In Maxtopia [Siarki; ed: Lenyo][/b]
 
 The Issue
@@ -147,7 +147,7 @@ The Debate
 
 5. "There's an easier way to appease the masses," whispers your Minister of Foreign Trade, @@RANDOM_NAME@@, while handing you the latest briefs. "Let's keep importing things from other nations, but we can pretend that everything was made in @@NAME@@. Put flag stickers on every conceivable product, tell the people that we're self-sufficient, and beef up the security at all ports. Then bam: the customers are happy, the department stores are happy, and our economy can keep importing essential resources. And of course anyone that mentions our hypocrisy aloud will be... punished."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=650]#650[/anchor]: Political Hacks [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Issue
@@ -163,7 +163,7 @@ The Debate
 
 4. "Why not disown this [i]Trolls From @@CAPITAL@@[/i] and state that [i]Kwikileaks[/i] is in the pockets of East Lebatuck?" suggests your easily distracted Minister of Technology while playing [i]Maxémon Woah[/i] on her phone. "This gives you more wiggle room to allow these groups to fight it amongst themselves. So what if they end up starting a few international incidents or if those reds in East Lebatuck retaliate? What's the worst that could happen?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=651]#651[/anchor]: Black Days For @@NAME@@ [The United Providences of Perland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -176,7 +176,7 @@ The Debate
 
 3. "Or, we could have a slight compromise," states @@RANDOM_NAME@@, head of contractor firm [i]International Retail Security[/i]. "The presence of trained security professionals can achieve up to seventy-five percent fewer deaths in-store! You should allow these 'super sales', but require stores to hire private security to make sure no one kills each other. That way, the business owners get to make lots of @@CURRENCY_PLURAL@@, but the public stays safe."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=652]#652[/anchor]: Mayday! Mayday! [Outer Sparta; ed: Nation of Quebec][/b]
 
 The Issue
@@ -193,7 +193,7 @@ The Debate
 
 5. "I know a perfect solution!" joyously suggests train enthusiast @@RANDOM_NAME@@. "The solution is to ban all airplanes! Not only are they clearly unsafe, they're loud, ugly, and are a big contributor to greenhouse gases! Surely we can rely on safer transportation, like trains or boats, for travel. They're much less susceptible to delays, crashes, and only a fraction of a pollutant compared to planes! All we need is more funding for public transit. You call them slow. I call them scenic."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=653]#653[/anchor]: A Cloak And Syringe Operation [Ransium; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -206,7 +206,7 @@ The Debate
 
 *3. "You can't do that!" gasps Dr. Claude Borel, a member of the international non-governmental organization [i]Doctors Without Quarters[/i], who's been crashing in one of your guest bedrooms for the past few weeks. "In a few years, our program may be able to eradicate Spoon Pox entirely. And it's not just Spoon Pox... we've been vaccinating against other preventable diseases too, like Yellow Tongue and the dreaded Bendy Creaks. Your deceptions risk the credibility of all international medical aid efforts, and could set public health back by decades!" [[color=red]Must ban computers OR internet[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=654]#654[/anchor]: Not So Cool Aid? [Gnejs; ed: Nation of Quebec][/b]
 
 The Issue
@@ -221,7 +221,7 @@ The Debate
 
 [4]. "Why do we care about poor people in places we can't pronounce anyway?" your brother asks frankly, stabbing a virtual beggar in his Panty Theft Auto video game. "Those images of starving children are so passé, and no amount of conscience-cash is going to change a thing. Use that money to prop up some of our domestic industries, like, I don't know, video games, maybe? It's just a matter of time before the problem fades away, I mean, like literally!" [[color=blue]Video games are legal[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=655]#655[/anchor]: No Bones About It [ProPublica; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -237,7 +237,7 @@ The Debate
 *4. "This raises an interesting point," muses patriotic soldier @@RANDOM_NAME@@. "I hear these dinosaurs were gigantic, killer monsters that ate flesh and struck fear into all who opposed them! Forget the bones of the past - you should be resurrecting those beasts to attack the enemies of @@NAME@@. Imagine a pack of hungry Velociraptors, tearing apart your terrified foes!" [color=purple]Must not have Dinosaurs[/color]]
 
 *5. "I'm kind of not seeing the big deal here," says dino-wrangler Ewen Grady, riding an impressively large and flatulent [i]pentaceratops[/i] into your presence. "I mean, it's just a theropod skeleton. We got a few living and breathing theros, including some of this species. Tell you what, boss, I'll donate the museum some new bones, and in return maybe you can subsidise our [i]apatosaurus[/i] ranch?" [[color=purple]Must have Dinosaurs[/color]]
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=656]#656[/anchor]: Ransoms Noted [The United States of Merca; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -252,7 +252,7 @@ The Debate
 
 4. "You know, one of the hostages is the son of one of our closest media allies..." murmurs @@RANDOM_NAME@@, one of your policy advisors. "Can't we publicly take a firm stance against terrorism, but privately strike a hush-hush deal with the terrorists? We can trade arms to them on the quiet, and they can make sure that they don't hurt anyone [i]important[/i]."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=657]#657[/anchor]: Put A Fence Around The Commons Floor? [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -265,7 +265,7 @@ The Debate
 
 3. "I have a solution that renders the whole problem of floor-crossing moot," interjects independent politician @@RANDOM_FEMALE_NAME@@ from the back of the crowded room, hoping you'll notice her. "Why don't we simply scrap all political parties and have every politician run as an independent? Think about it! Partisan loyalty is a barrier to true freedom. Let politicians campaign on their individual merits, and represent no-one but themselves."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=658]#658[/anchor]: A Sickening Dilemma [Ransium; ed: Nation of Quebec][/b]
 
 The Issue
@@ -280,7 +280,7 @@ The Debate
 
 4. "I've been thinking," posits @@RANDOM_NAME@@, who happens to be a Rubellan Measles survivor, "maybe this whole thing isn't as bad as everyone is making it out to be? I mean sure lots of people are dying, but what about survival of the fittest, and all that? The end result from all this will eventually be a more disease resistant populace. Too much medical spending is wasted on keeping those alive that, to be perfectly frank, nature and genetics doesn't intend to let live."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=659]#659[/anchor]: Ramping Up The Difficulty [Singapore no2; ed: Nation of Quebec][/b]
 
 The Issue

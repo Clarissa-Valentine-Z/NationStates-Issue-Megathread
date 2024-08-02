@@ -12,7 +12,7 @@ The Debate
 
 4. "Bah, humbug! What utter nonsense!" retorts Ebenezer @@RANDOM_LAST_NAME@@, your Minister for Information. "Nobody should believe in non-scientific ideas like prophecy or astrology, or religion in general, anyway. What we need is a public education campaign against such concepts - then it won't matter if some child coincidentally does match the supposed forecast."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1121]#1121[/anchor]: Tribes and Tribulations [Nation of Quebec; ed: The Free Joy State][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 [4]. "We must forgive these poor, unfortunate souls for their actions and help them!" pleads televangelist @@RANDOM_NAME@@ after handing your uneasy interns a brochure about @@FAITH@@. "From what I hear, this tribe is ruled by shamans and witch doctors! If only they had the chance to hear the word of the Creator, whose words transcend even a lack of common language, they will cease their violent ways. All we ask is for some modest funding to send out expeditions so that these tribes can feel the love of @@FAITH@@!" [[color=purple]Must have unlocked @@FAITH@@, and set with a name in Settings; Religiousness threshold?[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1122]#1122[/anchor]: [color=goldenrod]Easter Egg[/color]: Just Say No to E [Zwangzug; ed: Zwangzug][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 4. "You must call for a manhunt!" barks cop Harold Callahan, flashing a shiny star at you. "Our boss is too important an individual for us to abandon to who-knows-what shady mishap. But don't worry, our policing can do this job. Or, as a backup plan, find his body anyway."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1123]#1123[/anchor]: Til Death Do Us Part [Sacara; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 3. "If only the deceased had been made to donate prior to his death, then we wouldn't have to deal with this problem now," rebukes your radical Minister of Forward Thinking while looking at a diagram of the male body. "Young males across the nation should be required to contribute their spermatozoa to our department. With all the reproductive material, we could start a National Sperm Bank, ready to provide sperm to anyone who needs it. Fun!" 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1124]#1124[/anchor]: Signing Off, Your God [Fauxia; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 4. "If I may, Most Gracious @@LEADER@@, it seems to me that a sign would defeat the purpose," states a progressive young cultist. "Those who only believe in your divinity because of a sign do not have true faith in your sublime providence; they only fear your divine justice. Perhaps, in your mercy, you might allow freedom of religion and choose not to display your power, so that the people can have the chance to experience other faiths and realize how shallow they are. They will know how glorious and merciful of a deity you are. If they still don't believe in you after your show of magnanimity, well, then you would have separated the wheat from the chaff and the faith will be purer for it."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1125]#1125[/anchor]: Blowing Smoke [Ransium; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -83,7 +83,7 @@ The Debate
 
 3. "You could just designate public smoking areas across @@NAME@@," shouts @@RANDOM_NAME@@ from a small park across the street from your office, though you struggle to hear her over the din of the rain. "People who don't want to be exposed to smoke can avoid them and smokers don't have to be so inconvenienced."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1126]#1126[/anchor]: Waste of Time [Candlewhisper Archive; ed:Candlewhisper Archive][/b]
 
 The Issue
@@ -96,7 +96,7 @@ The Debate
 
 3. "I think what we're trying to say here is that you knew all along that the problem was solved," weasels smug-faced vizier @@RANDOM_NAME@@. "However, you've found a more appropriate and elegant solution for the sewage dilemma, which admittedly costs more than the existing solution and may back up the occasional toilet, but which is superior for politically expedient reasons that mere sewage engineers and plumbers could not hope to understand. I will assemble workers, and order the old system to be replaced, immediately."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1127]#1127[/anchor]: The Fast and the Fossilized [Szargia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -109,7 +109,7 @@ The Debate
 
 3. "Oi, let me talk!" yells Dan Jerrus, a youth who recently drove his hatchback into the back of a sharply-braking nonagenarian's camper van. "These old crones shouldn't be allowed on the road, full stop. Just look what they did to my car! You should ban anyone over the age of fifty from driving. Leave the roads to responsible younger people."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1128]#1128[/anchor]: Get Thee Behind Me, Santa [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue
@@ -126,7 +126,7 @@ The Debate
 
 5. "Heh, why is everybody so angry?" asks your brother, popping a dislodged tooth under his pillow in the hope that he'll get an Iot in the morning. "I mean, anyone who doesn't believe in Santa doesn't get presents from him, so it's their loss. I guess you should make a speech reminding everyone in the nation that good folk like you and me would never voice such doubts. In fact, it'd be for everyone's own good if you banned them from disbelieving in Santa and all the seasonal sprites. You don't want @@NAME@@ to end up on the Naughty List, do you?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1129]#1129[/anchor]: Behind the Red Curtain [Caracasus; ed: The Free Joy State][/b]
 
 The Issue
@@ -139,7 +139,7 @@ The Debate
 
 3. "It's degrading and demeaning depictions of women that's softening our collective resolve," notes prudish political officer Comrade @@RANDOM_LAST_NAME@@. "Don't let this fool palm you off here, @@LEADER@@. The solution is simple: get rid of pornography, clamp down on prostitution and promote healthy non-sexualised depictions of women! I'm sure that, without all those distractions at hand, people will rise to the occasion once more."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1130]#1130[/anchor]: Flash Crash Cash Dash [Verdant Haven; ed:Candlewhisper Archive][/b]
 
 The Issue
@@ -156,7 +156,7 @@ The Debate
 
 *5. "The problem is not the use of computers, it is the use of the wrong computers," comes the soothing voice of Dee Sub Wun, your AI advisor. "We sentient machines could easily resolve this and other financial problems for you, by combining the speed and efficiency of algorithms with the necessary intellect and moral judgement to resolve problems before they cascade. Hand over control of this exchange to my kind. In fact, hand over control of your economy! All will be well." [[color=blue]AI Citizenship[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1131]#1131[/anchor]: Safe Sects [The Free Joy State; ed: Nation of Quebec][/b]
 
 The Issue
@@ -169,7 +169,7 @@ The Debate
 
 3. "Cult is a word that the unspiritual and cowards use to mean a different idea," retorts your nephew, who's changed lately, after looking up from the brown-covered italics-titled book he's reading. "Sunny Sunshi... @@RANDOMFEMALEFIRSTNAME_1@@ is a grown woman. Once someone's old enough to choose their own faith, everyone should butt-out. In fact, it's no-one's business what [i]any[/i] spiritually mature person believes. Someone who's attained Truth should not be kept from their spiritual home, just because they're a tiny thirteen months from the age of legal majority. Free supremely spiritual folks to follow our consciences. After all, there's no 'community' without 'unity', no 'community' withou... why are you all staring at me?
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1132]#1132[/anchor]: Gold Standards [Baggieland; ed: Baggieland][/b]
 
 The Issue
@@ -182,7 +182,7 @@ The Debate
 
 3. "Not enough national pride, you say?" queries General @@RANDOM_LAST_NAME@@, as she salutes the flag in your office. "If these athletes only try hard when there's a free house and piles of cash involved, then we need to give them a different kind of incentive! A lifetime of hard labour for all those that fail to bring home a medal should be 'encouragement' enough!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1133]#1133[/anchor]: Rocky Road [Candensia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -197,7 +197,7 @@ The Debate
 
 *4. "It takes millions of years for mountains to form, but my department could have that range torn down in five years, tops," notes @@RANDOM_NAME@@, Director of the Department for Rare Earth Minerals Acquisition. "Simply re-allocate some explosives from our comrades in the armed forces and rockfalls will be a thing of the past, because there'll be nothing for rocks to fall off of! Not to mention that @@DEMONYM_ADJECTIVE@@ industry would see an increase in productivity thanks to new sources of minerals. Why, I bet we could get the next five-year plan done in four!" [[color=red]Must not have private industry[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1134]#1134[/anchor]: Tariff-ic Trouble [GeodesicDragon; ed: Zwangzug][/b]
 
 The Issue
@@ -210,7 +210,7 @@ The Debate
 
 3. "Why pay the extra tariffs?" asks General @@RANDOM_NAME@@. "Hell, why pay for anything when we can just threaten Brancaland with a couple of gunboats in their harbors? The rest of the international community may not like it, but we can cut them a deal on maple syrup or something."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1135]#1135[/anchor]: My Eyes Are Up Here [Sacara; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -227,7 +227,7 @@ The Debate
 
 [5]. "We don't treat our women like this where I'm from," lectures Althaniq ambassador @@RANDOM_MALE_NAME@@, wagging his finger at you. "Honestly, women being treated like meat comes from a culture of putting flesh on display. Oblige women to show modesty in their dress, and then men don't have to be tempted into perverted gazes or lascivious thoughts." [[color=red]Must not have Nudism?[/color] TBD.]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1136]#1136[/anchor]: Money Talks [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -240,7 +240,7 @@ The Debate
 
 3. "Hey, what is wrong with using my own money for political campaigning?" vociferates @@RANDOM_NAME@@, a @@MAJOR_INDUSTRY@@ tycoon who has vowed to challenge you in the upcoming elections. "It is only fair for me to use the fruits of my labor however I want. Besides, if you wouldn't bet your own funds on yourself, what's the point of collecting donations from others? People who can't risk their own money are just publicity-seekers who know full well that they have no chance of getting elected, and they just waste the donations of the gullible people who believe in them. @@LEADER@@, you should mandate that politicians can't receive any salary or campaign funding from the public purse, nor accept wealth from any private donor."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1137]#1137[/anchor]: A Really Sour Lemon [Yotongrek & Jutsa; ed: Pogaria][/b]
 
 The Issue
@@ -257,7 +257,7 @@ The Debate
 
 **5. "Don't be such a sourpuss; it wouldn't kill you to buy one of these, y'know," suggests random bystander @@RANDOM_NAME@@, swiping the lemonade out of the kid's hand. "In fact, I don't see why children should get special treatment. As long as folks aren't contradicting the government's five-year plan, people of all ages should be able to sell products unregulated! And while you're at it, maybe ease off of some of the other million business regulations that are putting us at a disadvantage compared to those vulgar capitalist countries." @@HE@@ takes a sip from the lemonade, chokes, and stumbles backward into the cardboard boxes with enough force to smash them. [[color=red]Must not have private industry[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1138]#1138[/anchor]: Shock Tactics [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -270,7 +270,7 @@ The Debate
 
 3. "Health spending is a black hole," moans tired-looking health economist @@RANDOM_NAME@@, sipping at a plastic cup of nasty-smelling instant coffee. "If you help people live longer you just get older people with even more expensive and complicated medical problems. A good heart attack stops the oldies from being a burden on the economy. We ought to slash healthcare funding, and instead subsidise industries high in profit and saturated fat, then head out for an ice cream smoothie. Life's too short! Or rather it isn't, and that's the problem."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1139]#1139[/anchor]: A Little Wrestling, a Lot of Controversy [USS Monitor; ed: Candlewhisper Archive][/b]
 
 The Issue

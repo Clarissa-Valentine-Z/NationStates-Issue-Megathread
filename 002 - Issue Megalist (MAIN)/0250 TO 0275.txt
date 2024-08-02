@@ -14,7 +14,7 @@ The Debate
 
 5. "Deregulation isn't the problem - quite the opposite," suggests @@RANDOM_NAME@@, representative of a consortium of banks and major corporations. "Government checks and balances and competition laws have been the grasping stranglehold on the economy's throat for far too long. Do you really think corporations would allow the economy to suffer like this if it had full control? No, it would not. It is bad for business and what's bad for business needs to be removed. If you want this nation to survive, the market must be freed from these shackles."
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=251]#251[/anchor]: The Trouble With Hobos [Responsible; ed: Sirocco][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 4. "As far as I can see, homeless people are already a nuisance," says @@RANDOM_NAME@@, a proud citizen. "They're mostly thieves and drug addicts, they make the streets a dangerous place for our children, they make honest people feel guilty for turfing them off their doorsteps and, frankly, they smell bad. They're vermin, plain and simple, and as such, I suggest they be destroyed before the infestation gets even more out of hand."
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=252]#252[/anchor]: Great Balls Of Fire! [Unibot; ed: Responsible][/b]
 
 The Issue
@@ -44,7 +44,7 @@ The Debate
 
 [4]. "All of these ideas are either costly, ridiculous or both!" snorts your Spiritual Advisor, leaning over your desk. "Your people are frightened and vulnerable right now. They don't want you to take action; they want you to tell them it'll all be okay. We could use this! Tell them Big Max was a warning from the Heavens! Strike the fear of the Mighty One into their hearts and they'll do whatever you tell them!" [[color=purple]Must allow religion[/color] / [color=purple]Must not have Atheism[/color]]
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=253]#253[/anchor]: How Much Democracy Is Too Much? [Kandarin; ed: Kandarin][/b]
 
 The Issue
@@ -57,7 +57,7 @@ The Debate
 
 3. "Excuse us, but aren't you missing the point?" asks the unidentified spokesman of some citizens gathered around your office door. "We, the people of @@NAME@@, know what is in our best interests. We can make our OWN decisions. Why don't you leave this matter to us? We'll hold a referendum to decide what needs to be done, should only be a week or two. We'll get back to you once we're finished."
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=254]#254[/anchor]: Freedom Comes At A Price [Responsible; ed: Responsible][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 [3]. "Abolish the what, now?" asks @@RANDOM_NAME@@, a wealthy slaveholder. "Have you any idea how important our sla- er… merchandise, is to the @@DEMONYM_ADJECTIVE@@ economy? Without all this free labour, dozens of major industries would fall apart, and fine upstanding tradesmen such as myself would be sent straight to the poorhouse! If the government would see fit to invest in this highly lucrative business, we could import our product from abroad to meet demands instead of trading in the dregs of our own populace. Problem solved!" [[color=blue]Must not have an autark economy[/color]]
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=255]#255[/anchor]: Welfare Programs Not Faring Well [Glen-Rhodes; ed: Glen-Rhodes][/b]
 
 The Issue
@@ -87,7 +87,7 @@ The Debate
 
 5. "Capitalism is the very reason why we need welfare in the first place. Laissez-faire policies would only make the problem worse," argues political activist @@RANDOM_NAME@@. "If the government would ensure that all employers pay their employees the amount they need to live – no more, no less – then the problem of providing for the poor would disappear."
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=256]#256[/anchor]: [color=goldenrod]Easter Egg[/color]: Suburbs Are Out Of This World [Scolopendra; ed: Sirocco][/b]
 
 The Issue
@@ -102,7 +102,7 @@ The Debate
 
 4. "Stone the crows! We're trapped between hippies, communists and soccer moms," grumbles Vice Admiral @@RANDOM_NAME@@. "We need breathing room, and everyone knows there ain't no air on the Moon! So let's get it the old-fashioned way - by invading our neighbors! @@REGION@@ will fall to the might of @@NAME@@!"
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=257]#257[/anchor]: @@LEADER@@ Assassinated... Almost [Hessinator; ed: Responsible][/b]
 
 The Issue
@@ -117,7 +117,7 @@ The Debate
 
 4. "Hah! Like that will work!" snorts @@RANDOM_NAME@@, Minister of Waste Disposal and Sanitation. "They'll just come after the rest of us and destroy the government from the bottom up! No, we need to go even further - reinforce the Parliament! We'll turn @@CAPITAL@@ into an impenetrable fortress! Robot bodyguards, food tasters... no expense should be spared! We should all do our jobs through a complex network of computers so we never have to leave the safety of our offices again!"
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=258]#258[/anchor]: What's In A Name? [Zombitosis; ed: Sirocco][/b]
 
 The Issue
@@ -130,7 +130,7 @@ The Debate
 
 3. "Names? Names are so inefficient!" says Five-Oh-Three McGoohan, counting beads. "Who can honestly tell one @@RANDOM_NAME@@ from another? That name's so popular now, I met three people at the mall with it just last week! Face it! Names are old-hat! Everyone ought to go by a government-allocated ID number instead, much more practical. Who could make fun of a child named Six-Eight-Four?"
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=259]#259[/anchor]: A Taste Of Revenge [South Von; ed: Kandarin][/b]
 
 The Issue
@@ -143,7 +143,7 @@ The Debate
 
 3. "I can't believe what I'm hearing!" says the muffled voice of @@RANDOM_NAME@@, an anti-violence protestor who was, until now, hiding in your air vents. "By building up our military-industrial complex, WE have become the aggressor. WE are giving nations like Blackacre good reasons to hate us! No wonder they tried to kill you - we aren't giving them enough breathing room. If we cut back our military a bit and sent them a fruit basket now and then these problems would never happen."
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=260]#260[/anchor]: Taxpayers On Strike! [Makinsanity; ed: Kandarin][/b]
 
 The Issue
@@ -156,7 +156,7 @@ The Debate
 
 3. "Scum is such a harsh word. Everyone has something worthwhile to contribute, as my mother always said." says @@RANDOM_NAME@@, controversial social theorist and fountain of homespun folk wisdom. "Even if they won't pay their taxes, folks ought to have other ways to pay back into society. They could spend some time with the civil service or military reserve, for example. And goodness knows, blood and organ donation rates aren't as high as they could be. A pint of blood or a good kidney ought to pay a tax bill right proper."
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=261]#261[/anchor]: Plastic, Plastic Everywhere [Nation of Quebec; ed: Kandarin][/b]
 
 The Issue
@@ -173,7 +173,7 @@ The Debate
 
 *5. "You're not really going to listen to this nonsense, are you?" says @@RANDOM_NAME@@, Director of Plastic Production in East @@NAME@@. "Do you know how integral plastic is to our national economy? How much damage it will do to associated industries? Our nation needs less environmental regulation, not more! Just say no to limits on our plastic bags, and while you're at it loosen up environmental laws in general. We can't afford to let decadent eco-imperialist ideas get in the way of @@NAME@@'s production output." [[color=red]Must not have private industry[/color]]
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=262]#262[/anchor]: Sticks And Stones [Zwangzug; ed: Sirocco][/b]
 
 The Issue
@@ -186,7 +186,7 @@ The Debate
 
 3. "I agree to an extent," ventures @@RANDOM_NAME@@, your Minister of Domestic Security. "But insulting one person is not the same as insulting an entire social grouping. The wrong word in the wrong place and you WILL have violence on the streets: that's the reality we live in, whether you like it or not. If we want to make any real difference then we need to nudge cultural values in the right direction with government awareness programmes and the like. Educate the masses! Laying down a reactionary law will just fuel resentment in the long run."
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=263]#263[/anchor]: Wind Farms Blowing Up A Storm [Alathaea; ed: Sirocco][/b]
 
 The Issue
@@ -199,7 +199,7 @@ The Debate
 
 3. "Perhaps we're just putting them in the wrong place?" asks @@RANDOM_NAME@@, another engineer. "We should be building wind farms out at sea! Strong uninterrupted winds and no local residents to disturb! Sounds like the perfect solution, if you ask me. Setting them up and maintaining them's going to cost a bomb of course but... well, it's worth it right?"
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=264]#264[/anchor]: Not A Drop To Drink [Vincon; ed: Kandarin][/b]
 
 The Issue
@@ -212,7 +212,7 @@ The Debate
 
 3. "This drought is a warning sign sent by our Creator!" shouts a strangely familiar-looking man who has just walked in from the desert clad in camel hair and sandals. "If this nation will only turn from its wicked ways and hearken unto our God, surely He shall grace us with water once more!"
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=265]#265[/anchor]: To Bail or Not to Bail? [Niryuugoku; ed: Glen-Rhodes][/b]
 
 The Issue
@@ -225,7 +225,7 @@ The Debate
 
 3. "This brings up an interesting point," remarks socialist author @@RANDOM_NAME@@. "Why do we allow businesses to become "too big to fail?" The solution, surely, is to break up businesses before they reach such a size that they threaten our economy. Imagine it: community-based businesses, run for the benefit of the little people, not faceless, money-grubbing investment banks! Is there really a reason corporations need to be big?"
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=266]#266[/anchor]: [color=goldenrod]Easter Egg[/color]: Breaching the Great Fourth Wall of @@NAME@@ [Reploid Productions; ed: Reploid Productions][/b]
 
 The Issue
@@ -242,7 +242,7 @@ The Debate
 
 5. "Don't believe these lies for a minute!" Notorious and arguably very crazy conspiracy theorist @@RANDOM_NAME@@ quickly unrolls a chart over the XKCD survey map before giving you what looks like a hat made of tinfoil. "These 'new lands' are all part of a conspiracy by the evil alien Bunny-Knights of Violet! I have evidence here that proves that these bunnies from space want us to THINK there are lands beyond what we already know. It's quite clear that this map is completely phony and that if we fall for it, we feed them our delicious mind-carrots! Forget this map of lies @@LEADER@@, for the sake of our mind-carrots!
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=267]#267[/anchor]: Controversial Coup Causes Commotion [Sedgistan; ed: Sedgistan][/b]
 
 The Issue
@@ -257,7 +257,7 @@ The Debate
 
 4. "I don't see what the problem is", a voice strangely like your own whispers in your ear. Your twin, standing far too close for comfort, continues, "this has given me a great idea - why not just declare yourself supreme leader of @@NAME@@? After all, the people do love you so very much."
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=268]#268[/anchor]: Don't Want Your Kid Anymore? Good News! [Aligeretha; ed: Glen-Rhodes][/b]
 
 The Issue
@@ -272,7 +272,7 @@ The Debate
 
 4. "This is great!" says General @@RANDOM_NAME@@. "These abandoned kids are just what the @@NAME@@ Armed Forces need. Our current personnel level is pitiful. I doubt we could defend a supermarket! If we take these unwanted rug-rats, teach them the ways of warfare, we could be spittin' out super-soldiers in no time! Just imagine. Our military would be the envy of the world!"
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=269]#269[/anchor]: Stop The Presses! [Lenyo; ed: Sanctaria][/b]
 
 The Issue
@@ -287,7 +287,7 @@ The Debate
 
 4. "Yu'r not attacking the problem," states elderly gentleman Woody Cane. "Newspapers will never be able t' compete with them internets. All you've got t'do is shut them newfangled things down. Problem solved!"
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=270]#270[/anchor]: Space Spectacular Sours Small Stargazers [Luna Amore; ed: Frisbeeteria][/b]
 
 The Issue
@@ -300,7 +300,7 @@ The Debate
 
 3. "Now, now, surely the two sides can strike some sort of compromise," says noted radio talk show host @@RANDOM_NAME@@, "Considering the statistics, you can't repeal the curfew altogether, but these kids raise a good point: the current curfew is far too draconian. What you should do is establish an official channel for minors to request permission to stay out after dark. That way teenagers – who have legitimate reasons – can be out after dark, and @@NAME@@'s crime rate won't suffer. Quite an elegant solution if I do say so myself. True, it will require a slight tax increase, but you can't please everyone."
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=271]#271[/anchor]: Vigilantes: Heroes Or Hoodlums? [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue
@@ -313,11 +313,13 @@ The Debate
 
 3. "I agree, but we're forgetting the bigger issue," says Police Chief @@RANDOM_NAME@@. "It's embarrassing really. This guy who's probably had no police training managed to catch a criminal that some of us in the force have spent ten years trying to bring down. This whole incident clearly shows us that the police force needs new training and equipment. I'm sure that our citizens wouldn't mind paying a little more to feel safer on the streets."
 
-*4&5. @@RANDOM_NAME@@, avid contributor to the magazine Anarchist Monthly, presents a different opinion. "The last thing we need is more police. In fact, I think the people would be better off with more heroes like the Dogman. Let's face it. The police are known for corruption and brutality. Let the people take the law into their own hands, and we'll have a utopia where issues are settled without fascist pigs telling us what we can and can't do! It'll be perfect, trust me." [4: [color=blue]Guns are legal[/color] | 5: [color=red]Guns are illegal[/color]]
+**4. @@RANDOM_NAME@@, avid contributor to the magazine Anarchist Monthly, presents a different opinion. "The last thing we need is more police. In fact, I think the people would be better off with more heroes like the Dogman. Let's face it. The police are known for corruption and brutality. Let the people take the law into their own hands, and we'll have a utopia where issues are settled without fascist pigs telling us what we can and can't do! It'll be perfect, trust me." [[color=blue]Must not ban guns[/color]]
+
+**5. @@RANDOM_NAME@@, avid contributor to the magazine Anarchist Monthly, presents a different opinion. "The last thing we need is more police. In fact, I think the people would be better off with more heroes like the Dogman. Let's face it. The police are known for corruption and brutality. Let the people take the law into their own hands, and we'll have a utopia where issues are settled without fascist pigs telling us what we can and can't do! It'll be perfect, trust me." [[color=red]Must ban guns[/color]]
 
 6. "You all have the wrong idea," says Graphite Lad, wearing a slender yellow spandex suit and eraser helmet. "We can't dismiss the fact that the Dogman did us and our city a great service. That's not something we should put him in jail for. In fact, I think the government should pay vigilante heroes for their noble deeds."
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=272]#272[/anchor]: Slow Down, You're Going Too Fast [Frisbeeteria; ed: Frisbeeteria][/b]
 
 The Issue
@@ -330,7 +332,7 @@ The Debate
 
 3. "Cars are only a part of the problem," argues transit advocate @@RANDOM_NAME@@, assembling a toy train set on your desktop. "Trucks and busses are just as deadly. We need to shift entirely to railroads and get rid of cars AND trucks – hi-speed trains between cities, light rail to the suburbs, monorails and trolleys in town. We can dump those old speed limit laws - people won't get run over if they stay off the tracks! So what if a few industrial complexes have to relocate or close? It's for the greater good!"
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=273]#273[/anchor]: Is Our Children Learning? [Panageadom; ed: Lenyo][/b]
 
 The Issue
@@ -349,7 +351,7 @@ The Debate
 
 **6. "Looks to me like this is more proof that @@NAME@@'s rejection of free-market economics is denying students the education they need and deserve," says market-analyst @@RANDONNAME@@. "Now, I'm not saying that the state shouldn't help people go to school - far from it. What I'm saying is that you need to allow private schools and reinstate the capitalist systems that allow for these businesses to operate privately. This social equality experiment has failed the nation's children, and it's time to offer them a better way." [[color=red]Must not have private industry[/color]]
 
---------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=274]#274[/anchor]: Brotherly Love - A Bit Too Close to Home? [Afforess; ed: Sanctaria][/b]
 
 The Issue
@@ -362,11 +364,15 @@ The Debate
 
 3. Dr. @@RANDOM_NAME@@, a fertility expert chimes in. "No, no, definitely not! Marriage leads to kids and d'you know what happens when inbreeding is allowed?! The children are born with five heads! Yes, five heads, always! We should encourage people, maybe with a monetary incentive, to marry those who are as distantly related as possible!"
 
-4&6. "Duuude, marriage is like totally outdated", says a hippie, wearing a multi-colored robe and in need of a wash. "They're like, restrictive and they bring down the vibe, man. Why put people in a box? Ban marriage, and let us roam free and we can all be brothers and sisters! It's what's nature wanted!" [4: [color=blue]Must have private industry[/color] | 6: [color=red]Must not have private industry[/color]]
+*4. "Duuude, marriage is like totally outdated", says a hippie, wearing a multi-colored robe and in need of a wash. "They're like, restrictive and they bring down the vibe, man. Why put people in a box? Ban marriage, and let us roam free and we can all be brothers and sisters! It's what's nature wanted!" [[color=blue]Must have private industry[/color]]
 
-5&7. "This was bound to happen sometime," sighs an advisor from behind your chair. "We give these people a huge amount of freedom and they do this. It just shows that you can't trust them with their own lives, they'll just muck it up! I think it's time that we take such trivial matters out of their hands as they obviously can't deal with it. Maybe from now on the government should tell you who to marry?" [5: [color=blue]Must have private industry[/color] | 7: [color=red]Must not have private industry[/color]]
+**5. "This was bound to happen sometime," sighs an advisor from behind your chair. "We give these people a huge amount of freedom and they do this. It just shows that you can't trust them with their own lives, they'll just muck it up! I think it's time that we take such trivial matters out of their hands as they obviously can't deal with it. Maybe from now on the government should tell you who to marry?" [[color=blue]Must have private industry[/color]]
 
---------------------------------------------------------------------------
+*6. "Duuude, marriage is like totally outdated", says a hippie, wearing a multi-colored robe and in need of a wash. "They're like, restrictive and they bring down the vibe, man. Why put people in a box? Ban marriage, and let us roam free and we can all be brothers and sisters! It's what's nature wanted!" [[color=red]Must not have private industry[/color]]
+
+**7. "This was bound to happen sometime," sighs an advisor from behind your chair. "We give these people a huge amount of freedom and they do this. It just shows that you can't trust them with their own lives, they'll just muck it up! I think it's time that we take such trivial matters out of their hands as they obviously can't deal with it. Maybe from now on the government should tell you who to marry?" [[color=red]Must not have private industry[/color]]
+
+[hr][/hr]
 [b][anchor=275]#275[/anchor]: Wiki Worries [Maurepas; ed: Lenyo][/b]
 
 The Issue

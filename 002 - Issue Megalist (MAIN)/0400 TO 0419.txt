@@ -13,7 +13,7 @@ The Debate
 
 3. "Ah who cares about Brasilistan really", your National Security Advisor exclaims exasperatedly, throwing a pen across the desk. "I don't. It's causing us far much trouble, more than it's worth actually, and it's going to bankrupt us if we continue – and that's before we even think about colonisation. And even if we back out now, in a few years they'll retaliate once they've built up their strength. Let's nip this in the bud. Nuke them."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=401]#401[/anchor]: [color=green][i]An International Incident[/i][/color]: What's The WA Gonna Do, Anyway? [Sanctaria; ed: Sanctaria][/b]
 
 The Story So Far
@@ -29,7 +29,7 @@ The Debate
 
 3. "Just nuke them", Captain @@RANDOM_NAME@@, your aide-de-camp, says in a passive tone. "We are a sovereign country, we make our own decisions. This is not their business, and this is not their war. If they criticise us, or try to use that World Assembly to do anything about it, nuke them. Just nuke any country that dares speak out. We have tons of nukes and we only need one per country, after all."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=402]#402[/anchor]: [color=green][i]An International Incident[/i][/color]: They Surrendered... Now What? [Sanctaria; ed: Sanctaria][/b]
 
 The Story So Far
@@ -45,7 +45,7 @@ The Debate
 
 3. "I agree, finish the job", says your Science Minister. "And I have just the idea to do so – nuke them! I mean, look, we've wanted to test out our weapons for a while now, and the insurgents are all gathered in one place. Yes, we'll get some of our own men, and yes it'll destroy Brasilistan, and yes it will make people mad at us, but think of the greater good!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=403]#403[/anchor]: [color=green][i]An International Incident[/i][/color]: We Done Killing Yet? [Sanctaria; ed: Sanctaria][/b]
 
 The Story So Far
@@ -59,7 +59,7 @@ The Debate
 
 2. "Aha! Ha-ha-ha", your Chief Science Officer Professor Maxx von Strangehate cackles. "Occupy! What a silly goat you are! No, leader, what we should do is use Brasilistan as a nuclear testing site. Think of it! We'd get rid of all our problems in one easy go, and prove to the world at large how powerful we are! It's not as expensive as occupation and there'll be no gas bill at the end of it either. We already have the weapons, all we need is your say-so!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=404]#404[/anchor]: 404 Issue Not Found [Sedgistan; ed: Sedgistan][/b]
 
 The Issue
@@ -72,7 +72,7 @@ The Debate
 
 3. "Nonsense!" trills the annoyingly chirpy @@RANDOM_NAME@@, pirouetting around your office. "There's just nothing left to fix. Yes, @@LEADER@@, that's right. It's perfect. @@NAME@@, @@DEMONYM@@, you. All perfect."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=405]#405[/anchor]: [color=green][i]An International Incident[/i][/color]: Time For A Colonyoscopy! [Sanctaria; ed: Sanctaria][/b]
 
 The Story So Far
@@ -90,7 +90,7 @@ The Debate
 
 4. "All these options are valid, to be sure, but I have an easier way of settling this", @@RANDOM_NAME@@, head of the nation's nuclear program says in a matter-of-fact tone. "Can we please just nuke the place? Get our own guys out first, obviously but then just nuke it. We don't need a colony, but we do need a nuclear testing site. Our own citizens here are getting annoyed we're destroying good land in @@NAME@@ when there's a perfectly good dump in the form of Brasilistan."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=406]#406[/anchor]: [color=green][i]An International Incident[/i][/color]: It's The Final Countdown [Sanctaria; ed: Maxtopia][/b]
 
 The Story So Far
@@ -100,9 +100,9 @@ The Issue
 @@NAME@@'s nuclear missiles stand ready. You know the risks. You've weighed the options. But the @@NAME_INITIALS@@SA requires your final approval before launching a nuclear strike on Brasilistan.
 
 The Debate
-1."There is nothing left to discuss," says General @@RANDOM_MALE_NAME@@, his voice echoing strangely loudly in the crowded war room. "The way forward is clear. Indeed, it is the only choice remaining. We are locked into this course of action. There's no actual decision to be made at all. So go ahead. Press the button. There's no stopping it now."
+1. "There is nothing left to discuss," says General @@RANDOM_MALE_NAME@@, his voice echoing strangely loudly in the crowded war room. "The way forward is clear. Indeed, it is the only choice remaining. We are locked into this course of action. There's no actual decision to be made at all. So go ahead. Press the button. There's no stopping it now."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=407]#407[/anchor]: [color=green][i]An International Incident[/i][/color]: Brasilistan Go Boom [Maxtopia; ed: Sanctaria][/b]
 
 The Story So Far
@@ -111,7 +111,10 @@ You decided to deal with the crisis in Brasilistan by launching a wave of nuclea
 The Issue
 When you give the order to launch the nukes, your general briefly leaves the room. The moments tick by. When he returns, he simply nods once. "Birds in the air." There are almost two dozen people around this table, including some of the most brilliant minds and fearsome personalities in @@NAME@@, but none of them speak. "Three minutes until impact." You expected more activity. But there's nothing to do. There aren't even any gigantic computer screens, tracing the path of the missiles. It's beneath you, you suppose. Your job is not to track the flight of missiles. Your job is simply to decide. And that's what you've done. You've decided to annihilate another country. You look around the table at your advisors and soldiers. Some nod back at you reassuringly. Some won't meet your eyes. Not everyone will agree with you, of course. But it's not their decision. It's yours. The general leaves the room several more times. Finally, he returns. "It's done," your general says. "It's done."
 
------------------------------------------------------------------------------
+The Debate
+1. [No options for this issue.]
+
+[hr][/hr]
 [b][anchor=408]#408[/anchor]: [color=goldenrod]Easter Egg[/color]: Pony Peril [Sedgelight Sparkle; ed: Sedgistan][/b]
 
 The Issue
@@ -126,7 +129,7 @@ The Debate
 
 4. Psychiatrist @@RANDOM_NAME@@ implores you to see sense. "These poor creatures aren't actual ponies. They're misguided, delusional humans, wearing silly costumes. We must help them. A dose of electrotherapy should fix their warped minds, and any deviants who aren't cured can be lobotomised."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=409]#409[/anchor]: Water Palaver [Eremora; ed: Lenyo and Candlewhisper Archive][/b]
 
 The Issue
@@ -141,7 +144,7 @@ The Debate
 
 4. "That sounds... downright frightening," shudders @@RANDOM_NAME@@, your medical advisor. "If I may be honest, I think we went too far when we laced the public water supply. I'm not saying we should ban anything, but we really shouldn't force anyone to ingest these substances. People shouldn't have to collect rainwater if they just want a refreshing drink."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=410]#410[/anchor]: 12 Angry, Tired, and Increasingly Confused Men [Golgothastan; ed: Lenyo][/b]
 
 The Issue
@@ -154,22 +157,22 @@ The Debate
 
 3. "Ooh, and what else do you expect me to do, luvvie?" clucks @@NAME@@'s most prolific juror, @@RANDOM_FEMALE_NAME@@ as she rolls up a copy of this week's Alright! magazine. "You know, I wouldn't mind deciding on parking disputes, especially if I get to chat with Rita from the Milton murder trial again. Did you hear she's had her hair done again - oh, where was I? Oh right, well this 'pyramid scheme' thing might've given me a headache, but at least it got me out the house."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=411]#411[/anchor]: Outed Teacher Ousted [Roulantina; ed: Lenyo][/b]
 
 The Issue
 A religious high school in @@CAPITAL@@ has caused quite a stir after firing a teacher because of his homosexual orientation.
 
 The Debate
-*1. "I can't see what they did wrong," says @@RANDOM_NAME@@, proud parent and founder of the Holier Than Thou prayer group. "Homosexuality is an apostasy onto everything we stand for and believe in! I don't want my children to be exposed to it. Teachers are role models for their students for heaven's sake. I say all sodomites should be banned from teaching at all schools in @@NAME@@, lest the contagion spread." [[color=blue]Must not have corporal punishment[/color]]
+*1. "I can't see what they did wrong," says @@RANDOM_NAME@@, proud parent and founder of the Holier Than Thou prayer group. "Homosexuality is an apostasy onto everything we stand for and believe in! I don't want my children to be exposed to it. Teachers are role models for their students for heaven's sake. I say all sodomites should be banned from teaching at all schools in @@NAME@@, lest the contagion spread." [[color=red]Must not have corporal punishment[/color]]
 
 2. "Prohibiting people from doing their jobs just because of their love life is utterly ridiculous!" shouts a mad-as-hell civil rights activist, "Don't we live in modern society? Giving these fundamentalist idiots what they want is a huge violation of human rights. All people should be able to do their jobs, whatever their sexuality!"
 
 3. "This is yet another example of what harm religion does to our society," says LGBTQ activist @@RANDOM_NAME@@, waving a rainbow flag. "Homosexuality shouldn't be a taboo subject anymore. Children ought to be brought up knowing that sexual diversity is just something that exists in society and is completely normal. To help society move forward, we need to get rid of religious schooling and teach that people should love whoever and whatever they want."
 
-*4. "I can't see what they did wrong," says @@RANDOM_NAME@@, proud parent and founder of the Holier Than Thou prayer group. "Homosexuality is an apostasy onto everything we stand for and believe in! I don't want my children to be exposed to it. Teachers are role models for their students for heaven's sake. I say all sodomites should be flogged publicly for their crimes, lest the contagion spread." [[color=red]Must have corporal punishment[/color]]
+*4. "I can't see what they did wrong," says @@RANDOM_NAME@@, proud parent and founder of the Holier Than Thou prayer group. "Homosexuality is an apostasy onto everything we stand for and believe in! I don't want my children to be exposed to it. Teachers are role models for their students for heaven's sake. I say all sodomites should be flogged publicly for their crimes, lest the contagion spread." [[color=blue]Must have corporal punishment[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=412]#412[/anchor]: The Magic (Of Advertising!) School Bus [Teh Fluffles; ed: Lenyo][/b]
 
 The Issue
@@ -180,7 +183,7 @@ The Debate
 
 2. "Corporate propaganda?" exclaims @@RANDOM_NAME@@, CEO of Omni Consumer Products, "You've got to be kidding me! This is all harmless, you see. The advertising on buses is great for the school systems. How else would girls know that Maxxxi brand pads are right for them? Now, if you just sign here, businesses will be able to cover the buses with signs - to support education, of course - and perhaps we can advertise all over the schools themselves, too."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=413]#413[/anchor]: A Shot in the Arm [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue
@@ -195,7 +198,7 @@ The Debate
 
 4. "You know, we wouldn't have these problems if the population was more scientifically aware," muses amateur scientist @@RANDOM_NAME@@ while pouring a vial of green liquid into a vial of purple liquid. "Movements like these are bred from ignorance and misinformation. If the government took an active role in promoting science and education this problem would go away. You could invest in real scientific studies and programs, make science classes mandatory in schools, and arrest any religious nuts who attempt to disrupt our work. @@NAME@@ would enter a new Golden Age!" The vials of liquid suddenly explode, covering your office with smoke and an unusually colored foam.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=414]#414[/anchor]: Subpar Suburbs [Luna Amore; ed: Luna Amore][/b]
 
 The Issue
@@ -210,7 +213,7 @@ The Debate
 
 4. "Every one of these plans conveniently forgets about the animals," chastises the head barista from Bean Me Up Coffee. "Y'all saunter in here after mother nature has made the best of a bad situation. That watering hole is crucial to the local wildlife, and it simply isn't fair to take that away from the bunnies and deer and the cute little birds. Let's take whatever money we were going to waste on rebuilding this failing town and turn it into a nature reserve."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=415]#415[/anchor]: Brain Pain On The Sports Plain [Have fun with it; ed: Lenyo][/b]
 
 The Issue
@@ -225,7 +228,7 @@ The Debate
 
 [4]. "It's not just @@ANIMAL@@ball," mentions @@RANDOM_NAME@@, a techie joining the conversation via Trype. "Think about legball. Concussions happen there all the time. It's just not in the news anywhere as often. And then there's hoopball. They wipe each other out all of the time. Us video gamers have fun without ever knocking our skulls together. I propose we ban all physical sports. It's only the safest op-" @@HE@@ says before the screen turns off with a security guard twirling the plug. [[color=blue]Video games are legal[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=416]#416[/anchor]: Prophet Margins [Luna Amore; ed: Lenyo][/b]
 
 The Issue
@@ -240,7 +243,7 @@ The Debate
 
 4. "Consider the opportunity this presents, @@LEADER@@," says your chief counselor as he steps from behind the arras, "Almost half of the population believes this hoopla. We must encourage this new faith as much as possible. With a handpicked staff of prophets to forecast what we want and spies monitoring every freethinking opposition group, society will be yours for the taking."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=417]#417[/anchor]: Hush, Hush Sweet Charlotte [Junkula; ed: Lenyo & Ransium][/b]
 
 The Issue
@@ -253,7 +256,7 @@ The Debate
 
 3. "Maybe this little problem really isn't a dilemma," opines your press advisor, @@RANDOM_NAME@@. "We live in modern times, and I don't think the public care about who sleeps with whom. You're better off seizing the initiative and telling the world about every relationship you've had in a series of memoirs. Make it juicy enough to be exciting, and at the very least people will say you're honest. People don't say that a whole lot about politicians these days."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=418]#418[/anchor]: That Sinking Feeling [Annihilators of Chan Island; ed: Lenyo][/b]
 
 The Issue
@@ -266,7 +269,7 @@ The Debate
 
 3. "Blub-blub-blub," says diving enthusiast @@RANDOM_NAME@@ just before climbing out of the water, "Sorry, but have you seen the wreck down there? The Gargantic is so amazing! And all those skeletons really give the place that spooky, old-timey feel. We should totally advertise these sea-wrecks. Imagine the benefit to the economy. This could be: 'You've seen it in the headlines... now come see it for yourself!' The government could even post weekly updates on where the latest wrecks are."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=419]#419[/anchor]: RED Rover, RED Rover, Send Your Money Right Over! [The United Federations of Planets; ed: Lenyo][/b]
 
 The Issue

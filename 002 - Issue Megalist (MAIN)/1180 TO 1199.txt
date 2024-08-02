@@ -16,7 +16,7 @@ The Debate
 
 6. "It is not our place to say when a person must be killed," says @@RANDOM_NAME@@, whose ancestors hail from the pious nation of Savoiia. "If our children or our elders were truly meant to die for a deity, then let the deity kill them, not us! This inhumane and unholy bloodshed must end, and all ritual sacrifice should be outlawed."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1181]#1181[/anchor]: Jolly Jousting Japes [Nuremgard; ed: Altmer Dominion][/b]
 
 The Issue
@@ -33,7 +33,7 @@ The Debate
 
 [5]. "Why are we only focusing on jousting?" asks posh aristocrat @@RANDOM_NAME@@ as @@HE@@ cleans @@HIS@@ glasses. "Don't you think times were simpler and better when everyone knew their place? There were benevolent lords in their manors, peasants merrily tilling the fields, even courtly jousts conducted by illustrious knights. Shouldn't we do our part to make these traditional values a reality again?" [[color=purple]No Feudalism[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1182]#1182[/anchor]: Thanks, but No Thanks [Chan Island; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -46,7 +46,7 @@ The Debate
 
 3. "So refugees don't want to come to our country?" asks Social Nationalist campaigner @@RANDOM_NAME@@, grinning broadly. "Fantastic! If the way things are keeps foreigners out, then let's make a point of keeping it that way. Put in measures to keep supermarket shelves understocked, and sabotage economic growth any way you can. We'll stay poor, but at least we'll stay pure."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1183]#1183[/anchor]: Bloodied but Unbowed [Frieden-und Freudenland; ed: Baggieland][/b]
 
 The Issue
@@ -59,7 +59,7 @@ The Debate
 
 3. "How could you even suggest this?" enquires @@RANDOM_MALE_NAME@@, your Minister of Chivalry, with a condescending smile on his face. "I think we are looking at the problem in the wrong way. Has it ever occurred to you that doing office drudgery may actually be too harsh and stressful for the frail bodies of the fair sex? I think there would be no need for menstrual leave if women were strongly encouraged to do easy and stress-free menial jobs, like basket-weaving or bead-threading. What do you think?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1184]#1184[/anchor]: Wring Out Your Dead [Caracasus; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -72,7 +72,7 @@ The Debate
 
 3. "They need their money back, right?" opts your Minister for Bollard Replacement. "It's only, what, thirty @@CURRENCY_PLURAL@@ plus whatever she said about payment fees. Just let the government pick up the tab whenever someone with minor debt kicks the bucket, and can we please get on our way? These bollards aren't going to inspect themselves!" 
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1185]#1185[/anchor]: Should Be Sufficient [Jutsa; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -87,7 +87,7 @@ The Debate
 
 *4. "What about East Lebatuck, and Núi Và Sông, and Haptu?" inquires @@RANDOM_NAME@@, State Director of the Novelty Latex Hat Assembly Factory, who used to export goods to all three nations. "That's a lot of comrades not getting the benefit of essential, high quality @@DEMONYM_ADJECTIVE@@ products. Abandoning global economic activity was a mistake — let's rejoin the world community of planned economies!" [[color=red]Must not have private industry[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1186]#1186[/anchor]: The Magic's Gone [Candlewhisper Archive; ed: USS Monitor][/b] 
 
 The Issue
@@ -104,7 +104,7 @@ The Debate
 
 5. "Actually, my own spells have been working fine," reports a smug little alchemist, who insists he must not be named. "Humankind cannot gain anything without first giving something in return. To obtain, something of equal value must be lost. That is alchemy's first law of Equivalent Exchange. Make the necessary sacrifices and you'll find that there's magical power aplenty to be had."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1187]#1187[/anchor]: Tipping Point [Candlewhisper Archive; ed: Zwangzug][/b]
 
 The Issue
@@ -119,7 +119,7 @@ The Debate
 
 *4. "There's definitely something in what he's saying," suggests your brother, rounding his credit card total up to the nearest @@CURRENCY@@, to the barista's disappointment. "Maybe we could all learn from that. I reckon it'd be good if politicians had a tiny baseline wage too, but were allowed to earn tips by pleasing the people. Or at least, by pleasing the people that are willing to show their appreciation with cold, hard cash." [[color=purple]Must not have physical currency[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1188]#1188[/anchor]: The Only Good Criminal [Jutsa; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -132,7 +132,7 @@ The Debate
 
 3. "I think the real crime here is those crazy costumes," snickers one of your aides. "Actually, the real problem is the people in the costumes. It's about time we put an end to this vigilantism experiment. Let's have policemen handling crime again, delivering justice with a side order of common sense."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1189]#1189[/anchor]: Driven to Distraction [Candlewhisper Archive; ed: Candlewhisper Archive][/b] 
 
 The Issue
@@ -147,7 +147,7 @@ The Debate
 
 4. "Look, using a phone while driving just takes a bit of common sense and restraint," suggests auto mechanic @@RANDOM_NAME@@. "It shouldn't be a crime in itself. Way I see it, texting and driving is a bit like leaving off your seatbelt, or eating a burger on the move, or resting one eye at a time for a semi-nap on the motorway: you should be allowed to use your own judgement as to whether you can handle it or not, and face up to the consequences only if it goes wrong."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1190]#1190[/anchor]: Dirty Laundry [The Sakhalinsk Empire; ed: Zwangzug][/b] 
 
 The Issue
@@ -162,7 +162,7 @@ The Debate
 
 4. "You businesspeople can't perceive the best solution," says your aide @@RANDOM_NAME@@, who'd rather wear nothing at all. "Just make the government own all of the laundromats and strictly regulate washing machines. That way, no criminals will dream of hiding their money there, and I can become the Minister of Lint like I always dreamed of."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1191]#1191[/anchor]: Intelligent Design [Kylarnatia; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -177,7 +177,7 @@ The Debate
 
 4. "@@LEADER@@, such animals present us with an interesting opportunity," proclaims your Junior Minister of War, snatching Mr. Fuzzykins from his irate owner. "This dog may not look like an awesome weapon of destruction now, but with some selective breeding and a lot of gene editing, we could have a whole battalion of elite canine warriors! We need to get ahead of countries like Dàguó — they've already created super muscular beagles with the help of genome engineering. With your approval, Mr. Fuzzykins here can become Death, the destroyer of worlds."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1192]#1192[/anchor]: Child's Play [The Free Joy State; ed: Candlewhisper Archive][/b] 
 
 The Issue
@@ -194,7 +194,7 @@ The Debate
 
 5. "Maybe we're taking home the wrong lesson here," timorously offers Admiral @@RANDOM_NAME@@, putting@@HIS@@ mop down to address all assembled. "I don't think I'd make a bad admiral, actually. Maybe senior military and government positions ought to be selected randomly as a matter of course. Sortition has a lot of advantages, you know — you'll finally get to hear the voice of the working classes!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1193]#1193[/anchor]: Relocating the Living Room [Baggieland; ed: Baggieland][/b] 
 
 The Issue
@@ -209,7 +209,7 @@ The Debate
 
 4. "What has Ausonia ever done to us?" enquires @@RANDOM_NAME@@, your Interior Minister, as @@HE@@ hangs a 'Home, Sweet Home' banner on your wall. "There are still some places in @@NAME@@ that have a bit of room, you know? We could bore out the mountains, dig under the desert, even drain the swamps. Just give our citizens a financial incentive to move into these uninhabitable… sorry… uninhabited regions, and there's the extra living space we require! I'm not sure exactly what kinds of industry or agriculture could thrive in such conditions, and these people are going to need a decent healthcare plan, but life always finds a way, right?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1194]#1194[/anchor]: Lost in Translation [Serilin; ed: USS Monitor][/b]
 
 The Issue
@@ -222,7 +222,7 @@ The Debate
 
 3. "The real issue we should be talking about is the ham-fisted way this was handled by law-enforcement," says the officer who was called to apprehend the girl. "I knew she wasn't a threat, but I had orders! Individual police officers should be given more autonomy to decide how we do our jobs."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1195]#1195[/anchor]: All Hands On Tap [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -235,7 +235,7 @@ The Debate
 
 3. "This potty talk is unacceptable!" interjects your aunt, who has come to your office unannounced to bring you brownies for your afternoon tea. "My little darling, we talked about this. Toilet business is private business, and we shouldn't be getting involved. In fact, it's just poor taste all around for public officials to talk about private functions. Let's have some decorum in politics, please!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1196]#1196[/anchor]: The Properties of Property [Candlewhisper Archive; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -248,7 +248,7 @@ The Debate
 
 3. "I'm not going to suggest we abolish slavery," starts known abolitionist @@RANDOM_NAME@@, "but maybe we could put in some sort of bill of rights recognising universal humanity and the protection of the law? Something like making sure that no slave can be forced to work against their will, and that financial compensation should be offered for all work, and that no man or woman may be the property of another. Not abolishing slavery, nothing so radical. Just giving slaves some basic freedoms, like the right to self-determination. That sounds reasonable, right? No-one could call that abolition!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1197]#1197[/anchor]: Aflame with Indignity [Pogaria; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -267,7 +267,7 @@ The Debate
 
 ***6. "The religious nutters are barbecuing themselves now? Let them burn, and we shall clap our hands!" exclaims @@RANDOM_NAME@@, a zealous atheist. "If more Yellowists want to burn themselves, I'll provide the matches. But it is clear that they will soon turn their rage outward. Suppressing their religion was not enough; it has just incensed them! We must get the zealots before they get us. Now is the time to finally round up all of these lunatics and expel them from our great nation. It will be a new golden age for rational thought!" [[color=red]Atheist[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1198]#1198[/anchor]: The Death Debate Isn't Dead Yet [Zyris; ed: Baggieland][/b]
 
 The Issue
@@ -280,7 +280,7 @@ The Debate
 
 3. "There has to be a solution here and I'm sure we can work it out," declares George Starr, the owner of the largest beetle farm in @@NAME@@, as he places a beetlearium on your desk. "If the government could subsidize my enterprise, then the bereaved can have my beetles strip the flesh off of their loved ones, allowing them to keep the bones for as long as they like. No more health risks, no more nasty smells, no more government interference during this most personal of times."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1199]#1199[/anchor]: Locked Down [Queen Yuno; ed: Candlewhisper Archive][/b]
 
 The Issue

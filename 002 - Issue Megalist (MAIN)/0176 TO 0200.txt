@@ -10,7 +10,7 @@ The Debate
 
 3. "I'm sure there's a middle ground," suggests @@RANDOM_NAME@@, your minister of History. "If we just made history classes mandatory for pupils until they leave school, increased taxes to raise funding for history classes a bit- no, make that a LOT, and encouraged history-related professions, then eventually everyone will realise that these films are simply pale, inaccurate imitations of events that really happened. People will be historically aware, and directors get to make their films. Everything sorted."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=177]#177[/anchor]: Power To The People? [Whatia; ed: Sirocco][/b]
 
 The Issue
@@ -23,7 +23,7 @@ The Debate
 
 3. "There's no need to be quite so dramatic," assures @@RANDOM_NAME@@, your minister of Silly Walks as he pinwheels past. "We could let them have their way a little, just to keep them happy, you know? We could give them the right to vote, but not the right to run for office. Then we could just pick out the candidates we wanted and they could choose! We've been doing this for years, we don't want some uppity new bloke trying to tell us what to do."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=178]#178[/anchor]: Free Press Too Free? [Ice Hockey Players; ed: Sirocco][/b]
 
 The Issue
@@ -36,7 +36,7 @@ The Debate
 
 3. "You know that no matter what we decide we're going to make people mad," points out @@RANDOM_NAME@@, your Minister of Public Relations. "But the best way to control public opinion is to tell the public what their opinions are. I suggest nationalising all the newspapers and putting them under government control. Then we can tell them whatever we like! After all, we're much more trustworthy than some profit-driven media moguls, right? At least we won't have to issue ANOTHER public statement to tell everyone you're not a hyper-intelligent aubergine."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=179]#179[/anchor]: Mad @@ANIMAL@@ Disease Outbreak! [The Stevillian Empire; ed: Sirocco][/b]
 
 The Issue
@@ -53,7 +53,7 @@ The Debate
 
 5. "Wait a minute!" interrupts @@RANDOM_NAME@@, a querimonious taxpayer. "Why do I have to pay a burden because of these pointless animals? I suggest we do nothing, let them die off... or just sell them. I mean, it's a bit much when the government starts saying what we can or cannot put in our refridgerators isn't it?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=180]#180[/anchor]: Mobile Maladies [Grindleria; ed: Sirocco & Candlewhisper Archive][/b]
 
 The Issue
@@ -62,14 +62,13 @@ Recent technological developments in mobile phones are raising concerns from you
 The Debate
 1. "Everyone is just staring at their phone screens these days!" messages anti-mobile lobbyist @@RANDOM_NAME@@, via the WotsOn chat service. "Between social media, augmented reality games and personal assistant software, people now spend more time looking at and talking to their phones than they do interacting with real people! Let's not forget the dangers of these distracting devices either: inattentive driving, pedestrian collisions, eye strain, repetitive strain injuries... They've caused more deaths than exploding cupboards, the ironing board, and Godzilla put together. I say we create just one hour every lunchtime where everybody is obliged to keep their phones off. Let's rediscover the art of conversation!"
 
-*2. "This is utter nonsense. Mobile phones are nothing other than beneficial to society! I'll have you know that not one of our privately-funded studies has found the slightest bit of evidence to the contrary!" argues @@RANDOM_NAME@@, CEO of Amber Phones, gesturing towards a wiggly line on a clipboard as @@HE@@ nonchalantly slips a wad of @@CURRENCY_PLURAL@@ into your back pocket. "Have you ever seen anyone drop dead in the street just because they were chatting on one of our new uPhone85 models for sale now at low, low prices? No! It's just blatant scaremongering! I implore the government to dismiss these crackpots' complaints."
- [[color=blue]Must have private industry[/color]]
+*2. "This is utter nonsense. Mobile phones are nothing other than beneficial to society! I'll have you know that not one of our privately-funded studies has found the slightest bit of evidence to the contrary!" argues @@RANDOM_NAME@@, CEO of Amber Phones, gesturing towards a wiggly line on a clipboard as @@HE@@ nonchalantly slips a wad of @@CURRENCY_PLURAL@@ into your back pocket. "Have you ever seen anyone drop dead in the street just because they were chatting on one of our new uPhone85 models for sale now at low, low prices? No! It's just blatant scaremongering! I implore the government to dismiss these crackpots' complaints." [[color=blue]Must have private industry[/color]]
 
 *3. "This is utter nonsense. Mobile phones are nothing other than beneficial to society! I'll have you know that not one of our state-funded studies has found the slightest bit of evidence to the contrary!" argues @@RANDOM_NAME@@, Director of Telecommunications Monitoring, nonchalantly leaning on a stack of transcripts of notable dissidents' telephone conversations. "Have you ever seen anyone drop dead in the street while chatting on one of our trackable audio-monito... I mean 'publicly funded cellphones'? No! It's just blatant scaremongering! I implore the government to dismiss these crackpots' complaints." [[color=red]Must not have private industry[/color]]
 
 4. "I don't believe they're harmful either," says @@RANDOM_NAME@@, a teacher. "But it's obvious to everyone what a detrimental effect it has on our children! Everywhere I look, I'm seeing children as young as four tapping away at the blasted things! Do you know how many lessons I've had interrupted by the 'Crazy @@ANIMAL@@' ringtone, or by little Timmy saying there's a collectable Pokeachew under my desk? Do you know how many of my pupils think 'great' is spelled with a number? Too many! Only adults should be allowed to own and use mobile phones!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=181]#181[/anchor]: Radio Rebels Ruffle Government [Dupeksland; ed: Myrth][/b]
 
 The Issue
@@ -84,7 +83,7 @@ The Debate
 
 *4. "Now now, let's be reasonable about this," muses @@RANDOM_NAME@@, radio chatshow host. "The government should think very carefully before it gets into the business of telling people what they can and can't say on the air. The solution here is not to ban criticism, but to ensure that everyone gets an equal voice - that is, a socialism-inspired approach to apportioning airtime." [[color=red]Must not have private industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=182]#182[/anchor]: Younger Voters a Cure for Apathy? [South Westerburg; ed: Myrth][/b]
 
 The Issue
@@ -97,7 +96,7 @@ The Debate
 
 3. "All these elections are awfully troublesome," says @@RANDOM_NAME@@, your senior aide. "I mean, it's obvious you know what's best for the people and for @@NAME@@, so why don't we cut out the whole voting thing and just appoint the ministers directly? Think of all the money we'd save, and the trees that would be spared from being turned into ballot papers!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=183]#183[/anchor]: Buy A Better Baby? [Sci; ed: Myrth][/b]
 
 The Issue
@@ -116,7 +115,7 @@ The Debate
 
 6. "This has got me thinkin'," says General @@RANDOM_NAME@@, thumbing through a big folder marked 'X'. "If this technology lets us reduce genetic defects, then couldn't it work the other way? We could create ourselves an army of genetically superior soldiers! With our army of Super Soldiers, no nation would dare stand in our way!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=184]#184[/anchor]: Compulsory Military Service Under Attack [Randino; ed: Myrth][/b]
 
 The Issue
@@ -127,7 +126,7 @@ The Debate
 
 2. "What a preposterous idea!" scoffs Drill Sergeant @@RANDOM_NAME@@. "The youth of @@NAME@@ has never needed the discipline provided by the armed forces more than it does today, and with all those rogue states out there we need all the recruits we can get! If anything, the government should lengthen the required service and drop the minimum age to something more reasonable."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=185]#185[/anchor]: "Bring Back Our Booze!" Cry Revellers [Eta Carinae; ed: Myrth][/b]
 
 The Issue
@@ -140,7 +139,7 @@ The Debate
 
 3. "In large amounts alcohol is damaging, but moderate amounts can actually be quite beneficial," says Dr. @@RANDOM_NAME@@. "Like many other potentially harmful drugs, alcohol should be available on prescription. Sure, it'll be more work for the health service, but I'm sure we can manage it... with a little extra funding."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=186]#186[/anchor]: Carjacking Concerns [Vortengard; ed: Myrth][/b]
 
 The Issue
@@ -155,7 +154,7 @@ The Debate
 
 4. "This just proves how cars are more trouble than they're worth." says @@RANDOM_NAME@@, leader of the Transport Worker's Union. "If the government bans cars and pours more money into public transport, everyone will be much safer and happier! Except from people who live outside major cities, of course - but then, that's their choice."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=187]#187[/anchor]: Underclass Drowning In Debt [Crazahkistan; ed: Myrth][/b]
 
 The Issue
@@ -168,7 +167,7 @@ The Debate
 
 3. "They're irresponsible with their money and yet they're the victims? Call me crazy but borrowing money and not paying it back isn't debt, it's theft!" scoffs @@RANDOM_NAME@@, representitive of one of @@NAME@@'s largest lending firms. "What we really need is the power to send these parasites to debtor prisons, where they can work off the money they owe through hard manual labour."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=188]#188[/anchor]: Video Games Too Violent, Say Parents [The Stakanian Isles; ed: Sirocco][/b]
 
 The Issue
@@ -183,7 +182,7 @@ The Debate
 
 4. "The children will manage to get their hands on the games anyway," says @@RANDOM_NAME@@, a fitness instructor. "Parents can be so ignorant. In my opinion, the only damage these video games are causing is physical: kids are becoming less inclined to exercise, and it doesn't really matter if they are violent; the result is the same either way. The only way to get bums off seats is to ban all video games. Maybe then we'll see a difference in the national waistline!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=189]#189[/anchor]: Dangerously Cheesy [Disposablepuppetland; ed: Reploid Productions][/b]
 
 The Issue
@@ -198,7 +197,7 @@ The Debate
 
 4. "Arrrrrgh!" screams lactose-intolerant @@RANDOM_NAME@@, a member of the public safety board, as incoming rounds of mature gouda smash the windows and claim the suits of several nearby advisors. "As I've been saying for many years now, cheese is a dangerous weapon in the wrong hands and should be outlawed. Ban all cheese now, and enforce it!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=190]#190[/anchor]: Immigrants Import Homeland Rivalries [Rowaria; ed: Reploid Productions][/b]
 
 The Issue
@@ -215,7 +214,7 @@ The Debate
 
 5. "It's not our war? It's not our war?" cries (in)famous @@NAME@@-born fascist @@RANDOM_NAME@@. "Well maybe it's time it became our war! @@NAME@@ should take a more active, and by 'active' I mean 'hostile', role in international politics! This ethnic squabbling will be over when the war is over, and WE can end that war and purge the impure! @@SLOGAN@@! Sieg @@NAME@@!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=191]#191[/anchor]: Blood Banks Running Dry [Karmanyaka; ed: Sirocco, Euroslavia][/b]
 
 The Issue
@@ -230,7 +229,7 @@ The Debate
 
 [4]. "I have an even better idea," says @@RANDOM_NAME@@, a prison officer. "How about we force every healthy prisoner to donate blood? It's about time they gave back to society what they've taken away in the first place. If we do this we won't have to beg the law-abiding citizens of @@NAME@@ to take time out of their day to give blood. It's not like these thugs are really doing anything for us, so missing a pint or three won't matter, am I right?" [[color=red]Must have prisons[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=192]#192[/anchor]: Coup d'Etat In @@NAME@@! [Miravesel; ed: Sirocco][/b]
 
 The Issue
@@ -245,7 +244,7 @@ The Debate
 
 4. "Hey, that's just silly," says @@RANDOM_NAME@@, your personally appointed Minister of the Free Press. "I know a way which means we won't have to give these hippies their freedoms and also allows us to get our workers back, which is good for your image I might add. Money can't buy you love, but it can buy you peace. If you paid several million @@CURRENCY_PLURAL@@ to the rebels, I'm sure you'll find them much more co-operative. Remember, it's better to spend money than spend lives. From a publicity point of view anyway."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=193]#193[/anchor]: Robots Leaving Workers Jobless [The Ethics Union; ed: Sirocco][/b]
 
 The Issue
@@ -260,7 +259,7 @@ The Debate
 
 4. "You can't allow that!" gasps @@RANDOM_NAME@@, a manual labourer. "If that happens, only the people with cyber limbs will get jobs! And the corporations will contract you into having the surgery if you want to have one! No thank you! We should go back to the grass roots of industry when all the machines weren't computerised and workers were the salt of the earth! Then maybe we'd see a bit more appreciation! And cash!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=194]#194[/anchor]: A Request for Military Aid [The Rogue Soldiers; ed: Sirocco][/b]
 
 The Issue
@@ -275,7 +274,7 @@ The Debate
 
 4. "They have as much right to their own internal politics as we do," says activist and peacenik @@RANDOM_NAME@@. "While their actions may be deplorable by our standards, we can't intervene unless the legitimate government requests it. It's just an invitation to anarchy on an international scale, and nobody but a few crackpots want that."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=195]#195[/anchor]: Right Of Way Or Wrong Of Way? [Teaberry; ed: Sirocco][/b]
 
 The Issue
@@ -288,7 +287,7 @@ The Debate
 
 3. "There's an opportunity in every problem," says @@RANDOM_NAME@@, your Minister of Rural Affairs. "And there's always some sort of compromise. We could simply allocate some government funding to teams of environmental workers to maintain and promote our network of footpaths that anyone may use... for a price. Think of the money we could get from all those hikers and ramblers! Not to mention the tourists, birdwatchers, and hippies! Everybody wins! Except for those who can't afford the fees, I guess, but you can't please everyone."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=196]#196[/anchor]: Violent Violetists Protest Artists [SalusaSecondus; ed: SalusaSecondus][/b]
 
 The Issue
@@ -305,7 +304,7 @@ The Debate
 
 5. "They've got it all wrong. Freedom of speech isn't the problem, religion is!" shouts @@RANDOM_NAME@@, at a local AA (Atheists Anonymous) meeting. "If religion were outlawed, this problem would solve itself. Just send them in for medical treatment. After all, anyone who believes in some big invisible dude who can do anything is clearly nuts."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=197]#197[/anchor]: Breastfeeding In Public: Innocent Or Indecent? [Bronteland; ed: Sirocco][/b]
 
 The Issue
@@ -318,7 +317,7 @@ The Debate
 
 3. "I'm not against mothers breastfeeding in public," says @@RANDOM_NAME@@, a manager of human resources. "But what I find objectionable is that women could be allowed to breastfeed at the workplace when they should be doing more productive things like, well, working. They can't do that if they want to entertain and feed their baby at the same time can they? Can you imagine policewomen doing this on the job? Doctors? Politicians? Mark my words, this is a bad path to take and will ultimately be disruptive to the national economy. And my bonus."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=198]#198[/anchor]: Not All Those Who Wander Are Paying [CR Oscilloscopes; ed: Sirocco & Candlewhisper Archive][/b]
 
 The Issue
@@ -333,7 +332,7 @@ The Debate
 
 4. "I have the best solution," says @@RANDOM_NAME@@, in response to a street survey. "These itinerants should be arrested, their caravans sold for scrap, and, and... told not to do it again! I think we've all had enough with the government pussy-footing their way around these criminals! The way they just swan in and disrupt communities any way they please! And think of what their presence would do to the value of my property! People ought to live in bricks and mortar, not tins on wheels!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=199]#199[/anchor]: More Jails Needed [Deleuze; ed: Sirocco][/b]
 
 The Issue
@@ -344,7 +343,7 @@ The Debate
 
 2. "Jails? What are they good for?" asks @@RANDOM_NAME@@, a shifty-looking advisor of yours whose eyes are too close together. "All they do is create a drain on the public purse and for what? Keeping society's malcontents alive and in places of luxurious comfort? It's not worth it. Just forget this jail business and while we're at it, cut the police budget. If there's ever a worse criminal organisation out there, it's @@NAME@@'s boys in orangey-pink. Trust me."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=200]#200[/anchor]: Birds, Bees, And Breeding Teens [Eta Carinae; ed: Sirocco][/b]
 
 The Issue

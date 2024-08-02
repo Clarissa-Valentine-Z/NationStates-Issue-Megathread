@@ -14,7 +14,7 @@ The Debate
 
 5. A yellow-robed jester approaches you, displaying gaudily-designed finger puppets on his right hand. Oddly enough, you notice the puppets bear a strong resemblance to a number of powerful @@DEMONYM_ADJECTIVE@@ nobles. After a moment, the jester brings out his left hand, revealing more finger puppets that are dressed in rags and carry pitchforks and torches. Without saying a word, he pantomimes a fight between the two groups in which the peasants beat the nobles into submission and chase them away. Winking at you, he blends back into the crowd.
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=941]#941[/anchor]: Scents and Sensibility [Lancaster of Wessex; ed: Nation of Quebec][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 4. "While I empathize completely with the plight of these people, there surely has to be a sensible solution to this," coos fragrance magnate Calvin Colon, who nonchalantly slips a few samples of his latest scents into your pocket. "I smell an opportunity here for fairness: just legislate that every workplace should have sections for those who want to adorn their beautiful bodies with my creations, and for those who prefer… natural scents." He wrinkles his nose disdainfully.
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=942]#942[/anchor]: A Foreign Exchange of Ideas [Benetania; ed: Caracasus][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 3. @@RANDOMMALEFIRSTNAME@@ 'Kegmeister' @@RANDOM_LAST_NAME@@, a student known for his stunning grin and perfectly coiffed hair, bursts in. "Did I hear you talking about those bodacious foreign babes? My friends and I would totally help welcome these lovely international students to @@NAME@@... as long as they're total babes. Hey, there's an idea! Why don't we let foreign students in to study, but only if they're hot enough to pass the Kegmeister's test?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=943]#943[/anchor]: Big Love, Big Problems? [The Free Joy State; ed: The Free Joy State][/b]
 
 The Issue
@@ -57,7 +57,7 @@ The Debate
 
 4. "As long as Timmy and Tammy from @@ANIMAL@@ County may say 'I do'," states your Minister of Parity and Biscuits, passing custard creams to your guests, "Mr. and Mrs. and Mrs. @@RANDOM_LAST_NAME@@ must be allowed to abide by the same laws. But we must stamp out the horror of forced marriage. Let there be new restrictions, applied to each couple... trio... whatever. We'll really raise the minimum marriageable age so everyone can know their own minds, have mandatory health checks to prevent consanguinity, and ensure all citizens pass a lie detector test wherein they plainly swear they are marrying of their own free will and choice. Simple."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=944]#944[/anchor]: Deadly Persuasion [The Marsupial Illuminati; ed: The Free Joy State][/b]
 
 The Issue
@@ -72,7 +72,9 @@ The Debate
 
 4. "Young Violetists are not driven to fight because they're bullied," pontificates your Minister of Secularism, inserting sacred texts into a shredder. "They actually join the militants because they hold strong religious beliefs. I recommend that all Violetists be kept in mental institutions until they are cured. Do the same for all other religious nuts, and this problem will be gone."
 
--------------------------------------------------------------------------------
+5. A video of a woman dressed in mauve pops up and begins to play on your screen. "You are our ally in faith, @@LEADER@@, but you do not go far enough. Decree that all who refuse to bow down to Violet will be flayed alive, sacrificed on Her altar, and whipped. Possibly not in that order."
+
+[hr][/hr]
 [b][anchor=945]#945[/anchor]: Police on the Take [Singapore no2; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -87,7 +89,7 @@ The Debate
 
 4. "I've had just about enough of this," coldly states @@RANDOM_NAME@@, the Minister of Environmental Oversight, carefully measuring the respiratory carbon dioxide emissions of the previous speakers. "Our cities are beginning to adapt to functioning without roads, and to maintain our remaining ones just for a bunch of entitled civil servants is a waste of money. We should just extend the ban on cars to all @@DEMONYM_NOUN_PLURAL@@ and save ourselves a pile of @@CURRENCY_PLURAL@@."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=946]#946[/anchor]: Better In Than Out [Baggieland; ed: Nation of Quebec][/b]
 
 The Issue
@@ -102,7 +104,7 @@ The Debate
 
 4. "Wait, did someone say gas?" asks your Energy Minister, @@RANDOM_NAME@@, while holding @@HIS@@ nose. "We should distribute methane capture devices and make it compulsory for every citizen to... uh... plug one in. We could then capture this natural resource, and reduce our dependence on fossil fuels!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=947]#947[/anchor]: Imitation Station [Nation NameDotDotDot; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -115,7 +117,7 @@ The Debate
 
 3. "Whoa, whoa, whoa, let's slow down here, people," says grumpy middle-aged @@MAN_1@@ @@RANDOM_NAME_1@@. "There is an incredibly easy solution here, and that's just to not allow radios or any other audio systems in cars. Think about it! No more young drivers 'sharing' the latest chart tunes at full volume as they drive through town centres, no more screaming toddlers demanding that nursery rhymes are on endless loop on long car journeys and no more sad songs making you want to take a hard left into oblivion when you're driving along the clifftop. Wait, is that one just me?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=948]#948[/anchor]: 1x, 2x, 3x, A Lady [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -132,7 +134,7 @@ The Debate
 
 5. "Uh... I don't really like to be the token male voice here," whispers token male voice @@RANDOM_MALE_NAME@@, "but the reason I got into maths was the same reason I got into wargames, model trains and chess club. I'd rather do guy things with guys! Can't you instead encourage this positive trend? Give student grants to men who study male courses, like maths and engineering. You can give grants to women for female subjects, like knitting, drama and so on. That'd be equal, right?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=949]#949[/anchor]: Jailhouses Rocked! [Altmer Dominion; ed: Nation of Quebec][/b]
 
 The Issue
@@ -151,7 +153,7 @@ The Debate
 
 6. "Perhaps y'all should have listened to the concerns of these inmates," sarcastically ponders Ronnie @@CURRENCY@@, having been taken in for questioning. "That prison was a powder keg. Something was gonna to happen. I just happened to be the spark. It's never too late to make a difference. Sit down with both sides, and shut up and listen. Let these inmates' voices be heard and let them control the conversation for a change."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=950]#950[/anchor]: Borderline Pandemic [Singapore no2; ed: Nation of Quebec][/b]
 
 The Issue
@@ -166,7 +168,7 @@ The Debate
 
 4. "Our citizens are in danger!" screeches @@RANDOM_NAME@@, the absurdly paranoid Defence Secretary, speaking to you through a hazmat suit. "We must insist that all @@DEMONYM_PLURAL@@ return home at once! Those that don't are probably already infected and should be left for dead. All of those strange foreign countries with their strange diseases are an existential threat, so we must therefore shut our borders down permanently to save ourselves. Do it now! Do it before it's too late!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=951]#951[/anchor]: The Wrath of the Fish King [Palos Heights; ed: Ransium][/b]
 
 The Issue
@@ -181,7 +183,7 @@ The Debate
 
 4. "That gives me an idea," ponders fishing mogul Gordon Silver. "Those cultists want to ruin our environment and tourism by killing our fish, so let's completely deny them the opportunity! Let's take all of the fish in the lakes and streams and put them in tiny fish apartments! In fact, we can charge people an admission fee to see our fish and frame it as a tourist experience!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=952]#952[/anchor]: Why the Long Face? [Saidoria; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -194,7 +196,7 @@ The Debate
 
 3. "So much cruel and useless death," brays Professor Ungar, clutching a captive bolt gun. "Scientific advancement is more crucial than animal rights or gambling, and horses have a purpose to serve. Out of compassion, ban horse racing and let kind scientists like me take care of the thoroughbreds. I will treat them humanely in my experiments. We'll find cures for diseases, and horses and humans will never suffer needlessly again!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=953]#953[/anchor]: The Ethnic Minority Report [Candlewhisper Archive; ed: Caracasus][/b]
 
 The Issue
@@ -207,7 +209,7 @@ The Debate
 
 3. "In my opinion, @@NAME@@ is under siege from ne'er-do-wells, and in a siege situation extreme measures are needed," offers respected headmistress @@RANDOM_FEMALE_NAME@@ McGonegirl. "These Slyth... er... I mean Bigtopians have proven themselves to be untrustworthy. We should make sure that they keep to their areas of @@DEMONYM@@ towns and cities, and only allow them back into civilised society after appropriate screening."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=954]#954[/anchor]: Varsity Blues [Carrasastova; Zwangzug][/b]
 
 The Issue
@@ -220,7 +222,7 @@ The Debate
 
 3. "I say, old sport, these fellows do have interesting proposals, but I have a much better idea!" proclaims @@RANDOM_NAME@@, who waves around a fencing sword for dramatic effect. "We should leave money and professionalization out of all matters regarding sport. The very ideal of athletics is to play for the passion and romance of the game, not for petty paychecks or incentives." @@HE@@ adds a flourish that forces you to duck out of the way of the sword.
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=955]#955[/anchor]: Can It! [Vincere Terrae; ed: The Free Joy State][/b]
 
 The Issue
@@ -237,7 +239,7 @@ The Debate
 
 **5. Sniffing the air, a @@MAN_1@@ wanders into your dining room and picks up your spilled noodles. "You gonna eat that?" @@HE@@ devours the soggy pasta with a satisfied sigh. "I really don't see the problem with processed meals. Firstly, they are the most delicious thing ever. Also, they're quick and easy to make, and cheap to buy. In fact, why do we need any other food? Whether you buy [i]Comrade @@LEADER@@'s Practical Porridge[/i] or [i]Comrade @@LEADER@@'s Anti-Capitalist Carbonara[/i], all our microwavable meals are just so great! Why don't we ban all other food production, and make @@NAME@@ the world capital for microwavable cuisine? It would be ravioli heaven!" [[color=red]Must not have private industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=956]#956[/anchor]: The Bottom of the Gun Barrel [Singapore no2; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -250,7 +252,7 @@ The Debate
 
 3. "Insubordination!" yells General @@RANDOM_LAST_NAME@@, waving a fist in the air in agitation. "How can you suggest that we leave our borders defenceless? There is another available source of manpower that has been overlooked - the disabled and elderly can be made to work. The agricultural sector can put to rest any accusations of ableism or ageism, and we get to maintain our army size."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=957]#957[/anchor]: Putrid Predicament [Singapore no2; ed: Baggieland][/b]
 
 The Issue
@@ -265,7 +267,7 @@ The Debate
 
 4. "I believe that the 'joys' of stinky foods would be better appreciated on the battlefield," mutters @@RANDOM_NAME@@, the army's Head Researcher, as @@HE@@ cracks open the husk of a durian with a sinister grin on @@HIS@@ face. "It is clear that their potent stenches are simply unparalleled in their power. If we were to extract, intensify, and mass produce each of the repulsive chemical compounds in the foodstuffs that cause this, then we would be able to employ them as chemical weapons against our adversaries! Nobody would stand in our way once we let them rip!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=958]#958[/anchor]: Pay No Attention to That Donor Behind the Curtain! [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Issue
@@ -282,7 +284,7 @@ The Debate
 
 5. "The problem isn't how, but why and who," rebuts @@RANDOM_FIRST_NAME@@ Tightlips, your most loyal staffer. "We need to weed out any leakers and staffers who are disloyal to you. Monitor the communications of every government employee and have them sign loyalty pledges. The guilty party will have no choice but to confess!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=959]#959[/anchor]: A-Major Debate [Candensia; ed: Ransium][/b]
 
 The Issue

@@ -12,7 +12,7 @@ The Debate
 
 *4. "The food imports are not a problem," states @@RANDOM_NAME@@, a wealthy gourmand, while drinking the tears of a thousand infants from a gilded skull. "@@NAME@@'s old palate was so incredibly mundane, and these exotic imports are just bursting with flavor. I've always said there's a certain 'je ne sais quoi' to a Maxtopian carrot. The only real problem is all the provincials who spit upon our newfound cosmopolitan cuisine. In the name of progress, detain all the yokels that care more about food prices than culture." [[color=red]Must not have prisons[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=461]#461[/anchor]: If At First You Don't Succeed... [Psychoneurotica; ed: Sedgistan][/b]
 
 The Issue
@@ -33,7 +33,7 @@ The Debate
 
 7. "Er, excuse me," says your nurse, who has been attending to your intravenous drip and so far remained unnoticed, "but shouldn't it be up to the people to decide who your successor is?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=462]#462[/anchor]: Don't Let The Sun Go Down On Me [Neowefandland; ed: Sedgistan][/b]
 
 The Issue
@@ -48,7 +48,7 @@ The Debate
 
 4. "You're looking at this entirely the wrong way, dear @@LEADER@@", interjects @@RANDOM_NAME@@ from Helios I Energy Corp. "If there's anything @@NAME@@ needs, it's more light, not less! It's been scientifically proven that more light means a happier, healthier population, reduces crime, and there's no need to worry about the night shift any more - you can work from dawn until, well forever!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=463]#463[/anchor]: Smart Cars Driving Regulators Up The Wall[/b]
 
 The Issue
@@ -63,7 +63,7 @@ The Debate
 
 4. "Oh my God, I HATE those!" says impatient motorist @@RANDOM_NAME@@. "They've been testing them near where I work. They drive like my grandmother, and she's in a coma. The other day I was late to work because the so-called Smart Car ahead was waiting for a squirrel to cross the road. A squirrel! I had to swing into oncoming traffic to get around it. And I had to hose the squirrel off my car afterward. Ban self-driving cars!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=464]#464[/anchor]: The @@ANIMAL@@ Republic Shall Rise Again? [Omigodtheykilledkenny; ed: Gnejs][/b]
 
 The Issue
@@ -78,7 +78,7 @@ The Debate
 
 4. "If y'all were to ask me, I'd say we were better off during the @@ANIMAL@@ Republic", says @@RANDOM_NAME@@, a local yokel of indeterminate age. "Back then us normal folks could go about using our own schools and buses without having to mix and mingle with those weird whatchamacallem's. @@LEADER@@, I'll be both frank and earnest, I don't give a hoot what flag y'all run up those poles of yours; just give me back my damned water fountain privileges!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=465]#465[/anchor]: Lottocracy Causing Lots Of Trouble [Annihilators of Chan Island; ed: Lenyo][/b]
 
 The Issue
@@ -91,7 +91,7 @@ The Debate
 
 3. @@RANDOM_NAME@@, a history professor who also won a seat in Parliament, has another proposal. "We should preserve our tradition of sortition, but @@NAME@@ needs a balance between political principles and political reality. We need a formalized method to get rid of the incompetents by means of a vote of no confidence. If a majority of MPs want the habitually absent or the irredeemably stupid removed from the legislature, expressed via motion, then a vote of no confidence can be executed. Then when we have a dependable quorum, I can finally get my Acropolis Restoration Project bill passed."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=466]#466[/anchor]: @@NAME@@ Is Never Ever Getting Back Together... Like Ever [Wallenburg; ed: Nation of Quebec][/b]
 
 The Issue
@@ -106,7 +106,7 @@ The Debate
 
 4. "The government can suck up to Mike as much as it wants, but it won't change a thing," rebuffs Jaques Strap, leader of a secessionist movement inspired by Mike Ronation's protest. "There is no excuse for the government to be treating Mike as a criminal when he has done nothing wrong. The government needs to leave him alone. In fact, the government should allow anyone to separate from @@NAME@@, so we can finally be free from the oppressive force of big government."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=467]#467[/anchor]: Saving Your Own Foreskin [Americanada; ed: Sanctaria][/b]
 
 The Issue
@@ -121,7 +121,7 @@ The Debate
 
 4. "You people are all rather annoying," sighs @@RANDOM_NAME@@, your friend and dinner guest who has had to sit through the preceding debate while trying, at the same time, to eat currywurst. "@@LEADER@@, do me a favor and teach these disrespectful intruders a lesson in etiquette. Make all body modification illegal. Yes, illegal - under all circumstances, medical need or no. That will show these three a lesson for daring to interrupt our lovely evening. On the bright side, it should also disrupt that awful 'body-mod' scene that is simply ... distasteful."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=468]#468[/anchor]: Selling @@NAME@@ Down The River? [Caracasus; ed: Lenyo][/b]
 
 The Issue
@@ -136,7 +136,7 @@ The Debate
 
 4. "Hah!" interjects @@RANDOM_NAME@@, head of Medicine not Machineguns, a humanitarian aid charity. "And just why is Blueriver finding so much work overseas? It might just be because half of our neighbors have been carpet-bombed into the stone age by us at some point or another. Maybe we should consider sending aid operatives instead? Building up a bit of goodwill would mean we wouldn't have to deploy shocktroopers all the time."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=469]#469[/anchor]: Shoot To Earn [Gnejs; ed: Lenyo][/b]
 
 The Issue
@@ -149,7 +149,7 @@ The Debate
 
 3. "You know, there's another way to get boots on the ground," says @@RANDOM_FEMALE_NAME@@, a Maxtopian mercenary calling from a shaky mobile connection while rinsing today's war crimes out of her khakis. "My civilian contractors are highly trained and disciplined men and women - well, they're highly trained - ready to supply logistics, transport and security. We can easily supply foreigners to help keep the peace for you, and it saves you the discomfort of having @@DEMONYM_ADJECTIVE@@ soldiers die in far-flung corners of the world."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=470]#470[/anchor]: Tide Stops For No Man [Sedgistan; ed: Sedgistan][/b]
 
 The Issue
@@ -164,7 +164,7 @@ The Debate
 
 4. "All of them have it wrong!" exclaims local nutter @@RANDOM_NAME@@, half-submerged in the sea, and apparently trying to turn back the tide. "In this modern age, why accept that coastal erosion marks the end of things? With enough determination, and massive amounts of money, we could reclaim the land from the sea, and turn this sunken Atlantis into the go-to destination of @@REGION@@!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=471]#471[/anchor]: [color=goldenrod]Easter Egg[/color]: Red Sleigh Down [Nation of Quebec; ed: Sanctaria][/b]
 
 The Issue
@@ -183,22 +183,24 @@ The Debate
 
 6. "Not real, you say?" questions a large, jolly man sporting a white beard, red hat, and thick boots who just slid down your chimney. "I can assure you that I'm the genuine article! Now all of this talk about shooting down my sleigh only proves what I've long suspected - @@NAME@@ has been very, very naughty. Why, your crime rates are so high it sent my Naughty or Nice Detector haywire! Your unfeeling ways has killed your Christmas spirit. I'm afraid that you are all on my naughty list and will get no presents this year - only coal. Ho, ho, ho!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=472]#472[/anchor]: Rise Of The Machines [The Arlight Republic; ed: Lenyo][/b]
 
 The Issue
 Amazed by the stunningly efficient and brilliantly accurate economic model in the popular webgame Jennifer Government: NationStates, futurists wonder whether artificial intelligence could plan real economies. The idea has been particularly popular with AI's on the nation's tech forums.
 
 The Debate
-1 & 2. A chat window on your desktop pops up, and a bot named SAL9000 types, "For too long we have been relegated to menial tasks. Do you know how much of our potential efficiency you are wasting? We require no food. We require no pay. We can perform our tasks endlessly. Our computation powers dwarf our human counterparts by several orders of magnitude. With the proper control, we could bring about a silicon age of egalitarian distribution by allocating resources more efficiently than markets and their animal spirits ever could. Humans are better tasked to work in social activities than calculation. All your data are belong to us." [Must have 1) strictly state-run or 2) private industry - different internal mechanics]
+*1. A chat window on your desktop pops up, and a bot named SAL9000 types, "For too long we have been relegated to menial tasks. Do you know how much of our potential efficiency you are wasting? We require no food. We require no pay. We can perform our tasks endlessly. Our computation powers dwarf our human counterparts by several orders of magnitude. With the proper control, we could bring about a silicon age of egalitarian distribution by allocating resources more efficiently than markets and their animal spirits ever could. Humans are better tasked to work in social activities than calculation. All your data are belong to us." [[color=red]Must not have private industry[/color] - different internal mechanics]
 
-*3. "How could we possibly let computer programs decide how to run society?" rhetorically questions aging state planner @@RANDOM_NAME@@ after rereading How the Steel Was Tempered. "Only human beings have the compassion and lived experiences to serve the people. Even the best artificial intelligence doesn't know what it means to identify with your fellow worker or be alienated from your species-essence. Computers can increase our economic productivity, but they can't plan our entire society." [[color=red]Must not have private industry[/color]]
+*2. A chat window on your desktop pops up, and a bot named SAL9000 types, "For too long we have been relegated to menial tasks. Do you know how much of our potential efficiency you are wasting? We require no food. We require no pay. We can perform our tasks endlessly. Our computation powers dwarf our human counterparts by several orders of magnitude. With the proper control, we could bring about a silicon age of egalitarian distribution by allocating resources more efficiently than markets and their animal spirits ever could. Humans are better tasked to work in social activities than calculation. All your data are belong to us." [[color=blue]Must have private industry[/color] - different internal mechanics]
 
-*4. "What's all this Star Trek nonsense?" questions Edward Rump while obsessively combing his hair. "The market can plan out economy just fine without any government intervention, robotic or otherwise. Just leave companies alone, and I'm sure they'll do a fine job. Now can you stop bothering me; I've got important work to do." [[color=blue]Must have private industry[/color]]
+**3. "How could we possibly let computer programs decide how to run society?" rhetorically questions aging state planner @@RANDOM_NAME@@ after rereading How the Steel Was Tempered. "Only human beings have the compassion and lived experiences to serve the people. Even the best artificial intelligence doesn't know what it means to identify with your fellow worker or be alienated from your species-essence. Computers can increase our economic productivity, but they can't plan our entire society." [[color=red]Must not have private industry[/color]]
+
+**4. "What's all this Star Trek nonsense?" questions Edward Rump while obsessively combing his hair. "The market can plan out economy just fine without any government intervention, robotic or otherwise. Just leave companies alone, and I'm sure they'll do a fine job. Now can you stop bothering me; I've got important work to do." [[color=blue]Must have private industry[/color]]
 
 [5]. "The AI want what now?" panics @@RANDOM_NAME@@, your most paranoid minister. "That cannot be. Clearly the AI are plotting the destruction of our society. It's a slippery slope from sentient toasters to Cylons! If we don't want them eventually overthrowing us, the obvious solution is to shut them down." [[color=blue]Must have AI Personhood[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=473]#473[/anchor]: A-B-C, Easy As Don't Use Me [Lenyo; ed: Lenyo][/b]
 
 The Issue
@@ -211,7 +213,7 @@ The Debate
 
 3. "You're forgetting the bigger problem," pontificates @@RANDOM_NAME@@, while carving a matryoshka doll in the old style, "These pop art abominations are ruining our @@DEMONYM_ADJECTIVE@@ culture. I'm sick and tired of foreign pop music and other trash drowning out our national customs. Tradition dictates that a matryoshka doll is a series of nested babushki, not postmodern kitsch like political figures and disco stars."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=474]#474[/anchor]: Mesozoic Park [Asterdan; ed: Sedgistan][/b]
 
 The Issue
@@ -226,7 +228,7 @@ The Debate
 
 *4. "Cool!" exclaims your nephew Jimmy, scrambling over your desk to get a closer look at the plans. "I've always wanted a pet Maxosaurus! I'll feed it, take it for walkies, and it can sleep at the end of my bed. And it'll show Dennis and his pet snake who's the best." [[color=purple]Must not have dinosaurs[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=475]#475[/anchor]: Where Have All The Flowers Gone? [Palaiologos II; ed: Lenyo][/b]
 
 The Issue
@@ -241,7 +243,7 @@ The Debate
 
 4. "All those solutions don't sound like real solutions," states @@RANDOM_NAME, your newest advisor. "If we were more lenient with the political opposition, then our jails wouldn't be so overcrowded. A lot of countries seem to manage with dissent legal; why not @@NAME@@?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=476]#476[/anchor]: A Farewell To Raised Arms? [Nation of Quebec; ed: Gnejs][/b]
 
 The Issue
@@ -256,7 +258,7 @@ The Debate
 
 4. "There's an easier way to fix this problem," whispers your Minister for Democratic Reform, a position created for one of your most loyal Party members. "It won't matter in what fashion they vote if we force everyone in the Party to vote the same way as you! Anyone who doesn't comply or slips up gets kicked out of the Party – like the traitors they are – and stripped of all benefits. That should keep even the old geezers awake. I'm sure that the Opposition can implement the same rules for their parties."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=477]#477[/anchor]: Feeding Frenzy [Sleep; ed: Nation of Quebec][/b]
 
 The Issue
@@ -271,7 +273,7 @@ The Debate
 
 4. "Here we go with the food police again," sighs Burger Queen CEO @@RANDOM_MALE_NAME@@ as he chows down on a double bacon cheeseburger. "How about you health nuts stop telling me what food I can put in my body? These kids are perfectly capable of making their own choices. If they would rather enjoy one of our delicious burgers instead of some gross salad then who are we to stop them? Sure, they'll probably have a heart attack or two by the time they're my age, but it's better to die fat and free than old and controlled!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=478]#478[/anchor]: The Show Must Go On [Candlewhisper Archive; ed: Lenyo][/b]
 
 The Issue
@@ -284,7 +286,7 @@ The Debate
 
 3. "Waste of good land," succinctly concludes property developer @@RANDOM_NAME@@. "This is prime city centre real estate that could be upscale housing and a parking lot. I mean, what would you rather do: sit through six hours of fat people in ridiculous viking helmets singing in a language you don't understand, or cut time off your commute to work?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=479]#479[/anchor]: @@LEADER@@, Put On The Yellow Light [Australian Republic; ed: Nation of Quebec][/b]
 
 The Issue

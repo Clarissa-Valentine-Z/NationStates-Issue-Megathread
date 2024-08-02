@@ -10,7 +10,7 @@ The Debate
 
 3. "There's potentially a silver lining here to the black clouds of smoke around this situation," mentions your Minister of Surprises, popping up from behind a sofa. "A known dissident and vocal critic of your rule was amongst the dead. We should see this as a signpost to future opportunities. With a little surveillance of our political opponents' social habits, a little well-planned arson, and a few strategically locked doors... well, let's just say your problems will go up in smoke."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1321]#1321[/anchor]: Who Wants to Know a Millionaire? [Asle Leopolka; ed: Zwangzug][/b]
 
 The Issue
@@ -23,7 +23,7 @@ The Debate
 
 3. "Gambling is the Devil's vice!" proclaims puritan zealot @@RANDOM_NAME@@. "Lotteries are a legal avenue for the state to rob the destitute and mathematically illiterate! I've spent millions of francs on tickets and haven't won a fraction of it back! You need to not just protect the winner, but all of @@NAME@@ — outlaw all forms of gambling immediately!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1322]#1322[/anchor]: Introducing Altengarten? [SherpDaWerp; ed: Sedgistan][/b]
 
 The Issue
@@ -38,7 +38,7 @@ The Debate
 
 4. "Yesterday, I had to change four patients in the space of half an hour," interjects @@RANDOM_NAME@@, an overworked carer from @@NAME@@ City Lakes, "And you want me to supervise children too? Nope. If you're going to put youngsters in retirement homes, they'll need to pull their weight. They can do all the dirty work, like changing soiled bed linen, while us qualified carers do the proper stuff! Maybe then I can finally catch a break." @@HE@@ breathes an audible sigh of relief
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1323]#1323[/anchor]: Toss the Coin? [Frieden-und Freudenland; ed: Baggieland][/b]
 
 The Issue
@@ -51,7 +51,7 @@ The Debate
 
 3. "No, no, no, you can't do that; tourism is precisely the solution to this problem," states @@RANDOM_NAME@@, a distraught holidaymaker who has just come back from East Lebatuck with shopping bags full of cheap watches and chocolate. "You must remember that the East Lebatuckese lira lost so much value because of their economic crisis, so we tourists are helping to support their economy. Thanks to us, over time, the East Lebatuckese lira will come to be as valuable as the @@CURRENCY@@ and the problem will simply dissipate. If you want to accelerate this process, you can make it easier for us to help them by abolishing duty on all goods bought from East Lebatuck."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1324]#1324[/anchor]: Wrecked by Wrestling? [Voxija; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -64,7 +64,7 @@ The Debate
 
 3. "A school for wrestling? That's not what @@NAME@@ needs," says Kay Faybe, your Minister of Party Pooping. "All @@NAME@@ needs is an awareness program teaching people that professional wrestling is in fact fake. Then everyone would just stop complaining."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1325]#1325[/anchor]: Having Faith in Communism [Sensorland; ed: Zwangzug][/b]
 
 The Issue
@@ -79,7 +79,7 @@ The Debate
 
 4. "Heathens, the lot of you!" ejaculates televangelist @@RANDOM_NAME@@. "The pride of @@NAME@@ will be its downfall! Are we, as mere mortals, in any place to decide how wealth should be spread? Only Providence is wise and powerful enough to decide who should be extravagantly wealthy and who should be a beggar on the streets! Any attempts to promote 'equality' will only serve to incur divine wrath! Let the heavens choose who to reward and punish; abolish this heretical economic system at once!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1326]#1326[/anchor]: Hostile Hospitality [Caracasus; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -92,7 +92,7 @@ The Debate
 
 3. "These two holy missionaries are martyrs of the faith!" declares your Minister of Holy Wars. "Or at least they will be, after we carpet bomb the city where their prison is. We must show these West Fedorians that they can't mess with @@FAITH@@! You must agree: a crusade to convert them from atheism to the one true faith is the only way forward."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1327]#1327[/anchor]: Which Right Is Right? [Australian rePublic; ed: Baggieland][/b]
 
 The Issue
@@ -105,7 +105,7 @@ The Debate
 
 3. "I have the solution... again," declares @@RANDOM_NAME@@, your Minister of Creative Solutions, as @@HE@@ uses one of @@HIS@@ shoes as an impromptu drinks holder. "Why don't we just make all our roads one way? Then it doesn't matter which side of the road you drive on, nor which side the steering wheel is on. It only matters in which direction you travel."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1328]#1328[/anchor]: Not-So-Friendly Fire [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -120,7 +120,7 @@ The Debate
 
 4. "It's not just the military that needs to be prepared," observes Brigadier van Straaten laconically. "At the moment, we're taking the fight to Ausonia. War has a propensity of turning up surprises, and maybe in a year or so Ausonia will be taking the fight to us. We also need to toughen up our civilians — get them used to bombs falling around them as well, so that they will become proficient at getting into shelters quickly, then carrying on with life after an air-raid. Start bombing our own towns and cities now!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1329]#1329[/anchor]: A Little Bit Short [Ransium; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -137,7 +137,7 @@ The Debate
 
 5. "I agree that the government should assure no one feels inferior because of the hand nature dealt to them," asserts everyman Berger Harrison, who is so average as to be completely unidentifiable. "However, what we should be doing is manipulating the hormones of all children so that they all end up at exactly the same height. All men may not be created equal, but we can fix that."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1330]#1330[/anchor]: Guilt by Association [Nuremgard; ed: Baggieland][/b]
 
 The Issue
@@ -152,7 +152,7 @@ The Debate
 
 4. "I'm not too sure about just letting them carry on with things as normal," says your perpetually suspicious Secret Police Chief. "Let them think they are in your good books, but keep a close eye on them for the rest of their lives. Constant surveillance will make sure they don't get up to anything seditious."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1331]#1331[/anchor]: Warning, Fatigue [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -165,7 +165,7 @@ The Debate
 
 [3]. "Actually, the problem is the inclusion of systems that are fatiguable," warns roboticist @@RANDOM_FEMALE_NAME@@. "By which I mean humans. Flesh is fallible - just ask my ex; he knows all about organic elements not being able to rise to the challenge. What you need is government subsidisation of machine systems, to replace the human component wherever possible. Again, just ask my ex." [[color=blue]Must have computers.[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1332]#1332[/anchor]: We Won't, We Won't Rock You [Sedgistan; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -182,7 +182,7 @@ The Debate
 
 5. "Few have the stones to look a fellow human in the eyes and kill them," rasps Freda Beggins, a diminutive and hairy-toed master stonethrower, as she demonstrates her left-arm unorthodox spin delivery on a stray @@ANIMAL@@. "Leave the job to the professionals, and we'll get it done. Quick. Brutal. Merciless."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1333]#1333[/anchor]: Married With Benefits? [South Ccanda; ed: Zwangzug][/b]
 
 The Issue
@@ -201,7 +201,7 @@ The Debate
 
 **6. "Why should marrying @@A@@ @@DEMONYM@@ grant someone citizenship?" says your brother, who never liked @@RANDOMMALEFIRSTNAME_1@@ anyway. "If you ask me, it'd be a lot easier just to make our disloyal residents someone else's problem if they love foreigners enough to marry one. In fact, if you don't ask me, that's still my opinion. Send @@RANDOMMALEFIRSTNAME_1@@ — and anyone else who wants to marry an alien — packing, and good riddance." [[color=blue]Same-sex marriage legal[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1334]#1334[/anchor]: Withdrawing Diplomatic Relations [USS Monitor; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -218,7 +218,7 @@ The Debate
 
 *5. "Okay, the diplomats are important, but providing safe water for all of our citizens abroad would be a logistical nightmare!" asserts a jittery and paranoid government bureaucrat, twitching occasionally as she talks. "My commiserations to the students and tourists, but international travel has to be limited to official government business so we can make sure nobody leaves the country without adequate supplies." [[color=blue]Must allow Emigration[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1335]#1335[/anchor]: First-Class Warfare [Krusavich; ed: Altmer dominion and Zwangzug][/b]
 
 The Issue
@@ -231,7 +231,7 @@ The Debate
 
 3. "Perhaps a compromise is in order," chimes your Minister of Air Travel @@RANDOM_NAME@@, playing with a miniature jet. "Completely restructuring our airline system to a single travel class would be prohibitively expensive with little practical benefit. But the class divisions we have now do seem counter to our central planning objectives. I would suggest introducing a raffle system. Make all ticket prices a flat fee, and simply assign the seating at random. That way we maintain the spirit of equality and fairness, without any major new expenses. Sure, some people will still be flying high while the rest are cramped together — but at least now there's no one to point fingers at."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1336]#1336[/anchor]: Take Good Care of My Baby [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue
@@ -244,9 +244,9 @@ The Debate
 
 3. "Right, though allowing welfare to prop up failing families is part of the problem," adds childless conservative Rush Limpbough. "The state should not interfere in what happens to unwanted children. If there's no alternative but to raise a kid themselves, new parents will have to step up to the plate and get it done. If they can't manage, their extended families will step in. It's tough love, but at the end of it, you've got kids raised by their families, as nature intended."
 
-[4]. “If they can’t manage, we have bigger problems,” intones John Smith, an unremarkable paper-pusher from the local Parental Licensing Office. “These people, licensed or not, should never have been parents. And, making matters worse, if they’re unlicensed, we’re out of options - they can’t abort, but taking their kids away puts us right back in square one. Not only do we need to tighten up the licensing process — investigate prospective licensees’ socioeconomic backgrounds and support networks, on top of their parenting knowledge — but we need to make the penalties for unlicensed childbearing significantly more punitive. That’ll discourage parents from ever avoiding our rules.” [[color=blue]Must have Parental Licensing[/color]]
+[4]. "If they can't manage, we have bigger problems," intones John Smith, an unremarkable paper-pusher from the local Parental Licensing Office. "These people, licensed or not, should never have been parents. And, making matters worse, if they're unlicensed, we're out of options - they can't abort, but taking their kids away puts us right back in square one. Not only do we need to tighten up the licensing process — investigate prospective licensees' socioeconomic backgrounds and support networks, on top of their parenting knowledge — but we need to make the penalties for unlicensed childbearing significantly more punitive. That'll discourage parents from ever avoiding our rules." [[color=blue]Must have Parental Licensing[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1337]#1337[/anchor]: Waste Not Want Not [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 *4. "The way I see it, the thing is a product of my body," says proud abortion clinic regular and self-proclaimed 'supraequality expert' @@RANDOM_NAME@@. "[i]Ipso facto[/i], I reserve the right to decide whether I want to donate it to the greater good or not. In fact, the state should be giving me the option of exchanging my bodily property for an additional share of the common wealth, to give me an incentive to support state-led research schemes or state factories or whatever. After all, those who contribute more to society deserve a little something in return. [[color=red]Must not have private industry[/color]]
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1338]#1338[/anchor]: Slow and Stupid Is the Race [The Marsupial Illuminati; ed: Baggieland][/b]
 
 The Issue
@@ -274,7 +274,7 @@ The Debate
 
 3. "What a load of drivel!" declares @@RANDOM_NAME@@, a Bigtopian supremacist, proudly displaying @@HIS@@ chunky gold 'Bigtopia Rulz' medallion for all to see. "The notion that Bigtopians are inferior to another group, especially @@DEMONYM_PLURAL@@, cannot be tolerated. These 'researchers' with their absurd ideas must not be given a platform. I demand that you burn their books and send them into exile."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1339]#1339[/anchor]: AI Citizens Driving Change? [SherpDaWerp; ed: Candlewhisper Archive][/b]
 
 The Issue

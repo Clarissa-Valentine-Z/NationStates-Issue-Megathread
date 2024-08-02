@@ -12,7 +12,7 @@ The Debate
 
 4. "I've got an idea!" suggests @@RANDOM_NAME@@, an advisor you thought you'd fired last month, "We can't alienate our conservative base by legalizing drugs, but we also don't want to send our political allies to jail. What if all the politicians wrapped up in this scandal set the record straight by saying they didn't inhale? That's what we experts call deniable plausibility."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=421]#421[/anchor]: No Child Left Behind Enemy Lines [Al-aqar; ed: Lenyo][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 3. "It's not our vertically-challenged recruits that are the problem; it's the guns!" bellows Quartermaster Sergeant @@RANDOM_NAME@@. "They're too big for our pint-sized patriots. What we need are appropriately-sized weapons to outfit the army. It might not protect the grunts in combat, but at least they'll take a few more Bigtopians with them when they go. Shoot, we could even export the miniature weapons - turn ourselves a profit while we're at it!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=422]#422[/anchor]: Wounded Veterans Demand A Helping Hand [Exemplaire; ed: Golgothastan][/b]
 
 The Issue
@@ -38,7 +38,7 @@ The Debate
 
 3. "That takes care of the symptoms, but not the cause," announces Professor @@RANDOM_NAME@@, Director of the @@NAME_INITIALS@@AF's highly secretive Special Projects Division. "As long as we insist on using flesh and blood troops on the battlefield, these kind of injuries are going to continue to cause so much inefficiency -- oh, and human suffering too, I guess. I say it's time we unleashed Operation Codename: Giant Killer Robots!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=423]#423[/anchor]: Returning Holy Warriors Cause Trouble [Interzone Inc; ed: Golgothastan][/b]
 
 The Issue
@@ -51,7 +51,7 @@ The Debate
 
 [3]. "That's pointless," insists @@RANDOM_MALE_NAME@@, one of the more bellicose members of the General Staff. "The real problem is clearly in Maxtopia. We should bomb the Maxtopian government until they agree to be nice to everyone." Then he pauses, looking confused. "Or maybe we should bomb the rebels until they agree to be less fanatical." He pulls a map of Maxtopia out of his back pocket and shows it to you. "Look: we've got plenty of great targets that we could hit. We could even bomb the Bigtopians to prevent them from entering the conflict. Let's just bomb all of 'em, eh?" [[color=purple]Must have a military[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=424]#424[/anchor]: You Just Sank My Battleship [DWAsnia; ed: Lenyo][/b]
 
 The Issue
@@ -66,7 +66,7 @@ The Debate
 
 4. "You're all ignoring the bigger problem!" shouts a protester outside your office window, desperately trying to catch your attention, "That sunken battleship is polluting the environment horribly. All kinds of chemicals are seeping from the wreckage, and we're doing nothing to clean it up. Instead of building yet another war machine, how about we clean up some of our old messes, starting with this shipwreck."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=425]#425[/anchor]: Teach Your Farmers Well [Ouiatenon; ed: Raurosia][/b]
 
 The Issue
@@ -81,7 +81,7 @@ The Debate
 
 [4]. "You know, all this talk has got me thinking." notes socialist thinker @@RANDOM_NAME@@, brandishing a sickle. "@@NAME@@ has plenty of arable land, just perfect for cultivation. But we're going about it precisely the wrong way. You just can't trust private citizens with the people's own food. If we just nationalize the farms, production will surely rise! And with it, the proletariat!" [[color=blue]Must have private industry[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=426]#426[/anchor]: Women In Uniform Under Fire [Vihenia; ed: Kandarin & Lenyo][/b]
 
 The Issue
@@ -96,7 +96,7 @@ The Debate
 
 4. "See? This sort of griping is why women are the only ones fit to be soldiers at all," says obscure feminist author @@RANDOM_FEMALE_NAME@@. "You don't see women falling all over themselves to be a hero and keep men out of harm's way. Women are more rational, keep cooler under fire, and are just as physically fit as men. I say we keep the men home and have an all-female military instead."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=427]#427[/anchor]: They Took Our Gubment! [Trippoli; ed: Sedgistan][/b]
 
 The Issue
@@ -109,7 +109,7 @@ The Debate
 
 3. "I live here, work here, pay taxes here... well I live here," monologues Mr Weissenegger after smashing your door down for dramatic effect. "So there's no problemo with me running for office." As he tramples out of the splintered doorway, his last words are carried to you: "Or I'll be back."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=428]#428[/anchor]: Crop Circles Clutter @@CAPITAL@@ [Human Olympus; ed: Lenyo][/b]
 
 The Issue
@@ -122,7 +122,7 @@ The Debate
 
 3. "Um, has anyone noticed that looks an awful lot like @@CAPITAL@@ FC's logo?" counters Dr. @@RANDOM_NAME@@ while spreading aerial photos of the phenomenon across your desk. "There's a logical explanation to all this that doesn't involve aliens. The circles were probably caused by intoxicated farm boys. Actually, investing in a small program to teach farmers how to operate machinery more responsibly couldn't hurt."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=429]#429[/anchor]: No Representation Without Taxation? [Bears Armed; ed: Golgothastan][/b]
 
 The Issue
@@ -137,7 +137,7 @@ The Debate
 
 4. "That's very stirring rhetoric, but I wonder if everyone really feels that way," muses libertarian scholar @@RANDOM_NAME@@, a research fellow at the Nyancato Institute. "So why not give everyone the choice? Make it legal for people to sell their votes, and leave it to them to decide what's more important to them: keeping their vote, or feeding their family."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=430]#430[/anchor]: [color=goldenrod]Easter Egg[/color]: Please, Sir, We Want Some More Issues [Eta Carinae; ed: Luna Amore][/b]
 
 The Issue
@@ -157,7 +157,7 @@ The Debate
 
 6. The deafening Voice of Mod booms down from the heavens, "You will receive new issues when you receive new issues. Your questioning is undermining the authority of the mods. I've deleted enough nations to know flaming when I read it. You have been warned."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=431]#431[/anchor]: Gone A Stray [Junessa; ed: Luna Amore][/b]
 
 The Issue
@@ -174,7 +174,7 @@ The Debate
 
 [5]. "One bullet each should do the trick," bluntly states a mustachioed local-government employee while loading a revolver. "Problem solved." [[color=blue]Guns are legal[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=432]#432[/anchor]: Children In The Lead? [Annihilators of Chan Island; ed: Lenyo][/b]
 
 The Issue
@@ -187,7 +187,7 @@ The Debate
 
 3. "Or how about adoption?" schemes @@RANDOM_NAME@@@, your PR expert." I could see you with a nice adopted Lilliputian boy and an adopted Maxtopian girl. It would look great in front of the cameras. You could be the most multicultural and tolerant leader in @@REGION@@! And if everyone follows your lead, the orphanages won't be nearly as dreary!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=433]#433[/anchor]: The Worst Storm To Hit @@NAME@@ Since... Yesterday? [Eaischpnaeieacgkque Bhcieaghpodsttditf; ed: Golgothastan][/b]
 
 The Issue
@@ -204,7 +204,7 @@ The Debate
 
 5. "You're all panicking, when you should be seeing this for the great opportunity that it is!" suggests the ever cryptic Minister of Creative Solutions, @@RANDOM_NAME@@. "We could make @@NAME@@ the tourist capital of the world relating to bad weather phenomena. All we need is to set up some dangerous storm spots as sightseeing destinations and we could be rich! Maybe the temperature will actually get below -40 degrees soon so we can unveil our 'Freezing Experience' tour."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=434]#434[/anchor]: Fraternity Furor [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue
@@ -219,7 +219,7 @@ The Debate
 
 [4]. "The problem isn't fraternities. It is alcohol!" invokes Reverend Joylove. "Some of these young men are a part of my flock and are otherwise upstanding citizens of society. I'm sure that they would never have become involved in a violent fistfight if it weren't for the alcohol polluting their bodies and souls. Instead of punishing the sinner, we must eradicate the sin. Alcohol is the devil's nectar, and it poisons the mind! For the good of society, we must ban all alcohol in @@NAME@@!" [[color=purple]Must not be Atheist[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=435]#435[/anchor]: A Working Class Hero Is Something To Be [Golgothastan; ed: Lenyo][/b]
 
 The Issue
@@ -232,7 +232,7 @@ The Debate
 
 3. "I actually think we have a bigger problem than that," says the perpetually suspicious Minister of Internal Affairs, @@RANDOM_NAME@@. "Have you really looked at the numbers his district has claimed? According to their report, Stackemup's production level was OVER 9000! That's just not possible: no one could humanly shift that much unobtainium. They're obviously falsifying the data. We need to eliminate such corruption with a thorough audit of the whole sector, and in the meantime, don't go making an example of Stackemup and his supposed achievements: we'll all end up embarrassing ourselves."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=436]#436[/anchor]: Votes, Place Your Bets! [Sierra Lyricalia; ed: Golgothastan][/b]
 
 The Issue
@@ -245,7 +245,7 @@ The Debate
 
 3. "Legalized gambling on ALL votes would be real sweet for our little thing-- uh, for the economy," confides @@RANDOM_MALE_NAME@@, an unindicted co-conspirator in the trial of notorious mobster Maxine "The Octopus" Barryotti. "Folks should be allowed to make a little somethin' when their favorites win, am I right? More jobs, more civic participation! And just between you and me, we could really clean up." He nudges you with his elbow, glances around, and continues quietly, "Some candidates might just be headed for a fall, know what I mean?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=437]#437[/anchor]: Blue Screen Of Economic Death [Eaischpnaeieacgkque Bhcieaghpodsttditf; ed: Lenyo][/b]
 
 The Issue
@@ -260,7 +260,7 @@ The Debate
 
 4. "The internet has failed us!" dramatically declares a doomsayer outside your office. "Wireless connections are unreliable, while USB mass storage is infallible. We can carry all our monetary records around our necks. Down with the internet, long live the pendant!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=438]#438[/anchor]: Judicial Review On Trial [Auralia; ed: Golgothastan][/b]
 
 The Issue
@@ -271,7 +271,7 @@ The Debate
 
 2. "Democracy is nothing more than a tyranny by majority without constitutional safeguards," cautions civil rights campaigner @@RANDOM_NAME@@, whose amicus curiae was referenced in the decision. "The very fact that the Court is unelected means that they won't be afraid to make bold decisions, while our politicians are busy pandering to the lowest common denominator. All Parliamentary laws should have to be reviewed by the Court!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=439]#439[/anchor]: The Law Of Exodus [Nation of Quebec; ed: Golgothastan][/b]
 
 The Issue

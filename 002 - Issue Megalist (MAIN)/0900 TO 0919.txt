@@ -14,7 +14,7 @@ The Debate
 
 5. "Wha' be th' problem?" ask notorious logger, Captain William Ash, who, after losing a hand in a rumored chainsaw duel, had it replaced with a handsaw. "We... er... Th' pirate loggers are jus' usin' a valuable resource that those homeowners were wastin' as shade trees. Once trees get t' a merchantable size, anyone best be able t' log them no matter whose land they be on. 'N if anyone disagrees I'll send them t' Davy Jones' locker!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=901]#901[/anchor]: You Buy That? [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 3. While you are discussing this, a pop-up message appears on your computer desktop. "You now have the chance to contribute to building a space colony on the Moon, and all you need to do is to provide us with the permissions required by law so that we might embark on this thrilling adventure that will take our scientific advancement to new heights! Please read these terms and conditions of use carefully before accessing, using, or obtaining any materials, information, products, or services. By agreeing to the terms and conditions, you grant The Lunatic Mission® access to all your personal data, and agree to subscribe to our services, including the Lunar Real Estate Service®, Lunar Transportation Service®, and Lunar Insurance Service®. You hereby grant The Lunatic Mission® the exclusive right to organize, conduct, and cancel all space missions to be launched from @@NAME@@, and agree to provide stable funding for all missions, with the exact amount to be paid being specified in Clause 4.116 of this document..." Scrolling to the end after several thousand more words, you see a button marked 'I AGREE.'
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=902]#902[/anchor]: Killer App [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue
@@ -46,7 +46,7 @@ The Debate
 
 6. Your phone chimes, as a [i]WotsOn[/i] message comes through from your brother: "LOL, M8, ding dong ding dong news Just-yn, POP iz DED, long live GOOD TASTE.  U want me to get together a list of other poop-star targets?  Haha.  I got secure [i]PayBuddy[/i] set up, u just say the word, and u strike a blow for music lovers everywhere.  BANG BANG BANG!  b c-ing u." 
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=903]#903[/anchor]: Every Breath You Take [Ransium; ed: Ransium][/b]
 
 The Issue
@@ -59,7 +59,7 @@ The Debate
 
 3. "While I don't support outlawing breathing outright, I do think there's something to this," states @@RANDOM_NAME@@, a cranky old @@MAN@@ who has somehow wandered into your office. "Like those annoying mouth-breathers sitting next to you just gasping away while you're trying to enjoy a quiet cup of coffee. Or those neighbors that keep you up all night with their loud snoring. No, breathing is fine; just make sure everyone keeps it quiet."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=904]#904[/anchor]: Yours Insincerely [Nation of Quebec; ed: The Free Joy State][/b]
 
 The Issue
@@ -74,7 +74,7 @@ The Debate
 
 4. "Since when should the government be in the business of spreading this religious indoctrination?" fumes atheist media personality @@RANDOM_NAME@@. "Thoughts and prayers? Oh, please! This is nothing more than the government imposing its religious beliefs on everyone else. How about the government back off with this propaganda and let people mourn in their own private way?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=905]#905[/anchor]: Stage Directions [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -89,7 +89,7 @@ The Debate
 
 4. "Slowly, sadly, theatre lost its splendour," intones a cloaked figure from the shadows. "Grasp it, change it, scrap the worst offender. Turn your face away from this modern dross today. The music's over-written and it's trite. Revive some grand old theatre shows tonight."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=906]#906[/anchor]: Internet Killed the Television Star [Nation of Quebec; ed: Nation of Quebec][/b]
 
 The Issue
@@ -106,8 +106,8 @@ The Debate
 
 *5. "The internet is a cesspool of violence and perversion, and television isn't much better!" declares infamous social conservative activist @@RANDOM_NAME@@, who unsuccessfully tried to ban the raunchy sitcom The Flimpsons. "That's not even getting into the trolling, identity theft, and hacking that the internet festers. The government must ban the internet, and better censor television so that it aligns with @@DEMONYM_ADJECTIVE@@ family values." [[color=purple]Must lean towards being secular[/color]]
 
--------------------------------------------------------------------------------
-[b][anchor=907]#907:[/anchor] A Problem Shared [Singapore no2; ed: Candlewhisper Archive][/b]
+[hr][/hr]
+[b][anchor=907]#907[/anchor]: A Problem Shared [Singapore no2; ed: Candlewhisper Archive][/b]
 
 The Issue
 Bike-sharing organisations in @@NAME@@ are facing a bump in the road: inconsiderate users. From theft to vandalism, irresponsible users are forcing bikes to be replaced at unprecedented rates. The future looks bleak for bike-sharing, and without some swift intervention, the sound of bike bells across the nation's cities may be consigned to distant memory.
@@ -125,8 +125,8 @@ The Debate
 
 6. "Nonsense! What those bike-sharing organisations actually require are more easily replaceable stock," argues origami-lover @@RANDOM_NAME@@, passing you a folded paper unicorn of unknown significance. "Inexpensive eco-friendly cardboard bikes would surely save loads of money, are entirely safe, and are fully waterproof and fire-resistant. If it wasn't for user scepticism, we'd have been using them long ago. You could encourage their use by banning metal bikes, and with a few business subsidies."
 
--------------------------------------------------------------------------------
-[b][anchor=908]#908:[/anchor] The Forbidden Fruit [Singapore no2; ed: The Free Joy State][/b]
+[hr][/hr]
+[b][anchor=908]#908[/anchor]: The Forbidden Fruit [Singapore no2; ed: The Free Joy State][/b]
 
 The Issue
 The Prime Minister of the massive agricultural nation of Ausblic has sent you a rather unconventional gift: five thousand fruit baskets worth 100 @@CURRENCY_PLURAL@@ each. Now, crates of fruit baskets occupy almost all available space in your office.
@@ -142,7 +142,7 @@ The Debate
 
 *5. "What you call bribes, I call political donations," divulges politician @@RANDOM_NAME@@, who hefts a suitcase that is bursting with cash. "Getting into public office takes millions of @@CURRENCY_PLURAL@@, and the average citizen cannot afford to do so. If you make it easier for politicians to receive donations from altruistic international investors, you could bring equality to politics and give even the most disadvantaged candidates a fighting chance. After all, if some legitimate Blackacrean businessman is actively interested in @@DEMONYM_ADJECTIVE@@ politics and wants to help some idealist change @@NAME@@ for the better, what's the harm?" [[color=red]Must not have private industry[/color] AND [color=purple]Must not have Sortition[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=909]#909[/anchor]: On the Fence [Fauxia; ed: Ransium][/b]
 
 The Issue
@@ -155,7 +155,7 @@ The Debate
 
 3. "Well, this is quite the dilemma, isn't it?" interjects @@RANDOM_NAME@@, your Minister of Finding Loopholes, looking up from a copy of the latest tax plan. "We don't like immigrants, but we can't be the nation that divides families, and we shouldn't deport people who came here legally. I've got it! Let's allow immigration, but only to the relatives of citizens."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=910]#910[/anchor]: A for Effort [Orgrua; ed: Baggieland][/b]
 
 The Issue
@@ -170,7 +170,7 @@ The Debate
 
 4. "Why are college entrance criteria so elitist anyway?" enquires @@RANDOM_NAME@@, an intern who has just completed a college paper on socialism. "Why not just make going to college mandatory for every @@DEMONYM@@? College education should be free for all until the age of 24. Yes, it will require a boost in taxation to pay for it, but everyone will surely appreciate their government-funded master's degree."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=911]#911[/anchor]: For Crying Out Loud [Drasnia; ed: Ransium][/b]
 
 The Issue
@@ -183,7 +183,7 @@ The Debate
 
 3. A strange man who introduces himself as Doctor Howe bursts into your office. "You must have telephone booths on the streets! It's a matter of life and death! If you're worried about people using them frivolously for gossip, we can always set them up so they only connect to emergency services. That way you can have the instant response of phones without all the hassle of people talking on them all the time."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=912]#912[/anchor]: Ambassadors Behaving Madly [Nation of Quebec; ed: Pogaria][/b]
 
 The Issue
@@ -200,7 +200,7 @@ The Debate
 
 5. "Diplomatic immunity, you say?" muses @@RANDOM_NAME@@, your Minister of Sycophancy. "Why should this just be limited to ambassadors? It seems to me that if anyone deserves immunity, it's you. You're practically a god to these people anyway. You should be able to do whatever you want."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=913]#913[/anchor]: Couped Up [Allahad; ed: The Free Joy State][/b]
 
 The Issue
@@ -213,7 +213,7 @@ The Debate
 
 3. "There is always another way around these matters," hisses the Secret Police's Head of Scientific Cunning, @@RANDOM_NAME@@. "Merely pretend you agree and go for a drink with the traitor. My employees and I have found a new type of poison; it's completely undetectable and perfectly mimics a heart attack, disappearing from the bloodstream within several hours. Slip this into any beverage and the drinker won't be at work the next morning. The poor Minister is getting on in years, anyway. And what with all the negative press coverage about @@HIS_1@@ being a disgusting traitor... perhaps the stress was simply too much to handle?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=914]#914[/anchor]: Shepherds Without a Flock [Sunset Sea Islands; ed: Nation of Quebec][/b]
 
 The Issue
@@ -234,7 +234,7 @@ The Debate
 
 *7. "Just bulldoze 'em all," wheezes middle-aged construction worker @@RANDOM_NAME@@ whilst coughing into a stained handkerchief. "Y'all are talking about repurposing buildings, whilst I see valuable real estate being wasted. Tear 'em down, nationalize the land, and build whatever the Ministry of Infrastructure wants there." [[color=red]Must not have private industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=915]#915[/anchor]: Clasp of Controversy [Fauxia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -249,7 +249,7 @@ The Debate
 
 4. "You aren't addressing the real problem!" exclaims @@RANDOM_NAME@@, your germophobe Health Minister, whose voice is muffled by a gas mask. "Handshakes are gross and unsanitary! You and Mr. Wiseau have thousands of germs on your hands, and all you're doing is risking infectious diseases! Frankly, you should be thanking him for not passing his germs to you! You need to mandate proper hygienic practices - nothing ridiculous, just washing your hands very carefully every ten minutes - and make sure hand sanitizers and protective gloves are readily available."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=916]#916[/anchor]: Swing and a Miss [Nation of Quebec; ed: Zwangzug][/b]
 
 The Issue
@@ -266,7 +266,7 @@ The Debate
 
 5. The coach of the @ANIMALPLURAL@@ stands up and begins playing some inspirational music on his cell phone before addressing the team, who somehow all manage to fit in your office. "Listen up, team. We know that there's a lot of naysayers out there who think that we're a waste of money or don't contribute anything to @@DEMONYM_ADJECTIVE@@ society. You know what I say to that? What a load of sunflower seeds! I'll tell you what this team has – we have heart, passion, and pride, something I say the rest of @@NAME@@ is lacking. Getting rid of our team spits in the face of our fans who've supported us since the beginning, and is an insult to our way of life. Now let's go out there and win that game!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=917]#917[/anchor]: School's In, Cash Is Out! [Lancaster of Wessex; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -281,7 +281,7 @@ The Debate
 
 4. "I'm not going to skirt around this issue - there should be no set guidelines for what kids should be able to wear!" declares @@RANDOM_NAME@@, chairperson of the @@NAME@@ Poverty Advocacy Society. "You should not only end this ludicrous mandatory uniform policy, but you should also realise that setting any rules on what kids can wear is discriminatory! Some families can hardly invest in clothes of any kind! As long as the kids are in class, let them wear whatever they want to wear!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=918]#918[/anchor]: J'Accuse! [Nation of Quebec; ed: The Free Joy State][/b]
 
 The Issue
@@ -300,7 +300,7 @@ The Debate
 
 6. "Even if he's found guilty, these baby steps won't actually solve anything," huffs one of the Finance Minister's accusers @@RANDOM_FEMALE_NAME@@. "That pea-brained pig is just a symptom of a very large societal problem. Do you know how many times I get catcalled, just trying to live my daily life? It's not a compliment! We need to tackle these things before they even start. We need to make sexual harassment training mandatory in every workplace. We also need to work in high schools, teaching young @@DEMONYM_PLURAL@@ to be aware that no-one deserves to be abused, ever."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=919]#919[/anchor]: The Meaning of Life [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue

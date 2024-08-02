@@ -18,7 +18,7 @@ The Debate
 
 [7]. "Come on, the ambassadors love my mojitos!" drawls your neighbour, and now-legendary party host, @@RANDOM_NAME@@. "What if, like, your current digs were just a bit more open? You wouldn't need an official residence. We'd just use your place! My home is your home, and I'm sure all the fun people of @@NAME@@ would love to party with those foreign dignitaries of yours. Besides, I'm sure a few drunken ambassadors would spill out our enemies' secrets, am I right?" [[color=blue]Alcohol is legal[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=601]#601[/anchor]: Lawyers On Trial [Tzarsgrad; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -33,7 +33,7 @@ The Debate
 
 4. "But still, it won't be truly fair, will it?" muses futurist Diana Moon. "Even randomly allocated lawyers will vary in ability. I've been reading about something called Vonnegut-handicapping: using external devices to create equality of ability. Allow both private and state-funded lawyers, but fit them with a shock collar that gives them distracting electrical shocks throughout a court case. The greater their recorded success rate, the more often they will receive shocks. That way, everyone will eventually receive the same level of expertise in their legal counsel. Flawless logic, correct?" 
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=602]#602[/anchor]: Hobby Lobby [Drasnia; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -54,7 +54,7 @@ The Debate
 
 7 . "Just tell them your hobbies are reading, and walking, and socialising," suggests CV-writer @@RANDOM_NAME@@. "That way nobody can judge you or form conclusions about you."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=603]#603[/anchor]: Not My Idea [Faehig; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -71,7 +71,7 @@ The Debate
 
 *5. "There is a solution to this issue that is absolutely fair, and free of complications," says Otohime Leach, a former frustrated author turned Communist Party bureaucrat. "You can let people write freely, but make it clear that the idea of ownership of creative works is capitalist decadence, and that the state holds all copyrights and indeed, all written works of any sort. That way, we get to be the arbiters of what may and may not be published." [[color=red]Must not have private industry[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=604]#604[/anchor]: Food Behind Bars [Barunia; ed: Nation of Quebec][/b]
 
 The Issue 
@@ -88,7 +88,7 @@ The Debate
 
 *5. "If you've got many mouths to feed, and not enough food, then the solution is simple," says Internment Facilitator Earl Herrelko, from the Chief Directorate of Camps. "Just reduce the number of mouths! Have your prison facilities in regions with sub-zero temperatures, leave the heating off, and by winter's end the problems will have self-resolved." [[color=red]Must not have private enterprise[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=605]#605[/anchor]: The Noblest Of Intentions [The Grim Reaper; ed: Gnejs][/b]
 
 The Issue 
@@ -101,7 +101,7 @@ The Debate
 
 3. "We need to return to the good old days, when a noble title was recognition of good blood," contends @@RANDOM_NAME@@, draped in the flag and failing miserably to rip a foreign banknote in half. "Our nobility shouldn't bring dirty foreigners into the centre of our economy; the only people allowed to own businesses and serfs should be @@DEMONYM_PLURAL@@ through and through - people like you and me."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=606]#606[/anchor]: In The Black [Gharoukannia; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -114,7 +114,7 @@ The Debate
 
 3. "He has a point... The black market's size is indicative of a free economy's response to government over-regulation," observes @@RANDOM_MALE_NAME@@, a far-more respectable looking businessman, presenting you with some colourful line-graphs to support his argument. "Relax those regulations, and economies of scale will allow legitimate private industry to triumph, and the proportion of economic activity dominated by the black market will likely fall. The black market is just a symptom. Wage laws, bureaucratic red tape, excessive industrial standards: they're the real sickness."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=607]#607[/anchor]: If Your Election Lasts Longer Than Four Weeks... [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue 
@@ -127,7 +127,7 @@ The Debate
 
 3. "No! No! I can't take another election circus!" panics @@RANDOM_NAME@@, a refugee from the United Federation. "Where I come from, election season lasts a painful twenty-four months, and the endless mudslinging during debates and advertisements between TV shows are slowly driving everyone insane. Insane I tell you! Please, for the sake of common decency, ban all political campaigns. We're better off not being constantly bothered by political hacks, anyways."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=608]#608[/anchor]: Thrown Into Sharp Relief [Dman4835; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -140,7 +140,7 @@ The Debate
 
 3. "Look, I love freedom as much as the next passer-by who needs to crash at your place," comments @@RANDOM_FIRST_NAME@@, a random hobo rousing from a nap on your couch to voice an opinion, "but to me it sounds like this is about the state's responsibility for the safety of children. Why not just force parents to take their kids to an actual doctor, but let the adults do whatever they want with their own bodies? Also, are you going to finish that sandwich?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=609]#609[/anchor]: @@CURRENCY_PLURAL@@, Drugs, And Rock'n'Roll [Minglewood; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -153,7 +153,7 @@ The Debate
 
 3. "How about we have the festival, but supply enough police presence to keep the drugs out?" asks @@RANDOM_NAME@@, a former weed-smoking spiritualist turned substance-abuse counsellor. "We can have our police force monitor the festival, and maybe also have an anti-drug awareness campaign working the festival, and some consultation work to minimise local disruption and environmental impact. We can have a good time and keep the drugs away... It's all about the music, isn't it?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=610]#610[/anchor]: Only @@LEADER@@ Could Go To Dàguó [Drasnia; ed: Lenyo][/b]
 
 The Issue
@@ -168,7 +168,7 @@ The Debate
 
 [4]. After repeatedly hitting on your secretary, a somewhat suave secret agent introduces himself as, "Bont ... James Bont. Go over to Dàguó on the pretext of a diplomatic mission. Meanwhile, I will pose as a Marche Noirian master chef so I can poison the Emperor's meal. Once he drops dead, his security is going to suspect foul play, but I'll be there to extract you back to @@CAPITAL@@ via rocketcar. There's a chance my scheme will end up causing a war, but if worst comes to worst, I've still got my jetpack and exploding attaché case." [???]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=611]#611[/anchor]: Blundering Battle Bureaucrats [Free Syllvin; ed: Nation of Quebec][/b]
 
 The Issue
@@ -183,7 +183,7 @@ The Debate
 
 4. The family of the dead tourist manages to climb over the armored vehicle in your doorway and into your office. The deceased's mother, who is especially distraught, approaches you with tears in her eyes. "Why does no one ever think of the people affected by all this! We're here to sight-see, not to get our family killed by your thugs! How does stepping off a park path even warrant deployment of a surface-to-air missile truck or a ninja team? We can't keep on going not knowing when the next of us will step out of line and be run over by a tank! We demand an apology, a change to the law and reparations!" The distraught woman gently places a photo of her dead son on your desk, which promptly collapses.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=612]#612[/anchor]: A Petty Issue [Sammuramat; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -196,7 +196,7 @@ The Debate
 
 3. "No need to bury the wee beastie!" yells eccentric special effects expert @@RANDOM_NAME@@. "I've been playing around a lot with taxidermy and animatronics, and I reckon if we fix up damage to the bodywork, apply some preservatives to stop the rot, install some motors and simple AI subroutines, and the little critter will be good as new! Also, why stop with pets? You miss your grandma, right? Let my company work its magic, and look who's back!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=613]#613[/anchor]: A Nude Day, A Nude Awakening... [Nation of Quebec; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -211,7 +211,7 @@ The Debate
 
 4. "Face it, you can't stop people putting things on the internet," suggests your tech-savvy nephew, who moonlights as notorious internet troll [i]politichunt42[/i]. "But you can affect an image's notability, by changing its context. Say we fake a few hundred nudes of a dozen other world leaders, and maybe some politicians and public figures you don't like: we could make it so that your faked nudes are old news, and have everyone laughing at your rivals and opponents instead. Wouldn't it be fun to watch them like flail around like a @@ANIMAL@@ with its head chopped off? Is it immoral? Sure, if somebody hadn't obviously already done this to you. Can you say 'hackers-sponsored-by-Blackacre'?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=614]#614[/anchor]: How Much Is That Vote In The Window? [Burned Lands; ed: Nation of Quebec & Logophilia Lyricalia][/b]
 
 The Issue
@@ -224,7 +224,7 @@ The Debate
 
 3. Out of nowhere Hayek Freedman, Professor of Economics and Philosophy at the University of @@CAPITAL@@-Oldtown, falls through your ceiling, then still somehow manages to strut calmly to your desk. "Hold up a minute, @@LEADER@@. Neither of these lunatics knows what they're talking about. Allowing such huge campaign donations is incredibly wasteful; the whole economy would be better off without that drain. Yet we can't deny that indeed, corporations are people, my friend. So how is it we still haven't given them the right to vote? Economic justice means instead of 'one person, one vote,' we say 'one @@CURRENCY@@, one vote!' We'll just give natural persons AND corporations one vote for each @@CURRENCY@@ they earn every year. If you truly want to hear the voice of the people, not to mention cut way down on tax evasion, then let their wallets speak for them!" :kiss: 
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=615]#615[/anchor]: Tempted By The Fruit Of Another [A Humanist Science; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -237,7 +237,7 @@ The Debate
 
 3. "Look, this 'self-management' thing sounds all peachy keen, but it just plays into the same tired capitalist narrative," says red turtleneck-clad political theorist @@RANDOM_MALE_NAME@@, while wrinkling his nose at a tattoo-laden protester. "Characterizing the suffering of the working class as merely an 'investment' plays directly into the hands of the bourgeoisie. And what do a bunch of pea-brained individuals know about proper management anyway? Can one factory provide jobs for all? Clearly, the state should seize factories for the good of all @@DEMONYM_PLURAL@@!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=616]#616[/anchor]: You Are Feeling Very Very Sleepy And Not At All Gay [Golgothastan; ed: Nation of Quebec][/b]
 
 The Issue
@@ -250,7 +250,7 @@ The Debate
 
 3. "Compromise, compromise, compromise!" chants your Minister of Compromises and Trust Falls while organizing the next retreat for your cabinet. "If someone agrees to undergo so-called conversion therapy, then it's no business of the state to interfere in that. However, it should only be available to consenting adults. We also shouldn't allow parents to force their children to undergo these often humiliating therapies. So let's keep the centers operating, but only for adults who want the services."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=617]#617[/anchor]: Who's This Little Rascal? [The Aran Empire; ed: Sedgistan][/b]
 
 The Issue
@@ -265,7 +265,7 @@ The Debate
 
 4. "NO!" shouts the very patriotic governor of the colony, Viceroy @@RANDOM_NAME@@. "Don't let this critter be named after any average Joe! It was you who the explorers have to thank for being able to go on that expedition in the first place, and it was you who established this colony for the betterment of our great nation! I say we name it after you, great @@LEADER@@!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=618]#618[/anchor]: The Jaws Of A Dilemma [Team Rhysha; ed: Sedgistan][/b]
 
 The Issue
@@ -282,7 +282,7 @@ The Debate
 
 5. "Seems like you got a shark problem on your hands," nonchalantly mutters Quant, a rugged fisherman and captain of the Okra, caressing a harpoon gun. "I've been fishing on the @@DEMONYM_ADJECTIVE@@ Bay since before I could walk, I served on the S.S. @@CAPITAL@@ that sunk. I've seen these sharks up close; they've got lifeless eyes. Black eyes. Like a doll's eyes. I'll take care of your shark problem, so long as I get paid handsomely. But I'll need a bigger boat."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=619]#619[/anchor]: X Marks The Cult? [Tykadoro; ed: Nation of Quebec][/b]
 
 The Issue

@@ -10,7 +10,7 @@ The Debate
 
 3. "The only reason that companies are so unwilling to stay here is because of the constricting regulations," says @@RANDOM_NAME@@, a ridiculously wealthy businessman. "Every time my company tries to make a decision, we run up against about a million laws forbidding us from our ventures. Since when has making money been a crime? Allow more economic freedom and companies will be simply flocking to this country. The workers will suffer a bit from losing minimum wage laws, of course, but that's progress for you."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=127]#127[/anchor]: Aging Concerns In @@NAME@@ [Sirocco; ed: Reploid Productions][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 5. "There's no need for anything so controversial," posits @@RANDOM_NAME@@, Manager of the Department of Leaver Earnings of Wall To Wall Mart. "If our working age population can't support the pensions our retirees deserve, then clearly we need more workers. There are plenty of talented Maxtopians, Marche Noirians, and Big- well... and lots of Bigtopians too, queueing up to get jobs in this country. If we open our borders to them, we'll have more than enough taxpayers to support elderly @@DEMONYM_PLURAL@@ well into retirement. Everyone's a winner." [[color=red]Must not have Immigration[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=128]#128[/anchor]: Ban The Burka? [Much Benham; ed: Sirocco][/b]
 
 The Issue
@@ -40,7 +40,7 @@ The Debate
 
 3. "Who needs religion anyway?" asks @@RANDOM_NAME@@, Professor of Biology at @@CAPITAL@@ University of Science. "Our nation is swamped in the mumbo-jumbo spouted by these money hungry crackpot evangelists. I say the people should be spared from these wacko delusions of gods and demons. ALL symbols of religion should be removed from ALL public spaces! Now that's what I call freedom."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=129]#129[/anchor]: Tribal Troubles [Olasonph; ed: Sirocco][/b]
 
 The Issue
@@ -57,7 +57,7 @@ The Debate
 
 5. "The matter is not what we do to this culture, it is whether or not the people who belong to this culture actually want to be a part of that culture!" says @@RANDOM_NAME@@, a student sociologist. "We must stop knocking down rainforests so that the older members of the tribes can stay, yet allow the younger and more idealistic members leave if they wish and join civilisation! Let us make contact and give them the choice! Everyone wins! Except the wood companies o' course."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=130]#130[/anchor]: Filibuster Bust-Up [The Kennedy Family; ed: Sirocco][/b]
 
 The Issue
@@ -72,7 +72,7 @@ The Debate
 
 4. "Why do we need to debate legislature anyway?" questions @@RANDOM_NAME@@, your Minister of Alternative Solutions, who also happens to be the best friend of your distant cousin. "Everything would be so much more simple if we just decide what to do, and do it. After all, we're the ones who know what's best for @@NAME@@. If the minority parties want to say something, they can submit it in writing."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=131]#131[/anchor]: Raise Duel Standards, Say Fencers [The Gaelic Freedmen; ed: Sirocco][/b]
 
 The Issue
@@ -83,7 +83,7 @@ The Debate
 
 2. "Swords? Heavens, what dreadful things. All sharp and pointy - quite dangerous, you know," says @@RANDOM_NAME@@, an ardent pacifist. "Duelling ought to be banned! The best way to settle these kind of arguments are through judicially-supervised mediation, we all know that. If we go ahead with what these duelling nutters want then innocent people will die! It will be a sad day when people value money more than justice. Apart from lawyers, obviously."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=132]#132[/anchor]: World Assembly Woes [Sanctaria; ed: Frisbeeteria][/b]
 
 The Issue
@@ -94,7 +94,7 @@ The Debate
 
 2. "Think of the CHILDREN", cries @@RANDOM_NAME@@, your Foreign Minister. "Membership in the World Assembly is vital if @@NAME@@ is to ensure that countries across the multiverse adopt a way of living that is right! I shudder to think of the awfulness that would happen in other nations without our guidance in the World Assembly. Please, @@LEADER@@, we must remain a part of this organisation!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=133]#133[/anchor]: When @@ANIMAL_PLURAL@@ Attack! [The Class A Cows; ed: Sirocco][/b]
 
 The Issue
@@ -109,7 +109,7 @@ The Debate
 
 4. "Who cares!?" screams @@RANDOM_NAME@@ as he sends out his pirate radio station broadcast. "Just repeal any laws preventing us from shooting the things when they attack and we'll be able to save ourselves without this stupid, authoritarian, overbearing government and legal system wasting our tax money!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=134]#134[/anchor]: The Truth Is Out There? [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue
@@ -122,9 +122,11 @@ The Debate
 
 3. "How about a compromise that pleases both the conspiracy theorists and the military?" suggests @@RANDOM_NAME@@, an elite prevaricator from the Propaganda Ministry. "Why don't we release some documents that just say that UFOs are real? This way the conspiracy theorists stop asking questions, and the military doesn't have its secret projects compromised. If our military projects are discovered, like that "moon" we're building, we can just blame it on little green men. That gives you perfect deniability. It's win-win!"
 
-4 & 5. As a man wearing a black suit and dark sunglasses passes your guards, they silently go rigid as their eyes roll to white. "Boss, my team has this covered," he says in a droll monotone. "We'll try to keep you in the loop, of course, but nothing we tell you leaves this room... ever. Of course there are aliens, and yes, there's occasional collateral damage from random interactions, but we're on it. You just make sure that funding doesn't drop from the Omnibus Farm Bill your predecessor set up, and we'll make sure nothing goes public." He pauses and strokes his chin thoughtfully. "Is it still a privacy violation if you don't remember being probed? Have to think on that." He turns, taps the guards on the shoulders, and walks from the room as they dazedly recover their composure. [4: [color=blue]Must not have state-run media[/color] | 5: [color=red]Must have state-run media[/color]]
+*4. As a man wearing a black suit and dark sunglasses passes your guards, they silently go rigid as their eyes roll to white. "Boss, my team has this covered," he says in a droll monotone. "We'll try to keep you in the loop, of course, but nothing we tell you leaves this room... ever. Of course there are aliens, and yes, there's occasional collateral damage from random interactions, but we're on it. You just make sure that funding doesn't drop from the Omnibus Farm Bill your predecessor set up, and we'll make sure nothing goes public." He pauses and strokes his chin thoughtfully. "Is it still a privacy violation if you don't remember being probed? Have to think on that." He turns, taps the guards on the shoulders, and walks from the room as they dazedly recover their composure. [[color=red]Must not have state-run media[/color]]
 
--------------------------------------------------------------------------------
+*5. As a man wearing a black suit and dark sunglasses passes your guards, they silently go rigid as their eyes roll to white. "Boss, my team has this covered," he says in a droll monotone. "We'll try to keep you in the loop, of course, but nothing we tell you leaves this room... ever. Of course there are aliens, and yes, there's occasional collateral damage from random interactions, but we're on it. You just make sure that funding doesn't drop from the Omnibus Farm Bill your predecessor set up, and we'll make sure nothing goes public." He pauses and strokes his chin thoughtfully. "Is it still a privacy violation if you don't remember being probed? Have to think on that." He turns, taps the guards on the shoulders, and walks from the room as they dazedly recover their composure. [[color=blue]Must have state-run media[/color]]
+
+[hr][/hr]
 [b][anchor=135]#135[/anchor]: A Taxing Dilemma [Claraxia; ed: Sirocco][/b]
 
 The Issue
@@ -135,7 +137,7 @@ The Debate
 
 2. "You can't!" cries @@RANDOM_NAME@@, the National Treasurer. "They don't seem to realise that if we cut taxes, it will drastically underfund our public services! All our environmental work, our education system, our healthcare system - all will go kaput! @@NAME@@ depends on these taxes, we need the money! Don't let the people fritter it away on luxuries, 'cos they'll soon be complaining about there not being enough policemen on the beat. We'll tax the shirts off their backs and they'll be damn well happy about it!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=136]#136[/anchor]: Much Ado About Abortion [Aquilla; ed: Sirocco][/b]
 
 The Issue
@@ -152,7 +154,7 @@ The Debate
 
 5. "Abortion has to be legal if we're going to last as a nation," says @@RANDOM_NAME@@, President of the Society of Bitter Old People. "Have you ever thought that with our nation's growing population of @@POPULATION@@, we soon aren't going to be able to squeeze any more people into @@NAME@@? If we use abortion to control the population, we'll make great savings and can spend the money elsewhere. One child per family should just about do it I think. Extraneous ones can be sold to other countries." [Policy TBD]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=137]#137[/anchor]: Arms Industry Demands Respect [Koternacht; ed: Sirocco & Tactical Grace][/b]
 
 The Issue
@@ -165,7 +167,7 @@ The Debate
 
 3. Your Minister of Trade advises taking a middle ground: "We can't ban arms sales without harming the quality of our military and police departments, not to mention the economy. These hippies do have a point though - guns are terrible things in the wrong hands. We should implement additional safety checks on the groups to which the weapons get sold. That way we don't lose too many sales, and the people are persuaded we are making a stand against nations who use the weapons for immoral ends. The arms industry get to sell their guns and the protesters get to protest. Everybody wins!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=138]#138[/anchor]: Keep The Greenbelt Green, Say Protesters [Big-Yellow-Taxi; ed: Sirocco][/b]
 
 The Issue
@@ -182,7 +184,7 @@ The Debate
 
 5. "I can't believe what I'm hearing!" exclaims environmental activist @@RANDOM_NAME@@. "Tree museums? Police funding? Don't it always seem to go that you don't know what you've got 'til it's gone? We're talking about natural treasures and you're talking about destroying them. Is there anything that you can build that can really be better than nature? We should put a stop to all encroachment into natural areas."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=139]#139[/anchor]: Drug Debate Hits The Streets [Docere; ed: Sirocco & Tactical Grace][/b]
 
 The Issue
@@ -195,7 +197,7 @@ The Debate
 
 3. "Yo mate, c'mon, it's not just about the crops," moans a grimy, emaciated man, as he sits slumped on the ground and tugs at your trouser leg. "Some of us like other stuff, ya know, ain't fair if we can't hit off that. You gotta decr- decrimi- just make everything OK, yeah? C'mon, I need just one more hit. Just one more. I can handle it man, I CAN HANDLE IT!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=140]#140[/anchor]: A Grave Problem [Eta Carinae; ed: Sirocco][/b]
 
 The Issue
@@ -210,7 +212,7 @@ The Debate
 
 [4]. "Burying and cremating the dead is such a waste..." says @@RANDOM_NAME@@, head of the Research Department at the McRonald's chain of fast-food restaurants. "They should be recycled for the benefit of the nation! We'll pay the families a little something for their loss, then mince up the bodies and put them in our burgers! I can't see any downsides, can you? It'd save space, recompensate the grieving, and supply everyone with a tasty snack!" [[color=blue]Must have private industry[/color] AND [color=blue]Must not be vegetarian[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=141]#141[/anchor]: Police Too Pushy? [Myrth; ed: Sirocco & Tactical Grace][/b]
 
 The Issue
@@ -221,7 +223,7 @@ The Debate
 
 2. "You can't listen to what they're saying!" gasps Police Chief @@RANDOM_NAME@@, horrified. "These nuts would have us living in utter anarchy! If some robbers suddenly decide to break into a shop and steal everything, what's the owner going to do? What could anyone do without a well-funded police force? There has to be justice and law or we'd be nothing better than a bunch of savages. Stick to your guns, I say, and let me arrest these subversives - people need to be taught to show some respect!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=142]#142[/anchor]: Roads Like Roller Coasters, Complain Motorists [Mirkai; ed: Sirocco][/b]
 
 The Issue
@@ -236,7 +238,7 @@ The Debate
 
 *4. "Why on Earth is it central government's responsibility to build and maintain local roads?" asks Party Member @@RANDOM_NAME@@. "Not all citizens need automobiles, you know. A worker assigned to a farming collective has no need to travel! If people want roads, then let the local collectives put their own sweat and toil into building them, raising funds for this locally. Leave the central government out of it!" [[color=red]Must have Socialism[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=143]#143[/anchor]: An Archaeological Altercation [Fiscali; ed: Sirocco & Tactical Grace][/b]
 
 The Issue
@@ -249,7 +251,7 @@ The Debate
 
 [3]. "Behold, the hour has arrived! The Holy Temple of Firefury Amahira has been unearthed!" proclaims Yon-Zhauryg v'Klot, leader of the Cult of the Undead @@ANIMAL@@. "This land is sacred, and must not be befouled by these corporations! No-one but the enlightened children of Firefury must be allowed to venture inside our rediscovered sanctuary, where we will perform the required rituals to please the Great Goddess and prevent Her from unleashing Her wrath upon the world." [[color=purple]Religiousness is not very low[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=144]#144[/anchor]: Democracy Going To The Dogs? [Libertarian Haven; ed: Sirocco][/b]
 
 The Issue
@@ -262,7 +264,7 @@ The Debate
 
 3. "Umm... huh?" inquires village idiot, @@RANDOM_NAME@@. "I voted? When? Oh, yeah. Please don't make me not vote. The ballots are really tasty, and where else would I get my fibre? Everyone should have the right to vote, no matter what their favourite greenhouse is! Then we can all get the government to do what we want! First thing I think we should do is, uh, ban fruit? I hate fruit."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=145]#145[/anchor]: Hackles Raised Over Fur Clothes Debate [Naturhio; ed: Sirocco][/b]
 
 The Issue
@@ -273,7 +275,7 @@ The Debate
 
 2. "You can't mean that, surely?" snorts @@RANDOM_NAME@@, adjusting a hat, made from real @@ANIMAL@@ hide. "It's the people's choice what they wear. I don't think it's fair that the majority of the public should be deprived of fur clothes because some people are a bit queasy. In fact, if the government would allow us to stock rarer animals, we could produce even finer products. In the end, it's up to the consumer, don't you think?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=146]#146[/anchor]: Evolution: Truth Or Witchcraft? [Holbrookia; ed: Sirocco][/b]
 
 The Issue
@@ -288,7 +290,7 @@ The Debate
 
 4. "Stop bickering already!" says @@RANDOM_NAME@@, Minister of Education. "I say that you can have your cake and eat it, too. Education should be split if it stops this debate. The parents can send their children to secular schools or religious schools, based on what they want their kids to hear. It's expensive, certainly, but the education budget has been needing boosting for ages anyway."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=147]#147[/anchor]: Military Budgets Up For Approval [Greater Philadelphia; ed: Sirocco][/b]
 
 The Issue
@@ -307,7 +309,7 @@ The Debate
 
 6. "The military is a stain on the peace-loving nature of our nation!" cries @@RANDOM_NAME@@, while sporting a Rastifarian hat. "People should be allowed to choose what they do for a living! Conscription is wrong and I don't see why our tax @@CURRENCY_PLURAL@@ should go to such a despicable cause! The money should be going to more important places - like our pockets!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=148]#148[/anchor]: Spare The Rod, Demand Welfare Activists [Eastern Newfoundland; ed: Sirocco][/b]
 
 The Issue
@@ -318,7 +320,7 @@ The Debate
 
 2. "What are these lunatics on about?!" yells @@RANDOM_NAME@@, a concerned parent. "Smacking children has been an effective form of punishment since the dawn of mankind! Outlaw it and I guarantee you the next generation will be a disorderly disaster! Children need, nay CRAVE discipline! Sometimes the only language they understand is the cane, and the government has to respect that!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=149]#149[/anchor]: With Liberty, Freedom, And Guns For All? [Frigben; ed: Sirocco][/b]
 
 The Issue
@@ -329,7 +331,7 @@ The Debate
 
 2. "Nonsense!" insists Michelle Mires, while handcuffing herself to your leg. "Guns pose a risk to people's lives! No one should have the freedom to be stupid! Do you realise just how easy it could be for someone to get hold of a gun and just go and kill people? If you allow everyone to have guns, you're going to be condemning people to death! The answer to safety isn't more guns - it's more policemen on the beat, more serious attention brought to gun-smuggling, and banning toy guns and gun-related violence on the television. We've got to get it into people's heads - guns are BAD."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=150]#150[/anchor]: Bug 'em All, Say Police [Niziania; ed: Sirocco][/b]
 
 The Issue

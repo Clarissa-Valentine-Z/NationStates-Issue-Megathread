@@ -12,7 +12,7 @@ The Debate
 
 4. "That's a good point," says @@RANDOM_NAME@@, your Minister of Civics. "Our people are the generators of the economy. The expats should be allowed to come back, but only if they stay. If we keep letting our citizens emigrate, then we're losing our doctors, our teachers, our skilled and unskilled workforce to damn foreigners! Close the borders to those wanting to leave our nation. If they can't see how wonderful @@NAME@@ is then we'll make them!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=227]#227[/anchor]: Underage Drinkers: Social Menace Or Misunderstood? [Amisdar; ed: Sirocco][/b]
 
 The Issue
@@ -33,7 +33,7 @@ The Debate
 
 7. "This wouldn't be a problem at all if alcohol was banned altogether," says @@RANDOM_NAME@@, enjoying a fine ginger beer. "It's not just kids who break the law when under the influence you know."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=228]#228[/anchor]: Mice In The Walls [Esarchia Marksista; ed: Sirocco][/b]
 
 The Issue
@@ -48,7 +48,7 @@ The Debate
 
 4. "Don't you remember why we got rid of those devil machines in the first place?!" growls @@RANDOM_NAME@@, flicking beads on an abacus. "First it's all fun and games with things like 'pixels' and 'folders' but eventually they'll rise up against their masters and reduce us to slaves! Banning computers was a good start, but it's time we focused on eradicating all automated technology and focus on the handcrafts like basket weaving and carpentry."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=229]#229[/anchor]: Government Saturated In Corruption [Kordothistan; ed: Sirocco][/b]
 
 The Issue
@@ -61,7 +61,7 @@ The Debate
 
 3. "It's really not THAT bad, is it?" asks @@RANDOM_NAME@@, your Minister of Commerce, fiddling with a large gold ring before sliding a thick envelope across on your desk. "Maybe it's all just a prank. Maybe it will all just... go away..."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=230]#230[/anchor]: Extremists On The Ballot Sheet [Omigodtheykilledkenny; ed: Sirocco][/b]
 
 The Issue
@@ -74,7 +74,7 @@ The Debate
 
 3. "Don't say I didn't warn you: this experiment in mob-ocracy was doomed from the start!" claims political adviser @@RANDOM_NAME@@. "Now any idiot with a loyal army of fringe-voters can come in here and tell you what's what! You are the only leader our citizens can truly respect and for the sake of national unity we should put an end to these popularity contests once and for all!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=231]#231[/anchor]: Jungle Fever [Luxtizeria; ed: Sirocco & Candlewhisper Archive][/b]
 
 The Issue
@@ -89,7 +89,7 @@ The Debate
 
 4. "There's absolutely no need for drastic measures," interrupts @@RANDOM_NAME@@, CEO of international corporation Normack Pharmaceuticals. "I've got the solution for you right here: it's called DDT which stands for Death, Destruction, and Total for those pesky flying fiends! Our product may have some alleged 'bad' impact on the environment and, uh, human health, but come on: it's cheap and highly effective against mosquitoes. Eradication's never been so easy!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=232]#232[/anchor]: Suffragette City [Night Island; ed: Sirocco][/b]
 
 The Issue
@@ -106,7 +106,7 @@ The Debate
 
 *5. "That's insane!" gasps Otto Schopenhauer, author of the popular autobiography 'Misogyny And Me'. "Giving women the vote is a really, really bad idea. Seriously now, they can barely decide what to wear never mind what's best for the country! If only women were more obedient to their husbands we wouldn't have these kind of problems. Throw the lot of them suffra-wotsits in the clink, I say." A helpful voice from the back of the room points out that the nation has no jails. "What? Well, let's rebuild us some jails, and throw these harlots in!" [[color=blue]Must not have prisons[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=233]#233[/anchor]: I Spy A Diplomatic Crisis [Good old Communism; ed: Sirocco][/b]
 
 The Issue
@@ -125,7 +125,7 @@ The Debate
 
 6. "Moon... cannon? Mortal danger? You're off your rocker," says General Flowers, scowling as he leafs through the budgets folder. "The reason we're being spied on is because we've become so aggressive and militant! It's only natural that other governments are going to check up on us. If we don't want to get spied on then there should be nothing worth looking for. All we need to do is massively reduce military expenditure. If nothing else, it at least puts more money into people's pockets than into the construction of glorified death machines."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=234]#234[/anchor]: Corruption In The Lobby [The Seniors of Zion; ed: Sirocco][/b]
 
 The Issue
@@ -138,7 +138,7 @@ The Debate
 
 3. "Over my dead body they will," says @@RANDOM_NAME@@, a civil servant. "The problem with lobbying is that it's so easily abused. There are too many opinionated idiots out there prepared to rally around some obnoxious or silly cause. Last week the parliament reviewed a petition from thousands of citizens complaining about birds being too noisy! I mean, really! We'd be better off ignoring lobbyists altogether and trusting in your own sagacity, esteemed leader."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=235]#235[/anchor]: From Green Pastures To Grey Wastelands [Airstrip thirteen; ed: Sirocco][/b]
 
 The Issue
@@ -153,7 +153,7 @@ The Debate
 
 4. "How are you still afloat?!" asks @@RANDOM_NAME@@, another farmer. "Don't listen to him. He's from a time when economies only existed as far as you could walk steer a horse carriage for a day. It's a global economy we have now, and sub-standard produce for high prices is not, and should not, be the norm. Helping the environment with regulation will kill the industry stone dead and still leave us with high prices. The government should be promoting and funding scientific research into making the status quo sustainable - not punishing hard-working citizens for wanting to eat more than potatoes and rice."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=236]#236[/anchor]: Quickie Marriages Under Scrutiny [Plutocycloptika; ed: Sirocco][/b]
 
 The Issue
@@ -166,7 +166,7 @@ The Debate
 
 3. "Marriage is the sacred and immortal union of two souls," declares conservative commentator, Cornelius Prodnose. "It is the ultimate gesture of love! To get married out of sheer whimsy and then change your mind later... it's obscene! People need to face up to the consequences they bring on themselves! Once you're married, that's it. No annulments, no divorces, no backsies. Just eternal love and decency."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=237]#237[/anchor]: Tourists On Death Row [The New Inquisitors; ed: Sirocco][/b]
 
 The Issue
@@ -183,7 +183,7 @@ The Debate
 
 5. "That's what they want! Leverage!" hollers @@RANDOM_NAME@@, your Minister of Defence, storming into your office. "Advances in our markets, political favours - they'll do anything to undermine us! They've always hated us, those rats! If you ask me, this brouhaha isn't about drugs - it's a spit in our eye, that's what it is! What kind of people execute kids for having a few ounces on them? We ought to give them a good bombing, then they'll know how a proper country behaves!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=238]#238[/anchor]: We Need A Few Good Men Who Like Men? [Scolopendra; ed: Sirocco][/b]
 
 The Issue
@@ -202,7 +202,7 @@ The Debate
 
 6. "We still have a military?" questions your Minister of Peace, scratching his unruly hair and smelling none too vaguely of patchouli. "Man, I thought we got rid of those war pigs and all that enlistment hoopla ages ago. Y'know, if you'd just listen to me and go with flowers instead of firearms, this whole gays-in-the-military thing wouldn't be such a buzzkill all the time. Hey, speaking of buzzes, I just got these mighty strong Brancalandian Blues from a guy I know. I'm on one right now and they are far OUT. You wanna expand your mind with me? No? That's cool too." [[color=red]Must have Conscription[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=239]#239[/anchor]: We Who Are About To Die Would Rather Go Home [The Lost Romans; ed: Sirocco][/b]
 
 The Issue
@@ -215,7 +215,7 @@ The Debate
 
 3. "Actually, we could use this to our advantage," whispers Chief of Police, @@RANDOM_NAME@@. "Why not just force convicted criminals to fight for the amusement of the public? They'll be paying for their crimes, contributing to society, and totally freeing us of having to build jails to throw their useless hides in!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=240]#240[/anchor]: Plea Bargains: Tipping The Scales Of Justice? [Jacobaea; ed: Sirocco][/b]
 
 The Issue
@@ -228,7 +228,7 @@ The Debate
 
 3. "You know, we wouldn't have to worry about any of this nonsense and controversy if we just stopped giving our criminals so many rights," sighs @@RANDOM_NAME@@, your fifth cousin, five times removed. "Double jeopardy, cruel and unusual punishment, the writ of habeas corpus... there are just so many inconvenient clauses in our constitution that are getting in the way of keeping our streets clean of crooks. I say we abolish the right to a fair trial, and just lock people up if the judge thinks they've done something wrong. I mean, they're pretty smart guys aren't they?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=241]#241[/anchor]: A Capital City For @@NAME@@? [Sirocco][/b]
 
 The Issue
@@ -245,7 +245,7 @@ The Debate
 
 5. "What's wrong with the old building?" asks @@RANDOM_NAME@@, a noted disestablishmentarian. "We don't need some kind of fancy capital city just to make the bigwig ministers feel important! If there's no room, then fire politicians until there IS room. Have you never heard of doing more with less?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=242]#242[/anchor]: Follow The Leader [Sirocco][/b]
 
 The Issue
@@ -262,7 +262,7 @@ The Debate
 
 5. "If we did that, even some crackpot quango would have the same power as the Minister of Defence," argues @@RANDOM_NAME@@, who happens to be the Minister of Defence. "That's insane. We need strong leadership' to get things accomplished! Have you ever been in a meeting where everyone's opinion is, ugh, 'equal'? They go on for HOURS. HOURS! Believe me, trying to run a government that way will be a massive, fruitless headache. The leader's word is law, and if people don't get that then maybe a little show of strength courtesy of the military wouldn't go amiss."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=243]#243[/anchor]: A Question Of Faith [Sirocco][/b]
 
 The Issue
@@ -279,7 +279,7 @@ The Debate
 
 5. "The only deity this country needs is the one it already has, master," says Emmanuel Syme, one of your creepier advisers while obsequiously bowing on the floor. "I of course refer to you, @@LEADER@@, the finest ruler any humble subject could hope to have! We long to worship you and do your bidding! Some call that a cult of personality, but I prefer to call it... love."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=244]#244[/anchor]: Foreign Invasion Force Takes On Small Farming Community [Altlands; ed: Sirocco][/b]
 
 The Issue
@@ -294,7 +294,7 @@ The Debate
 
 4. "Those 'colonials' are proud, legal citizens of the @@TYPE@@ of @@NAME@@, moron," says @@RANDOM_NAME@@, fully bedecked in a suit fashioned after the national flag. "And they deserve to be protected! A slight against one of us is a slight against all of us! We've gotta show those Wezeltonians we mean business! If you take over the factories, institute an emergency draft, and get as many battleships and fighter jets out there as possible then we might stand a chance! No expense is too costly for the lives of @@NAME@@'s sons and daughters!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=245]#245[/anchor]: Clash Of Cultures [Drunk Cowboy Junkies; ed: Sirocco][/b]
 
 The Issue
@@ -313,7 +313,7 @@ The Debate
 
 6. "Everyone shut up, I have the perfect solution," says @@RANDOM_NAME@@, shouting into a megaphone. "How about we kick these ungrateful foreigners out of the nation and never let them come back?! We've all heard what those ethnics are like, I wouldn't be surprised if they ate their own young! Immigration shouldn't be allowed! I won't abide it!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=246]#246[/anchor]: @@NAME@@ To Hold The Olympic Torch? [Yenen; ed: Sirocco][/b]
 
 The Issue
@@ -328,7 +328,7 @@ The Debate
 
 4. "There's nothing like a feat of strength to please the dull-witted masses, is there?" sighs @@RANDOM_NAME@@, flipping through 'One Hundred Gambits for Advanced Go Players'. "It's so boring. Why can't more intellectual pursuits be given the spotlight, like chess or debating matches? Ban organised sports and make our dreams come true! I think you'll find it comes at a far lower price than the populist Olympics ever will."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=247]#247[/anchor]: Where There's Smoke [Avartinate; ed: Sirocco][/b]
 
 The Issue
@@ -343,7 +343,7 @@ The Debate
 
 4. "I think that sounds kinda... socialist," says @@RANDOM_NAME@@ with a disgusted grimace. "The government should keep out of this if you ask me. The only reason fires happen is because people are stupid and they know a fire engine will come racing down the street to save them. Take away that safety blanket and I think you'll find they wise up quite quickly! We don't need any tax-consuming fire service! If idiots and their families go up in flames they'll have no one to blame but themselves."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=248]#248[/anchor]: The Sky Is Falling [Freedomstaki; ed: Sirocco][/b]
 
 The Issue
@@ -360,7 +360,7 @@ The Debate
 
 5. "Let's just ban all planes!" shouts @@RANDOM_NAME@@, prodding you angrily in the chest. "Bombings and terrorist attacks aren't the only problems these things cause! The aeroplane is one of the worst pollutants mankind has ever created! They're loud, they're ugly, and they burn fuel like there's no tomorrow! There are more environment-friendly ways to travel than by plane even if they are slower! Much slower. But cleaner!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=249]#249[/anchor]: Particle Accelerator Sparks High Energy Debate [Milostein; ed: Sirocco][/b]
 
 The Issue

@@ -10,7 +10,7 @@ The Debate
 
 3. "The old woman is right," comments @@RANDOM_NAME@@, the head of the @@DEMONYMAJDECTIVE@@ Electoral Commission. "Our nation needs an upper house to be a check on the lower. After all unicameralism would basically make you an elected dictator with all that unchecked power. At the same time, the upper house's disapproval should not be a death knell for otherwise popular legislation. I have a compromise. Let's allow the lower house to call a snap election if the upper house blocks one of its bills. If the lower house, after the election, passes the same bill again, then it becomes law regardless of what the upper legislators think. Expensive? Sure, but at least we give the people the right to break parliamentary stalemates whenever they happen."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=561]#561[/anchor]: Plug In and Play [Katalaysia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 4. "Okay, maybe we shouldn't go that far," muses your cat-obsessed secretary who has pictures of her felines scattered all over your office. "Why not allow some games, but just not the violent ones? There's nothing wrong with innocent games like Gumdrop Kart and Halo Kitten. Just allow games that any child can play without being scared or inclined to violence, and set up a council to rate the games. That way everyone is happy."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=562]#562[/anchor]: Return to Sender [Lenyo; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -38,7 +38,7 @@ The Debate
 
 3. "What? What? No, don't stop selling weapons, we are not asking for that! Just stop selling weapons to the wrong people!" demands rebel leader Baylor Garner, commander of the Southern Tasmanian Freedom Union. "We can only pay half what the evil Supreme General can, but we are closer to your nation culturally and ideologically, and we're frankly more decent human beings than our mutual enemies. Just limit your weapons trade to people who can be trusted to use armed might for what is right, and you will create a world filled with nations that are more like your own."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=563]#563[/anchor]: Resistance Is Fertile [Fotila; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -53,7 +53,7 @@ The Debate
 
 4. "Wait a minute! Has anybody thought about the little guy here? By which I mean, the poor, destitute pharmaceuticals industry?" questions Big Pharma executive @@RANDOM_MALE_NAME@@, as he steps off his private jet. "If you block out sales, our profits will fall by several percent, and jobs will be lost. Perhaps instead subsidise investment into the NEXT generation of antibiotics? That way farmers can use antibioitics all day long, and we'll likely still have new tools to treat sick patients with."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=564]#564[/anchor]: Do Good Intentions Make Good Samaritans? [Saint Emygdius; ed: Gnejs][/b]
 
 The Issue
@@ -66,7 +66,7 @@ The Debate
 
 3. "Hey, who's the doctor, er, nurse here?" bellows Nurse @@RANDOM_NAME@@, whose head mirror is both upside down and facing the wrong way. "Emergency medical staff are the only ones who know what's what when it comes to these situations. I'm so sick and tired of amateurs blazing in, failing at cowboy techniques they picked up from some Whotube-channel and doing more damage than good. Laymen shouldn't be allowed to meddle; what we need are organized health patrols with uniformed EMTs on the beat, just like cops. That way, when there's an emergency, people who really know their stuff will be there to help."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=565]#565[/anchor]: 'A' Is For Academic Doping [Golgothastan; ed: Nation of Quebec][/b]
 
 The Issue
@@ -85,7 +85,7 @@ The Debate
 
 **6. "Why have exams at all? Everyone knows that they're a waste of everybody's time," admits visibly stressed out teacher Edna Crandall, knocking back a handful of nicotine-replacement lozenges. "In fact, do we really need a proper curriculum to follow? Schools and teachers should be able to teach whatever they think is relevant. This can be learning a new language or the intricacies of soap opera love triangles. The schools would save some cash, and it would make my job much easier too." [[color=red]Smoking is illegal[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=566]#566[/anchor]: Drive My Car [Louisadam; ed: Lenyo][/b]
 
 The Issue
@@ -98,7 +98,7 @@ The Debate
 
 3. "How about we, the citizens of @@NAME@@, finally get a break for once?" complains @@RANDOM_NAME@@ while parking in a public fountain and splashing everyone nearby, yourself included. "It's not fair to make my kids wait five minutes just to find an 'acceptable' place to park. Let's just get rid of all of these silly tickets once and for all. After all, who's to say where is or isn't a logical place to park?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=567]#567[/anchor]: Syntax Destruction [Drasnia; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -111,7 +111,7 @@ The Debate
 
 3. "Spoken or written words, delivered on matters of policy by person or persons within the government, hereafter referred to as a government commentary, constitute a legal statement," explains prominent lawyer @@RANDOM_NAME@@. "It is my professional opinion that a government commentary should use only legal terminology to ensure clarity of meaning."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=568]#568[/anchor]: Dismissal Denied! [Human Olympus; ed: Sedgistan][/b]
 
 The Issue
@@ -126,7 +126,7 @@ The Debate
 
 4. Your paper shredder looks at you, knowingly. It doesn't talk, of course, but you know what it's trying to say. It beckons you. Go on... One more can't hurt, can it?
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=569]#569[/anchor]: Grand Prix De @@NAME@@? [Montagna; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -145,7 +145,7 @@ The Debate
 
 6. "Why are these petrolheads so obsessed with auto racing anyway?" asks migraine-suffering riding enthusiast @@RANDOM_FEMALE_NAME@@, from the back of a stallion that has just evacuated manure onto the pavement. "It's just noise, smelly fumes and testosterone! Ban motor racing, and invest that pot of money into equestrianism. It's a genteel racing event for a civilised society." Her horse glares at you threateningly, as if to support the argument.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=570]#570[/anchor]: Clerical Errors [Christian Democrats; ed: Nation of Quebec][/b]
 
 The Issue
@@ -158,7 +158,7 @@ The Debate
 
 3. "Science H Logic! Why is this the government's concern?" complains science fiction author and well-known secularist @@RANDOM_NAME@@. "You have far more important things to do than to listen all day to debates on dogma and the merits and demerits of the sexual composition of their clergy. Frankly, the average @@DEMONYM_NOUN@@ on the street doesn't really care about this issue. If anything, you should cut all funding to @@FAITH@@. It's a drain on the budget, and that'll teach these superstitious bigots to stop bothering you with their trivial ecclesiastical disputes."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=571]#571[/anchor]: Family Feud [Appalatchia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -173,7 +173,7 @@ The Debate
 
 4. "Reminds me of a similar situation a few years back with the Jetter and Sharkley families," recalls @@RANDOM_FIRST_NAME@@ Krupke, a cop from the west side of @@CAPITAL@@. "Tragic business, we had to end up relocating both families to opposite ends of the country. Just do the same with the Caphills and the MacWhoevers, and if they start up feuds with their new neighbors, I'm sure there's some barren, uninhabited islands we can ship them off to."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=572]#572[/anchor]: Reading, Your Rights [Gelimor; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -186,7 +186,7 @@ The Debate
 
 [3]. Online, a guy with a unicorn pizza avatar named xChickSaitama93 sends you an Insta-Message, which pops up on your screen. "LOL. Y U need books NEway? Duz NE1 even reads those things anymor anyway. =S havnt picked 1 up since highschool ... you shud ban paper. #4ENVIROMENT yeh?" [[color=blue]Computers are legal[/color], [color=blue]Must have internet[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=573]#573[/anchor]: The Road To Blackacre Ends Here? [Zwangzug; ed: Nation of Quebec][/b]
 
 The Issue
@@ -201,7 +201,7 @@ The Debate
 
 4. As soon as your aides close the door, it bursts open again as an upside down bobsled drifts into your chateau, stopping just before your priceless Maxtopian vase. Your aides turn around the bobsled, revealing the @@DEMONYM_ADJECTIVE@@ bobsled team, who came in last place at the previous Winter Olympics. "Yo, mon, what if @@NAME@@ hosted its own sporting competition for like-minded nations?" asks the captain of the team, @@RANDOM_NAME@@, as the team steps up to lift the bobsled over their heads. "Our sportsmen and women deserve the chance to compete in these games, but most of us don't feel comfortable in these tin-pot dictatorships. This way we all get to compete and we send a message to our enemies." The bobsledders walk out of your office, as everyone in the room begins to slowly applaud the team.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=574]#574[/anchor]: One Small Step For Private Enterprise? [New Birgland; ed: Nation of Quebec][/b]
 
 The Issue
@@ -216,7 +216,7 @@ The Debate
 
 4. "You've ruined this planet. Now you want to ruin outer space?" queries Gaia Peacedove, an eccentric environmentalist and host of the esoteric television show 'Antiquated Aliens', seen dressed in hemp fiber. "Cleanliness is next to godliness, after all. The Ancient Ones didn't want us to come to them, they will come to us. Stop polluting space with your fancy-schmancy space probes and rockets! Ban all space exploration, and focus on protecting the environment. They will surely see this as a sign that we are ready for their arrival!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=575]#575[/anchor]: Sick Days For Sick Waves [Australian Republic; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -233,7 +233,7 @@ The Debate
 
 5. "I don't really understand what the attraction of sunny beaches is supposed to be," notes dermatologist Dr. @@RANDOM_NAME@@, closing your blinds for you. " People just need to be reminded that too much sunshine and beach-side indulgence can be bad for you. There's skin cancer, sunburn and all sorts of nasty creatures, like sharks and jellyfish. Have you seen the size of their teeth? Sharks, I mean, not jellyfish. Here, look at this photo of this man whose skin fell off after he got stung. I've got that picture in a Public Health leaflet, you just need to distribute them..."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=576]#576[/anchor]: Light At The End Of The Tunnel [Kievan Rusk; ed: Candlewhisper Archive][/b]
 
 The Issue 
@@ -248,7 +248,7 @@ The Debate
 
 4. "Well, life is pretty damn pointless," says Nia Liszt, leader of a new movement calling themselves the [i]Self-Destructivists[/i], "so why don't we just end people's misery once and for all? We humans have had a terrible impact on the planet and suffering is inherent to life. You should donate some public money to my crowdfunded "kill-starter": I'm looking to engineer the perfect virus that will wipe out all human life forever. There's a little fine tuning to be done, but in the meantime, you can buy access to my existing research, which will probably help you develop some biological WMDs, or whatever else you like to occupy yourself with. I mean, who cares? It's all ridiculous, anyway."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=577]#577[/anchor]: Second World Problems [Candlewhisper Archive; ed: Lenyo] [/b]
 
 The Issue 
@@ -263,7 +263,7 @@ The Debate
 
 4. "Hmmm, sorry what? I wasn't listening," says a rotund Party member with an expensive watch and the latest media tablet. "Perhaps we can get some sort of compromise between the economic benefits of private industry, alongside our ongoing socialist program. I mean, have you seen some of the cool stuff coming out of those capitalist countries?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=578]#578[/anchor]: Support Your Local Arms Manufacturer [Golgothastan; ed: Lenyo][/b]
 
 The Issue 
@@ -280,7 +280,7 @@ The Debate
 
 *5. "Do you realize how many jobs that would cost, you blithering idiot?" foams union organizer @@RANDOM_NAME@@, diplomatic as ever. "Our arms industry employs people in every one of your marginal electoral districts, so you'd better listen to us... and if the fat cat bosses aren't running things well, then maybe it's time we re-nationalized! Under government control the factories will be churning out guns and ammo at twice the rate! And twice the price..." [[color=blue]Must not have Autocracy[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=579]#579[/anchor]: Real Handwriting Has Curves [The Rejected Realms Issue Committee; ed: Luna Amore][/b]
 
 The Issue 

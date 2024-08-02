@@ -12,7 +12,7 @@ The Debate
 
 [4]. "These chaplains have gotten me thinking," muses the head of the @@CAPITAL@@ chapter of @@FAITH@@, whose sparkling ten-foot tall hat was recognizable from miles away. "Why don't you place the military under our command? After a massive expansion, we can force all soldiers to convert so we can wage a divine holy war against the heathens and non-believers in @@REGION@@. Then once we've purged @@REGION@@ of its sins, we can turn our attention to the blasphemers in our own country. Ahh, the Almighty will surely look upon our work with great favour! All I need is your signature here." [[color=purple]Must have a national religion[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=521]#521[/anchor]: The Wreck Of The Edward Fitzpatrick [Drawkland; ed: Logophilia Lyricalia][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 5. "Well the answer's clear to me," says Hal Stoker, the most popular weather forecaster in @@CAPITAL@@. "This was a failure by meteorologists all around Great @@ANIMAL@@ Lake. This is a red flag that's telling you to pour some government funds into the @@DENONYMADJECTIVE@@ Institute of Meteorology. Our weather forecasters have been poorly trained on outdated equipment for years as the Institute languished. We really need better gear; the new Rotating Aerial Inversion Navigator, that's the RAIN-420 doppler radar, is a real beauty, I gotta get my hands on that - oh, uh, and we'll save some lives, too."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=522]#522[/anchor]: Time To Get Serious [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -46,7 +46,7 @@ The Debate
 
 5. "How can you listen to these people?" asks depressed laughter therapist @@RANDOM_NAME@@, dabbing away a tear. "@@NAME@@ needs joy, now more than ever. We need to bring the art of humour and inner happiness into everybody's lives through intensive programmes in every school and workplace in the country. Happiness doesn't just happen: it needs to be taught!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=523]#523[/anchor]: A Family Affair [Gnejs; ed: Lenyo][/b]
 
 The Issue
@@ -59,7 +59,7 @@ The Debate
 
 [3]. "Typical. The nomenklatura are unable to see beyond the existing state of things," says Kim, a high ranking Party official that, in a surprising turn of events, has no family connection to you whatsoever. "To advance to the next Historical stage, we must abolish the counter-revolutionary family ties that cloud our judgments and breed corruption. We'll set up mating programs to ensure a healthy flow of offspring and raise all developing @@DEMONYM_PLURAL@@ as wards of the state. Sure, it doesn't really solve the avocado dilemma, and it might be a tad expensive and complicated to administer, but I'm sure it'll completely eliminate our corruption problem in the long run. Or increase it. Well, there's only one surefire way to find out." [[color=blue]Sex is legal[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=524]#524[/anchor]: Something Is Rotten In The State Of @@NAME@@ [Kainesia; ed: Gnejs][/b]
 
 The Issue
@@ -74,7 +74,7 @@ The Debate
 
 [4]. "The right kind of people, yes, hear hear!" agrees Lord Gerry of The Mander, one of your ever-supportive benefactors and campaign donors. "Tradition is grand, splendid in fact. But, election season is nearing, and wouldn't it be nice with a slightly more favourable demographic composition in the voting districts? I've taken the liberty to do a few calculations, and, well, let's just say that a few pen-strokes goes a long way." [[color=blue]Must have private industry[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=525]#525[/anchor]: Nowhere To Go! [Nova Sodor; ed: Sedgistan][/b]
 
 The Issue
@@ -87,7 +87,7 @@ The Debate
 
 3. "I have another solution!" cries @@RANDOM_NAME@@, spokesbeing of eccentric primitivist group Nature's Call as they take a stool by your desk. "I suggest you wash your hands of the matter by closing what facilities there are, and allow citizens to get back to basics by making it legal for any of us to use the nearest bush." A twig that you hadn't previously noticed falls from their hair.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=526]#526[/anchor]: Any Idea Where The Law Is, Bessie? [Annihilators of Chan Island; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -102,7 +102,7 @@ The Debate
 
 4. "Them rowdy ruffians and horrible hooligans wouldn't have got far if I still had my old service revolver!" declares 85 year-old veteran @@RANDOM_NAME@@, waving a bayonet at you. "Let's not even talk about what I could have done to them if I had my old tommy gun, pineapple grenades and bazooka as well. I'd have blown those mischievous grins off their faces! We won't even need those doughnut-munching coppers breathing down our necks if I've got my trusty Maxim Gun to hand!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=527]#527[/anchor]: The Body Politic [Free Equatorial Nations; ed: Lenyo and Ransium][/b]
 
 The Issue
@@ -121,7 +121,7 @@ The Debate
 
 **6. "Maybe there's a compromise," speculates @@RANDOM_NAME@@, a prolific jouster and part-time turnip farmer. "How about instead of making him the absolute monarch of Ubalin, we install King... Rex as a constitutional monarch of Ubalin. That way Ubalin stays a part of @@NAME@@ and continues to be run by competent politicians, but they'll have a bit of tradition to rally behind. And imagine having an actual king open the Ubalin medieval fayre. My turnip sales will go through the roof!" [[color=red]Must be vegetarian[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=528]#528[/anchor]: Privacy Concerns Reaching New Heights [The Midwestern Atlantic Colonies; ed: Luna Amore][/b]
 
 The Issue
@@ -138,7 +138,7 @@ The Debate
 
 5. "Obviously we can't just let anyone run around with these things - that would be ludicrous!" sputters the Chief of Police of Cape @@NAME@@. "However, these drones could certainly help my department find fugitives, carry out investigations, y'know, that sort of thing. Who knows, we could even check up on our citizens every now and again too. There's probably loads of illegal things folks are up to because they think they won't get caught."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=529]#529[/anchor]: Attack Of The Attack Ads [Czechostan; ed: Nation of Quebec][/b]
 
 The Issue
@@ -151,7 +151,7 @@ The Debate
 
 3. "Have you ever thought that maybe there's a good reason @@NAME@@ is gripped by the magic of attack ads?" questions sleazy television executive @@RANDOM_NAME@@. "We love filth! We love drama! These issues like 'climate change,' 'corruption,' 'deteriorating relations with Maxtopia,' they're real downers and will they ever REALLY be solved? Surely @@DEMONYM_PLURAL@@ agree - politics is a spectacle and a blood sport, and one that needs to be drenched in more garbage, not less. We shall make the politics of @@NAME@@ the greatest reality show in @@REGION@@! Heck, we can even use that Question Period footage that featured the Opposition Leader getting egged and that random MP smashing a chair on the Interior Minister for our opening title!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=530]#530[/anchor]: Regenerative Permaculture Emergence [Esternarx; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -166,7 +166,7 @@ The Debate
 
 4. "Look, everybody loves broccoli, but we can't just let people grow food without permission!" notes @@RANDOM_NAME@@, your Agricultural Minister. "Forget the trespassing: these maniacs are growing runner beans that are sometimes a whole inch longer than industry regulations allow! What this country needs is strict new laws and more agents to enforce them in order to properly regulate this regenerative trend and ensure that any and all gardens being planted are conforming to official standards. These guerrilla farmers can't be trusted to act responsibly; only through wise cultivation under my agency's guidance can we properly manage agriculture."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=531]#531[/anchor]: Lèse Majesté Maladies [Nuremgard; ed: Lenyo][/b]
 
 The Issue
@@ -179,7 +179,7 @@ The Debate
 
 3. "Absolute nonsense," retorts miniature wargamer Ollie Crumbwell, setting aside his army of new models to speak with you. "Lèse Majesté laws are medieval and backward. People should be allowed to say whatever they like about the Royals. Their fancy titles and tiaras shouldn't protect them from criticism, because our leading political figures need to know what the people really think about them. Otherwise they'll become completely out of touch. That means @@DEMONYM_PLURAL@@ have every right to mock the Crown Prince's hacking cough and missing nose." 
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=532]#532[/anchor]: Desert Island Risks [Hell Bovines; ed: Nation of Quebec][/b]
 
 The Issue
@@ -194,7 +194,7 @@ The Debate
 
 4. "The problem is government and @@LEADER@@'s incompetence," counters noted billionaire Edward Rump, who was coincidentally listed in the Manamana Memos. "People come up to me all the time and tell me that they take their money abroad because they are tired of dealing with the draconian tax code and endless bureaucracy in this country. In order for @@NAME@@ to be great again, we need to prosper and be wealthy. In order to be wealthy, by the way I love the wealthy, we need to simplify the tax code and lower taxes. Freedom will ring and it'll be amazing. So amazing."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=533]#533[/anchor]: Hearsay Heresy [Losthaven; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -207,7 +207,7 @@ The Debate
 
 3. "All of this is too complicated," interrupts Mark Commodus, an imperious-seeming minister, "and this right here is why people are so darn sick of all these courts and legal shenanigans. Seems like any way you slice it, dumb rules get in the way of justice. I propose a third way: bring back trial by ordeal! Let the accused wrestle with an @@ANIMAL@@, and if they win they didn't do it and get to go free. If they lose, we lock up or bury whatever remains. It's a foolproof system that our ancestors used for a thousand years, and I'll tell ya, they didn't waste a pretty penny on it!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=534]#534[/anchor]: Too Few Cooks In The Kitchen [Drasnia; ed: Nation of Quebec][/b]
 
 The Issue
@@ -224,7 +224,7 @@ The Debate
 
 5. "Ha ha! The kitty thinks it's people!" squees your rather shallow niece after picking up her father's phone. "Isn't it cute? Way cuter than any of those ugly politicians I was supposed to support last election. It would be so much easier for me if I didn't have to worry about voting. With all that time I would save, I could start a vlog!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=535]#535[/anchor]: NationStates Destroys @@DEMONYM_ADJECTIVE@@ Economy [Ballotonia; ed: Gnejs][/b]
 
 The Issue
@@ -237,7 +237,7 @@ The Debate
 
 3. "I'll have you know that NationStates can be used for all sorts of productive purposes," insists @@RANDOM_NAME@@, who looks suspiciously similar to site owner and operator Max Barry, apart from the fake moustache. "It can be a useful educational tool if integrated in school classes on politics and civics, for example. Just imagine it: an entire generation of tech-savvy youngsters armed with first-hand knowledge on how to navigate complex political issues. @@NAME@@ would be the envy of @@REGION@@. What are you waiting for, @@LEADER@@, make NationStates a mandatory part of the curriculum in all schools!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=536]#536[/anchor]: Every Witch Way Spells Disaster [The Newly Reformed Keldacia; ed: Luna Amore][/b]
 
 The Issue
@@ -252,7 +252,7 @@ The Debate
 
 4. "Where shall I begin?" coolly starts the head of the local planetarium, Dr. Carl deLawne Dyson. "These people, these simple farmers, they are taking what they don't understand and they are calling it witchery. This sort of unsubstantiated ignorance must be stamped out. There is no such thing as witches, plain and simple. We need to start working towards a future free from these backwards superstitions at whatever cost."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=537]#537[/anchor]: Summary Injustice [Candlewhisper Archive; ed: Lenyo][/b]
 
 The Issue
@@ -265,7 +265,7 @@ The Debate
 
 3. "I'll admit it: unilateral judgement is a flawed system," observes Clotho Cerberus, one of the three Cerberus sisters, who is promptly interrupted by her sibling Lachesis Cerberus. "But I also acknowledge my sister's point that citizen juries lack the legal knowledge to make sound judgments." Atropos Cerberus then interrupts the other two siblings, "So why not have all courts run by a triumvirate of judges, with a two-to-one majority needed to impose sentences? That way, no one bad seed can corrupt the entire judiciary."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=538]#538[/anchor]: @@LEADER@@, Let Your People Go! [The Rejected Realms Issue Committee; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -280,7 +280,7 @@ The Debate
 
 4. "Oh wow, I really feel for these girls!" says @@RANDOMMALEFIRSTNAME@@, one of the five singers from boy band 'The Unattended Gents', whose pop concert was so tumultuous. "It's our fault, for sure. I've written a song all about how sorry we are, and the gentle massage I'm gonna give those girls to make up for it. But hey, I know how we can fix this. Let's have every visit to the little lady's room cost 1 @@CURRENCY@@, then those queues will be a thing of the past. We can all be happy together, forever."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=539]#539[/anchor]: All My Bits Are Belong To You [Hell Bovines; ed: Nation of Quebec][/b]
 
 The Issue

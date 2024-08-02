@@ -10,7 +10,7 @@ The Debate
 
 3. "You know, messing with dress code rules could be a lot of fun!" giggles your brother, seeming even more deranged than usual. "We could make all the men wear suits of armour on a Tuesday, clown suits on a Wednesday or Dogman costumes for the second week of every month. And you force the ladies into maid costumes or air hostess uniforms. C'mon, you've gotta make this happen. It would be so great!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=821]#821[/anchor]: A Switch In Time Kills Nine [Ransium; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -23,7 +23,7 @@ The Debate
 
 3. "No! Not the railways!" gasps your Minister of the Environment and amateur ferroequinologist @@RANDOM_NAME@@, who is currently wearing a worn-out conductor's hat. "Look, I hate to derail this whole train of thought, but daylight saving is not only a cultural part of what makes us @@DEMONYM_ADJECTIVE@@, it also holds a valuable role in energy conservation. With it in place, @@DEMONYM_PLURAL@@ use less lighting during summer evenings and less heat during winter mornings. You should not only keep it, you should also make sure that all who do business in @@NAME@@ are compliant with it."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=822]#822[/anchor]: Never Work With Children [Frieden-und Freudenland; ed: The Free Joy State][/b]
 
 The Issue
@@ -36,7 +36,7 @@ The Debate
 
 3. "Dear, please be reasonable here," says Mrs. Suspectfire, the presenter of a popular children's show, looking at you over her wire-framed glasses. "Let's admit: commercials and movies do need child actors. But we must make sure they're not exploited, by limiting the working hours. If we just allow child actors to work for no more than one hour per day, nobody can say that is child abuse."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=823]#823[/anchor]: Where The Sun Don't Shine [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -51,7 +51,7 @@ The Debate
 
 4. "Nothing new under the sun, huh?" butts in @@RANDOM_NAME@@, your elderly neighbour, slipping out of @@HIS@@ bathrobe to proudly expose sagging skinfolds and liver-spotted buttocks. "There's plenty of sunlight outside if you ask me. The problem is that light can't get through the fabric barriers that we mummify ourselves with! Enforce compulsory nudity, and let bodies luxuriate in the sun! For health!" @@HE@@ leers hopefully at an attractive young intern, miming the removal of clothing.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=824]#824[/anchor]: Period Drama [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue
@@ -66,7 +66,7 @@ The Debate
 
 4. "Let's try and be balanced here," whispers your Treasury Minister @@RANDOM_NAME@@, wishing @@HE@@'d never accepted the invitation to your family home. "Sales tax is vital to help keep the burden of income tax down, but it's a good thing to be equitable. Why not add sales tax to men's daily goods like razors and shaving cream? That way, everybody pays their fair share."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=825]#825[/anchor]: Bugging Out On Beef [Arcunem; ed: Caracasus][/b]
 
 The Issue
@@ -85,7 +85,7 @@ The Debate
 
 *6. "Am I the only one in the room who actually read the study?" butts in militant vegetarian @@RANDOM_NAME@@. "It says that farming these insects is better for the environment than raising animals for meat. News flash--it's still bad for the environment! Listen, everyone knows that the most ecologically friendly diet out there is a vegetarian one. Why are we taking half measures when we could simply outlaw eating animals of any kind?" [[color=red]Religion is illegal[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=826]#826[/anchor]: Licencing Driving @@DEMONYM_PLURAL@@ Crazy [Omakhandia; ed: Ransium][/b]
 
 The Issue
@@ -100,7 +100,7 @@ The Debate
 
 4. "Licenses? We don't need no stinkin' licenses!" exclaims a scruffy-looking man who took a wrong turn and wandered into your meeting. "Why should the government have any say in who can and can't drive? Get rid of permits, licenses, traffic cops, borders, barriers, speed limits, road laws, and identification plates, and just let people live their lives!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=827]#827[/anchor]: Making Money Hand Over Fist [Kaschovia; ed: Ransium][/b]
 
 The Issue
@@ -115,7 +115,7 @@ The Debate
 
 4. "Those critics are just cowardly keyboard warriors," hisses the infamously tough boxing coach @@RANDOM_NAME@@. "I'm sure anyone critical of athletes' salaries would quickly shut up if we forced them into a real fighting situation. They'd be good punching bags for the million @@CURRENCY@@ fighter I'm training."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=828]#828[/anchor]: Your Execution In 30 Years Or Less Or You're Free [Saithal; ed: Nation of Quebec][/b]
 
 The Issue
@@ -132,7 +132,7 @@ The Debate
 
 5. "Or we could just abolish capital punishment," interjects your teenage niece as she takes a break from protesting other perceived injustices in @@NAME@@. "You want to save money on killing people? Just stop killing people. Appeals are quite expensive, you know."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=829]#829[/anchor]: Winning At Battleship [Annihilators of Chan Island; ed:  Sedgistan and Candlewhisper Archive][/b]
 
 The Issue
@@ -147,7 +147,7 @@ The Debate
 
 4. "This old girl may not be battleworthy, but she's still a piece of naval history," gushes navy recruiter @@RANDOM_NAME@@. "As a museum ship in harbour, this awe-inspiring battleship will amaze folk from far and wide. It will remind us of our history as a proud military power, show people how outmatched our foolish enemies were, and encourage young people to feel the patriotic call of duty."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=830]#830[/anchor]: Unreasonable Adjustments? [Dragude Sultanate; ed: Caracasus][/b]
 
 The Issue
@@ -162,7 +162,7 @@ The Debate
 
 *4. "Comrade, the revolution demands that each contribute according to their ability," intones @@RANDOM_NAME@@, Party Undersecretary and part-time stamp collector. "If these children cannot demonstrate the abilities needed for rigorous academic study at the age of, say, ten or so then perhaps they would be better off preparing for a future in less mentally demanding roles on assembly lines or in the mines. Everyone has their part to play, after all." [[color=red]Must not have private industry[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=831]#831[/anchor]: Give Us A Break, @@LEADER@@ [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -179,7 +179,7 @@ The Debate
 
 5. @@RANDOM_NAME@@, the top undertaker in @@NAME@@, has the final say. "I haven't had a day off for twenty-five years. I don't need a day off, and all these work-shy layabouts shouldn't have one either. @@LEADER@@, we don't need another public holiday. In fact, we don't need any public holidays. Get rid of them all; it will be good for the economy."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=832]#832[/anchor]: Moderating Your Opinion [Carrasastova; ed:  Ransium][/b]
 
 The Issue
@@ -194,22 +194,22 @@ The Debate
 
 4. "The problem is WhoTube has a virtual monopoly on online video sharing," moans your Minister of Public Endeavors Felicity Fox, while simultaneously rapidly typing on her laptop. "With competition, there could be ConservativeTube, LiberalTube, whatever. Everyone will be happy in their little echo-chambers. So just encourage new startups and enforce anti-monopoly measures against WhoTube. Now if you'll excuse me, I have a cat video that I need to finish editing."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=833]#833[/anchor]: Twitching Up A Storm [Nation of Quebec; ed:  Ransium][/b]
 
 The Issue
 After encouraging your cabinet to be on social media, Twitcher use has exploded. In a recent controversial Twit, @@RANDOM_NAME@@, your Finance Minister, posted that "Eckie-Ecola soda tastes like parrot urine." Since then, sales of Eckie-Ecola have gone flat and their stock prices have fizzled. The company is demanding an apology, and some on your staff are questioning the wisdom of all the social media usage.
 
 The Debate
-1."Millions in profits lost!" moans Eckie-Ecola CEO @@RANDOM_NAME@@ while opening a can of soda and 'accidentally' spraying fizz on your favorite portrait of yourself. "Thanks to your Finance Minister's careless and totally wrong Twit, I've had to lay-off hundreds of workers. I demand an apology, on Twitcher, and compensation for my losses! In fact, I'll go one step further and request that all politicians refrain from making these kinds of remarks on social media. Surely you people have more important things to do, like, I don't know, running the nation?"
+1. "Millions in profits lost!" moans Eckie-Ecola CEO @@RANDOM_NAME@@ while opening a can of soda and 'accidentally' spraying fizz on your favorite portrait of yourself. "Thanks to your Finance Minister's careless and totally wrong Twit, I've had to lay-off hundreds of workers. I demand an apology, on Twitcher, and compensation for my losses! In fact, I'll go one step further and request that all politicians refrain from making these kinds of remarks on social media. Surely you people have more important things to do, like, I don't know, running the nation?"
 
-2."I hate to admit it, Leader, but, uh... the CEO does have a bit of a p... point," mumbles your junior aide @@RANDOM_NAME@@, nervously clutching a short straw. "You and the Cabinet, uh... maybe DO spend a tiny bit too much time on social media. While the Twits are, of course, hysterical and incredibly informative, they might be a tiny bit of a distraction. I think it might be a good idea to uhh... b... b... ban politicians, or at least high-ranking officials, from having social media accounts. I mean, it's only a matter of time before one of them accidentally posts top-secret information online, right?"
+2. "I hate to admit it, Leader, but, uh... the CEO does have a bit of a p... point," mumbles your junior aide @@RANDOM_NAME@@, nervously clutching a short straw. "You and the Cabinet, uh... maybe DO spend a tiny bit too much time on social media. While the Twits are, of course, hysterical and incredibly informative, they might be a tiny bit of a distraction. I think it might be a good idea to uhh... b... b... ban politicians, or at least high-ranking officials, from having social media accounts. I mean, it's only a matter of time before one of them accidentally posts top-secret information online, right?"
 
-3."Now hold on there!" defensively interrupts @@NAMEfromDescription@@, while simultaneously posting about the 'nasty' WhoTube comments section in @@HIS@@ latest Twit. "Social media is great for politicians! It helps us connect with the electorate in a way our parents and grandparents never thought possible! Yes, some of us can get a little... irresponsible, but what about our freedom of speech, huh? Doesn't that apply to us as well?"
+3. "Now hold on there!" defensively interrupts @@NAMEfromDescription@@, while simultaneously posting about the 'nasty' WhoTube comments section in @@HIS@@ latest Twit. "Social media is great for politicians! It helps us connect with the electorate in a way our parents and grandparents never thought possible! Yes, some of us can get a little... irresponsible, but what about our freedom of speech, huh? Doesn't that apply to us as well?"
 
-4."You know, this whole social media thing has got me thinking," replies your Propaganda Minister, grinning from ear to ear. "You have hundreds of thousands of followers on Twitcher and MyFace, right? What if we used that to our advantage? Why not attack government critics more directly? Your brainwashed followers will be so fired up they'll run them out of the country! And if someone you rant about online ends up dead, well, that's one less problem we have to worry about."
+4. "You know, this whole social media thing has got me thinking," replies your Propaganda Minister, grinning from ear to ear. "You have hundreds of thousands of followers on Twitcher and MyFace, right? What if we used that to our advantage? Why not attack government critics more directly? Your brainwashed followers will be so fired up they'll run them out of the country! And if someone you rant about online ends up dead, well, that's one less problem we have to worry about."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=834]#834[/anchor]: Government And CO [Nation of Quebec; ed:  Candlewhisper Archive][/b]
 
 The Issue
@@ -224,7 +224,7 @@ The Debate
 
 4. "Sounds like the problem is the buildings, not some gas," chimes in contractor @@RANDOM_NAME@@. "Have you seen the state of some of these buildings? The Public Affairs building is older than you are! We need to tear down these decrepit monstrosities and replace them with new technological marvels that can eliminate poisonous gasses before they're a threat! Will it be expensive and inconvenient? Yes, but think of how fancy and safe your new office will be!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=835]#835[/anchor]: The End Is In Sight? [Candlewhisper Archive; ed:  Candlewhisper Archive][/b]
 
 The Issue
@@ -239,7 +239,7 @@ The Debate
 
 4. "Wait... we're not one of those loopy nations that have the death penalty, are we?" panics confused civil servant @@RANDOM_NAME@@, checking through the legislation archive files to see what policies you've enacted in this hectic year. "That's some kind of error, right? Tell me that's an error!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=836]#836[/anchor]: Don't Drink The Grape Punch [Galway-Dublin; ed:  The Free Joy State][/b]
 
 The Issue
@@ -256,7 +256,7 @@ The Debate
 
 5. "We all know the real problem, and it won't be solved by turning this nation into some kind of police state," muses @@RANDOM_NAME@@, the ethereal sister to one of the deceased, who is sporting a T-shirt that reads [i]Hugs Not Drugs[/i]. "The real problem isn't that some people have a different belief. Hey, live and let live, right? But when this @@lastnamefromoption1@@ guy started preaching 'heroic self-immolation', you let him get hold of all kinds of bad stuff. Sleeping pills, pain pills, potassium cyanide... You know. Not cool. If you, like, stopped selling substances that can kill people, we can all just go and live in peace."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=837]#837[/anchor]: Wag The Dog [Separatist Peoples; ed:  Gnejs][/b]
 
 The Issue
@@ -271,7 +271,7 @@ The Debate
 
 4. "Who gives an empty sack about 'international' law?" exclaims radical radio pundit @@RANDOMNAM@@, who just shouldered @@HIS@@ way into your office. "For too long the World Assembly and its bureaucratic gnomes have leeched off our glorious nation's hard work! They regulate our businesses into the ground with their child labor and environmental protection laws, involve themselves in our affairs with their feel-good anti-slavery legislation, and then they want us to empty the treasury into their bottomless bar tabs! Resign now and get rid of 'em all, I say!" @@HE@@ eyes up a nearby security guard's weapon. "By any means necessary." [???]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=838]#838[/anchor]: The Bark Knight Rises [Caracasus; ed:  Helaw][/b]
 
 The Issue
@@ -288,7 +288,7 @@ The Debate
 
 5. "You know these comics are bull, right?" says Jamie Logan, former vigilante and one of six men who has fought crime on the streets under the mantle of Dogman in the past century. "Maybe a quarter of it happened, and not like this. In the real world, people die, and no dude in a leotard can stop that. Adults shouldn't read superhero comics. Force them to grow up, and drag them back to face reality." He stares moodily at the cloudy sky, waiting for the Dogsignal.
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=839]#839[/anchor]: "Partisanship Too Far?" Wrongly Asks Opposition [Ransium; ed:  Caracasus][/b]
 
 The Issue

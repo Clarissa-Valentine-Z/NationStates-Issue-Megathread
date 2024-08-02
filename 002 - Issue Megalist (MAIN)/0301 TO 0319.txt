@@ -10,7 +10,7 @@ The Debate
 
 3. A delegation from the Maxtopian rebels is ushered into your office. "OK, here's the deal. You give us arms and cash to overthrow the 'legitimate' Maxtopian government, and in return we'll halve the price we charge for electricity when we're running the place. Maybe preferential access for your corporations to our natural resources as well, yeah? I think our regimes will develop a very close alliance."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=302]#302[/anchor]: Delivering Mayhem In Thirty Minutes Or Less! [New Ziedrich; ed: Lenyo][/b]
 
 The Issue
@@ -27,7 +27,7 @@ The Debate
 
 *5. "Wait, this is getting out of hand!" moans Benito De Luigi, CEO and co-founder of De Luigi Bros. Pizza. "We just wanted to dethrone those smug jerks at Papa Pallocci's, that's all! This isn't our fault; the real culprit is, uh... suburbia! Yeah! Those rows and rows of poorly-built, identical houses on stupid cul-de-sacs are a confusing nightmare for our delivery crews. Most people should be living in urban high-rise apartments, and I guess everyone else can save time by not commuting so much. Offer some incentives to get people to move: a month's free rent and a bulldozer through the living room if they refuse to leave!" [[color=blue]Must not have prisons[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=303]#303[/anchor]: Digital Revolution Requires Re-evaluation [Coddiac; ed: Frisbeeteria][/b]
 
 The Issue
@@ -44,7 +44,7 @@ The Debate
 
 5. "You know, this gave me a fantastic idea," declares one of your advisors, grinning broadly. "So if I got this straight, children will change their behavior according to what they're exposed to on TV. So what we should do is put subliminal messages about our government in every program and commercial on TV during kid's viewing hours. That way children will stop the violence AND they'll be more inclined to serve our government when they grow up. GENIUS!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=304]#304[/anchor]: Time for Paternity Leave, say Dads [Gior Altheriod; ed: Lenyo][/b]
 
 The Issue
@@ -63,7 +63,7 @@ The Debate
 
 6. "There is another way, you know," quietly suggests one of your advisers, "Young children need to be taken care of during the workday, but not necessarily by their parents. What if the government provided daycare for all kids until schooling starts? Parental leave would cease to be an issue. Of course, it'd cost a lot to take care of everyone's kids, but I think it's worth it to allow parents to work full-time guilt-free."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=305]#305[/anchor]: Who's Occupying What? [Nexexen; ed: Lenyo][/b]
 
 The Issue
@@ -78,7 +78,7 @@ The Debate
 
 4. "All ze jobs are VHERE?!" General Von Gugelheimer lets out a piercing scream. "Zose Bigtopians and zeir business friends need to remember vhich is ze better country! Nevermind zat ze businesses at fault are based out of @@NAME@@. Let's blow zose Bigtopians off ze map! Double ze military's size, and ve von't have to vorry about zem anymore. Trade vill take a hit, but isn't ZE POWER vorth it? Hahaha… HAHAHAHA!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=306]#306[/anchor]: A Matter of Trust [Nation of Quebec; ed: Sanctaria][/b]
 
 The Issue
@@ -97,7 +97,7 @@ The Debate
 
 6. "If the people don't trust us then we'll make them," suggests @@RANDOM_NAME@@, your military aide-de-camp, slamming his fists on the table. "We'll just use force and intimidation to win back support. Some may call it brainwashing or terrorism, but I call it love. As a plus, it should be really easy to implement!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=307]#307[/anchor]: Derailing the Gravy Train [Burtina; ed: Luna Amore][/b]
 
 The Issue
@@ -108,7 +108,7 @@ The Debate
 
 2. "This is quite absurd!" scoffs @@RANDOM_NAME@@, taking a sip of Bollinger '86. "We toil day in and day out keeping this country running, and this is the thanks we get? Newspapers snooping around our personal business, questioning what we need to do our jobs. We incur certain, necessary expenses that may look odd when taken out of context – and that's just what the media is doing! They're distorting the facts just to boost their ratings. Well, I say their prying eyes have gone too far. We need to outlaw this underhanded 'reporting' for the sake of the patriotic values that made this nation great!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=308]#308[/anchor]: Over, Under or Through? [Platform VII; ed: Luna Amore][/b]
 
 The Issue
@@ -123,7 +123,7 @@ The Debate
 
 4. "Halt this at once!" yells @@RANDOM_NAME@@, a pitchfork wielding island resident. "What about us? Did you ever once stop to ask if the residents wanted all this commotion? Well we don't! We like our islands nice and quiet just the way Mother Nature made them."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=309]#309[/anchor]: Guerrilla Grandparents [Luna Amore; ed: Lenyo][/b]
 
 The Issue
@@ -136,22 +136,22 @@ The Debate
 
 3. "Alright, we were a little excessive with that law," admits @@RANDOM_NAME@@, your Minister of Finance, "But we can't just reverse it and go back to the horror days of gold-plated pensions. The budget can't handle it! We'll nix the death squads, and the elderly will be allowed to live, but only in our government approved facilities. They'll be given only what they need to survive, and we'll avoid a budgetary crisis."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=310]#310[/anchor]: Too Little Talk? [Panageadom; ed: Lenyo][/b]
 
 The Issue
 Opposition newspapers have accused the government of abusing its control over the filibuster ban, which it can use to limit the length of legislative debate. You have consulted multiple people in search of solutions.
 
 The Debate
-*1. “Now, now, my friend,” smiles the wealthiest CEO in the @@MAYOR_INDUSTRY@@ industry, reclining in a shady corner, “We simply can’t have a few radicals dictate government policy to us. After all, we do know what’s best, don’t we? First it’s this reform, next it’s a slew of unproductive economic policies, and then before you know it they’re limiting campaign donations. You can see that some issues have no merit, and are simply not worthy of debate. Perhaps we should even halt the debate before such silliness even begins...?” The CEO hands you a wad of @@CURRENCY_PLURAL@@. “You agree. Now there’s a good leader.” [[color=blue]Must allow Private Industries[/color]]
+*1. "Now, now, my friend," smiles the wealthiest CEO in the @@MAYOR_INDUSTRY@@ industry, reclining in a shady corner, "We simply can't have a few radicals dictate government policy to us. After all, we do know what's best, don't we? First it's this reform, next it's a slew of unproductive economic policies, and then before you know it they're limiting campaign donations. You can see that some issues have no merit, and are simply not worthy of debate. Perhaps we should even halt the debate before such silliness even begins...?" The CEO hands you a wad of @@CURRENCY_PLURAL@@. "You agree. Now there's a good leader." [[color=blue]Must allow Private Industries[/color]]
 
-*2. “Now, now, my friend,” smiles an anonymous political strategist, reclining in a shady corner, “We simply can’t have a few radicals dictate government policy to us. After all, we do know what’s best, don’t we? First it’s this reform, next it’s a slew of anti-socialist policies, and then before you know it they’re threatening the democratically elected Communist government. You can see that some issues have no merit, and are simply not worthy of debate. Perhaps we should even halt the debate before such silliness even begins...?” @@HE@@ hands you a wad of @@CURRENCY_PLURAL@@. “You agree. Now there’s a good leader.” [[color=red]Must not allow Private Industries[/color]]
+*2. "Now, now, my friend," smiles an anonymous political strategist, reclining in a shady corner, "We simply can't have a few radicals dictate government policy to us. After all, we do know what's best, don't we? First it's this reform, next it's a slew of anti-socialist policies, and then before you know it they're threatening the democratically elected Communist government. You can see that some issues have no merit, and are simply not worthy of debate. Perhaps we should even halt the debate before such silliness even begins...?" @@HE@@ hands you a wad of @@CURRENCY_PLURAL@@. "You agree. Now there's a good leader." [[color=red]Must not allow Private Industries[/color]]
 
 3. "I think we can all see the benefits of the filibuster ban," says political science professor, @@RANDOM_NAME@@. "But it's also true that putting it in the hands of the reigning party coalition is a dangerous centralisation of power. Why not simply have an independent, representative committee to decide what issues are worthy of a lengthy debate? It might be a tad erratic in its priorities, but at least it would give the power back to the people. That's a good thing, right?"
 
 4. "The government, all the way up to @@LEADER@@, has used this ban as a way to control parliament," declares Opposition Whip @@RANDOM_NAME@@, speaking from the Floor, "They're perfectly happy to let debates about the most inconsequential of matters rage on for hours, but when it comes to a serious discussion of @@LEADER@@'s murky ties to prominent members of the @@MAJOR_INDUSTRY@@ industry or policies genuinely aimed at helping the general public, rather than a select few, the debate comes to a quick close. We must overturn the filibuster ban, post-haste. And I think it is clear to all who suffer from this. That's right, my friends, ladies and gentlemen, casual onlookers, convenient family members, cultural attachés, politically active tourists and constituents, both loyal and traitorous to the greater cause; the people. The people suffer the injustices of a government pandering to its corporate cronies, its oligarchic overlords, its necessary nepotists, if you will. They suffer the delirious - ah - deleterious effects of a government sans filibuster, sans fairness, sans freedom! This ridiculous policy ignores the fact that some things require longer and more serious deliberation - as does, indeed, this very issue. But I am diverging from my abundantly clear point, supported by the voices of a thousand-strong crowd outside this very building. And while we might quibble over the numbers - a thousand, I hear you cry? Tens - hundreds! - of thousands, surely? But this ignores the fundamental spirit of the times - zeitgeist, if you will - that we stand against this filibuster ban clearly and unwaveringly. Anyway, a discussion of the genuinely humanitarian policies my party espouses, which require a debate of adequate length for the complexities of which to be fully understood, are quickly relegated as the government trots out its latest quick-fix or vote-snatching policy. Now, to move onto my second point of four-hundred-and-thirty-eight of my first speech - I will, of course, pass over to my comrade on the bench in due course." The security guards by the door notice your discreet signal and step quietly towards the Whip's podium. "Perhaps we should investigate further… excuse me…?" stammers the Whip, as your guards gingerly carry @@HIM@@ away. "Ah … yes, thank you for your time."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=311]#311[/anchor]: Victims Demand Their Pound of Flesh [Frisbeeteria; ed: Luna Amore][/b]
 
 The Issue
@@ -164,7 +164,7 @@ The Debate
 
 3. A serene voice from the back commands the crowd's attention. "My children, we cannot relieve violence with violence", intones @@RANDOM_NAME@@, Roshi of @@CAPITAL@@ Zendo, sitting zazen. "The solution lies not with taming corrupt officials, but within ourselves. We should not be killing these criminals; we should be leading them. Our prisons should hire counsellors and sensei to guide them to a better path of penance and good works. Prisoners can return life with life by tending our crops and feeding the hungry. We must end capital punishment, for the betterment of our own inner light. Only then will we truly find peace."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=312]#312[/anchor]: The Empire Strikes First? [Maleperduys; ed: Sedgistan][/b]
 
 The Issue
@@ -179,7 +179,7 @@ The Debate
 
 4. Noted pacifist and tambourine artist @@RANDOM_NAME@@ replies, "As usual our nation's proud leaders can only see violent solutions to our problems abroad. Wouldn't it be refreshing if they focused on achieving peace through communication and accommodation, rather than force of arms? You may call me a dreamer, but I'm not the only one – wait, sorry, I've heard that somewhere before."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=313]#313[/anchor]: Conscientious Objectors Want You... To Let Them Abstain [Great Nepal; ed: Luna Amore][/b]
 
 The Issue
@@ -194,7 +194,7 @@ The Debate
 
 *4. "We hardly need to be so black and white about it," interrupts @@RANDOM_NAME@@, your Churchmaster General. "These people don't want to kill? It's against their 'beliefs'? So we won't make them. There are plenty of jobs in the military that don't involve pulling a trigger. If they still object, well, we can always exile them." [[color=blue]Must not have prisons[/color]]
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=314]#314[/anchor]: An Affair to Remember? [Nation of Quebec; ed: Lenyo][/b]
 
 The Issue
@@ -209,7 +209,7 @@ The Debate
 
 4. "Adultery isn't the real issue," says @@RANDOM_NAME@@, who at fifty years old is still single and proud of it. "Why not ban marriage? It's not like matrimony means anything these days when you consider all the divorces, shams, casino weddings, and fake celebrity weddings. Besides, weddings are EXPENSIVE. Talk about a waste of perfectly good money."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=315]#315[/anchor]: Creative Flowers Withering Under Legislation [Panageadom; ed: Luna Amore][/b]
 
 The Issue
@@ -224,7 +224,7 @@ The Debate
 
 4. "I believe it's time for the government to step in and take control," hisses notoriously shifty advisor, @@RANDOM_NAME@@, stepping out of a shadowy corner. "If we were to hire writers to produce scripts with the "correct" subtexts and broadcast them over state-owned radio and television, we could solve all the problems at hand. We would be employing writers, but – more importantly - we'd be spearheading the development of a fiercely loyal citizenry."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=316]#316[/anchor]: Fortified Against Crime [Praedico; ed: Lenyo][/b]
 
 The Issue
@@ -239,7 +239,7 @@ The Debate
 
 4. "Down with the rich!" cries working-class protester @@RANDOM_NAME@@, jumping on your desk and waving a red flag. "They shouldn't be allowed to set up their own pocket kingdoms! What about the rest of us, huh? We're not all criminals just because we're poor! Most of the rich are bigger criminals than any burglar could be anyway. The police should concentrate on arresting them. They couldn't complain about being robbed if they were all in prison, could they?" While being forcibly removed by your guards, she adds, "Oh, and reduce taxes on the poor while you're at it."
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=317]#317[/anchor]: Big Brother Is Watching You Surf [Vintaland; ed: The Most Glorious Hack][/b]
 
 The Issue
@@ -252,7 +252,7 @@ The Debate
 
 3. "While 'tis not my place," says Amish farmer @@RANDOM_NAME@@, "I just thought I'd mention that we Amish don't have any of this so-called 'cyber-crime'. Aye, 'tis a boring life, and plowin' gets old, but abolishing all of those computer-machines would certainly solve thy problems. Perhaps ye should just abandon phones and fax machines, too. Then ye'll be on your way to livin' in an Amish paradise!"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=318]#318[/anchor]: Death Penalty on Death Row? [Andacantra; ed: Sanctaria][/b]
 
 The Issue
@@ -269,7 +269,7 @@ The Debate
 
 5. "Hows abo' bringin' back dem-dere good ol' fashioned lynchings? Bring justice back ter tha peoples!" shouts Jethro, a survivalist. "Who'd dare ta kill innocent peoples when tha punishmen' is bein' pelted ta death wit' rocks?"
 
------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=319]#319[/anchor]: Sizing Up The Competition [Cosumar; ed: Luna Amore][/b]
 
 The Issue

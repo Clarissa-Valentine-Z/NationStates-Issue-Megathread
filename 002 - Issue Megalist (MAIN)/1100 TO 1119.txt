@@ -12,7 +12,7 @@ The Debate
 
 4. "What's to stop a thief from waltzing into those archives and stealing top-secret documents?" exclaims @@RANDOM_NAME@@, a prominent member of the @@DEMONYM_ADJECTIVE@@ military. "It is clear that all of this bureaucratic faffing about is stifling @@NAME@@'s actions. I propose that we transfer all confidential files to the military's safe and secure hands, and rid ourselves of the other... disposable pieces of paperwork. After all, an efficient nation is one that does not look back into the pitiful past."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1101]#1101[/anchor]: Unreal [The Free Joy State; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 5. "We must escape from dreary reality," says @@RANDOMMALEFIRSTNAME@@, your nephew and a recent graduate of the @@DEMONYM_ADJECTIVE@@ Academy of Dramatic Art, as he strikes a stereotypically heroic stance. "By forcibly reallocating all reality TV slots and funding, we could tell intelligent stories and pay good wages to highly skilled actors who have a classic face suited to play either the dashing lead or the brooding baddie. Noir mysteries, sultry sagas in country houses, earthy dramedies, pulsating thrillers, period pieces of pride, prejudice and penury; with funding, we could usher in a golden age of quality @@DEMONYM_ADJECTIVE@@ drama."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1102]#1102[/anchor]: The Sickest Criminals [Candensia; ed: USS Monitor][/b]
 
 The Issue
@@ -42,7 +42,7 @@ The Debate
 
 3. "I'm all in favor of keeping criminals off the streets, but prison infirmaries aren't adequately equipped or staffed to handle inmates who often end up sick, stabbed, or sometimes both," declares prison nurse @@RANDOM_NAME@@, as @@HE@@ shows you over a dozen shanks @@HE@@ has collected from @@HIS@@ patients. "I mean, the sheer number of items one can substitute for a surgical suture is impressive and all, but @@NATION@@ should really invest in prison medical facilities and personnel capable of supporting all who dwell within the walls."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1103]#1103[/anchor]: Dàguó Takeaway [Australian rePublic; ed: Baggieland][/b]
 
 The Issue
@@ -55,7 +55,7 @@ The Debate
 
 3. "If we didn't sell off our important infrastructure in the first place, we wouldn't have this problem, would we?" states @@RANDOM_NAME@@, as @@HE@@ uses a stack of Communist Manifestos as an impromptu soapbox. "Privatising our assets is a terrible practice; the supposed benefits have not been delivered to the people. As such, we should nationalise all corporate property right away."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1104]#1104[/anchor]: Balancing the Books [Braskia; ed: Ransium][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 4. "Uggh, if you can't write in three sentences or less you're being overly wordy," mutters one of your secretaries, while briefly scanning a summary of the erudite malcontents' requests. "If people don't want to read a lot, why force them?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1105]#1105[/anchor]: A Green History Lesson [Chan Island; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -83,7 +83,7 @@ The Debate
 
 3. "Wait, why is an entire property of this size being powered and heated for just one resident?" asks egalitarian socialist @@RANDOM_NAME@@, as @@HE@@ rearranges the documents on your desk into eight stacks of exactly equal height. "We should seize this and other oversized homes as state property, and reassign the living space on a fairer basis to house the homeless. Let's face it - this wealthy landowner's ancestors got their wealth through exploitation and violence. Meanwhile, there's poor people living on the streets, right now! Think of the present!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1106]#1106[/anchor]: Some Body to Love [Candlewhisper Archive; ed: Baggieland][/b]
 
 The Issue
@@ -96,7 +96,7 @@ The Debate
 
 3. "Half a year's wages!" exclaims your Minister of Equality Juan King in disgust. "And how are the working poor meant to afford a price like that? Everybody should be entitled to a happy ending, not just wealthy fat-cats. You have to set a fixed price tariff for these services, as well as guarantees that a contract will be honoured, rather than leaving customers and prostitutes at the mercy of a free market."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1107]#1107[/anchor]: Welcome to the Party [Caracasus; ed: Gnejs][/b]
 
 The Issue
@@ -109,7 +109,7 @@ The Debate
 
 3. "Look on the bright side: Party membership has never been higher," states ruthless pragmatist @@RANDOM_NAME@@. "Does it really matter if the cat is black or white so long as it catches mice? Let's reward our unwavering supporters with better living accommodation and other... incentives. In exchange, of course, for their undying loyalty to the Party."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1108]#1108[/anchor]: A Whiskey Rebellion Brewing [Verdant Haven; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -128,7 +128,7 @@ The Debate
 
 6. "Home distilling and compulsory drinking?" shrieks Citizens Against Drinking activist @@RANDOM_NAME@@, clutching @@HIS@@ heart dramatically. "What kind of horrifying nightmare world are you trying to create? Did you know that, according to the Department of Made-Up Statistics, 47.2% of all crime is related to alcohol? Are you trying to increase that number? What @@NAME@@ needs is to remove alcohol not just from our homes, but from the whole nation! Enact prohibition - there can be no exceptions!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1109]#1109[/anchor]: Of Mice and Meth [Jutsa; ed: USS Monitor][/b]
 
 The Issue
@@ -143,7 +143,7 @@ The Debate
 
 4. "Listen to these dissidents; the drugs clearly aren't powerful enough!" exclaims your Minister of Crowd Control and author of the internationally condemned book [i]H[sub]2[/sub]Whoa: @@DEMONYM_ADJECTIVE@@ Utopia[/i]. "If anything, we've got to dump MORE into the water supply! So what if a few people start reacting like the animals? A few people howling at the moon now and then is much less dangerous than letting them [i]think[/i]."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1110]#1110[/anchor]: Curtains for the Horrorshow [Sacara; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -156,7 +156,7 @@ The Debate
 
 3. "Who needs these kinds of movies in the first place?" asks your grandmother, drinking tea and reminiscing about her younger years. "Back when I raised your parents we didn't have so many scary movies, and look how they turned out. The people who make the movies in the first place should have to test them in front of a young audience, and if even one kid gets scared or upset, the film should be banned. We can't have these awful films being seen by the public, can we?"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1111]#1111[/anchor]: A Call for Change [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -171,7 +171,7 @@ The Debate
 
 4. "Like that cartoon says: Hakuna Matata!" offers jovial beggar Tim Onn, with a little dance. "That means no worries, for the rest of your days! It's not such a bad life out on the street, @@LEADER@@; you should try it for yourself. The open air, the sunshine, the refreshing rain... aaaaahhh! I'm not talking about making yourself homeless, but... hmm... actually, that IS what I'm talking about! To give you the chance to experience the wonderful world of wandering free, me and my buddies will trade possessions with you and your colleagues. Give me your house, your bank account, your jacket, your boots, your motorcyc... Sorry, wrong film. Give us all your stuff, and give the vagrant's life a try. Hakuna Matata!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1112]#1112[/anchor]: Stray Bullets [Jutsa; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -184,7 +184,7 @@ The Debate
 
 3. "Why do people have pets anyway?" sniffles allergy-prone police officer @@RANDOM_NAME@@, who was bitten by @@A@@ @@ANIMAL@@ earlier in the day. "Domestic animals are filthy and vicious, and a burden on society. If we banned them, then animal control officers could shoot any animals they see on the street without worry."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1113]#1113[/anchor]: No Sex Please, We're @@DEMONYM_ADJECTIVE@@ [The Free Joy State; ed: The Free Joy State][/b]
 
 The Issue
@@ -203,7 +203,7 @@ The Debate
 
 6. @@RANDOM_NAME@@, of the [i]Anti-Pleasure League[/i], opens @@FIRSTNAME_1@@'s book and hurls it across the room, making hand-gestures to ward-off evil. "All these people show an unnatural desire for selfish indulgence. Vacuous pleasure brings societies to their knees. And pleasure begins when coitus and its one purpose are separated. Ban the vats and restore the reproductive function. Teach that congress is a grave task to perpetuate the @@TYPE@@, and not even remotely fun!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1114]#1114[/anchor]: Patriotism Flagging [Sacara; ed: Baggieland][/b]
 
 The Issue
@@ -216,7 +216,7 @@ The Debate
 
 3. "I'm telling you, it's those darn immigrants," quips @@RANDOM_NAME@@, your paranoid Minister of the Homeland, who's twitching and itching @@HIS@@ hands furiously. "Without those folks here, we'd be much better off. You must stop any new people from entering our great nation and kick out the ones already here. Then, we'd be pure at last."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1115]#1115[/anchor]: One in the Arm for @@LEADER@@? [Turbeaux & Tinhampton; ed: Caracasus][/b]
 
 The Issue
@@ -229,7 +229,7 @@ The Debate
 
 [3]. "We can't allow any drugs on our streets!" yells @@RANDOM_NAME@@, knocking @@RANDOM_FIRST_NAME_1@@'s hip flask out of @@HIS_1@@ hands. "It doesn't matter if it's cirrhosis of the liver or my old school friend dying of VODAIS after sharing needles with some whacko she's never met before! The only sane thing to do here is obviously to place a ban on all drugs, including alcohol and tobacco. No need to treat addicts if nobody can obtain addictive substances!" [[color=blue]Smoking is legal[/color] OR [color=blue]Alcohol is legal[/color]] (Note: [[color=red]Smoking is illegal[/color] AND [color=red]Alcohol is illegal[/color]])
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1116]#1116[/anchor]: To Each According to His Feed [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue
@@ -246,7 +246,7 @@ The Debate
 
 5. "Or you could invite the experts in," says entrepreneur @@RANDOM_NAME@@, strolling into your office uninvited, and setting up @@HIS@@ burger cart in the corner. "Just say the word, and we'll have fine diners built all across your nation. Not just for burger lovers either; there'll also be pizza parlours, fried chicken huts, dealers in doughnut-dunking... Just open up a little bit to capitalist free enterprise, and we can have ourselves a feast!"
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1117]#1117[/anchor]: Suffer Little Children [The Free Joy State; ed:Candlewhisper Archive][/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 4. "This is why religious schools are harmful," says atheist @@RANDOM_NAME@@. "Religious schools like [i]Durum Pulsaverit[/i] barricade themselves with closed ideas, and augment them with abusive threats of eternal damnation. Look at this ten-year-old's physics test: 'How does electricity work?', answer: 'We can't know'; 'Why does electricity work?', answer: 'The Creator did it'. The kid got full marks! We should close every religious school, and put the children in state-run secular schools to focus on provable knowledge and scientific fact."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1118]#1118[/anchor]: We Can't Cross That Bridge When We Get to It [Nedanelden; ed: Zwangzug][/b]
 
 The Issue
@@ -274,7 +274,7 @@ The Debate
 
 3. "Aw, as if we need these damn rules an' stuff!" mutters greying construction worker @@RANDOM_MALE_NAME@@, running while holding power tools. "Real builders don't need them to survive on the job. Back in my day, we worked our butts off like real men, and dealt with problems like these on our own! Get rid of those stupid laws, and let us show these sissies how it's done."
 
---------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1119]#1119[/anchor]: Where There Isn't Smoke [Ransium & Caracasus; ed: Candlewhisper Archive][/b]
 
 The Issue

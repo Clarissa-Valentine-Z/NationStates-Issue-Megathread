@@ -14,7 +14,7 @@ The Debate
 
 5. "The threat is real, but consider the implications of such a response," says @@RANDOM_NAME@@, who joined your office after fleeing persecution in @@HIS@@ native Maxtopia. "No candidates with foreign families or experience in other nations... we'd be restricting office to a protected minority, with the government deciding who can run. That doesn't sound particularly democratic. We should require full disclosure of personal finances and foreign connections, but ultimately let the voters decide. I hope the @@DEMONYM_ADJECTIVE@@ people can see through this misinformation assault, if only we give them the chance."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1001]#1001[/anchor]: Will the Real Victims Please Stand Up? [Nation of Quebec; ed: Baggieland][/b]
 
 The Issue
@@ -29,7 +29,7 @@ The Debate
 
 4. "ORDER! ORDER! Nobody has heard from me yet!" exclaims notoriously corrupt Judge @@RANDOM_NAME@@, while banging a gavel on your desk. "Quite frankly I don't care who is accused or who accuses them. I think we all know what makes our justice system go around - @@CURRENCY_PLURAL@@. Sentencing should be based on how much both sides are able to pay up. Sure, the poor might not be able to win in this system, but hey, that's the way the caviar crumbles!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1002]#1002[/anchor]: The Call of Nature [Frieden-und Freudenland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -46,7 +46,7 @@ The Debate
 
 5. "This damn situation stinks to hell," growls General Sam L. Jackson, slamming a knife point-first into a world map on your desk, skewering Smalltopia. "We can't allow ourselves to be insulted by a goddamn pipsqueak nation like Smalltopia. I suggest we gather up the run-off from our city streets, and have our bombers dump the effluent over Smalltopia's cities. And we shall rain down upon them with great vengeance and furious anger..."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1003]#1003[/anchor]: That Smarts [Candlewhisper Archive; ed: The Free Joy State][/b]
 
 The Issue
@@ -59,7 +59,7 @@ The Debate
 
 3. "Ohmigod, the horror, you have to ban the vats!" yells your brother, waving his arms. "Naaa... I'm just messing with you! What you should actually do is breed everybody to be as dumb as possible. A smart tyrant always gets rid of the intellectuals first, and the best time to do that is before they've even been conceived. Combine pre-birth dumbification with suppressing the morons' education, and there's no reason why you can't rule unchallenged for the rest of our lives."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1004]#1004[/anchor]: Two Countries and a Baby [Sanctaria; ed: The Free Joy State][/b]
 
 The Issue
@@ -70,7 +70,7 @@ The Debate
 
 2. "I implore you not to listen to this crackpot," stresses Dr. @@RANDOM_NAME@@, a representative of the hospital, putting @@HIS@@ head in @@HIS@@ hands. "Baby @@FIRSTNAME_1@@ is completely beyond the capabilities of modern medicine. For Violet's sake, @@HIS_1@@ condition is so rare, we can't even be sure what it is. Of course I wish we could help @@HIM_1@@. No doctor wants to see their patient die. But to keep @@HIM_1@@ alive is to harm @@HIM_1@@ even further. Moving @@HIM_1@@ now - even to another local hospital, let alone Savoiia - would cause unnecessary physiological stress and potential trauma; @@HE_1@@ probably wouldn't survive the trip. Even if @@HE_1@@ does, @@HE_1@@ will inevitably die there, away from @@HIS_1@@ extended family and supporters. Allow us to make @@HIM_1@@ comfortable here so @@HE_1@@ can die in peace."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1005]#1005[/anchor]: What Goes Up Breaks Down [Eluvetia; ed: Baggieland][/b]
 
 The Issue
@@ -87,7 +87,7 @@ The Debate
 
 5. "Why bother at all?" asks @@RANDOM_NAME@@, your Minister for Austerity, tightening @@HIS@@ already constricted belt. "Our military spending is already bloated beyond belief and it will be the poor taxpayer who has to foot the bill for these planes. We'd be better off without them."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1006]#1006[/anchor]: Opening the Door to Controversy [Duurfald; ed: The Free Joy State][/b]
 
 The Issue
@@ -102,7 +102,7 @@ The Debate
 
 4. "Why don't we just replace all conventional doors with automatic doors?" says fringe economist @@RANDOM_NAME@@, who part-owns [i]In a Spin Automatic Doors[/i]. "There'd be no need for anyone to cause offence by opening doors for anyone, and just think of all the amazing manufacturing jobs it'd create."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1007]#1007[/anchor]: Putting Your Foot in It [GeodesicDragon; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -115,7 +115,7 @@ The Debate
 
 3. "Ugh, dogs are so disgusting," complains ailurophile @@RANDOM_NAME@@, as the pet cat accompanying @@HIM@@ drops a dead bird at @@HIS@@ feet and cleans its paws with its tongue. "Felines are much lovelier than dogs; they groom themselves constantly, and do their business in a tray, not outside like those mangy canines do. With that in mind, I propose that we restrict the ownership of dogs with hefty license fees, and use that money on a national campaign promoting the virtues of cats instead."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1008]#1008[/anchor]: Wash Your Mouth Out! [The Kind-of-United States; ed: The Free Joy State][/b]
 
 The Issue
@@ -130,7 +130,7 @@ The Debate
 
 4. "I agree that this is serious," notes @@RANDOM_NAME@@, your Minister of Let's-All-Just-Calm-Down. "But it's not just the kids who are dirtying the air with foul language. The adults are also at fault. We should fund an official @@DEMONYM_ADJECTIVE@@ dictionary of approved words, free from all expletives, coarse words, vulgar expressions and terms for the unpleasant parts of human anatomy, and punish anyone who uses any bad word – in books, media, and written and spoken speech. Only then can @@NAME@@ be a truly pleasant place to live. Now, shall we have a cup of tea?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1009]#1009[/anchor]: A Woman's Roll [The Free Joy State; ed: The Free Joy State][/b]
 
 The Issue
@@ -145,7 +145,7 @@ The Debate
 
 4. "This sad attitude indicates a much deeper problem," sighs chauvinist psychiatrist @@RANDOM_MALE_NAME@@, whose wife stands next to him, smiling unblinkingly and holding his half-eaten sandwich. "Women have lost the joy of service. Modern society tells women to distrust their head of household, which causes insecurity. Insecure women argue, which causes stress. Stressed women perform their functions haphazardly, if at all. Women would be happier, families would be more stable, if disobedient wives were returned to their naturally submissive state, through drugs, electroshock and frontal lobotomies as necessary. Remember, if a woman doesn't live to serve her master, something is wrong psychologically."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1010]#1010[/anchor]: What's Got Into @@NAME@@? [Baggieland; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -158,7 +158,7 @@ The Debate
 
 3. "Hey, check out this picture I've got here," proclaims your niece, who's been chuckling to herself the whole time. "My friend, who is in Smalltopia, sent me this picture after she saw this sign in the window of a laundromat there. It says 'drop your pants here'! You should make a law that states all businesses must have funny mistakes in their advertising. The laughter therapy will make @@NAME@@ the happiest place in the world!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1011]#1011[/anchor]: State of the Media [Singapore no2; ed: Nation of Quebec][/b]
 
 The Issue
@@ -173,7 +173,7 @@ The Debate
 
 4. "That would be a hideous waste of @@CURRENCY_PLURAL@@!" objects the State Treasurer, showing you a number of charts that all seem to blend together. "If no one wants to view official media, then they don't have to. We should scrap the entire thing and let the public come up with their own sources of information and entertainment. The resources could be allocated to somewhere else, like on strengthening our military and funding law enforcement."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1012]#1012[/anchor]: Tilting at Wind Turbines [Singapore no2; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -186,7 +186,7 @@ The Debate
 
 3. "That doesn't go far enough!" screams your National Security Advisor, who appears to be wearing a highly-reflective helmet. "How can we be sure that people with mental disorders won't poison our food or sabotage our infrastructure in a fit of madness? We must bar them completely from all forms of employment. That way-" He stops abruptly and glares suspiciously at a nearby television. "Can we adjourn to another room? I think we're being spied on."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1013]#1013[/anchor]: Grave Disease [Suizo; ed: The Marsupial Illuminati][/b]
 
 The Issue
@@ -201,7 +201,7 @@ The Debate
 
 4. "You can save humanity by saving the planet!" yells a messy-looking teenage protester who just entered your office through a window. "Climate change is causing the ice to melt, releasing deadly diseases that have been trapped for centuries. To prevent epidemics, we must stop climate change. Enforce tougher environmental regulations in @@NAME@@. Eliminate carbon emissions! Forget the immediate crisis; we have to prevent future ones!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1014]#1014[/anchor]: Unreasonable Doubt [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -214,7 +214,7 @@ The Debate
 
 3. "Let's be questioning, shall we?" suggests an uncertain-looking agnostic, who isn't sure whether @@HE@@ should tell you @@HIS@@ name. "It's hubris equal to that of the religions for us to assume that [i]we[/i] know all the answers. Moderate your government's stance from atheism to agnosticism, and openly state that freedom of religious belief is enshrined in law."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1015]#1015[/anchor]: Court In the Middle [Commonwealth Republic of Andyrssia; ed: Baggieland][/b]
 
 The Issue
@@ -229,7 +229,7 @@ The Debate
 
 4. Finally, a man in dark sunglasses and with a mysterious tattoo of an all-seeing eye on his wrist, whom you don't remember seeing enter the room, whispers in your ear, "What Leopold did wrong wasn't the indiscriminate decimation of the Tasmanian population. It's that he wasn't smart about it. He's got raw potential, sure. If you give him to me, I'll make sure he becomes much more efficient, professional and covert in his work. You can also trust that this time, he'll be working for the good guys."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1016]#1016[/anchor]: Breaking Upset [The United Providences of Perland; ed: Baggieland][/b]
 
 The Issue
@@ -246,7 +246,7 @@ The Debate
 
 5. "To hell with them all!" proclaims @@RANDOM_NAME@@, a right-wing radio talk-show host, as @@HE@@ puts @@HIS@@ arm around your shoulder. "These people are nothing but human garbage, and in this instance, a flaming pile thereof! Let them maim or kill themselves; if they all die off, there will be no one to make drugs."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1017]#1017[/anchor]: A Cure for the Black Market [Baggieland; ed: Baggieland][/b]
 
 The Issue
@@ -261,7 +261,7 @@ The Debate
 
 4. "You know, with the placebo effect, even fake medications can be quite efficacious," observes @@RANDOM_NAME@@, your scientific advisor. "Most treatments, real or fake, mostly work because patients believe in them. You could save a lot of money through a press release which states that a @@DEMONYM_ADJECTIVE@@ scientist has invented a miraculous, one-pill-cures-all wonder drug. It'll be cheap to produce as the main ingredients are only sugar and water. It will also stop the illegal trade of counterfeit medication, as demand will cease. What could possibly go wrong?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1018]#1018[/anchor]: Operation Failed [Sacara; ed: Candlewhisper Archive][/b]
 
 The Issue
@@ -276,7 +276,7 @@ The Debate
 
 4. "Why stop at just the operating room doors when there's so much more an AI could do for us?" asks Dr. @@RANDOM_NAME@@, Professor of Experimental Gynaecological Robotics, fetching a fresh box of batteries from the top shelf. "We could make hospitals so much more efficient if we allowed them to adopt more roles: diagnostic chatbots, robot nurses, computerised counsellors, and so on. AIs should outnumber humans by at least twenty to one on the hospital staff."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=1019]#1019[/anchor]: Patent Nonsense [Singapore no2; ed: Pogaria][/b]
 
 The Issue

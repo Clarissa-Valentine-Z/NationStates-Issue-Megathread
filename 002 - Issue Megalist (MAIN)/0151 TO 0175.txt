@@ -12,7 +12,7 @@ The Debate
 
 4. "You want to bring NUKES into @@NAME@@?!" screams anti-nuclear protestor, @@RANDOM_NAME@@. "This won't make us safer - it will just give the power to destroy everything to a few people! We must hunt down the people who suggested this evil plan and have them hanged! We must protect nature from the horrible influences of science. I say ban all new weapons research!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=152]#152[/anchor]: A Capital Idea [Hestrael; ed: Sirocco][/b]
 
 The Issue
@@ -25,7 +25,7 @@ The Debate
 
 3. "Hey, aren't we all being a little extreme about this?" says noted economist, @@RANDOM_NAME@@. "Surely we could just keep the key industries, such as the electricity and water supplies, under government control and lessen the regulations on the others so they could function more independently? That way, the people can't complain that they are at the mercy of big business, and industries such as retail can function more effectively."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=153]#153[/anchor]: Protesters Have Gone Too Far, Claim Police [Utopian Gandhism; ed: Sirocco][/b]
 
 The Issue
@@ -38,7 +38,7 @@ The Debate
 
 3. "It's because protests get out of hand sometimes that we need a police presence," argues PC @@RANDOM_NAME@@ eventually after singing the national anthem to you. "Even violent protestors have a right to feel safe on the streets. If that means we have to die to protect the innocent, then that means we have to die. I think protests should be restricted to a designated area where police can keep an eye on the protestors. Then everything can go nice and smoothly and no one will have to worry about being beaten to death."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=154]#154[/anchor]: Ban The 'Boards, Say Pedestrians [HappyFluffyBunnies; ed: Sirocco][/b]
 
 The Issue
@@ -51,7 +51,7 @@ The Debate
 
 3. "Yo, dude, I've got a better idea," says @@RANDOM_NAME@@ while executing a complicated 360° spin over your head. "What if skateboarding was the only way to get around? Wouldn't that be cool? Skateboarding is cheap, healthy, and fun! Everyone should do it! You could improve, like, the quality of life for everyone by banning vehicles and making skateboarding the only legal way to travel. People'd love you for it, man. Well, apart from the guys who make cars and the like, I guess."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=155]#155[/anchor]: Curfew Meets Minor Opposition [Daedor; ed: Melkor Unchained][/b]
 
 The Issue
@@ -62,7 +62,7 @@ The Debate
 
 2. "I'm not a criminal just because I'm seventeen!" shouts honors student, @@RANDOM_NAME@@. "Yeah, I like to go out partying, but I'd never hurt anybody! Besides, we've already got enough problems with these pigs breathing down our necks. If anything we need MORE freedom. It's time for the government to step up to the plate and tell these power hungry swine to stop cramping our style!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=156]#156[/anchor]: Waste Going To Waste, Says Industry Lobby [DeFranzania; ed: Reploid Productions][/b]
 
 The Issue
@@ -75,7 +75,7 @@ The Debate
 
 3. "These corrupt, money-hungry corporations are only looking out for themselves and their bottom line!" says @@RANDOM_NAME@@, an environmentalist from northern @@NAME@@. "The government needs to enact stricter laws for how these companies can dump their waste safely, and when they poison @@NAME@@'s people and environment, the government needs the authority and manpower to enforce harsh penalties! These companies make their messes, they should pay to clean them up!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=157]#157[/anchor]: Sergeants Are Too Nasty, Say New Recruits [Mirkai; ed: Sirocco][/b]
 
 The Issue
@@ -90,7 +90,7 @@ The Debate
 
 4. "There is another way, you know..." whispers @@RANDOM_NAME@@, the Chief of Secret Projects and Shiny Things in @@NAME@@'s military research department. "What if we started taking children and raising them from birth to fight? We'd be able to make them completely immune to propaganda, psychological warfare, and demoralisation. Not only would that stop the crying new recruits, it'd also give us a powerful military edge. People may not like giving up their kids, but that's why we run the country. We know better."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=158]#158[/anchor]: Regarding Robbers' Rights [Robmuirpoems; ed: Sirocco][/b]
 
 The Issue
@@ -103,7 +103,7 @@ The Debate
 
 3. "Hey, let's not be hasty!" cautions @@RANDOM_NAME@@, an anti-gun protester. "I'm not for riddling burglars with bullets either, but I do want to protect my family! I think it would be a lot more sensible if we allowed homeowners to attack burglars, but not with guns. In fact it would be even better if we just banned guns while we're at it."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=159]#159[/anchor]: Think Tank Proposes Privatised Prisons [Yejuda and Shomron; ed: Sirocco & Myrth][/b]
 
 The Issue
@@ -116,7 +116,7 @@ The Debate
 
 3. "Private prisons?! Rehabilitation?! How utterly ridiculous!" exclaims @@RANDOM_NAME@@, @@NAME@@'s toughest police officer. "Both of these proposals will simply waste resources on the scum of society. I say that we should summarily execute all violent criminals and give their property to their victims."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=160]#160[/anchor]: Truancy On The Rise [Nouvelle Quebecshiree; ed: Sirocco][/b]
 
 The Issue
@@ -129,7 +129,7 @@ The Debate
 
 3. "I really don't see what the problem is," says student @@RANDOM_NAME@@, smoking an odd smelling substance. "I mean, so what if I only go to school three to four days a month? It means I'm able to work full-time, which probably benefits the economy or... yeah, something like that. The government should just back off, man."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=161]#161[/anchor]: Where There's A Will There's A Tax [Rehochipe; ed: Sirocco][/b]
 
 The Issue
@@ -142,7 +142,7 @@ The Debate
 
 3. "Surely we can arrange some sort of compromise here," says comfortable knitwear fan @@RANDOM_NAME@@. "Yes, it's true that some people exploit the system - but a lot of people rely on inheritance for their basic support! Why don't we just set a sensible ceiling on how much you can inherit? That way you get to keep the family farm, but not the five mansions and the oil refinery."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=162]#162[/anchor]: Animal Experimentation Laws Under Scrutiny [Voroziniya; ed: Sirocco][/b]
 
 The Issue
@@ -153,7 +153,7 @@ The Debate
 
 2. "It is not unethical," replies Dr. @@RANDOM_NAME@@, the chief surgeon at @@NAME@@'s largest Cancer Research Clinic. "The unethical thing to do would be to deny the public of the benefit of the great scientific advancements we're making! If we have to sacrifice some animals in the name of science, healthcare, or a commercial venture, then that's just what we've got to do! Think of the lives we could save! All we require is more government support and funding for this worthy cause."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=163]#163[/anchor]: Referenda: Are they Right For @@NAME@@? [Ideal State; ed: Melkor Unchained][/b]
 
 The Issue
@@ -166,7 +166,7 @@ The Debate
 
 3. "Referenda are a good idea in principle, but to make them mandatory for each and every law is simply impractical," states Political Scientist @@RANDOM_NAME@@. "Representative democracy exists because direct democracy would never work in practice in a large society such as @@NAME@@. Just think of all the bureaucracy and expense that would go into it! I suggest that referenda be allowed, but only if at least a third of voters sign a petition requesting one. That should be a nice balance between democracy and practicality."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=164]#164[/anchor]: Licence To Breed? [Kazcaper; ed: Sirocco][/b]
 
 The Issue
@@ -179,7 +179,7 @@ The Debate
 
 3. "The answer to this problem is patently obvious," says @@RANDOM_NAME@@, your minister of Social Welfare. "The government simply needs to give more funding to the welfare department so that we can recruit more social workers to carry out regular checks on parents and judge whether or not they're doing a good job of looking after their children. It'll be expensive, but at least it's a damn sight fairer than licensing parents."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=165]#165[/anchor]: Wedlock Worries [Ice Hockey Players; ed: Sirocco][/b]
 
 The Issue
@@ -192,7 +192,7 @@ The Debate
 
 3. "That's crazy!" says @@RANDOM_NAME@@, your Minister of Domestic Affairs. "Everyone knows that the people who screw your life up most are your parents! And now you consider letting them to decide who you marry?! I think we, the government, should arrange all marriages by national census. Distribute everyone to a place and person in an economically stimulating way - why, we'd solve the housing problems just like that! Especially if we dismiss outmoded things like divorce and monogamy! This could be a golden opportunity for us."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=166]#166[/anchor]: Vote For 'None of the Above'? [Kamikachidonia; ed: Reploid Productions][/b]
 
 The Issue
@@ -203,7 +203,7 @@ The Debate
 
 2. "Adding 'None of the Above' to the ballot makes absolutely no sense," contributes conservative political pundit @@RANDOM_NAME@@. "Those who want to run for office have already put their names on the ballot, and if none of those options suits the voter, that's just too bad. Instead, we ought to prevent this sort of problem and limit the number of options. Sure, fewer people can run, but that will eliminate costly runoff elections completely!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=167]#167[/anchor]: Fluoride Controversy A Toothy Problem [Enlightened Harmony; ed: Sirocco][/b]
 
 The Issue
@@ -218,7 +218,7 @@ The Debate
 
 4. "There's no need to go to either extreme," says @@RANDOM_NAME@@, your personal dentist. "It's all about, um, choice. Here's a nice alternative: why not just have clean non-fluoridated drinking water and give more funds to dentists? If we had enough money, we could make all dental care absolutely free! It will be demanding on the taxpayers I know, but they'll surely be happy when they all have sparkling white teeth!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=168]#168[/anchor]: @@NAME@@ Plagued By STD Epidemic! [Eta Carinae; ed: Reploid Productions][/b]
 
 The Issue
@@ -231,7 +231,7 @@ The Debate
 
 3. "Supplying drugs and condoms will not stop VODAIS infections and forcing everyone to be celibate will be the slow death of @@NAME@@," whispers Health Minister @@RANDOM_NAME@@ in a poorly-lit back room. "Segregating the infected people is the most effective method. Everybody in @@NAME@@ must be tested for VODAIS. Then all the VODAIS positive people will be shipped to seperate gated communities away from the rest of us. If they need to mingle with uninfected people, then they must wear distinguishing badges that feature a Grim Reaper holding a skeletal @@ANIMAL@@."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=169]#169[/anchor]: @@ANIMAL@@ Hunting Laws Under Dispute [Vigorithia; ed: Sirocco][/b]
 
 The Issue
@@ -246,7 +246,7 @@ The Debate
 
 4. "I'm firmly against the slaughter of dumb animals," says @@RANDOM_NAME@@, while feeding an infant @@ANIMAL@@ with a milk bottle. "It would be best if the animals didn't die, and hunters could still do what they love to do - how about instead of shooting them or sending vicious canines after them, the hunter runs up to his quarry and gives it a symbolic 'tap' with his hand? Now isn't that much nicer for everyone?"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=170]#170[/anchor]: Deserts Devouring @@NAME@@'s Countryside [Goobergunchia; ed: Sirocco][/b]
 
 The Issue
@@ -259,7 +259,7 @@ The Debate
 
 3. "Yee-haw, these here deserts are the greatest thang that's happened in YARS!" drawls noted cowboy Hamish McGraw, twirling his shootin' irons. "This is just what @@NAME@@ needs! Just git a stagecoach out har an tha' foreign types will come a-flockin,' y'all see if ah'm wrong! We don't need no fundin' f' tha' environment! Them's farmers c'n jus' git minin' fer GOLD!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=171]#171[/anchor]: Kids And Criminality: Whose Responsibility? [East Stalinia; ed: Sirocco][/b]
 
 The Issue
@@ -272,7 +272,7 @@ The Debate
 
 3. "Hah! Yeh're lookin' at this the wrong way!" says @@RANDOM_NAME@@, an elderly pensioner, hobbling up to you and poking you in the chest with a walking stick. "When I was wee, and if I was caught breakin' the law, me dad would've beaten seven types of bahoola out of me! If a kid's gone maladjusted and started nickin' cars and whatnot, look at the parents and punish them for not bringin' the tiny scions up right! Yeh can't blame a kid for the environment they were raised in an' that's that!"
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=172]#172[/anchor]: Church Attendances Reaching New Low, Warn Priests [Realm of Idiots; ed: Sirocco][/b]
 
 The Issue
@@ -285,7 +285,7 @@ The Debate
 
 3. "I reckon you could just ignore these zealots and scrap any government funding we still have going into religion," says @@RANDOM_NAME@@, author of the wildly unpopular book 'Face It, There Is No Afterlife'. "I can't believe that modern thinkers like you and me are still tying ourselves down with outmoded and outdated concepts like the 'soul' or 'God'. Just drop all funding and give everyone a bit of a tax break. At least then we can be a bit richer before the long infinite void of oblivion at the end of our small, feeble, insignificant little lives."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=173]#173[/anchor]: Women Demand Equal Opportunities [HammerCrusher; ed: Sirocco][/b]
 
 The Issue
@@ -300,7 +300,7 @@ The Debate
 
 4. "Personally I think things went wrong as soon as women got labelled as the 'fairer' sex," interrupts Catherine Gratwick, author of the best-selling novel 'Gynaecocracy For Beginners'. "We're strong, we're willing - and we're just plain better than men. See what a state the world is in when they're in charge? I propose that all jobs should preferentially be offered to women first, so that men are encouraged to stay at home and be househusbands."
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=174]#174[/anchor]: Maternity Leave A Must, Say Mothers [Vashaan; ed: Sirocco][/b]
 
 The Issue
@@ -315,7 +315,7 @@ The Debate
 
 *4. "Look, I've got an idea," says @@RANDOM_NAME@@, an obsessive centrist. "Perhaps we can allow for six months of paid maternity leave, but have the government pay their employers for the lost revenue? That way the mothers can bring up their children without financial worries, employers won't suffer, and everyone will be happy. Apart from the taxpayers, of course, but you can't please everyone." [[color=red]Must not have private industry[/color]]
 
--------------------------------------------------------------------------------
+[hr][/hr]
 [b][anchor=175]#175[/anchor]: Is @@NAME@@ Too Promiscuous? [Masalium; ed: Sirocco][/b]
 
 The Issue

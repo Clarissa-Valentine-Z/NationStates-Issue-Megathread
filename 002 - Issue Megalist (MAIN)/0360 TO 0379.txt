@@ -256,7 +256,7 @@ The Debate
 
 2. "What did you expect to happen?" says @@RANDOM_NAME@@, leader of @@NAME@@ Against Arms. "You can hardly walk down the street without seeing a soldier on their front-porch polishing a surface-to-air missile. With all of these weapons in the government's hands, of course accidents are going to happen. The only way to prevent an awful war is to openly admit our mistake and massively cut back on the number of weapons in circulation. That will keep this tragedy from ever happening again." 
 
-3. "How do we even know it was a civilian aircraft?" insinuates Chief Spy L[hr][/hr]
+3. "How do we even know it was a civilian aircraft?" insinuates Chief Spy L------. "We could just quietly let the word out that it was actually a secret military aircraft sent in by the Bigtopians to spy on us, and no one could blame us for shooting it down. Clearly the numerous schoolchildren and nuns were just clever disguises meant to fool us." 
 
 4. "Deny, deny, deny," explains @@RANDOM_NAME@@, Deputy Minister of Information. "We didn't shoot down a plane because there was no plane. There are no corpses because no one was on the plane - which didn't exist anyway. Anyone who says otherwise is clearly just slandering the Glorious @@TYPE@@ of @@NAME@@."
 

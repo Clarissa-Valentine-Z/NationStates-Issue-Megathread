@@ -1,4 +1,4 @@
-[b][anchor=000]#[/anchor][anchor=0]0[/anchor]: Should Democracy Be Compulsory?[/b]
+[b][anchor=0]#0[/anchor]: Should Democracy Be Compulsory?[/b]
 
 The Issue
 In response to a slow news week, certain highbrow newspapers have stirred up the debate over voluntary vs compulsory voting.
@@ -11,7 +11,7 @@ The Debate
 3. "This raises an interesting issue," says @@RANDOM_MALE_NAME@@, your brother. "And that is: why do we need elections, anyway? Seems to me it would be much simpler if you just decided what was right, and did it. Wouldn't that save everyone a lot of time?"
 
 [hr][/hr]
-[b][anchor=001]#[/anchor][anchor=1]1[/anchor]: Where's The Love Gone?[/b]
+[b][anchor=001]#1[/anchor]: Where's The Love Gone?[/b]
 
 The Issue
 Last night the respected tabloid TV show "[i]60 Minutes[/i]" ran a report on @@NAME@@'s rising divorce rate. What is happening to the nuclear family?
@@ -28,7 +28,7 @@ The Debate
 **5. "There's a simple way to boost the marriage rate," says gay rights activist Frank Weber. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual orientation. Besides, everyone knows gay relationships are more stable than straight ones." [Policy TBD]
 
 [hr][/hr]
-[b][anchor=002]#[/anchor][anchor=2]2[/anchor]: Reclaim The Streets![/b]
+[b][anchor=2]#2[/anchor]: Reclaim The Streets![/b]
 
 The Issue
 Several major city streets were clogged with bicycles this morning, as the environmental group 'Two Wheels Good, Four Wheels Bad' staged a protest. Several hundred riders ambled through downtown streets, blissfully ignoring the torrent of abuse hurled at them by thousands of motorists running late for work.
@@ -41,7 +41,7 @@ The Debate
 3. The Automotive Manufacturers Association, meanwhile, has called for government support. "It's clear that we need to boost the level of automobile support in this country. This protest this morning is a clear indication of... um... anyway, we need more government funds."
 
 [hr][/hr]
-[b][anchor=003]#[/anchor][anchor=3]3[/anchor]: Harry Potter Censorship Row[/b]
+[b][anchor=3]#3[/anchor]: Harry Potter Censorship Row[/b]
 
 The Issue
 The latest "Harry Potter" book to hit schools across @@NAME@@ has stirred up the greatest controversy yet.
@@ -56,7 +56,7 @@ The Debate
 **4. Teachers union President @@RANDOM_NAME@@ says, "Come on, the book is fantasy! And it's a damn good read. I'd like the government to issue a statement of support for our teachers and librarians, so kids can enjoy good books without interference from ignorant wackos, like their parents." [[color=purple]Must ban religions[/color]]
 
 [hr][/hr]
-[b][anchor=004]#[/anchor][anchor=4]4[/anchor]: Economic Collapse Looms![/b]
+[b][anchor=4]#4[/anchor]: Economic Collapse Looms![/b]
 
 The Issue
 Big business, fed up with over-regulation in @@NAME@@, are heading offshore in ever-increasing numbers.
@@ -69,7 +69,7 @@ The Debate
 *3. "This is a catastrophe waiting to happen," says the Chamber of Commerce. "Think of the consequences! Without big business, where do the jobs come from? Where do we get our medicine? Our electronics? Our latest fashions? There are dozens of useless regulations the government could abolish today to make life easier for commerce, and it's high time they did." [[color=red]Must ban cars[/color]]
 
 [hr][/hr]
-[b][anchor=005]#[/anchor][anchor=5]5[/anchor]: Child Casino Shock[/b]
+[b][anchor=5]#5[/anchor]: Child Casino Shock[/b]
 
 The Issue
 Children as young as eight have been spotted gambling in some of @@NAME@@'s seedier casinos.
@@ -80,7 +80,7 @@ The Debate
 2. However, Crown Casino chairperson @@RANDOM_NAME@@ says, "What's wrong with children gambling? It prepares them for the realities of life, teaching them that success or failure is not due to hard work or intelligence, but the roll of the dice. Besides, if kids weren't gambling, they'd be spraypainting trains."
 
 [hr][/hr]
-[b][anchor=006]#[/anchor][anchor=6]6[/anchor]: Appointment Of Spiritual Advisor[/b]
+[b][anchor=6]#6[/anchor]: Appointment Of Spiritual Advisor[/b]
 
 The Issue
 It's time for the government to hire a new religious advisor. Your people have narrowed down the candidates to:
@@ -93,7 +93,7 @@ The Debate
 3. Finally, there's @@RANDOM_NAME@@. "If I am awarded the appointment, I will immediately resign," the ex-schoolteacher has declared. "Because, frankly, God is a big load of hokey. I'll be doing everyone a favor by just shutting up about it."
 
 [hr][/hr]
-[b][anchor=007]#[/anchor][anchor=7]7[/anchor]: Animal Liberation Front Strikes Again[/b]
+[b][anchor=7]#7[/anchor]: Animal Liberation Front Strikes Again[/b]
 
 The Issue
 The increasingly militant Animal Liberation Front struck again last night, freeing dozens of chickens bound for delicious snack packs.
@@ -108,7 +108,7 @@ The Debate
 4. Economist @@RANDOM_NAME@@ has an alternative. "You don't need to take away the people's right to choose. You just need to build the costs of animal suffering into the price. A tax on meat-eating, in proportion to the amount of cruelty involved, would do the trick. Plus think of the benefit for the national coffers! Of course, poor people wouldn't be able to afford meat, but that's just more incentive for them to get jobs."
 
 [hr][/hr]
-[b][anchor=008]#[/anchor][anchor=8]8[/anchor]: Nudists Demand Time In Sun[/b]
+[b][anchor=8]#8[/anchor]: Nudists Demand Time In Sun[/b]
 
 The Issue
 A loose coalition of sartorially-challenged individuals known as "Let It All Hang Out" has called on the government to relax public nudity laws.
@@ -121,7 +121,7 @@ The Debate
 3. "Whoa, whoa," says noted accountant @@RANDOM_NAME@@. "Are these people serious? The last thing I want to see when I'm out for a coffee is some lumbering, over-weight nudist coming down the sidewalk toward me. If people want to get naked, they can do it in the privacy of their own homes. Think of the children!"
 
 [hr][/hr]
-[b][anchor=009]#[/anchor][anchor=9]9[/anchor]: @@ANIMAL_PLURAL@@ On The Dinner Table?[/b]
+[b][anchor=9]#9[/anchor]: @@ANIMAL_PLURAL@@ On The Dinner Table?[/b]
 
 The Issue
 In a bid to provide a new revenue stream for @@NAME@@'s Beef-Based Agriculture industry, it has been suggested that @@ANIMAL_PLURAL@@ could be added to the menu.
@@ -134,7 +134,7 @@ The Debate
 3. "I am shocked and appalled!" declared SPCA President @@RANDOM_NAME@@. "If anyone needs to be culled, it's us humans. The @@ANIMAL_PLURAL@@ were here first, remember? We need to take this as a sign to get our industry--agriculture in particular--to back off. The @@ANIMAL@@ is part of what makes @@NAME@@ a great nation!"
 
 [hr][/hr]
-[b][anchor=010]#[/anchor][anchor=10]10[/anchor]: Social Inequality Reaching Embarrassing Levels[/b]
+[b][anchor=10]#10[/anchor]: Social Inequality Reaching Embarrassing Levels[/b]
 
 The Issue
 Commentators have warned that @@NAME@@'s social inequalities threaten to make it an international pariah.
@@ -147,7 +147,7 @@ The Debate
 3. "Who says we're an international pariah?" demands military honcho @@RANDOM_NAME@@. "What are their names? If that's the way the international community feels, we obviously need to prepare for war."
 
 [hr][/hr]
-[b][anchor=011]#[/anchor][anchor=11]11[/anchor]: People Request Not So Much Dictatorship, If That's All Right[/b]
+[b][anchor=11]#11[/anchor]: People Request Not So Much Dictatorship, If That's All Right[/b]
 
 The Issue
 While effusively praising @@NAME@@'s leadership and bowing repeatedly, a delegation has humbly requested that the government take a more "modernistic" view in the future.
@@ -158,7 +158,7 @@ The Debate
 2. "Perhaps the people could be given some more political freedoms," muses your Chief of Staff, who is your sister. "Is there really such harm in allowing public discussion of ideas? We could even have a real Opposition Party. One that isn't just full of your puppets, I mean."
 
 [hr][/hr]
-[b][anchor=012]#[/anchor][anchor=12]12[/anchor]: Death Penalty On Agenda[/b]
+[b][anchor=12]#12[/anchor]: Death Penalty On Agenda[/b]
 
 The Issue
 Following a tragic double-murder, capital punishment has surged as an election issue. There now appears a real possibility that right-wing candidate @@RANDOM_NAME@@, running on a "Do the Crime, pay the Penalty" platform, will gain power. While society's intelligentsia is outraged, debate rages as to whether the government should intervene.
@@ -169,7 +169,7 @@ The Debate
 2. "I'm sorry," says Civil Rights Unionist @@RANDOM_NAME@@, "but this travesty cannot be allowed to pass. If the government needs to crack down on lunatic fringe groups in order to keep our great nation free of the death penalty, then so be it. We must ban the politics of hatred and fear!"
 
 [hr][/hr]
-[b][anchor=013]#[/anchor][anchor=13]13[/anchor]: Too Much Yakking, Already, Say Delegation[/b]
+[b][anchor=13]#13[/anchor]: Too Much Yakking, Already, Say Delegation[/b]
 
 The Issue
 Some people say @@NAME@@'s policy on free speech has gone too far.
@@ -182,7 +182,7 @@ The Debate
 [3]. "The right to free speech is a central tenet of our system of democracy," says religious leader @@RANDOM_NAME@@. "But surely the right to not have your religious beliefs mocked by others is worth something, too? We mustn't put up with intolerance!" [[color=purple]Must not have Atheism?[/color]]
 
 [hr][/hr]
-[b][anchor=014]#[/anchor][anchor=14]14[/anchor]: Military Demands Increased Spending[/b]
+[b][anchor=14]#14[/anchor]: Military Demands Increased Spending[/b]
 
 The Issue
 The Department of Defense has put its case for a substantial increase in funding for the coming financial year.
@@ -193,7 +193,7 @@ The Debate
 2. "NO MORE BOMBS," chant the protestors outside Parliament House, in a repetitious and increasingly annoying appeal. Spokesperson @@RANDOM_NAME@@, speaking through a feedback-afflicted microphone, says, "@@NAME@@ needs fewer weapons, not more! Make the world a safer place! Disarm now!"
 
 [hr][/hr]
-[b][anchor=015]#[/anchor][anchor=15]15[/anchor]: More Police Needed[/b]
+[b][anchor=15]#15[/anchor]: More Police Needed[/b]
 
 The Issue
 As crime rates rise, some in the community are calling for increased policing.
@@ -206,7 +206,7 @@ The Debate
 3. "Yeah, good luck with that," says conservative leader and gun enthusiast @@RANDOM_NAME@@. "Look, we do need more police, that's clear. But that's not enough. We need real punishments: sentences that will act as a genuine deterrent to people considering a life of crime. Like public floggings."
 
 [hr][/hr]
-[b][anchor=016]#[/anchor][anchor=16]16[/anchor]: @@MAJOR_INDUSTRY@@ Workers Strike![/b]
+[b][anchor=16]#16[/anchor]: @@MAJOR_INDUSTRY@@ Workers Strike![/b]
 
 The Issue
 Workers across the nation have gone out on indefinite strike over what they claim are substandard wages in the @@MAJOR_INDUSTRY@@ industry.
@@ -217,7 +217,7 @@ The Debate
 2. "We pay our employees very generous wages," says employer representative @@RANDOM_NAME@@. "Especially when you consider that without us, they'd be OUT ON THE STREET. Hear that, you scumbags? OUT ON THE STREET! Anyway, my point is, if you cave in, you make our entire industry uncompetitive. You can't do that in the global marketplace. It'll hurt the whole country. The best solution, economically speaking, would be to relax industrial laws and allow us to fire troublemakers on the spot."
 
 [hr][/hr]
-[b][anchor=017]#[/anchor][anchor=17]17[/anchor]: Corporations Demand Political Say[/b]
+[b][anchor=17]#17[/anchor]: Corporations Demand Political Say[/b]
 
 The Issue
 A well-heeled lobby group is pushing for the elimination of regulations that prevent corporations from donating money to political parties.
@@ -230,7 +230,7 @@ The Debate
 3. "Frankly, I don't see why we need to have elections at all," says your brother, @@RANDOM_NAME@@, over a late-night malt whiskey. "You always seem to know what's best. Why not scrap the whole political system? It would make things so much simpler."
 
 [hr][/hr]
-[b][anchor=018]#[/anchor][anchor=18]18[/anchor]: Citizens Struggle Under "Unfair" Tax Burden[/b]
+[b][anchor=18]#18[/anchor]: Citizens Struggle Under "Unfair" Tax Burden[/b]
 
 The Issue
 A recent poll has revealed high levels of dissatisfaction among the populace about tax rates.
@@ -243,7 +243,7 @@ The Debate
 3. "I don't object to the amount of tax, I object to where it's being spent," says social reformer @@RANDOM_NAME@@. "I'd like to see everyone have a choice as to where their @@CURRENCY_PLURAL@@ go every time they fill out a tax return. Everyone would feel a lot better about opening their wallets if they had a say as to where the money went. I think you'd see a lot more public money going to education and a lot less to business."
 
 [hr][/hr]
-[b][anchor=019]#[/anchor][anchor=19]19[/anchor]: @@NAME@@ Awash With Red-Rimmed Eyes[/b]
+[b][anchor=19]#19[/anchor]: @@NAME@@ Awash With Red-Rimmed Eyes[/b]
 
 The Issue
 National marijuana consumption has hit an all-time high, with alarming results, a new poll has found.
@@ -254,7 +254,7 @@ The Debate
 2. "Whoa, dude, no need to get, like, you know," says Free Your Mind campaigner @@RANDOM_NAME@@, from his parents' basement. "This is, like, a personal choice issue, you know. It's like... whoa, just back off what I want to do with my own body. Don't let the fascists win, man. There are some hot new eckies coming in soon, they should be legal too."
 
 [hr][/hr]
-[b][anchor=020]#[/anchor][anchor=20]20[/anchor]: Gunman Kills Three [Maxtopia; ed:Luna Amore][/b]
+[b][anchor=20]#20[/anchor]: Gunman Kills Three [Maxtopia; ed:Luna Amore][/b]
 
 The Issue
 Tragedy struck @@NAME@@ today, as a gunman killed three people in a suburban shooting rampage. The community is united in grief, but divided in opinion as to what should be done.
@@ -269,7 +269,7 @@ The Debate
 4. "Guns don't kill people, people kill people," says @@NAME@@ Handgun Association head honcho @@RANDOM_NAME@@. "If you outlaw guns, only outlaws will have guns. Is that what we want? Think, people. The answer isn't kung-fu and it definitely isn't banning guns. What you need to do is encourage us law-abiding folk to always carry a gun. Shoot first, ask questions later. That's what I always say."
 
 [hr][/hr]
-[b][anchor=021]#[/anchor][anchor=21]21[/anchor]: Police Consider "Big Brother" Anti-Crime System[/b]
+[b][anchor=21]#21[/anchor]: Police Consider "Big Brother" Anti-Crime System[/b]
 
 The Issue
 The Police department is considering installing surveillance cameras in all major public areas, in an effort to crack down on crime.
@@ -282,7 +282,7 @@ The Debate
 3. "This 'slippery slope' argument has got me thinking," says Police Minister @@RANDOM_NAME@@. "You know, it would be a lot easier to fight crime if we watched people all the time. Not with cameras, of course. That's clearly an invasion of privacy. But how about a national database of our citizens, coupled with compulsory ID cards and barcoding? It would stop crime dead in its tracks."
 
 [hr][/hr]
-[b][anchor=022]#[/anchor][anchor=22]22[/anchor]: Nazi Sympathizers Plan Rally[/b]
+[b][anchor=22]#22[/anchor]: Nazi Sympathizers Plan Rally[/b]
 
 The Issue
 Far-right-wing Nazi supporters plan to stage a rally in the city center tomorrow, giving voice to their violent, racist views.
@@ -293,7 +293,7 @@ The Debate
 2. "It's exactly because we're civilized that we must let the demonstration proceed," says free speech campaigner @@RANDOM_NAME@@. "We may not like what they have to say, but in this society, people have the right to argue whatever political view they want, no matter how hateful, selfish, or stupid it is."
 
 [hr][/hr]
-[b][anchor=023]#[/anchor][anchor=23]23[/anchor]: Uranium Deposit Promises To Enrich @@NAME@@[/b]
+[b][anchor=23]#23[/anchor]: Uranium Deposit Promises To Enrich @@NAME@@[/b]
 
 The Issue
 Prospecting company Nukes4U has uncovered a large uranium deposit in @@NAME@@'s south-west.
@@ -310,7 +310,7 @@ The Debate
 5. "There's no need for an either-or decision," says the government's Minister for Mining, Clear-Felling, and the Environment. "We can preserve most of the rainforest and allow mining of a small part. After all, think of all the good that the money from this uranium deposit can bring to @@NAME@@."
 
 [hr][/hr]
-[b][anchor=024]#[/anchor][anchor=24]24[/anchor]: Budget Time: Accountants Excited[/b]
+[b][anchor=24]#24[/anchor]: Budget Time: Accountants Excited[/b]
 
 The Issue
 It's time for the government to allocate spending for the coming year, and as always, special interest groups are keen to have their say.
@@ -325,7 +325,7 @@ The Debate
 4. "Hey, I've got a crazy idea," says noted libertarian and bird-watcher @@RANDOM_NAME@@. "How about the government stops taking so much tax from people? Give us a tax cut and we'll buy the things we need ourselves. People need to be weaned off the government teat!"
 
 [hr][/hr]
-[b][anchor=025]#[/anchor][anchor=25]25[/anchor]: Cloning Research Promises New Breakthrough[/b]
+[b][anchor=25]#25[/anchor]: Cloning Research Promises New Breakthrough[/b]
 
 The Issue
 Scientists using cloned human embryos for research are on the verge of a medical breakthrough.

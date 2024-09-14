@@ -1,4 +1,4 @@
-[b][anchor=000]#[/anchor][anchor=0]0[/anchor]: Should Democracy Be Compulsory?[/b]
+[b][anchor=0]#0[/anchor]: Should Democracy Be Compulsory?[/b]
 
 The Issue
 In response to a slow news week, certain highbrow newspapers have stirred up the debate over voluntary vs compulsory voting.
@@ -11,7 +11,7 @@ The Debate
 3. "This raises an interesting issue," says @@RANDOM_MALE_NAME@@, your brother. "And that is: why do we need elections, anyway? Seems to me it would be much simpler if you just decided what was right, and did it. Wouldn't that save everyone a lot of time?"
 
 [hr][/hr]
-[b][anchor=001]#[/anchor][anchor=1]1[/anchor]: Where's The Love Gone?[/b]
+[b][anchor=001]#1[/anchor]: Where's The Love Gone?[/b]
 
 The Issue
 Last night the respected tabloid TV show "[i]60 Minutes[/i]" ran a report on @@NAME@@'s rising divorce rate. What is happening to the nuclear family?
@@ -28,7 +28,7 @@ The Debate
 **5. "There's a simple way to boost the marriage rate," says gay rights activist Frank Weber. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual orientation. Besides, everyone knows gay relationships are more stable than straight ones." [Policy TBD]
 
 [hr][/hr]
-[b][anchor=002]#[/anchor][anchor=2]2[/anchor]: Reclaim The Streets![/b]
+[b][anchor=2]#2[/anchor]: Reclaim The Streets![/b]
 
 The Issue
 Several major city streets were clogged with bicycles this morning, as the environmental group 'Two Wheels Good, Four Wheels Bad' staged a protest. Several hundred riders ambled through downtown streets, blissfully ignoring the torrent of abuse hurled at them by thousands of motorists running late for work.
@@ -41,7 +41,7 @@ The Debate
 3. The Automotive Manufacturers Association, meanwhile, has called for government support. "It's clear that we need to boost the level of automobile support in this country. This protest this morning is a clear indication of... um... anyway, we need more government funds."
 
 [hr][/hr]
-[b][anchor=003]#[/anchor][anchor=1]3[/anchor]: Harry Potter Censorship Row[/b]
+[b][anchor=3]#3[/anchor]: Harry Potter Censorship Row[/b]
 
 The Issue
 The latest "Harry Potter" book to hit schools across @@NAME@@ has stirred up the greatest controversy yet.
@@ -56,7 +56,7 @@ The Debate
 **4. Teachers union President @@RANDOM_NAME@@ says, "Come on, the book is fantasy! And it's a damn good read. I'd like the government to issue a statement of support for our teachers and librarians, so kids can enjoy good books without interference from ignorant wackos, like their parents." [[color=purple]Must ban religions[/color]]
 
 [hr][/hr]
-[b][anchor=004]#[/anchor][anchor=4]4[/anchor]: Economic Collapse Looms![/b]
+[b][anchor=4]#4[/anchor]: Economic Collapse Looms![/b]
 
 The Issue
 Big business, fed up with over-regulation in @@NAME@@, are heading offshore in ever-increasing numbers.
@@ -69,7 +69,7 @@ The Debate
 *3. "This is a catastrophe waiting to happen," says the Chamber of Commerce. "Think of the consequences! Without big business, where do the jobs come from? Where do we get our medicine? Our electronics? Our latest fashions? There are dozens of useless regulations the government could abolish today to make life easier for commerce, and it's high time they did." [[color=red]Must ban cars[/color]]
 
 [hr][/hr]
-[b][anchor=005]#[/anchor][anchor=5]5[/anchor]: Child Casino Shock[/b]
+[b][anchor=5]#5[/anchor]: Child Casino Shock[/b]
 
 The Issue
 Children as young as eight have been spotted gambling in some of @@NAME@@'s seedier casinos.
@@ -80,7 +80,7 @@ The Debate
 2. However, Crown Casino chairperson @@RANDOM_NAME@@ says, "What's wrong with children gambling? It prepares them for the realities of life, teaching them that success or failure is not due to hard work or intelligence, but the roll of the dice. Besides, if kids weren't gambling, they'd be spraypainting trains."
 
 [hr][/hr]
-[b][anchor=006]#[/anchor][anchor=6]6[/anchor]: Appointment Of Spiritual Advisor[/b]
+[b][anchor=6]#6[/anchor]: Appointment Of Spiritual Advisor[/b]
 
 The Issue
 It's time for the government to hire a new religious advisor. Your people have narrowed down the candidates to:
@@ -93,7 +93,7 @@ The Debate
 3. Finally, there's @@RANDOM_NAME@@. "If I am awarded the appointment, I will immediately resign," the ex-schoolteacher has declared. "Because, frankly, God is a big load of hokey. I'll be doing everyone a favor by just shutting up about it."
 
 [hr][/hr]
-[b][anchor=007]#[/anchor][anchor=7]7[/anchor]: Animal Liberation Front Strikes Again[/b]
+[b][anchor=7]#7[/anchor]: Animal Liberation Front Strikes Again[/b]
 
 The Issue
 The increasingly militant Animal Liberation Front struck again last night, freeing dozens of chickens bound for delicious snack packs.
@@ -108,7 +108,7 @@ The Debate
 4. Economist @@RANDOM_NAME@@ has an alternative. "You don't need to take away the people's right to choose. You just need to build the costs of animal suffering into the price. A tax on meat-eating, in proportion to the amount of cruelty involved, would do the trick. Plus think of the benefit for the national coffers! Of course, poor people wouldn't be able to afford meat, but that's just more incentive for them to get jobs."
 
 [hr][/hr]
-[b][anchor=008]#[/anchor][anchor=8]8[/anchor]: Nudists Demand Time In Sun[/b]
+[b][anchor=8]#8[/anchor]: Nudists Demand Time In Sun[/b]
 
 The Issue
 A loose coalition of sartorially-challenged individuals known as "Let It All Hang Out" has called on the government to relax public nudity laws.
@@ -121,7 +121,7 @@ The Debate
 3. "Whoa, whoa," says noted accountant @@RANDOM_NAME@@. "Are these people serious? The last thing I want to see when I'm out for a coffee is some lumbering, over-weight nudist coming down the sidewalk toward me. If people want to get naked, they can do it in the privacy of their own homes. Think of the children!"
 
 [hr][/hr]
-[b][anchor=009]#[/anchor][anchor=9]9[/anchor]: @@ANIMAL_PLURAL@@ On The Dinner Table?[/b]
+[b][anchor=9]#9[/anchor]: @@ANIMAL_PLURAL@@ On The Dinner Table?[/b]
 
 The Issue
 In a bid to provide a new revenue stream for @@NAME@@'s Beef-Based Agriculture industry, it has been suggested that @@ANIMAL_PLURAL@@ could be added to the menu.
@@ -134,7 +134,7 @@ The Debate
 3. "I am shocked and appalled!" declared SPCA President @@RANDOM_NAME@@. "If anyone needs to be culled, it's us humans. The @@ANIMAL_PLURAL@@ were here first, remember? We need to take this as a sign to get our industry--agriculture in particular--to back off. The @@ANIMAL@@ is part of what makes @@NAME@@ a great nation!"
 
 [hr][/hr]
-[b][anchor=010]#[/anchor][anchor=10]10[/anchor]: Social Inequality Reaching Embarrassing Levels[/b]
+[b][anchor=10]#10[/anchor]: Social Inequality Reaching Embarrassing Levels[/b]
 
 The Issue
 Commentators have warned that @@NAME@@'s social inequalities threaten to make it an international pariah.
@@ -147,7 +147,7 @@ The Debate
 3. "Who says we're an international pariah?" demands military honcho @@RANDOM_NAME@@. "What are their names? If that's the way the international community feels, we obviously need to prepare for war."
 
 [hr][/hr]
-[b][anchor=011]#[/anchor][anchor=11]11[/anchor]: People Request Not So Much Dictatorship, If That's All Right[/b]
+[b][anchor=11]#11[/anchor]: People Request Not So Much Dictatorship, If That's All Right[/b]
 
 The Issue
 While effusively praising @@NAME@@'s leadership and bowing repeatedly, a delegation has humbly requested that the government take a more "modernistic" view in the future.
@@ -158,7 +158,7 @@ The Debate
 2. "Perhaps the people could be given some more political freedoms," muses your Chief of Staff, who is your sister. "Is there really such harm in allowing public discussion of ideas? We could even have a real Opposition Party. One that isn't just full of your puppets, I mean."
 
 [hr][/hr]
-[b][anchor=012]#[/anchor][anchor=12]12[/anchor]: Death Penalty On Agenda[/b]
+[b][anchor=12]#12[/anchor]: Death Penalty On Agenda[/b]
 
 The Issue
 Following a tragic double-murder, capital punishment has surged as an election issue. There now appears a real possibility that right-wing candidate @@RANDOM_NAME@@, running on a "Do the Crime, pay the Penalty" platform, will gain power. While society's intelligentsia is outraged, debate rages as to whether the government should intervene.
@@ -169,7 +169,7 @@ The Debate
 2. "I'm sorry," says Civil Rights Unionist @@RANDOM_NAME@@, "but this travesty cannot be allowed to pass. If the government needs to crack down on lunatic fringe groups in order to keep our great nation free of the death penalty, then so be it. We must ban the politics of hatred and fear!"
 
 [hr][/hr]
-[b][anchor=013]#[/anchor][anchor=13]13[/anchor]: Too Much Yakking, Already, Say Delegation[/b]
+[b][anchor=13]#13[/anchor]: Too Much Yakking, Already, Say Delegation[/b]
 
 The Issue
 Some people say @@NAME@@'s policy on free speech has gone too far.
@@ -182,7 +182,7 @@ The Debate
 [3]. "The right to free speech is a central tenet of our system of democracy," says religious leader @@RANDOM_NAME@@. "But surely the right to not have your religious beliefs mocked by others is worth something, too? We mustn't put up with intolerance!" [[color=purple]Must not have Atheism?[/color]]
 
 [hr][/hr]
-[b][anchor=014]#[/anchor][anchor=14]14[/anchor]: Military Demands Increased Spending[/b]
+[b][anchor=14]#14[/anchor]: Military Demands Increased Spending[/b]
 
 The Issue
 The Department of Defense has put its case for a substantial increase in funding for the coming financial year.
@@ -193,7 +193,7 @@ The Debate
 2. "NO MORE BOMBS," chant the protestors outside Parliament House, in a repetitious and increasingly annoying appeal. Spokesperson @@RANDOM_NAME@@, speaking through a feedback-afflicted microphone, says, "@@NAME@@ needs fewer weapons, not more! Make the world a safer place! Disarm now!"
 
 [hr][/hr]
-[b][anchor=015]#[/anchor][anchor=15]15[/anchor]: More Police Needed[/b]
+[b][anchor=15]#15[/anchor]: More Police Needed[/b]
 
 The Issue
 As crime rates rise, some in the community are calling for increased policing.
@@ -206,7 +206,7 @@ The Debate
 3. "Yeah, good luck with that," says conservative leader and gun enthusiast @@RANDOM_NAME@@. "Look, we do need more police, that's clear. But that's not enough. We need real punishments: sentences that will act as a genuine deterrent to people considering a life of crime. Like public floggings."
 
 [hr][/hr]
-[b][anchor=016]#[/anchor][anchor=16]16[/anchor]: @@MAJOR_INDUSTRY@@ Workers Strike![/b]
+[b][anchor=16]#16[/anchor]: @@MAJOR_INDUSTRY@@ Workers Strike![/b]
 
 The Issue
 Workers across the nation have gone out on indefinite strike over what they claim are substandard wages in the @@MAJOR_INDUSTRY@@ industry.
@@ -217,7 +217,7 @@ The Debate
 2. "We pay our employees very generous wages," says employer representative @@RANDOM_NAME@@. "Especially when you consider that without us, they'd be OUT ON THE STREET. Hear that, you scumbags? OUT ON THE STREET! Anyway, my point is, if you cave in, you make our entire industry uncompetitive. You can't do that in the global marketplace. It'll hurt the whole country. The best solution, economically speaking, would be to relax industrial laws and allow us to fire troublemakers on the spot."
 
 [hr][/hr]
-[b][anchor=017]#[/anchor][anchor=17]17[/anchor]: Corporations Demand Political Say[/b]
+[b][anchor=17]#17[/anchor]: Corporations Demand Political Say[/b]
 
 The Issue
 A well-heeled lobby group is pushing for the elimination of regulations that prevent corporations from donating money to political parties.
@@ -230,7 +230,7 @@ The Debate
 3. "Frankly, I don't see why we need to have elections at all," says your brother, @@RANDOM_NAME@@, over a late-night malt whiskey. "You always seem to know what's best. Why not scrap the whole political system? It would make things so much simpler."
 
 [hr][/hr]
-[b][anchor=018]#[/anchor][anchor=18]18[/anchor]: Citizens Struggle Under "Unfair" Tax Burden[/b]
+[b][anchor=18]#18[/anchor]: Citizens Struggle Under "Unfair" Tax Burden[/b]
 
 The Issue
 A recent poll has revealed high levels of dissatisfaction among the populace about tax rates.
@@ -243,7 +243,7 @@ The Debate
 3. "I don't object to the amount of tax, I object to where it's being spent," says social reformer @@RANDOM_NAME@@. "I'd like to see everyone have a choice as to where their @@CURRENCY_PLURAL@@ go every time they fill out a tax return. Everyone would feel a lot better about opening their wallets if they had a say as to where the money went. I think you'd see a lot more public money going to education and a lot less to business."
 
 [hr][/hr]
-[b][anchor=019]#[/anchor][anchor=19]19[/anchor]: @@NAME@@ Awash With Red-Rimmed Eyes[/b]
+[b][anchor=19]#19[/anchor]: @@NAME@@ Awash With Red-Rimmed Eyes[/b]
 
 The Issue
 National marijuana consumption has hit an all-time high, with alarming results, a new poll has found.
@@ -254,7 +254,7 @@ The Debate
 2. "Whoa, dude, no need to get, like, you know," says Free Your Mind campaigner @@RANDOM_NAME@@, from his parents' basement. "This is, like, a personal choice issue, you know. It's like... whoa, just back off what I want to do with my own body. Don't let the fascists win, man. There are some hot new eckies coming in soon, they should be legal too."
 
 [hr][/hr]
-[b][anchor=020]#[/anchor][anchor=20]20[/anchor]: Gunman Kills Three [Maxtopia; ed:Luna Amore][/b]
+[b][anchor=20]#20[/anchor]: Gunman Kills Three [Maxtopia; ed:Luna Amore][/b]
 
 The Issue
 Tragedy struck @@NAME@@ today, as a gunman killed three people in a suburban shooting rampage. The community is united in grief, but divided in opinion as to what should be done.
@@ -269,7 +269,7 @@ The Debate
 4. "Guns don't kill people, people kill people," says @@NAME@@ Handgun Association head honcho @@RANDOM_NAME@@. "If you outlaw guns, only outlaws will have guns. Is that what we want? Think, people. The answer isn't kung-fu and it definitely isn't banning guns. What you need to do is encourage us law-abiding folk to always carry a gun. Shoot first, ask questions later. That's what I always say."
 
 [hr][/hr]
-[b][anchor=021]#[/anchor][anchor=21]21[/anchor]: Police Consider "Big Brother" Anti-Crime System[/b]
+[b][anchor=21]#21[/anchor]: Police Consider "Big Brother" Anti-Crime System[/b]
 
 The Issue
 The Police department is considering installing surveillance cameras in all major public areas, in an effort to crack down on crime.
@@ -282,7 +282,7 @@ The Debate
 3. "This 'slippery slope' argument has got me thinking," says Police Minister @@RANDOM_NAME@@. "You know, it would be a lot easier to fight crime if we watched people all the time. Not with cameras, of course. That's clearly an invasion of privacy. But how about a national database of our citizens, coupled with compulsory ID cards and barcoding? It would stop crime dead in its tracks."
 
 [hr][/hr]
-[b][anchor=022]#[/anchor][anchor=22]22[/anchor]: Nazi Sympathizers Plan Rally[/b]
+[b][anchor=22]#22[/anchor]: Nazi Sympathizers Plan Rally[/b]
 
 The Issue
 Far-right-wing Nazi supporters plan to stage a rally in the city center tomorrow, giving voice to their violent, racist views.
@@ -293,7 +293,7 @@ The Debate
 2. "It's exactly because we're civilized that we must let the demonstration proceed," says free speech campaigner @@RANDOM_NAME@@. "We may not like what they have to say, but in this society, people have the right to argue whatever political view they want, no matter how hateful, selfish, or stupid it is."
 
 [hr][/hr]
-[b][anchor=023]#[/anchor][anchor=23]23[/anchor]: Uranium Deposit Promises To Enrich @@NAME@@[/b]
+[b][anchor=23]#23[/anchor]: Uranium Deposit Promises To Enrich @@NAME@@[/b]
 
 The Issue
 Prospecting company Nukes4U has uncovered a large uranium deposit in @@NAME@@'s south-west.
@@ -310,7 +310,7 @@ The Debate
 5. "There's no need for an either-or decision," says the government's Minister for Mining, Clear-Felling, and the Environment. "We can preserve most of the rainforest and allow mining of a small part. After all, think of all the good that the money from this uranium deposit can bring to @@NAME@@."
 
 [hr][/hr]
-[b][anchor=024]#[/anchor][anchor=24]24[/anchor]: Budget Time: Accountants Excited[/b]
+[b][anchor=24]#24[/anchor]: Budget Time: Accountants Excited[/b]
 
 The Issue
 It's time for the government to allocate spending for the coming year, and as always, special interest groups are keen to have their say.
@@ -325,7 +325,7 @@ The Debate
 4. "Hey, I've got a crazy idea," says noted libertarian and bird-watcher @@RANDOM_NAME@@. "How about the government stops taking so much tax from people? Give us a tax cut and we'll buy the things we need ourselves. People need to be weaned off the government teat!"
 
 [hr][/hr]
-[b][anchor=025]#[/anchor][anchor=25]25[/anchor]: Cloning Research Promises New Breakthrough[/b]
+[b][anchor=25]#25[/anchor]: Cloning Research Promises New Breakthrough[/b]
 
 The Issue
 Scientists using cloned human embryos for research are on the verge of a medical breakthrough.
@@ -336,7 +336,7 @@ The Debate
 2. "Well, if you have to be part of a lunatic fringe group to object to this barbaric practice, I'm a lunatic," says placard-waving protestor @@RANDOM_NAME@@. "Of course it would be nice to cure these unnamed diseases, but at what cost? They're messing with the sanctity of human life. It's wrong, and the lab should be shut down immediately."
 
 [hr][/hr]
-[b][anchor=026]#[/anchor][anchor=26]26[/anchor]: Compulsory Organ Harvesting Proposed[/b]
+[b][anchor=26]#26[/anchor]: Compulsory Organ Harvesting Proposed[/b]
 
 The Issue
 A group of emergency room doctors has petitioned the government to introduce mandatory organ donations.
@@ -347,7 +347,7 @@ The Debate
 2. "You keep your damn hands off my organs!" says alarmed hospital patient @@RANDOM_NAME@@. "They are my organs, and I'll do with them what I like. The government has no right to my body."
 
 [hr][/hr]
-[b][anchor=027]#[/anchor][anchor=27]27[/anchor]: Cash for Colons?[/b]
+[b][anchor=27]#27[/anchor]: Cash for Colons?[/b]
 
 The Issue
 Hospitals have requested that they be allowed to pay people for donating blood and other bodily organs, such as kidneys.
@@ -358,7 +358,7 @@ The Debate
 2. "Great idea," says social commentator @@RANDOM_NAME@@. "Except for one thing. You know who's going to be selling their organs? Poor people! They'll be so desperate for money that they'll sell their own kidneys. Well, a kidney. This is just another way for the rich to buy themselves a better life at the expense of the poor. It must be outlawed."
 
 [hr][/hr]
-[b][anchor=028]#[/anchor][anchor=28]28[/anchor]: Cancer Sufferer Demands Euthanasia Bill[/b]
+[b][anchor=28]#28[/anchor]: Cancer Sufferer Demands Euthanasia Bill[/b]
 
 The Issue
 Dorothy Terwilliger lies immobilized in a hospital bed, unable to move. She has end-stage cancer, and wishes to end her struggle against death. However, laws prevent her doctors from obeying her wishes.
@@ -371,7 +371,7 @@ The Debate
 [3]. "I agree, but go further: there is never a right time for euthanasia," says Bishop @@RANDOM_NAME@@. "The lives we lead are given to us by the grace of God, and he decides when they end. It is not for us to question God's divine purpose, no matter how odd or screwed-up it may seem." [[color=purple]Must not have Atheism[/color]]
 
 [hr][/hr]
-[b][anchor=029]#[/anchor][anchor=29]29[/anchor]: Minorities Demand Representation In TV Soaps[/b]
+[b][anchor=29]#29[/anchor]: Minorities Demand Representation In TV Soaps[/b]
 
 The Issue
 @@NAME@@'s TV soaps--famous around the region--have come under fire for their lack of ethnic diversity.
@@ -384,7 +384,7 @@ The Debate
 3. "The government should do what now?" says TV studio executive @@RANDOM_NAME@@. "You've got to be kidding. We make soaps here, not documentaries. I should be able to put whichever characters I want into my shows. Quotas! Government prizes! God save me! Hasn't the government got anything better to do? Why don't they just back off and let society work out these things on its own?"
 
 [hr][/hr]
-[b][anchor=030]#[/anchor][anchor=30]30[/anchor]: Auto Industry Struggles Against Foreign Imports[/b]
+[b][anchor=30]#30[/anchor]: Auto Industry Struggles Against Foreign Imports[/b]
 
 The Issue
 Cheap, foreign-made cars are becoming increasingly popular, causing concern in @@NAME@@'s automobile manufacturing industry.
@@ -397,7 +397,7 @@ The Debate
 3. "I think we need to face facts," says noted economist and chat-show regular @@RANDOM_NAME@@. "We live in a global economy now, and automobile manufacturing just isn't @@NAME@@'s strong suit. There's no point taking money from taxpayers in order to line the pockets of a few greedy workers and corrupt managers in a doomed industry. Let the market take its--argh, let go of my throat!"
 
 [hr][/hr]
-[b][anchor=031]#[/anchor][anchor=31]31[/anchor]: Get Efficient, Private Sector Tells Nature [MantiCorp GroundForces][/b]
+[b][anchor=31]#31[/anchor]: Get Efficient, Private Sector Tells Nature [MantiCorp GroundForces][/b]
 
 The Issue
 A group of prominent business identities has proposed privatizing @@NAME@@'s beaches.
@@ -410,7 +410,7 @@ The Debate
 3. "Whoa, whoa, we're privatizing beaches now?" says local campaigner @@RANDOM_NAME@@. "These are public spaces! All @@NAME@@'s citizens have a right to enjoy them, not just the well-off. Yes, we should improve the quality of our beaches, but handing them over to the money-grabbers is not the right way to do it. The right way to do it is to boost government spending by increasing taxes."
 
 [hr][/hr]
-[b][anchor=032]#[/anchor][anchor=32]32[/anchor]: One Wife Is Never Enough, Say Polygamists [Fantasan][/b]
+[b][anchor=32]#32[/anchor]: One Wife Is Never Enough, Say Polygamists [Fantasan][/b]
 
 The Issue
 A small religious group is lobbying the government to allow them to take multiple wives.
@@ -427,7 +427,7 @@ The Debate
 **5. "Multiple wives? Excellent!" says passer-by @@RANDOM_NAME@@. "Presumably we will allow multiple husbands, as well. And gay marriages, of course. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=red]Must not have Marriage Equality[/color], [color=red]Must have Heterosexuality?[/color]]
 
 [hr][/hr]
-[b][anchor=033]#[/anchor][anchor=33]33[/anchor]: Genetics Brings New Life to Extinct Species [Badger Lozzate][/b]
+[b][anchor=33]#33[/anchor]: Genetics Brings New Life to Extinct Species [Badger Lozzate][/b]
 
 The Issue
 Scientists have announced they are close to a breakthrough in their quest to revive the feather-bellied @@ANIMAL@@, a species related to @@NAME@@'s national animal that has been extinct for more than a century.
@@ -442,7 +442,7 @@ The Debate
 4. "Now, come on," says @@RANDOM_NAME@@, well-known philosopher. "You don't need to be religious to be unnerved by the top of this particular slippery slope. Today it's @@ANIMAL_PLURAL@@, tomorrow it's dinosaurs, and we all know how that turns out. This research shouldn't be banned, but there must be strict government controls over its use."
 
 [hr][/hr]
-[b][anchor=034]#[/anchor][anchor=34]34[/anchor]: Don't Puff On Me, Say Non-Smokers [Sirocco][/b]
+[b][anchor=34]#34[/anchor]: Don't Puff On Me, Say Non-Smokers [Sirocco][/b]
 
 The Issue
 There is a growing call within @@NAME@@ to abolish smoking in public areas.
@@ -455,7 +455,7 @@ The Debate
 3. "Get your hands off my fag!" wheezes long-time smoker @@RANDOM_NAME@@. "I've been smoking for fifty years and it's never done me any harm. Helps me concentrate, it does! The government should back off on trying to tell me what I can put into my own body. Telling a smoker he can't light up in a restaurant is discrimination, pure and simple. If you want to put a stop to unfairness, stop that."
 
 [hr][/hr]
-[b][anchor=035]#[/anchor][anchor=35]35[/anchor]: Refugees Want To Call @@NAME@@ Home [The True Scroat][/b]
+[b][anchor=35]#35[/anchor]: Refugees Want To Call @@NAME@@ Home [The True Scroat][/b]
 
 The Issue
 After several bloody conflicts in nearby regions, a stream of asylum-seekers and refugees has been spotted heading for @@NAME@@'s shores.
@@ -468,7 +468,7 @@ The Debate
 3. Economics Professor @@RANDOM_NAME@@ offers an alternative. "There is no question that we have to help those who reach out to us in their darkest hour. But on the other hand, we cannot help everybody. So let's just take the ones who are willing to keep our streets clean and our drains flowing in return for a subsistence wage."
 
 [hr][/hr]
-[b][anchor=036]#[/anchor][anchor=36]36[/anchor]: International Community Comes Doorknocking [Guadalcanal][/b]
+[b][anchor=36]#36[/anchor]: International Community Comes Doorknocking [Guadalcanal][/b]
 
 The Issue
 The international community has appealed to @@NAME@@ to increase humanitarian aid to the world's poorer nations.
@@ -483,7 +483,7 @@ The Debate
 4. "Relief wouldn't hurt us... if we 'relieved' the right countries," suggests government advisor @@RANDOM_NAME@@. "We give them a little humanitarian aid, they give us access to their @@MAJOR_INDUSTRY@@ markets... it's win-win. Nothing wrong with a little quid pro quo, especially for a good cause."
 
 [hr][/hr]
-[b][anchor=037]#[/anchor][anchor=37]37[/anchor]: Traffic Cops Needed on Information Superhighway? [Snowcat][/b]
+[b][anchor=37]#37[/anchor]: Traffic Cops Needed on Information Superhighway? [Snowcat][/b]
 
 The Issue
 Certain shadowy ministerial figures have proposed government monitoring of individual internet usage.
@@ -496,7 +496,7 @@ The Debate
 3. Privacy activist @@RANDOM_NAME@@ is outraged, as usual. "Tyranny is the natural result of limiting information! Someone, somewhere, will always find something offensive -- mimes for example. Those scare the hell out of me. But should we ban them? No! Free the internet! We have nothing to fear from free information but pop-up advertising!"
 
 [hr][/hr]
-[b][anchor=038]#[/anchor][anchor=38]38[/anchor]: @@NAME@@ Looks to the Stars [Sentient Peoples][/b]
+[b][anchor=38]#38[/anchor]: @@NAME@@ Looks to the Stars [Sentient Peoples][/b]
 
 The Issue
 The recent popularity of a science-fiction TV show has prompted calls for @@NAME@@ to develop its own space program.
@@ -511,7 +511,7 @@ The Debate
 *4. "If man were meant to fly, we would have evolved solid rocket boosters instead of legs," says dubiously-trained biologist @@RANDOM_NAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of humanist values mandatory in all schools." [[color=red]Must be atheist[/color]]
 
 [hr][/hr]
-[b][anchor=039]#[/anchor][anchor=39]39[/anchor]: Scandal Rocks @@NAME@@'s Government! [The SLAGLands; ed: The SLAGLands][/b]
+[b][anchor=39]#39[/anchor]: Scandal Rocks @@NAME@@'s Government! [The SLAGLands; ed: The SLAGLands][/b]
 
 The Issue
 A tabloid magazine, The National Incriminator, has revealed the sordid details of an affair between one of your top advisors, Robert Lotsalovin, and his secretary.
@@ -526,7 +526,7 @@ The Debate
 4. "Whoa, whoa, hey, now..." argues Senator @@RANDOM_NAME@@. "What happened to Mr. Lotsalovin is no different than affairs that happen all over @@NAME@@ every day! Before you know it, they'll be after YOUR sexual history! I think what we need to do is take the public attention off of it somehow, perhaps by... oh, I don't know... giving them a tax cut! That'll divert their attention from this momentary distraction just long enough for Mr. Lotsalovin's divorce process to end!"
 
 [hr][/hr]
-[b][anchor=040]#[/anchor][anchor=40]40[/anchor]: Hukd on Fonix Workd 4 Me! [Bostion; ed: Reploid Productions][/b]
+[b][anchor=40]#40[/anchor]: Hukd on Fonix Workd 4 Me! [Bostion; ed: Reploid Productions][/b]
 
 The Issue
 @@NAME@@ has a serious problem with poor literacy rates among 12-18 year olds, which many parents and teachers blame on the current state of the education system and lack of government funding.
@@ -545,7 +545,7 @@ The Debate
 5. "Who needs some fancy-shmancy cash-draining school system, anyway?" @@RANDOM_NAME@@ declares from the front steps of his double-wide mobile home, shotgun in hand. "My Pa raised me and my eight brothers and three sisters without no waste of time schoolin'! My Pa taught me everythin' I need t'know, let all these whippersnappers' Mas and Pas teach 'em what they need t'know!"
 
 [hr][/hr]
-[b][anchor=041]#[/anchor][anchor=41]41[/anchor]: Software Giant Stomps on Competition [1 Infinite Loop; ed: The SLAGLands][/b]
+[b][anchor=41]#41[/anchor]: Software Giant Stomps on Competition [1 Infinite Loop; ed: The SLAGLands][/b]
 
 The Issue
 The CEO of @@NAME@@ software, hardware, and electronic headwear giant Microcosm, Inc. has been brought before the Supreme Court for violation of antitrust laws.
@@ -558,7 +558,7 @@ The Debate
 3. "Verily, I say unto thee, none of this would have happened wouldst thou not have stopped the problem before thou didst start it," argues Brother @@RANDOM_MALE_NAME@@ of the @@NAME@@ Amish community from out the window of his horse-drawn carriage. "We must doest as the Lord commandeth and abolishest the evils of computers and the Internet entirely. Only whenst we harken unto the Lord's commandments mayeth we truly be spiritually blessed."
 
 [hr][/hr]
-[b][anchor=042]#[/anchor][anchor=42]42[/anchor]: Turn Down That Racket, Say Morality Police [The Prelapsarian State; ed: The SLAGLands][/b]
+[b][anchor=42]#42[/anchor]: Turn Down That Racket, Say Morality Police [The Prelapsarian State; ed: The SLAGLands][/b]
 
 The Issue
 A group of concerned parishioners and soccer moms has petitioned the government of @@NAME@@ to outlaw heavy metal music, which they fear is a bad influence on youngsters.
@@ -571,7 +571,7 @@ The Debate
 3. "You know, this heavy metal issue has me thinking," says @@RANDOM_FIRST_NAME@@, your brother, over your weekly game of cribbage. "If these long-haired freaks want to put out their devil-worshipping metal, why don't we let them? Of course, we'll put a little subliminal propaganda into every song... after all, don't these guys owe their freedom of expression to you?"
 
 [hr][/hr]
-[b][anchor=043]#[/anchor][anchor=43]43[/anchor]: Prisoners Demand Elbow Room [Lucazmodei; ed: The SLAGLands][/b]
+[b][anchor=43]#43[/anchor]: Prisoners Demand Elbow Room [Lucazmodei; ed: The SLAGLands][/b]
 
 The Issue
 In a display of unity that can best be described as "highly unnerving," criminals and law enforcement officials alike are up in arms about recent overcrowding within prisons in @@NAME@@.
@@ -586,7 +586,7 @@ The Debate
 *4. "Now hold on just a second here," says @@RANDOM_NAME@@, State Director of The @@DEMONYM_ADJECTIVE@@ People's Proletariat Pizza Production Plant. "You've got a problem with prisoners, and I've got a problem finding workers. Why don't you just send some of your criminals to make some dough? We'll put 'em to work as their debt to society is cleared! After all, free citizens must work according to the state's planned economy, so why should prisoners be excepted from this?" [[color=red]Must not have private industry[/color]]
 
 [hr][/hr]
-[b][anchor=044]#[/anchor][anchor=44]44[/anchor]: No Pain, No Gain! [Independent Planets; ed: SalusaSecondus][/b]
+[b][anchor=44]#44[/anchor]: No Pain, No Gain! [Independent Planets; ed: SalusaSecondus][/b]
 
 The Issue
 Due to the recent capture of a foreign terrorist in @@NAME@@, high-level military officials want the government to authorize torture to extract information about other terrorist activities.
@@ -599,7 +599,7 @@ The Debate
 3. "There's nothing wrong with torture, but we can't make it too obvious," says Secretary of Defense @@RANDOM_NAME@@. "How about we simply ask them nicely, and then, if they don't tell us, we kill them? That's better just from the intimidation."
 
 [hr][/hr]
-[b][anchor=045]#[/anchor][anchor=45]45[/anchor]: Baseball League Steps Up To The Plate [Pilot; ed: The SLAGLands][/b]
+[b][anchor=45]#45[/anchor]: Baseball League Steps Up To The Plate [Pilot; ed: The SLAGLands][/b]
 
 The Issue
 The Batter Up! Baseball League has begun to grow in popularity and is now seeking government support in establishing teams and stadiums throughout the nation.
@@ -610,7 +610,7 @@ The Debate
 2. "You're going to spend the taxpayer's money on WHAT?" counters Minister of Finance @@RANDOM_NAME@@, from a newly furnished office. "I mean, I love playing a good game of baseball every now and then, but does the government really need to go around supporting this? The only people that are going to benefit are a bunch of fat-cat burger vendors and bored hicks with nothing better to do on Sunday afternoon! We need to stop spending so much money on these ridiculous games and get back to what's really important: running the business of the country."
 
 [hr][/hr]
-[b][anchor=046]#[/anchor][anchor=46]46[/anchor]: Jennifer Government Censorship Row [Sirocco; ed: SalusaSecondus][/b]
+[b][anchor=46]#46[/anchor]: Jennifer Government Censorship Row [Sirocco; ed: SalusaSecondus][/b]
 
 The Issue
 A new book, [i]Jennifer Government[/i], by Max Barry, has been causing quite a stir in governmental offices across @@NAME@@.
@@ -621,7 +621,7 @@ The Debate
 2. "Don't be silly" says book reviewer @@RANDOM_NAME@@, "it's a great book and you don't necessarily have to take the views inside seriously! If anything, there should be more satires. Maybe then we'll get the right people in charge of this messed-up country!"
 
 [hr][/hr]
-[b][anchor=047]#[/anchor][anchor=47]47[/anchor]: The Great Wall of @@NAME@@? [1 Infinite Loop; ed: Reploid Productions][/b]
+[b][anchor=47]#47[/anchor]: The Great Wall of @@NAME@@? [1 Infinite Loop; ed: Reploid Productions][/b]
 
 The Issue
 Due to the ongoing wars in neighboring countries, a recent rash of illegal immigrants have been caught at the borders of @@NAME@@, prompting many citizens to call for tighter immigration laws.
@@ -634,7 +634,7 @@ The Debate
 3. "Hold on there, hold on people!" says @@RANDOM_NAME@@ of the @@NAME@@ Broadcasting company, "We don't have to take either extreme, all we have to do is make a TV game show out of it! We put deadly obstacles on the border and monitor it with television cameras! Those that make it across win freedom and citizenship, and those who don't, well, lets just say that our buzzards won't starve. We could call it 'Who Wants to be an Immigrant?'!"
 
 [hr][/hr]
-[b][anchor=048]#[/anchor][anchor=48]48[/anchor]: Give Us Healthcare Or Give Us Death! [Dictator Amanda; ed: Reploid Productions][/b]
+[b][anchor=48]#48[/anchor]: Give Us Healthcare Or Give Us Death! [Dictator Amanda; ed: Reploid Productions][/b]
 
 The Issue
 A large group of @@NAME@@'s uninsured citizens have petitioned the government to provide a universal healthcare system, citing the poor health of many low and middle-class workers. Some of the more vocal of them are threatening violence if something isn't done.
@@ -653,7 +653,7 @@ The Debate
 ***6. "Why do we have to choose either radical option?" asks Senior Party Representative @@RANDOM_NAME@@. "Couldn't we just provide very limited basic healthcare for the majority of our citizens and have more comprehensive care as a perk from advancing within the Communist Party hierarchy? It would be more affordable, and all would aspire to better themselves." [[color=red]Must not have private industry[/color]]
 
 [hr][/hr]
-[b][anchor=049]#[/anchor][anchor=49]49[/anchor]: Diving For @@CURRENCY_PLURAL@@ [Nogero; ed: Reploid Productions][/b]
+[b][anchor=49]#49[/anchor]: Diving For @@CURRENCY_PLURAL@@ [Nogero; ed: Reploid Productions][/b]
 
 The Issue
 Divers from a local scuba club have discovered an enormous underwater gold deposit that could be worth billions of @@CURRENCY_PLURAL@@ in one of @@NAME@@'s lakes. It has also caused a huge debate over who should be allowed to plunder the goods.
@@ -666,7 +666,7 @@ The Debate
 3. "We should do what now?" Environmentalist @@RANDOM_NAME@@ exclaims. "Do you have any idea how damaging it would be to the environment to mine the gold under that lake? Think of all the aquatic life that would be disrupted or destroyed! Think of how an otherwise pristine lake view would be ruined! Forget the gold and keep those money-grubbing pigs away from nature!"
 
 [hr][/hr]
-[b][anchor=050]#[/anchor][anchor=50]50[/anchor]: Whips, Chains, And Leather, Oh My! [Yacatizma; ed: Reploid Productions][/b]
+[b][anchor=50]#50[/anchor]: Whips, Chains, And Leather, Oh My! [Yacatizma; ed: Reploid Productions][/b]
 
 The Issue
 An organized crowd of leather-clad individuals, some of whom are on leashes, are protesting against discrimination for those who share their interests.
@@ -679,7 +679,7 @@ The Debate
 3. @@RANDOM_NAME@@ dissents wholeheartedly. "This is not about showing affection--this is about moral decency. Think of the children, for God's sake! Think of the children! We must criminalize and eliminate this perversion to keep them safe. Which of course means a special task force to track down and capture these cretins!"
 
 [hr][/hr]
-[b][anchor=051]#[/anchor][anchor=51]51[/anchor]: Streaker in Snooker Game Fiasco [Sirocco; ed: Reploid Productions][/b]
+[b][anchor=51]#51[/anchor]: Streaker in Snooker Game Fiasco [Sirocco; ed: Reploid Productions][/b]
 
 The Issue
 After a sixty-year-old man with distressingly flappy armpits streaked past cameras and millions of sports fans during the snooker league playoffs, protesters have called for tougher action.
@@ -690,7 +690,7 @@ The Debate
 2. "Oh don't be ridiculous!" scoffs prolific streaker @@RANDOM_NAME@@, "It's all just a bit of fun and the kids shouldn't be wrapped in cotton wool, or they'll learn nothing! Sports are so dull anyway, it needs a little bare skin to liven it up. Streaking should be legal!"
 
 [hr][/hr]
-[b][anchor=052]#[/anchor][anchor=52]52[/anchor]: Is It Art Or Is It Porn? [Imnsvale; ed: Reploid Productions][/b]
+[b][anchor=52]#52[/anchor]: Is It Art Or Is It Porn? [Imnsvale; ed: Reploid Productions][/b]
 
 The Issue
 Vocal members of the Moral Minority have been complaining and petitioning the government about the new art gallery displaying several provocative nude portraits by several famous artists. Moral Minority members claim these pieces of work promote prostitution and indecent sexual acts.
@@ -703,7 +703,7 @@ The Debate
 3. "That is censorship!" says noted art history teacher @@RANDOM_NAME@@. "You can't ban art! It's freedom of expression; it's part of our culture. If anything, the government should be supporting these artists and their work, not listening to these prudish whackjobs who are scared of a little bare skin!"
 
 [hr][/hr]
-[b][anchor=053]#[/anchor][anchor=53]53[/anchor]: Orbital Armageddon? [The US Marine Corps; ed: Reploid Productions][/b]
+[b][anchor=53]#53[/anchor]: Orbital Armageddon? [The US Marine Corps; ed: Reploid Productions][/b]
 
 The Issue
 The space research organization in @@NAME@@ has requested more government funding for space-related research and development, and the possibility of creating orbital weapons platforms has become a topic of intense debate.
@@ -716,7 +716,7 @@ The Debate
 3. Fringe Group Leader @@RANDOM_NAME@@ disagrees, "Space is a total waste of time. We should spend more on stuff people actually CARE about. Like voting rights and protecting the environment! Forget that fancy-schmancy space station!"
 
 [hr][/hr]
-[b][anchor=054]#[/anchor][anchor=54]54[/anchor]: Time To Put The Older Senators Out To Pasture? [Pangaa; ed: Reploid Productions][/b]
+[b][anchor=54]#54[/anchor]: Time To Put The Older Senators Out To Pasture? [Pangaa; ed: Reploid Productions][/b]
 
 The Issue
 Many people are starting to think that it's time to put term limits on elected officials, given the average age of 70 years old and 40 years of service in the nation's Parliament.
@@ -729,7 +729,7 @@ The Debate
 3. Your aunt's mother's step-sister's best friend's hairstylist, @@RANDOM_NAME@@, pooh-poohs the entire idea. "You know how to run your country, yes? Why deal with the hassle of elected officials and elections in the first place, yes? Eliminate elections and this entire term limit issue becomes moot, yes?"
 
 [hr][/hr]
-[b][anchor=055]#[/anchor][anchor=55]55[/anchor]: Bigtopian Protesters Cry For Full Integration [Grantwold; ed: The SLAGLands][/b]
+[b][anchor=55]#55[/anchor]: Bigtopian Protesters Cry For Full Integration [Grantwold; ed: The SLAGLands][/b]
 
 The Issue
 Bigtopian activists have staged a sit-in at the largest primary school in @@NAME@@ bringing education to a halt in a bid for integration and tolerance.
@@ -742,7 +742,7 @@ The Debate
 3. "Well, that's all well and good, but it ain't well and good enough!" screams @@RANDOM_NAME@@, leader of Bigtopians Rising Against Totalitarianist Scum, slamming a black-gloved fist against his podium during a recent pep rally. "We ain't just bein' kept out of their schools; we're bein' kept out of their neighborhoods! The oppressive majority fears us, but they can't hold us back any longer! The government needs to integrate the community as a whole by pushing out the majority and making way for a very loud, very angry minority!"
 
 [hr][/hr]
-[b][anchor=056]#[/anchor][anchor=56]56[/anchor]: "Give Us Money!" Quoth the Poet [Ursoria; ed: Reploid Productions][/b]
+[b][anchor=56]#56[/anchor]: "Give Us Money!" Quoth the Poet [Ursoria; ed: Reploid Productions][/b]
 
 The Issue
 The National Poetry Society of @@NAME@@ is demanding government-funded programs to promote the arts, especially poetry.
@@ -755,7 +755,7 @@ The Debate
 3. "Poets--who needs them?!" scoffs @@RANDOM_NAME@@, Chairperson Emeritus of the Troglodyte Coalition. "These long-haired troublemakers should all be lined up against the wall and shot! That would be far more entertaining than reading some dumb poems!"
 
 [hr][/hr]
-[b][anchor=057]#[/anchor][anchor=57]57[/anchor]: Electronic Plague in @@NAME@@! [Sentient Peoples; ed: Reploid Productions][/b]
+[b][anchor=57]#57[/anchor]: Electronic Plague in @@NAME@@! [Sentient Peoples; ed: Reploid Productions][/b]
 
 The Issue
 The malicious computer virus "DEAT.exe" is infecting nearly all the computers in @@NAME@@ and the people are crying out for the government to do something about it.
@@ -770,7 +770,7 @@ The Debate
 4. "Yeah, wonderful! Fix a virus by releasing an AI that will likely turn on its creators? Are you people trying to get us all killed?!" Decries infamous technophobe @@RANDOM_NAME@@, "What do we need computers for anyway? They will only bring us trouble and disaster! Personal computers ought to be banned!"
 
 [hr][/hr]
-[b][anchor=058]#[/anchor][anchor=58]58[/anchor]: Violent Violetists Demand Blood! [Total n Utter Insanity; ed: Reploid Productions][/b]
+[b][anchor=58]#58[/anchor]: Violent Violetists Demand Blood! [Total n Utter Insanity; ed: Reploid Productions][/b]
 
 The Issue
 Members of a new weird religious cult, called the Order of Violet, ask for the government to appease their mighty god by offering Her a sacrifice of the human variety.
@@ -785,7 +785,7 @@ The Debate
 4. "Who's being a lunatic?" retorts @@RANDOM_NAME@@ of the @@NAME@@ Humanitarian Society. "I agree that these practices ought to be outlawed, but instead of sinking to the same level of these fanatics and killing our fellow people, why not simply start a re-education program? Even the worst person can be rehabilitated into a useful member of society, with enough time, care, and lots and lots of funding!"
 
 [hr][/hr]
-[b][anchor=059]#[/anchor][anchor=59]59[/anchor]: Drunk Driving On The Rise [Cspalla; ed: SalusaSecondus][/b]
+[b][anchor=59]#59[/anchor]: Drunk Driving On The Rise [Cspalla; ed: SalusaSecondus][/b]
 
 The Issue
 More and more, citizens are drinking before getting behind the wheel. A group of concerned citizens wants something done.
@@ -798,7 +798,7 @@ The Debate
 3. "All of those plans attack the symptoms, not the disease," says Minister of Transportation @@RANDOM_NAME@@, "Alcohol is a curse, a poison sent by the Devil to tempt mankind. We cannot trust people to make decisions for themselves. The only answer is prohibition. Ban alcohol completely."
 
 [hr][/hr]
-[b][anchor=060]#[/anchor][anchor=60]60[/anchor]: Supreme Court Nomination [Nuttylnd; ed: SalusaSecondus][/b]
+[b][anchor=60]#60[/anchor]: Supreme Court Nomination [Nuttylnd; ed: SalusaSecondus][/b]
 
 The Issue
 The death of 108 year old Supreme Court Justice @@RANDOM_NAME@@ has created an opening on the bench. Below are the possible nominees.
@@ -821,7 +821,7 @@ The Debate
 [8]. Finally, a tomato flies by your head flung by an angry protester. "We want to elect our own judges! This is a democracy! More power to the people! We don't want a lapdog! Separation of Powers! Get the government out of the judicial system!" He chucks another tomato at you before security escorts him out of your private office. [[color=blue]Must be democratic[/color]]
 
 [hr][/hr]
-[b][anchor=061]#[/anchor][anchor=61]61[/anchor]: Should The Government Grant Estates And Titles Of Nobility? [Leptonia; ed: SalusaSecondus][/b]
+[b][anchor=61]#61[/anchor]: Should The Government Grant Estates And Titles Of Nobility? [Leptonia; ed: SalusaSecondus][/b]
 
 The Issue
 A peculiar confederacy of small-government advocates, regular attendees at @@NAME@@'s annual Medieval Faire, and the super rich have demanded that the government grant estates and confer titles of nobility upon certain influential persons.
@@ -836,7 +836,7 @@ The Debate
 4. "A good day to thee, milord," counters @@RANDOM_NAME@@, an amateur Medieval Faire actor dressed in period costume, "I would suggest that thou hasten thyself to spectate at the jousting competition this forenoon. Aye, quite a bout we have arrayed for thee this day. However, the whole affair could be much grander if only we received a few more gold crownes from the government. Aye, 'twould be a grand tourney of knightly skill and courage indeed!"
 
 [hr][/hr]
-[b][anchor=062]#[/anchor][anchor=62]62[/anchor]: Oh, The Angst! [Uni Students; ed: Reploid Productions][/b]
+[b][anchor=62]#62[/anchor]: Oh, The Angst! [Uni Students; ed: Reploid Productions][/b]
 
 The Issue
 In response to rising rates of depression related suicides, mental health groups have called for government funding to help support treatment programs, citing various surveys that indicate psychological disorders are often an overlooked problem.
@@ -849,7 +849,7 @@ The Debate
 3. "Actually, a lot of depression cases in teens are related to school and all the stress and pressure young people are under to succeed. A greater effort to correct the problem of depression should start there, with more funding so that schools can provide better counseling programs." Comments Dr. @@RANDOM_NAME@@, author of the book "Tomato Soup for the Soul". "That way teens who are depressed can get help even if their parents can't or won't take them to see a psychiatrist."
 
 [hr][/hr]
-[b][anchor=063]#[/anchor][anchor=63]63[/anchor]: Tykes With Tools? [New Parakeet; ed: SalusaSecondus][/b]
+[b][anchor=63]#63[/anchor]: Tykes With Tools? [New Parakeet; ed: SalusaSecondus][/b]
 
 The Issue
 A controversial newspaper investigation reveals that as many as 30% of all children are employed in a dangerous environment.
@@ -862,7 +862,7 @@ The Debate
 3. Fat cat factory owner @@RANDOM_NAME@@ steps over the bum in the street and explains, "You don't understand. You shouldn't make child labor illegal, you should subsidize it. By employing these kids I'm giving them valuable life lessons. I didn't go to school and see where I am now? I'm giving them work experience, making them highly employable for the 15 years of their expected lives."
 
 [hr][/hr]
-[b][anchor=064]#[/anchor][anchor=64]64[/anchor]: Put The "Board" Back In Board Of Education [Curia; ed: Reploid Productions][/b]
+[b][anchor=64]#64[/anchor]: Put The "Board" Back In Board Of Education [Curia; ed: Reploid Productions][/b]
 
 The Issue
 The @@NAME@@ Teachers' Union, complaining of a steady increase in student disciplinary problems, wants to be able to use corporal punishment to correct misbehavior.
@@ -877,7 +877,7 @@ The Debate
 4. "Why don't we just kick these unruly kids out, and force parents to home-school them?" asks @@RANDOM_NAME@@, education coordinator for the @@NAME@@ First Omnimenical Church. "That way parents can stress the values they want their kids to have and give them the attention they need."
 
 [hr][/hr]
-[b][anchor=065]#[/anchor][anchor=65]65[/anchor]: Should Martial Law be declared? [American Militarists; ed: SalusaSecondus][/b]
+[b][anchor=65]#65[/anchor]: Should Martial Law be declared? [American Militarists; ed: SalusaSecondus][/b]
 
 The Issue
 Crime and violence are increasing across @@NAME@@; the people are crying out for some degree of order. Maybe martial law could work?
@@ -890,7 +890,7 @@ The Debate
 3. "Look, we do need more security, but we can't sacrifice our freedoms. Just increase the police force and call in the National Guard," says @@RANDOM_NAME@@. "We need order, but Martial Law is too drastic and restricting".
 
 [hr][/hr]
-[b][anchor=066]#[/anchor][anchor=66]66[/anchor]: Transgender Recognition Demanded [Melmond; ed: Enodia & Candlewhisper Archive][/b]
+[b][anchor=66]#66[/anchor]: Transgender Recognition Demanded [Melmond; ed: Enodia & Candlewhisper Archive][/b]
 
 The Issue
 After tabloid magazine "The Bun" outed supermodel @@RANDOM_FEMALE_NAME@@ as having been born male, the fashion world has gone into a frenzy, with the organisers of @@CAPITAL@@ Fashion Week barring the model from the runway. Social media has gone into meltdown with commentators from all sides of the argument demanding that the government step in.
@@ -903,7 +903,7 @@ The Debate
 3. "Well I got a problem with these cross-dressers," spits cargo-hauler @@RANDOM_MALE_NAME@@. "One time I thought I was hitting on this waitress at the pie shop, only turns out she was a he. Man, it sickens me. Lock dem all in an asylum till they get their heads straight!"
 
 [hr][/hr]
-[b][anchor=067]#[/anchor][anchor=67]67[/anchor]: Most Likely To Secede [Leptonia; ed: SalusaSecondus][/b]
+[b][anchor=67]#67[/anchor]: Most Likely To Secede [Leptonia; ed: SalusaSecondus][/b]
 
 The Issue
 A group of bearded militiamen have recently declared rural @@RANDOM_NAME@@ County a sovereign and independent nation! @@NAME@@'s talk radio pundits demand immediate government action.
@@ -916,7 +916,7 @@ The Debate
 3. "Perhaps we can reach a suitable middle ground," says an elderly gentleman resting on a park bench, "If we were to bring government close to the people, and allow them to have a modicum of self-determination, perhaps they wouldn't feel the need to secede. Let's give the local governments more power."
 
 [hr][/hr]
-[b][anchor=068]#[/anchor][anchor=68]68[/anchor]: Ornery Overcrowding Problem [Frigben; ed: Reploid Productions][/b]
+[b][anchor=68]#68[/anchor]: Ornery Overcrowding Problem [Frigben; ed: Reploid Productions][/b]
 
 The Issue
 A survey recently released by the @@NAME@@ Housing Authority indicates that the country's burgeoning population is rapidly leading to a housing crisis as families find themselves crammed into increasingly cramped living spaces.
@@ -929,7 +929,7 @@ The Debate
 3. "This raises an interesting issue," says @@RANDOM_NAME@@, staunch supporter of birth control. "And that is: why do we need to build more housing anyway? Why don't we just limit the number of children each family can have? Besides, pregnancy causes all sorts of complications. We're better off with less of it anyway."
 
 [hr][/hr]
-[b][anchor=069]#[/anchor][anchor=69]69[/anchor]: Power Problems Need Bright Solution [Plumbumia; ed: Reploid Productions][/b]
+[b][anchor=69]#69[/anchor]: Power Problems Need Bright Solution [Plumbumia; ed: Reploid Productions][/b]
 
 The Issue
 The oldest power station in @@NAME@@ suffered a catastrophic failure last night, plunging a third of the power supply grid of @@CAPITAL@@ into darkness. There is no debate that it needs to be replaced, but the question is with what?
@@ -942,7 +942,7 @@ The Debate
 3. "Now the way I see it is that it's either green, expensive, and sprawling; or compact, polluting and cheap. Wouldn't it be nice if we had the best of both worlds? Well, we can!" claims fission technician @@RANDOM_NAME@@. "Nuclear power is reliable, clean, and although it isn't cheap, it won't break the bank. There is a risk of deadly meltdown, but this is relatively small, and the only people who could be against this are anti-nuclear protesters, but what do we care about those tree-hugging hippies?"
 
 [hr][/hr]
-[b][anchor=070]#[/anchor][anchor=70]70[/anchor]: Purge The Infidels! [SalusaSecondus; ed: Reploid Productions][/b]
+[b][anchor=70]#70[/anchor]: Purge The Infidels! [SalusaSecondus; ed: Reploid Productions][/b]
 
 The Issue
 The fanatical religious organization @@NAME@@'s Concerned Citizens for Our God has brought it to your attention that there are many non-believers in your nation, and that they think something should be done about this.
@@ -959,7 +959,7 @@ The Debate
 5. "Oh Lord, please don't let our noble leader listen to these extremists!" prays your religious advisor, @@RANDOM_NAME@@. "Religion is an important guiding force in peoples' lives, but we have no right to force it on people. Atheists, since they don't have a religion, are less ethical and their actions cost society more, so it's only fair that they should be taxed more heavily to make up the difference."
 
 [hr][/hr]
-[b][anchor=071]#[/anchor][anchor=71]71[/anchor]: Minority Group Demands Language Recognition [Pragmas; ed: SalusaSecondus][/b]
+[b][anchor=71]#71[/anchor]: Minority Group Demands Language Recognition [Pragmas; ed: SalusaSecondus][/b]
 
 The Issue
 A group several thousands strong hailing from a remote, isolated corner of @@NAME@@ is staging a massive demonstration on the front steps of your capitol. They demand that their local dialect be recognized as an official language.
@@ -972,7 +972,7 @@ The Debate
 3. @@RANDOM_NAME@@, a radical opposition member who seems to tag along to every demonstration she can find, has her own proposal. "The language barrier is keeping us all apart. What @@NAME@@ needs is a new identity defined by a new language that we can all agree on. That's unity without favoritism."
 
 [hr][/hr]
-[b][anchor=072]#[/anchor][anchor=72]72[/anchor]: Widening Buttocks Cause Movie Theater Havoc [The Velvet Cockatiel; ed: The SLAGLands][/b]
+[b][anchor=72]#72[/anchor]: Widening Buttocks Cause Movie Theater Havoc [The Velvet Cockatiel; ed: The SLAGLands][/b]
 
 The Issue
 Several festively chubby people were lodged in their movie theater seats for hours, as @@NAME@@'s Fire Department worked to free them. Health organizations are now expressing concern over the problem of obesity in @@NAME@@.
@@ -989,7 +989,7 @@ The Debate
 5. "What about government-funded liposuction?" asks @@RANDOM_NAME@@, while contemplatively chewing a mouthful of chili dog. "If I could get the fat sucked off of these hips, that would give me the willpower to stay thin. Obesity would be a thing of the past! Just think of it! Nothing but svelte, beautiful people everywhere! Ah, bliss!"
 
 [hr][/hr]
-[b][anchor=073]#[/anchor][anchor=73]73[/anchor]: @@NAME@@ - Without Cars, Going Nowhere Fast [Reploid Productions; ed: SalusaSecondus][/b]
+[b][anchor=73]#73[/anchor]: @@NAME@@ - Without Cars, Going Nowhere Fast [Reploid Productions; ed: SalusaSecondus][/b]
 
 The Issue
 Ever since the government banned automobiles, furious soccer moms and commuters have been petitioning the government to revoke the ban, citing any number of troubles people have had without their cars.
@@ -1004,7 +1004,7 @@ The Debate
 4. "What do they know?" whispers a strange woman clad all in green. "You ought to clamp down on these protesters. Without cars, the people are much easier for you to control, are they not?"
 
 [hr][/hr]
-[b][anchor=074]#[/anchor][anchor=74]74[/anchor]: @@NAME@@'s Racers Growing Fast And Furious [Nascar Thunder; ed: Reploid Productions][/b]
+[b][anchor=74]#74[/anchor]: @@NAME@@'s Racers Growing Fast And Furious [Nascar Thunder; ed: Reploid Productions][/b]
 
 The Issue
 Illegal street racing and racing-related injuries are on the rise, causing many infamous racers to begin rallying for an officially sanctioned racing series and track facilities in order to safely satisfy their need for speed.
@@ -1015,7 +1015,7 @@ The Debate
 2. "Don't tell me you plan to cater to these speed freaks!" police officer @@RANDOM_NAME@@ comments over coffee and donuts. "Encouraging this sport is only going to increase the street racing problem because all these punks who can't afford to run the professional circuit are going to want to satisfy their lead feet the way they have been! What we need is more police funding to crack down on these punk hotrodders."
 
 [hr][/hr]
-[b][anchor=075]#[/anchor][anchor=75]75[/anchor]: Cutting Off Sex Offenders? [Istar; ed: Reploid Productions][/b]
+[b][anchor=75]#75[/anchor]: Cutting Off Sex Offenders? [Istar; ed: Reploid Productions][/b]
 
 The Issue
 After the capture and trial of notorious rapist @@RANDOM_MALE_NAME@@, who was convicted of the rape of over 50 women in the past two years a debate has emerged on how he should be punished.
@@ -1032,7 +1032,7 @@ The Debate
 **5. "Everyone knows re-education is a waste of money, we shouldn't go soft on these crooks!" says Director of Farming Collectives @@RANDOM_NAME@@. "Simply place all rapists and criminals in @@NAME@@ into forced labor under the management of our directorate to serve out their sentences. When we're through with them, they won't even think of jaywalking, much less harming another person. We get free labor, and these crooks get put straight. Everybody benefits... well, except the crooks." [[color=red]Must not have private industry[/color]]
 
 [hr][/hr]
-[b][anchor=076]#[/anchor][anchor=76]76[/anchor]: Suits in Protest [Xibonia; ed: SalusaSecondus][/b]
+[b][anchor=76]#76[/anchor]: Suits in Protest [Xibonia; ed: SalusaSecondus][/b]
 
 The Issue
 Thousands of business men and women have taken to the streets in protest of their working conditions and pay. "It's not fair that we can't have a union," says @@RANDOM_NAME@@, VP of Sales at SlothCorp. "Just because we make six figures doesn't mean we don't deserve overtime too! It's high time that the lower classes come to appreciate our hard efforts."
@@ -1047,7 +1047,7 @@ The Debate
 4. Finally, Right Reverend @@RANDOM_NAME@@ proclaims, "The downtrodden are suffering at the hands of the MAN, and these wealthy upper shelf vice presidents are asking to make the rich richer and the poor poorer! The only reason the common worker needs a union is to be able to fight against the oppression of these slave drivers! It's ludicrous that these greedy scrooges are asking for even MORE money! Send them packing and raise taxes on the wealthy to bring more equality to our nation!"
 
 [hr][/hr]
-[b][anchor=077]#[/anchor][anchor=77]77[/anchor]: [color=goldenrod]Easter Egg[/color]: World To End, Or Possibly Just Mark Anniversary[/b] {One Year Anniversary issue, now an Easter Egg bonus}
+[b][anchor=77]#77[/anchor]: [color=goldenrod]Easter Egg[/color]: World To End, Or Possibly Just Mark Anniversary[/b] {One Year Anniversary issue, now an Easter Egg bonus}
 
 The Issue
 Along with the rest of the world, the citizens of @@NAME@@ have been stunned by the revelation of a small team of geophysical philosophers that the world turns exactly one year old today, as measured by what they call "RL units". [i](Congratulations on finding so many easter eggs. As a reward, here is the special issue our players got when NationStates turned one year old.)[/i]
@@ -1064,7 +1064,7 @@ The Debate
 5. "Well, I know what I'll be doing," says obscure author and Perl amateur Max Barry. "Sitting at home with a good book! [url=http://www.maxbarry.com/jennifergovernment/][i]Jennifer Government[/i][/url], for instance, is a cracking read. And I hear that some of the profits go into maintaining a cool web game. But of course, that's just my opinion. People should celebrate however they want."
 
 [hr][/hr]
-[b][anchor=078]#[/anchor][anchor=78]78[/anchor]: [color=goldenrod]Easter Egg[/color]: Should We Pull The Lever? [Meddlers; ed: SalusaSecondus][/b]
+[b][anchor=78]#78[/anchor]: [color=goldenrod]Easter Egg[/color]: Should We Pull The Lever? [Meddlers; ed: SalusaSecondus][/b]
 
 The Issue
 During the middle of the night, someone has mysteriously put a lever in the middle of the city park. On it, it says, "Pull the Lever, And See The World End."
@@ -1077,7 +1077,7 @@ The Debate
 3. "Now, don't think of it as a do/don't option," says a hot dog vendor. "What if we give tours so that people can see the lever? Not to touch it of course, but to see that humanity can be ruined by such a contraption. We can make a profit."
 
 [hr][/hr]
-[b][anchor=079]#[/anchor][anchor=79]79[/anchor]: @@NAME@@'s @@ANIMAL_PLURAL@@: Going The Way Of The Dodo? [Naelosia; ed: Reploid Productions][/b]
+[b][anchor=79]#79[/anchor]: @@NAME@@'s @@ANIMAL_PLURAL@@: Going The Way Of The Dodo? [Naelosia; ed: Reploid Productions][/b]
 
 The Issue
 The @@ANIMAL@@ is on the brink of extinction, largely due to people hunting them down for tasty @@ANIMAL@@-kabobs and @@ANIMAL@@burgers, and as ecological disaster looms, various factions are all calling for what they feel should be done about the @@ANIMAL@@.
@@ -1090,7 +1090,7 @@ The Debate
 [3]. "Nature is hardly a black and white issue," @@RANDOM_NAME@@, a respected scholar, notes. "We should start a breeding program to help these creatures recover their numbers. We can display them in captivity, and gradually release them into the wild. Couple it with limiting, but not abolishing @@ANIMAL@@ hunting, and everyone benefits. Of course, @@ANIMAL_PLURAL@@ raised in captivity don't generally survive in the wild, but I'm sure we can find a way!" [[color=purple]Must have zoos[/color]]
 
 [hr][/hr]
-[b][anchor=080]#[/anchor][anchor=80]80[/anchor]: [color=goldenrod]Easter Egg[/color]: Aliens Wish Peace/Trade Agreement [Exiled; ed: SalusaSecondus][/b]
+[b][anchor=80]#80[/anchor]: [color=goldenrod]Easter Egg[/color]: Aliens Wish Peace/Trade Agreement [Exiled; ed: SalusaSecondus][/b]
 
 The Issue
 Aliens have landed in the fields of @@NAME@@ and they wish to trade and have peace.
@@ -1101,7 +1101,7 @@ The Debate
 2. The Coalition of No ETs wants you to stay out of this. @@RANDOM_NAME@@ says "Them darn aliens thingies are going to take advantage of the situation an' kill us all! You must ban all trade with them. If they want my cattle, it will be over my dead body!"
 
 [hr][/hr]
-[b][anchor=081]#[/anchor][anchor=81]81[/anchor]: Close Encounters Of The Sci-fi Kind? [Spyr; ed: SalusaSecondus][/b]
+[b][anchor=81]#81[/anchor]: Close Encounters Of The Sci-fi Kind? [Spyr; ed: SalusaSecondus][/b]
 
 The Issue
 A recent, well-publicized UFO sighting over rural areas of @@NAME@@ has turned people's attention to the skies, and what... or who... might be up there.
@@ -1114,7 +1114,7 @@ The Debate
 3. "Extraterrestrial lifeforms? Alien invaders? I don't know why we even have to listen to such idiocy!" complains prize-winning physicist @@RANDOM_NAME@@. "In my opinion, the idea of 'aliens' on another planet is highly unlikely, and even if they did exist, getting from there to here is technically impossible! I say we forget this nonsense and stop spending our tax @@CURRENCY_PLURAL@@ on it. Leave this sort of foolishness to the people who attend those 'trekkie' conventions."
 
 [hr][/hr]
-[b][anchor=082]#[/anchor][anchor=82]82[/anchor]: AI Researchers Rally For Android Rights [Eniqcir; ed: SalusaSecondus][/b]
+[b][anchor=82]#82[/anchor]: AI Researchers Rally For Android Rights [Eniqcir; ed: SalusaSecondus][/b]
 
 The Issue
 Following recent advances in artificial intelligence, debate has arrisen in @@NAME@@ over whether AI's should have the right to citizenship.
@@ -1127,7 +1127,7 @@ The Debate
 3. "This is craziness!" says @@RANDOM_NAME@@, a resident interviewed by the popular news show 'Talk o' the Town'. "It's just blasphemy, plain and simple! We're, like, playin' God here! It's evil, man, evil! What if they turned against us? All forms of AI should be banned, dudes."
 
 [hr][/hr]
-[b][anchor=083]#[/anchor][anchor=83]83[/anchor]: High-Speed Monorail Service Promises Connections [Baudrillard; ed: Reploid Productions][/b]
+[b][anchor=83]#83[/anchor]: High-Speed Monorail Service Promises Connections [Baudrillard; ed: Reploid Productions][/b]
 
 The Issue
 Vroom-A-Zoom-Zoom (VAZZ), a consortium of weird-looking hippies and yuppie roller coaster aficionados, has developed plans for a high-speed monorail service for @@NAME@@ to help counter and relieve problems brought about by banning cars.
@@ -1142,7 +1142,7 @@ The Debate
 *4. "I really disagree," says @@RANDOM_NAME@@, an unwashed denizen standing in the middle of Noh Weir, population 200, on the outskirts of @@NAME@@. "We need this monorail service to connect both large and small cities, with equal access to transport for all the workers, all of the time." [[color=red]Must not have private industry[/color]]
 
 [hr][/hr]
-[b][anchor=084]#[/anchor][anchor=84]84[/anchor]: Compulsory Gun Ownership? [Tristram; ed: SalusaSecondus][/b]
+[b][anchor=84]#84[/anchor]: Compulsory Gun Ownership? [Tristram; ed: SalusaSecondus][/b]
 
 The Issue
 This weekend, a citizen's group calling itself Gun Owners of @@NAME@@ has petitioned Congress with a controversial bill making gun ownership compulsory.
@@ -1155,7 +1155,7 @@ The Debate
 3. "Compulsory gun ownership?! Concealed carry?! Are these fools nuts?!" rants an enraged Million Mummy March activist. "We don't need any of these things! What we need is complete gun registration, so that the government can track down dangerous people, like those people who possess unregistered weapons."
 
 [hr][/hr]
-[b][anchor=085]#[/anchor][anchor=85]85[/anchor]: Illegal File-Sharing Flares [Frigben; ed: SalusaSecondus][/b]
+[b][anchor=85]#85[/anchor]: Illegal File-Sharing Flares [Frigben; ed: SalusaSecondus][/b]
 
 The Issue
 A surprise raid conducted on ISPs over the last week in @@NAME@@ shows that more than 30% of all Internet data transfer in @@NAME@@ at one time or another is used by illegal file-shares to illegally distribute files, most notably songs.
@@ -1168,7 +1168,7 @@ The Debate
 3. "Yo, dang, blizzity blang, yo, this ain't, right, yo," says @@RANDOM_NAME@@, famous rapper with three platinum albums. "Dang, yo, we dang need to protect my dang music files, yo, so yo' gotta be registered an' online to listen, yo. It's the only way to stop this, dang, yo."
 
 [hr][/hr]
-[b][anchor=086]#[/anchor][anchor=86]86[/anchor]: Save The @@ANIMAL@@ [Oddballfullness; ed: SalusaSecondus][/b]
+[b][anchor=86]#86[/anchor]: Save The @@ANIMAL@@ [Oddballfullness; ed: SalusaSecondus][/b]
 
 The Issue
 In desperation at the plight of the @@ANIMAL@@, which has virtually no natural habitat left in @@NAME@@, a somewhat unorthodox environmental group demands that the few surviving specimens be domesticated and sold in pet stores.
@@ -1179,7 +1179,7 @@ The Debate
 2. "Sure, @@ANIMAL_PLURAL@@ might look cute and harmless to you," says retired hunting legend @@RANDOM_NAME@@, "but back in my day, they were the scourge on the nation. They carry a number of dangerous diseases, and you do NOT want to be bitten by one. My cousin was once bitten by a @@ANIMAL@@ and he's never been the same since! So now you want my grandchildren exposed to these things? The sooner they disappear completely, the better!"
 
 [hr][/hr]
-[b][anchor=087]#[/anchor][anchor=87]87[/anchor]: Burn! Burn Everything! [PRC China; ed: Reploid Productions][/b]
+[b][anchor=87]#87[/anchor]: Burn! Burn Everything! [PRC China; ed: Reploid Productions][/b]
 
 The Issue
 A recent anti-government rally by highly disgruntled teens has brought a previously minor issue to the fore: should people be permitted to burn @@NAME@@'s flag, or should it be a crime?
@@ -1192,7 +1192,7 @@ The Debate
 3. "These barbarians are suggesting burning the flag of our glorious nation as if it were a piece of scrap cloth! First it's burning the flag, and before you know it, it's rebellion and anarchy!" @@RANDOM_NAME@@ scowls. "Flag burning should be punishable by jail terms and a good flogging!"
 
 [hr][/hr]
-[b][anchor=088]#[/anchor][anchor=88]88[/anchor]: Cannibals Demand To Taste What @@NAME@@ Has To Offer [Sovereign Discord; ed: Reploid Productions][/b]
+[b][anchor=88]#88[/anchor]: Cannibals Demand To Taste What @@NAME@@ Has To Offer [Sovereign Discord; ed: Reploid Productions][/b]
 
 The Issue
 A coalition of tribalists, health experts, and civil rights proponents have recently suggested legalizing cannibalism for consumers of willing would-be meals.
@@ -1205,7 +1205,7 @@ The Debate
 3. "You're all absolutely out of your minds!" exclaims @@RANDOM_NAME@@, head of @@NAME@@'s largest health-food manufacturer. "It's immoral, it's unhealthy, and it's disgusting. Not only are these so-called 'dietary rights' activists leading us down a dark path of sin, but right into a marketplace with yet another product that's almost as bad as beef!"
 
 [hr][/hr]
-[b][anchor=089]#[/anchor][anchor=89]89[/anchor]: "Don't Dam Our Rivers, Damnit!" Say Protesters [Frigben; ed: Reploid Productions][/b]
+[b][anchor=89]#89[/anchor]: "Don't Dam Our Rivers, Damnit!" Say Protesters [Frigben; ed: Reploid Productions][/b]
 
 The Issue
 A group of Greenpeace protesters have called for an end to a government proposal to begin damming rivers in @@NAME@@ to increase water supplies and generate power.
@@ -1216,7 +1216,7 @@ The Debate
 2. "Think before you open your mouth," says engineer @@RANDOM_NAME@@. "While @@NAME@@ may have to pay the price in animal diversity, as well as adverse effects on the environment, do we really want fossil-fuel based plants polluting @@NAME@@? If you use your common sense, I think you'll find that damming some rivers would be a good idea. Plus, think of how much the economy would benefit from all the jobs these projects would create."
 
 [hr][/hr]
-[b][anchor=090]#[/anchor][anchor=90]90[/anchor]: Organic Outburst [Dark_Zephyr; ed: Reploid Productions][/b]
+[b][anchor=90]#90[/anchor]: Organic Outburst [Dark_Zephyr; ed: Reploid Productions][/b]
 
 The Issue
 After a recent left-wing broadsheet exposé of agricultural practices, an outburst of public paranoia has stirred up the organic foods debate.
@@ -1229,7 +1229,7 @@ The Debate
 3. "Stop torturing Mother Earth!" yells outraged environmental extremist @@RANDOM_NAME@@. "Are we prepared to sacrifice our planet and our souls for the sake of a few extra @@CURRENCY_PLURAL@@? If we hope to live in harmony with the environment that nurtures and protects us, we must ban all industries that pollute our world. Let us return to the trees, my brothers!"
 
 [hr][/hr]
-[b][anchor=091]#[/anchor][anchor=91]91[/anchor]: Sacramental Tax Time? [Rational Self Interest; ed: Reploid Productions][/b]
+[b][anchor=91]#91[/anchor]: Sacramental Tax Time? [Rational Self Interest; ed: Reploid Productions][/b]
 
 The Issue
 Secularists have been urging the government to impose corporation tax on religious organizations in @@NAME@@ for some time now, and the issue has finally made its way to the upper levels of the government.
@@ -1244,7 +1244,7 @@ The Debate
 [4]. The Honorable @@RANDOM_NAME@@, Minister of Minding Other People's Business, has an idea: "This religion thing is such a great racket, why don't we make it a government monopoly? We'll ban all religions except @@FAITH@@, and make attendance and donations compulsory. I'll start writing the Holy Proclamation right away!" [[color=purple]Must have a national religion[/color]]
 
 [hr][/hr]
-[b][anchor=092]#[/anchor][anchor=92]92[/anchor]: @@NAME@@ Officials Needled About Mandatory Vaccinations [GDrabble; ed: Reploid Productions][/b]
+[b][anchor=92]#92[/anchor]: @@NAME@@ Officials Needled About Mandatory Vaccinations [GDrabble; ed: Reploid Productions][/b]
 
 The Issue
 Health workers are frequently being ignored by people when recommending vaccinations against common illnesses. When these people subsequently become ill they require expensive emergency care. To correct this situation, many health experts are lobbying for mandatory vaccinations.
@@ -1257,7 +1257,7 @@ The Debate
 3. @@RANDOM_NAME@@, @@NAME@@'s leading expert on health spending, suggests a third way. "Leave vaccines optional but make free health care conditional on having them. That way people get to choose, and it will help ease the load on our national healthcare budget."
 
 [hr][/hr]
-[b][anchor=093]#[/anchor][anchor=93]93[/anchor]: Affirmative Action in @@NAME@@? [The Orange Freestate; ed: Reploid Productions][/b]
+[b][anchor=93]#93[/anchor]: Affirmative Action in @@NAME@@? [The Orange Freestate; ed: Reploid Productions][/b]
 
 The Issue
 After minority student @@RANDOM_NAME@@ was refused admission to a traditional, prestigious college, civil rights activists, conservatives, and teachers are up in arms about affirmative action and ethnic equality in education.
@@ -1270,7 +1270,7 @@ The Debate
 3. "I think you're both loony," says @@RANDOM_NAME@@, professor of liberal arts at @@NAME@@ National University. "In my humble opinion, the solution is simple: make college education free to all. Why turn away anyone? Throw open the gates and make college education available to every citizen of @@NAME@@, regardless of their economic status, grades, or work ethic!"
 
 [hr][/hr]
-[b][anchor=094]#[/anchor][anchor=94]94[/anchor]: Computer Users Fed Up With Heaps of Spam! [Bored Yawning; ed: Reploid Productions][/b]
+[b][anchor=94]#94[/anchor]: Computer Users Fed Up With Heaps of Spam! [Bored Yawning; ed: Reploid Productions][/b]
 
 The Issue
 A survey citing a tremendous increase in unsolicited emails has added fire to the subject of what many view as a scourge of the Internet.
@@ -1285,7 +1285,7 @@ The Debate
 4. "Both sides are wrong," grumbles government paper-pusher @@RANDOM_NAME@@. "Spam is definitely a problem, yet so is the restriction on freedoms which some draconian anti-spam codes would impose. I propose a ban on overtly fraudulent spam, and a tax on more legitimate businesses that rely on spam as an advertising method, and a strict legal definition of spam that would ensure no innocent person was prosecuted or taxed."
 
 [hr][/hr]
-[b][anchor=095]#[/anchor][anchor=95]95[/anchor]: Painful Prices Paid At The Pump [Aljerfribish; ed: Reploid Productions][/b]
+[b][anchor=95]#95[/anchor]: Painful Prices Paid At The Pump [Aljerfribish; ed: Reploid Productions][/b]
 
 The Issue
 Commuters are complaining about the ongoing rise in gas prices, causing a massive debate in the government about what should be done.
@@ -1296,7 +1296,7 @@ The Debate
 2. "There are other ways to recover from the fossil fuel crisis besides ruining forests," says environmental activist @@RANDOM_NAME@@. "We shouldn't just take the short way out and drill here. I suggest spending more money on public transportation systems and encouraging people to carpool - if people weren't so reliant on fossil fuel powered cars, we wouldn't be in this situation in the first place, and if we start using less oil, the price will drop with the demand."
 
 [hr][/hr]
-[b][anchor=096]#[/anchor][anchor=96]96[/anchor]: Water Supply Problems Becoming A Major Drain [Calvin n Hobbes; ed: Reploid Productions][/b]
+[b][anchor=96]#96[/anchor]: Water Supply Problems Becoming A Major Drain [Calvin n Hobbes; ed: Reploid Productions][/b]
 
 The Issue
 Due to the explosive population growth in @@NAME@@, coupled with recent droughts, people are beginning to worry about the nation's decreasing water supply, and who should get first dibs on the vital H2O.
@@ -1313,7 +1313,7 @@ The Debate
 5. "Obviously, who gets how much water is only a part of the problem," notes famed population-control advocate @@RANDOM_NAME@@. "We must try to curtail the rapid growth of our population, whether by limiting the amount of children people may have, or by deporting immigrants and criminals... we must get a handle on our population before we can hope to correct this water supply problem."
 
 [hr][/hr]
-[b][anchor=097]#[/anchor][anchor=97]97[/anchor]: Landfills Filling Up [Edolia; ed: Sirocco][/b]
+[b][anchor=97]#97[/anchor]: Landfills Filling Up [Edolia; ed: Sirocco][/b]
 
 The Issue
 After claims of two-headed @@ANIMAL_PLURAL@@ being seen near the numerous landfills of @@NAME@@, there have been calls for the government to act.
@@ -1328,7 +1328,7 @@ The Debate
 4. "You're all missing the real solution," argues @@RANDOM_NAME@@, president of the '@@NAME@@ First!' society. "Why should we bother building landfills at all? I'm sure that there are plenty of less-fortunate countries out there who would be more than happy to take our litter in return for some cash."
 
 [hr][/hr]
-[b][anchor=098]#[/anchor][anchor=98]98[/anchor]: Police Want More Than Shiny Badge [Hata-alla; ed: Sirocco][/b]
+[b][anchor=98]#98[/anchor]: Police Want More Than Shiny Badge [Hata-alla; ed: Sirocco][/b]
 
 The Issue
 After a police officer was forced to apprehend a criminal with nothing more than a tin of beans, there has been an outcry for better equipment.
@@ -1343,7 +1343,7 @@ The Debate
 4. "You have to be joking," scoffs @@RANDOM_NAME@@, looking up from Buxom Lasses with Big Guns magazine. "If we ban guns, only criminals will be armed. That's no solution. Instead we should completely loosen up restrictions on guns, and then upstanding citizens can fight crime themselves."
 
 [hr][/hr]
-[b][anchor=099]#[/anchor][anchor=99]99[/anchor]: We Need Cash, Sharpish, Say Librarians [Os Cosia; ed: Sirocco][/b]
+[b][anchor=99]#99[/anchor]: We Need Cash, Sharpish, Say Librarians [Os Cosia; ed: Sirocco][/b]
 
 The Issue
 Ailing libraries have appealed to the government for a much-needed injection of funds.
@@ -10683,7 +10683,7 @@ It's been high times all around since the government legalized recreational mari
 The Debate
 1. "Clogging @@NAME@@'s prisons with people who were simply ahead of their time is cruel, illogical and inhumane!" opines advocate @@RANDOM_NAME@@ while puffing Maxtopian Grass cigar smoke into your face. "These visionaries should never have been imprisoned in the first place and the government needs to release every single one of them. You'd free up thousands of jail cells, and it sure beats turning them into hardened criminals behind bars."
 
-2. "I sympathize with their situation, but as the old saying goes: 'do the crime and do the time'," reminds by-the-book @@TYPEINITIALS@@@@NAME_INITIALS@@ Drug Enforcement Officer @@RANDOM_NAME@@. "Drug possession may be legal now, but it wasn't when these people were arrested. They knowingly broke the law, and when you break the law in Heliosphere, you go to jail. Letting them out sends the wrong message."
+2. "I sympathize with their situation, but as the old saying goes: 'do the crime and do the time'," reminds by-the-book @@TYPEINITIALS@@@@NAME_INITIALS@@ Drug Enforcement Officer @@RANDOM_NAME@@. "Drug possession may be legal now, but it wasn't when these people were arrested. They knowingly broke the law, and when you break the law in @@NAME@@, you go to jail. Letting them out sends the wrong message."
 
 3. "Drugs are bad, m'kay," preaches anti-drug advocate and oddly-shaped high school guidance counselor @@RANDOM_FIRST_NAME@@ McKay. "We should never have legalized the stuff in the first place. Drugs like Maxtopian Grass cause health problems and our children are still getting their hands on it, m'kay. We need to recriminalize all recreational drugs and keep the druggies off the streets. Throw the stuff away and be done with it, m'kay."
 
@@ -15200,8 +15200,6 @@ The Debate
 *4. "You're all wrong!" shouts @@RANDOM_NAME@@, spokesperson for the Bleeding Hearts Without Borders organization, with an aura of moral superiority surrounding @@HIM@@. "The answer lies not within our borders, but with the thousands of people standing just outside them. Putting new lives in the world is not the answer, when entire generations of living, breathing men, women and children are fleeing their homes in Tasmania, Marche Noire and Lilliputia every day to escape war. If we need more people, stop any immigration restrictions and grant each one of them citizenship." [[color=blue]Must allow Immigration.[/color]]
 
 *5. "You're all wrong!" shouts @@RANDOM_NAME@@, spokesperson for the Bleeding Hearts Without Borders organization, with an aura of moral superiority surrounding @@HIM@@. "The answer lies not within our borders, but with the thousands of people standing just outside them. Putting new lives in the world is not the answer, when entire generations of living, breathing men, women and children are fleeing their homes in Tasmania, Marche Noire and Lilliputia every day to escape war. If we need more people, end the ban on immigration and grant each one of them citizenship." [[color=red]Must not allow Immigration.[/color]]
-
-
 [hr][/hr]
 [b][anchor=1029]#1029[/anchor]: Frozen Assets [USS Monitor; ed: Candlewhisper Archive][/b]
 
@@ -19998,8 +19996,6 @@ The Debate
 3. "Are you kidding me? This country has thrived with wholesome, anti-abortion values," asserts @@RANDOM_NAME@@, the leader of Blokes Against Reproductive Freedoms. "If we're really going to respect the right to life, then it's the one-child policy that must go! It will mean admitting a mistake, but is that so bad? I've made so many mistakes in my life that I can't remember all of their names off the top of my head! Anyways, the point is that I should be able to sow my seed far and wide, and have it land on fertile ground."
 
 4. "Why don't you simply make it mandatory for men to have a vasectomy after the first time they father a child?" asks your niece, her chef's knife blurring with speed as she deftly slices a cucumber for her packed lunch. "That way, you can keep both the one-child policy and the ban on abortion. Everyone wins."
-
-
 [hr][/hr]
 [b][anchor=1354]#1354[/anchor]: The One-Trick Pony [Jutsa; ed: The Free Joy State][/b]
 
@@ -21312,7 +21308,6 @@ The Debate
 3. "It's not the stamps that are the problem, it's the illegal transactions," growls your police chief, upsetting the grocer's apple cart. "We need to fund sting operations to catch any trader who accepts payment in any form other than electronic credit transfer, and destroy their stock when they fail to comply." He stamps all over the fallen produce to demonstrate. "How do you like them apples?"
 
 4. "There's always a simpler way," suggests grumpy genius Tari Pratshet. "All you need to do is erode the public's confidence in stamps - money only works as such if people accept its value. If you run a campaign of whispers reminding people that banks and credit companies don't accept stamps, and talk about all the things they can only buy with proper electronic credit, then they will become less inclined to treat these things as money. The fad will pass."
-
 [hr][/hr]
 [b][anchor=1440]#1440[/anchor]: Dungeons and Deaths [Frieden-und Freudenland; ed: Pogaria][/b]
 
@@ -22417,7 +22412,7 @@ The Debate
 3. "Honestly, doesn't it bother you that these subhuman people are even allowed in your nation? We don't want their kind here!" exclaims your normally liberal Minister of Inclusivity, to the surprise of all present. "OH! I mean the racists, not the ethnic minority. Outlaw racist groups, and place restrictions on hate speech. Of course, the free speech people will complain about the slippery slope and all that, but I trust our legislators to be able to tell the difference between hate speech and productive dialogue. I mean, they're already so reliable and efficient."
 
 [hr][/hr]
-[b][anchor=1516]#1516[/anchor]: Content Discontent [Verdant Haven, Terrabod; ed: Pogaria][/b]
+[b][anchor=1516]#1516[/anchor]: Content Discontent [Verdant Haven; ed: Pogaria][/b]
 
 The Issue
 A recent survey revealed a stark divide amongst @@DEMONYM_PLURAL@@, with citizens across the political spectrum strongly agreeing that anybody who holds different views than their own is a "blithering idiot," an "unpatriotic traitor," and that they "probably have ugly children, too." The focus group assembled to address this phenomenon placed the blame squarely on the increasingly personalized nature of internet content, before itself splitting into warring factions over what to do about it.
@@ -22524,7 +22519,7 @@ The Issue
 The Debate
 1. "It's utterly absurd to believe that @@HE_1@@ didn't make provision for @@HIS_1@@ kids," exclaims Esher, one of @@RANDOM_LAST_NAME_1@@'s children. "Why would @@HE_1@@ put that so-called religion over us? Those Violetists descended on @@HIS_1@@ when @@HE_1@@ was at @@HIS_1@@ most vulnerable, and @@HE_1@@ probably didn't even know what @@HE_1@@ was doing! Imagine the plight of poor children left with nothing but a few luxury cars and a yacht! @@LEADER@@, you must rule that the majority of a person's estate goes to their family, so we can live in @@HIS_1@@ mansion... I mean, live in dignity, like @@HE_1@@ always wanted."
 
-2. "Aria's money was her own, and she chose of her own free will to give it to us," counters senior Violetist Kim Herrelko with a smirk. "Our visit to her bedside was made entirely out of a desire to save her from eternal damnation. It was a deathbed conversion! The change of beneficiary forms we helped her sign are standard for all our true believers. Who are these heathen brats to demand a share? @@LEADER@@, you must ensure all wills are carried out to the letter!"
+2. "@@RANDOM_NAME_1@@'s money was @@HIS_1@@ own, and @@HE_1@@ chose of @@HIS_1@@ own free will to give it to us," counters senior Violetist Kim Herrelko with a smirk. "Our visit to @@HIS_1@@ bedside was made entirely out of a desire to save @@HIS_1@@ from eternal damnation. It was a deathbed conversion! The change of beneficiary forms we helped @@HIS_1@@ sign are standard for all our true believers. Who are these heathen brats to demand a share? @@LEADER@@, you must ensure all wills are carried out to the letter!"
 
 3. "You know, @@LEADER@@, I have the perfect solution," muses your Minister for Finding Extra Cash, Piers Pasteur. "What if we just took charge of everyone's estate when they died, and allocated it fairly as we see fit? Of course, we could exclude any undesirable heirs, and sometimes the fairest distribution might be to the poor needy coffers of our dear government. At the very least we'll need to charge a fee for providing such a necessary and impartial service!" 
 
@@ -22671,8 +22666,6 @@ The Debate
 2. "C'mon now, how's a man going to show his girl that he loves her if he can't buy her nice things?" complains 21-year-old lothario Dawang May. "I like to treat a broad like a princess, and a princess don't carry a wallet, am I right? You should be supporting these credit companies in keepin' good old fashioned values alive. In fact, you should make a law so that ladies can't carry cash around at all. That way, when I buy a girl something nice, it'll feel more special for her... So really, it's all for her benefit!"
 
 3. "Perhaps we could compromise, and only allow women with no responsible males available to have bank cards: elderly spinsters who have no brothers or surviving relatives, and so on," suggests crotchet doily manufacturer Shigeru Snow, oozing compassion. "After all, we wouldn't want the little darlings to starve, would we?"
-
-
 [hr][/hr]
 [b][anchor=1534]#1534[/anchor]: Give a Boy Some Credit [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
 
@@ -22726,8 +22719,6 @@ The Debate
 2. "Discouraging sleeping on the streets helps persuade these bums to head to proper shelters," reasons luxury apartment resident @@RANDOM_NAME@@, whose own building is ringed with modern art sculptures that are entirely coincidentally covered with barbed wire and spikes. "If we just let everyone sleep everywhere, people are going to WANT to be homeless. Besides, can you imagine what our public parks and buildings would look like with hobos and dope fiends lying around? Won't somebody think of the property prices?"
 
 3. "Aren't we focusing on a symptom here, rather than the bigger picture?" poses @@RANDOM_NAME@@, a self-proclaimed expert on homelessness after reading a library book or two on the subject. "There are plenty of shelters, but there's lots of reasons the homeless avoid them: mental illness, rules against drug use, fear of theft of their few possessions, and troublesome hygiene to name a few. But the state can fix all this! Regular cleaners, in-house psychiatry services, needle exchanges, safe spaces for drug taking, rehabilitation counsellors, individual rooms with good locks, toilets and bathrooms that don't have to be shared, a community police officer, and hot regular meals would be a start. How hard can that be?"
-
-
 [hr][/hr]
 [b][anchor=1538]#1538[/anchor]: The Passion of Chris [Siornor; ed: Verdant Haven][/b]
 
@@ -23029,8 +23020,6 @@ The Debate
 2. "She's clearly some sort of masochist, just wanting people to poke and emotionally abuse her," observes a passing intern, seemingly the last speaker's blonde twin, firing an office staple gun into the back of her own hand to emphasise her point. "So-called "artists" like this deserve to be mocked. You should go in there, give her a slap, berate her for wasting everyone's time, then head back to work. Busy busy." She looks at her watch and walks out, purposefully.
 
 3. "Frankly, the whole thing bores me," yawns a civil servant, whose grey wig seems to be slipping off as she rushes in, out of breath. "Clearly, you're being drawn into the performance, used to generate free publicity. The best thing you can do is ignore the whole charade, and go across town to a different exhibition that is opening on the same day. I have a pamphlet here: Treasures of Romanticism, a Retrospective on Landscape Paintings of the Sublime. Actual brushwork, and realistic pictures. That's proper art, with none of this performance nonsense. I'll go ahead and grab you a ticket." She strides off.
-
-
 [hr][/hr]
 [b][anchor=1558]#1558[/anchor]: Unequal Treatment? [Erynia and Draconia, Courelli; ed: Verdant Haven][/b]
 
@@ -24168,19 +24157,104 @@ The Debate
 3. "Most students won't ever use these maths concepts? Well, sounds like we should change that," mutters philistinic engineer @@RANDOM_NAME@@ as @@HE@@ furiously scrawls equations onto @@HIS@@ child's fingerpaint artwork. "Maybe if we stopped flushing money down the toilet by funding these 'artistic' deadbeats and instead spent it on mathematics-oriented industries, people would realise that taking pictures of the sunset or whatever isn't a productive way to contribute to society and will finally get off their butts to study hard and get proper jobs. That'll give those complainers somewhere useful to invest their clearly ample free time."
 
 [hr][/hr]
-[b][anchor=1636]#1636[/anchor]: TBD[/b]
+[b][anchor=1636]#1636[/anchor]: In for the Long Haul [Umbratellus; ed: Klaus Devestatorie][/b]
 
+The Issue
+A scheduling mishap has resulted in your arrival at the @@CAPITAL@@ Convention Centre, not to find throngs of your ardent supporters, but rather the Transportation of Tomorrow Expo in full swing. Shrugging @@HIS@@ shoulders, your error-prone junior secretary suggests you should look around for something that looks cool to commission, and then abandons you to get some bubble tea at the food court.
+
+The Debate
+1. Catching a glimpse of your Minister of Transportation amidst the crowds, you find @@HIM@@ admiring a gleaming new high-speed rail locomotive. Seeing you, @@HE@@ gestures towards the railcar, A real beauty, isnt it? Rail technology has always been astonishingly efficient for long distance trips. This model even has heated seats! Imagine fantastic machines like this one hauling passengers between every town and city across @@NAME@@ — we have the opportunity to set the global standard for mass transit! We could expand existing railways and break ground on new ones within cities as well: light rails down every major thoroughfare, monorails with dedicated stops inside major tower blocks, even micro rails that could deliver groceries! I could go on and on — oh, just think of all the new trains!
+
+*2. As you continue meandering through the halls of the convention centre, you find yourself in a crowded room dedicated to an impressive array of concept cars. In the midst of a showcase of vehicles powered by everything from hydrogen to solar panels, an excited spokes@@MAN@@ is gesticulating wildly in front of a sleek model. Our thorium-powered concept car can run for a century on just 80 grams of fuel! Dirty, polluting, petrol cars are about to be a thing of the distant past! When we complete our laser micro-reactor, we can be positioned to fully roll these out across @@NAME@@ for sale. Once we have our self-driving technology running, were planning to make a fleet of them available for public use. Imagine never needing to wait for the bus again. [[color=blue]Must allow cars[/color]]
+
+*3. In a small room you find an eccentric man in a lab coat, lecturing in front of a 3D projection of a cow. Oxen have long been a staple of transportation for both people and cargo, but what if we could make them better? What if we used genetic engineering to breed a community stable of super-cows — Über-moo-nschen if you will — to transport everyone around? We can select for enhanced speed and stamina, and a more efficient metabolism. Artificial hormonal supplements will ensure continuously elevated levels of testosterone for maximal muscle growth! Ive even drawn up a design for an intravenous harness pump that would ceaselessly deliver creatine, but — HEY! The figure abruptly dashes off stage, chasing after a bioluminescent pooch that slipped out of the room. [[color=red]Must not allow cars[/color]]
+
+**4. At the centre of a large stage filled with flashing lights and lasers, celebrity entrepreneuse Ellen Moss is hyping up a crowd of adoring fans. Say it with me, everyone. Personal! Rocket! Ships! Were all going TO THE MOOOOON! As attendants wheel out a gleaming rocket model on stage, the lasers turn together to form the SpaceY logo against the hull of the spacecraft. We believe EVERYONE should have the right to fly, not just licensed pilots. Were going to have this bad boy on the market in just FIVE YEARS. You can even pre-order one today! Space is the next frontier for humanity, and with these incredible ships, we can REACH FOR THE STARS TOGETHER! Ellen raises her fist in the air, to the sound of wild applause. [[color=blue]Must allow aircrafts[/color]]
+
+**5. A @@MAN@@ waves to you from the pilots seat of a small blimp, which is bouncing alarmingly off the ceiling of the pavilion. Tally-ho old chum! Were poised for a revolution in lighter-than-air travel. These newfangled electric propulsion motors can run on nothing more than some solar panels and a rechargeable battery pack! While fighting to maintain control in the face of the convention centres air conditioning system, @@HE@@ continues. If youd just let everyone get off the ground again, we could usher in a whole new age of adventure! Imagine, grand passenger zeppelins soaring through the hoary aether! Great air-freighters, laden with cargo, ushered on by billowing jet streams! Not everyone has the stomach for it, but itll be marvellous! The future is right above our heads! [[color=red]Must not allow aircrafts[/color]]
+
+6. On the way to the food court to locate your junior secretary, a grumpy old @@MAN@@ gestures at you. Bah, he mutters, have you ever heard such a load of claptrap in your life? I cant even find a seat on the subway in the middle of the day, and these cranks are trying to sell us delusions! How am I supposed to get to a doctors appointment on time if I have to rely on whatever ridiculous pie-in-the-sky scheme has your personal attention at any particular moment? The government should stop flushing money down the drain on worthless experiments like these that never go anywhere, and spend it on regular old public transportation that regular old folks like me actually can use!
 
 [hr][/hr]
-[b][anchor=1637]#1637[/anchor]: TBD[/b]
+[b][anchor=1637]#1637[/anchor]: [color=green][i]An International Incident[/i][/color]: Children of the Atom [Candlewhisper Archive; ed: Luna Amore][/b]
 
+The Issue
+A class action lawsuit has been filed against the @@DEMONYM_ADJECTIVE@@ government by Brasilistani families whose health has suffered as a result of the radioactive fallout from your nuclear strike against their nation. Children with cancer, men and women dead from radiation poisoning, and farmers whose livelihoods were destroyed after their soil was contaminated are all being named as direct consequences of the atomic bomb you dropped.
+
+The Debate
+1. Were guilty as sin, and we as a nation have a moral responsibility for our actions, explains your Minister of Manual Wringing, who yesterday formally apologized for lightly bruising a muggers fist with his face. We should pay reparations to survivors, and offer funds to help rebuild their country and their lives. We should also issue a statement of regret over our actions, and acknowledge that it was a mistake to use nuclear weapons. Lets face it, Brasilistan was on its knees at the time... we could easily have won the war through conventional means. Making amends for our misjudgement is the right thing to do.
+
+2. Its a legal nonsense to bring the wartime actions of a state to account in a civil court, asserts Field Marshall Dunn-Torkin, holding up a clenched fist for emphasis and grinning slightly as the Minister flinches. Deny the authority of any court to try this case, and put surveillance on the would-be plaintiffs. Resentment and hatred are breeding grounds for terrorism, and we would be wise to be watchful.
+
+[3]. Those Brasilistanis are like roaches... miss a few, and they start multiplying again. Theyre filthy, disgusting creatures! yells your brother, spitting on the floor. Luckily for you, nuclear payloads are now bigger and better than before. If we nuke them again, this time there wont be anyone left to complain. [[color=blue]Must allow WMDs[/color]]
 
 [hr][/hr]
-[b][anchor=1638]#1638[/anchor]: TBD[/b]
+[b][anchor=1638]#1638[/anchor]: The Waiting Is the Hardest Part [Jim the Baptist & Dabarastan; ed: Baggieland][/b]
 
+The Issue
+The governments notoriously long visa processing times are in the spotlight after @@RANDOM_NAME_1@@ — a Maxtopian who has already been waiting 13 months for @@HIS_1@@ @@DEMONYM_ADJECTIVE@@ student visa application outcome — just received a request for additional information.
+
+The Debate
+1. You begin reading a letter from @@RANDOM_NAME_1@@, @@HIS_1@@ heavy Maxtopian accent echoing in your head. I applied for a @@DEMONYM_ADJECTIVE@@ student visa over a year ago; now my whole life is on hold and Im having to work menial jobs in Maxtopia in order to finance this period of waiting. I beg you, triple funding and promise a respectable wait-time limit on your visa apparatus so my fellow international students and I may study at one of your benevolent and dazzling institutions.
+
+2. Do you have any idea of the processes involved in checking the validity of an application? counters immigration officer @@RANDOM_NAME@@, as @@HE@@ rounds up all the pencils on your desk. There are criminal checks, academic suitability checks, financial capability checks and so on. All of this takes a prolonged period of time in order to be done properly. In fact, there should be no more upper time limit on the issuance of a visa; we have to take as long as it needs.
+
+3. This land is your land, and this land is my land, croons folk singer @@RANDOM_NAME@@ through your open office window. Who are we to say where this fine young student can or cannot study? Abolish all student visas, man!
+
+*4. Abolish all student visas, you say? I think thats the first clever thing this long-haired yahoos ever said! spurts alt-right commentator @@RANDOM_NAME@@. You can forget about all that other hippy garbage though. There are too many foreign academics muddying our sovereign soil already. Stop issuing these visas and kick out those students already here. [[color=blue]Must allow immigration[/color]]
+
+*5. Abolish all student visas, you say? I think thats the first clever thing this long-haired yahoos ever said! spurts alt-right commentator @@RANDOM_NAME@@. You can forget about all that other hippy garbage though. Why do we allow foreign students into @@NAME@@ when all other immigration is already banned? Stop issuing these visas and kick out those students already here. [[color=red]Must not allow immigration[/color]]
 
 [hr][/hr]
-[b][anchor=1639]#1639[/anchor]: TBD[/b]
+[b][anchor=1639]#1639[/anchor]: Bad Coal Models [Crodelinam; ed: Kaschovia][/b]
 
+The Issue
+Over the last few weeks, protestors from the organisation Extraction Rebellion have been gluing their hands to buildings, defacing priceless paintings, and flinging dye bombs (and worse) at public buildings. After the steps to Parliament had several hundred kilos of cow manure dumped on them, your advisers have urged you to put your foot down.
+
+The Debate
+1.  They just want to be heard... remarks your Minister of Environment, @@RANDOM_NAME@@, dropping apple slices out of the window into one protestors waiting mouth. I mean, most of these criminals are just concerned young people. Theyll probably be distracted by whatever the trendy issue is next week and forget what they were even angry about. What they really want is a dialogue and, at the very least, an agreement to reduce our coal usage. I can have a statement drafted in five minutes and this little problem will be gone.
+
+2. Just agreeing to reduce coal usage does nothing! bellows avid Extraction Rebellion spokesperson @@RANDOM_NAME@@, adorned in a high-vis jacket and hard hat with the prop store tags still attached. We demand the immediate closure of all @@DEMONYM_ADJECTIVE@@ coal extraction facilities, without any decade-long mission objectives or backwards anti-protest measures! Its time to save our planet and protect our future! @@HE@@ charges out of the room to rapturous applause from a crowd of paint-covered students outside.
+
+3. These damned protestors! sputters your Minister of Crime, @@RANDOM_NAME@@, frantically wiping red paint from @HIS@@ even redder face. Not only do these people damage our reputation as a nation with manners, but theyre outright laughing in the face of your authority! If peaceful and appropriate protest is not a part of their insufferable and relentless schedule, Id say its time we gave their most outspoken advocates a clear choice: their silence, or more... direct means of negotiation. A couple years in the coal mines should do the trick, right @@LEADER@@?
 
 [hr][/hr]
+[b][anchor=1640]#1640[/anchor]: See No Evil [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
+
+The Issue
+When social media influencer @@RANDOM_NAME_1@@ filmed @@HIM_1@@self throwing furniture off a 45th-floor balcony onto the streets below, it was widely agreed that this was a criminally dangerous and irresponsible thing to do and that @@HE_1@@ deserved it when @@HE_1@@ was subsequently arrested and imprisoned. However, @@HIS_1@@ WhoTube and Instasnap accounts have been thriving, with almost ten times as many subscribers as before, and there's talk about @@HIS_1@@ "bad @@BOY_1@@" image being used to advertise some of the edgier corporate brands.
+
+The Debate
+1. "What sort of lesson are we teaching if we allow people to profit from abhorrent actions?" writes journalist Daly Maille, author of a highly rated tabloid opinion column. "We ought to be ordering social media companies to shut down @@HIS_1@@ accounts, and any future immoral earnings gained from criminal notoriety should be seized by the government. That'll teach these attention-seekers that you can't get rich through infamy, and the extra cash for the @@TYPE_INITIALS@@@@NAME_INITIALS@@ Treasury will keep income taxes low for hard-working decent folk like you and me!"
+
+2. "It's not @@HIS_1@@ fault if people have an unhealthy interest in criminal behaviour," observes celebrity management agent Baxter Scratch, holding up a copy of the offender's new book 'Why I Did It'. "No-one is condoning @@HIS_1@@ actions, least of all the repentant offender @@HIM_1@@self. In fact, we've got plans to stream a new vlog where @@HE_1@@'ll wrestle with @@HIS_1@@ foolish past, and reflect on how society brought @@HIM_1@@ there. We just need you to tell prisons to relax their regulations about inmates accessing social media, and we can turn offenders like @@HIM_1@@ into a positive force for change."
+
+3. "I agree that this very attractive nineteen-year-old is probably as much a victim in this scenario as anyone else," adds your partially sighted uncle, tucking a press-release photo of the offender into his pocket for later examination. "In fact, the furniture-throwing video was a real and vibrant expression of youthful rebellion. We should encourage more good-looking young folk to do wild and crazy things on video. I could certainly stand to watch more of this sort of thing, and it'd likely be great for the furniture restoration industry."
+
+[hr][/hr]
+[b][anchor=1641]#1641[/anchor]: Freedom of Depress [Adomnar; ed: Candlewhisper Archive][/b]
+
+The Issue
+An evening celebrating the nation's favourite felines was somewhat marred by the repeated airing of intensely depressing advertisements for a cat welfare charity, showing shocking images of mistreated, melancholic and mutilated moggies.
+
+The Debate
+1. "No organization has the right to emotionally blackmail our good @@DEMONYM_ADJECTIVE@@ households with these traumatic images!" cries miffed mother @@RANDOM_FEMALE_NAME@@, cradling her weeping nineteen-year-old son in her arms. "No child of mine ought to see those awful scenes, like that poor amputee kitten who'd been used as a basketball. I shouldn't be manipulated into giving up my hard-earned @@CURRENCY_PLURAL@@ in this way. Please, for the sake of our families, you must restrict any advertisements with potentially scarring, emotionally taxing imagery!"
+
+2. "Pah! Another weeping snowflake offended at everything," responds the charity's CEO, holding up an elderly tomcat with no eyes. "You don't see Ole Tom here crying, do you? His last owner saw to that! If you want to send a message... you can't hold back. They're always telling us to tip-toe around 'sensibility' guidelines. Animals will continue to suffer and die if you don't loosen all these 'obscenity' and 'misinformation' laws. Do you want this poor pregnant cat's death on your hands?"
+
+[hr][/hr]
+[b][anchor=1642]#1642[/anchor]: When Push-itzer Comes to Shove [Southland; ed: Klaus Devestatorie][/b]
+
+The Issue
+This year, the committee for the internationally prestigious Pushitzer Prize has named a @@DEMONYM_ADJECTIVE@@ citizen as one of the small handful of winners! Regrettably, in what was clearly a deliberate attempt to highlight @@NAME@@'s human rights record, the award was given to imprisoned playwright and dissident @@RANDOM_NAME_1@@, for "promoting peace throughout @@REGION@@ with @@HIS_1@@ transformative writing".
+
+The Debate
+1. "This is a blatant insult!" hisses head of @@DEMONYM_ADJECTIVE@@ Homeland Intelligence @@RANDOM_FIRST_NAME@@ 'Snakes Eyes' @@RANDOM_LAST_NAME@@, whose agency is currently detaining @@RANDOM_LAST_NAME_1@@. "Of all our top authors and poets they could have chosen, they went with this traitorous filth? Well, we're not playing that game!" Setting @@HIS@@ baton to "tenderize", @@HE@@ continues, "Give me five minutes alone with @@HIM_1@@ and I'll 'convince' our friend to decline the award, and then I'll pay a visit to @@HIS_1@@ friends, family, and writers guild tonight to make sure they all fall in line. After all, what are those pompous bleeding hearts going to do, write an angry letter?"
+
+2. "THAT'S NOT GOING FAR ENOUGH!" roars "The Lion of the Plains", General @@RANDOM_NAME@@, who is currently being restrained by your advisors from smashing a valuable ivory statuette in a mad rage. "This grave insult to our character requires a MILITARY touch! Send our best black ops team to follow these scumbags and force them to rescind the award. If they still refuse, hunt them like the dogs they are! They'll think twice about ever insulting us again."
+
+3. "Let's not get carried away," mutters your eagle-eyed Propaganda Minister @@RANDOM_NAME@@, underlining passages in the prize's press release for future use. "It's true that the prize committee has slighted us by nominating that transgressor over more deserving citizens, but coerced rejections and assassinations will only vindicate their accusations. What we need is a slick media blitz highlighting the Pushitzer's history of bias and hypocrisy, ending with you announcing our own award recognizing @@DEMONYM_ADJECTIVE@@ achievements. It will take a bite out of our budget to pull off, but hopefully it will grant us sympathy with our allies across @@REGION@@."
+
+*4. "Is it really that bad?" squeaks your mousy staff member @@RANDOM_NAME@@, hastily hiding a suspicious book from your line of sight. "I may disagree with the views of @@RANDOM_LAST_NAME_1@@, who's-definitely-a-bad-guy-don't-get-me-wrong, but this is a monumentally prestigious award. The other suggestions will make us look bad. I think we can briefly let @@HIM_1@@ out of prison and let @@HIM_1@@ travel just to get the award, accompanied by our escort and with @@HIS_1@@ acceptance speech pre-vetted first of course, as a gesture of goodwill. And maybe we can… uhh…" @@HE@@ quivers under the unblinking glower of the General. "Maybe we can listen to @@HIM_1@@ and relax the laws… a little?"
+
+*5. "Is it really that bad?" squeaks your mousy staff member @@RANDOM_NAME@@, hastily hiding a suspicious book from your line of sight. "I may disagree with the views of @@RANDOM_LAST_NAME_1@@, who's-definitely-a-bad-guy-don't-get-me-wrong, but this is a monumentally prestigious award. The other suggestions will make us look bad. I think we can let @@HIM_1@@ put out a message accepting the award, with it pre-vetted of course, as a gesture of goodwill. And maybe we can… uhh…" @@HE@@ quivers under the unblinking glower of the General. "Maybe we can listen to @@HIM_1@@ and relax the laws… a little?"

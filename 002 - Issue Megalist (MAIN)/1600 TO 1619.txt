@@ -292,5 +292,3 @@ The Debate
 3. "We're wasting time!" exclaims @@RANDOM_NAME@@, director of @@NAME@@ Mountain Rescue, pacing around the room. "What we actually need is more of us looking, not more useless gadgets. Our current team of thirty rescuers has hundreds of kilometres to cover. If we don't boost those numbers we can kiss our chances of saving this expedition, or any future ones, goodbye. I say we bring in every trained rescuer in @@NAME@@ until the job is done. Dead or alive, our citizens deserve to be found."
 
 4. "You think signing checks or throwing bodies at it will solve anything?" bemoans @@RANDOM_NAME@@, a superstitious reporter from the @@CAPITAL@@ Herald, gnawing nervously on a pen. "I've been reporting on the dangers and tragedies of the @@ANIMAL@@ Mountains my entire journalistic career and I can promise you, the only things in these cursed mountains are early graves. The last thing we need is more cold, unattended funerals, especially after what happened to that last exped... uh, nevermind. Just close off areas like these to everyone once and for all, and warn people about the curse. You'll probably save a lot of money, too."
-
-[hr][/hr]

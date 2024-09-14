@@ -230,19 +230,63 @@ The Debate
 3. "Most students won't ever use these maths concepts? Well, sounds like we should change that," mutters philistinic engineer @@RANDOM_NAME@@ as @@HE@@ furiously scrawls equations onto @@HIS@@ child's fingerpaint artwork. "Maybe if we stopped flushing money down the toilet by funding these 'artistic' deadbeats and instead spent it on mathematics-oriented industries, people would realise that taking pictures of the sunset or whatever isn't a productive way to contribute to society and will finally get off their butts to study hard and get proper jobs. That'll give those complainers somewhere useful to invest their clearly ample free time."
 
 [hr][/hr]
-[b][anchor=1636]#1636[/anchor]: TBD[/b]
+[b][anchor=1636]#1636[/anchor]: In for the Long Haul [Umbratellus; ed: Klaus Devestatorie][/b]
 
+The Issue
+A scheduling mishap has resulted in your arrival at the @@CAPITAL@@ Convention Centre, not to find throngs of your ardent supporters, but rather the 'Transportation of Tomorrow' Expo in full swing. Shrugging @@HIS@@ shoulders, your error-prone junior secretary suggests you should look around for something that 'looks cool' to commission, and then abandons you to get some bubble tea at the food court.
+
+The Debate
+1. Catching a glimpse of your Minister of Transportation amidst the crowds, you find @@HIM@@ admiring a gleaming new high-speed rail locomotive. Seeing you, @@HE@@ gestures towards the railcar, "A real beauty, isn't it? Rail technology has always been astonishingly efficient for long distance trips. This model even has heated seats! Imagine fantastic machines like this one hauling passengers between every town and city across @@NAME@@ — we have the opportunity to set the global standard for mass transit! We could expand existing railways and break ground on new ones within cities as well: light rails down every major thoroughfare, monorails with dedicated stops inside major tower blocks, even micro rails that could deliver groceries! I could go on and on — oh, just think of all the new trains!"
+
+*2. As you continue meandering through the halls of the convention centre, you find yourself in a crowded room dedicated to an impressive array of concept cars. In the midst of a showcase of vehicles powered by everything from hydrogen to solar panels, an excited spokes@@MAN@@ is gesticulating wildly in front of a sleek model. "Our thorium-powered concept car can run for a century on just 80 grams of fuel! Dirty, polluting, petrol cars are about to be a thing of the distant past! When we complete our laser micro-reactor, we can be positioned to fully roll these out across @@NAME@@ for sale. Once we have our self-driving technology running, we're planning to make a fleet of them available for public use. Imagine never needing to wait for the bus again." [[color=blue]Must allow cars[/color]]
+
+*3. In a small room you find an eccentric man in a lab coat, lecturing in front of a 3D projection of a cow. "Oxen have long been a staple of transportation for both people and cargo, but what if we could make them better? What if we used genetic engineering to breed a community stable of super-cows — Über-moo-nschen if you will — to transport everyone around? We can select for enhanced speed and stamina, and a more efficient metabolism. Artificial hormonal supplements will ensure continuously elevated levels of testosterone for maximal muscle growth! I've even drawn up a design for an intravenous harness pump that would ceaselessly deliver creatine, but — HEY!" The figure abruptly dashes off stage, chasing after a bioluminescent pooch that slipped out of the room. [[color=red]Must not allow cars[/color]]
+
+**4. At the centre of a large stage filled with flashing lights and lasers, celebrity entrepreneuse Ellen Moss is hyping up a crowd of adoring fans. "Say it with me, everyone. Personal! Rocket! Ships! We're all going TO THE MOOOOON!" As attendants wheel out a gleaming rocket model on stage, the lasers turn together to form the SpaceY logo against the hull of the spacecraft. "We believe EVERYONE should have the right to fly, not just licensed pilots. We're going to have this bad boy on the market in just FIVE YEARS. You can even pre-order one today! Space is the next frontier for humanity, and with these incredible ships, we can REACH FOR THE STARS TOGETHER!" Ellen raises her fist in the air, to the sound of wild applause. [[color=blue]Must allow aircraft[/color]]
+
+**5. A @@MAN@@ waves to you from the pilot's seat of a small blimp, which is bouncing alarmingly off the ceiling of the pavilion. "Tally-ho old chum! We're poised for a revolution in lighter-than-air travel. These newfangled electric propulsion motors can run on nothing more than some solar panels and a rechargeable battery pack!" While fighting to maintain control in the face of the convention centre's air conditioning system, @@HE@@ continues. "If you'd just let everyone get off the ground again, we could usher in a whole new age of adventure! Imagine, grand passenger zeppelins soaring through the hoary aether! Great air-freighters, laden with cargo, ushered on by billowing jet streams! Not everyone has the stomach for it, but it'll be marvellous! The future is right above our heads!" [[color=red]Must not allow aircraft[/color]]
+
+6. On the way to the food court to locate your junior secretary, a grumpy old @@MAN@@ gestures at you. "Bah," he mutters, "have you ever heard such a load of claptrap in your life? I can't even find a seat on the subway in the middle of the day, and these cranks are trying to sell us delusions! How am I supposed to get to a doctor's appointment on time if I have to rely on whatever ridiculous pie-in-the-sky scheme has your personal attention at any particular moment? The government should stop flushing money down the drain on worthless experiments like these that never go anywhere, and spend it on regular old public transportation that regular old folks like me actually can use!"
 
 [hr][/hr]
-[b][anchor=1637]#1637[/anchor]: TBD[/b]
+[b][anchor=1637]#1637[/anchor]: [color=green][i]An International Incident[/i][/color]: Children of the Atom [Candlewhisper Archive; ed: Luna Amore][/b]
 
+The Issue
+A class action lawsuit has been filed against the @@DEMONYM_ADJECTIVE@@ government by Brasilistani families whose health has suffered as a result of the radioactive fallout from your nuclear strike against their nation. Children with cancer, men and women dead from radiation poisoning, and farmers whose livelihoods were destroyed after their soil was contaminated are all being named as direct consequences of the atomic bomb you dropped.
+
+The Debate
+1. "We're guilty as sin, and we as a nation have a moral responsibility for our actions," explains your Minister of Manual Wringing, who yesterday formally apologized for lightly bruising a mugger's fist with his face. "We should pay reparations to survivors, and offer funds to help rebuild their country and their lives. We should also issue a statement of regret over our actions, and acknowledge that it was a mistake to use nuclear weapons. Let's face it, Brasilistan was on its knees at the time... we could easily have won the war through conventional means. Making amends for our misjudgement is the right thing to do."
+
+2. "It's a legal nonsense to bring the wartime actions of a state to account in a civil court," asserts Field Marshall Dunn-Torkin, holding up a clenched fist for emphasis and grinning slightly as the Minister flinches. "Deny the authority of any court to try this case, and put surveillance on the would-be plaintiffs. Resentment and hatred are breeding grounds for terrorism, and we would be wise to be watchful."
+
+[3]. "Those Brasilistanis are like roaches... miss a few, and they start multiplying again. They're filthy, disgusting creatures!" yells your brother, spitting on the floor. "Luckily for you, nuclear payloads are now bigger and better than before. If we nuke them again, this time there won't be anyone left to complain." [[color=blue]Must allow WMDs[/color]]
 
 [hr][/hr]
-[b][anchor=1638]#1638[/anchor]: TBD[/b]
+[b][anchor=1638]#1638[/anchor]: The Waiting Is the Hardest Part [Jim the Baptist & Dabarastan; ed: Baggieland][/b]
 
+The Issue
+The government's notoriously long visa processing times are in the spotlight after @@RANDOM_NAME_1@@ — a Maxtopian who has already been waiting 13 months for @@HIS_1@@ @@DEMONYM_ADJECTIVE@@ student visa application outcome — just received a request for additional information.
+
+The Debate
+1. You begin reading a letter from @@RANDOM_NAME_1@@, @@HIS_1@@ heavy Maxtopian accent echoing in your head. "I applied for a @@DEMONYM_ADJECTIVE@@ student visa over a year ago; now my whole life is on hold and I'm having to work menial jobs in Maxtopia in order to finance this period of waiting. I beg you, triple funding and promise a respectable wait-time limit on your visa apparatus so my fellow international students and I may study at one of your benevolent and dazzling institutions."
+
+2. "Do you have any idea of the processes involved in checking the validity of an application?" counters immigration officer @@RANDOM_NAME@@, as @@HE@@ rounds up all the pencils on your desk. "There are criminal checks, academic suitability checks, financial capability checks and so on. All of this takes a prolonged period of time in order to be done properly. In fact, there should be no more upper time limit on the issuance of a visa; we have to take as long as it needs."
+
+3. "This land is your land, and this land is my land," croons folk singer @@RANDOM_NAME@@ through your open office window. "Who are we to say where this fine young student can or cannot study? Abolish all student visas, man!"
+
+*4. "Abolish all student visas, you say? I think that's the first clever thing this long-haired yahoo's ever said!" spurts alt-right commentator @@RANDOM_NAME@@. "You can forget about all that other hippy garbage though. There are too many foreign 'academics' muddying our sovereign soil already. Stop issuing these visas and kick out those students already here." [[color=blue]Must allow immigration[/color]]
+
+*5. "Abolish all student visas, you say? I think that's the first clever thing this long-haired yahoo's ever said!" spurts alt-right commentator @@RANDOM_NAME@@. "You can forget about all that other hippy garbage though. Why do we allow foreign students into @@NAME@@ when all other immigration is already banned? Stop issuing these visas and kick out those students already here." [[color=red]Must not allow immigration[/color]]
 
 [hr][/hr]
-[b][anchor=1639]#1639[/anchor]: TBD[/b]
+[b][anchor=1639]#1639[/anchor]: Bad Coal Models [Crodelinam; ed: Kaschovia][/b]
 
+The Issue
+Over the last few weeks, protestors from the organisation Extraction Rebellion have been gluing their hands to buildings, defacing priceless paintings, and flinging dye bombs (and worse) at public buildings. After the steps to Parliament had several hundred kilos of cow manure dumped on them, your advisers have urged you to put your foot down.
 
-[hr][/hr]
+The Debate
+1.  "They just want to be heard..." remarks your Minister of Environment, @@RANDOM_NAME@@, dropping apple slices out of the window into one protestor's waiting mouth. "I mean, most of these 'criminals' are just concerned young people. They'll probably be distracted by whatever the 'trendy' issue is next week and forget what they were even angry about. What they really want is a dialogue and, at the very least, an agreement to reduce our coal usage. I can have a statement drafted in five minutes and this little problem will be gone."
+
+2. "Just agreeing to reduce coal usage does nothing!" bellows avid Extraction Rebellion spokesperson @@RANDOM_NAME@@, adorned in a high-vis jacket and hard hat with the prop store tags still attached. "We demand the immediate closure of all @@DEMONYM_ADJECTIVE@@ coal extraction facilities, without any decade-long mission objectives or backwards anti-protest measures! It's time to save our planet and protect our future!" @@HE@@ charges out of the room to rapturous applause from a crowd of paint-covered students outside.
+
+3. "These damned protestors!" sputters your Minister of Crime, @@RANDOM_NAME@@, frantically wiping red paint from @HIS@@ even redder face. "Not only do these people damage our reputation as a nation with manners, but they're outright laughing in the face of your authority! If peaceful and appropriate protest is not a part of their insufferable and relentless schedule, I'd say it's time we gave their most outspoken advocates a clear choice: their silence, or more... direct means of negotiation. A couple years in the coal mines should do the trick, right @@LEADER@@?"

@@ -24258,3 +24258,16 @@ The Debate
 *4. "Is it really that bad?" squeaks your mousy staff member @@RANDOM_NAME@@, hastily hiding a suspicious book from your line of sight. "I may disagree with the views of @@RANDOM_LAST_NAME_1@@, who's-definitely-a-bad-guy-don't-get-me-wrong, but this is a monumentally prestigious award. The other suggestions will make us look bad. I think we can briefly let @@HIM_1@@ out of prison and let @@HIM_1@@ travel just to get the award, accompanied by our escort and with @@HIS_1@@ acceptance speech pre-vetted first of course, as a gesture of goodwill. And maybe we can… uhh…" @@HE@@ quivers under the unblinking glower of the General. "Maybe we can listen to @@HIM_1@@ and relax the laws… a little?"
 
 *5. "Is it really that bad?" squeaks your mousy staff member @@RANDOM_NAME@@, hastily hiding a suspicious book from your line of sight. "I may disagree with the views of @@RANDOM_LAST_NAME_1@@, who's-definitely-a-bad-guy-don't-get-me-wrong, but this is a monumentally prestigious award. The other suggestions will make us look bad. I think we can let @@HIM_1@@ put out a message accepting the award, with it pre-vetted of course, as a gesture of goodwill. And maybe we can… uhh…" @@HE@@ quivers under the unblinking glower of the General. "Maybe we can listen to @@HIM_1@@ and relax the laws… a little?"
+
+[hr][/hr]
+[b][anchor=1643]#1643[/anchor]: Cicadas in Their Prime [Bear Connors Paradiso; ed: Candlewhisper Archive][/b]
+
+The Issue
+Hoards of clamoring, noisy and bug-eyed citizens have called upon the government to do something about an expected megaswarm of locusts this coming year.
+
+The Debate
+1. "These fascinating creatures only emerge to swarm at intervals of prime number years, and next year we're looking at the rare overlap of an 11-year and 19-year cycle," enthuses @@RANDOM_NAME@@, a @@MAN@@ with large, weirdly unblinking eyes and a hungry expression. "Sadly though, many wonderful specimens are not going to emerge from the ground because of cementing over of historic breeding habitats! We need to grab some jackhammers, and make @@NAME@@ better for the little guys!"
+
+2. "Ew! That's not the issue at all! These vile pests are ugly, destructive brutes!" wails @@RANDOM_NAME@@, a small @@MAN@@ with albinism, leaping forward and gnashing @@HIS@@ teeth. "These fiends cover every surface for hundreds of miles, destroying crops and young trees, an evil susurration filling the skies! The government should be helping us to get rid of these bugs once and for all, with pesticides sprayed widely and freely!"
+
+[3]. "Whoa, if you coat these things with toxic chemicals, you'll totally ruin the taste," complains @@RANDOM_NAME@@, picking dried cabbage from between @@HIS@@ teeth. "These locusts are a once in a generation gourmet treat! The government should require everyone to eat at least a dozen of them, so they don't miss out on the delicious umami goodness. Plus, this is a great natural way to keep their numbers down." [[color=red]Must not have Compulsory Vegetarianism[/color]]

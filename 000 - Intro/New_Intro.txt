@@ -42,6 +42,7 @@ Links and other resources:
 - [url=https://forum.nationstates.net/viewtopic.php?f=13&t=475174&p=36442927#p36442927]Valentine's NS Stats Trends and Correlations.[/url] Infrequently ran! ^^
 - [url=https://forum.nationstates.net/viewtopic.php?f=13&t=423697#p32501335]List of NPC nations and tribes.[/url] More about them, ran by Jutsa!
 - [url=https://forum.nationstates.net/viewtopic.php?p=32505621#p32505621]List of Religions and Cults.[/url] Ran by Jutsa!
+- [url=https://forum.nationstates.net/viewtopic.php?f=13&t=488462]List of Characters and Companies in Issues.[/url] Ran by Westinor!
 
 [b]MACROS[/b]:
 [b]@@A@@[/b] or [b]@@AN@@[/b]: Displays "a" or "an" depending on the word that follows (take: @@AN@@ @@MAJOR_INDUSTRY@@ worker)

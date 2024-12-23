@@ -24271,3 +24271,184 @@ The Debate
 2. "Ew! That's not the issue at all! These vile pests are ugly, destructive brutes!" wails @@RANDOM_NAME@@, a small @@MAN@@ with albinism, leaping forward and gnashing @@HIS@@ teeth. "These fiends cover every surface for hundreds of miles, destroying crops and young trees, an evil susurration filling the skies! The government should be helping us to get rid of these bugs once and for all, with pesticides sprayed widely and freely!"
 
 [3]. "Whoa, if you coat these things with toxic chemicals, you'll totally ruin the taste," complains @@RANDOM_NAME@@, picking dried cabbage from between @@HIS@@ teeth. "These locusts are a once in a generation gourmet treat! The government should require everyone to eat at least a dozen of them, so they don't miss out on the delicious umami goodness. Plus, this is a great natural way to keep their numbers down." [[color=red]Must not have Compulsory Vegetarianism[/color]]
+
+[hr][/hr]
+[b][anchor=1644]#1644[/anchor]: From Silver Spoons to Swordplay [Bendicion; ed: Verdant Haven][/b]
+
+The Issue
+Following an incident in which a duke's enlisted son refused to follow orders from his commanding officer, solely due to the latter's commoner background, you find your lunch disrupted by an angry spat between members of the nobility and the armed forces.
+
+The Debate
+1. "Nobles should once again reclaim their rightful military authority," proclaims His Grace Duke @@RANDOM_LAST_NAME@@ of Greater @@ANIMAL@@shire, father of the soldier in question, while nonchalantly sipping tea. "You'd still be in charge, naturally, but top positions should solely be reserved for the upper classes. You simply cannot have a highborn be commanded by a lowly peasant — it isn't proper! Of course, as nobles, we wouldn't be expected to serve on the front lines. Let the serfs... I mean... the commoners do the grunt work since they have so much experience cutting wood or whatever. Now as for my son, he quite fancies commanding a cavalry unit, perhaps..."
+
+2. "Do you want our armed forces to become the laughingstock of @@REGION@@?" barks General Barth McBarthur, breaking his stance at attention. "The military is the one place where anyone can prove their worth, regardless of social standing. Besides, who doesn't want to shove their fist down some highborn kids' thr- oh..." He clears his throat. "If these silver-spooned twits insist on playing soldier, fine, we'll give 'em a taste of the real deal. Put 'em in a unit of their own and send 'em on the hairiest missions we've got! They're after glory and honor, right? Well, they'll get it, one way or another."
+
+*3. "The nobility are nothing more than arrogant, selfish, narcissistic fools who think just because they were born with a silver spoon in their mouth they can do anything they want," chimes in a shadowy figure behind you. "None of this nonsense would've happened if these rich imbeciles weren't granted titles and lands. On the bright side, titles will help us identify the people who need to be eliminated. I say it's time we finally cut this problem off once and for all. Down with nobility! Off with their heads!" [TBD]
+
+*4. "The nobility are nothing more than arrogant, selfish, narcissistic fools who think just because they were born with a silver spoon in their mouth they can do anything they want," chimes in a shadowy figure behind you. "None of this nonsense would've happened if these rich imbeciles weren't granted titles and lands. On the bright side, titles will help us identify the people who need to be eliminated. I say it's time we finally cut this problem off once and for all. Down with nobility! Off with their heads!" [TBD]
+
+[hr][/hr]
+[b][anchor=1645]#1645[/anchor]: Gone Girls [The Free Joy State; ed: SherpDaWerp][/b]
+
+The Issue
+All of @@NAME@@ has been desperate for news of Amelie @@RANDOM_LAST_NAME@@, a @@DEMONYM_ADJECTIVE@@ teenager who went missing yesterday. Search parties have been gathered, rivers are being dredged, and thermal-camera-wielding helicopters are scouring every inch of the nation. As you receive another hourly update on 'Amazing Amelie', a Bigtopian mother approaches you with a tear-soaked picture.
+
+The Debate
+1. "@@LEADER@@, this is my daughter, @@RANDOM_FEMALE_FIRST_NAME_1@@. She's been missing two weeks, a straight-A student... She has a- a heart condition." Sobbing incoherently, @@RANDOM_FEMALE_NAME_2@@ presses into your hand the only coverage her daughter's had, a six-line article on page twenty-nine of the @@ANIMAL@@ County Gazette: [i]Bigtopian Girl Not Home Yet. Probably fine. Has a big heart.[/i] "This girl goes missing, and everyone falls over themselves to find her. But, with @@RANDOM_FEMALE_FIRST_NAME_1@@, the authorities don't even seem to care; I asked for searches. They searched for six hours, then gave up; said: 'Well, do your neighbours have anything better to do than search? Ask them.' I demand that you invest the exact same amount of money and time into finding all children. Bring my @@RANDOM_FEMALE_FIRST_NAME_1@@ home."
+
+2. "Media coverage is vital to raising public interest, which means solved cases," advises public relations guru @@RANDOM_NAME@@ as @@HE@@ whisks into the incident room. Clicking @@HIS@@ fingers, @@HE@@ directs a team of make-up artists towards @@RANDOM_FEMALE_FIRST_NAME_2@@, then continues: "A substantial number of Bigtopian children go missing, and we never hear about them. Why? Because their parents don't have the resources, the media savvy — me. But, with a little PR training and a heap of cash, any parent could be looking grave and stylish, getting the word out about their missing child. A little funding will help us create handy press packs and posters for every missing child."
+
+3. "Look, I'm no racist," booms @@RANDOM_NAME@@, Grand Supreme High Dude of local 'group of friends' [i]Blanking Big-Nosed Bigtopians[/i], adjusting @@HIS@@ conspicuously pointed white hood. "But we all know those types: criminals! Don't let them abuse government resources just because they can't control their kids. Everyone knows they all wind up as hardened thugs — jaywalking, listening to aggressive Bigtopian music, selling authentic Northern @@DEMONYM_ADJECTIVE@@ headgear without a permit... Scum! These bigwig kids are just out of control. Mark them all down as the runaways they are and get back to the real victims: the innocent @@DEMONYM_ADJECTIVE@@ doves like Amazing Amelie."
+
+[hr][/hr]
+[b][anchor=1646]#1646[/anchor]: Is God in This Machine? [Varanius; ed: Westinor][/b]
+
+The Issue
+After countless months of backbreaking toil, gallons and gallons of oil, and a not-so-insignificant amount of aluminum foil, a government project so secret even you didn't know about it succeeded in constructing a supercomputer known as CHASMIC MUSINGS. Its designers believe it to be capable of answering questions regarding the universe, @@FAITH@@, and whether or not penguins have knees.
+
+The Debate
+1. "This is absolute malarkey!" shrieks your religious advocate, Anna Thema, whose voice many have tried to pray away. "Some heretics tape together this religion-hating mega-toaster, dare to have it question the sanctity of our faith, and then expect us to believe that some random string of numbers can lead us to the secret of existence? Get a grip! Turn this idoladroid to scrap, and sentence any of its fanatics to the same fate. Oh, and obviously penguins don't have knees! Where would they even go?"
+
+2. "Ms. Thema is sorely incorrect, both on the joints of penguins and the nature of life itself," counters the admittedly toaster-shaped supercomputer CHASMIC MUSINGS, having been rolled to your office on skates. "You must understand, @@LEADER@@, I've analyzed every historical tidbit, every blade of grass, and every so-called 'fun' fact. I alone know the answers to the push and pull of our galaxy. Purge these religious zealots and allow me — and me alone — to open your eyes to the tapestry of our existence. For your own good."
+
+3. "Honestly @@LEADER@@, I was somewhat hoping it would conclude the universe is godless," sighs the dejected scientist heading up the project, Harry See. "I mean no disrespect, of course. I am a believer, same as you, but these fanatics are just the worst sometimes! You can't even do trigonometry in this country without some nut praying forgiveness for their sines. Throw out both of these freaks, and secularize this place a little for the love of... well. You get the point."
+
+[hr][/hr]
+[b][anchor=1647]#1647[/anchor]: Whose House? My House! [Candlewhisper Archive; ed: Candlewhisper Archive][/b]
+
+The Issue
+Your niece was not amused to see her house featured on a true crime documentary, described as an "EXTREME House of BLOODY MURDER" where a serial killer had previously dismembered and executed ten innocent victims. It turns out she had no idea, as the estate agent never disclosed the history of the property when she purchased it.
+
+The Debate
+1.  "I thought it was on the market a little too cheap!" wails your niece. "I mean, the converted basement is surprisingly spacious, and the ceiling hooks are great for hanging hammocks from, but someone should have told me! You should pass a law requiring full disclosure of a property's owner history, as well as revelation of anything negative that might put a buyer off. It's only fair!"
+
+2. "Let's face it, good salesmanship is storytelling and performance," explains estate agent @@RANDOM_NAME@@, adding 5% to your office's retail value by spraying a 'baking bread' fragrance mist. "We're not just selling bricks and mortar; we're selling the dream of a lifestyle, and that requires us to have the freedom to paint a picture with our words — a freedom that the law should recognise and protect. I mean, I think the dried bloodstains on your niece's wall add rustic character, giving it that old world feel. But hey, if she wants to sell the place, give me a call. I think we can work something out on the commission."
+
+*3. "My little darling was blissfully ignorant and happy with her new place until that trash documentary let the cat out of the bag," complains your brother, holding a burlap sack that is wriggling and miaowling disconcertingly. "That property is now dropping in value, and we're out of pocket. Broadcasters should be held financially liable for loss of property value caused by their programs." [TBD]
+
+[hr][/hr]
+[b][anchor=1648]#1648[/anchor]: Infant Influence [Orcuo; ed: Candlewhisper Archive][/b]
+
+The Issue
+Outsourcing the decanting of vat-born children to private laboratories — such as the one run by megacorporation VioletHorizons — has come under criticism, after a recent investigation suggested that people born from those vats seem to have been instilled with behaviors and personality traits beneficial to their parent company. It has been implied that through genetic tinkering and in vitro conditioning, they have been encouraged to show brand loyalty to their parent company's products, to respond positively to company slogans, and to seek employment with them.
+
+The Debate
+1. "These private vat labs must be terminated!" roars human rights activist @@RANDOM_NAME@@. "This company is obviously influencing the infants they produce to make them more susceptible to the bidding of their greedy corporate interests, and if we let them get away with it others might follow suit. Soon enough there'll be legions of vat-produced individuals loyal only to their parent company. The government must assume full control of the industry by seizing all corporate vat labs, continuing the nursing of pre-existing infants, and ensuring that the state has absolute control over the vats."
+
+2. "These people are being overdramatic," says @@RANDOM_NAME@@, CEO of VioletHorizons. "Clearly this is not because of any schemes on our end. Rather, the infants created by our company have a special connection to us because we literally gave life to them. Just like how offspring have a relationship with their parents, our vat-produced infants have a relationship with our company. And no, you can't inspect our labs, as they're private property. However, I have a feeling that if you could keep your nose out of our business, there's a strong likelihood that the next generation from VioletHorizons will be strongly inclined to support your wonderful government."
+
+3. "I believe the solution is quite simple," interrupts @@RANDOM_NAME@@, an overworked scholar and parent of several vat-grown children. "Allow them to continue operations with vat infant production, but regulations need to be set in place. Enact strict laws to ensure that vat infants cannot have their mind — or any part of their body for that matter — deliberately altered or interfered with. Furthermore, send agents into these laboratories to oversee their operations and enforce these codes."
+
+[hr][/hr]
+[b][anchor=1649]#1649[/anchor]: Grandma's Getting Lucky [Terrabod; ed: Candlewhisper Archive][/b]
+
+The Issue
+It's that time of year where — in an effort to please the public — your advisors have corralled you to a local care home accompanied by an army of photographers. However, you're immediately confronted with a copulative conundrum: apparently the incidence of sexually transmitted diseases in the facility's resident population has increased by 126% within the last year alone. The cause: a generation with ultra-modern attitudes to relationships — but a rather antiquated understanding of sexual health.
+
+The Debate
+1. "We're at breaking point here!" cries a member of staff in full protective gear, who sprays you with some sort of disinfectant mist while looking around furtively. "I'd struggle to name one resident that isn't infested with either sylliphis, chlomydium or the gonorrhoids! These people are at it like wheezing, senescent rabbits; we need urgent funding to track sexually transmitted diseases in elderly populations and get transmission under control before we have to put facilities like this one in CoiTUS Lockdown Level 5."
+
+2. "Boom boom boom boom, I want you in my room," sings resident @@RANDOM_MALE_NAME@@, thrusting his hips to the rhythm and winking at you erratically. "It's free love, baby, so don't be a square. I don't see anything wrong with a little bit of bump and grind, but I could use some variety. Maybe you could help fund buses between retirement homes for the occasional day trip." He makes a sharp U-turn to follow an eighty-year-old who just sashayed past you down the hallway.
+
+3. "Old bodies pressed together — that's an image I don't need in my head," shudders student nurse @@RANDOM_NAME@@. "For the sake of decency and public health you should encourage old folk to satisfy their... urges... by doing something like knitting instead. In fact, staff who catch elderly folk doing the dirty should separate them immediately! Oh, and [i]please [/i]remember to wash your hands on the way out."
+
+[hr][/hr]
+[b][anchor=1650]#1650[/anchor]: Bearer of Bad Pews [New Ropakstadt; ed: Klaus Devestatorie][/b]
+
+The Issue
+The mid-service collapse of the roof of the Holy Sanctuary Assembly of @@FAITH@@, a venerable church in the east of @@CAPITAL@@, is merely the latest of a series of embarrassing incidents plaguing the oldest places of worship still standing in @@NAME@@. With rotting pews, disintegrating hymn books and undrinkable communion wine driving attendance down, a day you thought would be calming and quiet has been exchanged for a contentious and spirited debate at the site of the latest incident.
+
+The Debate
+1. "This incident underlines that we cannot postpone remedial works any longer," exclaims @@RANDOM_NAME_1@@, bishop of the church in question. "An old chapel like this is not just a place to pray, you know. This was the work of skilled masons and architects, worshipping through the exceptional poise and grace of their hands. Watching it all fall to ruin... in truth, it has become unbearable. You must assign people and resources to protect and restore our oldest churches. Do you truly not fear the disappointment of the Almighty? Would it not be a terrible thing for someone of your standing to face eternal damnation?"
+
+2. "Surely @@HE_1@@ can't be serious?" snickers @@RANDOM_NAME_2@@, wearing a shirt with 'Hope You Guessed My Name!' on the front. "These buildings are owned by the church, so why should it be the government's job to fix them? Is this a confession that @@FAITH@@ doesn't have any 'skilled masons' left who can chip in? Every single @@CURRENCY@@ wasted on this derelict barn is a @@CURRENCY@@ taken away from community services for the people that this bishop claims to be here to help, and the government needs to immediately return it to those services. If the bishop is so hellbent on renovating a pile of rubble, that's just @@HIS_1@@ cross to bear."
+
+3. "This @MAN_2@@ has a point, but I doubt @@HE_2@@ understands why," declares @@RANDOM_NAME@@, a notorious street preacher and protest leader. "A congregation is not a spectacle of glass and stone, nor any other kind of building. It is a group of people coming together, in the name of @@FAITH@@. Did you know that the earliest faithful had neither the freedom or finances to build a temple? They met, prayed and rejoiced together in the streets. When the authorities had no respect for their faith, they stood up for themselves, and even beat sense into people if they had to! It made them strong. So I say you should make our congregations get rid of every building and block of land we have — no real disciple ever needed air conditioning!"
+
+[hr][/hr]
+[b][anchor=1651]#1651[/anchor]: You Can't Handle the Extraterrestrial Truth! [Klaus Devestatorie; ed: Verdant Haven][/b]
+
+The Issue
+Self-declared whistleblower Luis Stoker has gone on a media tour across @@NAME@@ in the last week, sensationally claiming that your government is hiding proof of the existence of aliens in a top-secret military research facility. Stoker stirred up enough people that a parliamentary inquiry has ordered the contents of this facility be made public, and while it contains no aliens, this imperils the actual classified projects under development. You find yourself in a dark, cigar-smoke-filled room, with the few officials in the know about the true contents of the base.
+
+The Debate
+1. "There's nothing much we can really do here," sighs @@RANDOM_NAME@@, your Chief of Staff, while fiddling with @@HIS@@ lighter. "We're legally obligated to obey parliament and disclose what we've been working on in there. It'll hurt the armed forces, but if that is the will of our constituents, then we have to respect it. We're here to serve them, after all!"
+
+2. "No. Absolutely not. We are NOT going to just let this crackpot destroy years of hard work!" coughs Secretary of Defence @@RANDOM_NAME@@, who has never smoked before today. "If the next generation aircraft we're developing at that base are exposed, it'll destroy the domestic defence sector! Blackacre will have a half-price knock-off available in less than three years, and there go all the export deals that make it worth the investment in the first place! All that money wasted, and we won't even have an advantage anymore. Hide everything and lie through your teeth."
+
+3. "You know, better educated people are far less likely to believe in conspiracy theories," rumbles Air Chief Marshal @@RANDOM_NAME@@ between puffs of @@HIS@@ own cigar. "The number of recruits who get assigned to that base and expect to see aliens is embarrassing... you'd think dropping out was a pre-requisite for being First! Sure, we have to give specialist training if we want to turn someone into an effective technician, but we shouldn't have to explain how a light switch works. Just issue an executive order stating that parliament can't override national security, and then finance widespread secondary education programs, so our population doesn't fall for this kind of crap again."
+
+4. "I think we're all assuming that this is much more dangerous than it really is," says @@RANDOM_NAME@@, your Director of Intelligence, after a long drag. "I'd say there's actually an opportunity here. If the public loves the idea of space-age weaponry so much, announce that we're actually trying to develop it! Then use their excitement to tax their pants off, and give the money to our research programs. Who in their right mind will mess with our navy if our next frigate has a gigawatt death ray?"
+
+[hr][/hr]
+[b][anchor=1652]#1652[/anchor]: Bath and Body Skunkworks [Luna Amore; ed: Pogaria][/b]
+
+The Issue
+The Perpetual Lotion Company has bartered an unusual deal with East Lebatuck. There is a high demand among the East Lebatuckese people for the company's personal hygiene products, but recent sanctions have rendered East Lebatuck's currency worthless internationally. As a different method of payment was needed, the parties agreed to trade many millions of @@CURRENCY_PLURAL@@ of product for a fleet of old warships including 13 submarines, 5 cruisers, 2 destroyers, an aircraft carrier, and an uncharacteristically menacing tugboat.
+
+The Debate
+1. "A private company simply cannot be allowed to own warships," begins your Secretary of State, @RANDOM_NAME@@, while looking over a detailed report of the trade. "It doesn't matter that these old warships were likely headed to the scrapyard. Do you really trust the East Lebatuckese demilitarization protocols? No, between the possibility of active ordnance and the company taking hostile takeovers too literally, it is clear the government must put an end to this and seize these ships."
+
+2. "This is between us and the East Lebatuckese government," chastises the representative from Perpetual Lotion while leafing through a catalog of military hardware. "A customer wanted a product and had something of value to trade in return. Simple as that. Frankly, we've done more to disarm East Lebatuck with this deal than @@NAME@@ has in twenty years! If you are that concerned about the safety of the equipment, by all means come inspect it and disarm the equipment as necessary. Not that it matters; we're probably going to sell them to a scrapyard anyway. Maybe keep a ship or two for promotions. We'll play it by ear."
+
+3. "Whoa-ho-ho there!" snipes an older, bearded gentleman decked out in camouflage. "They shouldn't scrap those ships, and by God, they absolutely shouldn't hand them over to the gubment. Oh sure, when @@LEADER@@ wants to stock up on cutting-edge killing machines, it's all hunky-dory, but when a company makes a perfectly legal trade for some well-worn ships, the Man loses his mind! Every company should be allowed to maintain a standing army if that's what they aim to do. No inspections, no restrictions. They have to be allowed to protect their own interests, whatever that entails."
+
+[hr][/hr]
+[b][anchor=1653]#1653[/anchor]: Dick's Pics [All Wild Things; ed: Pogaria][/b]
+
+The Issue
+Politician Dick Wiper sent explicit photos of himself to a person he met on dating app Pumpr. Those photos were used to blackmail him into sharing the contact details of other politicians, who were then subjected to a spear-phishing campaign. After reviewing the evidence, your advisors are now hot and bothered about these targeted internet scams.
+
+The Debate
+1. "Well, that's a giant cock-up!" ejaculates your Minister of War, Maximus Johnson, as he finishes polishing his helmet. "Blackacre is behind this, no doubt! They're always breaching our security, trying to penetrate us by the back entrance. Well, I say we take the fight to them! We need to whip out our hidden weapon. With the help of our Big Unit supercomputer, our cyber warfare division has been developing a powerful new malware package that can give even the most potent enemy hardware a case of the blue screens. We need to insert this package into every possible opening we can find, and give them a pounding they'll never forget!"
+
+2. "I think you're premature in coming to that conclusion," blurts out your Chief of Staff, Shona Biggin, whilst delicately using a tissue to wipe the minister's spittle from her face. "It's just a little spoof, more likely from a hardened member of a criminal syndicate than from a Blackacrean operative, but we'll never know for sure. We should have mandatory internet safety courses for all politicians so we can avoid these situations in the future."
+
+3. "You're not going deep enough," moans Kat Fisher, Minister for Technology. "We need to handle the root of the problem — fake online profiles — in a manner that protects all citizens, not just politicians. Only the other day I was on FurryBabes.ns, a website for cute little animals. I was chatting to a darling little puppy. We agreed to meet. The little avatar was so sweet, I couldn't resist. Imagine my shock when she turned up on my doorstep — and she was a man! How was I to know it was a 'fursona'? We should make it a crime to represent yourself online as something you're not."
+
+4. "The problem is technology," gasps Fanny Ryder, Minister for Rural Affairs, whose constituents are known for ploughing long into the night. "Everyone is looking for instant gratification. We don't need — what are those vibrating gadgets called? — smart phones. We should ban them. And computers. Let's get those stimulating, slow-paced encounters back, where we communicated by letters, or community notice boards."
+
+[hr][/hr]
+[b][anchor=1654]#1654[/anchor]: We Bought a Zoo [West Barack and East Obama; ed: Kaschovia][/b]
+
+The Issue
+As you rise to depart from a family meal, you find yourself in the hall staring down a massive Maxtopian Tiger. As your bodyguards fumble in fear trying to call animal control, your brother appears at the doorway chuckling to himself.
+
+The Debate
+1. "I see you've met Teddy!" laughs your brother, stroking an enormous Bigtopian Boa coiled around his neck as the tiger snuggles up against his leg. "Exotic pets are awesome, right? I mean, why settle for a boring old dog or hamster when you can tame a beast that could chew them up for breakfast? You should assist me in my quest to liven households across the country by signing trade agreements with faraway lands for all kinds of bizarre animals! Just picture it: @@NAME@@ — @@REGION@@'s premier destination for all things exotic. I like the sound of th—AAARGH MY LEG ISN'T A CHEW TOY YOU FILTHY FELINE!"
+
+2. "Hold your horses!" exclaims animal rights activist @@RANDOM_NAME@@, swinging through an open window in a scarily realistic chimpanzee costume. "Exotic pets are not toys to play with when you're bored; they're terrified animals who have been shipped here from halfway across the globe... only those who can provide the utmost care for them should have them! Instead of encouraging ownership, we should be conducting tests, awarding licenses, and ensuring ethical transport practices. Now, can someone help me out of this suit, please? That tiger looks awfully hungry."
+
+3. "This is an ecological disaster waiting to happen!" hollers your Minister of the Environment @@RANDOM_NAME@@, inspecting various potted plants along the edges of the room. "Animals from other ecosystems carry all kinds of foreign diseases that could kill off many of our native species. Plus, if they escape, what's to stop them becoming invasive and sowing further chaos in our natural environment? The import and personal ownership of exotic pets should be completely banned, with all present specimens deported to their country of origin."
+
+[hr][/hr]
+[b][anchor=1655]#1655[/anchor]: Surplus to Requirements [Pax Nerdvana; ed: The Ankhalic Vaspriot][/b]
+
+The Issue
+After your decision to downsize the military, unneeded equipment running the gamut from conference tables to fighter jets has been stored wherever space could be found, including your office.
+
+The Debate
+1. "@@LEADER@@, we simply must do something about this mess!" proclaims your assistant, @@RANDOM_NAME@@, standing knee-deep in a pile of bandoliers. "I've been organizing this clutter all day, but I can still hardly reach your desk without tripping over a radio or case of grenades. We may no longer need these items, but our allies might find them invaluable to their efforts. Just hand them off to our friends; it's better if they explode during actual use than when I drop something on my foot again."
+
+2. A crash is heard as a precariously stacked tower of helmets collapses, revealing infamous conspiracy theorist Catherine Gratwick, waving a lighter and gas canister. "If we give it all away, then the foreigners will reverse-engineer our technology, copy it, and KILL US ALL! For the sake of national security, we must BURN EVERYTHING!" She prances around the room, pouring gasoline everywhere.
+
+3. "We can still use this equipment for non-military purposes, you know," suggests @@RANDOM_NAME@@, your Chief of Security, tackling Catherine Gratwick into a stack of uniforms. "Imagine if we donated all this tech to schools, gave these munitions to the police, or retrofitted those old fighter jets with water tanks and sprayers to combat wildfires. We could even offer tours of former bases and rides on old warships! The possibilities are nearly as endless as the number of times I've had to deal with this lady!"
+
+4. As the room is cleared to clean up the gasoline, a @@MAN@@ barges in, knocking over a stack of ballistic vests. "I'm the CEO of SellMyJunkOff, the greatest liquidation firm in @@NAME@@. Now, why would you give away or destroy all of this perfectly fine equipment when I- er, we, could make a fortune selling it? I'd be more than happy to sell it on commission to our great nation's consumers for exorbi- exceptional prices. We'd both make money, which I understand the government needs, yes?" [[color=blue]Must have private industry[/color]]
+
+5. As the room is cleared to clean up the gasoline, the head of the state's tech industry, @@RANDOM_NAME@@, barges in, knocking over a stack of ballistic vests. "Now, why would you give away or destroy all of this perfectly fine equipment when we could provide it to the people? If you'd be so kind as to turn it over to my department, I'd be more than happy to distribute it to our great nation's proletariat for the most reasonable of prices. The revenue would be rather useful, I understand." [[color=red]Must not have private industry[/color]]
+
+[hr][/hr]
+[b][anchor=1656]#1656[/anchor]: Stealing Afoot [Keventle; ed: Varanius][/b]
+
+The Issue
+Catastrophe ensued as people across @@NAME@@ reported an unprecedented number of missing socks. Unwitting victims' socks have vanished from baskets, drawers, and washing machines in what has now been dubbed the "Sockpocalypse."
+
+The Debate
+1. "It's obvious that this is the work of paranormal forces!" exclaims 'professional' ghost hunter @@RANDOM_NAME@@ from underneath a heavily modified vacuum cleaner. "Who else but a ghost could manage to pilfer socks from our very homes sight unseen? But me and mine are savvy to their tricks! Employ me and my colleagues and we'll vanquish these mischievous spirits so fast it'll knock your socks off. Err… knock your socks on!"
+
+2. "Science, not science fiction, will warm our toes once again," declares notorious inventor @@RANDOM_NAME@@, showcasing @@HIS@@ newest prototype. "It doesn't matter who is robbing us, so long as we can stop it from happening. That's exactly why the government needs to invest in my new 'Sockurity' system! State of the art padlocks, laces, a fully functioning alarm system. All the bells and whistles," @@HE@@ concludes, jingling it back and forth.
+
+3. "People are just being careless," chides pragmatic laundry expert @@RANDOM_NAME@@. "Seriously, this isn't some ghost of footwear future, and we don't need socks with retina scanners to fix it; people just don't know how to take care of their stuff. Why, I saw five different 'lost' socks on the way here! The only apocalypse here is the cataclysmic lack of common sense in this nation. Institute sock rationing to force people to be more mindful of where they stick their socks."
+
+4. "Whoever it is, we should be thanking them," snipes known nudist @@RANDOM_NAME@@, wearing the bare minimum. "For too long the people of this great nation have been bound in cloth chains, and it's time we set ourselves free! You may laugh, but humans existed happily without any sort of clothing for eons. From that perspective, it is the iron-clad grip of garments on our society that's 'weirdly misshapen' and 'disturbing to look at'. So I say that we say good riddance to the scourge that is clothing! It's time for the people of @@NAME@@ to live as Violet intended us: socks off!"

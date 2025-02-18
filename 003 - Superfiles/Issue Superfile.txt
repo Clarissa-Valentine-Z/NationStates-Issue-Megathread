@@ -20494,7 +20494,7 @@ The Debate
 3. Before anyone else can speak, your rarely seen Minister of Mass Destruction, Dr. Helix Fenniker, climbs down a rope ladder that has just descended from the ceiling. "I couldn't help overhearing that we have a belligerent enemy and a captured pilot. Allow me to introduce 'ICE-X' — my lab's solution to both of those problems. This breakthrough bio-weapon destroys cell walls via a rapid crystallization process. Deployment is easy — we've already loaded the canisters into some modified cruise missiles. Our warships can fire them at the enemy bases with impunity! Of course, any 'innocent' civilians or animals that are exposed to the residue will experience catastrophic organ failure. But look on the bright side! Our pilot won't be able to divulge any secrets, and most of the enemy troops will be eliminated!"
 
 [hr][/hr]
-[b][anchor=1386]#1386[/anchor]: [color=#CE532A][i]MADness:[/i][/color] The Spy Who Tricked Me [Pogaria; ed: Pogaria] [Pogaria; ed: Pogaria][/b]
+[b][anchor=1386]#1386[/anchor]: [color=#CE532A][i]MADness:[/i][/color] The Spy Who Tricked Me [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
 Your secret agent has been sent to infiltrate the enemy's missile storage sites.
@@ -20510,7 +20510,7 @@ The Debate
 3. Before anyone else can speak, your rarely seen Minister of Mass Destruction, Dr. Helix Fenniker, climbs down a rope ladder that has just descended from the ceiling. "I couldn't help overhearing that we have a belligerent enemy and a captured agent. Allow me to introduce 'ICE-X' — my lab's solution to both of those problems. This breakthrough bio-weapon destroys cell walls via a rapid crystallization process. Deployment is easy — we've already loaded the canisters into some modified cruise missiles. Our warships can fire them at the enemy bases with impunity! Of course, any 'innocent' civilians or animals that are exposed to the residue will experience catastrophic organ failure. But look on the bright side! Most of the enemy troops will be eliminated. Furthermore, I'm sure Bont will escape in time like he always does — and if he doesn't make it, he won't be able to divulge any secrets!"
 
 [hr][/hr]
-[b][anchor=1387]#1387[/anchor]: [color=#CE532A][i]MADness:[/i][/color] The @@DEMONYM@@ with the Golden Gun [Pogaria; ed: Pogaria] [Pogaria; ed: Pogaria][/b]
+[b][anchor=1387]#1387[/anchor]: [color=#CE532A][i]MADness:[/i][/color] The @@DEMONYM@@ with the Golden Gun [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
 Your government offered to trade prisoners with East Lebatuck.
@@ -20525,7 +20525,7 @@ The Debate
 2. You have arrived at the agreed-upon location, a bridge that spans the border between Smalltopia and East Lebatuck. Their spy, who is still wearing handcuffs and a @@DEMONYM_ADJECTIVE@@ prison uniform, dutifully shuffles alongside you as you exit your car. The night air seems colder than usual for this time of year. After a few minutes, an armored personnel carrier drives over from the other side of the bridge, with lackeys in suits running alongside the vehicle. A phalanx of bodyguards armed with automatic rifles jump out of the vehicle and point their weapons at you as East Lebatuck Chairman Joseph Rushev steps out of the back. He pulls a hooded, disheveled figure out of the vehicle, who slumps to the ground, unconscious. Your own prisoner starts walking toward his people. "Come here, Comrade Adel. The imperialists can't hurt you anymore," smirks Rushev, who turns to face you. "So, I must ask... how stupid are you? Now I get to swap a useless prisoner for the leader of @@NAME@@! How much money do you think your government is willing to pay to get you back?" Without warning, the guard furthest to the right suddenly pivots and unleashes a barrage of bullets into the other guards, who are cut down before they realize what is happening. The rogue shooter removes his helmet, revealing the handsome face of James Bont. Rushev yanks the hood from the unconscious prisoner at his feet and yelps upon recognizing his own bodyguard. Your secret agent runs over to your position, keeping his rifle pointed at Chairman Rushev, and pulls out a phone. After dialing a number, he listens intently for a moment before a loud burst of static disrupts the silence. "Looks like your plans are shot, comrade!" announces Bont, mockingly. "I've just detonated all of the hidden explosives that I planted on your missiles on San Vitenzo. Consider yourself impotent! I suggest you head on home, or the next bullet that comes out of this gun is going to get a little Red." Bont turns toward you as Chairman Rushev jumps back into his vehicle and slinks away towards the other side of the bridge. "Let's go home, shall we?"
 
 [hr][/hr]
-[b][anchor=1388]#1388[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Tomorrow Never Arrives [Pogaria; ed: Pogaria] [Pogaria; ed: Pogaria][/b]
+[b][anchor=1388]#1388[/anchor]: [color=#CE532A][i]MADness:[/i][/color] Tomorrow Never Arrives [Pogaria; ed: Pogaria][/b]
 
 The Story So Far
 You have ordered an attack on East Lebatuck's military bases in San Vitenzo.

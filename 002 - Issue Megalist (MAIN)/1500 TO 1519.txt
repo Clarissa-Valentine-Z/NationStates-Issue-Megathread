@@ -173,11 +173,11 @@ The Debate
 
 2. Your sister, here to deposit pamphlets about her latest good causes, smiles imploringly. Nudging forward a brochure of a tiny child holding out his empty bowl, she sighs, "So very generous."
 
-3. Minister of Bootstraps Sun Payne throws your sister's pamphlets off the table and drops a spending review entitled 'Cutting Welfare Wastage' before you, rapping it. After a cough, she booms, "Exceptional financial prudence."
+3. Minister of Bootstraps @@RANDOM_NAME@@ throws your sister's pamphlets off the table and drops a spending review entitled 'Cutting Welfare Wastage' before you, rapping it. After a cough, she booms, "Exceptional financial prudence."
 
 4. A woman with three surprisingly well-fed cats in a shopping trolley staggers into your room, coughing up hairballs. Floating up to your desk, she picks up the spending review and places it gently beneath the cats. After staring wide-eyed at your unfinished profile, she laughs loudly. "Kind to animals."
 
-5. Environment Minister Beyonce Warner removes the spending review from the shopping trolley and places it in the recycling. Dramatically sweeping some crumbs from your desk for composting, she announces, "Clean, green machine."
+5. Environment Minister @@RANDOM_NAME@@ removes the spending review from the shopping trolley and places it in the recycling. Dramatically sweeping some crumbs from your desk for composting, she announces, "Clean, green machine."
 
 [6]. Your niece — recently kicked out of a closed religious order for being overly zealous — totters over to you, bedecked in so much religious iconography that she can barely move. Lips clamped at the sides, she declares, "Perfectly pious person." [[color=purple]Must have low religiousness without Atheism[/color]]
 

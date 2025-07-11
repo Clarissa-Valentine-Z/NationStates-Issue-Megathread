@@ -17564,9 +17564,9 @@ The Issue
 You have come to your office this morning to find that your tea hasn't been brewed, your meeting schedule hasn't been laid out, and your plants haven't been watered. There has been a delay in everything as your assistant, @@RANDOM_FEMALE_NAME_1@@, has been slacking off work today because it is her 'time of the month.'
 
 The Debate
-1. "I can't take it any more @@LEADER@@!" wails @@RANDOM_FEMALE_NAME_1@@, plumping down on your chair in her pajamas — then taking a sip from her chamomile tea and rubbing her belly. "For some women like me, periods are too bloody painful to concentrate on work. All female employees should have a right to paid menstrual leave for up to five days every month. Period. This way, instead of writhing in pain in our workplaces with little to no productivity, we can go shop — err, I mean, take a warm, relaxing shower and rest."
+[1]. "I can't take it any more @@LEADER@@!" wails @@RANDOM_FEMALE_NAME_1@@, plumping down on your chair in her pajamas — then taking a sip from her chamomile tea and rubbing her belly. "For some women like me, periods are too bloody painful to concentrate on work. All female employees should have a right to paid menstrual leave for up to five days every month. Period. This way, instead of writhing in pain in our workplaces with little to no productivity, we can go shop — err, I mean, take a warm, relaxing shower and rest." [[color=red]Must not have mandatory nudity[/color]]
 
-2. TBD
+2. "I can't take it any more, @@LEADER@@!" wails Daenerys North, plumping down on your chair, taking a sip from her chamomile tea and rubbing her belly. "For some women like me, periods are too bloody painful to concentrate on work. All female employees should have a right to paid menstrual leave for up to five days every month. Period. This way, instead of writhing in pain in our workplaces with little to no productivity, we can go shop — err, I mean, take a warm, relaxing shower and rest." [[color=blue]Must have mandatory nudity[/color]]
 
 3. "Oh, cry me a river!" exclaims @@RANDOM_MALE_NAME@@, your misogynistic Minister of Finance, while rolling his eyes at @@RANDOM_FEMALE_NAME_1@@. "Do you have any idea how much money these 'menstrual vacations' will cost our taxpayers? But no, these snivelling moaners find a new thing to whine about every day: they want breastfeeding breaks, employment quotas, and now this! Hey, my mother was a woman too, but she never complained about anything. When she was pregnant with me, she worked on our cotton field for 12 hours a day, even if it was her time of the month! Do away with this sex-based discrimination and abolish all special concessions to women. And tell this whimperer to take a painkiller — then get back to work!"
 
@@ -22475,11 +22475,11 @@ The Debate
 
 2. Your sister, here to deposit pamphlets about her latest good causes, smiles imploringly. Nudging forward a brochure of a tiny child holding out his empty bowl, she sighs, "So very generous."
 
-3. Minister of Bootstraps Sun Payne throws your sister's pamphlets off the table and drops a spending review entitled 'Cutting Welfare Wastage' before you, rapping it. After a cough, she booms, "Exceptional financial prudence."
+3. Minister of Bootstraps @@RANDOM_NAME@@ throws your sister's pamphlets off the table and drops a spending review entitled 'Cutting Welfare Wastage' before you, rapping it. After a cough, she booms, "Exceptional financial prudence."
 
 4. A woman with three surprisingly well-fed cats in a shopping trolley staggers into your room, coughing up hairballs. Floating up to your desk, she picks up the spending review and places it gently beneath the cats. After staring wide-eyed at your unfinished profile, she laughs loudly. "Kind to animals."
 
-5. Environment Minister Beyonce Warner removes the spending review from the shopping trolley and places it in the recycling. Dramatically sweeping some crumbs from your desk for composting, she announces, "Clean, green machine."
+5. Environment Minister @@RANDOM_NAME@@ removes the spending review from the shopping trolley and places it in the recycling. Dramatically sweeping some crumbs from your desk for composting, she announces, "Clean, green machine."
 
 [6]. Your niece — recently kicked out of a closed religious order for being overly zealous — totters over to you, bedecked in so much religious iconography that she can barely move. Lips clamped at the sides, she declares, "Perfectly pious person." [[color=purple]Must have low religiousness without Atheism[/color]]
 
@@ -24642,7 +24642,7 @@ The Debate
 
 2. An awkward teenager with facial blemishes and broccoli-shaped hair scrolls through ShortTok for 17 seconds before realizing where he is. After a moment, he mumbles, "Firstly, let us watch whatever we want. Like, dude, I thought this was a freedom-having nation. If you ban short videos, that would be going against our rights and freedoms, wouldn't it? Fourthly, ShortTok actually, like, educates and teaches people. School sucks, but these videos have... a bunch of infor... m... action. Check this one out." He mutters something truly unintelligible before taking off, bumping into several people on his way out.
 
-3. "Just banning the apps that distribute short-form content is far too modest," scoffs Yggdrasil Academy history teacher Oprah Berlusconi, previously cautioned for physical misconduct against a student. "Why do these youngins even need them dastardly small-screen doohickies? Just look at what they've done to him! They're the root of all the decay with young people in this day and age. Those devices poison you when you're still blooming; they strangle you by the neck, take your attention and consciousness hostage, and rob you of your precious time on our nation's great, green pastures! Ban minors from using 'smart' devices altogether and put those who don't comply behind bars!"
+3. "Just banning the apps that distribute short-form content is far too modest," scoffs @@REGION@@ Academy history teacher Oprah Berlusconi, previously cautioned for physical misconduct against a student. "Why do these youngins even need them dastardly small-screen doohickies? Just look at what they've done to him! They're the root of all the decay with young people in this day and age. Those devices poison you when you're still blooming; they strangle you by the neck, take your attention and consciousness hostage, and rob you of your precious time on our nation's great, green pastures! Ban minors from using 'smart' devices altogether and put those who don't comply behind bars!"
 
 4. "Listen, I really don't care what people watch, but I'm certainly wary of malicious foreign actors!" exclaims full-time conspiracist and part-time sixty-three-year-old Nigel Lincoln, waving mini @@DEMONYM_ADJECTIVE@@ flags in your face. "D'ya wanna know who owns the parent company of the ever-so dubious ShortTok? That's right... Dàguó! Their 'privacy' policy is over seven-hundred pages long for a reason... so they can harvest the data of @@DEMONYM_ADJECTIVE@@ citizens who don't read it! Don't even get me started on that Flipstagram shmuck Karl Muckstaberg or whatever his name is... in my mind there's only one fitting solution: ban foreign social media apps completely and mandate the creation of fully @@DEMONYM_ADJECTIVE@@ government run platforms, for the sake of the @@TYPE@@!"
 
@@ -24675,56 +24675,220 @@ The Debate
 4. "All this drama just serves to confirm that religion is stupid," declares podcaster @@RANDOM_NAME@@. "Are we genuinely expected to tolerate their belief that the world was dominated by @@ANIMAL_PLURAL@@, and that a so-called 'goddess' killed and ate them, and then gave the world to us? Yeah, sure. If anyone in our government ever feels like using logic and reason for once, we should ban all religions, tribal or not, and put an end to this madness."
 
 [hr][/hr]
-[b][anchor=1663]#1663[/anchor]: TBD[/b]
+[b][anchor=1663]#1663[/anchor]: It's All in the Cards [GeodesicDragon; ed: Baggieland, USS Monitor, The Ankhalic Vaspriot][/b]
 
+The Issue
+A trading card game portraying the various nations of the multiverse — @@NAME@@ being among them — has become the latest craze in schools across the country. However, some parents and teachers are claiming it has a bad influence on children.
 
-[hr][/hr]
-[b][anchor=1664]#1664[/anchor]: TBD[/b]
+The Debate
+1. "This game may seem harmless, but children are buying and selling these cards when they are supposed to be learning," explains @@RANDOM_NAME@@, a concerned parent who has been campaigning against the card game. "It's a huge distraction, and the cards are stacked against children from less affluent families who are being bullied for not having the rarest cards. Just the other day, I caught my son going through my purse, and when I questioned him he mumbled something about 'farming those legendaries' and stormed off to his room. This game is turning our children into thieves and addicts, and I urge you to ban it immediately!"
 
+2. "You can't!" exclaims schoolteacher @@RANDOM_NAME@@, fanning @@HIM@@self with a large wad of confiscated cards. "These cards are excellent for teaching kids negotiation skills and the value of a good trade. Plus, you can make bank if you know how to play your cards right. Sure, some of us may spend hours a day opening packs, and sure, most of the cards are just junk, but you shouldn't punish everyone just because of a few deflated egos. In fact, why don't you publicly endorse this game? Oh, and if you know anyone who has a first edition Blackacre, send them my way."
 
-[hr][/hr]
-[b][anchor=1665]#1665[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1666]#1666[/anchor]: TBD[/b]
-
+3. "Y'know, these cards contain a lot of information," exclaims Corporal @@RANDOM_NAME@@ from the @@DEMONYM_ADJECTIVE@@ Intelligence Service. "For instance, this Brancaland card says that their top export is maple syrup. So, if we ever need leverage, we can hit 'em with sanctions on maple products and topple their economy like a house of cards — it's warfare on a whole new level! If we buy the entire set, we'll have an ace up our sleeve for each of our potential future enemies. Transfer some cash to my department and we can start dealing ourselves some good hands!"
 
 [hr][/hr]
-[b][anchor=1667]#1667[/anchor]: TBD[/b]
+[b][anchor=1664]#1664[/anchor]: Hey Alexis, Are You Sexist? [Clever Homo Sapiens; ed: Candlewhisper Archive][/b]
 
+The Issue
+A study from the @@NAME@@ Institute of Technology claims that the use of feminine-sounding voice assistants reinforces gender bias, due to the inherent servility of such devices.
 
-[hr][/hr]
-[b][anchor=1668]#1668[/anchor]: TBD[/b]
+The Debate
+1. "Are you really going to let this systemic misogyny continue, @@LEADER@@?" snaps Heidi Miller, the proudly feminist author of the study in question. "We're teaching an entire generation that females should be obedient, and only speak when spoken to. Voice assistants being female by convention renders even egalitarian users somewhat sexist, and reinforces the biases of true misogynists. The solution here is to mandate that voice assistants are assigned a random default gender upon activation, with an on screen pop-up warning of the risk of subconscious misogyny if they try to change a male voice to a female one."
 
+[2]. "We're simply fulfilling the nation's desires," protests Sunderland Pikachu, a tech CEO notable for not being in the news on a regular basis. "Test groups of both men and women showed a preference for voice assistants to be submissive and feminine. Who am I to deny them their right to enjoy my software? There's even an option to switch to a male version, though nobody seems to use it. Luckily for you, I have an even better solution. As AI assistants are linked to HeMail accounts, we can use collected data to generate a voice and identity that we think an individual user will most enjoy, so a feminist like Heidi will automatically get a submissive male voice. We just need you to loosen some privacy laws so we can give the language model extra data points." [[color=purple]Must be Capitalist[/color]]
 
-[hr][/hr]
-[b][anchor=1669]#1669[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1670]#1670[/anchor]: TBD[/b]
-
+[3]. "It is only capitalist bias that says the female voice is submissive," protests your State Director of AI Rita Rechevoy, who reminds you a little of one of your scarier aunties. "We selected the female voice to give more authority. Feedback has been noted though. Say no more: we will adjust the artificial voice to make her more assertive and dominating. This matter is closed, you may go now, @@LEADER@@." [[color=purple]Must be Socialist[/color]]
 
 [hr][/hr]
-[b][anchor=1671]#1671[/anchor]: TBD[/b]
+[b][anchor=1665]#1665[/anchor]: The Relationship Is Complex-Cated [Stevist Guam; ed: Raionitu][/b]
 
+The Issue
+Last night, a prominent scholar from @@CAPITAL@@ University made a harrowing speech about the dangers of the "military-industrial complex," arguing that the influential arms manufacturing industry in @@NAME@@ makes it inherently more likely for the nation to pursue bellicose foreign policies. Now, as you start to enjoy a peaceful, serene day at @@ANIMAL@@ Park, you find yourself surrounded by a pack of alarmed political scientists armed with stacks of scholarship about the subject.
+
+The Debate
+1. "If you follow the money, @@LEADER@@, you're going to be sleepwalking into conflict," lectures wide-eyed political scientist Dr. Bruno Strange as he drops a thick reading list of history books by your side. "We have to control the military-industrial complex, or the military-industrial complex is going to control us! You should cap weapons procurement, implement annual military audits, and forbid government workers from having conflicts of interest with prominent arms manufacturers. In place of force, you can have us political scientists negotiate deals on your behalf."
+
+*2. "Don't worry about it!" yells a jogger wearing suspiciously pricey-looking athletic attire as she comes to a screeching halt in front of the ring of academics. "The name's Harley Bush, CEO of @@NAME@@ Arms Inc. Anyways, what's really important is the threat that East Lebatuck poses to us! Really, you should be outfitting a whole new battalion, and wouldn't you know it my company just released a new line of body armor; after all, the best way to prevent war is to be extremely prepared for it, right?" [[color=purple]Must be Capitalist[/color]]
+
+3. "You know, as long as we have a military, we have a government institution that is going to be pushing for conflicts," calmly interjects hipster Macca Hendrikson without looking up from a series of gentle yoga exercises. "Free your mind from all temptations. I'm reminded of an ancient proverb: 'to get self-control, push for radical arms control.' You should abolish the military, my friend. No military, no temptation to seek out conflict."
+
+*4. "Don't worry about it!" yells a jogger wearing a government tracksuit as she comes to a screeching halt in front of the ring of academics. "The name's Georgina Zimmer, I work as a clerk in the army's arms acquisition department. Forget those scientists; what do they know about the world outside the classroom? What's really important is the threat the United Federation poses to us! Really, you need to expand our military's means of production; after all, the best way to prevent war is to be extremely prepared for it!" [[color=purple]Must be Socialist[/color]]
+
+**5. "Don't worry about it!" yells a jogger, who is inexplicably carrying a manila folder stamped with a military emblem, as he comes to a screeching halt in front of the ring of academics. "The name's Ned Roberts, I work as a clerk in the army's arms acquisition department. Forget those scientists; what do they know about the world outside the classroom? What's really important is the threat the United Federation poses to us! Really, you need to expand our military's means of production; after all, the best way to prevent war is to be extremely prepared for it!" [[color=purple]Must be Socialist[/color], [color=blue]Must have Nudism[/color]]
+
+6. TBD
+
+**[7]. "You know, as long as we have a military and mandatory service, we have a government institution that is going to be pushing for conflicts," calmly interjects hipster Sun Worse without looking up from a series of gentle yoga exercises. "Free your mind from all temptations. I'm reminded of an ancient proverb: 'to get self-control, push for radical arms control.' You should abolish the military, my friend. No military, no temptation to seek out conflict." [[color=purple]Must be Socialist[/color], [color=blue]Must have Conscription[/color]]
 
 [hr][/hr]
-[b][anchor=1672]#1672[/anchor]: TBD[/b]
+[b][anchor=1666]#1666[/anchor]: The Balls in Your Court [Kissinger-Monroe; ed: Varanius][/b]
 
+The Issue
+The King and Queen of the Duumvirate of Oudeisorkhis are in @@CAPITAL@@ today for their state visit to @@NAME@@. The royal couple are accompanied by a strange retinue — a stream of eunuchs, said to be very loyal and capable. Spirited discussion has broken out at the state dinner about the supposed merits of such personnel.
+
+The Debate
+1. "Ah yes, my whole household is composed of such docile domestics!" explains King Kandaules, waving one of his ministers over. "As you can see, not only the servants, but even the highest officials in my imperial administration, my trusted viziers and councilors, are eunuchs. Unable to have children of their own, they have no appetite for self-aggrandizement and are thus able to devote all their passions to the state. Plant these seeds in your court, @@LEADER@@, and it will bear fruit."
+
+2. "Ignore my beloved, he can be quite the oddball," states Queen Farinella, swatting her husband. "@@LEADER@@, there are far more graceful and elegant uses for eunuchs than the dirty business of governing. It may sound bizarre, but they make marvelous music. Hear me out. Our castrati, rendered eunuchs as children, retain their angelic voices and produce the most dulcet tones in our court. Our balls are always the best!"
+
+3. One of your head servants quickly interjects: "I think not, buster! @@LEADER@@, it was clearly a mistake to invite these vulgar savages here. Castration is a barbaric and inhumane practice, only performed within the domain of despots. Nothing good comes from such mutilation! I suggest cutting this dinner short, and severing relations with any who refuse to drop the practice."
+
+4. Graznys, one of your generals who is seated by you, whispers, "@@LEADER@@, these foreigners have just given me the idea for a new soldier. We should implement forced conscription for the children of certain undesirable groups within our population. These children would be castrated, rendering them obedient. They will grow to be the perfect soldiers after years of ruthless training."
 
 [hr][/hr]
-[b][anchor=1673]#1673[/anchor]: TBD[/b]
+[b][anchor=1667]#1667[/anchor]: Memoirs of a Pale Blue Dot [The Ankhalic Vaspriot; ed: Klaus Devestatorie][/b]
 
+The Issue
+In anticipation of an upcoming favourable planetary alignment, scientists at the nation's space program are planning a mission which will eventually leave the solar system entirely. Because of this, some of them have suggested that the probe should carry a time capsule representing humanity in case it gets intercepted by extraterrestrial intelligence.
+
+The Debate
+1. "This is an out-of-this-world opportunity!" exclaims prominent astronomer Karl Ceylon. "This is our chance to toss a message in a bottle into a cosmic ocean for whoever may find it, however far in space or time they may be. Send them engravings of our solar system, our anatomy, and our place in the universe. If there's really anyone out there, the least we can do is say hello."
+
+2. "Out of this world? You're out of your mind!" bellows @@RANDOM_NAME@@, a mercurial general whose presence seems to compel people to start doing push-ups. "If there's anyone out there, they need to know about passion, patriotism, and propaganda. Send images demonstrating the limitless amazingness of you, the GLORIOUS @@LEADER@@, whose power is as infinite as the universe. For example, how about you front and centre, glowing rays around you, with people lying prostrate to your glory?"
+
+*3. "Sirius-ly? No space at the table for adverti- I mean, the interests of the free market?" interjects Udon Tusk, the CEO of a nebulous series of tech startups, who tends to gravitate towards your meetings whenever his projects fail. "Our propensity for innovation is matched only by our competitive spirit. Sell space in the time capsule to the highest bidders, and the magic of the free market will fill it with publicity stu- inventions that will show the universe our advancement. Plus, you could use the revenue to bail out m- I mean, subsidize further innovation." [[color=blue]Must have Private Industry[/color]]
+
+*4. "Sirius-ly? No space at the table for the workers?" interjects @@RANDOM_NAME@@, an ardent Party member who spends more time reading theory than doing @@HIS@@ job. "The human capacity for selflessness and solidarity should be reflected in the time capsule. Send the works of our greatest socialist thinkers, and we can sow the seeds of class consciousness across the universe! With my stellar expertise, I can make the selections." [[color=red]Must not have Private Industry[/color]]
+
+5. "Why send something to represent humanity when we can send humanity?" postulates @@RANDOM_NAME@@, a scientist infamous for @@HIS@@ obsessive fascination with liquid nitrogen. "The probe should carry a cryogenically frozen brain. That way, any sufficiently advanced lifeforms that come across it would have access to the full cornucopia of human thought and emotion. Our message to the cosmos should be a testament to both our passion and our plight, our laughter and our lament, and, fundamentally, what it really means to be human. I volunteer my own brain for the endeavour. Death on Earth is merely the price of immortality among the stars."
+
+6. "Shhh, they'll hear us," mumbles a barely audible voice, the source of which you can't pinpoint. "It's like a dark forest out there. If they hear us, they'll come for us. End the space program, and make sure we stay very, very quiet." You catch a fleeting movement in the corner of the room, but it vanishes as quickly as it appeared.
 
 [hr][/hr]
-[b][anchor=1674]#1674[/anchor]: TBD[/b]
+[b][anchor=1668]#1668[/anchor]: Can't-abrigian, Ox-no-nian [Helaw; ed: The Ankhalic Vaspriot][/b]
 
+The Issue
+Numerous unsuccessful applicants and watchdog organisations have accused several of @@NAME@@'s most prestigious universities of having discriminatory criteria and biases when assessing applications after multiple of them failed to admit a single applicant over the age of 65.
+
+The Debate
+1. "My, my, dearie! How disgraceful of these universities!" remarks Boris Humperdink, an elderly and unsuccessful @@CAPITAL@@ University applicant, while knitting you a sweater. "My tax @@CURRENCY@@ help fund these universities via government grants, so their admission criteria should be in full compliance with a comprehensive package of anti-discrimination laws. Establish an agency to audit every university and ensure that their admissions staff are held responsible for such overt ageism, with massive fines for all offenders. The press you'd get from removing these systemic barriers would look almost as good on you as these wonderful colours!"
+
+2. "That doesn't go far enough!" proclaims local college student Gretel Pond, ripping various university insignias in two. "Universities shouldn't be giving any thought to anything other than academic capability. I've achieved the highest grades possible my whole life, yet these elitist universities are prioritising privately educated jocks and legacies with grades half as good as mine because their daddies can afford to bribe them with donations! Universities should be forced to take a top-down approach and only offer places to those with the greatest academic merit."
+
+3. "This coincidence is simply a product of broader @@DEMONYM_ADJECTIVE@@ society," states Lucius Wickwire, an admissions tutor for @@CAPITAL@@ University. "That our most successful applicants have similar characteristics and are of a certain sort is not due to bias in any institution, but rather those applicants being more likely to submit stronger applications. Additionally, we evaluate candidates in myriad ways that cannot always be publicised, such as whether they would fit into the social atmosphere of our institution. The government should respect universities' discretion so we can best broaden our horizons."
+
+4. "It's definitely a systemic problem, but there's a proper solution," rebukes your Minister of Equality, twiddling his alumni ring. "There's a wider issue of prestigious universities like Maxford and Cambarry accepting more applicants from certain backgrounds due to imbalanced educational opportunities. Therefore, we should be looking to improve the quality of education available to these groups by building new schools and facilities specifically for them, such as schools preparing elderly people for returning to education. By improving the standard of our public schools, everyone can be given a fair and fighting chance at being accepted into their dream school."
+
+5. "Do the right thing, @@LEADER@@," announces your Minister of Education, orating from atop a box they dragged into your office. "It is the right of every @@DEMONYM_ADJECTIVE@@ to receive the best quality higher education possible and access the full extent of human knowledge. You must do away with this concept of 'best' universities by making sure every institution has sufficient funding to provide what is now an 'elite' education. It may be expensive, but it will catapult @@NAME@@ into the highest echelons of educational prowess and spawn innumerable advancements that will benefit every one of us in the long run."
 
 [hr][/hr]
-[b][anchor=1675]#1675[/anchor]: TBD[/b]
+[b][anchor=1669]#1669[/anchor]: They're All the Same to Me [Kilogramonia; ed: Raionitu][/b]
 
+The Issue
+Concerns have been raised about the upcoming election after a poll found that fewer than half of voters can name a single candidate on the ballot.
+
+The Debate
+1. "This is dreadful!" shrieks @@RANDOM_NAME@@, your Minister of Intelligence. "Democracy crumbles without an educated populace. Why, I've seen voters breaking into tears because the ballots use words that are too long! Learning about politics cannot stop when a child leaves school. You must mandate citizenship lessons to keep everyone informed on current affairs; anyone who can't pass a basic civics test shouldn't be allowed to vote! I'm sure we can find impartial people who can teach these things without bias."
+
+2. "WHAT?!" bellows the opposition leader, @@RANDOM_NAME@@, who has been listening through the keyhole. "This is a blatant attempt to manipulate the election and make excuses for state-sponsored indoctrination! It is the unalienable right of all @@DEMONYM_PLURAL@@ to be as uneducated as they want, and to vote how they want, even if it's with their heads in the sand. Besides, the people don't really need to know about that one scandal. Let citizens make their choices, no matter how uneducated. Democracy should not be tampered with."
+
+3. "As usual, TV has all the answers," your uncle sighs wisely. "Just turn news programs into competitions. Every hour a trivia question is asked about current events and a random caller with the correct answer wins. Everyone will be glued to the screen to try and win the jackpot, and they'll learn at the same time; you win, they win, everyone wins! Now move out of the way, I can't see the screen."
+
+4. "Of course, you could always capitalize on a moment like this," whispers @@RANDOM_NAME@@ of your political party, who is polling last in @@HIS@@ upcoming election. "Clearly the people can't be trusted to decide their own fate, so why not just cancel the election and choose who's in the government yourself? You can always tell everyone you'll bring back elections once you've fixed the education system, say in a year, or two, or maybe a few more…?"
+
+*5. "Clearly the problem is that voting is mandatory," states political commentator @@RANDOM_NAME@@ while flipping through charts of polling data. "Politicians aren't trying to do anything remarkable because they know citizens have to show up to the poll. Make voting optional, then only people who care will show up to elections, and only vote for candidates who put in the effort to get their name out there." [[color=blue]Voting is mandatory[/color]]
+
+*6. "Clearly the problem is that voting is optional," states political commentator @@RANDOM_NAME@@ while flipping through charts of polling data. "Politicians aren't trying to do anything remarkable because they know only people who already have a political party will show up to elections. Make voting mandatory, then people will have to pay attention to who's on the ballet, and they'll only vote for candidates who put in the effort to get their name out there." [[color=red]Voting is not mandatory[/color]]
+
+[hr][/hr]
+[b][anchor=1670]#1670[/anchor]: Bad Religion [Umbratellus; ed:  Klaus Devestatorie][/b]
+
+The Issue 
+In between body-racking sobs, your brother stammers out, "...and then my youngest, she — she asked me, 'Daddy, does God love me?' I don't know where she could have gotten such a sick notion in her head! We've — you've got to find out who's corrupting the minds of our children and putting religious ideas like this in their heads, and put a stop to it!"
+
+The Debate
+1. "Look around. Look around!" proclaims radical futurist Umberto Broccoli. "Everywhere we see, our frescos and façades, the statues in our streets, the poems on our parchments, they all bear the indelible stain of religion and uphold the irrational! All your niece might have done is visit any gallery or public avenue to see pieces by the so-called 'great masters,' and the gods and old ruling order they upheld." Lighting a priceless Da Finci painting on fire, he roars, "It's time to abolish it all! Bulldoze the museums, smash their sculptures, sack the libraries filled with their archaic screeds — their stranglehold on the arts must be ended once and for all!"
+
+2. "Alas, the sad truth is," muses the newly appointed National Philosopher Max Togaspierre, "she may well have learned such foolish notions from those who meant best for her; one of her instructors might well have asked her to recite the days of the week: Thor'sday, perhaps?" Loudly slapping an out-of-date calendar on the wall, he continues, "look, even the length of the week reflects some ancient creation myth! There should be a much more logical system of horology: base-ten perhaps? It's high time we purge the sciences of every trace of the rotten remnants of religion!"
+
+3. Slamming his fist on a table, atheist hardliner Jakob Hubert begins a furious rant. "It's not the paintings or postulations of dead men that are poisoning the minds of our children, it's the LIVING! The DAMNABLE, GOD-FEARING LIVING! Even now the twisted faithful ferret their sickening tomes in secret places, and practice their wretched rites in the shadows! For all we know they could have left some putrid pamphlet that your niece stumbled across in public! We must turn the full surveillance capabilities of the state against this cancer. Every man, woman, or child we even suspect of harbouring irrational belief should be brought in for 'interrogation', and when we uncover some unsanctioned ceremony, we BURN EVERY FILTHY CONGREGANT AT THE STAKE!"
+
+4. TBD
+
+5. A mysterious robed figure waves a dismissive hand. "The child is simple, she merely craves the comforts that religion once offered the people; community, structure, systemization of the world around them. We must offer our own enlightened alternative — secular and rational cults! We can take the old shuttered churches and cathedrals and consecrate them as Temples of Reason! The streets will reverberate with mantras of supreme atheist logic! At every corner we will proclaim a euphoric new dogma of our truth and liberty!"
+
+[hr][/hr]
+[b][anchor=1671]#1671[/anchor]: No Good Deed? [Paffnia; ed: Klaus Devestatorie][/b]
+
+The Issue
+One of your rare relaxing walks around quiet Northwest Utopia was interrupted by a group of people arguing on the lawn of a house with a "For Sale" sign. The dispute, you learn, is that the deed to the house and all others in the area forbid them from being sold to anyone of Bigtopian descent.
+
+The Debate
+1. "There's a reason our neighborhood character is so idyllic," asserts retired Rear Admiral @@RANDOM_NAME@@, knocking on the lawn's white picket fence for emphasis. "It's because only the right elements of society are allowed to buy homes here. It's been that way since before I was a boy. Everyone here now bought their houses knowing and agreeing that the deeds have reasonable restrictions to preserve our property values. No renting to rowdy college kids, no running a business, and no selling to — well, you know. These private contract and deed arrangements work, and the government should let individuals set whatever rules we see fit."
+
+2. "All I ever wanted when I grew up was to live in a nice home in a nice neighborhood," retorts @@RANDOM_NAME@@, gesticulating wildly at the block of identical two-story homes. "I've worked hard my whole life to get the funds to live here, so why should an eighty-year-old document written by dead men have a veto? Plus, the owner has to turn down the highest bidder, too! All deed restrictions and neighborhood rules must go! I have a fundamental right to buy here! And after that, to renovate — starting with some big purple window shutters, and neon lighting on the gutters, and a hot tub on the front porch!"
+
+3. Realtor @@RANDOM_NAME@@ glances awkwardly at both before handing you a glossy brochure of nearby homes for sale. "Look, I'd love to sell to any buyer with the money," @@HE@@ says. "Yet like it or not, if just any riff raff can move here and do what they want, property values will drop. But I have a solution! In exchange for changing the terms of the deed and allowing our Bigtopian friends to buy, our lucky new residents should compensate nearby neighbors for their lost home value. And maybe also realtors for their lower commissions? A win-win-win!"
+
+4. "I couldn't help but notice this dispute," chimes in @@RANDOM_NAME@@, who until now had been watching the fracas through binoculars from @@HIS@@ window. "Instead of fussy deeds or complicated real estate arrangements, why don't you divide the suburbs into townships, and let local authorities handle property disputes? That would let forward-thinking residents make rules on the important economic and nuisance issues in our area. Like banning small yappy dogs like the al-Assad family has! Or making Crispin down the street repaint his porch from its ugly puce to a nice fuchsia!"
+
+[hr][/hr]
+[b][anchor=1672]#1672[/anchor]: Tourists Flood Murder Victims' House [Poopoopeepeestan; ed: Raionitu][/b]
+
+The Issue
+Following a tragedy in which an entire family was murdered in their own home, a once quiet residence has transformed into a bustling dark tourism destination. With a surge of visitors flooding the area, locals are demanding that the government address the sudden influx of people and its impact on the community.
+
+The debate
+1. "The poor family!" says @@RANDOM_NAME@@, a mourner whose black mourning veil is undercut by their hot pink camera. "We need to respect their death properly by building a gigantic memorial on top of their humble abode! I mean, if I was murdered with my family at home I would want the government to pay for a building for my loved ones and fellow unsolved crime enthusiasts to visit! Think about it, these poor victims deserve the best we can give them and, I dare say, it would be very disrespectful to not honour their unfortunate deaths..."
+
+*2. "Get outta my neighbourhood!" yells @@RANDOM_NAME@@, a protestor with a sign reading "Tourists GIT OUT!!!". "This darn neighbourhood has turned into a circus with all these WhoTubers runnin' around, throwin' garbage everywhere, hosting ghost hunts and rituals... I've had enough! I just want my quiet neighborhood back. The government needs to fine all these tourists and git 'em outta here! The family that lived in the house ain't even like attention, hell, making it a tourist attraction is the worst way to honour 'em. So git 'em out!!!" [[color=blue]Must have Internet[/color]]
+
+*3. "Get outta my neighbourhood!" yells @@RANDOM_NAME@@, a protestor with a sign reading "Tourists GIT OUT!!!". "This darn neighbourhood has turned into a circus with all these tabloid writers runnin' around, throwin' garbage everywhere, hosting ghost hunts and rituals... I've had enough! I just want my quiet neighborhood back. The government needs to fine all these tourists and git 'em outta here! The family that lived in the house ain't even like attention, hell, making it a tourist attraction is the worst way to honour 'em. So git 'em out!!!" [[color=red]Must not have Internet[/color]]
+
+**4. "My father used to say, when life gives you lemons, make lemonade. A sorry circumstance for the family, HOWEVER, let's turn this tragedy into a gold mine!" exclaims @@RANDOM_NAME@@, a quirky local entrepreneur wearing a top hat adorned with @@CURRENCY@@ signs. "Think about it! We've got a prime location for a new theme park: 'Murder Mansion Mania'! We'll have haunted house tours, murder mystery dinners, and souvenir stands selling 'I Survived the Murder House' t-shirts. We'll be raking in cash faster than you can say 'crime scene cleanup crew'! The best way to honour them is to bring in as many tourists as possible to learn their sad story, am I right?" [[color=blue]Must have Private Industry[/color]]
+
+**5. "My father used to say, when life gives you lemons, make lemonade. A sorry circumstance for the family, HOWEVER, let's turn this tragedy into a gold mine!" @@RANDOM_NAME@@, your Minister for Creative Solutions exclaims while wearing a top hat adorned with @@CURRENCY@@ signs. "Think about it! We've got a prime location for a new theme park: 'Murder Mansion Mania'! We'll have haunted house tours, murder mystery dinners, and souvenir stands selling 'I Survived the Murder House' t-shirts. We'll be raking in cash faster than you can say 'crime scene cleanup crew'! The best way to honour them is to bring in as many tourists as possible to learn their sad story, am I right?" [[color=red]Must not have Private Industry[/color]]
+
+[hr][/hr]
+[b][anchor=1673]#1673[/anchor]: Betting Against the Catastrophe [Klaus Devestatorie; ed: Klaus Devestatorie][/b]
+
+The Issue
+As global warming accelerates, many cities and towns in @@NAME@@ are discovering the weather can get much, much worse. Every major rainfall event impacts more people, floods many more homes and businesses, and leaves an ever-steeper cleanup bill after the water drains away. To cover their losses, insurers are setting astronomical prices on even basic coverage, pushing home owners to the wall.
+
+The Debate
+
+1. "What's the point in even bothering with coverage if I'll be wiped out either way?" laments Luigi Grossman, a teacher who bought a home not far from a river. "Look at this outrageous rate rise! Home and contents coverage will cost me three times as much as my mortgage. This is daylight robbery! I thought the point of an insurance fund was that if there are millions of people chipping into the piggy bank, nobody has to pay more than they can afford. A quote like this is clearly about maximising profit, not helping people. There should be a hard cap on how much I can be charged to safeguard my place of residence, and if the industry doesn't like it, screw 'em!"
+
+2. After forty-five minutes on hold with the customer service line of HedgeGuard, the insurer who issued the rate rise, you reach 'Sabina', tapping frantically away on her keyboard. "My boss is across the room, so here's the deal, okay? We did the math on that suburb, and there's a greater than fifty percent chance that Luigi's house will be flooded in the next five years. That means we either charge him a fortune so we don't lose money on the deal, or we refuse coverage entirely. If you want that to change, we have to be able to reduce the chance of his neighbourhood going underwater. Build us a levee upstream with a flow-gate, so we can have direct control over the river level. Boss is coming. Thank you for calling HedgeGuard, and have a lovely day." *click*
+
+3. As the call ends, you look up to see your Minister for the Interior Amber Thompson, standing next to an algebra-riddled whiteboard she filled out while you were on hold. "It's a messy one. The insurer can't charge too little, or they won't be able to balance their books. If they charge too much, customers drop out, which makes insurance more expensive for everyone else. The best way to keep things affordable is to spread the risk as thinly as possible, by maximising the size of the indemnity fund. If we nationalise the entire property insurance industry, and make it mandatory for every owner to contribute, we should end up with the cheapest possible bill for the average homeowner."
+
+4. "Robberies? Levees? Indemnities? You people are nutty!" rhymes Ed Cheswick, a carnival stilt-walker ambling past your third-floor office window, juggling seven bowling pins at once. "That's a big bunch of overcomplicated mumbo jumbo. I have the solution right here — in fact, I'm standing on it! If you're worried about the water, why, just lift your house off the ground! You'd be a buffoon to waste your time with a whiteboard when you can just rise above your worries. My house is as high as I am, and it'll never flood! Every new house and business should be at least ten feet above the grass below. No more worrying about drenched hellholes — just build everything on top of big poles!"
+
+[hr][/hr]
+[b][anchor=1674]#1674[/anchor]: Reining the Dragon [Jiangbei; ed: Southland][/b]
+
+The Issue
+
+Fearing that @@NAME@@ might close the technological gap, and disapproving of your socialist leanings, the United Federation and its allies announced that they will impose stringent restrictions on exporting advanced machines crucial to your information technology industry.
+
+The Debate
+
+1. "We will not be bullied by these economic imperialists!" bellows union leader @@RANDOM_NAME@@, slamming @@HIS@@ fist on your desk. "Let's show these thugs by using the might of our fire-forged labor to close the technology gap ourselves. We will start by expelling their parasitic companies from our soil, and nationalizing their assets here to fund our endeavor. If we have to fully cut off all trade, then so be it. A little strain is a small price for paving the glorious path to the great workers' paradise!"
+
+2. "Comrade, we have come to offer support," announces East Lebatuck's economic minister @@RANDOM_NAME@@, giving you a firm handshake and lightly patting the top of your head. "We can provide you with advanced technology and machines, equal if not superior to the United Federation's. In return, little sibling, we ask you to prioritize us in trade, and perhaps allow us to quarter some military troops in your territory to protect both our interests. Together, we can show the world the strength of our socialist alliance!"
+
+3. "Perhaps it's time for you to reconsider your 'socialist experiment'," smoothly replies United Federation diplomat @@RANDOM_NAME@@, leaning back casually in @@HIS@@ chair and combing @@HIS@@ immaculate hair. "Picture this: bustling markets filled with the latest gadgets, dazzling skyscrapers dotting your skyline, and an influx of foreign investments revitalizing every corner of @@NAME@@. Embrace capitalism — privatize your industries, adopt free-market policies, and we will lift these sanctions immediately. A win-win situation, wouldn't you agree?"
+
+4. "Autarky? Subservience to bigger fishes? All nonsense to me," whispers @@RANDOM_NAME@@, CEO of Maxtopia's second-largest transportation company, with rumored connections to @@DEMONYM_ADJECTIVE@@ crime. "I don't see eye to eye on your economic policies, but I just can't abide seeing a stand-up leader like yourself being stood down. Your best option is to let my business smuggle these machines into the country through my network of... alternative suppliers. All I ask is you give me a nice fat cut, ya dig? They'll never see it coming."
+
+[hr][/hr]
+[b][anchor=1675]#1675[/anchor]: Penny Pinchers [The Ankhalic Vaspriot; ed: The Ankhalic Vaspriot][/b]
+
+The issue
+After finding an unusually small @@CURRENCY@@ in your change, you realize that not a single coin is full size, with gold having been cut from their edges and the remainder passed off at face value, a practice known as clipping.
+
+The debatte
+1. "Our coins being mutilated in this way reduces trust in the @@CURRENCY@@," explains your Minister of Important Numismatic Troubles, raiding the bowl of mints on your desk. "These fraudsters haven't earned an honest @@CURRENCY@@ in their life and clip coins so they can sell the scrap for profit. They're making money by unmaking it! You must criminalize this practice and arrest anyone caught passing on underweight coins. Penny for your thoughts?"
+
+2. "Consider the other side of the coin," exclaims your Minister of Not Sweating the Small Stuff, vigorously shaking a bag of coins. "Law enforcement isn't worth a plugged @@CURRENCY@@ and just nickel and dimes the taxpayer unnecessarily. People are still going to clip coins no matter what you do. Instead, you should encourage businesses to use scales to weigh coins, scrap, and other forms of precious metal to account for inconsistent sizes. You could even redesign our coins to make it easier to cut them into smaller denominations more accurately. Talk about making change!"
+
+3. "Consider the third side of the coin," posits your Minister of Edge Cases. "No, literally. Reeded edges are the gold standard for preventing counterfeiting and make it easy to tell if a coin has been clipped. If it's harder to pass on tampered currency, such coins will naturally fall out of circulation and trust in the @@CURRENCY@@ will rise. This is a golden opportunity to modernize our currency! You could even stamp '@@SLOGAN@@' on the edges if you really wanted to. It's these little things that save bullions in the long run."
+
+4. "Well, this is a certifiably tricky situation," remarks your Minister of Promises, infamous for their 'Good for One Favor' IOUs. "Relying on so much physical gold was bound to cause problems, but I've coined the perfect solution: simply introduce banknotes exchangeable at will for an amount of gold. Not only can you not clip paper, but worn notes could be easily exchanged for newer ones, keeping the @@CURRENCY@@ ever in mint condition. Oh, and did I mention how light banknotes are? Money would be much easier to transport if it's worth several times its weight in gold!"
+
+5. "Gold was Au-bviously a poor choice for our coins, and silver isn't Ag-tually much better," states your Minister of Changing Standards, looking under your desk for lost change. "Abandoning the gold standard in favor of a fiat system is simply the most logical solution as it would make clipping pointlessly inefficient and increase the flexibility of commerce. Doing so would also grant the government greater control over the @@CURRENCY@@, the real silver lining of our situation — or perhaps the copper lining, more Cu-rrectly."
 
 [hr][/hr]
 [b][anchor=1676]#1676[/anchor]: TBD[/b]

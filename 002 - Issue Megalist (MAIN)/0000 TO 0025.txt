@@ -305,7 +305,7 @@ The Debate
 
 **3. "You've got to be kidding," says Green politician @@RANDOM_NAME@@. "This rainforest is thousands of years old! This country needs more environmental protection, not less. And to destroy the environment in order to mine uranium that then goes into nuclear bombs--well, that really sticks in my craw." [[color=blue]Must not have Autocracy[/color]]
 
-**4. "You've got to be kidding," says green pamphleteer Lee Gonzalez. "This rainforest is thousands of years old! This country needs more environmental protection, not less. And to destroy the environment in order to mine uranium that then goes into nuclear bombs—well, that really sticks in my craw." [[color=red]Must have Autocracy[/color]]
+**4. "You've got to be kidding," says green pamphleteer @@RANDOM_NAME@@. "This rainforest is thousands of years old! This country needs more environmental protection, not less. And to destroy the environment in order to mine uranium that then goes into nuclear bombs—well, that really sticks in my craw." [[color=red]Must have Autocracy[/color]]
 
 5. "There's no need for an either-or decision," says the government's Minister for Mining, Clear-Felling, and the Environment. "We can preserve most of the rainforest and allow mining of a small part. After all, think of all the good that the money from this uranium deposit can bring to @@NAME@@."
 

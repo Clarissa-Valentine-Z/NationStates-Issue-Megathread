@@ -4,13 +4,13 @@ The Issue
 The rapid rise of short-form content consumption in @@NAME@@ has been marked by an alarming uptick in reports of academic deficiency, spiralling attention spans, and concerns about data privacy. A loose coalition of parents and educators are vehemently rallying against the impact that this highly addictive strain of entertainment is having and are petitioning for the government to take action.
 
 The Debate
-1. "This is the downfall of the next generation, I tell you... " pleads overprotective mother Kai Sims, clutching her eight-year-old son like a baby. "@@DEMONYM_ADJECTIVE@@ kids are flunking school and have no interest in anything other than those mindless videos! Platforms like ShortTok, WhoTube Shorts, and Flipstagram Reals are rotting away the minds of our future citizens and turning them into zombies! The most sensible solution here is to outlaw them once and for all and get those kids outside again! Think of th— " She swats the child's hand away as he reaches for your secretary's phone.
+1. "This is the downfall of the next generation, I tell you... " pleads overprotective mother @@RANDOM_NAME@@, clutching @@HIS@@ eight-year-old son like a baby. "@@DEMONYM_ADJECTIVE@@ kids are flunking school and have no interest in anything other than those mindless videos! Platforms like ShortTok, WhoTube Shorts, and Flipstagram Reals are rotting away the minds of our future citizens and turning them into zombies! The most sensible solution here is to outlaw them once and for all and get those kids outside again! Think of th— " She swats the child's hand away as he reaches for your secretary's phone.
 
 2. An awkward teenager with facial blemishes and broccoli-shaped hair scrolls through ShortTok for 17 seconds before realizing where he is. After a moment, he mumbles, "Firstly, let us watch whatever we want. Like, dude, I thought this was a freedom-having nation. If you ban short videos, that would be going against our rights and freedoms, wouldn't it? Fourthly, ShortTok actually, like, educates and teaches people. School sucks, but these videos have... a bunch of infor... m... action. Check this one out." He mutters something truly unintelligible before taking off, bumping into several people on his way out.
 
-3. "Just banning the apps that distribute short-form content is far too modest," scoffs @@REGION@@ Academy history teacher Oprah Berlusconi, previously cautioned for physical misconduct against a student. "Why do these youngins even need them dastardly small-screen doohickies? Just look at what they've done to him! They're the root of all the decay with young people in this day and age. Those devices poison you when you're still blooming; they strangle you by the neck, take your attention and consciousness hostage, and rob you of your precious time on our nation's great, green pastures! Ban minors from using 'smart' devices altogether and put those who don't comply behind bars!"
+3. "Just banning the apps that distribute short-form content is far too modest," scoffs @@CAPITAL@@ Academy history teacher @@RANDOM_NAME@@, previously cautioned for physical misconduct against a student. "Why do these youngins even need them dastardly small-screen doohickies? Just look at what they've done to him! They're the root of all the decay with young people in this day and age. Those devices poison you when you're still blooming; they strangle you by the neck, take your attention and consciousness hostage, and rob you of your precious time on our nation's great, green pastures! Ban minors from using 'smart' devices altogether and put those who don't comply behind bars!"
 
-4. "Listen, I really don't care what people watch, but I'm certainly wary of malicious foreign actors!" exclaims full-time conspiracist and part-time sixty-three-year-old Nigel Lincoln, waving mini @@DEMONYM_ADJECTIVE@@ flags in your face. "D'ya wanna know who owns the parent company of the ever-so dubious ShortTok? That's right... Dàguó! Their 'privacy' policy is over seven-hundred pages long for a reason... so they can harvest the data of @@DEMONYM_ADJECTIVE@@ citizens who don't read it! Don't even get me started on that Flipstagram shmuck Karl Muckstaberg or whatever his name is... in my mind there's only one fitting solution: ban foreign social media apps completely and mandate the creation of fully @@DEMONYM_ADJECTIVE@@ government run platforms, for the sake of the @@TYPE@@!"
+4. "Listen, I really don't care what people watch, but I'm certainly wary of malicious foreign actors!" exclaims full-time conspiracist and part-time sixty-three-year-old @@RANDOM_NAME@@, waving mini @@DEMONYM_ADJECTIVE@@ flags in your face. "D'ya wanna know who owns the parent company of the ever-so dubious ShortTok? That's right... Dàguó! Their 'privacy' policy is over seven-hundred pages long for a reason... so they can harvest the data of @@DEMONYM_ADJECTIVE@@ citizens who don't read it! Don't even get me started on that Flipstagram shmuck Karl Muckstaberg or whatever his name is... in my mind there's only one fitting solution: ban foreign social media apps completely and mandate the creation of fully @@DEMONYM_ADJECTIVE@@ government run platforms, for the sake of the @@TYPE@@!"
 
 [hr][/hr]
 [b][anchor=1661]#1661[/anchor]: Payback's a Witch [Kissinger-Monroe; ed: Baggieland][/b]
@@ -195,7 +195,7 @@ The Debate
 The Issue
 Following a tragedy in which an entire family was murdered in their own home, a once quiet residence has transformed into a bustling dark tourism destination. With a surge of visitors flooding the area, locals are demanding that the government address the sudden influx of people and its impact on the community.
 
-The debate
+The Debate
 1. "The poor family!" says @@RANDOM_NAME@@, a mourner whose black mourning veil is undercut by their hot pink camera. "We need to respect their death properly by building a gigantic memorial on top of their humble abode! I mean, if I was murdered with my family at home I would want the government to pay for a building for my loved ones and fellow unsolved crime enthusiasts to visit! Think about it, these poor victims deserve the best we can give them and, I dare say, it would be very disrespectful to not honour their unfortunate deaths..."
 
 *2. "Get outta my neighbourhood!" yells @@RANDOM_NAME@@, a protestor with a sign reading "Tourists GIT OUT!!!". "This darn neighbourhood has turned into a circus with all these WhoTubers runnin' around, throwin' garbage everywhere, hosting ghost hunts and rituals... I've had enough! I just want my quiet neighborhood back. The government needs to fine all these tourists and git 'em outta here! The family that lived in the house ain't even like attention, hell, making it a tourist attraction is the worst way to honour 'em. So git 'em out!!!" [[color=blue]Must have Internet[/color]]
@@ -213,7 +213,6 @@ The Issue
 As global warming accelerates, many cities and towns in @@NAME@@ are discovering the weather can get much, much worse. Every major rainfall event impacts more people, floods many more homes and businesses, and leaves an ever-steeper cleanup bill after the water drains away. To cover their losses, insurers are setting astronomical prices on even basic coverage, pushing home owners to the wall.
 
 The Debate
-
 1. "What's the point in even bothering with coverage if I'll be wiped out either way?" laments Luigi Grossman, a teacher who bought a home not far from a river. "Look at this outrageous rate rise! Home and contents coverage will cost me three times as much as my mortgage. This is daylight robbery! I thought the point of an insurance fund was that if there are millions of people chipping into the piggy bank, nobody has to pay more than they can afford. A quote like this is clearly about maximising profit, not helping people. There should be a hard cap on how much I can be charged to safeguard my place of residence, and if the industry doesn't like it, screw 'em!"
 
 2. After forty-five minutes on hold with the customer service line of HedgeGuard, the insurer who issued the rate rise, you reach 'Sabina', tapping frantically away on her keyboard. "My boss is across the room, so here's the deal, okay? We did the math on that suburb, and there's a greater than fifty percent chance that Luigi's house will be flooded in the next five years. That means we either charge him a fortune so we don't lose money on the deal, or we refuse coverage entirely. If you want that to change, we have to be able to reduce the chance of his neighbourhood going underwater. Build us a levee upstream with a flow-gate, so we can have direct control over the river level. Boss is coming. Thank you for calling HedgeGuard, and have a lovely day." *click*
@@ -226,11 +225,9 @@ The Debate
 [b][anchor=1674]#1674[/anchor]: Reining the Dragon [Jiangbei; ed: Southland][/b]
 
 The Issue
-
 Fearing that @@NAME@@ might close the technological gap, and disapproving of your socialist leanings, the United Federation and its allies announced that they will impose stringent restrictions on exporting advanced machines crucial to your information technology industry.
 
 The Debate
-
 1. "We will not be bullied by these economic imperialists!" bellows union leader @@RANDOM_NAME@@, slamming @@HIS@@ fist on your desk. "Let's show these thugs by using the might of our fire-forged labor to close the technology gap ourselves. We will start by expelling their parasitic companies from our soil, and nationalizing their assets here to fund our endeavor. If we have to fully cut off all trade, then so be it. A little strain is a small price for paving the glorious path to the great workers' paradise!"
 
 2. "Comrade, we have come to offer support," announces East Lebatuck's economic minister @@RANDOM_NAME@@, giving you a firm handshake and lightly patting the top of your head. "We can provide you with advanced technology and machines, equal if not superior to the United Federation's. In return, little sibling, we ask you to prioritize us in trade, and perhaps allow us to quarter some military troops in your territory to protect both our interests. Together, we can show the world the strength of our socialist alliance!"
@@ -245,7 +242,7 @@ The Debate
 The issue
 After finding an unusually small @@CURRENCY@@ in your change, you realize that not a single coin is full size, with gold having been cut from their edges and the remainder passed off at face value, a practice known as clipping.
 
-The debatte
+The Debate
 1. "Our coins being mutilated in this way reduces trust in the @@CURRENCY@@," explains your Minister of Important Numismatic Troubles, raiding the bowl of mints on your desk. "These fraudsters haven't earned an honest @@CURRENCY@@ in their life and clip coins so they can sell the scrap for profit. They're making money by unmaking it! You must criminalize this practice and arrest anyone caught passing on underweight coins. Penny for your thoughts?"
 
 2. "Consider the other side of the coin," exclaims your Minister of Not Sweating the Small Stuff, vigorously shaking a bag of coins. "Law enforcement isn't worth a plugged @@CURRENCY@@ and just nickel and dimes the taxpayer unnecessarily. People are still going to clip coins no matter what you do. Instead, you should encourage businesses to use scales to weigh coins, scrap, and other forms of precious metal to account for inconsistent sizes. You could even redesign our coins to make it easier to cut them into smaller denominations more accurately. Talk about making change!"
@@ -257,19 +254,52 @@ The debatte
 5. "Gold was Au-bviously a poor choice for our coins, and silver isn't Ag-tually much better," states your Minister of Changing Standards, looking under your desk for lost change. "Abandoning the gold standard in favor of a fiat system is simply the most logical solution as it would make clipping pointlessly inefficient and increase the flexibility of commerce. Doing so would also grant the government greater control over the @@CURRENCY@@, the real silver lining of our situation — or perhaps the copper lining, more Cu-rrectly."
 
 [hr][/hr]
-[b][anchor=1676]#1676[/anchor]: TBD[/b]
+[b][anchor=1676]#1676[/anchor]: All Animals Are Equal, But... [Angolistas; ed: Klaus Devestatorie][/b]
 
+The Issue
+Despite living under a proudly socialist system, a recent exposé by a broadsheet newspaper has revealed stark inequalities within @@NAME@@. While workers queue for basic goods and services, party officials enjoy exclusive housing, private transportation, and access to special stores. The report has ignited nationwide debate on whether true equality is being practiced — or merely preached.
+
+The Debate
+1. "We've strayed from the revolution!" cries @@RANDOM_NAME@@, a passionate union organizer. "The people who are supposed to serve us are relaxing in luxury while the rest of us wait in line for bread. End the privileges — no more elite apartments, no more VIP lines, and no more restricted bespoke tailors! Equality must be lived, not just chanted!"
+
+2. "Leadership needs comfort to function efficiently," argues senior party economist @@RANDOM_NAME@@, putting away @@HIS@@ designer sunglasses. "We can't have decision-makers distracted by mundane problems. Besides, these privileges are symbolic rewards for loyalty to the state. People need something to aspire to, or we risk chaos."
+
+*3. "Let's be honest — equality is a myth!" scoffs @@RANDOM_NAME@@, a self-described pragmatic revolutionary. "What we need is transparency, not forced sameness. If we publish all government expenditures, the people can decide what special treatments our leaders truly deserve. Even if differences remain, the elites will still be accountable." [[color=blue]Must hold elections[/color]]
+
+*4. "Let's be honest — equality is a myth!" scoffs @@RANDOM_NAME@@, a self-described pragmatic revolutionary. "What we need is transparency, not forced sameness. If all government expenditure was published, we could bring back the vote to decide what special treatments our leaders truly deserve. Even if differences remain, the elites will still be accountable." [[color=red]Must not hold elections[/color]]
+
+5. "We solve this by universalizing privilege!" beams @@RANDOM_NAME@@, an overly enthusiastic party innovator. "Everyone should have a lakeside dacha, silk bedsheets, and hand-crafted cheese boards. While we figure out how to build @@POPULATION@@ of each, why not just make the extravagances we have available by random lottery?"
 
 [hr][/hr]
-[b][anchor=1677]#1677[/anchor]: TBD[/b]
+[b][anchor=1677]#1677[/anchor]: Common Cents [Raionitu; ed: Raionitu][/b]
 
+The Issue
+After the removal of pennies from circulation, businesses have begun rounding cash transactions to the nearest value that can be paid with the remaining denominations. Without the coinage to make exact change, some purchases have required customers to pay an entire one one-hundredth of a @@CURRENCY@@ more for groceries. Now, angry citizens have burst into your office demanding action.
+
+The Debate
+1. Theft! Robbery! Indignity!" cries millionaire Bruce Pennyworth, clutching his gilded wallet. "They say it's just one penny, but one penny at a time is how we get robbed! I'm on the edge of destitution! One cent when I get my morning coffee, two with my exotic butters, another for my afternoon petit four; over the course of the year all those little losses can add up to massive financial impact. At this rate, I'll be penniless within the year! For the good of us common folk, you must reintroduce pennies!"
+
+2. "This penny pinching is exactly how the rich get rich," claims Penny Poor, weighing fruit to find the lightest and cheapest. "And if you look at price tags, they just happen to be prices that get rounded up, rather than rounded down. It's almost like businesses, and the millionaires who run them, know it will add up over time. These businesses can take the loss. Require them to round down the sale total in all cases where they can't give exact change! That's what will help us true common folk."
+
+*3. "Or we do what we should have done from the beginning," suggests @@RANDOM_NAME@@, the president of the Chamber of Commerce, as @@HE@@ wipes your desk with disinfectant. "Do away with physical currency altogether. Think about all the disgusting places that money has been; for all you know a toddler swallowed it, passed it, then spent it! Money goes through more hands than a baby goes through diapers! If everything's digital, no one has to worry about making change or touching filthy money ever again." [[color=blue]Must have computers[/color]]
+
+[4]. "Look at this capitalist greed, tearing our nation apart," tuts Marl Karx, author of [i]The Great Red Book[/i]. "There is a cure however," he says, patting the Molotov cocktail he carries in a holster at his hip. "Fortunately, there's a better cure! Communism: moneyless, classless, equal. It might take time to get there, sure, but you won't have to watch inequity continue to tear at the seams of our great land much longer. We need a different kind of change, one that smashes the wretched status quo." [[color=blue]Must have private industry[/color]]
+
+*5. Before you can reply, a man with a massive handlebar mustache crashes through the window. "Y'know what would really solve this issue? The free market!" drawls Melborn Moneybags, author of the book [i]Salvation through Capitalism[/i]. "If you bring free enterprise to our great nation, then the people can speak through their wallets, and the businesses that handle this situation right will thrive, while the ones who reach a little too far will fall flat. Capitalism fixes everything it touches!" [[color=red]Must not have computers[/color]]
 
 [hr][/hr]
-[b][anchor=1678]#1678[/anchor]: TBD[/b]
+[b][anchor=1678]#1678[/anchor]: Praying for Silence [South Armys Nyeth Stuarika, Southland; ed: Southland][/b]
 
+The Issue
+What was supposed to be a typical meet-and-greet with your fellow @@DEMONYM_PLURAL@@ was interrupted by an explosive blast... of hymns coming from a Violetist temple's loudspeaker two blocks down. After blaring their call to prayer for thirty minutes straight, the crowd has soured and they are now demanding that you address the percolating issue of Violetists using loudspeakers for prayer.
 
-[hr][/hr]
-[b][anchor=1679]#1679[/anchor]: TBD[/b]
+The Debate
+1. "By my ambiguous non-denominational gods, make it stop!" cries an exhausted @@RANDOM_NAME@@, whose eye bags have eye bags. "I'm so tired! Their temples do this every day, in the morning, afternoon, evening, and even night. I'm not against prayers or their religion, but I—I just can't anymore! Prayers on loudspeakers should be banned outright. Hell, ban the use of bells, horns, gongs, and other loud sounds while your at it. I'll be able to... able to..." @@HE@@ then collapses on the ground, snoring.
 
+2. "THIS IS HORRIBLE @@LEADER@@!" yells a Violetist cleric. After taking a moment to adjust @@HIS hearing aid, @@HE@@ continues. "This is targeting our faith. Using loudspeakers for prayers are how we honor Her, by reaching and uniting Violetists of all backgrounds, rich and poor, old and young, the saved and sacrifice-marked. It's no different from how the Pizzerians ring bells from their golden arches or the saccharine Yellowites blowing their trumpets. Instead, prayers should be exempted from every noise ordinance."
+
+3. "Surely we can all get along," chimes your ever-omnipresent Minister of Compromise @@RANDOM_NAME@@. "I do sympathize with the Violetists after they were singled out over practicing something important to them, but it's clearly having a negative impact on our citizens. I propose that calls for prayer, especially if loudspeakers are used, be capped at say 60 decibels. With some funding, my team can go replacing loudspeakers with ones that can only go up to six, padding the bells in church towers, and inserting oversized corks into parrot horns. Quite a sound plan if I say so myself!"
+
+4. "When will you people learn?" smugly replies anti-Violetist campaigner Barrage la Pencil Ban-Giver, delicately but deliberately painting a violet rose gold. "I've been warning for years that the Purples were making @@CAPITAL@@ unrecognizable, but I was jeered at by bleeding-heart activists. Now, they feel comfortable waging a sound crusade on us heretics! If we don't take a stand, soon they will demand we all follow Violetist law and wear garish purple clothing. You must raid their temples, stop them from proselytizing in public, and if possible ban their 'religion'. The infection must stop before it's too late."
 
 [hr][/hr]

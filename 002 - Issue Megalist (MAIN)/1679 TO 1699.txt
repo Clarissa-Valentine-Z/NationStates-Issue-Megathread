@@ -1,0 +1,226 @@
+[b][anchor=1679]#1679[/anchor]: Meals on Foot [Valentine Z; ed: The Ankhalic Vaspriot][/b]
+
+The Issue
+A new edition of Digestion Digest, a national food magazine, has just come out. To the surprise and anger of the nation's top chefs, instead of covering the 'Tastiest Ten' establishments as it typically does, it published back-to-back stories about dozens of tourists falling sick after eating @@DEMONYM_ADJECTIVE@@ street food.
+
+The Debate
+1. "Years of culinary arts training and untold amounts of dollars spent, yet people still eat from those places?" scoffs local celebrity chef Fieri Olive, aggressively piling cookbooks on your desk to demonstrate what "real food" is. "Everybody knows that our restaurants make only the best dishes with the best ingredients money can buy, yet all the tiny portions, egregious prices, and highfalutin terminology in the world don't seem to protect our reputation from these vomitous vendors. I know how to make it certain: kick these sickening wieners off of the streets. Only then will @@NAME@@ regain recognition for its five-star cuisine. How's that sound, eh?"
+
+2. "Banning them isn't going to solve anything, they'll just go underground!" interjects Ego Oignon, your Minister of Culture and self-appointed Minister of Food Critique. "Instead, consider this: remember that random fritter cart we saw yesterday? Ever think about where their food comes from? Or whether they use gloves? They probably even reuse the skewers! Zero stars! We must inspect all street food vendors more regularly to make sure they're up to code and impose harsh penalties on those who aren't. Maybe then tourists won't have to run for the runs so much. Oh, and Mr. Olive, I'll be seeing you soon."
+
+3. "The vendors are CLEARLY not the problem! It's the infrastructure!" asserts Colette @@RANDOM_LAST_NAME@@, chopping vegetables on your desk at a frightening speed. "I went to one of the most famous vendors in all of @@NAME@@ expecting a symphony of aromas, and instead I saw overflowing trash bins, far too many flies landing on my food, and an errant drainage blockage stinking up the whole area. At that point, the rats might as well be doing the cooking. The government should provide ample and proper waste disposal so these sellers can cook and serve properly. Sure, anyone can cook, but having the resources to do so safely is essential."
+
+4. Just then, a greasy and somewhat fetid man walks up to you and presents you with a box of takeaway food. The smell is captivating; a cornucopia of flavors beckons you. "There's a reason why the victims are always tourists and not @@DEMONYM_PLURAL@@. We've been selling like this as far as I can remember and none of our people got sick, probably. You know why? We got used to it! These poor tourists' stomachs are just weak. Make street food the ONLY dining option and perhaps it'll toughen them up a bit."
+
+[hr][/hr]
+[b][anchor=1680]#1680[/anchor]: A Slip of the Tongue [The Esoteric Order of Renea; ed: The Marsupial Illuminati][/b]
+
+The Issue
+The nation — or at least, some part of it — is in mourning after the death of @@RANDOM_NAME_1@@, the last speaker of an obscure language native to the far-flung hinterlands of @@NAME@@. Only the most recent in a decades-long trend of native linguistic extinctions, @@LAST_NAME_1@@'s death has spurred a motley association of concerned parties to petition for something to be done.
+
+The Debate
+1. "Alas, poor @@FIRST_NAME_1@@!" laments the linguist @@RANDOM_NAME@@. "I did not know @@HIM_1@@, @@LEADER@@. Nor anything about @@HIS_1@@ language actually, but that's besides the point. This is not the first language that has died on our watch nor will it be the last. There are hundreds of endangered languages within the borders of @@NAME@@, and who knows how long it'll be before they too are gone! You must fund the efforts of our linguists to go out and make records of these languages from what speakers remain before it's too late! Did you know that the Ouron tribespeople have over 50 different words for urine? It's simply fascinating, and so we must preserve their profound insights."
+
+2. "We can't resign ourselves to just recording these languages," chides @@RANDOM_NAME@@, a tribal representative. "They hold within them reflections of entire cultures. They are means of communication which uniquely encapsulate the nuances of their speakers! While they yet live, we ought to encourage their total revitalization: fund the creation of bilingual immersion schools, media in these moribund languages, dedicated areas for the peoples that speak them, and programs to encourage adults to reconnect with their heritage. And we speakers of even the most obscure and unused languages deserve to have government services available in our native tongues. Bada bing!"
+
+3. "@@NAME@@ must be of one language and of one speech," babbles the towering Minister for State Security. "If you allow these varied and confounded languages to fester, you will only sow division. It will scatter our people. We can't allow any deviation from our national identity to continue. We should mandate that all the children of these backwater tribes attend state-funded schools, where we'll educate them on the right and proper @@DEMONYM_ADJECTIVE@@ way of living. And if a child still insists on speaking the language of savages, we'll give them a tongue-lashing and a literal lashing!"
+
+[hr][/hr]
+[b][anchor=1681]#1681[/anchor]: The Children Yearn for the Mines [General TN; ed: The Ankhalic Vaspriot][/b]
+
+The Issue
+A recent mine collapse in @@NAME@@ became a national tragedy when dozens of casualties were confirmed, the majority of them young children chosen over adults due to their small size.
+
+The Debate
+1. "Dear @@LEADER@@, these poor children really shouldn't be working dangerous jobs in the mines," remarks Mrs. Plush, an elderly woman accompanied by a visibly nervous child. "These poor little souls simply can't handle such a risk. Children are much better suited to safer jobs like sewing or making teddy bears and should only be employed in such industries. They're perfect roles for such little hands -- just look what my precious Lily made!" She proudly presents the teddy bear to you, dragging Lily back as she tries to edge away.
+
+[2]. A woman steps in front of Mrs. Plush and collapses on your desk, clutching a picture of a young girl. "Oh @@LEADER@@! What that softie is proposing is not highlighting the most important problem: my child was killed and I, the parent, received no compensation for the loss of my sweet money mak– I mean my sweet daughter. Parents don't send their children to make money only for them to die before they can make anything substantial. You must compensate parents when these accidents occur and ensure that the industry is held to stricter standards to prevent the loss of our little profit machi–" She coughs mid-sentence before pretending to sob again. [[color=red]Must not have vat children[/color]]
+
+*3. "Do any of you realize what child labor is?" proclaims renowned young socialist Sasha Liss, replacing the lilies on your desk with red carnations. "It's a hideous practice directly resulting from the pervasiveness of unchecked avarice in our economy. The horrors of capitalism are always barbaric, but to subject children to such perilous conditions is downright inhuman. Emancipate the children, @@LEADER@@, and outlaw this practice at once!" [[color=blue]Must be Capitalist[/color]]
+
+**4. "Oh, @@LEADER@@, what a travesty!" proclaims Auntie Rich, spokesperson of the organization Children of the Proletariat, looking at you aghast. "Child labor is a barbaric capitalist practice that has no place in a forward-thinking socialist society. Get the children out of the mines and into schools where they can realize their true potential. Scrub out the capitalist stain!" [[color=red]Must not be Capitalist[/color]]
+
+5. You feel a small tap on your side, revealing a small, dusty child holding a pickaxe nearly as large as he is. "If you've a moment, esteemed @@LEADER@@, I'd like to introduce meself. My name's Steve, an' frankly, what those adults don' understand is that we like this work! The operation I'm at 'as minecart rides, pools of silver liquid you can float on, an' even fluffy snow that doesn' melt! You should tells the adults to hire more of us 'umble children so me friends can come play wiv me an' experience such joys, if yer leadership'd be so inclined."
+
+[hr][/hr]
+[b][anchor=1682]#1682[/anchor]: The Little Train that Could Give You Cancer [Haymarket Riot; ed: The Ankhalic Vaspriot][/b]
+
+The Issue
+A train has derailed in the rural town of West Palatine, contaminating the area with 500 tonnes of vinyl chloride, a toxin and carcinogen. Initial investigations suggest the causes were some combination of worker inattention, lack of regulatory enforcement, and degrading rail infrastructure. The immediate danger has abated, and you are now on the scene of the accident.
+
+The Debate
+1. "I need some help here, @@LEADER@@," frenetically requests @@RANDOM_NAME@@, your infamously incompetent Minister of Transportation, glancing in your direction. "This situation is maybe a little bit on me, but it reflects on you too. We should, uhh, make this look nice again. Yeah. That. Just send in some serious looking people, quickly cover the stuff with dirt and flowers, and call the problem solved. We'll cook the measurements to look nice. Look, I'm not stupid — they'll ruin my career for this at the least — but you've gotta help me, or they'll get you too!"
+
+2. @@RANDOM_NAME@@, a resident of West Palatine, walks up to you, coughing and covered in boils. "What the people of West Palatine need is immediate relief — monetary compensation, aid, relocation, more compensation, you name it. Government inaction caused this tragedy, so it's the government's responsibility to clean it up, both literally and figuratively. Don't leave us behind again. Did I mention the mon- uhh, sympathy settlement?"
+
+3. "No way man! Having superpowers from toxic waste is based and wastepilled!" exclaims a member of the local comic book fanclub, chugging a glass of dubiously colored water. "This stuff is amazing, so you should make people drink it! Check out issue #24 of Z-Men, where the Gorgon and Dr. Z fight — this stuff gives you superpowers! Wait, hold on, I need to meet my SnackShack deliveryman." They walk away yelling into the distance.
+
+4. "By all means, help the people, but you also need to prevent these catastrophes in the future!" shouts rail union organizer @@RANDOM_NAME@@, fighting @@HIS@@ way past your bodyguards. "Us workers deserve better wages, more reasonable hours, and safer conditions. This disaster happened because we're being overworked and underpaid. How can you expect safe transportation when people can only get three hours of sleep on back-to-back shifts?"
+
+[hr][/hr]
+[b][anchor=1683]#1683[/anchor]: In the Year of Our Lord [Neo-Serranis; ed: The Marsupial Illuminati][/b]
+
+[b]The Issue[/b]
+While one of your interns was sifting through the year's expenses, he noticed that a payment of three @@CURRENCY_PLURAL@@ had recently entered the state coffers in the form of gold bullion. The payment was found to be from the sparsely inhabited island of Larcq, an obscure and largely forgotten territory which was somehow inherited by the modern state of @@NAME@@. The territory was established in a bygone era as a feudal vassal, and this fiefdom continues to pay a tribute which has been rendered trivial by inflation. The local hereditary lord, Sir @@RANDOM_NAME_1@@, 23rd Viscount @@RANDOM_LAST_NAME_1@@, rules the tiny, primitive island on behalf of @@NAME@@.
+
+[b]The Debate[/b]
+1. A messenger falcon barrels through a window in your office and lands on your desk. Attached to the creature is a communiqué from Lord @@RANDOM_LAST_NAME_1@@: "My liege, @@LEADER@@. My family has loyally governed Larcq for generations. I speak for all 270 inhabitants of Larcq, including a herd of aurochs, eight goats, and five draught horses, when I say that you ought to consider establishing feudalism in the rest of @@NAME@@. Divide up the land into different fiefs, and grant the privilege of holding and ruling them on your behalf to only the noblest people. You just relax and let your nobility collect tributes in your name."
+
+2. Your niece is quite galled at the idea, and the falcon too. "We don't have a nobility, and aristocracy has no place in the @@NAME@@ of today! The historical feudal system was cruel, and we do not need subordinates to offer us tribute. We are all equal. Larcq should be fully integrated into the rest of @@NAME@@, and its so-called government needs to go. If we really are the @@TYPE@@, we need to abolish this antique vestige of the past. And can we get this bird out of here?"
+
+3."We've been trying to buy one of Lord @@RANDOM_LAST_NAME_1@@'s properties for years, but he keeps denying our offers," chirps one of the @@RANDOM_LAST_NAME@@ Brothers, a business duo who've made a fortune in real estate. "He can do anything he wants because he has full control over that island; it's literally his little personal fiefdom. Take back the land! You should dismantle Larcq's current structure and give any @@DEMONYM@@ the right to buy and own property there. But make it a unique jurisdiction with the lowest tax rates in @@NAME@@, and offer subsidies to any developers who want to build on the island. We envision Larcq as a luxury tourist destination for only the best people, such as yourself, @@LEADER@@."
+
+4. A humble messenger pigeon carrying a message from a local farmer on the island flies in: "I ain't never had a problem with the good Viscount @@RANDOM_LAST_NAME_1@@, and his father, the Viscount @@RANDOM_LAST_NAME_1@@ before him. We here just pay a portion of our harvest, three bales of barley, to His Grace and he keeps us safe from pirates and real estate agents. The way I see it, it's none of you mainlanders' business how we people of Larcq operate. Let us be, and maybe we can up the yearly tribute. It's not the role of king, or whatever you are, to tell us little people how to run our place."
+
+[hr][/hr]
+[b][anchor=1684]#1684[/anchor]: Naps in Judgement [Nardin; ed: Klaus Devestatorie][/b]
+
+The Issue
+A recent study conducted by @@CAPITAL@@ University's Public Institute for Labor, Lifestyle, and Occupational Wellness has sparked vigorous debate when the conclusion suggested that national productivity could improve if workplaces embraced mid-shift breaks for employee naps. Unwilling to wait for answers, the tired and tireless alike have crashed through your bedroom door this very early morning, dispelling any dreams you may have had for a comfortable sleep-in.
+
+The Debate
+1. "You expect people to work full throttle a whole shift without recharging their brain batteries?" yawns sleep scientist Dr. Yura Comatos, slipping into your bed and pulling up the sheets. "Our study proves that short naps boost productivity... with benefits like greater alertness and... other brain things... plus being paid to sleep... you should make being well-rested a law and give all workers an afternoon nap period of at least thirty to forty-five minutes... a well-rested nation is... a successful one..." She slides off the bed, and snores immediately emanate from the floor.
+
+2. "We don't need the government turning office buildings into slumber parties," grumbles Vigor Gusto, a retail magnate holding an espresso the size of his head. "Can you imagine factory workers sleeping on the assembly line? Doctors dozing during diagnoses? Instead of taking the sluggard's way out, invest in opening more coffee shops, subsidize energy drink companies, and give my damned pharmacist permission to give me some stronger stimulants! Some of us have real businesses to run; get your forty winks on your own time!"
+
+*3. "Look, if people are falling asleep at work, maybe they're just bored stiff," suggests life coach and fitness guru Tucker Dought, using a @@LEADER@@ body pillow as an impromptu punching bag. "What they need is to get the adrenaline pumping! Move 'em to jobs that demand alertness like operating heavy machinery, emergency response services, or hell, sign them up to the military! Nothing perks you up like a little live fire training!" [[color=red]Must not have Conscription[/color]]
+
+*4. "Look, if people are falling asleep at work, maybe they're just bored stiff," suggests life coach and fitness guru Tucker Dought, using a @@LEADER@@ body pillow as an impromptu punching bag. "What they need is to get the adrenaline pumping! Move 'em to jobs that demand alertness like operating heavy machinery, emergency response services, or hell, send them back to the military! Nothing perks you up like a little live fire training!" [[color=blue]Must have Conscription[/color]]
+
+[5]. "It's clear that the real problem here is people not taking bedtime seriously," scolds your decrepit housekeeper. "Back when my little 'uns were wee rascals, they'd be sent straight off to bed without supper, and that discipline helped them get where they are today! Have those nice police officers ensure every @@DEMONYM_NOUN@@ goes home at a reasonable hour and stays there for a good night's sleep. @@NAME@@ will be a happier place once everyone is guaranteed the rest they need every night," she says as she tucks you back in nice and tight. [[color=red]Must not have Curfew? TBD[/color]]
+
+[hr][/hr]
+[b][anchor=1685]#1685[/anchor]: Children's Cartoon Chafes CEO [Skaladoria; ed: Haymarket Riot][/b]
+
+The Issue
+@@ANIMAL@@ Warriors 2, a previously little-known children's animated film on streaming platform Webflix, has attracted the attention of a mining industry lobby group. In the film, a ragtag group of @@ANIMAL_PLURAL@@ fight a corrupt and dirty mining company and its greedy, sadistic CEO who bears more than a passing resemblance to a @@DEMONYM_ADJECTIVE@@ mining company CEO.
+
+The Debate
+1. "I'm outraged at this offensive attack on me — I mean, our industry," rages CEO @@RANDOM_NAME@@ as @@HIS@@ eyes flash from side to side. "It ignores all the years of effort we've spent cleaning up our workflow, reducing employee accidents and emissions by an impressive 1% over the last decade! Besides, I would never attempt to drown a bunch of @@ANIMAL_PLURAL@@ in a tailings pond as happened in this entirely fictional cartoon! I demand that your government force Webflix to pull this slanderous slop from viewing within @@NAME@@."
+
+2. "That doesn't go far enough," says mining lobbyist @@RANDOM_NAME@@, as @@HE@@ stuffs a million @@CURRENCY@@ check labeled 'lying bonus' into @@HIS@@ wallet. "You should set up a government squad of our investigators, to combat all the lies and brainwashing against one of our most crucial industries. Of course, I would like to suggest that you put me at the head of it." @@HE@@ walks up next to you and whispers into your ear, "You know pal, the film's director isn't even from @@NAME@@. If you ask me, that's a foreign plot against us."
+
+3. "Don't listen to that propagandist," cries rabid animation fan @@RANDOM_NAME@@ as @@HE@@ licks cheese dust off @@HIS@@ fingers. "You can't just cover up the truth because of some thin-skinned fat cat's complaint. Imagine squandering a bunch of taxpayer money to give negative reviews to children's cartoons, how embarrassing! This film isn't bad; it raises several uncomfortable truths about the mining industry. In fact, maybe people like this CEO are the real villains. It's worth investigating their industry's business practices further. I've also compiled some other animations that deal with the pharmaceutical industry, chemicals, energy, you name it, oh and don't forget..." @@HE@@ continues to ramble as you begin to come down with a headache.
+
+4. @@RANDOM_NAME@@, director of the film, chuckles over the phone from @@HIS@@ newly refurbished home in Brancaland. "These suckers — I mean, valued viewers — turned my cash grab project into a top ten streaming film, heh. I guess they can be thanked for all the publicity, but I'd be amiss not to mention that this is at heart an artistic freedom issue. If the streaming company pulls my film over this silly tantrum, people will raise hell. Why don't you stand up for artists and pass anti-gag laws that will enable us to create freely without legal consequences?"
+
+[hr][/hr]
+[b][anchor=1686]#1686[/anchor]: Carnivorous Kids [Bisofeyr; ed: Southland][/b]
+
+The Issue
+While observing some parents participating in the tradition of sending children in the wilderness to fend for themselves, you are approached by several distraught advisors. They report with great concern that many of these children are violating the national laws mandating vegetarianism by hunting, killing, and eating animals to survive, not always in that order.
+
+The Debate
+1. "It should have been obvious that children will break the law when sent out on their own," sighs your Logistics Minister @@RANDOM_NAME_1@@ as @@HE_1@@ shakes off a child nibbling on @@HIS_1@@ ankle. "Think about it. If they savagely hunt for prey as if they are animals now, what laws will they be willing to break later? I'm honestly baffled that we thought kids raising themselves in the woods was a bright idea! We need to put an end to this practice immediately and return our children to classrooms, where they can learn to become civilized, functioning members of society."
+
+2. "I agree that it is an inequitable standard we have set, but that doesn't mean sending them into the woods is altogether wrong," observes @@RANDOM_NAME@@, psychologist and author of the recent book 'My Time in the Lion's Den'. "These kids are placed in an environment where they have to learn to live alone, and often fall under the tutelage of various animals, many of whom are not vegetarians. It is only logical that these kids follow their adopted parents of lions, tigers, and bears. We should just give them an exception from the law while they remain estranged from society, and wean them off of meat during their societal reintegration."
+
+3. "Ignorance is never an excuse for breaking the law," bluntly states Horace "Sugar" Caine, the head of the Cuisine Sanctity Investigations taskforce. "And these rugrats are no exception. They break the law, they bear the consequences, simple as. If a kid returns to society having participated in barbarous carnivorism, put them to work on the farms for a cycle or two. Having to nurture and eat their produce will teach them to appreciate their greens. It'll certainly give them..." he says as he takes a moment to adjust his glasses, "... something to chew on."
+
+4. "Meat! Meat! Meat!" chants the snaggle-toothed child, mouth dripping with a strange red liquid. As they're being restrained from biting @@RANDOM_LAST_NAME_1@@'s ankle again, they yell "Me want meat! @@LEADER@@, where keep meat! Bring me meat, for me to eat! No more yucky plants! Meat for me, all time every time! Meat!"
+
+[hr][/hr]
+[b][anchor=1687]#1687[/anchor]: A Slippery Slope [The Serdey Islands; ed: Terrabod & Raionitu][/b]
+
+The Issue
+As winter arrives in @@NAME@@, reports of accidents occurring on your nation's slippery streets are beginning to snowball. The mercury has reached a historic low, emotions are running high, and the people's patience is starting to crack under the pressure.
+
+The Debate
+1. "My commute was treacherous!" moans @@RANDOM_NAME@@, your Minister for Public Safety, precariously stuffing a pair of matching ice axes into @@HIS@@ over-full locker. "We need to take immediate action to make our streets safer. Implement a comprehensive winter maintenance plan that includes regular gritting, salting, sanding, shoveling, and ploughing. Sure, it won't be cheap, but right now we're skating on thin ice!"
+
+2. "What's next — heated sidewalks?" exclaims austere fiscal advisor @@RANDOM_NAME@@, whose icy demeanor alone has, you suspect, cooled the room by a degree or two. "Why rely on a pricey one-size-fits-all government program when each region has unique needs? With some guidance from the government, local authorities can coordinate neighborhood snow clearing and salting efforts, then you only need to send supplies to the most impacted regions. I'm sure we can keep the economy thriving without compromising on safety — for the most part."
+
+3. "How is zat saying going? One man's ice is another man's... trash?" questions eccentric inventor @@RANDOM_NAME@@, before zipping right past you and slamming face-first into a wall. "I haff a most cunning solution! Step one: give everyone a pair of zese 'rocket skates' I haff invented! Step two: turn ze streets into a massive, nation-vide ice rink! Step three: efficiency!"
+
+[hr][/hr]
+[b][anchor=1688]#1688[/anchor]: The End of the Rainbow [The Ankhalic Vaspriot; ed: The Ankhalic Vaspriot][/b]
+
+The Issue
+Art supplies manufacturer VantaSystems recently unveiled their creation of Violent Violet, a pigment far more vivid than any other violet known due to its complex structural properties. Despite the color sparking widespread excitement in the art world, VantaSystems licensed it exclusively to artist @@RANDOM_FIRST_NAME_1@@ Karich, who is refusing to make it available to anyone else.
+
+The Debate
+1. "This out-of-the-blue decision has me seeing red," declares artist Stewie Temple, who released the pigment Greenest Green in protest, made available to everyone except Karich. "Art should be a free and democratic forum free from the narcissistic whims of yellow-bellied gatekeepers too afraid to let other artists paint the town red, er, violet. There's no gray area here; no one should be allowed to 'own' a color in any form and the government should make Violent Violet available to all."
+
+2. "Aw, what a colorful opinion. Is someone feeling blue?" rebukes @@RANDOM_FIRST_NAME_1@@  Karich, making an obscene gesture at Temple, @@HIS_1@@ fingers dipped in Greenest Green. "That off-color attitude won't heal your black-and-blue ego. It's not like I monopolized the entire color violet, just this newly invented material which just so happens to be violet, making this no different from your typical patent. You ought to defend me, @@LEADER@@, and greenlight art installations around WD Central commissioned from yours truly."
+
+3. "Karich has the greener position, but let's go another fence over," opines T.I. Funny, the eponymous CEO of a major jeweller, spontaneously entering your office after eavesdropping through the door. "Consider colors that are deeply linked with a brand, like the Funny Fuchsia used for our jewelry boxes. This is beyond pigments; without the ability to trademark the color itself no matter how it's made, all the imitations will put us in the red! Let's make things a little more black and white: we get to use Funny Fuchsia, and no one else can."
+
+[hr][/hr]
+[b][anchor=1689]#1689[/anchor]: Government Bureaucracy More Like Aristocracy [Ransium, Helaw; ed: Raionitu][/b]
+
+The Issue
+A recent study showed that government employee incomes are more than double the national average, even before including generous benefits from the government. In response, you have been thrust into an uncomfortable meeting — or perhaps argument — between civil servants and small government advocates.
+
+The Debate
+1. "I completely understand, civil servants are easy targets for budget cuts," placates civil servant union leader @@RANDOM_NAME@@. "However, these individuals are often highly specialized with advanced degrees and years of experience; comparing our salaries with your average @@DEMONYM_NOUN@@ on the street simply isn't fair or logical. If you slash our salaries we're not going to be able to hire quality employees, and you'll lose the ones we do have to the private sector. If anything, we should be providing our workers with more paid time off for breaks from such a high-stress role." @@He@@ glances down at her watch. "Ah, that'll be my lunch two-hour. I'll excuse myself."
+
+2. "Utter nonsense!" cries @@RANDOM_NAME@@, representative of Citizens Unjustly Taxed (CUT), a political advocacy group pushing for government reduction. "These government bureaucrats are leeching off of society, and the only way to kill a parasite is to starve it. They should be paid the bare minimum to be above the poverty line and nothing more! And if the government can't find qualified candidates for jobs they can just hire folks off the streets. That will help our homeless brethren at the same time. I'm sure they'll figure it out."
+
+3. "I think I have a compromise that could make everybody happy!" offers @@RANDOM_NAME@@, your ever popular Minister of Creative Solutions. "What if we just pegged civil servants' salaries to the average wage for their private sector counterparts? It might make their salaries a tad variable, but so long as @@NAME@@'s economy is growing so should their salaries, and I think that's an incentive everyone can get behind. If the private sector starts trying to poach, we can just remind our employees that this is their civic duty."
+
+4. "You know most civil servant jobs can easily be contracted to the private sector," mentions @@RANDOM_NAME@@, who just happens to be in charge of overseeing government contracts. "Unquestionably reputable studies have repeatedly shown that private organisations produce higher-quality results than anything the government can hope to achieve. Replace government workers with private contractors; they will sort out the salaries and benefits themselves, and will be perfectly qualified for the job. Some may say that this will shift the motive of government work from public good to profit, but those folks are probably pink-underwear-wearing commies."
+
+[hr][/hr]
+[b][anchor=1690]#1690[/anchor]: The Winter of Our Discontent [Millenhaal; ed: Baggieland][/b]
+
+The Issue
+In @@NAME@@, sales of junk food, romantic comedies, and energy drinks have always peaked during wintertime — but especially so this year — the bleakest in decades. After your Minister of the Interior couldn't muster the strength to come to work this morning, the public eye has become firmly fixed on seasonal depression. Your entourage is dragging you along to bring the melancholic minister a care package, when people mob you on the street.
+
+The Debate
+*1. "We must do our best to ease the burden of seasonal depression," declares healthcare professional Elizabeth Gray, as she hands you a mug of hot chocolate. "We need to start distributing free assistance to people that suffer from the condition: antidepressants and the provision of therapy. In fact, why don't we just expand our existing system of healthcare to everyone, completely for free? You can't put a price on health. Well, I can, but paying it will be the government's job from now on." [has no Universal Health Care]
+
+*2. "We must do our best to ease the burden of seasonal depression," declares healthcare professional Elizabeth Gray, as she hands you a mug of hot chocolate. "We should work to reduce the stigma around mental health, and spread awareness that it's normal to have negative emotions this time of year. We could sponsor mental health education in schools, and run advertisements about this condition. You can't put a price on the benefits of sound mental health!" [has Universal Health Care]
+
+3. "Woah there, I think I've got a much cheaper option," states orange-faced Edward King, lifting up his goggles to reveal little marks around his eyes. "People are depressed in the wintertime because they don't get enough sunlight, right? Well, let's give them the next best thing — give out government subsidies to electronics companies to produce inexpensive, bright sun lamps for installation in people's homes. Imagine being bathed in the warm rays of simulated sunlight from the comfort of your couch!"
+
+4. "A hoax! A hoax! My @@TYPE@@ has fallen for a hoax!" yells Richard Gloucester, author of the bestselling self-help book [i]Quit Yer Whining Already[/i]. "The last thing this country needs is more mollycoddling for people who can't get over their elementary struggles. Instead of spending huge amounts of money on silly things like mental health, just put these whiners in padded cells with green floors, yellow walls, and blue ceilings for an illusion of constant summer: instant 'happy place'!"
+
+[hr][/hr]
+[b][anchor=1691]#1691[/anchor]: The Fault in Our Skyline [Granola; ed: Bisofeyr][/b]
+
+The Issue
+Following a speech at the annual @@DEMONYMADJECTIVE@@ Urban Planning Conference, several attendees cornered you to discuss national zoning laws. These laws prohibit almost all middle-density development, including mid-rises, small apartment buildings, and other infrastructure which provide lower-cost housing and a stronger sense of community.
+
+The Debate
+1. "We must allow medium-density development in our cities," explains Palutena Bell, the President of the Urban Planning Society, who stands perfectly at eye-level with you. "Fortunately, it's not too bad and can be fixed if we update the regulation to permit small apartment buildings and mid-rises. Besides, choosing between extremes is tedious and tiring, and choosing a midrise is the perfect compromise! This will create more room for business and housing, and everyone will be happy as a clam!"
+
+2. "We're all missing the flaw of mid-sized developments: it inhibits growth," remarks Winchester Grieg, who sat in the front row during your speech, despite being the tallest person at the conference. "Yes, it's great to have affordable housing, but what happens in ten years when we've used up all our space and no longer have room for more units? What happens when our cities are littered with low-effort, low-cost housing projects that ruin our skylines? After all, why would we be okay with 'medium' when we could go with 'huge'? We must ensure our zoning laws encourage even more high-rises, to ensure our biggest and beautiful-est future. As I like to say: go big, or go home!"
+
+3. "We've plenty of land if we're willin' to venture outside y'all's big cities," notes Cinna Mumford, a petite person chewing on a piece of straw who gave a talk earlier in the conference on rural development. "Our rural and suburban townships got so much room, we're rolling in them hills! If y'allow us to expand our residential zones –- and maybe slide us hamlets some extra @@CURRENCYPLURAL@@ –- we'll create a bungalow paradise that will be the envy of all our countrymen. We may not have elitist luxuries like 'job opportunities' just yet but we got twice the heart those city folk got, and if you support our development, I guarantee y'all that @@DEMONYMADJECTIVEPLURAL@@ will flock to our community!"
+
+4. "Trusting the government to decide what we can build will suck the souls out of our neighborhoods!" exclaims first-time attendee and recent architectural graduate Iris Tesla, who sits while speaking in an effort to avoid height-based judgment. "Instead of creating one-size-fits-all zoning laws, why don't we create community boards that approve or deny all new construction? That way, the community ensures that expansion reflects its culture, values, and aesthetic. If it makes things easier, I'll humbly volunteer to be chair of the @@CAPITAL@@ committee to get things off the ground."
+
+[hr][/hr]
+[b][anchor=1692]#1692[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1693]#1693[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1694]#1694[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1695]#1695[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1696]#1696[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1697]#1697[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1698]#1698[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1699]#1699[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+

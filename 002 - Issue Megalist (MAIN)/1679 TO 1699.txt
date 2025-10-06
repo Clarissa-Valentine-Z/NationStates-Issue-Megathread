@@ -179,48 +179,138 @@ The Debate
 [b][anchor=1691]#1691[/anchor]: The Fault in Our Skyline [Granola; ed: Bisofeyr][/b]
 
 The Issue
-Following a speech at the annual @@DEMONYMADJECTIVE@@ Urban Planning Conference, several attendees cornered you to discuss national zoning laws. These laws prohibit almost all middle-density development, including mid-rises, small apartment buildings, and other infrastructure which provide lower-cost housing and a stronger sense of community.
+Following a speech at the annual @@DEMONYM_ADJECTIVE@@ Urban Planning Conference, several attendees cornered you to discuss national zoning laws. These laws prohibit almost all middle-density development, including mid-rises, small apartment buildings, and other infrastructure which provide lower-cost housing and a stronger sense of community.
 
 The Debate
-1. "We must allow medium-density development in our cities," explains Palutena Bell, the President of the Urban Planning Society, who stands perfectly at eye-level with you. "Fortunately, it's not too bad and can be fixed if we update the regulation to permit small apartment buildings and mid-rises. Besides, choosing between extremes is tedious and tiring, and choosing a midrise is the perfect compromise! This will create more room for business and housing, and everyone will be happy as a clam!"
+1. "We must allow medium-density development in our cities," explains @@RANDOM_NAME@@, the President of the Urban Planning Society, who stands perfectly at eye-level with you. "Fortunately, it's not too bad and can be fixed if we update the regulation to permit small apartment buildings and mid-rises. Besides, choosing between extremes is tedious and tiring, and choosing a midrise is the perfect compromise! This will create more room for business and housing, and everyone will be happy as a clam!"
 
-2. "We're all missing the flaw of mid-sized developments: it inhibits growth," remarks Winchester Grieg, who sat in the front row during your speech, despite being the tallest person at the conference. "Yes, it's great to have affordable housing, but what happens in ten years when we've used up all our space and no longer have room for more units? What happens when our cities are littered with low-effort, low-cost housing projects that ruin our skylines? After all, why would we be okay with 'medium' when we could go with 'huge'? We must ensure our zoning laws encourage even more high-rises, to ensure our biggest and beautiful-est future. As I like to say: go big, or go home!"
+2. "We're all missing the flaw of mid-sized developments: it inhibits growth," remarks @@RANDOM_NAME@@, who sat in the front row during your speech, despite being the tallest person at the conference. "Yes, it's great to have affordable housing, but what happens in ten years when we've used up all our space and no longer have room for more units? What happens when our cities are littered with low-effort, low-cost housing projects that ruin our skylines? After all, why would we be okay with 'medium' when we could go with 'huge'? We must ensure our zoning laws encourage even more high-rises, to ensure our biggest and beautiful-est future. As I like to say: go big, or go home!"
 
-3. "We've plenty of land if we're willin' to venture outside y'all's big cities," notes Cinna Mumford, a petite person chewing on a piece of straw who gave a talk earlier in the conference on rural development. "Our rural and suburban townships got so much room, we're rolling in them hills! If y'allow us to expand our residential zones –- and maybe slide us hamlets some extra @@CURRENCYPLURAL@@ –- we'll create a bungalow paradise that will be the envy of all our countrymen. We may not have elitist luxuries like 'job opportunities' just yet but we got twice the heart those city folk got, and if you support our development, I guarantee y'all that @@DEMONYMADJECTIVEPLURAL@@ will flock to our community!"
+3. "We've plenty of land if we're willin' to venture outside y'all's big cities," notes @@RANDOM_NAME@@, a petite person chewing on a piece of straw who gave a talk earlier in the conference on rural development. "Our rural and suburban townships got so much room, we're rolling in them hills! If y'allow us to expand our residential zones –- and maybe slide us hamlets some extra @@CURRENCYPLURAL@@ –- we'll create a bungalow paradise that will be the envy of all our countrymen. We may not have elitist luxuries like 'job opportunities' just yet but we got twice the heart those city folk got, and if you support our development, I guarantee y'all that @@DEMONYM_ADJECTIVE_PLURAL@@ will flock to our community!"
 
-4. "Trusting the government to decide what we can build will suck the souls out of our neighborhoods!" exclaims first-time attendee and recent architectural graduate Iris Tesla, who sits while speaking in an effort to avoid height-based judgment. "Instead of creating one-size-fits-all zoning laws, why don't we create community boards that approve or deny all new construction? That way, the community ensures that expansion reflects its culture, values, and aesthetic. If it makes things easier, I'll humbly volunteer to be chair of the @@CAPITAL@@ committee to get things off the ground."
-
-[hr][/hr]
-[b][anchor=1692]#1692[/anchor]: TBD[/b]
-
+4. "Trusting the government to decide what we can build will suck the souls out of our neighborhoods!" exclaims first-time attendee and recent architectural graduate @@RANDOM_NAME@@, who sits while speaking in an effort to avoid height-based judgment. "Instead of creating one-size-fits-all zoning laws, why don't we create community boards that approve or deny all new construction? That way, the community ensures that expansion reflects its culture, values, and aesthetic. If it makes things easier, I'll humbly volunteer to be chair of the @@CAPITAL@@ committee to get things off the ground."
 
 [hr][/hr]
-[b][anchor=1693]#1693[/anchor]: TBD[/b]
+[b][anchor=1692]#1692[/anchor]: Hit Me With Your Best Shot [Dabarastan, Jim the Baptist; ed: Thorn1000][/b]
 
+The Issue
+After sanctioning the use of corporal punishment in schools, some concerned parents are pulling their children out of the classroom and are opting to homeschool instead. Local education boards have come forward to highlight their concerns regarding the efficacy of homeschooling, noting that most parents lack the proper qualifications to teach the school curriculum.
 
-[hr][/hr]
-[b][anchor=1694]#1694[/anchor]: TBD[/b]
+The Debate
+1. "Seriously, are these uneducated morons who you want teaching the next generation of @@DEMONYM_PLURAL@@?" scoffs Principal @@RANDOM_LAST_NAME@@ of @@ANIMAL@@ Hills Lower Elementary. "Study after study has shown that students who fear for their lives perform at least seven percent better on standardised tests. Frankly speaking, homeschooling is overglorified babysitting and ought to be outlawed anyway. You tell the coppers to round up those little cowards, and I'll personally see to it that the buggers get the paddlin' of their lives!"
 
+2. One of the concerned mothers enters your office, waving a wooden ruler. "Now you listen here, @@LEADER@@. No talking and eyes up front. The problem isn't our teaching skills; it's the underfinancing of the state homeschooling program. If we had some decent resources — say six months' training and the latest in educational technology — we'd probably teach even better than those sadistic bullies you call teachers. Now, if you really believe in corporal punishment, why don't you come over here and face the wrath of my ruler!"
 
-[hr][/hr]
-[b][anchor=1695]#1695[/anchor]: TBD[/b]
+3. "Have none of you tried making learning fun?" chides famous television game show host @@RANDOM_FIRST_NAME@@ Jennings. "Hitting kids just won't do; there's no entertainment in it! Making education something worth paying attention to? That's the solution. What if we stop allowing anyone to hit kids, and instead, we allow the kids to hit the teachers? Of course, there have to be some guardrails in place. Say, whenever a teacher gets something wrong, the student who notices gets to punish them? Students' engagement and focus increase, and teachers' mistakes decrease. Everyone wins!"
 
+*4. "We don't need no education; we don't need no thought control!" protests neighbourhood youth Little Jimmy, arms and face blackened with grease. "School is hella lame! Classrooms ain't no different than jail cells and should be closed just like 'em. Fact is, I've learned more life lessons tinkering on machines with my pa than I ever have from a teacher. Nobody nowadays cares how gravity works. You help us find decent jobs and we'll show you how fast us kids can really learn." [[color=red]Does not have child labor[/color]]
 
-[hr][/hr]
-[b][anchor=1696]#1696[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1697]#1697[/anchor]: TBD[/b]
-
+*5. "We don't need no education; we don't need no thought control!" protests neighbourhood youth Little Jimmy, arms and face blackened with soot. "School is hella lame! Stop forcing us to do stuff we don't wanna do and close them jail cells you call classrooms. Fact is, I've learned more life lessons at my part-time chimney-sweepin' job than I ever have from a teacher. Nobody nowadays cares how gravity works. You help us find decent jobs and we'll show you how fast us kids can really learn." [[color=blue]Has child labor[/color]]
 
 [hr][/hr]
-[b][anchor=1698]#1698[/anchor]: TBD[/b]
+[b][anchor=1693]#1693[/anchor]: My Home Is My Castle [Magnum Aurumea; ed: Raionitu][/b]
 
+The Issue
+Recently, a widely publicized incident occurred in which eight-year-old Kaleb McCalliston successfully protected his family's mansion from two of @@REGION@@'s most infamous cat burglars whilst home alone. However, police reports state that Kaleb utilized excessive force during his daring defense in the form of primed booby traps, strategically-placed flamethrowers, and weaponized household objects, severely wounding the two unfortunate criminals. Many critics have interpreted this event as yet another example of how @@NAME@@'s lenient self-defense laws have caused undue harm over the years.
+
+The Debate
+1. "That child ought to be punished severely!" roars Chief of Police Chun-Li Skywalker, as she stares daggers at a police sketch of the youngster. "It's clear that he abused our inadequate self-defense laws to inflict unnecessary harm upon that dastardly duo for his own enjoyment. Yes, they're both crooks, but what if innocent @@DEMONYM_PLURAL@@ had needed those hospital beds? In addition, the damage enabled the crooks to file for medical parole, meaning two dangerous felons are back on the streets! Deal with him already, and while you're at it, ban civilians from defending themselves without police assistance — they can't handle such responsibility."
+
+2. "You're going to do WHAT?!" exclaims stand-your-ground activist Hiro Bishop, who happens to be a close friend of the McCalliston family. "The right to defend one's own property is as sacred, inalienable, and fundamental of a right as any other in our beautiful country. If anything, your government should loosen up those nasty gun and self-defense laws so everyday, law-abiding citizens like myself possess the means to effectively protect our loved ones! Kaleb here is a victim and an innocent little boy, you can't seriously be attempting to hold him accountable for what those monsters forced him to do, right?"
+
+3. "Why don't we just beef up the blue line?" suggests Melissa Gutierrez, your Minister of Unimaginative Solutions. "The root problem is crime, and more police officers equals less crime. Or does it equal lower response times? Well, lower response times still equals fewer chances for self-defense incidents. Taxpayers may not like paying for an increase to the police budget, so you also should enact a few cuts to welfare to keep them happy." She glances at the police sketch on the wall. "Hey, that guy kinda resembles the kid who graffitied my porch yesterday..."
 
 [hr][/hr]
-[b][anchor=1699]#1699[/anchor]: TBD[/b]
+[b][anchor=1694]#1694[/anchor]: Aiding and Abetting [Krusavich; ed: The Marsupial Illuminati][/b]
 
+The Issue
+It's that time of year yet again, when the various competing constituents of the world flock to @@NAME@@ with promises of financial aid and a brighter tomorrow for your poor nation, with some caveats of course.
+
+The Debate
+*1. "What we have here is a classic, typical case of a total financial crisis," cheerfully opines a representative of the World Financial Council. "Not to worry, as your wonderful nation qualifies for our world-renowned lending program. With these extra funds in the treasury, I'm sure you can set @@NAME@@ right as rain! Now, you can't just spend it willy-nilly. You will need to invest these funds in the key industrial sectors as prescribed in the loan agreement. Additionally, we will require a general liberalization of economic policies to encourage proper free trade of course, in addition to severe budget cuts and austerity measures. Once you're set, @@NAME@@ will be able to join the free world as a proper country!" [[color=red]Must not be Capitalist[/color] / [color=blue]Must be Socialist[/color]]
+
+*2. "What we have here is a classic, typical case of a total financial crisis," cheerfully opines a representative of the World Financial Council. "Not to worry, as your wonderful nation qualifies for our world-renowned lending program. With these extra funds in the treasury, I'm sure you can set @@NAME@@ right as rain! Now, you can't just spend it willy-nilly. You will need to invest these funds in the key industrial sectors as prescribed in the loan agreement. Additionally, we will require a further liberalization of economic policies to encourage proper free trade of course, in addition to severe budget cuts and austerity measures. Once you're set, @@NAME@@ will be able to join the free world as a proper country!" [[color=red]Must not be Socialist[/color] / [color=blue]Must be Capitalist[/color]]
+
+**3. "Bah, capitalist nonsense!" decries the ambassador from East Lebatuck in their thick accent. "Comrade, you would do well not to offer glorious nation on a silver platter to these devils. We know well that socialist economy simply needs little boost from motherland to get moving. We will send real money and real investment. Build roads, grow food, arm military. Your nation will stand tall and strong, like grain elevator. In return to us? Very little. Just little storage of our missile platforms in @@NAME@@. Very simple, yes? We will need to lie and deceive international community to hide activities, and maybe @@NAME@@ will be in severe danger once bear is out of bag, but East Lebatuck will protect you!" [[color=red]Must not be Capitalist[/color] / [color=blue]Must be Socialist[/color]]
+
+**4. "We wouldn't demand austerity," counters a representative from the United Federation Agency for International Development, or UFAID. "We would like to offer @@NAME@@ millions of @@CURRENCY_PLURAL@@ for various causes which will improve the lives of @@DEMONYM_PLURAL@@. When it comes to human rights, we have a lot of work to do. We would like to see more narratives centered on LGBT and immigrant @@DEMONYM_PLURAL@@. So how about funding for a gay opera? And yes, we also want disabled and ethnic characters in there too." [[color=red]Must not be Socialist[/color] / [color=blue]Must be Capitalist[/color]]
+
+5. "Or perhaps a third way?" proposes the leader of a small, inoffensive nation near your borders. "My good friend, you're not alone in your struggle to grow your economy as an independent country in this hectic world. But there is no need to give into these imperialists. I'm gathering a union of nations like our own. Join our League of Average and Minor Entities, and we will secure our independence from these power blocs together. Strength in numbers! Now speaking of shared interests, we are well aware you could use buyers for that @@MAJOR_INDUSTRY@@ sector of yours. That is something we can arrange very easily during our next League conference — provided @@NAME@@ is willing to purchase some of our wheelbarrows. One small step for us, another step for you!"
+
+6. "Why even bother with all that?" smugly questions your cousin @@RANDOM_FIRST_NAME@@ who somehow squirmed @@HIS@@ way into your office. "We control all the money stuff, right? We should just print more. Give all the impoverished @@DEMONYM_PLURAL@@ enough @@CURRENCY_PLURAL@@ until the World Assembly can't classify them as poor anymore. If no one is poor, how could anyone say our economy is doing poorly? It's all smokes and mirrors — to be wealthy, we just have to convince the world we're wealthy! I know, I know, sometimes my genius surprises even me."
+
+[hr][/hr]
+[b][anchor=1695]#1695[/anchor]: Calling All @@DEMONYM_NOUN_PLURAL@@ [USS Monitor; ed: Terrabod & Southland][/b]
+
+The Issue 
+Rural residents of @@NAME@@ have kicked off a — perhaps ill-conceived — telephone campaign complaining about poor cell phone reception in the nation's most remote regions.
+
+The Debate
+1. Your phone rings and you pick up to a tinny voice. "I lost my job because [i]*FFFF* *crackle*[/i] couldn't call my boss because my recept- [i]*crackle[/i]* complained to phone [i]*FFFF*[/i] told to [i]*FZZK*[/i] off —" The line goes dead, but the phone rings again a moment later. "The gov[i]*crackle*[/i]ment must bring services to [i]*FFFF*[/i] area so everyone can keep in touch [i]*crackle*[/i] their friends and —" The line cuts out again.
+
+*2. "Oh buzz off!" yells your ambitious Communications Minister @@RANDOM_NAME_1@@, who is either talking to you or @@HIS@@ constantly-ringing phone. "We're about to roll out our revolutionary RedStar cellular network — now capable of downloading at 9,000 megazits per second — here in @@CAPITAL@@ when this happens? The cost of providing this luxury to the rural areas will set it back years! We should not waste resources on infrastructure that only three people and @@A@@ @@ANIMAL@@ are going to use. Placate those kulaks by expanding our mail carrier services, and maybe donating our more outdated tech like pagers and telegraphs to them, so they can communicate in a cost-effective manner." [does not have Capitalism]
+
+*3. "Oh buzz off!" yells your jetsetting Technology Minister @@RANDOM_NAME_1@@, who is either talking to you or @@HIS@@ constantly-ringing phone. "Do you have any idea how much time and @@CURRENCY_PLURAL@@ it would take to give full coverage in the boonies? We should not waste government resources on infrastructure that only three people and @@A@@ @@ANIMAL@@ are going to use! If it will make those bumpkins shut up, just pawn off the responsibility to the phone companies. Give them I dunno, tax breaks, low-cost loans, and ten acres of land for every cell tower and optic cable laid. That way we can focus on real issues, like rolling out cutting edge Next Gen cell network technology here in @@CAPITAL@@. I'll finally be able to download at 9,000 megazits per second!" [has Capitalism]
+
+4. "We don' need 'dem fancy glass bricks!" proclaims Old @@MAN@@ @@RANDOM_FIRST_NAME@@, a crusty goat-herder and lederhosen afficionado who somehow wandered into your office. "Thin's were bett'r in th' ol' days without dem' spy boxes wastin' everyone's time and stealin' our info, an' everyone knows dey microwave your brain. Ban cellphones, bring back landlin's, teach dem' darn kids to also have prop'r face-to-face convers'tion, an' get dem off my lawn! Even bett'r, make yodelin' require teachin' in schools like in mah days." @@HE@@ then grabs @@RANDOM_LAST_NAME_1@@'s phone and stuffs it in some underpants.
+
+[hr][/hr]
+[b][anchor=1696]#1696[/anchor]: Everyone Loves Shipping [Candlewhisper Archive; ed: Klaus Devestatorie][/b]
+
+The Issue 
+Since their invention, globally standardised shipping containers have been critical to facilitating international trade, allowing for the easy transfer of goods between different modes of transport. However, for some time @@NAME@@ has had a strongly negative trade balance — that is, it imports far more than it exports. This has led to a domestic surplus of these containers, with thousands of the steel boxes endlessly accumulating outside ports and freight terminals.
+
+The Debate
+1. "Nobody is coming to pick these containers up, so we need to fill them, and filling them means fixing that trade deficit," counsels business analyst Brett Onwards, who has spent all morning trying to sell homemade cookies to your staff. "We need to re-gear our economy towards manufacturing and export production. That means using subsidies to push these industries up, funded with tariffs on imported goods. As the trade balance corrects, our metal mountain will move offshore."
+
+2. "There's no reason to completely upend the national economy over a few shipping containers," admonishes author @@RANDOM_NAME@@, trading a copy of @@HIS@@ book Nation Building for the Modern Age for several cookies. "If we have an excess of metal boxes, they could easily be upcycled into housing units, or libraries, or even community workshops. This doesn't have to cost the government a single @@CURRENCY@@, either — just be open-minded to patriots, and get rid of the bureaucracy of permits, safety rules and building codes that stand in the way of practical progress."
+
+3. "It is not strictly necessary for imports and exports to balance in a properly planned economy," observes market philosopher Fred Rickangles, slicing his cookie into pieces to share with everyone. "Nor is perfect efficiency essential, so long as the needs of the many are met. Look on it this way — sending empty containers back overseas may not generate profit, but it generates work, and every able-bodied adult should have the right to a dignified and paying job."
+
+4. "You can't rely on our noble economic planners to wipe their own bottoms when they've made a mess," laughs local conservationist @@RANDOM_NAME@@. "All of those other ideas are just delaying the inevitable abandonment that happens to all of those boxes when they get old. The state needs to purchase these containers and recycle them, reclaiming the steel for reuse. Then, to stop any more accumulation, just stop importing, and stop exporting. You heard me — produce domestically to use domestically. Those cookies smell like you used unethically sourced chocolate, by the way."
+
+[hr][/hr]
+[b][anchor=1697]#1697[/anchor]: Escape From Althaniq [Frieden-und Freudenland; ed: Kractero][/b]
+
+The Issue
+@@RANDOM_FEMALE_NAME@@, a young woman from Althaniq, made headlines yesterday after she barricaded herself in @@CAPITAL@@ International Airport to avoid deportation back home. She claims that her life is at risk in the theocratic nation for renouncing her faith, which is punishable by death under local law. She is now pleading to be granted asylum in @@NAME@@.
+
+The Debate
+1. "This young woman has been suffering for over 36 hours!" exclaims @@RANDOM_NAME@@, a lawyer for the non-governmental organization Nikkel and Dyme. "If she is sent back to her country, she will face certain death at the hands of these religious fundamentalists. The humane thing to do would be to grant her asylum and allow her to start a new life here in @@NAME@@."
+
+2. "Excuse me, but I'll tell you who is really suffering — this reckless young lady's parents!" interjects @@RANDOM_NAME@@, the ambassador from Althaniq. "I assure you she just came up with a cock-and-bull story to escape from her parents who, according to her, are too strict. Guess what? She is just another typical kid who wants too much freedom, that's all. The responsible thing to do would be to send her back home to her parents." The ambassador leans in slightly. "We would hate to see our sterling trade relationship affected by this sorry affair. I'm sure you know how much your country depends on Althaniq oil."
+
+3. "Ah, it looks like she would have gone to Brancaland if her passport hadn't been cancelled, but settled for us out of necessity," sneers your cousin, @@RANDOM_NAME@@, visibly offended. "If I were you, I would just secretly put her on another airplane and send her straight to Brancaland. Now, will Brancaland take an asylum seeker with cancelled papers? Will Althaniq have operatives waiting to snatch her out of Brancaland?" He pauses as if waiting for a response. "If she thinks Brancaland is so great, let Brancaland answer those questions! Now, let her go on her merry way. We must not settle for second best, after all."
+
+[hr][/hr]
+[b][anchor=1698]#1698[/anchor]: That Don't Impress Me Much [Baggieland; ed: Baggieland & Zwangzug][/b]
+
+The Issue
+The number of citizens volunteering to join the military has been dwindling at an ever increasing rate. In order to ensure the defence of @@NAME@@, it has been proposed that slave owners relinquish their chattel to the armed forces.
+
+The Debate
+1. "Well, I must say, I'm a bit peeved," declares Trajan Hawkins, a slave owner dressed in a white suit and panama hat, as one of his slaves fans him. "Taking my slaves would leave me quite out of pocket, don't you know? I would have to spend vast amounts either acquiring and transporting new slaves or, Violet forbid, actually hiring free men and paying them a salary! You may call upon my slaves — for a fee — and I will expect considerable compensation in the event of their deaths."
+
+2. "We need a cost-effective way to increase our military capacity," posits Bongani Osborne, your Finance Minister. "But we can't afford to compensate all the slave owners whose property we would confiscate. So let's conscript slaves, but only ones that have already had children. That way compensation won't be necessary as replacement stock is already there."
+
+3. "We can't use slaves as frontline personnel," worries Rear Admiral Vonnegut, as she whacks your desk with her parade stick. "Quite simply, the loyalty of slaves to the @@TYPE@@ is in question; it isn't like they're motivated by patriotic spirit. Let's use slaves for tasks such as laundry and cooking duties, but keep them away from the weapons. If we still don't have enough troops to fill our ranks, then we'll need to institute impressment among free @@DEMONYM_NOUN_PLURAL@@."
+
+4. "Excuse me?" asks the slave who has been fanning Trajan Hawkins the whole time, dropping the fan on his head and approaching you. "We slaves will be happy to serve in your military, and we will serve with distinction too. However, when we're discharged, @@NAME@@ ought to show its appreciation to us by granting us and our families manumission, and a bit of money to help us start over in life. Now, where do I sign up?"
+
+[hr][/hr]
+[b][anchor=1699]#1699[/anchor]: Achute Binjury [GeodesicDragon; ed: Bisofeyr][/b]
+
+The Issue
+*A trash collector unexpectedly died after he was tangled in a bungee cord attached to a household wheelie bin which ricocheted after being snagged by the lifting mechanism of their waste collection vehicle. Now, sanitation workers are stinking up your office to advocate for more solid worker safety laws for trash collectors. [[color=blue]Must have cars[/color]]
+
+*A trash collector unexpectedly died after @@HE@@ was thrown off by a horse after it was hit by a bungee cord attached to a household wheelie bin. Now, sanitation workers are stinking up your office to advocate for more solid worker safety laws for trash collectors. [[color=red]Must not have cars[/color]]
+
+The Debate
+1. "We shouldn't ever have to deal with this rubbish," mumbles Dusty Binn, a colleague of the injured worker, wearing a neon safety vest and scratching an overgrown beard. "You must forbid the use of bungee cords or any other kind of restraint on outdoor dumpsters, and force violators to compensate us for our pain and suffering. If they refuse... we'll take them out with the trash!"
+
+2. "That idea is garbage — literally. Why should I be punished for the failure of the waste man to check the bag?" pleads Rob Ishbag, whose bungee cord was responsible for the crime. "Besides, the bin was practically overflowing, thanks to these bums who only stop by my house, like, once a week, and I needed that cord to keep the lid closed and keep animals out. Maybe instead of blaming me, you should recruit more workers, improve their training, and increase pickup frequency."
+
+3. "Honestly, why do people waste your time with this junk?" asks Gar Bidgeman, a local dumpster diver with a banana peel in their hair. "You have better things to than listen to this trash, these garbos are not worth the time, and my taxes are better kept in my pocket! Abolish trash collection services and if people want their rubbish taken out, make them do it themselves!"
 
 [hr][/hr]
 

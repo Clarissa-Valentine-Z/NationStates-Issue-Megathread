@@ -1752,6 +1752,8 @@ Zukerburg[/code]
 [b]@@RANDOM_FIRST_NAME@@[/b]: a randomized first name by itself.
 [b]@@RANDOM_LAST_NAME@@[/b]: a randomized last name by itself.
 [b]@@HE@@/@@HIS@@/@@HIM@@/@@MAN@@[/b]: Displays "he", "his", "him", or "man" if the name it targets is male, and "she", "her", "hers"*, or "woman" if female.
+[b]@@BOY@@[/b]: for a specific child. Like man and woman, but for children.
+[b]@@SON@@[/b]: for a specific child. Like man and woman, but for children.
 
 [b]IMPORTANT NOTE:[/b] [i]You may now use @@HE/HIS/HIM@@ for any person, as well as called a person's randomname again. There is no standard set of macro for this, as of yet, so an example would be as follows:[/i]
 [box]Option 1: Before @@HE_1@@ spoke, @@RANDOM_NAME_1@@ took a pen from your secretary, @@RANDOM_NAME_2@@. [...]
@@ -1884,5 +1886,9 @@ Section 6 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32527535
 1640 TO 1659.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138659
 1660 TO 1678.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138660
 1679 TO 1699.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138661
-1700 TO 1719.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138662
+1700 TO 1709.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138662
+1710 TO 1719.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138663
+1720 TO 1729.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138664
+1730 TO 1739.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138665
+1740 TO 1749.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138666
 [/spoiler]

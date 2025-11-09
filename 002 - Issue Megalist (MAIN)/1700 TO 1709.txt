@@ -100,13 +100,13 @@ During @@HIS_1@@ first public speech your new Minister of Environment, @@RANDOM_
 The Debate
 1. "We've played cat and mouse long enough!" fumes Minister @@RANDOM_LAST_NAME_1@@ as @@HE_1@@ slams carbon emission reports on your desk. "We've asked them nicely over and over again, but they didn't listen. Now let's give them something they can't ignore: ban the construction of new coal plants, put tariffs on imported oil, and impose crushing fines for non-compliance. Power plants can either go green or go broke."
 
-*2a. "Let's not be too harsh here." argues Bruno Cole, CEO of @@NAME@@ Gas and Electric, as he slides a "donation" to the Minister. "Renewable energy sources are still far more expensive than their traditional counterparts, we obviously need more time to convert to green energy. The technology isn't there yet and all our infrastructure is built for fossil fuels. Fund more research on power generation, but banning coal now would just hurt the common @@DEMONYM_NOUN@@."
+*2. "Let's not be too harsh here." argues Bruno Cole, CEO of @@NAME@@ Gas and Electric, as he slides a "donation" to the Minister. "Renewable energy sources are still far more expensive than their traditional counterparts, we obviously need more time to convert to green energy. The technology isn't there yet and all our infrastructure is built for fossil fuels. Fund more research on power generation, but banning coal now would just hurt the common @@DEMONYM_NOUN@@."
 
-*2b. "Let's not be too harsh here." argues Burl Cole, Minister of Energy, as he tucks his "donations" away. "Renewable energy sources are still far more expensive than their traditional counterparts, we obviously need more time to convert to green energy. The technology isn't there yet and all our infrastructure is built for fossil fuels. Fund more research on power generation, but banning coal now would just hurt the common @@DEMONYM_NOUN@@."
+*3. "Let's not be too harsh here." argues Burl Cole, Minister of Energy, as he tucks his "donations" away. "Renewable energy sources are still far more expensive than their traditional counterparts, we obviously need more time to convert to green energy. The technology isn't there yet and all our infrastructure is built for fossil fuels. Fund more research on power generation, but banning coal now would just hurt the common @@DEMONYM_NOUN@@."
 
-**3. "We already [i]have[/i] a green energy source that is compatible with our current infrastructure, but because of that [i]one[/i] incident in East Lebatuck 50 years ago..." mutters nuclear scientist Lisa Bakker "Nuclear energy is far safer now than ever, and with your support we can be the nuclear superpower of the world! That came out wrong, we can be the glowing green, the uh..." the scientist trails off while trying to think of a positive catchphrase.
+**4. "We already [i]have[/i] a green energy source that is compatible with our current infrastructure, but because of that [i]one[/i] incident in East Lebatuck 50 years ago..." mutters nuclear scientist Lisa Bakker "Nuclear energy is far safer now than ever, and with your support we can be the nuclear superpower of the world! That came out wrong, we can be the glowing green, the uh..." the scientist trails off while trying to think of a positive catchphrase.
 
-4. "Why are we trying to change our old traditions anyway?" grumbles @@RANDOM_FIRST_NAME@@ Collier, coughing out black dust. "Coal and oil powered our nation for generations and now suddenly they're 'bad for the environment'? We need to embrace our heritage! Teach the children about the importance of fossil fuels, make national holidays for it. Let's be the fossil fuel capital of the world!"
+5. "Why are we trying to change our old traditions anyway?" grumbles @@RANDOM_FIRST_NAME@@ Collier, coughing out black dust. "Coal and oil powered our nation for generations and now suddenly they're 'bad for the environment'? We need to embrace our heritage! Teach the children about the importance of fossil fuels, make national holidays for it. Let's be the fossil fuel capital of the world!"
 
 [hr][/hr]
 [b][anchor=1707]#1707[/anchor]: Crime and Re-Punishment [Baloo Kingdom; Jiangbei][/b]
@@ -156,45 +156,5 @@ The Debate
 3. "Dear child," interjects renowned sociologist @@RANDOM_NAME@@, "the youth don't drive because they have no need to drive. Most childless couples can flexibly time their trips. But once kids arrive, the day turns into daycare–school–doctor–pharmacy ping-pong — a chain of tightly scheduled events requiring strollers and baby seats that only cars can accommodate. If you truly wish to bring back the glory days of the automobile industry, you must encourage those in @@NAME@@ to settle down sooner."
 
 4. "The next generation doesn't want to own cars? So what?" shouts @@RANDOM_NAME@@, a famous climate activist and avid BMX enthusiast, doing a 360 jump on a rented bike over the leaving salesman. "We're just finally waking up to how damaging cars are to the environment. This trend is a perfect opportunity to push us into a green future. We should take the money that you were planning to give these polluters and use it to blanket every square meter of @@NAME@@ in transit lines!"
-
-[hr][/hr]
-[b][anchor=1710]#1710[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1711]#1711[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1712]#1712[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1713]#1713[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1714]#1714[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1715]#1715[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1716]#1716[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1717]#1717[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1718]#1718[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1719]#1719[/anchor]: TBD[/b]
-
 
 [hr][/hr]

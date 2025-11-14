@@ -82,11 +82,11 @@ The malicious computer virus "DEAT.exe" is infecting nearly all the computers in
 The Debate
 1. "It's those horrible kids. Hacking in where they don't belong. You've got to give us more funding to put a stop to it," says @@NAME@@ Federal Police Chief @@RANDOM_NAME@@. "Like with cars- ban kids from using computers until they pass a test and get a license!"
 
-*2. CEO @@RANDOM_NAME@@ of CyberMirage Labs has a different idea. "Let us release SAL9000, our new AI, into the @@NAME@@ Network. It'll put a stop to this virus. Nevermind that it's still only an untested beta!" [[color=blue]Must have private industry[/color]]
+2a. CEO @@RANDOM_NAME@@ of CyberMirage Labs has a different idea. "Let us release SAL9000, our new AI, into the @@NAME@@ Network. It'll put a stop to this virus. Nevermind that it's still only an untested beta!" [[color=blue]Must have private industry[/color]]
 
-*3. Director @@RANDOM_NAME@@ of the State Technician's Artificial Life Intelligence Network has a different idea. "Let us release SAL9000, our new AI, into the @@NAME@@ Network. It'll put a stop to this virus. Never mind that it's still only an untested beta!" [[color=red]Must not have private industry[/color]]
+2b. Director @@RANDOM_NAME@@ of the State Technician's Artificial Life Intelligence Network has a different idea. "Let us release SAL9000, our new AI, into the @@NAME@@ Network. It'll put a stop to this virus. Never mind that it's still only an untested beta!" [[color=red]Must not have private industry[/color]]
 
-4. "Yeah, wonderful! Fix a virus by releasing an AI that will likely turn on its creators? Are you people trying to get us all killed?!" Decries infamous technophobe @@RANDOM_NAME@@, "What do we need computers for anyway? They will only bring us trouble and disaster! Personal computers ought to be banned!"
+3. "Yeah, wonderful! Fix a virus by releasing an AI that will likely turn on its creators? Are you people trying to get us all killed?!" Decries infamous technophobe @@RANDOM_NAME@@, "What do we need computers for anyway? They will only bring us trouble and disaster! Personal computers ought to be banned!"
 
 [hr][/hr]
 [b][anchor=58]#58[/anchor]: Violent Violetists Demand Blood! [Total n Utter Insanity; ed: Reploid Productions][/b]
@@ -123,13 +123,13 @@ The Issue
 The death of 108 year old Supreme Court Justice @@RANDOM_NAME@@ has created an opening on the bench. Below are the possible nominees.
 
 The Debate
-*1. @@RANDOM_NAME@@, the Former CEO of @@NAME@@ Products, says "I have long sat by and watched our government viciously attack the big businesses in this country. The government has no right to control businesses and I will adopt that position in all of my judgements." [[color=blue]Must have private industry[/color]]
+1a. @@RANDOM_NAME@@, the Former CEO of @@NAME@@ Products, says "I have long sat by and watched our government viciously attack the big businesses in this country. The government has no right to control businesses and I will adopt that position in all of my judgements." [[color=blue]Must have private industry[/color]]
 
-*2. Comrade @@RANDOM_NAME@@, of the Worker's Committee on Proletariat Loyalty, says, "I have too long sat by and watched the judiciary viciously undermining the righteous cause of the Workers and the Party that represents them. The judiciary has no right to interfere with Party business and I will adopt that position in all of my judgements." [[color=red]Must not have private industry[/color]]
+1b. Comrade @@RANDOM_NAME@@, of the Worker's Committee on Proletariat Loyalty, says, "I have too long sat by and watched the judiciary viciously undermining the righteous cause of the Workers and the Party that represents them. The judiciary has no right to interfere with Party business and I will adopt that position in all of my judgements." [[color=red]Must not have private industry[/color]]
 
-**3. Reverend @@RANDOM_NAME@@ is nominee #2. The Reverend says "I am sick and tired of the liberals in this country ruining our family values. Every day they assault our basic sense of decency. You must vote for me to keep our families safe. Think of the children!" [[color=purple]Must lean towards being religious[/color]]
+2a. Reverend @@RANDOM_NAME@@ is nominee #2. The Reverend says "I am sick and tired of the liberals in this country ruining our family values. Every day they assault our basic sense of decency. You must vote for me to keep our families safe. Think of the children!" [[color=purple]Must lean towards being religious[/color]]
 
-**4. Traditionalist and conservative @@RANDOM_NAME@@ is nominee #2. @@HE@@ says, "I am sick and tired of the liberals in this country ruining our family values. Every day they assault our basic sense of decency. You must vote for me to keep our families safe. Think of the children!" [[color=purple]Must lean towards being secular[/color]]
+2b. Traditionalist and conservative @@RANDOM_NAME@@ is nominee #2. @@HE@@ says, "I am sick and tired of the liberals in this country ruining our family values. Every day they assault our basic sense of decency. You must vote for me to keep our families safe. Think of the children!" [[color=purple]Must lean towards being secular[/color]]
 
 5. Gay Activist and former Senator @@RANDOM_NAME@@ is nominee #3. "Our people aren't happy, we need more freedom, we need more civil rights. We must keep the government out of the bedroom. We must respect people's right to privacy and remember that personal relations are just that, personal."
 
@@ -267,15 +267,15 @@ The Issue
 The fanatical religious organization @@NAME@@'s Concerned Citizens for Our God has brought it to your attention that there are many non-believers in your nation, and that they think something should be done about this.
 
 The Debate
-*1. "We already have an official religion," says @@RANDOM_NAME@@, the white cloaked spokesperson for @@NAME@@'s Concerned Citizens. "Why not enforce it? After all, the only way to Heaven is through Us and Our God. If they will not believe in Our Loving and Forgiving God, well, clearly they must be PUT TO DEATH." [[color=blue]Must not have capital punishment[/color]]
+1a. "We already have an official religion," says @@RANDOM_NAME@@, the white cloaked spokesperson for @@NAME@@'s Concerned Citizens. "Why not enforce it? After all, the only way to Heaven is through Us and Our God. If they will not believe in Our Loving and Forgiving God, well, clearly they must be PUT TO DEATH." [[color=blue]Must not have capital punishment[/color]]
 
-*2. "We already have an official religion," says @@RANDOM_NAME@@, the white cloaked spokesperson for @@NAME@@'s Concerned Citizens. "Why not enforce it? After all, the only way to Heaven is through Us and Our God. If they will not believe in Our Loving and Forgiving God, well, clearly they must be PUT TO DEATH." [[color=red]Must have capital punishment[/color]]
+1b. "We already have an official religion," says @@RANDOM_NAME@@, the white cloaked spokesperson for @@NAME@@'s Concerned Citizens. "Why not enforce it? After all, the only way to Heaven is through Us and Our God. If they will not believe in Our Loving and Forgiving God, well, clearly they must be PUT TO DEATH." [[color=red]Must have capital punishment[/color]]
 
-3. "Put to death? Is this really the type of person you want to listen to?" says @@RANDOM_NAME@@. "Every day I thank God that I'm an agnostic and don't need to believe this nonsense. Religion shouldn't have anything to do with our government."
+2. "Put to death? Is this really the type of person you want to listen to?" says @@RANDOM_NAME@@. "Every day I thank God that I'm an agnostic and don't need to believe this nonsense. Religion shouldn't have anything to do with our government."
 
-4. "They're right, religion shouldn't have a role in our government, but they don't go far enough," says @@RANDOM_NAME@@ at a local AA (Atheists Anonymous) meeting. "Few things have caused more death and suffering in this world than religion. Just look at the Crusades and the Jihads throughout history! This should be treated like the mental disorder that it is. Remember, religion teaches intolerance, and we cannot accept that!"
+3. "They're right, religion shouldn't have a role in our government, but they don't go far enough," says @@RANDOM_NAME@@ at a local AA (Atheists Anonymous) meeting. "Few things have caused more death and suffering in this world than religion. Just look at the Crusades and the Jihads throughout history! This should be treated like the mental disorder that it is. Remember, religion teaches intolerance, and we cannot accept that!"
 
-5. "Oh Lord, please don't let our noble leader listen to these extremists!" prays your religious advisor, @@RANDOM_NAME@@. "Religion is an important guiding force in peoples' lives, but we have no right to force it on people. Atheists, since they don't have a religion, are less ethical and their actions cost society more, so it's only fair that they should be taxed more heavily to make up the difference."
+4. "Oh Lord, please don't let our noble leader listen to these extremists!" prays your religious advisor, @@RANDOM_NAME@@. "Religion is an important guiding force in peoples' lives, but we have no right to force it on people. Atheists, since they don't have a religion, are less ethical and their actions cost society more, so it's only fair that they should be taxed more heavily to make up the difference."
 
 [hr][/hr]
 [b][anchor=71]#71[/anchor]: Minority Group Demands Language Recognition [Pragmas; ed: SalusaSecondus][/b]
@@ -299,13 +299,13 @@ Several festively chubby people were lodged in their movie theater seats for hou
 The Debate
 1. "Clearly, we have to do something about the expanding obesity problem in @@NAME@@, er, no pun intended," remarks @@RANDOM_NAME@@ of the National Health Bureau. "The government should implement an extensive exercise management program and make it mandatory that all citizens participate in some kind of exercise at least once a week."
 
-*2. "Mandatory exercise! Get out! I don't have the time!" snorts nationally renowned TV chef @@RANDOM_NAME@@. "How about banning those greasy fast food joints and drive-thrus? I mean, seriously, if you can't get out of your stupid car to walk in and get a meal, how sad is that? Ban fast food and make junk food more expensive--that way, people will have to think about whether they really want to spend ten @@CURRENCY_PLURAL@@ on a snack cake." [[color=blue]Must not ban cars[/color]]
+2a. "Mandatory exercise! Get out! I don't have the time!" snorts nationally renowned TV chef @@RANDOM_NAME@@. "How about banning those greasy fast food joints and drive-thrus? I mean, seriously, if you can't get out of your stupid car to walk in and get a meal, how sad is that? Ban fast food and make junk food more expensive--that way, people will have to think about whether they really want to spend ten @@CURRENCY_PLURAL@@ on a snack cake." [[color=blue]Must not ban cars[/color]]
 
-*3. "Mandatory exercise! Get out! I don't have the time!" snorts nationally renowned TV chef @@RANDOM_NAME@@. "How about banning those greasy fast food joints and drive-thrus? I mean, seriously, if you can't get on your stupid bike and go get a meal, how sad is that? Ban fast food and make junk food more expensive—that way, people will have to think about whether they really want to spend ten @@CURRENCY_PLURAL@@ on a snack cake." [[color=red]Must ban cars[/color]]
+2b. "Mandatory exercise! Get out! I don't have the time!" snorts nationally renowned TV chef @@RANDOM_NAME@@. "How about banning those greasy fast food joints and drive-thrus? I mean, seriously, if you can't get on your stupid bike and go get a meal, how sad is that? Ban fast food and make junk food more expensive—that way, people will have to think about whether they really want to spend ten @@CURRENCY_PLURAL@@ on a snack cake." [[color=red]Must ban cars[/color]]
 
-[4]. "I don't see why it's anyone's business but my own how I kill myself," says @@RANDOM_NAME@@, a pleasantly plump former computer programmer, midway through a chili dog. "My weight is my own business, and if I don't feel like exercising, that's my choice. Sure, it'd be healthier to lose a few pounds, but my priorities lie elsewhere. Leave us alone, and we, the citizens of @@NAME@@, will decide what's important to us and what we want to eat." [[color=blue]Must not ban Computers[/color]]
+[3]. "I don't see why it's anyone's business but my own how I kill myself," says @@RANDOM_NAME@@, a pleasantly plump former computer programmer, midway through a chili dog. "My weight is my own business, and if I don't feel like exercising, that's my choice. Sure, it'd be healthier to lose a few pounds, but my priorities lie elsewhere. Leave us alone, and we, the citizens of @@NAME@@, will decide what's important to us and what we want to eat." [[color=blue]Must not ban Computers[/color]]
 
-5. "What about government-funded liposuction?" asks @@RANDOM_NAME@@, while contemplatively chewing a mouthful of chili dog. "If I could get the fat sucked off of these hips, that would give me the willpower to stay thin. Obesity would be a thing of the past! Just think of it! Nothing but svelte, beautiful people everywhere! Ah, bliss!"
+4. "What about government-funded liposuction?" asks @@RANDOM_NAME@@, while contemplatively chewing a mouthful of chili dog. "If I could get the fat sucked off of these hips, that would give me the willpower to stay thin. Obesity would be a thing of the past! Just think of it! Nothing but svelte, beautiful people everywhere! Ah, bliss!"
 
 [hr][/hr]
 [b][anchor=73]#73[/anchor]: @@NAME@@ - Without Cars, Going Nowhere Fast [Reploid Productions; ed: SalusaSecondus][/b]
@@ -314,13 +314,13 @@ The Issue
 Ever since the government banned automobiles, furious soccer moms and commuters have been petitioning the government to revoke the ban, citing any number of troubles people have had without their cars.
 
 The Debate
-*1. "The government was being utterly stupid in banning cars, especially at the whim of a bunch of nutjob, tree-hugging bicyclists!" cries @@RANDOM_NAME@@, CEO of Coo' Stuff, Inc. "My workers are constantly late, they don't work as much because they have to leave early to walk or bike home... leaving this ban in place will only murder the economy!" [[color=blue]Must have private industry[/color]]
+1a. "The government was being utterly stupid in banning cars, especially at the whim of a bunch of nutjob, tree-hugging bicyclists!" cries @@RANDOM_NAME@@, CEO of Coo' Stuff, Inc. "My workers are constantly late, they don't work as much because they have to leave early to walk or bike home... leaving this ban in place will only murder the economy!" [[color=blue]Must have private industry[/color]]
 
-*2. "The government was being utterly stupid in banning cars, especially at the whim of a bunch of nutjob, tree-hugging bicyclists!" cries @@RANDOM_NAME@@, Director of the State Sheet Metal Manufactory. "My workers are constantly late, they don't work as much because they have to leave early to walk or bike home... leaving this ban in place will only murder the economy!" [[color=red]Must not have private industry[/color]]
+1b. "The government was being utterly stupid in banning cars, especially at the whim of a bunch of nutjob, tree-hugging bicyclists!" cries @@RANDOM_NAME@@, Director of the State Sheet Metal Manufactory. "My workers are constantly late, they don't work as much because they have to leave early to walk or bike home... leaving this ban in place will only murder the economy!" [[color=red]Must not have private industry[/color]]
 
-3. "Well, it's extremely difficult to drive my son to and from school and his after-school sports," comments soccer mom @@RANDOM_NAME@@. "But I don't want my boy inhaling all those icky fumes. I say bring back cars, but put some effort into finding cleaner fuels and the like! Who cares if it costs a small fortune?"
+2. "Well, it's extremely difficult to drive my son to and from school and his after-school sports," comments soccer mom @@RANDOM_NAME@@. "But I don't want my boy inhaling all those icky fumes. I say bring back cars, but put some effort into finding cleaner fuels and the like! Who cares if it costs a small fortune?"
 
-4. "What do they know?" whispers a strange woman clad all in green. "You ought to clamp down on these protesters. Without cars, the people are much easier for you to control, are they not?"
+3. "What do they know?" whispers a strange woman clad all in green. "You ought to clamp down on these protesters. Without cars, the people are much easier for you to control, are they not?"
 
 [hr][/hr]
 [b][anchor=74]#74[/anchor]: @@NAME@@'s Racers Growing Fast And Furious [Nascar Thunder; ed: Reploid Productions][/b]
@@ -342,11 +342,10 @@ After the capture and trial of notorious rapist @@RANDOM_MALE_NAME@@, who was co
 The Debate
 1. "That psychopath should be castrated!" cries rape victim @@RANDOM_NAME@@, "The agony he put me through must be punished with a means that will ensure that no human being will ever go through what I did! If castration is used more often in these cases you will see rape drop to nothing!"
 
-*2. "I understand that this is a terrible time for the poor victims in this case," says defense attorney @@RANDOM_NAME@@, "However, the answer is not to revert back to the Dark Ages. Instead, we should focus on rehabilitation of all criminals in our prison system." [[color=blue]Must have prisons[/color]]
+2a. "I understand that this is a terrible time for the poor victims in this case," says defense attorney @@RANDOM_NAME@@, "However, the answer is not to revert back to the Dark Ages. Instead, we should focus on rehabilitation of all criminals in our prison system." [[color=blue]Must have prisons[/color]]
 
-*3. "I understand that this is a terrible time for the poor victims in this case," says defense attorney @@RANDOM_NAME@@, "However, the answer is not to revert back to the Dark Ages. Instead, we must focus on rehabilitation of all criminals in our justice system." [[color=red]Must not have prisons[/color]]
+2b. "I understand that this is a terrible time for the poor victims in this case," says defense attorney @@RANDOM_NAME@@, "However, the answer is not to revert back to the Dark Ages. Instead, we must focus on rehabilitation of all criminals in our justice system." [[color=red]Must not have prisons[/color]]
 
-**4. "Everyone knows re-education is a waste of money, we shouldn't go soft on these crooks!" says CEO @@RANDOM_NAME@@ of the People Trading Corporation. "Simply place all rapists and criminals in @@NAME@@ into forced labor under the management of our company to serve out their sentences. When we're through with them, they won't even think of jaywalking, much less harming another person. We get cheap labor, and these crooks get put straight. Everybody benefits... well, except the crooks." [[color=blue]Must have private industry[/color]]
+3a. "Everyone knows re-education is a waste of money, we shouldn't go soft on these crooks!" says CEO @@RANDOM_NAME@@ of the People Trading Corporation. "Simply place all rapists and criminals in @@NAME@@ into forced labor under the management of our company to serve out their sentences. When we're through with them, they won't even think of jaywalking, much less harming another person. We get cheap labor, and these crooks get put straight. Everybody benefits... well, except the crooks." [[color=blue]Must have private industry[/color]]
 
-**5. "Everyone knows re-education is a waste of money, we shouldn't go soft on these crooks!" says Director of Farming Collectives @@RANDOM_NAME@@. "Simply place all rapists and criminals in @@NAME@@ into forced labor under the management of our directorate to serve out their sentences. When we're through with them, they won't even think of jaywalking, much less harming another person. We get free labor, and these crooks get put straight. Everybody benefits... well, except the crooks." [[color=red]Must not have private industry[/color]]
-
+3b. "Everyone knows re-education is a waste of money, we shouldn't go soft on these crooks!" says Director of Farming Collectives @@RANDOM_NAME@@. "Simply place all rapists and criminals in @@NAME@@ into forced labor under the management of our directorate to serve out their sentences. When we're through with them, they won't even think of jaywalking, much less harming another person. We get free labor, and these crooks get put straight. Everybody benefits... well, except the crooks." [[color=red]Must not have private industry[/color]]

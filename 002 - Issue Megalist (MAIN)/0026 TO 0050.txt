@@ -65,9 +65,9 @@ The Issue
 A group of prominent business identities has proposed privatizing @@NAME@@'s beaches.
 
 The Debate
-1a. "Have you been to the beach lately? It's disgusting," says company spokesperson @@RANDOM_NAME@@. "There's litter, there's teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@'s beaches will be the talk of the region! And a nice little earner, too." [[color=blue]Must have private industry[/color]]
+*1. "Have you been to the beach lately? It's disgusting," says company spokesperson @@RANDOM_NAME@@. "There's litter, there's teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@'s beaches will be the talk of the region! And a nice little earner, too." [[color=blue]Must have private industry[/color]]
 
-1b. "Look, I know your nation doesn't much like capitalists, but have you been to the beach lately? It's disgusting," says company spokesperson @@RANDOM_NAME@@. "There's litter, there's teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@'s beaches will be the talk of the region! Yes, it means ending communism, but isn't this the noblest of reasons to do so?" [[color=red]Must not have private industry[/color]]
+*2. "Look, I know your nation doesn't much like capitalists, but have you been to the beach lately? It's disgusting," says company spokesperson @@RANDOM_NAME@@. "There's litter, there's teenagers smoking, and there are people enjoying themselves without paying for it. Let the private sector in on this, and @@NAME@@'s beaches will be the talk of the region! Yes, it means ending communism, but isn't this the noblest of reasons to do so?" [[color=red]Must not have private industry[/color]]
 
 3. "Whoa, whoa, we're privatizing beaches now?" says local campaigner @@RANDOM_NAME@@. "These are public spaces! All @@NAME@@'s citizens have a right to enjoy them, not just the well-off. Yes, we should improve the quality of our beaches, but handing them over to the money-grabbers is not the right way to do it. The right way to do it is to boost government spending by increasing taxes."
 
@@ -80,13 +80,13 @@ A small religious group is lobbying the government to allow them to take multipl
 The Debate
 1. "It's about time we had our religious rights recognized," says @@RANDOM_NAME@@, a devout member of a faith that is never made quite clear. "Who is the government to tell me I can't love more than one woman? The government doesn't know how much of me there is to go around!"
 
-2a. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says Reverend @@RANDOM_NAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned." [[color=blue]Must not ban Religion[/color]]
+*2. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says Reverend @@RANDOM_NAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned." [[color=blue]Must not ban Religion[/color]]
 
-2b. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says moral crusader @@RANDOM_NAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned." [[color=red]Must ban Religion[/color]]
+*3. "This is nothing more than sexual deviants using religion as a pretext for perversion!" says moral crusader @@RANDOM_NAME@@. "Marriage is one man, one woman, and death do we part. What's so hard to get? Anything else is a perversion, and must be banned." [[color=red]Must ban Religion[/color]]
 
-3a. "Multiple wives? Excellent!" says passer-by @@RANDOM_NAME@@. "Presumably we will allow multiple husbands, as well. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=blue]Must have Marriage Equality[/color]]
+**4. "Multiple wives? Excellent!" says passer-by @@RANDOM_NAME@@. "Presumably we will allow multiple husbands, as well. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=blue]Must have Marriage Equality[/color]]
 
-3b. "Multiple wives? Excellent!" says passer-by @@RANDOM_NAME@@. "Presumably we will allow multiple husbands, as well. And gay marriages, of course. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=red]Must not have Marriage Equality[/color], [color=red]Must have Heterosexuality?[/color]]
+**5. "Multiple wives? Excellent!" says passer-by @@RANDOM_NAME@@. "Presumably we will allow multiple husbands, as well. And gay marriages, of course. In fact, now is probably the time for the government to butt out of marriage altogether. Let people marry their cats, if they want." [[color=red]Must not have Marriage Equality[/color], [color=red]Must have Heterosexuality?[/color]]
 
 [hr][/hr]
 [b][anchor=33]#33[/anchor]: Genetics Brings New Life to Extinct Species [Badger Lozzate][/b]
@@ -97,11 +97,11 @@ Scientists have announced they are close to a breakthrough in their quest to rev
 The Debate
 1. "I, for one, applaud their work," says scientist @@RANDOM_NAME@@. "And not just because I'm the project leader. This is an example of how @@NAME@@'s brains can mix it with the world's best. Can you imagine how wonderful it will be to have feather-bellied @@ANIMAL_PLURAL@@ frolicking in the meadows again? I say full steam ahead, and more government funding!"
 
-2a. "This is a sacrilege!", says religious leader @@RANDOM_NAME@@. "These animals are extinct because God wants them dead. Cloning them would merely incur his wrath! If we proceed down this path, it'll be humans, not the feather-bellied @@ANIMAL@@, who will be extinct." [color=purple]Must not ban religions[/color]
+*2. "This is a sacrilege!", says religious leader @@RANDOM_NAME@@. "These animals are extinct because God wants them dead. Cloning them would merely incur his wrath! If we proceed down this path, it'll be humans, not the feather-bellied @@ANIMAL@@, who will be extinct." [color=purple]Must not ban religions[/color]
 
-2b. "This is absurd!" says avowed fatalist Cato Yeats. "These animals are extinct because evolution selected against them. Cloning them would merely be fighting the inevitable! If we proceed down this path, it'll be humans, not the feather-bellied @@ANIMAL@@, who will be extinct." [color=purple]Must ban religions[/color]
+*3. "This is absurd!" says avowed fatalist Cato Yeats. "These animals are extinct because evolution selected against them. Cloning them would merely be fighting the inevitable! If we proceed down this path, it'll be humans, not the feather-bellied @@ANIMAL@@, who will be extinct." [color=purple]Must ban religions[/color]
 
-3. "Now, come on," says @@RANDOM_NAME@@, well-known philosopher. "You don't need to be religious to be unnerved by the top of this particular slippery slope. Today it's @@ANIMAL_PLURAL@@, tomorrow it's dinosaurs, and we all know how that turns out. This research shouldn't be banned, but there must be strict government controls over its use."
+4. "Now, come on," says @@RANDOM_NAME@@, well-known philosopher. "You don't need to be religious to be unnerved by the top of this particular slippery slope. Today it's @@ANIMAL_PLURAL@@, tomorrow it's dinosaurs, and we all know how that turns out. This research shouldn't be banned, but there must be strict government controls over its use."
 
 [hr][/hr]
 [b][anchor=34]#34[/anchor]: Don't Puff On Me, Say Non-Smokers [Sirocco][/b]
@@ -138,11 +138,11 @@ The international community has appealed to @@NAME@@ to increase humanitarian ai
 The Debate
 1. "We must increase foreign aid," says beaded local peace activist @@RANDOM_NAME@@. "Compared to some of these nations, @@NAME@@ is swimming in @@CURRENCY_PLURAL@@. Let's face it, not every nation in the world is lucky enough to have a government like ours. Let's show some compassion to our less economically gifted neighbors."
 
-2a. "Talk about a way to flush @@CURRENCY_PLURAL@@ straight down the toilet," argues Think Tank member @@RANDOM_NAME@@. "What I've noticed is that whenever we do give something, it's never enough: a few years later they're back asking for more. The best way to help these poor nations is to stop shielding them from the logical consequences of their idiotic, long-debunked socialist economic policies." [[color=blue]Must have private industry[/color]]
+*2. "Talk about a way to flush @@CURRENCY_PLURAL@@ straight down the toilet," argues Think Tank member @@RANDOM_NAME@@. "What I've noticed is that whenever we do give something, it's never enough: a few years later they're back asking for more. The best way to help these poor nations is to stop shielding them from the logical consequences of their idiotic, long-debunked socialist economic policies." [[color=blue]Must have private industry[/color]]
 
-2b. "Talk about a way to flush @@CURRENCY_PLURAL@@ straight down the toilet," argues Think Tank member @@RANDOM_NAME@@. "What I've noticed is that whenever we do give something, it's never enough: a few years later they're back asking for more. The best way to help these poor nations is to stop shielding them from the logical consequences of their idiotic, unstable capitalist boom-bust economic cycles." [[color=red]Must not have private industry[/color]]
+*3. "Talk about a way to flush @@CURRENCY_PLURAL@@ straight down the toilet," argues Think Tank member @@RANDOM_NAME@@. "What I've noticed is that whenever we do give something, it's never enough: a few years later they're back asking for more. The best way to help these poor nations is to stop shielding them from the logical consequences of their idiotic, unstable capitalist boom-bust economic cycles." [[color=red]Must not have private industry[/color]]
 
-3. "Relief wouldn't hurt us... if we 'relieved' the right countries," suggests government advisor @@RANDOM_NAME@@. "We give them a little humanitarian aid, they give us access to their @@MAJOR_INDUSTRY@@ markets... it's win-win. Nothing wrong with a little quid pro quo, especially for a good cause."
+4. "Relief wouldn't hurt us... if we 'relieved' the right countries," suggests government advisor @@RANDOM_NAME@@. "We give them a little humanitarian aid, they give us access to their @@MAJOR_INDUSTRY@@ markets... it's win-win. Nothing wrong with a little quid pro quo, especially for a good cause."
 
 [hr][/hr]
 [b][anchor=37]#37[/anchor]: Traffic Cops Needed on Information Superhighway? [Snowcat][/b]
@@ -168,9 +168,9 @@ The Debate
 
 [2]. "The project certainly is feasible, but very expensive," says @@DEMONYM_NOUN@@ Space Agency Head @@RANDOM_NAME@@. "We could make it less of a burden on the taxpayers if we sought funding from private industry -- advertisements on the side of our rockets, selling contracts to the Arms Manufacturing industry, that kind of thing." [[color=blue]Must have private industry[/color]]
 
-3a. "If God had meant Man to fly, he would have given us solid rocket boosters instead of legs," says religious type @@RANDOM_NAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of religion mandatory in all schools." [[color=blue]Must not be atheist[/color]]
+*3. "If God had meant Man to fly, he would have given us solid rocket boosters instead of legs," says religious type @@RANDOM_NAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of religion mandatory in all schools." [[color=blue]Must not be atheist[/color]]
 
-3b. "If man were meant to fly, we would have evolved solid rocket boosters instead of legs," says dubiously-trained biologist @@RANDOM_NAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of humanist values mandatory in all schools." [[color=red]Must be atheist[/color]]
+*4. "If man were meant to fly, we would have evolved solid rocket boosters instead of legs," says dubiously-trained biologist @@RANDOM_NAME@@. "We should not be looking to the stars, but rather inside our own hearts. That's why we should abandon this so-called space program, and instead make the teaching of humanist values mandatory in all schools." [[color=red]Must be atheist[/color]]
 
 [hr][/hr]
 [b][anchor=39]#39[/anchor]: Scandal Rocks @@NAME@@'s Government! [The SLAGLands; ed: The SLAGLands][/b]
@@ -181,11 +181,11 @@ A tabloid magazine, The National Incriminator, has revealed the sordid details o
 The Debate
 1. "They found out I did WHAT?!" Advisor Lotsalovin says in his morning meeting in your office. "This just can't happen! How can government officials do their jobs properly if we have to work under the constant scrutiny of these idiotic supermarket tabloids? I say tabloid newspapers must be banned, and we must not allow newspapers to speak ill of our government officials... for the good of @@NAME@@, of course..."
 
-2a. "Unbelievable!" says Reverend @@RANDOM_MALE_NAME@@ of the local Catholic church. "Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!" [[color=blue]Must not be atheist[/color]]
+*2. "Unbelievable!" says Reverend @@RANDOM_MALE_NAME@@ of the local Catholic church. "Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!" [[color=blue]Must not be atheist[/color]]
 
-2b. "Unbelievable!" says moralist @@RANDOM_MALE_NAME@@ of the local Ethics Committee. "Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!" [[color=red]Must be atheist[/color]]
+*3. "Unbelievable!" says moralist @@RANDOM_MALE_NAME@@ of the local Ethics Committee. "Our government officials must be held to a higher standard than this! Mr. Lotsalovin must be removed from office and prosecuted. We cannot allow such disgusting corruption within the halls of justice!" [[color=red]Must be atheist[/color]]
 
-3. "Whoa, whoa, hey, now..." argues Senator @@RANDOM_NAME@@. "What happened to Mr. Lotsalovin is no different than affairs that happen all over @@NAME@@ every day! Before you know it, they'll be after YOUR sexual history! I think what we need to do is take the public attention off of it somehow, perhaps by... oh, I don't know... giving them a tax cut! That'll divert their attention from this momentary distraction just long enough for Mr. Lotsalovin's divorce process to end!"
+4. "Whoa, whoa, hey, now..." argues Senator @@RANDOM_NAME@@. "What happened to Mr. Lotsalovin is no different than affairs that happen all over @@NAME@@ every day! Before you know it, they'll be after YOUR sexual history! I think what we need to do is take the public attention off of it somehow, perhaps by... oh, I don't know... giving them a tax cut! That'll divert their attention from this momentary distraction just long enough for Mr. Lotsalovin's divorce process to end!"
 
 [hr][/hr]
 [b][anchor=40]#40[/anchor]: Hukd on Fonix Workd 4 Me! [Bostion; ed: Reploid Productions][/b]
@@ -198,13 +198,13 @@ The Debate
 
 2. On the other side, there's @@NAME@@'s Education Administrator. "This is shocking news. If the children of tomorrow cannot read, then what? Next thing you know, we'll be speaking with contractions! The government must devote more efforts to education! Where will we be twenty years from now with an overflow of unskilled labor?"
 
-3a. @@RANDOM_NAME@@, principal of a highly-rated private school, prefers a different approach. "Instead of that, why not issue government vouchers so that parents can afford to send their children to privately run schools? We offer a far better education than the public schools. All we do is grind our particular religious views into our students!" [[color=blue]Must have private industry[/color] AND [color=purple]Must not ban religion[/color]]
+*3. @@RANDOM_NAME@@, principal of a highly-rated private school, prefers a different approach. "Instead of that, why not issue government vouchers so that parents can afford to send their children to privately run schools? We offer a far better education than the public schools. All we do is grind our particular religious views into our students!" [[color=blue]Must have private industry[/color] AND [color=purple]Must not ban religion[/color]]
 
-3b. @@RANDOM_NAME@@, principal of a highly-rated private school, prefers a different approach. "Instead of that, why not issue government vouchers so that parents can afford to send their children to privately run schools? We offer a far better education than the public schools. All we do is grind our particular philosophy into our students!" [[color=blue]Must have private industry[/color] AND [color=purple]Must ban religion[/color]]
+*4. @@RANDOM_NAME@@, principal of a highly-rated private school, prefers a different approach. "Instead of that, why not issue government vouchers so that parents can afford to send their children to privately run schools? We offer a far better education than the public schools. All we do is grind our particular philosophy into our students!" [[color=blue]Must have private industry[/color] AND [color=purple]Must ban religion[/color]]
 
-3c. @@RANDOM_NAME@@, principal of a highly-rated private school in the United Federation, suggests a different approach. "Instead of that, why not issue government subsidies to help parents afford to send their children overseas, to privately run schools outside of @@NAME@@? We offer a far better education than the communist schools of your nation. Sure, they might pick up a few ideological tendencies, but I reckon that'll be good for your economy in the long run." [[color=red]Must not have private industry[/color]]
+*5. @@RANDOM_NAME@@, principal of a highly-rated private school in the United Federation, suggests a different approach. "Instead of that, why not issue government subsidies to help parents afford to send their children overseas, to privately run schools outside of @@NAME@@? We offer a far better education than the communist schools of your nation. Sure, they might pick up a few ideological tendencies, but I reckon that'll be good for your economy in the long run." [[color=red]Must not have private industry[/color]]
 
-4. "Who needs some fancy-shmancy cash-draining school system, anyway?" @@RANDOM_NAME@@ declares from the front steps of his double-wide mobile home, shotgun in hand. "My Pa raised me and my eight brothers and three sisters without no waste of time schoolin'! My Pa taught me everythin' I need t'know, let all these whippersnappers' Mas and Pas teach 'em what they need t'know!"
+5. "Who needs some fancy-shmancy cash-draining school system, anyway?" @@RANDOM_NAME@@ declares from the front steps of his double-wide mobile home, shotgun in hand. "My Pa raised me and my eight brothers and three sisters without no waste of time schoolin'! My Pa taught me everythin' I need t'know, let all these whippersnappers' Mas and Pas teach 'em what they need t'know!"
 
 [hr][/hr]
 [b][anchor=41]#41[/anchor]: Software Giant Stomps on Competition [1 Infinite Loop; ed: The SLAGLands][/b]
@@ -243,9 +243,9 @@ The Debate
 
 2. "How can these wayward individuals find their inner selves by staring at the walls within a stone cell?" challenges human rights activist and local prison license plate maker @@RANDOM_NAME@@. "The nation's budget is absolute proof: we cannot afford prisons... strictly because of their immorality! Let these caged birds breathe the sweet air of freedom again! Shut down all prisons in @@NAME@@!"
 
-3a. "Now hold on just a second here," says @@RANDOM_NAME@@, CEO of @@NAME@@'s most widely-known pizza delivery chain, Papa Pallocci's Pizza Pagoda. "You've got a problem with prisoners, and I've got a problem finding employees. Why don't you just send some of your criminals to Papa Pallocci's? We'll put 'em to work at lower pay as punishment for their crimes! I win, you win... the economy wins!" [[color=blue]Must have private industry[/color]]
+*3. "Now hold on just a second here," says @@RANDOM_NAME@@, CEO of @@NAME@@'s most widely-known pizza delivery chain, Papa Pallocci's Pizza Pagoda. "You've got a problem with prisoners, and I've got a problem finding employees. Why don't you just send some of your criminals to Papa Pallocci's? We'll put 'em to work at lower pay as punishment for their crimes! I win, you win... the economy wins!" [[color=blue]Must have private industry[/color]]
 
-3b. "Now hold on just a second here," says @@RANDOM_NAME@@, State Director of The @@DEMONYM_ADJECTIVE@@ People's Proletariat Pizza Production Plant. "You've got a problem with prisoners, and I've got a problem finding workers. Why don't you just send some of your criminals to make some dough? We'll put 'em to work as their debt to society is cleared! After all, free citizens must work according to the state's planned economy, so why should prisoners be excepted from this?" [[color=red]Must not have private industry[/color]]
+*4. "Now hold on just a second here," says @@RANDOM_NAME@@, State Director of The @@DEMONYM_ADJECTIVE@@ People's Proletariat Pizza Production Plant. "You've got a problem with prisoners, and I've got a problem finding workers. Why don't you just send some of your criminals to make some dough? We'll put 'em to work as their debt to society is cleared! After all, free citizens must work according to the state's planned economy, so why should prisoners be excepted from this?" [[color=red]Must not have private industry[/color]]
 
 [hr][/hr]
 [b][anchor=44]#44[/anchor]: No Pain, No Gain! [Independent Planets; ed: SalusaSecondus][/b]
@@ -302,17 +302,17 @@ The Issue
 A large group of @@NAME@@'s uninsured citizens have petitioned the government to provide a universal healthcare system, citing the poor health of many low and middle-class workers. Some of the more vocal of them are threatening violence if something isn't done.
 
 The Debate
-1a. "A universal healthcare system would provide everyone with the same quality healthcare the more wealthy and well-insured currently receive," says recently laid-off citizen and civil rights activist @@RANDOM_NAME@@. "Sure, taxes would probably have to increase a bit. But isn't it worth it to provide our lower-class citizens with the same opportunities the upper-class citizens have?" [[color=blue]Must have private industry[/color]]
+*1. "A universal healthcare system would provide everyone with the same quality healthcare the more wealthy and well-insured currently receive," says recently laid-off citizen and civil rights activist @@RANDOM_NAME@@. "Sure, taxes would probably have to increase a bit. But isn't it worth it to provide our lower-class citizens with the same opportunities the upper-class citizens have?" [[color=blue]Must have private industry[/color]]
 
-1b. "A universal healthcare system is a core tenet of socialist society," says Communist Party ideologue @@RANDOM_NAME@@. "Sure, taxes would probably have to increase a bit. But isn't it worth it to provide our noble workers with good healthcare, free at the point of delivery?" [[color=red]Must not have private industry[/color]]
+**2. "Are you all INSANE? This will ruin the health insurance business and drive up unemployment rates," argues @@RANDOM_NAME@@, head of the largest insurance provider in @@NAME@@. "If everyone working for their health insurance could suddenly get it free, there would be fewer jobs filled. It would get worse for everyone involved. The government should investigate the motives of these troublemaking 'protestors', instead!" [[color=blue]Must have private industry[/color]]
 
-2a. "Are you all INSANE? This will ruin the health insurance business and drive up unemployment rates," argues @@RANDOM_NAME@@, head of the largest insurance provider in @@NAME@@. "If everyone working for their health insurance could suddenly get it free, there would be fewer jobs filled. It would get worse for everyone involved. The government should investigate the motives of these troublemaking 'protestors', instead!" [[color=blue]Must have private industry[/color]]
+***3. "Why do we have to choose either radical option?" says your Secretary of Health, @@RANDOM_NAME@@. "Couldn't we just provide limited basic healthcare for our citizens and have major operations covered by private health insurance? It would be more affordable and the poor would suffer less than they do under the current system." [[color=blue]Must have private industry[/color]]
 
-2b. "Are you all INSANE? This will drain the coffers of the State!" argues @@RANDOM_NAME@@, of the @@NAME@@ Funds Disbursement Council. "If the wealth of the people is wasted on a bloated and inefficient health service, the nation will be detrimented. The government should investigate the motives of these troublemaking 'protesters', instead!" [[color=red]Must not have private industry[/color]]
+*4. "A universal healthcare system is a core tenet of socialist society," says Communist Party ideologue @@RANDOM_NAME@@. "Sure, taxes would probably have to increase a bit. But isn't it worth it to provide our noble workers with good healthcare, free at the point of delivery?" [[color=red]Must not have private industry[/color]]
 
-3a. "Why do we have to choose either radical option?" says your Secretary of Health, @@RANDOM_NAME@@. "Couldn't we just provide limited basic healthcare for our citizens and have major operations covered by private health insurance? It would be more affordable and the poor would suffer less than they do under the current system." [[color=blue]Must have private industry[/color]]
+**5. "Are you all INSANE? This will drain the coffers of the State!" argues @@RANDOM_NAME@@, of the @@NAME@@ Funds Disbursement Council. "If the wealth of the people is wasted on a bloated and inefficient health service, the nation will be detrimented. The government should investigate the motives of these troublemaking 'protesters', instead!" [[color=red]Must not have private industry[/color]]
 
-3b. "Why do we have to choose either radical option?" asks Senior Party Representative @@RANDOM_NAME@@. "Couldn't we just provide very limited basic healthcare for the majority of our citizens and have more comprehensive care as a perk from advancing within the Communist Party hierarchy? It would be more affordable, and all would aspire to better themselves." [[color=red]Must not have private industry[/color]]
+***6. "Why do we have to choose either radical option?" asks Senior Party Representative @@RANDOM_NAME@@. "Couldn't we just provide very limited basic healthcare for the majority of our citizens and have more comprehensive care as a perk from advancing within the Communist Party hierarchy? It would be more affordable, and all would aspire to better themselves." [[color=red]Must not have private industry[/color]]
 
 [hr][/hr]
 [b][anchor=49]#49[/anchor]: Diving For @@CURRENCY_PLURAL@@ [Nogero; ed: Reploid Productions][/b]
@@ -339,4 +339,3 @@ The Debate
 2. "Yeah," exclaims @@RANDOM_NAME@@, another enthusiast, wearing nothing but a collar, "and like other couples, we want the right to display our affection in public. If Master wants to take me walkies in public, he should be able to."
 
 3. @@RANDOM_NAME@@ dissents wholeheartedly. "This is not about showing affection--this is about moral decency. Think of the children, for God's sake! Think of the children! We must criminalize and eliminate this perversion to keep them safe. Which of course means a special task force to track down and capture these cretins!"
-

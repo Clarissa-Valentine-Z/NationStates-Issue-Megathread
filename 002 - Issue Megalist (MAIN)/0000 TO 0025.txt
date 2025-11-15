@@ -17,15 +17,15 @@ The Issue
 Last night the respected tabloid TV show "[i]60 Minutes[/i]" ran a report on @@NAME@@'s rising divorce rate. What is happening to the nuclear family?
 
 The Debate
-1a. "There's a simple solution," says Pastor Felix, of the Catholic Church. "Divorce should be illegal. 'For better or worse,' anyone remember how that goes? We should return to the good old days, when you got married for life and stuck by your partner no matter how much of a drunken, abusive, adulterating disappointment they turned out to be." [[color=purple]Must allow religion[/color] / [color=purple]Must not have Atheism[/color]]
+*1. "There's a simple solution," says Pastor Felix, of the Catholic Church. "Divorce should be illegal. 'For better or worse,' anyone remember how that goes? We should return to the good old days, when you got married for life and stuck by your partner no matter how much of a drunken, abusive, adulterating disappointment they turned out to be." [[color=purple]Must allow religion[/color] / [color=purple]Must not have Atheism[/color]]
 
-1b. "There's a simple solution," says John Felix, of the Family Values Coalition. "Divorce should be illegal. 'For better or worse,' anyone remember how that goes? We should return to the good old days, when you got married for life and stuck by your partner no matter how much of a drunken, abusive, adulterating disappointment they turned out to be." [[color=purple]Must not allow religion[/color] / [color=purple]Must have Atheism[/color]]
+*2. "There's a simple solution," says John Felix, of the Family Values Coalition. "Divorce should be illegal. 'For better or worse,' anyone remember how that goes? We should return to the good old days, when you got married for life and stuck by your partner no matter how much of a drunken, abusive, adulterating disappointment they turned out to be." [[color=purple]Must not allow religion[/color] / [color=purple]Must have Atheism[/color]]
 
-2. John Black, author of the hit book, 'Men are from Mars, Women are from Some Whole Other Place,' has a simpler solution. "If couples would just call each other 'darling' once in a while, there would be far fewer relationship breakdowns. A little affection is all it takes. So the government should make it mandatory: call your spouse 'darling' at least once a day, or face a fine."
+3. John Black, author of the hit book, 'Men are from Mars, Women are from Some Whole Other Place,' has a simpler solution. "If couples would just call each other 'darling' once in a while, there would be far fewer relationship breakdowns. A little affection is all it takes. So the government should make it mandatory: call your spouse 'darling' at least once a day, or face a fine."
 
-3a. "There's a simple way to boost the marriage rate," says gay rights activist @@RANDOM_NAME@@. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual preference. Besides, everyone knows gay relationships are more stable than straight ones." [[color=red]Homosexual marriage is illegal[/color]] 
+**4. "There's a simple way to boost the marriage rate," says gay rights activist @@RANDOM_NAME@@. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual preference. Besides, everyone knows gay relationships are more stable than straight ones." [[color=red]Homosexual marriage is illegal[/color]] 
 
-3b. "There's a simple way to boost the marriage rate," says gay rights activist Frank Weber. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual orientation. Besides, everyone knows gay relationships are more stable than straight ones." [Policy TBD]
+**5. "There's a simple way to boost the marriage rate," says gay rights activist Frank Weber. "Abolish those archaic laws that discriminate against same-sex marriages. It's obscene to treat people differently because of their sexual orientation. Besides, everyone knows gay relationships are more stable than straight ones." [Policy TBD]
 
 [hr][/hr]
 [b][anchor=2]#2[/anchor]: Reclaim The Streets![/b]
@@ -47,13 +47,13 @@ The Issue
 The latest "Harry Potter" book to hit schools across @@NAME@@ has stirred up the greatest controversy yet.
 
 The Debate
-1a. "I quite enjoyed the book, until I got to the part where Harry summons evil demons to do his bidding," says religious leader @@RANDOM_NAME@@. "Now that's just wrong. We need to restore some sense to this debate, by which I mean we should remove this book from the shelves, salt it thoroughly, and burn it." [[color=purple]Must not ban religions[/color]]
+*1. "I quite enjoyed the book, until I got to the part where Harry summons evil demons to do his bidding," says religious leader @@RANDOM_NAME@@. "Now that's just wrong. We need to restore some sense to this debate, by which I mean we should remove this book from the shelves, salt it thoroughly, and burn it." [[color=purple]Must not ban religions[/color]]
 
-1b. "I quite enjoyed the book, until I got to the part where Harry summons evil demons to do his bidding," says nervous PTA member @@RANDOM_NAME@@. "Now that's just wrong. We need to restore some sense to this debate, by which I mean we should remove this book from the shelves, salt it thoroughly, and burn it." [[color=purple]Must ban religions[/color]]
+*2. "I quite enjoyed the book, until I got to the part where Harry summons evil demons to do his bidding," says nervous PTA member @@RANDOM_NAME@@. "Now that's just wrong. We need to restore some sense to this debate, by which I mean we should remove this book from the shelves, salt it thoroughly, and burn it." [[color=purple]Must ban religions[/color]]
 
-2a. Teachers union President @@RANDOM_NAME@@ says, "Come on, the book is fantasy! And it's a damn good read. I'd like the government to issue a statement of support for our teachers and librarians, so kids can enjoy good books without interference from religious wackos, like Christians." [[color=purple]Must not ban religions[/color]]
+**3. Teachers union President @@RANDOM_NAME@@ says, "Come on, the book is fantasy! And it's a damn good read. I'd like the government to issue a statement of support for our teachers and librarians, so kids can enjoy good books without interference from religious wackos, like Christians." [[color=purple]Must not ban religions[/color]]
 
-2b. Teachers union President @@RANDOM_NAME@@ says, "Come on, the book is fantasy! And it's a damn good read. I'd like the government to issue a statement of support for our teachers and librarians, so kids can enjoy good books without interference from ignorant wackos, like their parents." [[color=purple]Must ban religions[/color]]
+**4. Teachers union President @@RANDOM_NAME@@ says, "Come on, the book is fantasy! And it's a damn good read. I'd like the government to issue a statement of support for our teachers and librarians, so kids can enjoy good books without interference from ignorant wackos, like their parents." [[color=purple]Must ban religions[/color]]
 
 [hr][/hr]
 [b][anchor=4]#4[/anchor]: Economic Collapse Looms![/b]
@@ -64,9 +64,9 @@ Big business, fed up with over-regulation in @@NAME@@, are heading offshore in e
 The Debate
 1. "Good riddance!" says noted environmentalist @@RANDOM_NAME@@. "Sniff that air! It's never been so clean! At last, our society is freeing itself from the consumer death-trap! I say it's time to take the final step and outlaw capitalism once and for all!"
 
-2a. "This is a catastrophe waiting to happen," says the Chamber of Commerce. "Think of the consequences! Without big business, where do the jobs come from? Where do we get our medicine? Our cars? Our latest fashions? There are dozens of useless regulations the government could abolish today to make life easier for commerce, and it's high time they did." [[color=blue]Must not ban cars[/color]]
+*2. "This is a catastrophe waiting to happen," says the Chamber of Commerce. "Think of the consequences! Without big business, where do the jobs come from? Where do we get our medicine? Our cars? Our latest fashions? There are dozens of useless regulations the government could abolish today to make life easier for commerce, and it's high time they did." [[color=blue]Must not ban cars[/color]]
 
-2b. "This is a catastrophe waiting to happen," says the Chamber of Commerce. "Think of the consequences! Without big business, where do the jobs come from? Where do we get our medicine? Our electronics? Our latest fashions? There are dozens of useless regulations the government could abolish today to make life easier for commerce, and it's high time they did." [[color=red]Must ban cars[/color]]
+*3. "This is a catastrophe waiting to happen," says the Chamber of Commerce. "Think of the consequences! Without big business, where do the jobs come from? Where do we get our medicine? Our electronics? Our latest fashions? There are dozens of useless regulations the government could abolish today to make life easier for commerce, and it's high time they did." [[color=red]Must ban cars[/color]]
 
 [hr][/hr]
 [b][anchor=5]#5[/anchor]: Child Casino Shock[/b]
@@ -299,15 +299,15 @@ The Issue
 Prospecting company Nukes4U has uncovered a large uranium deposit in @@NAME@@'s south-west.
 
 The Debate
-1a. "This is a terrific find!" claims Nukes4U CEO @@RANDOM_NAME@@. "It will provide an enormous stimulus to our economy and create thousands of new jobs. It's win-win! All we need from the government is permission to bulldoze the rainforest that's on top of the deposit." [[color=blue]Must have private industry[/color]]
+*1. "This is a terrific find!" claims Nukes4U CEO @@RANDOM_NAME@@. "It will provide an enormous stimulus to our economy and create thousands of new jobs. It's win-win! All we need from the government is permission to bulldoze the rainforest that's on top of the deposit." [[color=blue]Must have private industry[/color]]
 
-1b. "This is a terrific find!" claims Nukes4U CEO @@RANDOM_NAME@@. "Look, we know that as a private company we weren't really meant to be prospecting in communist @@NAME@@, but this could provide an enormous stimulus to your economy and create thousands of new jobs! It's win-win! Perhaps we could mine on behalf of the state, under a public service contract? All we need from you is permission to bulldoze the rainforest that's on top of the deposit." [[color=red]Must not have private industry[/color]]
+*2. "This is a terrific find!" claims Nukes4U CEO @@RANDOM_NAME@@. "Look, we know that as a private company we weren't really meant to be prospecting in communist @@NAME@@, but this could provide an enormous stimulus to your economy and create thousands of new jobs! It's win-win! Perhaps we could mine on behalf of the state, under a public service contract? All we need from you is permission to bulldoze the rainforest that's on top of the deposit." [[color=red]Must not have private industry[/color]]
 
-2a. "You've got to be kidding," says Green politician @@RANDOM_NAME@@. "This rainforest is thousands of years old! This country needs more environmental protection, not less. And to destroy the environment in order to mine uranium that then goes into nuclear bombs--well, that really sticks in my craw." [[color=blue]Must not have Autocracy[/color]]
+**3. "You've got to be kidding," says Green politician @@RANDOM_NAME@@. "This rainforest is thousands of years old! This country needs more environmental protection, not less. And to destroy the environment in order to mine uranium that then goes into nuclear bombs--well, that really sticks in my craw." [[color=blue]Must not have Autocracy[/color]]
 
-2b. "You've got to be kidding," says green pamphleteer @@RANDOM_NAME@@. "This rainforest is thousands of years old! This country needs more environmental protection, not less. And to destroy the environment in order to mine uranium that then goes into nuclear bombs—well, that really sticks in my craw." [[color=red]Must have Autocracy[/color]]
+**4. "You've got to be kidding," says green pamphleteer @@RANDOM_NAME@@. "This rainforest is thousands of years old! This country needs more environmental protection, not less. And to destroy the environment in order to mine uranium that then goes into nuclear bombs—well, that really sticks in my craw." [[color=red]Must have Autocracy[/color]]
 
-3. "There's no need for an either-or decision," says the government's Minister for Mining, Clear-Felling, and the Environment. "We can preserve most of the rainforest and allow mining of a small part. After all, think of all the good that the money from this uranium deposit can bring to @@NAME@@."
+5. "There's no need for an either-or decision," says the government's Minister for Mining, Clear-Felling, and the Environment. "We can preserve most of the rainforest and allow mining of a small part. After all, think of all the good that the money from this uranium deposit can bring to @@NAME@@."
 
 [hr][/hr]
 [b][anchor=24]#24[/anchor]: Budget Time: Accountants Excited[/b]

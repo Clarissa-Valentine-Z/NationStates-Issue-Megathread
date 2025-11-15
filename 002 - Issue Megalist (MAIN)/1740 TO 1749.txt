@@ -15,8 +15,21 @@ The Debate
 5. "I smell an opportunity for militarization!" squeals @@RANDOM_NAME@@, newly-hired intern to your third most prominent general. "My mama always tells me how my gas could kill a man, and now I'm thinking she might have a point! Yes, our people are gassy, but if we ask people to bottle their vapors up, we'll both stop the spread of stench and use it as a biological weapon against our enemies! Two cheeses, one wheel."
 
 [hr][/hr]
-[b][anchor=1741]#1741[/anchor]: TBD[/b]
+[b][anchor=1741]#1741[/anchor]: A Little More Than Sunburn [Sa-myn; ed: Raionitu][/b]
 
+The Issue
+After major floods swept through the coastal region of @@NAME@@, local communities have been scrambling to assess the damage, and local officials are requesting you visit the impacted communities. Maybe more unfortunately, this has coincided with your long planned holiday to the tropical beaches of East Calypso.
+
+The Debate
+1. "The floods were unfortunate, but that shouldn't stand between us and caviar," starts your nephew as he starts to lather sunscreen on his nose. "But like, there's nothing that can be done. All the emergency workers know what to do, and everyone can start the clean up, what difference will it make if you're there or not? You promised m- yourself this time to take the pressure off all the hard work you do for the country. You can't lead properly if you're burnt out, right?"
+
+2. "Oh no you don't!" huffs your aunt as she rolls up her crossword book and baps your nephew on the nose. "You march on down there and do everything you can to help those poor souls! It's your job to serve the people, so you better roll up your sleeves and help with the cleaning! A bit of manual labour will do you the world of good, and a few @@CURRENCY_PLURAL@@ for reconstruction would help. You'll have to raise taxes to create a disaster fund, but helping out your neighbours is what makes this country wonderful! You can have your pino colliders on the beach when you get your next holiday on a year or so!"
+
+3a. "You can't be expected to get your hands dirty, that's gross!" your niece chimes in. "Just go and tell them that you're sorry what has happened to them and that @@NAME@@'s thoughts and prayers are with them. Smile on camera and show that you're willing to give up your beach bod for them. You'll be all over social media because of how sympathetic you are! Perfect PR! Surely they'll all have insurance to handle the hard part, right?" [[color=red]Must not be Atheist[/color]]
+
+3b. "You can't be expected to get your hands dirty, that's gross!" your niece chimes in. "Just go and tell them that you're sorry what has happened to them and that @@NAME@@'s thoughts are with them. Smile on camera and show that you're willing to give up your beach bod for them. You'll be all over social media because of how sympathetic you are! Perfect PR! Surely they'll all have insurance to handle the hard part, right?" [[color=blue]Must be Atheist[/color] OR [color=purple]Must have low Religiousness[/color]]
+
+4. "Clearly this is a message from above!" cries your estranged cousin. "These floods are a punishment for @@NAME@@'s lack of faith! Forget the holiday! Forget the clean up! We must stop everything to give praise right now! A day of worship to mark these terrible events will ensure that we never lose our faith, and prevent future divine retribution from shattering our homes! If I read the stars right, we need one human sacrifice per ten houses leveled."
 
 [hr][/hr]
 [b][anchor=1742]#1742[/anchor]: TBD[/b]

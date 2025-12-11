@@ -64,7 +64,7 @@ The Debate
 4. "SILENCE!" roars a shadowy figure arising from a dark corner of your office, a flowing black cloak draping his entire figure. His words, though slow and barely above a whisper, resonate throughout the room. "I tire of this needless noise. It pollutes the mind. Order these ingrates to cease their dissonant echoings. Music is but a deviation from divine tranquillity. It must end. Peace will be achieved when the world is quiet. Peace will be achieved when the world is quiet. Peace will be achieved when..." As he repeats the phrase over and over again, he fades deeper and deeper back into the corner.
 
 [hr][/hr]
-[b][anchor=1714]#1714[/anchor]: [Republik Hintonia; ed: Baggieland][/b]
+[b][anchor=1714]#1714[/anchor]: Taking a Stand [Republik Hintonia; ed: Baggieland][/b]
 
 The Issue
 While taking the subway to an important function in @@CAPITAL@@, you notice a woman complaining loudly to a particularly sweat-ridden man about the way he is sitting. They both notice you watching, and force you to take a stand on the issue.
@@ -77,7 +77,7 @@ The Debate
 3. "How about we just do away with the whole thing," states @@RANDOM_NAME@@, your Minister of Cost Cutting, who just so happened to be taking the same train to work. "Instead of arguing over where to put our legs, let's use them for what they were intended for... walking! Let's save the government some money and derail the entire public transit system."
 
 [hr][/hr]
-[b][anchor=1715]#1715[/anchor]: [Ostrovskiy; ed: The Marsupial Illuminati][/b]
+[b][anchor=1715]#1715[/anchor]: Perfectly Private Property — Presumably [Ostrovskiy; ed: The Marsupial Illuminati][/b]
 
 The Issue
 Oil and gas companies have discovered a legal oddity in @@NAME@@'s laws: property ownership over a piece of land is often split, with the surface belonging to one person, but the mineral rights to the resources below belonging to someone else, often the government, which occasionally sells off these mineral rights. The mineral owner's rights are dominant over the surface owner's, meaning that the mineral owner can freely use the surface to extract the resources beneath, with the construction of well drilling sites, access roads, and pipelines all permitted. Corporations have wasted no time buying up mineral rights and exploiting them.
@@ -92,7 +92,7 @@ The Debate
 4. A party of prancing petroleum protesters postures and prates, "Protect the underground, @@LEADER@@! Do not allow these men to stick their painful pipes into Mother Earth! The underground is necessary for the above ecosystem to survive, and it is home to many noble lifeforms, such as worms and moles. The life of even one worm is worth more than a million barrels of oil. Zoning laws prevent you from building higher than a certain height — do the same thing for what's below the surface and restrict all new construction below a certain point."
 
 [hr][/hr]
-[b][anchor=1716]#1716[/anchor]: [Sedgistan; ed: Sedgistan][/b] 
+[b][anchor=1716]#1716[/anchor]: The Bald Facts [Sedgistan; ed: Sedgistan][/b] 
 
 The Issue 
 A bunch of excitable scientists have burst into your office declaring that they are on the verge of a cure for mankind's greatest medical malady — male pattern baldness.

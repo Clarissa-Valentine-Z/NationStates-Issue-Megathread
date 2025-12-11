@@ -1,0 +1,317 @@
+[b][anchor=1740]#1740[/anchor]: Cut the Cheese [Bisofeyr; ed: Bisofeyr][/b]
+
+The Issue
+A recent national health study revealed that @@NAME@@'s cheese-based diet has caused an increase in cardiovascular diseases and chronic flatulence, leading to grating demands from dairy commentators.
+
+The Debate
+1. "@@LEADER@@, this is a cream-filled catastrophe!" moans your personal doctor, Noelle Marcelline, as she yanks a block of cheese out of your assistant's hands. "Our people are literally dying for a little cheddar! We must institute a strict cheese consumption limit of one cup per day and end our reputation for heartburn and methane output!"
+
+2. "Oh, you're making me bleu!" complains acclaimed abomination cheesemonger Joseph Softing as he takes a large bite of Gruyere. "Cheese is an important part of our economy, and maybe there's some health risks, but removing it would be a brie-saster! We're here for a gouda time, not a long time! I say we lean into it and make cheese-themed amusement parks, carnival games, restaurants, and more! This will bring a Sirene-essaince of cheese-related festivities!"
+
+*3. "I thinks we just needs to balance the national diet," notes temperamental chef, @@RANDOM_NAME@@. "Cheese, it's great and all, but so is cabbage, and fish, and steak! If we up investment into producing other high-quality foods, people will grows to love the umami of mushrooms, the tang of pickles, and the [i]fishiness of fish[/i]! Diversification is da key, here, we just needs to show peoples there's a whole world of flavor out there." [does not have Vegetarianism]
+
+*4. "I thinks we just needs to balance the national diet," notes temperamental chef, @@RANDOM_NAME@@. "Cheese, it's great and all, but so is cabbage, and fish, and steak! If we bring backs the meats, and work to produce other high-quality foods, people will grows to love the umami of mushrooms, the tang of pickles, and the [i]fishiness of fish[/i]! Diversification is da key, here, we just needs to show peoples there's a whole world of flavor out there." [has Vegetarianism]
+
+5. "I smell an opportunity for militarization!" squeals @@RANDOM_NAME@@, newly-hired intern to your third most prominent general. "My mama always tells me how my gas could kill a man, and now I'm thinking she might have a point! Yes, our people are gassy, but if we ask people to bottle their vapors up, we'll both stop the spread of stench and use it as a biological weapon against our enemies! Two cheeses, one wheel."
+
+[hr][/hr]
+[b][anchor=1741]#1741[/anchor]: A Little More Than Sunburn [Sa-myn; ed: Raionitu][/b]
+
+The Issue
+After major floods swept through the coastal region of @@NAME@@, local communities have been scrambling to assess the damage, and local officials are requesting you visit the impacted communities. Maybe more unfortunately, this has coincided with your long planned holiday to the tropical beaches of East Calypso.
+
+The Debate
+1. "The floods were unfortunate, but that shouldn't stand between us and caviar," starts your nephew as he starts to lather sunscreen on his nose. "But like, there's nothing that can be done. All the emergency workers know what to do, and everyone can start the clean up, what difference will it make if you're there or not? You promised m- yourself this time to take the pressure off all the hard work you do for the country. You can't lead properly if you're burnt out, right?"
+
+2. "Oh no you don't!" huffs your aunt as she rolls up her crossword book and baps your nephew on the nose. "You march on down there and do everything you can to help those poor souls! It's your job to serve the people, so you better roll up your sleeves and help with the cleaning! A bit of manual labour will do you the world of good, and a few @@CURRENCY_PLURAL@@ for reconstruction would help. You'll have to raise taxes to create a disaster fund, but helping out your neighbours is what makes this country wonderful! You can have your pino colliders on the beach when you get your next holiday on a year or so!"
+
+3a. "You can't be expected to get your hands dirty, that's gross!" your niece chimes in. "Just go and tell them that you're sorry what has happened to them and that @@NAME@@'s thoughts and prayers are with them. Smile on camera and show that you're willing to give up your beach bod for them. You'll be all over social media because of how sympathetic you are! Perfect PR! Surely they'll all have insurance to handle the hard part, right?" [[color=red]Must not be Atheist[/color]]
+
+3b. "You can't be expected to get your hands dirty, that's gross!" your niece chimes in. "Just go and tell them that you're sorry what has happened to them and that @@NAME@@'s thoughts are with them. Smile on camera and show that you're willing to give up your beach bod for them. You'll be all over social media because of how sympathetic you are! Perfect PR! Surely they'll all have insurance to handle the hard part, right?" [[color=blue]Must be Atheist[/color] OR [color=purple]Must have low Religiousness[/color]]
+
+4. "Clearly this is a message from above!" cries your estranged cousin. "These floods are a punishment for @@NAME@@'s lack of faith! Forget the holiday! Forget the clean up! We must stop everything to give praise right now! A day of worship to mark these terrible events will ensure that we never lose our faith, and prevent future divine retribution from shattering our homes! If I read the stars right, we need one human sacrifice per ten houses leveled."
+
+[hr][/hr]
+[b][anchor=1742]#1742[/anchor]: Long Time No See [USS Monitor; ed: Haymarket Riot][/b]
+
+The Issue
+@@RANDOM_NAME_1@@, a former @@DEMONYM_ADJECTIVE@@ Finance Minister who disappeared under mysterious circumstances several years ago, has suddenly reappeared and asked to speak with you.
+
+The Debate
+1. The former minister looks much rougher than you remember, with leathery skin, ragged hair, and a large scar on one arm. "I'm sorry I didn't tell anyone where I was going, but I was afraid you would try to stop me," @@HE_1@@ says, visibly struggling to contain @@HIS_1@@ emotions as @@HE_1@@ hands you a photograph of a girl with hair braided with twigs and leaves in what could be mistaken for a rats' nest. "When my daughter was born, I was overcome with joy, but then the time came to send her out into the wild, and I couldn't... I just couldn't leave her out there by herself, so I went out into the wild with her. Nobody should have to go through this! Please, let us raise our children at home like they do in more — I mean — every other civilized country."
+
+2. "WHAT?" barks the head of your security detail @@RANDOM_NAME@@, who has never learned the concept of indoor voices. "Are you TRYING to raise a generation of pansies?" @@HE@@ cracks @@HIS@@ knuckles menacingly. "I think we oughtta knock some sense into this nimrod before he infects anyone else with this sentimental nonsense! Frankly, this is the danger of keeping family bonds in the picture at all, it causes even our most valued officials to abandon their posts. Just grow people in vats and they'll shut up and do what they're told!"
+
+3. "Oh, shut up and have some respect!" your secretary snaps back. "This @@MAN_1@@ gave up @@HIS_1@@ whole career out of love for @@HIS_1@@ daughter. It's not a sign of weakness to care about other people. @@HE_1@@ survived off the land, the same as we did when we were growing up. Maybe more of us should be granted time off from work to live the nomadic life with our families instead of always trying to go it alone, even if it's still best for us to be hands-off with their parenting. It's the best of both worlds, learning to be self sufficient, but still staying close to the ones we love."
+
+[hr][/hr]
+[b][anchor=1743]#1743[/anchor]: Robbin' for Good [Feifell; ed: The Ankhalic Vaspriot][/b]
+
+The Issue
+Last night, a group of thieves known as "Red Bird and his Jolly Dudes" heisted the royal palace, making off with a significant portion of the crown jewels. During the recovery effort, it was discovered that the items were cut up and sold, with all revenue being distributed to the poor.
+
+The Debate
+1. "Oh, woe is us!" bawls Princess @@RANDOM_FEMALE_FIRST_NAME@@, dabbing her eyes with a delicately embroidered silk handkerchief, "That emerald tiara was my seventh favorite one! How am I to go without it? If you are as generous as I believe, you will commission replacements so that our melancholy may be attenuated and backups secured in case of future travesties. For all we've so magnanimously provided the peasantry, certainly they'd be more than willing to lend us a hand in such hard times?"
+
+2. "That's not enough!" bellows Prince @@RANDOM_MALE_FIRST_NAME@@, desperately clutching a chest of gold. "You're all forgetting the problem at hand! That blasted Bird could still very well come back! Have a hundred men patrol the palace night and day, and if those thugs do so much as place a foot on our ground, throw them in the dungeon! Then interrogate the blighters to find out where the money was distributed so we may recover our rightful property!" You catch a glimpse of the princess slyly pocketing some of the prince's gold before running off.
+
+3a. "Well it serves the royal family darn right!" huffs civil rights activist @@RANDOM_NAME@@, climbing through a now broken window, "Why does your royal high-and-mightiness need private jets to travel rather than just catching the bus or train? If you would've just cut down on your nonsensical expenditure instead of building yet another palatial estate you won't even go to, this fiasco never would've happened!" They take a look at the prince's chest, snatches some gold, and flees. [[color=blue]Aircrafts are legal[/color]]
+
+3b. "Well it serves the royal family darn right!" huffs civil rights activist @@RANDOM_NAME@@, climbing through a now broken window, "Why does your royal high-and-mightiness need ornate coaches to travel rather than just catching the bus or train? If you would've just cut down on your nonsensical expenditure instead of building yet another palatial estate you won't even go to, this fiasco never would've happened!" They take a look at the prince's chest, snatches some gold, and flees. [[color=red]Aircrafts are not legal[/color]]
+
+4. Suddenly, a man dressed in a fetching red hood and hat topped with a robin's feather ziplines in through the broken window. "The royals are bigger thieves than those bandits will ever be! All that money rightfully belongs to the people, and if the monarchy can't understand that, then the Jolly Dudes will just have to keep doing what they're doing until you get the hint and eliminate the absurd levels of wealth stratification in this country." Just as you blink, the man is gone, the prince's chest newly empty.
+
+[hr][/hr]
+[b][anchor=1744]#1744[/anchor]: A Royal Surplus [Frieden-und Freudenland; ed: Nardin][/b]
+
+The Issue
+Tabloids across @@NAME@@ have been in an uproar after the Duke and Duchess of @@ANIMAL@@ City announced their intent to abdicate their royal titles and move to Brancaland with their newborn baby. This unprecedented decision has raised questions about the future of the royal family, with loyalists and republicans speculating on the place of the monarchy in today's @@NAME@@.
+
+The Debate
+1a. "This is a public humiliation for us!" exclaims the royal majordomo @@RANDOM_NAME@@, angrily tossing aside a copy of The @@CAPITAL@@ Sentinel that touts the headline [i]'Dramatic Departure of Duke and Duchess Denotes Disaster.'[/i] "One cannot abandon the royal family as one deserts a botched game of strip billiards! It makes the whole monarchy look foolish, incompetent, and fragile in the eyes of their subjects. You must compel them to respect their birthright and remain in @@NAME@@, by force if necessary." [???]
+
+1b. "This is a public humiliation for us!" exclaims the royal majordomo @@RANDOM_NAME@@, angrily tossing aside a copy of The @@CAPITAL@@ Times that touts the headline [i]'Dramatic Departure of Duke and Duchess Denotes Disaster.'[/i] "One cannot abandon the royal family as one deserts a botched game of strip billiards! It makes the whole monarchy look foolish, incompetent, and fragile in the eyes of their subjects. You must compel them to respect their birthright and remain in @@NAME@@, by force if necessary." [???]
+
+2. "Why can't you just leave us alone?" moans the disgruntled duchess @@RANDOM_FEMALE_FIRST_NAME@@, clasping her baby and passport close to her heart. "Every day we're harassed by the paparazzi and by never-ending royal receptions and pageantry. Give us a break! My husband @@RANDOM_MAKE_FIRST_NAME@@ and I have decided to lead a simple and quiet life in our summer residence in Brancaland. All we want is to be absolved of all our royal duties so we can live in peace! With our continued monthly allowance, of course."
+
+3. "Honestly, why is the royal family so large to begin with?" grumbles @@RANDOM_NAME@@, a royal historian from @@CAPITAL@@ University, clutching a copy of 'The Pedigree of @@DEMONYM_ADJECTIVE@@ Royals' under his arm. "According to official family trees, dozens of your distant relations have been allotted millions of @@CURRENCY_PLURAL@@ for supposedly being ninth cousins four times removed to a former king. Ridiculous! Why should anyone be 'royal' unless they are directly in the line of succession? Think about how much money would be saved if these leeches were stripped of their titles."
+
+4. "Their Highnesses may be on to something," muses Count @@RANDOM_LAST_NAME@@, one of the oldest @@DEMONYM_ADJECTIVE@@ royals. "For years our nobility has practically been in servitude to the state, condemned to be forever in the public eye or obliged to make our people's decisions for them. I say we have more than earned our family's retirement; in exchange for our hereditary titles, the state should provide fair payment for all our services rendered over the years, and government positions for royals who wish to keep serving. I can't wait to own my very own island off East Calypso!"
+
+
+[hr][/hr]
+[b][anchor=1745]#1745[/anchor]: The Next Level [Candlewhisper Archive; ed: Jiangbei][/b]
+
+The Issue
+After being invited to "an intimate neighborhood pop-up" at an underground metro station, you arrive to find platforms sprouting ring lights and vendors on the train offering essential oils, collagen gummies, and "limited-time bundles." The hostess script has called you "bestie" and asked which "rank" you've already reached, while three separate distributors have argued over who has dibs on the platform. As the evening wears on, people have come to you to complain about the recent saturation of multi-level marketing firms in @@NAME@@.
+
+The Debate
+1. "This is an industry of false dreams," protests Trade Commissioner @@RANDOM_NAME@@, dodging a tray of free samples. "The real money is gouged from signing up new recruits and selling them non-returnable stock, not from actually selling products. Get more that a few steps from the top of any pyramid scheme, and profit becomes ridiculously improbable. This isn't business, it's a con game, and we should shut it down before it hoovers up more savings."
+
+2. "These aren't just con games, they're cults," adds former marketer @@RANDOM_NAME@@, tearing down a motivational poster taped to a pillar. "They told me to cut off friends who doubted the business, shamed me for missing a rally, and made the CEO out to be some kind of prophet. The companies running these schemes are all secretly tied to the same for-profit church in the United Federation. Stopping the businesses isn't enough: we need to send spies to infiltrate and expose the religious-industrial conspiracy at the heart of it all."
+
+3. "We see the @@DEMONYM@@ market as ripe for enrichment," beams @@RANDOM_NAME@@, the CEO of FamilyWay, setting up a table on the station concourse. "Success is all about mindset and hustle. If you work hard and don't complain, the wealth will come. Our family of family businesses would love to establish our @@REGION@@ branch right here in @@NAME@@. That's an opportunity for me, an opportunity for you, and an opportunity for the @@DEMONYM@@ people — a real win-win-win. Are you in?"
+
+[hr][/hr]
+[b][anchor=1746]#1746[/anchor]: Orange You Glad for Innovation? [L V M H; ed: Kractero][/b]
+
+The Issue
+The technology conglomerate Orange Inc has left a sour taste in the mouths of consumers after their latest technology showcase. The newest OrangePhone has removed the headphone jack, forcing customers to buy Orange-branded earbuds and adapters. While some laud Orange for their innovative and zestful design, others accuse the company of forcing their standards on customers.
+
+The Debate
+1. "This is just another example of corporate greed!" exclaims consumer rights activist @@RANDOM_NAME@@, holding up a pile of jumbled cables. "Every year, these companies introduce a new cable, new adapter, new standard, new excuse to force our wallets open! We need stronger regulations on technology, so that our devices can connect to each other without needing dongles and adapters! There's only one solution — one universal standard for everything — and maybe then the juice will be worth the squeeze."
+
+2. "Whining doesn't embrace the future," says Orange CEO, Jim Book. "Legacy technologies hold us back, we can't be stuck using the same things forever! Research showed that the headphone jack reduced the OrangePhone's annual battery life by two minutes. Innovation allows consumers to experience the power of our revolutionary technologies, and help keep my — er, @@NAME@@'s economy competitive! Without our trailblazing, @@DEMONYM_ADJECTIVE@@ technology could have fallen decades behind that of Dàguó already! If it's too expensive for our customers to upgrade, the government can help cover it for them! If these protesters don't like it, they can always.... wait, never mind, they don't really have a choice."
+
+3. "Why stop at regulating Orange?" shouts self proclaimed cyber-marxist @@RANDOM_NAME@@, hurling an Orange laptop at the wall. "Feudal tech nobility like Book hoard their wealth while the workers suffer. It's time to return the power to the proletariat! Nationalize the tech industry entirely! Ensure that our technologies are designed for the public and the common @@DEMONYM_NOUN@@, not to line the pockets of the wretched corporate bourgeoisie. Book and his feudal dongle barons can go peel themselves!"
+
+[hr][/hr]
+[b][anchor=1747]#1747[/anchor]: A Problem We'd Rat-her Not Have [Shuckletopia; ed: Haymarket Riot][/b]
+
+The Issue 
+After your favorite restaurant in @@CAPITAL@@, Gustabo's, was forced to close its doors because of a city-wide rodent infestation, the owner has asked you to take decisive action. 
+
+The Debate
+1. "Mon Dieu, no one can cook under these conditions, @@LEADER@@!" fumes 5-star chef @@RANDOM_MALE_FIRST_NAME@@ Gustabo. "We must exterminate these rats, and while we're at it, other common pests! They made me close my restaurant, now who will cook our nation's fine cuisine? We must get rid of them with whatever it takes for the sake of fine dining!" he exclaims as he violently stomps on a spider in your office.
+
+2a. "You got a rat problem, eh?" asks local nutjob and farmer @@RANDOM_MALE_FIRST_NAME@@ Billy O'Gee. "You city folk jump and scream when you see a rat, but down on the farm we get rid of them the old fashioned way—with guns—and there ain't no way better!" He reveals a rifle he had been carrying and shoots the chandelier above you, causing it to hit the ground and shatter close to your poor secretary. "There was a rat up there, I saw it!" he exclaims before he is removed from your office by security. [[color=blue]Gun Ownership is legal[/color]]
+
+2b. "You got a rat problem, eh?" asks local nutjob and farmer @@RANDOM_MALE_FIRST_NAME@@ Billy O'Gee. "You city folk jump and scream when you see a rat, but down on the farm we used to get rid of them the old fashioned way—with guns—and there ain't no way better!" He reveals a potato cannon he had been carrying and shoots the chandelier above you, causing it to hit the ground and shatter close to your poor secretary. "There was a rat up there, I saw it!" he exclaims before he is removed from your office by security. [[color=red]Gun Ownership is not legal[/color]]
+
+3. "You can't kill them!" exclaims greasy-haired environmentalist @@RANDOM_NAME@@. "These rodents are native to @@NAME@@, and should be protected by the government! If they're such a problem, then the government should help the environment for once and create nature reserves for us to capture and move the rodents into. We can relocate rats and other creatures whose homes have been invaded by urban sprawl!"
+
+*4. "In times of turmoil, in times like these," muses Cardinal Emeritus IV, leader of the Church of the Rat-shaped Hole, "the most contagious spreading disease is unmitigated hatred of rodentkind. Tell me, did you [i]see[/i] the rodents spreading diseases? I thought not. If anything, you should be thanking rats for being a gift from the divine, and allowing them to run freely wherever they please! Oh, and throw a few million @@CURRENCY_PLURAL@@ at our church while you're at it to better educate the populace about the greatness of the rats." [[color=red]Must not have Atheism[/color]]
+
+[hr][/hr]
+[b][anchor=1748]#1748[/anchor]: @@DEMONYMPLURAL@@ Still Footing the Bill [Dexterra; ed: The Ankhalic Vaspriot][/b]
+
+The Issue
+Capitalizing on your office hours today, industrious @@DEMONYMPLURAL@@ have monopolized your desk space with a series of medical bills, lamenting that despite @@NAME@@'s proudly socialized economy, the government still doesn't provide universal healthcare.
+
+The Debate
+1. "Even I can see that instituting universal healthcare is a socialist necessity!" blurts Blane the Blind after bumping into your bookshelf and apologizing to it. "But the funding's gotta come from somewhere, so we should shut-eye the unfocused bureaucracy that was too myopic to realize that mistake and spend that money on tangible benefits instead. If we saw more general practitioners and fewer civil servants, our national vision would be 20/20!"
+
+2. "Blane's only got the peripheral - I ain't got no quarrel with them pencil-pushers," vents Veronica the Veteran, saluting you with a stump for an arm. "But I lost a lot from combat, and when the army makes people lose arms, we need to take up arms against the army. So let's gear up Operation Universal Healthcare, funded by gutting the military budget so that our taxes buy more medicine than missiles. Make health, not harm!"
+
+3. "They're right, heading everyone healthcare is a no-brainer," notes Nate the Numerically Challenged, using a calculator upside-down. "We should do it by thinking over again all those not necessary school topics like trigomonerty and therumdymanis. After all, kids can't learn if they're ungood. Bodies first, then minds!"
+
+4. "Universal healthcare would be a relief, but hospitals and doctors' offices need (cough) room to breathe," asserts Ash the Asthmatic Architect, desperately searching for his inhaler among a mess of blueprints. "The countryside has plenty of open space, trees and fields for construction crews, just inhale environmental funds and exhale red cro- (cough) crosses instead. All that green is what's turning patients blue."
+
+5. "Homie, socialism strengthens our people, but universal healthcare won't." jeers Jim Brow the Gym Bro, benching a statue of your predecessor. "We need more competition in the healthcare industry so we can cut those prices, dude! So, how about you supplement our health in more accessible ways, like bulking up gyms and creatine, er, creating more outdoor exercise areas and youth sports leagues? Brains and brawn, bro!"
+
+6. "Jim's only half-@@CURRENCY@@, er half-right," reports Richie the Rapacious. "I bet the only change we need is in our wallets! Universal healthcare — or any state industry, for that matter — are liabilities for @@NAME@@. If you finally free the markets, @@DEMONYMPLURAL@@ will be able to make actual progress un-penny-lized by absurd taxes. Reinvest in private enterprise and let freedom bling!"
+
+[hr][/hr]
+[b][anchor=1749]#1749[/anchor]: Angry Birds [UPC; ed: Thorn1000][/b]
+
+The Issue
+Your public address this morning was cut short when a loud crack was heard overhead, followed shortly by a dead bird landing directly on your lectern. After the chaos subsided, it was discovered that the bird thought the windows behind you were clear sky. You return to your office after the incident to find that various experts, stakeholders, and passersby have assembled to give their thoughts on the matter.
+
+The Debate
+1. "This sort of thing happens more often than you'd think, @@LEADER@@," laments @@RANDOMNAME@@, President of the @@CAPITAL@@ Ornithological Association. "Last year alone, hundreds of migratory birds died just because they couldn't perceive glass as a solid object. This is completely avoidable! If we cover every window in thousands of dots, they'll act as visual markers to alert birds that it isn't safe to fly towards. Every pane of glass in Il Sonno della Ragione Genera Mostri should get a coat of this stuff, no matter the cost."
+
+2. "What about birds that fly at night?" interjects @@RANDOMNAME@@, a local tech startup founder-wannabe. "How are they supposed to see these tiny dots? What our buildings need is active audiovisual defense systems to deter birds with strobe lights and noise. And to kill two birds with one stone, metaphorically only of course, we can keep birds so far away from @@CAPITAL@@ buildings we wouldn't need to clean bird poop off of them! I'm sure my team could put a proof of concept together in a week, with a bigger budget.
+
+3. "Neither of those address the root problem here," declares a buck-toothed man who calls himself 'The Underminer', as he taps his dirt-encrusted fingers on your desk. "So many issues are caused by building up instead of down; rising temperatures, susceptibility to weather, and now this. Sooner or later, we are going to run out of airspace going up. What we need to do is abandon the surface entirely and relocate @@CAPITAL@@ underground. Luckily for you, my boys and I have been digging for years, just in case."
+
+4. "I don't see what all the fuss is about," cries @@RANDOMNAME@@, the owner of a local food cart. "These birds have been a boon for my business; I have two dozen of them in my freezer! If anything, I think you should be encouraging creative solutions like mine. A picture of you eating one of my signature pigeon paninis could put me on the map, @@LEADER@@! I happened to bring some samples, if you're interested."
+
+[hr][/hr]
+[b][anchor=1750]#1750[/anchor]: Circus Bulls on Parade [Jim the Baptist, Dabarastan; ed: Varanius][/b]
+
+The Issue
+Crazy Steve's Traveling Circus is heading to @@CAPITAL@@, and anti-cruelty activists are up in arms over the use of captive lions, gorillas, and Dogs in its performances.
+
+The Debate
+1. "Have you gone ape?" barks the self-proclaimed animal justice warrior @@RANDOM_NAME@@. "How can you in good conscience allow one of these traveling torture parades to keep trapezing across our country? Don't you realize that the loud cheering and bright lights in circuses are deeply traumatizing to these innocent creatures — not to mention the tiny barren cages they're cruelly kept in between shows! Do the right thing and outlaw this industry of abuse!"
+
+2. "I think what you mean to say is 'thank you Crazy Steve,' " trumpets the circus' flamboyant proprietor. "I'll have you know that my shows provide top-notch care and attention to our animals! And if you don't believe me, just take a look at that big, cheesy grin on my famous cow — Gunner!" he gestures, before gently tasing a lifeless bull slumped on the floor. "Anyway, my spectacular show of amazement and wonder will bring more dollars into your economy than you can make a monkey juggle! I'm sure that with a bit of extra government funding, we could even set up permanent residency and run nightly shows all over @@NAME@@."
+
+3. Local marquee event enthusiast @@RANDOM_NAME@@ looks up from the show's promotional flyer. "Just look at this lineup — this circus has a white lion jumping through a giant hoop of fire! And everybody knows about the wicked piggy roaster! This is culture, baby! Listen, if we really need to tame concerns for animal welfare, why not just mandate health checks for each animal before the show? If the animal's crook, let it go on sick leave 'til it's better. Problem solved!"
+
+[hr][/hr]
+[b][anchor=1751]#1751[/anchor]: Missing the Spice of Life [Haymarket Riot; ed: Haymarket Riot][/b]
+
+The Issue
+Silphium, the spice of legend from the distant nation of Farthia, has reemerged after going missing for several millennia. Unfortunately, trade routes between Farthia and @@NAME@@ have broken down due to a religious insurgency that threatens to turn into a full-blown civil war, leading to silphium prices skyrocketing. This precipitous trade route collapse has led to protests across @@NAME@@ demanding affordable and accessible silphium.
+
+The Debate
+1. Your commerce minister tells you what she wants, what she really really wants. "If you want a future, forget the past. Why do the citizens need consistent access to this spice anyways? Ban its sale outside of highly restricted government markets and ration it."
+
+2. A woman in a black dress just walks in, it's cool but you don't even know her. "Stop right now, thank you very much," she says with a smirk, "I'm with the @@DEMONYM_ADJECTIVE@@ Patriotic Food Association, and we need some food with a domestic touch. Why not ban all of these silly foreign spices and use domestic herbs and greens only? We don't care about the money, stop wasting our thyme!"
+
+3. Your agriculture minister tips her hat to you as she enters the room and wistfully suggests, "I don't think any kind of ban is necessary! Do you still remember how we used to be? I mean, we used to grow all of our own food here. Why not go back to that, conduct some agricultural espionage, and grow silphium here?" She flips her hair as she walks out and says, "I'll be waiting, agriculture is everlasting like the sun."
+
+4. Your defense minister asks with a gleeful smile as she wheels in her war plans. "Why not, like, spice up the lives of the terrorist insurgents with a little invasion? Bomb 'em to the left, bomb 'em to the right, soldiers on the front..." She stops as she realizes no one else is dancing and composes herself, "Well, suffice it to say, when our people are feeling sad and low, we will take them where they gotta go. Silphium, dancing, everything is free, all you need is positivity—and lots of bombs!"
+
+5. Your phone rings with a call with an area code that's registered to Farthia. As you pick up, you hear a lively voice, "You know, @@LEADER@@, with a little support for our holy war against the evil infidels in charge of Farthia, we'd be happy to supply you as much silphium as you could possibly dream of. If you put two and two together, you can see what our friendship is for, but if you can't work this equation, I guess we'll have to show your silphium suppliers the door. Just say you'll be there, and we'll give you everything, on this I swear."
+
+[hr][/hr]
+[b][anchor=1752]#1752[/anchor]: Taken for Granted [Hulldom; ed: Millenhaal][/b]
+
+The Issue
+A calculation error in the annual education budget has led to a 250 million @@CURRENCY_PLURAL@@ excess in planned expenditures. While on a visit to @@CAPITAL@@ University, you have been forcefully ushered into a Board of Trustees meeting asking you how to cope with this shortfall.
+
+The Debate
+1a. Clacking away on @@HIS@@ keyboard, @@RANDOM_NAME@@, the University's Chief Financial Officer, says @@HIS@@ piece. "One way to put us back in the black would be to allow us to raise our tuition at a greater rate than what's currently permitted. I've seen the applications; if every student loves this school half as much as their essays say they do, they should be glad to cough up another few thousand @@CURRENCY_PLURAL@@. Plenty of aid is available for those who qualify, and for those who don't, I'm sure the return on investment is more than enough to justify the price." [[color=purple]Have Public Education above 2000[/color]]
+
+1b. Clacking away on @@HIS@@ keyboard, @@RANDOM_NAME@@, the University's Chief Financial Officer, says @@HIS@@ piece. "One way to put us back in the black would be to allow us to raise our tuition at a greater rate than what's currently permitted. I've seen the applications; if every student loves this school half as much as their essays say they do, they should be glad to cough up another few thousand @@CURRENCY_PLURAL@@. If they're unable to, they can just get a job. It's all they have to look forward to anyway." [[color=purple]Have Public Education below 2000[/color]]
+
+*2. "Why bother funding so many programs when students can just teach themselves!", says @@RANDOM_NAME@@, a tech entrepreneur with dubious educational credentials. "The future of education is through apps like mine! Literacy, math, science, social studies, all made accessible on a mobile phone! Our coursework may be geared towards grade schoolers, but there are some soon-to-be unemployed professors who would love to lend us their knowledge! After all, luxe et versarae, I always say!" [[color=blue]Must have Computers[/color]]
+
+3. @@RANDOM_NAME@@, a University alum who made @@HIS@@ fortune in wetland geoponics, opines, "Well, if you ask me, the problem is that we pay all these professors so much money to fiddle around in their labs and hawk textbooks! Yes, it's a university, but let's face it: we need cash, and the gravy train's gotta end somewhere. Besides, a little job insecurity for those fat cats might make them teach better! Why don't we stop hiring expensive, pedigreed faculty and instead turn only to recent PhDs, as, oh what do we call them, adjuncts? This way we're not paying up the nose for people to waste space and collect paychecks. We'd even be helping some newly minted grads get their foot in the door!"
+
+4. "Y'ALL NEED TO FIX THIS PROBLEM, AND PERMANENTLY!" roars @@RANDOM_NAME@@, a reactionary journeyman electrician doing repairs down the hall. "What you highfalutin University hotshots don't realize is that we don't NEED no darn University education. Anyone can make a perfectly good living with their hands!" @@HE@@ shows you @@HIS@@ slightly arthritic fingers as if to drive home the point. "In fact, we'd all be better off if you ended all this fancy University book learning!"
+
+[hr][/hr]
+[b][anchor=1753]#1753[/anchor]: Goodwill to Bad Men? [Nuremgard; ed: Haymarket Riot][/b]
+
+The Issue
+Prison reform activists and the families of inmates have petitioned you to provide temporary Maxxmas clemency to their locked up loved ones in the spirit of the season.
+
+The Debate
+1a. "I miss him so much, especially at this time of year" sighs the wife of infamous serial arsonist Chris Kringle. "Yes, I know the families of the people who died in those fires he set will miss their relatives as well, but I should still get to see him! I promise to keep him away from the stove, and the candles..." She clears her throat and makes doe-eyes. "Please give us the best Maxxmas present this year—release prisoners temporarily for the holidays, regardless of their crimes!" [[color=blue]Marriage is legal[/color]]
+
+1b. "I miss him so much, especially at this time of year," sighs the mother of infamous serial arsonist Chris Kringle. "Yes, I know the families of the people who died in those fires he set will miss their relatives as well, but I should still get to see him! I promise to keep him away from the stove, and the candles..." She clears her throat and makes doe-eyes. "Please give us the best Maxxmas present this year—release prisoners temporarily for the holidays, regardless of their crimes!" [[color=red]Marriage is not legal[/color]]
+
+2. "Are you out of your mind?" splutters Minister of Prisons Ebenezer Grinch. "These people broke the law; part of their punishment is to be kept away from general society. Ignore the calls from these soft do-gooders and commit to harsher sentencing for criminals, and cancel Maxxmas in prison so they can instead use that holiday spirit to reflect on their crimes! That way decent, law-abiding citizens can enjoy the festive season safely. Bah humbug!"
+
+3. "Can we find a jolly medium?" suggests the Minister of Families @@RANDOM_NAME@@. "We could release some prisoners temporarily for the festive period, but only the non-violent offenders. We don't want murderers and rapists running around, but people who evaded their taxes or committed fraud, like, say your favorite minister's brother? They're not a physical danger to anyone. Plus, it frees up space in the prisons for the nastier sort. How about it, boss?" @@HE@@ looks at you nervously as @@HE@@ glances at a conveniently placed photo of @@HIS@@ brother's mugshot in @@HIS@@ wallet.
+
+4. Activist Holly Jolly interrupts the scene to interject, "We could also just, you know, abolish prisons? This holiday is based on an ancient story about fugitives from the law escaping the man's clutches. It's very much in the spirit to follow suit and abolish a practice that rips families apart and contributes little to restorative justice."
+
+[hr][/hr]
+[b][anchor=1754]#1754[/anchor]: Morally Bankrupt [Candlewhisper Archive; ed: Southland][/b]
+
+The Issue
+Limited liability company Danube was one of the biggest online retailers based in @@NAME@@, with it even branching into brick-and-mortar stores. However, a series of poor financial decisions has led Danube to recently declare bankruptcy. With vast debts unpaid and limited assets to liquidate, clarification is being sought on which creditors should get first dibs.
+
+The Debate
+1. "The Treasury has to come first," asserts Revenue Director Penny Pinn-Sherman, hovering like a vulture at the edge of the room. "Public finances depend upon settlement of unpaid taxes, and Danube is no different. They have raked up an exorbitant tax bill within their last few years, which they kept avoiding to pay. As even a fraction of it being paid off can help fund our agencies for the rest of the financial year, it's absolutely necessary that we seize their assets. Anything less will be rewarding irresponsible corporations and executives for their derelict of civil duty. It's either that or we raise income taxes on our citizens to compensate."
+
+2. "It's obvious that investors like me have suffered the most," asserts billionaire hedge fund owner @@RANDOM_NAME@@, dabbing away @@HIS@@ tears with a fistful of @@CURRENCY_PLURAL@@. "Imagine a chain of unfulfilled invoices, then unemployment from cost-cutting downsizing, and small companies going under through cashflow failures. All of this is doomed to happen to hard-working hedge managers who believed in the visions of runts—er, budding entrepreneurs like Danube to provide returns. You must protect the economy, @@LEADER@@, and start with the biggest creditors first. How else will our small multibillion investment banks survive?"
+
+3. "No, you have to pay back the smallest debts first!" pleads overworked parent @@RANDOM_FEMALE_NAME@@, whose greying hair has turned chalk white after hearing her bulk orders have been cancelled. "I've been relying on Danube to buy cheap diapers, blankets, and baby formula, and now it's gone! Without their convenience or funds to shop elsewhere, I don't know how I can go on! You must use the assets to reimburse us loyal customers, so we can afford to buy from other businesses. Think of the little people!" She holds up her wailing infant for your consideration.
+
+4. "Don't we get to have a say in this?" sighs unemployed shelf-stacker @@RANDOM_NAME@@, still wearing @@HIS@@ uniform. "Look, a lot of us worked the last months with our salaries 'deferred' to try to save the company, so it's only fair that we get some kind of reward for our loyalty. Covering all unpaid wages should be the first priority. We can start by dividing the executives' fleet of luxury bikes amongst us employees. You do care about the working man, don't you?"
+
+5. "The concept of limited liability is the precise problem here," argues self-trained lawyer Sue E. Sidal-Tendensee, who appears to be reading a copy of [i]Bankruptcy Law 4 Blockheadz[/i] upside down. "Even a simple whatever-region-this-is lawyer like me understands that limited liability allows companies to be taxed like people, but get more protections from bankruptcy than regular corporations. Of course this would encourage fat cats to act recklessly! Abolish limited liability and make it so that company directors are personally responsible for paying off company debts, and maybe then they'll be more financially cautious."
+
+[hr][/hr]
+[b][anchor=1755]#1755[/anchor]: Don't Have a Cow, Man [Candlewhisper Archive; ed: Southland][/b]
+
+The Issue
+Beef has been a positively bovine staple of the @@DEMONYM_ADJECTIVE@@ menu. However, a recent report by the Environmental Ministry revealed that the beef industry has become a major source of methane due to the gas and waste produced by cattle herds, raising the steaks on how to mitigate their environmental impact.
+
+The Debate
+1. "Woo-wee, wanna know what's that smell?" rhetorically questions Bovine Apparel producer @@RANDOMNAME_1@@, wafting @@HIS_1@@ hands over your head as @@HE_1@@'s giving you a tour of a ranch. "That, my city-slickin' friend, is the smell of a precious natural resource just floatin' away! Y'all need to legislate that the methane be recaptured for biofuel use, whether through domed poo fermenters, tubes and backpack bubbles, or closed environment capture. We don't need to give up on beef so long as we catch a few fumes, I tell you hwat!"
+
+2. "That's udderly ridiculous! A cow is meant to roam free and naked, under the open sky," opines agricultural scientist and lifelong cow@@BOY_2@@ @@RANDOMNAME_2@@ while lassoing a calf. "Don't restrain them. Instead give them a diet of Asparagopsis seaweed to disrupt the methane-producing enzymes in the cows' stomachs. Of course we'll need to dedicate large stretches of coastal sea to feed farms, and we'll need a barge network for low-carbon transportation, which will surely ruffle the hides of fishermen. Still, this will get cows' bottoms nice and clean." @@HE_2@@ stops placing a tag on the calf's left ear for a moment, and licks @@HIS_2@@ lips thoughtfully.
+
+3. "O...kay," says vegan activist @@RANDOMNAME@@, carefully backing away from @@RANDOM_LAST_NAME_2@@. "Look, I don't want to start beef with anyone, but wouldn't it be better if you carnists just cut back on red meats a bit? Maybe if you just taxed the heck out of large methane-producing livestock, you could divert the funds into subsidizing more carbon-friendly diets. Stuff like vat-grown beef protein, beans and mushrooms, worms and crickets, and — if you must insist on conventional meats — poultry and fish. Just a thought."
+
+4. "You people are cowards!" interrupts ecorevolutionary @@RANDOMNAME@@, waving a soysteak at you menacingly. "Carnivorism and its consequences have been a disaster for the environment. Our planet is teetering towards full on eco-collapse, we can not be satisfied with this half-measure nonsense anymore! I demand that all meat-eating be banned, and that murderers like @@RANDOM_LAST_NAME_1@@ and @@RANDOM_LAST_NAME_2@@ be brought to justice for their crimes against animals! Omnivorism is genocide! Down with the Meatocracy!" @@HE@@ grabs the calf and makes a run for it.
+
+5. "Two environmentalists and two vegans? Just how biased is this nation-state anyway?" rants self-proclaimed common-sense conservative @@RANDOMNAME@@. "This is an alarmist conspiracy, fabricated by the woke liberal vegan-industrial complex to take away our gastronomic freedoms and stuff us meat-lovers in the closet! If I want to put juicy meat in my mouth — in a non-homosexual way I mean — then that is my right as a @@DEMONYM_NOUN@@. Celebrate beef with a National Barbecue Day, with a steak and burger on every plate, and thick succulent wieners in each hand. Stand tall and show pride of our love for beef!"
+
+[hr][/hr]
+[b][anchor=1756]#1756[/anchor]: May I Pick Your Brain? [God-Empress Makasta Silversbane; ed: Haymarket Riot][/b]
+
+The Issue
+A recent exposé has revealed that the wealthy Kennadoof family sent one of their more rebellious daughters to an institution where her brain's frontal lobe was cut, in a way that destroyed her higher brain functions. She was subsequently hidden from public sight for years. This procedure, called 'lobotomy', remains legal in @@NAME@@. The resulting public backlash has caused quite a headache for your government.
+
+The Debate
+1. "Lobotomy is an abhorrent process!" yells civil right activist @@RANDOM_NAME@@, storming into your office. "It destroys one's ability to think and be free as a person! The only way to deal with this is to completely ban the practice. It's clear we should never have allowed this to begin with, and these mutilators need to be brought to justice!" @@HE@@ clears @@HIS@@ mind and continues, "Instead of destroying the lives of the mentally unwell, we should focus our efforts on humane mental healthcare that helps people flourish. It's a no-brainer!"
+
+2. "What this 'activist' fails to address is that lobotomies can be medically useful," counters @@RANDOM_NAME@@, director of the @@CAPITAL@@ Institute for the Demented, shoving a little boy in front of you. "Just look at little Timmy here: his OCD has been completely cured! Plenty of our patients live better lives after they are cured of their ailments. As such, we need to make sure lobotomies are used for all cases where the unruly and unwell might benefit!"
+
+*3. "Wait, this exposé said it destroyed all of her higher brain functions? That's wonderful news!" exclaims your Minister for Creative Solutions as they mindlessly careen into your office. "Instead of killing or disappearing your political rivals, we can simply strip them of their ability to think! It'll get rid of threats to your rule, and no one will wonder where they went, since hospital visiting hours are every Tuesday at noon. Plus, they'll all look like fools!" [TBD]
+
+[hr][/hr]
+[b][anchor=1757]#1757[/anchor]: A Colonel of Hope [Fhaengshia; ed: Kractero][/b]
+
+The Issue
+A promising applicant to the officer corps has been found to be a colonel in @@HIS_1@@ country of origin, which no longer exists. Because the military doesn't recognize foreign credentials, @@HE_1@@ must return to basic training at the National Armed Forces Academy. The topic has come up during a meeting with your national security advisors, where the top brass are jingling loudly enough to give everyone a headache.
+
+The Debate
+1. "@@LEADER@@, this officer candidate is clearly qualified," states Brigadier @@RANDOM_FEMALE_NAME@@, the Commandant at the Academy, her face drained as every general, uniform, and medal in the room seemed to judge her. "I don't have enough instructors as is, let alone one senior enough to teach a colonel! My teaching staff worry that @@HE_1@@ may end up ordering them around in a slip of past habits. Anyone applying with some level of management experience should be given an automatic pass to the military, whether as an officer or foot soldier."
+
+2. "We need to ensure all officers are true @@DEMONYM_NOUN_PLURAL@@," insists @@RANDOMNAME@@, your Minister for Defense, boasting a chestful of medals that cling and clang as @@HE@@ gesticulates. "Experience is great and all, but it doesn't override true loyalty. This isn't hopscotch! It requires years of dedication to @@NAME@@, something we can only prove with rigorous vetting. We can start by thoroughly combing @@HIS_1@@ background and service history, then have @@HIM_1@@ disavow @@HIS_1@@ previous nation, answer a thousand consecutive questions on our nation's history, and even provide @@HIS_1@@ mother's maiden name and first pet. Only through this can we ensure that when you say 'jump', the army jumps the @@DEMONYM_ADJECTIVE@@ way."
+
+3. "The military is my calling and I want to contribute to my new nation as best I can," avows Colonel @@RANDOMNAME_1@@, the applicant in question, standing ramrod-straight and speaking with a slight accent. "My former nation was an ally of @@NAME@@ and had collaborated with the @@NAME_INITIALS@@DF. I fear that my skills may have dulled during the delays of immigration, and it sounds like the national academy is woefully understaffed, and especially needs instructors of high rank. The solution is already clear, let me teach, and I can both refresh my skills and guide new recruits. A thorough burnish will let us shine together!"
+
+[hr][/hr]
+[b][anchor=1758]#1758[/anchor]: Let Me Be Queer [Gem; ed: Ostrovskiy][/b]
+
+The Issue
+Returning to the executive residence after a diplomatic summit, you're halted by a loud thump emanating from a nearby closet. A glance inside reveals two of your most trusted staff members — both men — locked in a position that's definitely not in the training manual, and even more definitely in violation of @@NAME@@'s strict heterosexuality laws.
+
+The Debate
+1. "It's not what it looks like!" stammers Neil Down, your longtime bodyguard, yanking his hands from the thighs of his covert companion. "Well, okay, maybe it is what it looks like, but let's not blow this out of proportion, alright?" He smiles nervously. "Remember the time I tackled the Bigtopian ambassador for calling your outfit unseemly? Or when I caught that shoe in East Lebatuck? Maybe there's a little gay area in those heterosexuality laws, like just a one-time loophole for friends?"
+
+2. "Oh, screw that," groans your personal secretary, Miles Long, stamping out of the closet. "People are queer. Deal with it. Why should the two of us get to be happy while every other gay person in @@NAME@@ has to bend over backwards to fit in the closet? Because of some law? I call bunk. Laws change; sexual orientation doesn't. Let me be queer: it's about time @@NAME@@ got its priorities straight. Or, you know... not."
+
+3a. "Oh, shut yer trap!" bellows your gate guard, Ike Stiff, storming in red-faced, jaw clenched like he's in the bathroom. "The law is the law, no matter what any of us twi-uh, think about it. Bottom line: same-sex relationships are illegal in this country. And in @@NAME@@, criminals don't get the honor of working for @@LEADER@@." He snorts. "All they should be serving is prison time." [[color=blue]Must have prisons[/color]]
+
+3b. "Oh, shut yer trap!" bellows your gate guard, Ike Stiff, storming in red-faced, jaw clenched like he's in the bathroom. "The law is the law, no matter what any of us twi-uh, think about it. Bottom line: same-sex relationships are illegal in this country. And in @@NAME@@, criminals don't get the honor of working for @@LEADER@@." He snorts. "All they should be serving is community service." [[color=red]Must not have prisons[/color]]
+
+*4. A missionary from the Church of Monochromacy, a major religion infamous for its black and white worldview, lurches in through your now unguarded door. "What if there was another option? If you surrender these two souls to us, then through faith, prayer, and repentance, they may yet be able to return to the path of white-ousness, a life uncolored by the sin of homosexuality!" @@HE@@ begins sprinkling holy printer toner around the room. [TBD]
+
+*5. "What if I told you there was another option?" asks a door-to-door salesman, while waltzing in through the door. "Perhaps you'd be interested to hear about Dire Straights, a luxury conversion therapy center just outside of @@CAPITAL@@. It may cost a pretty @@CURRENCY@@, but it's worth it to get your friends'... habits straightened out in the utmost comfort. No, there are no refunds, but we promise our services are shockingly effective." @@HE@@ flashes you a sly grin. "Any other queer-ies?" [[color=blue]Must have Private Industry[/color] AND [color=purple]Must not have High Religiousness[/color]]
+
+*6. "What if there were another option?" chirps your Commissar of Straightening Things Out while waltzing in through the door. "Imagine a lovely little facility where we could send all these confused 'gay' people for rehabilitation. Don't worry about how many @@CURRENCYPLURAL@@ it'd cost, think of the newly orthodox people! Unified messaging, streamlined identities... I'm sure it would be shockingly effective." @@HE@@ beams. "Any other queer-ies?" [[color=red]Must not have Private Industry[/color] AND [color=purple]Must not have High Religiousness[/color]]
+
+[hr][/hr]
+[b][anchor=1759]#1759[/anchor]: Curvy Cuisine Causes Conflict [Helaw; ed: Bisofeyr][/b]
+
+The Issue
+Soft, slender curves. Buttery, golden skin. Aye, the croissant truly is the crème de la crème of bread-based foodstuffs. Yet, the one before you now curves more than any other you have seen, almost creating a perfect circle of pastry. How are you expected to eat this? How... infuriating! This is an outrage! It's fortunate that little is on the legislative agenda today, as it's time to chew on a radical new set of rules on the dimensions and shapes of foodstuffs!
+
+The Debate
+1. "This is the most absurd thing I have ever heard," sighs one of your ministers, placing his oddly round head in his hands. "I don't even want to know what possessed you to bring this issue up. It's a classic example of how we make arbitrary, questionable, and bad decisions when we're bored. The government should stop wasting its time on this, and remove any other unnecessary existing food regulations like it. We have no right to tell consumers whether the porridge they are buying is too hot, too cold, or just right! Let them decide it for themselves."
+
+2. "Mrmph mumff!" cries your Minister of Regulations and Far-Reaching Bureaucracy That This Government Does Indeed Create Quite Frequently, eating a rather delectably-shaped banana. "Mm... I disagree whole-heartedly with my colleague. Enforcing basic quality standards is what the government does, and besides, we'd only be removing stuff that no one wanted anyway! Like, who even wants a completely straight banana, or an apple that resembles the face of a pug dog, or neck-tie-shaped bowtie pasta? Let's apply common sense rules to our food and ensure @@DEMONYM_NOUN_PLURAL@@ only receive the highest quality meals."
+
+3a. "Ban food," suggests one of your secretaries, who has recently been going around the office bragging about their new liquids-only diet. "The only winning move here is not to play, so we must end the consumption of traditional food and make everyone have nutrient pastes instead. They're effective and efficient, not to mention easier on the environment than foods such as proper meats. And then we'll replace mealtime with more important things: working and, uh, other things. Hey, I think they do lemon-flavoured versions of the 'type A' paste..." [[color=red]Must not have Vegetarianism[/color]]
+
+3b. "Ban food," suggests one of your secretaries, who has recently been going around the office bragging about their new liquids-only diet. "The only winning move here is not to play, so we must end the consumption of traditional food and make everyone have nutrient pastes instead. They're effective and efficient, not to mention easier on the environment than foods such as soybeans or corn. And then we'll replace mealtime with more important things: working and, uh, other things. Hey, I think they do lemon-flavoured versions of the 'type A' paste..." [[color=blue]Must have Vegetarianism[/color]]

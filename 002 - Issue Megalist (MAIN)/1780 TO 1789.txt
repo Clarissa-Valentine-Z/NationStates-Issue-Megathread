@@ -95,7 +95,7 @@ The Debate
 3. @@RANDOM_FIRST_NAME_1@@ C. @@RANDOM_LAST_NAME_1@@ is more sympathetic to the difficult decision than @@RANDOM_FIRST_NAME_1@@ A. @@RANDOM_LAST_NAME_1@@ and @@RANDOM_FIRST_NAME_1@@ M. @@RANDOM_LAST_NAME_1@@, and presents an alternative solution. “Yeah, I suppose it probably shouldn’t be possible to confuse voters like that. Still, we shouldn’t restrict who can run. We should just post each candidate’s platform on the ballot and not show their names! It’s, like, a totally unbiased way to show what each candidate hopes to achieve! That way, voters can vote for the policies they like and can’t get confused by names or anything. That’s a certified @@RANDOM_NAME_1@@ solution!"
 
 [hr][/hr]
-[b][anchor=1786]#1786[/anchor]: [Haymarket Riot; ed: Haymarket Riot][/b]
+[b][anchor=1786]#1786[/anchor]: Cold Fusion a Hot Topic?[Haymarket Riot; ed: Haymarket Riot][/b]
 
 The Issue
 A research group from @@CAPITAL@@ Technological University has claimed to generate heat by fusing hydrogen atoms together using nothing but water and electricity. Defying theoretical expectations, this “cold fusion” technology has created a frenzy as investors pour money into research, all while some scientists caution against funding a seemingly impossible energy source.  Now, the @@CAPITAL@@ Tech team mired in this debate are meeting with you in your office, led by Principal Investigator Professor Francis Filth, to request additional funding, but the meeting is being protested by angered scientists.

@@ -61,15 +61,28 @@ The Issue
 After several @@DEMONYM_ADJECTIVE@@ hedge funds decided to short the gaming company Zwangzug Enterprises’ stock (ZWE). Shorting, a practice in which an investor borrows someone else’s stock and sells it, attempting to profit off of the difference, was retaliated against by thousands of users coordinating on an online forum to buy ZWE to profit at the hedge funds’ expense. Stock brokerage Robewood then banned the trading of ZWE, causing many users to experience massive losses while hedge funds profited. The stock continues to balloon as users flock to other brokerages to continue trading. Panicked hedge funds have clamored for government intervention as fears of total insolvency grow.
 
 The Debate
-1. “The bubble is going to burst, who knows where that will leave millions of pensions that depend on these funds’ solvency, not to mention the rest of the market,” carefully claims Robewood CEO @@RANDOM_NAME@@, as investors eye @@HIM@@ uncertainly. “These misinformed internet gamblers shouldn’t be allowed to influence the global markets on a whim! Let’s be real, the inflated ZWE stock has lost money quarter after quarter for the past three years and is really worth 22 @@CURRENCYPLURAL@@. The government should ensure that trading only reopens once the price falls below that threshold. By next Friday, preferably — I’ll get my hedge fund buddies at the golf club on it.”
+1. “The bubble is going to burst, who knows where that will leave millions of pensions that depend on these funds’ solvency, not to mention the rest of the market,” carefully claims Robewood CEO @@RANDOM_NAME@@, as investors eye @@HIM@@ uncertainly. “These misinformed internet gamblers shouldn’t be allowed to influence the global markets on a whim! Let’s be real, the inflated ZWE stock has lost money quarter after quarter for the past three years and is really worth 22 @@CURRENCY_PLURAL@@. The government should ensure that trading only reopens once the price falls below that threshold. By next Friday, preferably — I’ll get my hedge fund buddies at the golf club on it.”
 
 2. “This was an opportunity to finally take my income to the moon,” cries @@RANDOM_NAME@@, whose callouses from hard daily labor make @@HIM@@ better known as ‘Diamond-Hands’. “The rich elite of this nation are just covering their massive losses by bribing Robewood to stop the common man from trading stocks if it comes at the expense of the ultra-wealthy. Sure, my contracts might appear to be high-risk, but I simply like the stock! Apes together strong, [i]we[/i] like the stock! Trading platforms must allow users to trade whatever they want, period.”
 
 3. “Frankly, destabilizing trades like these are going to happen again,” claims @@RANDOM_NAME@@, who recently lost @@HIS@@ entire savings after visiting an internet forum. “To avoid rehashing this debate, just abolish stock trading. The invisible hand of the free market can instead be controlled by rational, well-informed stakeholders such as yourself. By the way, do you mind lending me some money, @@LEADER@@? I’m craving some chicken nuggets.”
 
 [hr][/hr]
-[b][anchor=1804]#1804[/anchor]: TBD[/b]
+[b][anchor=1804]#1804[/anchor]: Easter Egg: You Must Be Yolking [Helaw; ed: Nardin][/b]
 
+The Issue
+There have been reports throughout @@NAME@@ of chocolate eggs mysteriously appearing beside the beds of sleeping children. The scarce footage that exists of the culprit reveals that it is, to the disbelief of many, a rabbit. After scarfing down the eggs you received, you find yourself accosted by citizens egging you on to take action.
+
+The Debate
+1. “This [i]thing[/i] invaded our homes!” insists @@RANDOM_NAME@@ angrily, whilst smashing a collection of jewelled eggs under @@HIS_1@@ heel. “Not only that, but it wasn’t even considerate enough to attach an ingredient list for those vile eggs. Do you have any idea how potentially dangerous they are? My daughter is lactose intolerant, and that damnable rabbit could have sent her to the hospital! We have to hunt down and kill this savage beast, even if it means chasing it through every rabbit hole in the nation.”
+
+2. “I wonder what we could learn from studying it,” ponders mammalogist @@RANDOM_NAME@@ while examining an egg under @@HIS_2@@ microscope. “Clearly this is a rabbit the likes of which we have never seen. If we acquire more footage maybe — even collect a few samples — we would be able to learn a staggering amount about the rabbit and why it acts this way. Think of the existential questions we could answer: Why does it leave these eggs? Why does it wear a green vest? Where did it get that cute little basket?”
+
+3. “This has the potential to become a disaster,” presses your economic adviser @@RANDOM_NAME@@, nervously caressing @@HIS_3@@ lucky rabbit’s foot. “If we don’t stop this creature, it could destabilize the entire economy! Think about it; this rabbit is freely giving away products that other companies have to sell to stay afloat! We must enforce a minimum price on sweets and snack products, and force the rabbit to comply so that it can’t cause any more economic damage. I’ll have an agent deliver this offender a cease-and-desist notice posthaste.”
+
+4. “Your advisor knows not what @@HE_3@@ speaks of,” claims Eggor Chokolov, a renowned socialist thinker. “The lagomorph has a point, @@LEADER@@. We must order chocolate and candy companies to provide for all residents of @@NAME@@ on a regular basis, no matter how wealthy or poor they may be. None should be kept from tasting these great delicacies, and we cannot leave comrade rabbit to do it alone!”
+
+5. You turn to see a small child happily gobbling handfuls of chocolate eggs. “These eggs are yummy,” giggles the youngster. “Can we let the nice rabbit come again, please? All the other chocolate in @@NAME@@ tastes bad; I want the bunny’s chocolate!”
 
 [hr][/hr]
 [b][anchor=1805]#1805[/anchor]: Avant-Guard [Kractero & Cat Without Legs; ed: Kractero][/b]
@@ -109,12 +122,46 @@ The Debate
 3b. “I reckon the problem is that everyone lives here,” contemplates @@RANDOM_FIRST_NAME@@ the local janitor, as @@HE@@ fills a bucket with water from your office floor. “Things were fine when @@CAPITAL@@ was just three @@DEMONYM_NOUN_PLURAL@@ and @@A@@ @@ANIMAL@@, but its too big now. May I suggest that we spread the government out across @@NAME@@’s many cities and towns? This will relieve the need to put everyone in the capital, and distribute our population more evenly. We already let the people govern themselves, so it won’t be that big of a change in the grand scheme of things.” @@HE@@ empties the bucket out through the window, and gestures for your help. [[color=blue]Has Devolution[/color]]
 
 [hr][/hr]
-[b][anchor=1807]#1807[/anchor]: TBD[/b]
+[b][anchor=1807]#1807[/anchor]: Ethicist’s Edict [Bisofeyr; ed: Bisofeyr][/b]
 
+The Issue 
+Your assistant was recently offered an all-expenses paid vacation by a prominent @@MAJORINDUSTRY@@ company. Since the nation’s strict bribery laws prevent @@HIM_1@@ from accepting the trip, @@HE_1@@ has decided to set up a beach chair and lounge in your office.
+
+The Debate
+1a. “@@LEADER@@, this is totally unfair!” whines your assistant, wearing a tropical-themed bathing suit and sipping from a cup with a small umbrella in it. “It’s not like they’re asking me for anything in return! Someone finally decided I deserve a vacation, and now you’re saying I can’t accept because of some silly ‘ethics’ laws... If you ask me, you should allow these kickbacks unless they explicitly ask for something in return, and let me go on this trip!” [[color=red]Must not have enforced nudism[/color]]
+
+1b. “@@LEADER@@, this is totally unfair!” whines your assistant, sipping from a cup with a small umbrella in it. “It’s not like they’re asking me for anything in return! Someone finally decided I deserve a vacation, and now you’re saying I can’t accept because of some silly ‘ethics’ laws... If you ask me, you should allow these kickbacks unless they explicitly ask for something in return, and let me go on this trip!” [[color=blue]Must have enforced nudism[/color]]
+
+2. “Actually, the fact that we’re talking about this offer at all is what makes it problematic,” notes an ethics compliance officer, writing something down on a notepad. “Folks offering free trips like this don’t do it out of the kindness of their heart — they’re hoping to soften your assistant up so they receive more favorable treatment in the future. The fact that @@HE_1@@ does not see this is bad enough. We must mandate every government employee take our annual eighteen-module ethics training — the Ethics Office will charge a small fee for each training administered, of course, but that’s a small price to pay for morality.”
+
+3. “The only tragedy here is that your loyal employees rely on the generosity of strangers for time off,” whines the officer whiner. “The best way to prevent corrupt offers being made is to ensure that government workers have no need to accept bribes or anything. If you gave us, say, a month-long subsidized vacation every year, you encourage ethical compliance and also get a more well-tanned workforce!”
 
 [hr][/hr]
-[b][anchor=1808]#1808[/anchor]: TBD[/b]
+[b][anchor=1808]#1808[/anchor]: Mann and Boy [The Free Joy State; ed: The Free Joy State, Raionitu][/b]
 
+The Issue
+The nation’s schoolchildren have recently returned to the classroom after a school holiday, and schoolteachers are noticing a rise in young boys spouting extremely threatening and aggressively sexist rhetoric that they have picked up over their break.
+
+The Debate
+1. “I simply asked one of my pre-teen students to not interrupt me; he called me a dumb [i]blank[/i],” sniffs @@RANDOM_NAME@@, educator and author of noted high school biology text, [i]Mitosis, Bromhidrosis and Genes — Oh My[/i]. “A growing number of my students are watching aggressive misogynist content online and beginning to spout its braindead precepts. I had a student tell me that, if a woman had ever had a previous partner, that man could be the father of her children [i]decades[/i] later. These unhinged beliefs about women must be legally countered. Fine websites that host this type of content, arrest these online hate-speakers, and take all their victims for deprogramming.”
+
+2. @@RANDOM_FEMALE_NAME@@, the boy’s mother, shuffles into your office and begins cutting sandwiches into crustless eighths. “I’m sorry if my little cherub said some mean things. But isn’t it good for our children to fly free and learn different points of view? Teachers should embrace innocent high spirits and let schools be a haven for free expression and open discussion. If children become a little mean, teachers can always remind them about respect as a parent would.” She answers her phone, face collapsing at the shouting on the line. She then dumps the sandwiches in the bin and limps towards the door. “My little boy didn’t want cheese today.”
+
+3. “It’s the Manosphere, not high spirits!” snaps @@RANDOM_FEMALE_FIRST_NAME@@, one of the boy’s classmates, answering her own phone and setting it aside while a squeaky voice rants various insults about her physical appearance and romantic history. “Ever heard of Mannon Mann? The little squirts love him. He draws the brats in and teaches them that all boys are awesome and girls are to blame for not finding them super-cool. Then they’re sucked into an echo chamber where they start getting the even creepier stuff, like women shouldn’t vote and should just be slaves to men. Parents need to watch who their kids are idolising, and model positive gender relations. Telling the pipsqueaks to ‘shut it’ once in a while also couldn’t hurt.”
+
+4. “Sexist?” rails Mannon Mann, shoving the remaining speakers out the door and vaunting his [i]Can’t Handle the Truth? Stop Being Wrong[/i] T-shirt. “According to some female schoolmarm, seeing the world as it is is now ‘sexist’? This broken education system was built for the lowest common denominator: females! Females are unattractive, intellectually lazy creatures, all searching for a man to own them and take them and make them matter — no matter what some phony-baloney ‘feminism’ claims. How’s that sexist? I’ll tell you what’s sexist: allowing subservient females to lecture or hector brave boys. Get females out of education. Save these fine young men from the worst thing in the world: girls!”
 
 [hr][/hr]
-[b][anchor=1809]#1809[/anchor]: TBD[/b]
+[b][anchor=1809]#1809[/anchor]: Origin Story [Unogonduria; ed: Kractero][/b]
+
+The Issue
+Archaeologists have unearthed evidence that suggests nomadic proto-Bigtopians may have migrated to and settled in @@NAME@@ before their eventual assimilation into other ethnic groups, including the early @@DEMONYM_PLURAL@@. Some of the discoveries, particularly the ornaments found in their burial mounds, indicate a broader cultural impact than what was previously known. Bigtopians, a long marginalized minority in @@NAME@@, are now seeking proper recognition of their role in @@DEMONYM_ADJECTIVE@@ cultural heritage.
+
+The Debate
+1. “@@LEADER@@, please recognize the heritage of our ancestors!” cries @@RANDOM_NAME@@, a popular Bigtopian speaker. “Sure, there’s no conclusive evidence, but the report says around five percent of the @@DEMONYM_ADJECTIVE@@ language may have proto-Bigtopian origins! Not only that, but it also states that we may have had one of the oldest calendar systems in use, which must have clearly influenced the @@DEMONYM_ADJECTIVE@@ calendar! It’s clear as day that the contributions of the proto-Bigtopians are undeniable and should be taught in schools as an integral part of this nation’s history!”
+
+2. “Teaching this rubbish would be absurd,” dismisses @@RANDOM_NAME@@, your Minister of Cultural Affairs, waving to a guard to escort the speaker out of the room. “This report is speculative and guesswork at best. The actual archaeological record shows that these savages regularly raided and pillaged our villages. Clearly, they looted our crafts to fill their mounds rather than producing anything ornate themselves. If we are going to spend the @@CURRENCY_PLURAL@@ to rewrite all of our textbooks, it should be to remove any last mentions of their brutish culture. That should teach them to know their place.”
+
+3. “Hold your horses,” interjects @@RANDOM_NAME@@, the well-known and respected historian who authored the report, sipping tea and spinning a horse carousel toy on your desk. “While it is important to educate people on the importance of the proto-Bigtopians, it should be done in a purely historical and unbiased way, perhaps with a generous smattering of footnotes. Per my research, they were remarkable for their time, with advanced institutions like their writing and calendar systems. However, they were a pastoral people not suited for state-building and would have much preferred to conquer and dominate. The fact remains that they flourished most under the guidance of a more ordered society.”
+
+4. “You are all wrong!” shouts @@RANDOM_NAME@@, a @@DEMONYM_NOUN@@ Flatlandis conspiracy theorist, who also hosts the show [i]Prehistoric Extraterrestrials[/i]. “This report fails to account for evidence that clearly indicates that these people were from Flatlandis, the sunken continent, as evidenced by their inscriptions and language!” @@HE@@ pulls out stacks of paper and haphazardly written field notes on Flatlandis. “Just compare the two sun characters; they’re both circular! They also have remarkably similar vowel inventories! How could the proto-Bigtopians have created such sophisticated systems if they were not very advanced? We must make this information known! People must learn how to do their own research, and not follow the herd!”

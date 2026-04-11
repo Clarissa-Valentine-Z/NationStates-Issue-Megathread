@@ -52,7 +52,9 @@ The Debate
 
 5. "Or, how about we try being less iconoclastic about this?" cautions Brawn University dean of admissions @@RANDOM_NAME@@. "Instead of tearing everything down, how about we try building some things up? So many promising youths never even apply to colleges that would be happy to take them because of the cost of attending, which only hampers our nation's progress. If we allocate enough funding to public education to render higher education entirely free, students won't see admission to elite universities as their only chance to secure enough financial success to overcome the costs. Such a program would let us Ivories keep our focus on the height of talent while making rejection easier to come to terms with for those who don't meet our standards."
 
-**6. "Selective admissions is only the first floor of the ivory tower," posits Bigtopian grad student @@RANDOMNAME@@. "When I did my undergrad at the University of @@CAPITAL@@, I was one of only three Bigtopians in my entire class! I naïvely thought it would be different when I started my grad program at Dormouse, but I turned out to be the only Bigtopian on campus! Disenfranchised peoples have long been underrepresented in elite college demographics, making it harder for them to climb out of the well they were born in. If we are to truly make higher education more equitable, the immediate enactment of affirmative action quotas is imperative." [TBD]
+[6]. "Or, how about we try being less iconoclastic about this?" cautions Kernel University dean of admissions @@RANDOM_NAME@@, counting a wad of cash. "Of course college admissions are elitist—that's the whole point. Those who're better disposed to comply with our... tacit requirements came to be that way through their deserving genius. Unfortunately, your policy of just handing everyone a degree free of charge makes that process much more difficult. If you could do us the great favor of removing that hurdle, well, let's just say I know a few people over at Princesstown should you have any family or friends starting the application process." [TBD]
+
+[7]. "Selective admissions is only the first floor of the ivory tower," posits Bigtopian grad student @@RANDOMNAME@@. "When I did my undergrad at the University of @@CAPITAL@@, I was one of only three Bigtopians in my entire class! I naïvely thought it would be different when I started my grad program at Dormouse, but I turned out to be the only Bigtopian on campus! Disenfranchised peoples have long been underrepresented in elite college demographics, making it harder for them to climb out of the well they were born in. If we are to truly make higher education more equitable, the immediate enactment of affirmative action quotas is imperative." [[color=red]Must not have affirmative action[/color]]
 
 [hr][/hr]
 [b][anchor=1833]#1833[/anchor]: Patron Sinner [The Free Joy State; ed: Nardin][/b]
@@ -70,24 +72,94 @@ The Debate
 4. "I see the boy has already been imbibing from the heady cup of infamy, and confuses being 'cool' with being worthy of attention," intones self-righteous moralist @@RANDOM_NAME@@, rifling through a closet in search of any misplaced skeletons. "Not-So-Gentlemanly Jack was a miscreant, a cut-throat cut-purse and braggart. Now that it has practically been confirmed John St. John was said villain, we must denounce him and cleanse his influence from the public sphere. Remove his name from all buildings and parks that bear it, sandblast his gravestone and burn his biographies. We ought not to idolize lawbreakers."
 
 [hr][/hr]
-[b][anchor=1834]#1834[/anchor]: TBD[/b]
+[b][anchor=1834]#1834[/anchor]: Trams-phobic [Lavrada; ed: Haymarket Riot & Southland][/b]
 
+The Issue
+Recently, popular car brand Fjord Motors has been buying tram lines in cities and tearing them down to force people to buy their cars to get around. Angry citizens without cars have walked tirelessly for miles, fueled by anger, to protest in front of your office. As you and your Minister of Transportation exit your car and attempt to enter your office to meet about the issue, you find yourself surrounded by a swarm of protestors.
+
+The Debate
+1. "We want our trams back!" cries sweaty public @@RANDOM_NAME@@ as @@HE@@ blocks the entrance to your office. "Trams are the heart and soul of every city, and are essential to those unable to use or afford a car, especially the disabled and homeless. You can't just let that monstrous company get rid of our best option to move around! Reinstall those trams immediately and ban car companies like Fjord from buying them and tearing them down!"
+
+2a. "That's not going far enough!" rants bespectacled environmentalist @@RANDOM_NAME@@ as @@HE@@ hands you a pamphlet with a big red 'X' across a picture of a car. "If you truly want to save the environment and keep the streets congestion-free, ban all cars and replace them with bike lanes, more electric trams, and other public transport!" [TBD]
+
+2b. "That's not going far enough!" rants bespectacled environmentalist @@RANDOM_NAME@@ as @@HE@@ hands you a pamphlet with a big red 'X' across a picture of a car. "If you truly want to save the environment and keep the streets pollution-free, ban all cars and replace them with bike lanes, more electric trams, and other public transport!" [TBD]
+
+3. Snatching the pamphlet out of your hand, sunglasses-wearing Fjord executive @@RANDOM_FIRST_NAME@@ Vroom walks up to you and remarks, "@@LEADER@@, what I'm doing is justified. Trams and other forms of public transport are outdated relics of the past. In fact, why not subsidize taxpayers purchasing cars so they can see things my way? While you're at it, you should also tear down subway systems and buses! As compensation, we'll give five percent of our revenue to you. Deal or no deal?"
+
+4. After you push past the rabble and enter your office, your equally frazzled Minister of Transportation gives @@HIS@@ thoughts. "Perhaps there is a compromise. We could mandate the more culturally and economically-important trams like the Main Street Line to return while allowing the rest that have already been purchased to be dismantled, albeit with future acquisitions by car companies being scrutinized. That way, there's still public transport while allowing the car industry to grow. Surely both sides will be happy."
 
 [hr][/hr]
-[b][anchor=1835]#1835[/anchor]: TBD[/b]
+[b][anchor=1835]#1835[/anchor]: Potatoes in Hot Water [Stevist Guam; ed: Kaschovia][/b]
 
+The Issue
+A sensational new documentary about the @@DEMONYM_ADJECTIVE@@ countryside has revealed that significant quantities of perfectly edible agricultural produce in @@NAME@@ are discarded by stores each year because they look bruised, disfigured, or simply too "unappetizing" for the average consumer. The issue has reached a boiling point as tomato-wielding farmers have set up tractor blockades on the busiest streets of @@CAPITAL@@.
+
+The Debate
+1a. "They're still real fruits, damn you!" curses local farmer @@RANDOM_NAME@@, aiming a makeshift tomato slingshot in your direction. "Local farms have been throwing away millions in good produce each year just because some damned, big city urbanites don't like how our crops look! Well, don't they know their food can't grow at the supermarket? You should force stores to shelve produce of all shapes and sizes!" [[color=blue]Must have private industry[/color]]
+
+1b. "They're still real fruits, damn you!" curses local farmer @@RANDOM_NAME@@, aiming a makeshift tomato slingshot in your direction. "Local farms have been throwing away millions in good produce each year just because some damned, big city bourgeoisie don't like how our crops look! Well, don't they know their food can't grow from ration centres? You should force stores to shelve produce of all shapes and sizes!" [[color=red]Must not have private industry[/color]]
+
+2. "No... let us eat cake," a pair of silk smooth hands grabs yours as bougie urbanite @@RANDOM_NAME@@ inspects your skin for imperfections. "If I may say so, @@LEADER@@, we deserve... demure, artisan, and perfect produce. As consumers, it's our right to select the finest produce for ourselves! Why don't you just get to the root of this and require all crops be genetically enhanced to perfection? Sure, the higher standards might push costs up a bit, but won't it be worth it to see our shelves filled to the brim with the finest fruits and vegetables in @@REGION@@?"
+
+3. "Why don't we donate all of our waste produce to the Bigtopians?" pleads naive, bright-eyed ambassador @@RANDOM_NAME@@, clutching an international aid pamphlet. "Sure, our proud citizens may have high standards for the food they consume, but I'm sure there are loads of starving children over there who don't care what their food looks like! Don't worry about the transport costs or anything silly like that... after all, we'd be their heroes!"
+
+4. "I have a much more palatable idea," up-tight industrialist @@RANDOM_NAME@@ whispers into your ear, fearful a pelted tomato might take one of their eyes out. "Farmers rely on perfect weather conditions, sufficient crop yields, and waste months waiting, all for mindless customers to scoff at their odd shapes and colors! Why don't we move the entire agricultural sector into hydroponic processing factories? I can see it now... rows of fast, vertical growth towers and industrial crop pulverisers stretching to the horizon, spitting out nutrient blocks, pastes, and powders. Chuck in some preservatives and the shelf life of these things could stretch decades. No more would there be oddly-shaped or off-color produce to complain about, just neatly-stacked blocks and packaging as far as the eye can see."
+
+5a. "Oh for Violet's sake just let the market decide!" screams local grocery store owner @@RANDOM_NAME@@, shaking a reddened fist quite vigorously in your direction. "Whether a neighbourhood wants pristine produce year round or slightly off-looking spares, the average @@DEMONYM_NOUN@@ will certainly let us know with their wallets! Why would our most refined customers buy a bag of dirty, malformed carrots? Why would less picky customers pay painfully more for an apple you can see your own reflection in? Stop this nonsense and let the inevitable forces of demand and supply bring us back into balance." [[color=blue]Must have private industry[/color]]
+
+5b. "Oh for Violet's sake just let the people decide!" screams provision hall administrator @@RANDOM_NAME@@, shaking a reddened fist quite vigorously in your direction. "Whether a neighbourhood wants pristine produce year round or slightly off-looking spares, the average @@DEMONYM_NOUN@@ will certainly let us know with their ration cards! Why would our most refined workers take a bag of dirty, malformed carrots? Why would less picky workers care for an apple you can see your own reflection in? Stop this nonsense and let the inevitable forces of demand and supply bring us back into balance." [[color=red]Must not have private industry[/color]]
 
 [hr][/hr]
-[b][anchor=1836]#1836[/anchor]: TBD[/b]
+[b][anchor=1836]#1836[/anchor]: Tummy Troubles [Buceroque; ed: Nardin][/b]
 
+The Issue
+While entertaining a Dàguóren dignitary, all was going well until dinner was served from your private kitchen. After deftly dodging a splash of sick, you and your entourage rushed to attend to the convulsing ambassador, who swiftly fell comatose. With the ambassador rushed off to @@CAPITAL@@ General Hospital, your fellow dinner guests resume their table-talk, suddenly wary of the fare before them.
+
+The Debate
+1. "S-Sacre bleu! Simmer down!" whimpers your private chef, toque falling to the ground as @@HE@@ clutches a saucepan defensively. "I cooked everything by the book, just as I've always done! It's these filthy ingredients — just look at them, quelle horreur!" @@HE@@ waggles a limp stalk of celery in your direction, scattering mildew across the room. "With this refuse we call produce, it was only a matter of time before somebody fell ill. Do something about the sad state of your farmers, like teaching them how to grow their crops better, then maybe they'll be able to pick a peck of proper peppers."
+
+2a. "Where's the lamb SAUCE!?" rants cosmopolitan TV-star chef Giordan Raunchy, who had joined you today to help give the Dàguóren dignitary a taste of @@DEMONYM_ADJECTIVE@@ culture. "Today's 'dinner' was horrendous — I wouldn't have fed it to my pet @@ANIMAL@@! I'm not surprised the bloody ambassador's laid up; today's damned cooks just haven't got the patience or the passion for perfection, yeah? It's time we take cooking seriously. Imagine: the Most Amazing Culinary Institute of @@CAPITAL@@. That, and sponsor my veritable buffet of televised courses and programmes, and we'll be leading @@REGION@@ in well-disciplined culinary excellence!" [must have private industry, is not vegetarian]
+
+2b. "Where's the tahini SAUCE!?" rants cosmopolitan TV-star chef Giordan Raunchy, who had joined you today to help give the Dàguóren dignitary a taste of @@DEMONYM_ADJECTIVE@@ culture. "Today's 'dinner' was horrendous — I wouldn't have fed it to my pet @@ANIMAL@@! I'm not surprised the bloody ambassador's laid up; today's damned cooks just haven't got the patience or the passion for perfection, yeah? It's time we take cooking seriously. Imagine: the Most Amazing Culinary Institute of @@CAPITAL@@. That, and sponsor my veritable buffet of televised courses and programmes, and we'll be leading @@REGION@@ in well-disciplined culinary excellence!" [must have private industry, must be vegetarian]
+
+3. Your Minister of Agriculture noisily tears into a disconcertingly grey steak, sauce splattering everywhere. "Mmf — research shows that food poisoning is on the rise in @@NAME@@. Know why that is?" @@HE@@ wipes @@HIS@@ mouth on the tablecloth before continuing, "The way we handle our livestock is simply unsustainable: parasites infest whole herds, and evolving bacteria means no amount of cooking or curing makes it edible. This will be tough to digest, but we have to — " @@HE@@ shudders — "cull our livestock and force @@NAME@@ to go vegetarian. As for meat already packaged, I'll, um... dispose of it properly."
+
+[4]. The tower of peas your Minister of Health has been stacking atop his plate suddenly collapses onto the floor, causing all eyes to stare daggers at @@HIM@@. @@HE@@ blinks. "Uh, well, my opinion on the matter is... meat! I know it's hard to stomach, and I also detest the idea, but statistics don't lie. It was a mistake to trust our citizens to eat a balanced vegetarian diet: protein deficiencies are wracking @@NAME@@, and foreigners like our poor Dàguóren guest simply can't tolerate our meatless menus. Why not re-open some fisheries here and there, see how public health changes, and go from there. Just, please, no more peas..." [[color=blue]Must be vegetarian[/color]]
+
+[5]. Fast food mogul Raymond McRonald sits across from you dressed in full regalia of his company's clown mascot. "If you're after health and safety regulation compliant service with a smile, look no further than McRonalds! We serve countless millions a year, with hardly any breakout E. coli cases! We'd be thrilled to dedicate our services towards fulfilling all the government's culinary needs. Imagine the cultural immersion foreign dignitaries would enjoy while browsing our neon menus in state banquet halls, or how their faces will light up as they open their RonnyMeals to find miniature @@LEADER@@ action figures!" He winks and gives his nose an emphatic honk. [[color=blue]Must have private industry[/color]]
+
+[6]. "So, our friend from Dàguó has a tummy-ache? Well, tough onions!" your chief of security roars. "For all we know that meal was poisoned, and I'd bet golds to donuts that foreign Galli-whatever cook of yours is really a plant, sent to make an attempt on your life!" Your secretary discreetly removes the fuming officer's cutlery. "We need to respond in kind — close our borders to foreign 'workers' and install 'chefs' of our own on the kitchen staffs of our enemies. Show Dàguó and the rest of the world we're not so easily fooled!" [[color=blue]Must allow immigration[/color]]
+
+[7]. @@RANDOM_FIRST_NAME@@, your dusty custodian, hobbles through your door dragging an equally dusty vacuum cleaner. Ignoring the protests of your dinner guests, @@HE@@ shambles around the room vacuuming the various dining room messes. "I'm a hundred-eleventy years old," @@HE@@ starts, barely audible above the electric din, "an' alls I ate my whole life was potatoes. Wasn't sick not once in my life. Youse an' lots o' @@DEMONYM_NOUN_PLURAL@@ are all soff an' weak in the belly from eatin' yer hoity-toity grub. Make everyone in @@NAME@@ eat how the workin' @@MAN@@ does! I'll show youse how me grandpappy cooked for us — hand me a knife!" [[color=red]Must not have geronticide[/color]]
 
 [hr][/hr]
-[b][anchor=1837]#1837[/anchor]: TBD[/b]
+[b][anchor=1837]#1837[/anchor]: Sue That Storm [Roman Garcia; ed: Raionitu][/b]
 
+The Issue
+Despite repeated assurances of perfect picnic weather from forecasters, the entire country has been plagued by a series of storms. Many citizens now doubt meteorologists, and even blame them for ruined funerals, public speeches, and birthday parties.
+
+The Debate
+1. "These weather people are a sham!" says a dripping @@RANDOMNAME@@, tracking mud into your office. "Oh, they say that there's some science behind what they're predicting and that it'll come to pass. Liars, the lot of them! I was drenched fifty-eight times this year. Fifty-eight times they told me I didn't need an umbrella! All they want is money, their face on TV, and a cushy job where they don't have to do real work. Every time they're wrong, make them compensate everyone they misled and give a televised apology!" @@HE@@ screams as @@HE@@ is ushered out by the janitorial staff.
+
+2a. "That's not enough!" thunders Minister of Public Relations @@RANDOMNAME@@. "These people have been telling lies to our fine citizens for years as the people put faith in their predictions. Trusted them. They have committed a crime, the most heinous crime: treason. We must throw them in prison to atone! Every time it rains they should be outside doing manual labor. Maybe then they'll have an incentive to give accurate forecasts." @@HE@@ flinches as a clap of thunder rattles the window. [validity: prisons]
+
+2b. "That's not enough!" thunders Minister of Public Relations @@RANDOMNAME@@. "These people have been telling lies to our fine citizens for years as the people put faith in their predictions. Trusted them. They have committed a crime, the most heinous crime: treason. We must force them into community service to atone! Every time it rains they should be outside doing manual labor. Maybe then they'll have an incentive to give accurate forecasts." @@HE@@ flinches as a clap of thunder rattles the window. [validity: no prisons]
+
+3. "Now, wait just a minute!" @@RANDOMNAME@@, formerly the most popular and now most infamous meteorologist in all of @@REGION@@, says, chuckling nervously. "Science is always unpredictable, but sixty percent of the time it works every time. We meteorologists are already feeling enormous guilt, why add to our misery? We do warn people that weather forecasting is not always accurate. These people had a choice, it's their fault they didn't take precautions. I say we were unable to predict this storm because we didn't have enough data. With just a few more weather stations and the latest scientific equipment we'll be one hundred percent sure about our next forecast. Probably."
 
 [hr][/hr]
-[b][anchor=1838]#1838[/anchor]: TBD[/b]
+[b][anchor=1838]#1838[/anchor]: Who's Afraid of Red, Yellow, and Blue? [The Ankhalic Vaspriot; ed: Jiangbei][/b]
+The Issue
+In the middle of the day, a visitor to the @@CAPITAL@@ Museum of Modern Art walked up to Bigtopian immigrant Barent Nieuwman's monumental wall-sized canvas in the museum's main gallery and slashed it repeatedly with a knife before fleeing.
 
+The Debate
+1. "The investigation suggests the attacker thought the piece was a 'Bigtopian invasion of @@DEMONYM_ADJECTIVE@@ culture'," explains @@RANDOM_NAME@@, curator of the museum in question. "This sort of ultranationalist rhetoric is extremely dangerous for artistic freedom and cannot be allowed to run rampant. We need more policemen patrolling @@NAME@@s museums so we can defend against these attacks and protect art that challenges our visitors."
+
+2. "That painting had it coming!" yells your brother, tossing something shiny into a rubbish bin. "That abomination swallows the whole main hall — you can barely even see the decent @@DEMONYM_ADJECTIVE@@ paintings anymore! Police need to raid every museum in the nation, destroy this degenerate filth, and arrest those involved in propagating such sick ideas. Real art is patriotic, realistic, and promotes traditional values. Everything else goes to the bonfire."
+
+3. "Destroying perverse art doesn't erase the perverse ideas that created it," posits your Minister of Social Engineering, a position you're not sure actually exists, taking a priceless painting off your office wall. "Such 'art' should be forcefully deaccessioned to the state and displayed in a gallery explaining its dangers so that the public can understand its folly, thus inoculating our @@DEMONYM_NOUN_PLURAL@@ against their vile influence."
+
+4. "Oh, come on, who's afraid of a few colors?" yawns famous abstract painter Percusso, slapping paint onto a canvas and getting it all over your office. "Ignorance is the problem. The purpose of art is to realize the fullest extent of human creativity, not to enshrine fascist ideals. We must fund diverse public art around the country and add art classes to the national curriculum so that these censorious ideas will fade over time." He adds the final touches to his piece, resulting in a blob of paint landing squarely in your face.
 
 [hr][/hr]
 [b][anchor=1839]#1839[/anchor]: TBD[/b]

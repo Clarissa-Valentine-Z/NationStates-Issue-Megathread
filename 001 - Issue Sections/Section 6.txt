@@ -52,3 +52,8 @@
 #1831: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=75#1831]Some @@DEMONYM_NOUN_PLURAL@@ May Die[/url] [Haymarket Riot; ed: Haymarket Riot]
 #1832: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=75#1832]À La Cartel[/url] [The Ankhalic Vaspriot; ed: The Ankhalic Vaspriot]
 #1833: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=75#1833]Patron Sinner[/url] [The Free Joy State; ed: Nardin]
+#1834: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=75#1834]Trams-phobic[/url] [Lavrada; ed: Haymarket Riot & Southland]
+#1835: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=75#1835]Potatoes in Hot Water[/url] [Stevist Guam; ed: Kaschovia]
+#1836: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=75#1836]Tummy Troubles[/url] [Buceroque; ed: Nardin]
+#1837: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=75#1837]Sue That Storm[/url] [Roman Garcia; ed: Raionitu]
+#1838: [url=http://forum.nationstates.net/viewtopic.php?f=13&t=88&start=75#1838]Who's Afraid of Red, Yellow, and Blue?[/url] [The Ankhalic Vaspriot; ed: Jiangbei]

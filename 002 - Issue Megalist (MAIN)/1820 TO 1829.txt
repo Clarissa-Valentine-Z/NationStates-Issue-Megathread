@@ -8,9 +8,9 @@ The Debate
 
 2. "Look, I'm a muscle fan," muses a drenched Jeanette as she glares at Dr. Berger and hides behind Chad, "but if I were a scientist, I'd never ever, never seek to create life for such selfish purposes...even if Patty does look lovely! You have to stop Dr. Berger and others like him from using sentience research for sex slaves, and ban future experiments on sentience without rigorous ethical standards."
 
-3. "I knew you were falling in with a bad crowd, @@LEADER@@," scolds Dr. Amundsen from his wheelchair, "but this is worse than I thought! You're all going to turn out like my immodest nephew Freddie, disappeared to who knows where, probably with some floozy of a girl!" He wheels around to face a scowling Dr. Berger, before turning to you and whispering, "We've got to get @@NAME@@ out of this trap, before this decadence saps our people's wills. Don't just ban this research, ban prostitutes like this 'Patty' here! Otherwise, my mind may very well snap!" [TBD]
+[3]. "I knew you were falling in with a bad crowd, @@LEADER@@," scolds Dr. Amundsen from his wheelchair, "but this is worse than I thought! You're all going to turn out like my immodest nephew Freddie, disappeared to who knows where, probably with some floozy of a girl!" He wheels around to face a scowling Dr. Berger, before turning to you and whispering, "We've got to get @@NAME@@ out of this trap, before this decadence saps our people's wills. Don't just ban this research, ban prostitutes like this 'Patty' here! Otherwise, my mind may very well snap!" [TBD]
 
-4. Finally, after exiting from his display in the center of the room, Patty speaks up, "Yo, anyone shreddin' my vibe? I didn't paddle into this life, but now that I'm here, gotta get some say, brah! And like, every other creature tossed into this world 'gainst their will should get a voice too, yeah! Don't care if it's a robot dude, a rocking muscle man like me, anyone that's got a brain enough to talk should be able to sell our bodies and skills we're made to please with." [TBD]
+[4]. Finally, after exiting from his display in the center of the room, Patty speaks up, "Yo, anyone shreddin' my vibe? I didn't paddle into this life, but now that I'm here, gotta get some say, brah! And like, every other creature tossed into this world 'gainst their will should get a voice too, yeah! Don't care if it's a robot dude, a rocking muscle man like me, anyone that's got a brain enough to talk should be able to sell our bodies and skills we're made to please with." [TBD]
 
 [hr][/hr]
 [b][anchor=1821]#1821[/anchor]: A Dilemma of (Musical) Note [Starenia; ed: The Ankhalic Vaspriot][/b]
@@ -73,6 +73,7 @@ The Debate
 
 [hr][/hr]
 [b][anchor=1824]#1824[/anchor]: A Great Swansong? [Chan Island; ed: Southland][/b]
+
 The Issue
 @@RANDOM_NAME_1@@, a celebrated medical researcher known for @@HIS_1@@ cures and treatments of several previously life-threatening diseases, will soon celebrate @@HIS_1@@ last birthday. Given @@HIS_1@@ long list of accomplishments, many are clamouring for @@HIM_1@@ to be spared the state-mandated euthanasia typical of @@DEMONYM_NOUN_PLURAL@@ who reach the maximum age.
 

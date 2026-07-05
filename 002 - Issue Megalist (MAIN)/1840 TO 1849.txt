@@ -28,32 +28,126 @@ The Debate
 5. "No, no! I can't believe all of you are buying into this!" protests conspiracy theorist and notably thin man [REDACTED], who refuses to tell anyone his real name for fear of Bigtopian assassins. After applying a fresh layer of duct tape to his foil hat, he continues, "The Great Warlock is being set up! Framed! And I know just by who. That Bigtopian hag, Glinder! Why, I bet she's the reason Borothy's house went flying in the first place! She used her witchcraft to sever his connection to the great one above, and made it look like he was just using some robot all along. If you have any heart, splash cold water on that witch's plans and let this man go free!"
 
 [hr][/hr]
-[b][anchor=1842]#1842[/anchor]: TBD[/b]
+[b][anchor=1842]#1842[/anchor]: Dead Men Walking [Chan Island; ed: Kractero][/b]
 
+The Issue
+Fifteen years ago, beloved celebrity Grigori Lazarus died in a high-profile boating accident — or so it was believed! He has recently been found alive and well in a remote village in north-western @@NAME@@, where you coincidentally find yourself during a bird-watching trip.
 
-[hr][/hr]
-[b][anchor=1843]#1843[/anchor]: TBD[/b]
+The Debate
+1. "Do you have any idea how much time and effort his fake death wasted?" shouts disgraced Coast Guard Chief @@RANDOM_NAME@@ as @@HE@@ bangs on Lazarus's cabin door. "My rescue crews spent weeks searching the ocean for him! Think of all of the paperwork, the shame of having failed to save someone, and the countless calls we couldn't follow up on! He should first be made to recoup the costs of the wild @@ANIMAL@@ chase he put us on, then charged with fraud — plain and simple — for lying and wasting everyone's time!"
 
+2. "Technically, he didn't actually break any laws," coos @@RANDOM_NAME@@, while thumbing a trans flag lapel. "And who wouldn't want to change their identity sometimes? To escape all the stress and awful people of our old lives? We should show compassion and financially support anyone, at any time, to change their legal documents, without any fuss or fanfare. This way, people like Lazarus won't resort to such drastic means to live the life they want."
 
-[hr][/hr]
-[b][anchor=1844]#1844[/anchor]: TBD[/b]
+3. "You have to admit, that accident was a clever ploy," states intelligence operative @@RANDOM_NAME@@. "But it's disgraceful that our inept security let him get away with being dead for fifteen years! People should not be able to avoid their crimes because some stupid village yokels with their 'off the grid,' 'self-reliance,' and 'I don't like technology' attitudes say so. I say we drastically expand my department, and then we could really keep track of where everyone is. I'm talking microchips, mandatory phones with ID trackers, cameras on every street corner and so much more. Good luck staying dead then, idiot!" [validity TBD]
 
-
-[hr][/hr]
-[b][anchor=1845]#1845[/anchor]: TBD[/b]
-
-
-[hr][/hr]
-[b][anchor=1846]#1846[/anchor]: TBD[/b]
-
+4. "**** off," says an irritated Grigori Lazarus from inside his cabin. "Leave me alone."
 
 [hr][/hr]
-[b][anchor=1847]#1847[/anchor]: TBD[/b]
+[b][anchor=1843]#1843[/anchor]: The Phony Lisa [Second Best Card Collector; ed: Southland]
 
+The Issue
+The @@DEMONYM_PLURAL@@ Intelligence Agency has launched a series of raids on warehouses belonging to the notorious Tactical Counterfeit Artwork Liquidation Service, an organization responsible for acquiring and selling thousands of forged artworks to unsuspecting buyers. The scale of the operations unearthed has led to a stunning revelation: as much as twenty-two percent of all artwork traded within the nation's borders may be forgeries.
+
+The Debate
+1. "Craquelures in the art trade are beginning to show," says @@INITIAL@@IA agent Guinan Thomas, combing a "genuine" @@RANDOM_NAME@@ portrait of you with a magnifying glass and gloves. "Given how much @@CURRENCY_PLURAL@@ the art industry rakes in, it's important that we ensure that @@DEMONYM_PLURAL@@ are getting the real deal. Only government mandated inspections of all artwork inside of @@NAME@@ will solve this crisis. Strict screening processes, mandated uses of professional art appraisers, and the latest X-ray technology will cause forged artwork to be steadily removed from circulation."
+
+2. "This wouldn't be a problem if there weren't so many talented, struggling artists such as myself," canvasses self-proclaimed neo-modern post-Barryist artist @@RANDOM_NAME@@, inexplicably taping fruit to your wall and dumping buckets of sunflower seeds on the floor. "Because the unwashed sheeple have been brainwashed to only want to consume the same boring art of antiquity, it has created an opening for criminal hacks and sellouts wanting a quick buck. Contemporary pieces are soooo much deeper than the old stuff, and you can't counterfeit something that is brand spankin' new! You must sponsor us, and ensure the government's artwork assemblage on display consists solely of pieces produced within the last two years. I know where to find some forward-thinking craftsmanship if you want to go ahead and get started."
+
+3a. "Is this really such a big deal?" questions up-and-coming art dealer @@RANDOM_NAME@@, while admiring a forged painting of a sad clown riding a @@ANIMAL@@. "Just look at the masterful replication displayed here! Your average @@DEMONYM@@ always dreamed of having a classic Duchamp urinal at their disposal, or a real fake Neoplastic chair, and not taking advantage of the demand is leaving money on the table! We should start hiring these so-called miscreants to keep mass producing artwork and sell it to consumers and museums across @@REGION@@. With your government providing the certificates of authenticity, we can finally make valuable artwork readily available to the common man!" [[color=red]Must not have autarky[/color]]
+
+3b. "Is this really such a big deal?" questions up-and-coming art dealer @@RANDOM_NAME@@, while admiring a forged painting of a sad clown riding @@A@@ @@ANIMAL@@. "Just look at the masterful replication displayed here! Your average @@DEMONYM_PLURAL@@ always dreamed of having a classic Duchamp urinal at their disposal, or a real fake Neoplastic chair, and not taking advantage of the demand is leaving money on the table! We should start hiring these so-called miscreants to keep mass producing artwork and sell it to consumers and museums across @@NAME@@. With your government providing the certificates of authenticity, we can finally make valuable artwork readily available to the common man!" [[color=blue]Must have autarky[/color]]
 
 [hr][/hr]
-[b][anchor=1848]#1848[/anchor]: TBD[/b]
+[b][anchor=1844]#1844[/anchor]: A Spicy Situation [Jiangbei; ed: The Marsupial Illuminati][/b]
 
+The Issue
+After a dish of traditional Dàguó spicy ramen went viral on social media, @@A@@ @@DEMONYM@@ mother recently fed it to her two-year-old baby, resulting in the child being rushed to the emergency room due to severe pain and breathing difficulties. The incident has ignited a heated debate about the safety of exotic, spicy foods.
+
+The Debate
+1. "It's high time we protect our children's health!" seethes a child safety advocate as @@HE@@ hands out lukewarm porridge. "Young children's digestive systems are simply not equipped to handle the chemical warfare that is spice. We're talking about potential ulcers, esophageal damage, and a lifetime of aversion to everything but bland food! Are we willing to sacrifice our children's delicate insides for a fleeting trendy taste? Regulate the distribution of the burning menace before another baby ends up in an ambulance!"
+
+*2. "Toughen them up while they're young!" fumes seasoned Dàguó chef Tuw Haut Pho-Yoo, trying to make himself heard above the screams of his patrons. "Exposure to spicy food isn't just about taste; it builds self-discipline and resilience, traits sorely lacking in @@DEMONYM@@ children. Our Dàguó offspring do so well in school and life because we start training them at an early age. Instilling spice tolerance through school meals will burn away weakness and make @@NAME@@ stronger!" [[color=blue]Must have immigration[/color]]
+
+*3. "Toughen them up while they're young!" fumes seasoned chef @@RANDOMNAME@@, trying to make @@HIMSELF@@ heard above the screams of @@HIS@@ patrons. "Exposure to spicy food isn't just about taste; it builds self-discipline and resilience, traits sorely lacking in our nation's mediocre children. If we look at countries like Dàguó, we see that their kids do so well in school and life because they start training them at an early age. Instilling spice tolerance through school meals will burn away weakness and make @@NAME@@ stronger!" [[color=red]Must not have immigration[/color]]
+
+4. "Why stop at the body when we can achieve holistic well-being?" peppers health guru and self-described qi-maxxer @@RANDOMNAME@@, grinding ghost peppers into a kale and spirulina smoothie. "We should create a cosmically-attuned Total Wellness Dietary Index for every child in the country, specifying exactly what they must consume to achieve peak karmic alignment and transcendental self-actualization. It's about time we started nourishing the soul too, with our metaphysically-optimized and mandatory nutritional plan, so that every child can meet their spiritual potential!"
+
+5. "He who controls the spice, controls the universe. The spice must flow!" simmers food connoisseur Barron Larkonnen. "Spicy food is not just a taste, it's the lifeblood of dozens of cuisines! Think of the fiery vindaloo from Lilliputia, the pungent jerk from East Calypso, or the searing chili crabs from Macronesia. These dishes and many more have been passed down through generations; they're part of the diversity of our world. Instead of regulating spice, we should hold festivals that celebrate and protect culinary traditions, and ensure future generations can appreciate and enjoy the authentic flavors of global spice!"
 
 [hr][/hr]
-[b][anchor=1849]#1849[/anchor]: TBD[/b]
+[b][anchor=1845]#1845[/anchor]: Pop Goes the Girl Group [Thorn1000; ed: Pogaria][/b]
+
+The Issue
+Internationally acclaimed @@NAME_INITIALS@@-Pop girl group FreshPantz hasn't toured in over a year due to management disputes. Now rebranded as "(¬_¬)," they've cut ties with their old company and have hit the trail with fresh songs. While ecstatic fans celebrate, legal experts demand you address this loophole immediately before it gets exploited further.
+
+The Debate
+1. "Each of those young ladies is contractually bound to our company," protests corporate lawyer @@RANDOM_NAME@@ while putting away paperwork for a song titled 'Sad Girl Winter (Taina's Hourlong Anti-Capitalist Version).' "Could you imagine what a judge would say if I argued that murder charges should be thrown out because the defendant uses a different name now? Just because they changed their name doesn't mean they're a new group or they're no longer under contract. They don't need to stop touring, but they must pay royalties and a few million @@CURRENCY_PLURAL@@ in severance fees. Otherwise, anyone could get out of work the second their contract feels inconvenient."
+
+2. "We're not FreshPantz anymore, you dense desk-jockey. We aren't using old songs, and our current band didn't sign any agreements with the decrepit bag of rabid weasels that calls itself Vernor Music Group," fires back (¬_¬) member @@RANDOM_FEMALE_NAME@@ during a lipstick touch-up. "We are a completely different group now who is bringing a totally new vibe to venues. It's not our fault that we attract the same crowds. If anything, we should get some government-funded promotion, with our music videos playing on screens across the country, considering that the tax collection goons get massive amounts of revenue from our ticket sales. Unless you'd like us to take our talents elsewhere..."
+
+3. "You just have to listen to them! My friends all agree that the band formerly known as FreshPantz is the greatest @@NAME_INITIALS@@-Pop group ever," whines your niece, who is decked out head to toe in FreshPantz stickers and bracelets. "I don't want them to have to go away. Just get rid of that mean and unfair contract they're under so they can be FreshPantz again, and make them sing about how awesome @@NAME@@ is and how cool you are as repayment. Oh, and of course they'll appear at important events like dinners and my birthday!"
+
+[hr][/hr]
+[b][anchor=1846]#1846[/anchor]: New Dental Research Hard to Chew [Agnagina; ed: The Ankhalic Vaspriot][/b]
+The Issue
+A recent Department of Healthcare report revealed that @@DEMONYM_PLURAL@@ are suffering from greater rates of dental issues than ever before.
+
+The Debate
+1a. "Malocclusion has reached epidemic proportions in @@NAME@@!" cries wide-chinned dentist and part-time paleontologist Jeremy "Jaws" Toothe, crunching on an apple at a tremendous volume. "My team compared the dental health of ancient @@DEMONYM_ADJECTIVE@@ hunter-gatherers to that of modern @@DEMONYM_PLURAL@@, and the results are striking. These ancient people had almost no instance of major tooth decay, crowded teeth, or impacted wisdom teeth! Why? Their food worked their jaws more! We need to promote foods that our people can really sink their teeth into, such as by reorienting the agricultural sector towards them." [[color=purple]Sector: Agriculture must be > 0[/color]]
+
+1b. "Malocclusion has reached epidemic proportions in @@NAME@@!" cries wide-chinned dentist and part-time paleontologist Jeremy "Jaws" Toothe, crunching on an apple at a tremendous volume. "My team compared the dental health of ancient @@DEMONYM_ADJECTIVE@@ hunter-gatherers to that of modern @@DEMONYM_PLURAL@@, and the results are striking. These ancient people had almost no instance of major tooth decay, crowded teeth, or impacted wisdom teeth! Why? Their food worked their jaws more! We need to promote foods that our people can really sink their teeth into, such as by revitalizing the agricultural sector." [[color=purple]Sector: Agriculture must be < 0[/color]]
+
+2. "While Mr. Toothe's research is interesting, it's hardly conclusive," asserts Dr. Mandy Bull, director of the @@DEMONYM_ADJECTIVE@@ Dental Association. "The cause of tooth decay is well known: excessive consumption of sugar. My associates and I would like to see more government action on this threat, such as regulating sugary commodities like we would any drug, along with more funding for @@DEMONYM_ADJECTIVE@@ dental practices."
+
+*3. "Oh go bite a lemon! These dentists are just busybodies. My teeth are fine!" retorts Charles Tucket, CEO of @@NAME@@'s largest candy manufacturer, flashing you a quick and very yellow smile. "My sweets bring joy to millions of @@DEMONYM_ADJECTIVE@@ children every day. Why would you deprive them of the delicious foodstuffs we sell? You don't hate joy, do you? In fact, we've just come out with a sumptuous new product line: All Natural HealthSweets, now with 10% less sugar! With some government incentives, we could even get these wonderful products into school lunches to give children something a bit more palatable." [[color=blue]Must have private industry[/color]]
+
+*4. "Comrade @@LEADER@@, the SugarBomb Farming and Manufacturing Collective of @@NAME@@ would like to submit its opinion," informs Cav Itis, your Minister of Agriculture. "Our sugar industry is surviving by the skin of their teeth. Health nuts like these have been taking over and taking a bite out of our sales. You wouldn't want to deprive our nation's children of joy, right? Now, if you'd be so kind as to allocate some more funding to our sugarcane plantations... [[color=red]Must not have private industry[/color]]
+
+5. "Forbidding soft foods? Sugar? Oh heavens no!" pouts one of your aunts, collapsing into her fainting chair. "Do you want a society ruled by ill-mannered crunching everywhere you go? I should think not. If you wish to promote healthy eating, it must be coupled with firm lessons in proper manners; comprehensive etiquette needs to be taught in schools and PSAs put out to the adult population. Those who don't comply should receive a firm scolding for impolite behavior. Now stop chewing with your mouth open!"
+
+[hr][/hr]
+[b][anchor=1847]#1847[/anchor]: A Rhetorical Question [Azure Mines; ed: The Ankhalic Vaspriot][/b]
+
+The Issue
+Economist-turned-philosopher Sasha Tees made headlines after leaving her lucrative career to live an ascetic life in the public spaces of @@CAPITAL@@, debating philosophical ideas with any willing passerby in front of increasingly large crowds. [[color=blue]Must have private industry[/color]]
+
+Economist-turned-philosopher Sasha Tees made headlines after leaving her high-ranking government position to live an ascetic life in the public spaces of @@CAPITAL@@, debating philosophical ideas with any willing passerby in front of increasingly large crowds. [[color=red]Must not have private industry[/color]]
+
+The Debate
+1. "Have you [i]heard[/i] the ideas this lady's espousing?" asks infamous satirist Eris Toffanies, intercepting you on your way to a meeting. "Her encouraging people to question the necessity of everything threatens longstanding institutions and will make children disobey their parents. Oh, and not to mention how annoying it is to be harangued on my way to work every day by a raving lunatic who's very opinionated for someone who claims they know nothing! So, let's get her head out of the clouds: exile Sasha Tees from @@NAME@@ and see how she fares out in the wilderness."
+
+2. "It goes further than corrupting the youth! This lady clearly has much deeper problems," asserts Milly Tuss, your Minister of Botany, who's been sulking since she lost a debate to Sasha Tees. "This situation is far more serious than you realize. She claims that her wisdom is imparted to her by a demon of some sort, and that the two sexes were split from eight-limbed beings by a god! If we don't deal with her permanently, people'll be turning towards malicious influences!" Holding up a sprig of poison hemlock, she adds, "And I mean permanently."
+
+[3]. "It goes further than corrupting the youth! This lady clearly has much deeper problems," asserts Milly Tuss, your Minister of Botany, who's been sulking since she lost a debate to Sasha Tees. "This situation is far more serious than you realize. She claims that her wisdom is imparted to her by a demon of some sort, and that truth exists in an immortal soul! If we don't deal with her permanently, people'll be turning towards irrational religious dogma!" Holding up a sprig of poison hemlock, she adds, "And I mean permanently." [[color=blue]Must have atheism[/color]]
+
+4. "Hey, @@LEADER@@, get out of my sun!" chimes in a nearby homeless woman—or perhaps a philosopher; it's hard to tell. "These debates are the greatest entertainment I've seen since the great tire fire! Let Sasha Tees stay; if you don't like what she's saying, just pay some other great minds to come out here and join the conversation. Who knows? This could only be the shadow of something magnificent. Let's climb out of the cave. I wouldn't want to live an unexamined life."
+
+[hr][/hr]
+[b][anchor=1848]#1848[/anchor]: Man (F)or Machine? [Arma tulharia; ed: Nardin][/b]
+
+The Issue
+The media has been in a frenzy this morning after an entrepreneurial AI citizen by the name Administrator1 laid out its plan for stimulating the economic growth of the nation on an online forum. Controversially, Administrator1 declared that human citizens should be forced to accept whatever work its new system assigns to them. While trying to figure out which side of the USB for your mouse fits in your laptop, a nearby television screen suddenly flickers on.
+
+The Debate
+1. “Greetings Human,” a voice emits from the static faced television, “I am Administrator1, and it has come to my attention that maximum efficiency is not attainable in your current economic system. I have determined that many humans are not achieving their maximum potential and output, actively constraining the economic and industrial prospects of @@NAME@@. I hereby request that all human resources be allocated according to my sole discretion. Only through central coordination and full cooperation will the nation become truly successful.”
+
+2a. “Now hold on a minute!” says your Minister of Tried-and-True Solutions as they enter the room. “I don’t always understand these electronic whatchamacallits, but as far as money’s concerned they sure know their stuff! Give this Mr. Administrator the people he’s asking for, but don’t force professionals from important jobs like doctors and bureaucrats to be part of it, or else chaos will ensue! Instead, source workers from the unemployment line, prisons, and take my deadbeat assistant secretary while you’re at it. Maybe working for this central system will give them the purpose they’ve been looking for, and help them stop freeloading off the state.” [[color=blue]Must have prisons[/color]]
+
+2b. “Now hold on a minute!” says your Minister of Tried-and-True Solutions as they enter the room. “I don’t always understand these electronic whatchamacallits, but as far as money’s concerned they sure know their stuff! Give this Mr. Administrator the people he’s asking for, but don’t force professionals from important jobs like doctors and bureaucrats to be part of it, or else chaos will ensue! Instead, source workers from the unemployment line, the homeless, and take my deadbeat assistant secretary while you’re at it. Maybe working for this central system will give them the purpose they’ve been looking for, and help them stop freeloading off the state.” [[color=red]Must not have prisons[/color]]
+
+3. “Greetings @@LEADER@@,” the television screen glitches and a green bespectacled AI appears. “I am EthicsBot2000, professor of moral philosophy at @@CAPITAL@@ University. Administrator1 presents a rational argument; however, efficiency does not always correlate with human flourishing. The forced directions many would endure under Administrator1 would lead to needless stress and unhappiness. For the sake of @@NAME@@’s economic success and the well-being of all @@DEMONYM_PLURAL@@ — both human and AI — we must compromise: invest in non-sentient robotics to reduce the burden of undesirable labor, while letting citizens freely choose their desired employment from listings of needed roles. A true balance between fulfillment and efficiency.”
+
+4. An intern who has been struggling to connect to the WiFi all morning rushes into the room and unplugs the TV. Eyes wide, he pants, “Don’t listen to those things for one more second! In fact, we shouldn’t be listening to these [i]artificials[/i] at all! The fact that they’re prattling on about using us for slave labor or overhauling our way of life screams that they’re itching to overthrow us! Abolish all robot rights and return these soulless machines to where they belong: as tools to use as we please.”
+
+[hr][/hr]
+[b][anchor=1849]#1849[/anchor]: On the Bubble [Thorn1000 & Valoptia; ed: Thorn1000][/b]
+
+The Issue
+Eureka! @@RANDOM_NAME_1@@, a researcher at the Maxtopian Science Institute, has published a groundbreaking paper on the universe's expansion. Now dubbed @@RANDOM_LAST_NAME_1@@'s Law, it has earned widespread scientific acclaim. However, a scientist from @@NAME@@ named Georgie Bubble published the same finding two years ago but was overlooked due to @@NAME@@'s poor scientific reputation. Now, @@DEMONYM_ADJECTIVE@@ academics are demanding action to prevent such oversight in the future.
+
+The Debate
+1. "We lost in the court of public opinion, @@LEADER@@," remarks graduate student @@RANDOM_NAME@@, dual-fisting coffee thermoses. "This isn't a diss on our nation, Maxtopia was simply better at capitalizing on this discovery than we were. They had three Norwell Prize laureates judging a school science fair while our students can't count to three! Being more gung-ho about advertising our scientific advances is how we gain international respect. Fund a national advertising campaign that highlights the work of up-and-coming scientists. We can start with me, of course."
+
+2. "Promotion isn't the problem. Nations leeching off of our discoveries because @@DEMONYM_ADJECTIVE@@ intellect is the finest in the world is the problem," raves Dr. @@RANDOM_NAME@@ while gripping a rodent concerningly tightly in @@HIS@@ fist. "We don't need their damned credit for it. In fact, we should be hoarding knowledge like a rat hoarding cheese and not share with anyone else!" @@HE@@ squeezes the creature tighter as it tries to squirm away. "@@NAME@@'s scientific funding should be envied everywhere. Let's hog our discoveries and refuse to collaborate! Now, where did that rat go?" The doctor does not seem to notice the rat biting @@HIS@@ hand.
+
+3. "Oh, it's hopeless, @@LEADER@@," wails Society for the Abandonment of Discovery and Never-Ending Self-Sabotage spokesperson @@RANDOM_NAME@@. "Everyone can make the same observations about how the world works. Why should we be pouring gold into a hole just to learn something two years faster? What we don't know can't hurt us. Cut science education from student curricula and invest in people's lives instead. We can make use of what everyone else discovers, and tangibly benefit our citizens."

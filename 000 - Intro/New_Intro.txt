@@ -166,7 +166,7 @@ Bonifacius
 Boris
 Boromir
 Boutros
-Boutros 
+Boutros
 Boyson
 Brandon
 Brian
@@ -350,7 +350,7 @@ Henry
 Herb
 Hercules
 Hermes
-Herschel 
+Herschel
 Heston
 Hiawatha
 Hiro
@@ -636,7 +636,7 @@ Shigeru
 Shinzo
 Siddhartha
 Silas
-Silvio 
+Silvio
 Simba
 Simon
 Sincere
@@ -1795,7 +1795,9 @@ Also, some options have varients or are not available to certain nations. Here's
 [pre]‘ - opening single quote - alt+0145
 ’ - closing single quote - alt+0146
 “ - opening double quote - alt+0147
-” - closing double quote - alt+0148[/pre]
+” - closing double quote - alt+0148
+‘|’
+“|”[/pre]
 
 [size=200][color=#3DC0FF][b][i]Hotlinks for Post-Editing (for OP Use)[/i][/b][/color][/size]
 [hr][/hr]This is for when I am doing a large-scale post editing.
@@ -1901,4 +1903,5 @@ Section 6 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32527535
 1820 TO 1829.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138673
 1830 TO 1839.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138674
 1840 TO 1849.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138675
+1850 TO 1859.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138676
 [/spoiler]

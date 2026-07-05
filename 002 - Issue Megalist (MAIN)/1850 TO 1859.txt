@@ -1,0 +1,86 @@
+[b][anchor=1850]#1850[/anchor]: Explosive Conflict [Cretox State; ed: The Ankhalic Vaspriot][/b]
+
+The Issue
+During a recent state banquet, one of your top generals publicly unveiled a new precision missile technology with the potential to strike any seat of government around the world while bypassing all known defensive measures. While the crowd at the event was acceptably jovial, the news has ruffled some feathers abroad, with many viewing this development as contradictory to @@NAME@@’s stance against WMDs.
+
+The Debate
+1. “It’s not that we don’t trust you, @@LEADER@@,” says Skandilundian Prime Minister Anders Anderson via an encrypted video call from an undisclosed location. “It’s just that developing this technology defeats the purpose of foregoing weapons of mass destruction in the first place. Please, shut down all research into these and similar weapons and put that money towards aiding conflict zones instead. If you continue to build them, it could easily lead to a catastrophic arms race or major international incident. It’s simply not a good idea.”
+
+2. “This is the best idea I’ve ever had!” boasts General @@RANDOM_NAME@@, accidentally knocking over half the items on your desk. “These missiles will allow us to have the good PR of banning WMDs with none of the downsides to our national security. So what if we start an arms race? They’re a lot less deadly than nukes, and it’s not like I’m suggesting we’ll ever actually have to use the things. Unless we have to, that is. Better build some more. Just in case.”
+
+3a. “Never actually use them? What a waste that would be!” exclaims a voice from inside your desk, which sounds like it belongs to United Federation ambassador @@RANDOM_NAME@@. “What you’ve got here, my friend, is an advanced payload delivery system that the Federation would pay handsomely for. Quietly, of course. We get to take our nuclear arsenal forward by years and you get some more food on your plate. Speaking of food, could you slip some into your ‘extremely sensitive’ drawer? I’ve been in here all day.” [[color=blue]Must have private industry[/color]]
+
+3b. “Never actually use them? What a waste that would be!” exclaims a voice from inside your desk, which sounds like it belongs to East Lebatuck ambassador @@RANDOM_NAME@@. “What you’ve got here, my friend, is an advanced payload delivery system that the Party would pay handsomely for. Quietly, of course. We get to take our nuclear arsenal forward by years and you get some more food on your plate. Speaking of food, could you slip some into your ‘extremely sensitive’ drawer? I’ve been in here all day.” [[color=red]Must not have private industry[/color]]
+
+[hr][/hr]
+[b][anchor=1851]#1851[/anchor]: Rally 'Round the Flag [Dushina, Pathonia; ed: Ostrovskiy][/b]
+
+The Issue
+Long after the @@DEMONYMADJECTIVE@@ Civil War, conflict continues over the battle flag of the rebel 28th @@ANIMAL@@ Infantry and Assorted Horses Regiment, captured by government forces and displayed ever since at the @@CAPITAL@@ Museum of Military History. Various protests have occurred in support of recovering the captured flag, all of which have been rebuffed by the @@CAPITAL@@ Historical Society, and the issue comes to a head during a visit to the museum.
+
+The Debate
+1. A white haired saber-wielding gentleman of the Sons of @@ANIMAL@@ Veterans catches your attention. “Now, now, gentlemen and ladies,” he proclaims while chewing tobacco loudly. “How would you feel if someone ripped your property out of your hands? Now, imagine that he proudly displayed it and shoved it in your face every day. This flag belongs to us — my family — and all the other @@DEMONYMADJECTIVE@@ patriots who stood up for their lifestyle and for the livelihoods of their children and grandchildren. It is our heritage, and it belongs in our hands, in our museums. Force the @@CAPITAL@@ Historical Society to return our banner and pay for all those years they kept it from us!”
+
+2. “If we returned the flag, it would mean completely rewriting history!” interjects Museum Director @@RANDOMFIRSTNAME@@ Sherman. “We have absolutely no need to return it. After all, it’s their fault that they lost it in the first place.” He gestures towards the tattered, blood-stained rag. “This is a symbol — by returning this object, we entirely deprive the next generation from learning a powerful lesson about history, and implicitly admit we were wrong. @@LEADER@@, do not listen to this fool: every child deserves to learn the truth about the Civil War, and the only way we can ensure that happens is through having museums that are both protected and well-funded.”
+
+3a. “Friends, there must be some sort of a compromise here. If we cannot return the flag to this gentleman, then can we perhaps put up monuments in honour of this man’s ancestors?” soothes @@RANDOMFIRSTNAME@@ Agnew, CEO and proprietor of a concrete firm. “If you send a few @@CURRENCYPLURAL@@ our way, we’d be happy to construct a memorial here or a monument there, allowing both sides to commemorate the conflict as they see fit.” [[color=blue]Must have private industry[/color]]
+
+3b. “Friends, there must be some sort of a compromise here. If we cannot return the flag to this gentleman, then can we perhaps put up monuments in honour of this man’s ancestors?” soothes @@RANDOMFIRSTNAME@@ Agnew, your Minister for Development and Homebuilding. “If you send a few @@CURRENCYPLURAL@@ our way, we’d be happy to construct a memorial here or a monument there, allowing both sides to commemorate the conflict as they see fit." [[color=red]Must not have private industry[/color]]
+
+[hr][/hr]
+[b][anchor=1852]#1852[/anchor]: A Question of Pride [Candlewhisper Archive; ed: Bisofeyr][/b]
+
+The Issue
+A pride of lions has encroached on @@CAPITAL@@ suburbs, leading to the mauling and subsequent death of a young @@MAN@@.
+
+The Debate
+*1. “Everybody likes wild animals, but human life has to come first,” complains philosopher on the various tiers of life, @@RANDOMNAME@@. “Put them in a zoo for tourists to gawk at, and turn their territory over for much needed farming and urban development. Give me a home where the buffalo roam, and I’ll give you sustainable economic growth and increased local employment. Ka-ching!” [[color=blue]Must have zoos[/color]]
+
+*2. “Everybody likes wild animals, but human life has to come first,” complains philosopher on the various tiers of life, @@RANDOMNAME@@. “Back in the old days we used to have zoos to keep beasts in, till some idiot closed them all down. Bring back zoos, and you can turn their territory over for much needed farming and urban development. Give me a home where the buffalo roam, and I’ll give you sustainable economic growth and increased local employment. Ka-ching!” [[color=red]Must not have zoos[/color]]
+
+3. “The global wild lion population has halved in the last decade; we can’t accelerate that,” snaps idealistic city-dwelling environmentalist @@RANDOMNAME@@, clutching onto a plush lion toy and a record for award-winning musical The Lion Monarch. “There’s a fenced lion reserve on the other side of @@NAME@@. Why don’t we just put these kitties to sleep, bus them over, and let them have no worries for the rest of their days in their new home?” [Validity TBD; car banning?]
+
+4. “You can’t combine lion populations like that!” wails nasally scientist @@RANDOMNAME@@, wearing white lab coat, goggles and latex gloves. “When two male alphas meet, they fight and the winner kills all the cubs of his rival. Do you want that blood on your hands? The mane — er, main — problem here is human expansion! Pull back development from the edge of the lions’ territory, and give them some space. We can all coexist!”
+
+5. “Lions! They are truly worthy foes, by Crom!” roars Conan Schwarzenmomoa, a big game hunter with a preference for two-handed swords. “Stand aside and I — alongside my guild of huntsmen — will deal with the beasts in the only manner that is fit! I WILL CLEAVE THEIR SKULLS!”
+
+[hr][/hr]
+[b][anchor=1853]#1853[/anchor]: A Whole New World [Southland; ed: Southland][/b]
+
+The Issue
+While taking a much needed vacation at one of @@NAME@@’s premier beaches with your ministers, some panicked beachgoers yell that there are several objects on the horizon. Upon inspecting with a beach telescope, an advisor realizes they are a squadron of light cruisers and gunboats belonging to the United Federation, with one purpose in mind: opening your nation up to trade.
+
+The Debate
+1. “Knock knock friends, it’s the United Federation!” cheerfully declares @@RANDOM_FIRST_NAME_1@@ Barry, the captain of the squadron’s largest ship, while sizing you up and swiping your maxberry-flavored milkshake for a long-drawn-out sip upon docking. “Your nation will benefit enormously from trading with other countries, especially us. Imagine the very best goods from the outside filling every @@DEMONYM@@ home, and the best that your information technology industry has to offer reaching every corner of the world! Isn’t that a marvelous idea? We humbly request that you end your isolation and trade with us in peaceful coexistence. Disagree, and...” @@HE_1@@ comments as @@HIS_1@@ crew behind @@HIM_1@@ cocks their guns, “...we can find alternate ways to negotiate. What do you say?”
+
+2a. “Don’t listen to this mad@@MAN_1@@!” yells Defense Minister @@RANDOM_NAME_2@@, hiking @@HIS_2@@ inflatable duck ring and swatting the shake from Barry’s hand. “We live in perfect independent isolation behind our metaphorical wall, and this putz wants to ruin it and make us their slaves! Tell these Federats to get lost and beef up on military so we’ll be ready when they try this sick stunt again.” After suspiciously eyeing some beachgoers, @@HE_2@@ harshly whispers, “We should also tighten our borders while we’re at it. Spies could easily slip in.” [[color=red]Must not have WMDs? TBC[/color]]
+
+2b. “Don’t listen to this mad@@MAN_1@@!” yells Defense Minister @@RANDOM_NAME_2@@, hiking @@HIS_2@@ inflatable duck ring and swatting the shake from Barry’s hand. “We live in perfect independent isolation behind our metaphorical wall, and this putz wants to ruin it and make us their slaves! Tell these Federats to get lost, move our nuclear missiles closer to the coasts, and beef up on military so we’ll be ready when they try this sick stunt again.” After suspiciously eyeing some beachgoers, @HE_2@@ harshly whispers, “We should also tighten our borders while we’re at it. Spies could easily slip in.” [[color=blue]Must have WMDs? TBC[/color]]
+
+3. “Stop it you two!” admonishes your @@FATHERLY@@ Minister of Compromise @@RANDOM_NAME@@ as @@HE@@ wafts away the air between the two. “It was very rude of @@MR_1@@. Barry to forcibly demand us to open up to trade, while you @@RANDOM_FIRST_NAME_2@@ are doing yourself no favor by threatening our unsolicited guest for their unorthodox proposal. Instead we should compromise by allowing exactly one port where the United Federation can trade. They’ll be banned from operating beyond that point, and and we’ll distribute the goods so they can be still be considered ‘From @@NAME@@’. Everyone will get what they want without us having to cede too much control. Now put on sunscreen you two, you’ll catch sunburn!”
+
+[hr][/hr]
+[b][anchor=1854]#1854[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1855]#1855[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1856]#1856[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1857]#1857[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1858]#1858[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1859]#1859[/anchor]: TBD[/b]
+
+
+[hr][/hr]

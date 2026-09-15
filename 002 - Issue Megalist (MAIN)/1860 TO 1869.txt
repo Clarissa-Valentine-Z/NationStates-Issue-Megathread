@@ -1,0 +1,136 @@
+[b][anchor=1860]#1860[/anchor]: Quantum Leap [Bisofeyr; ed: Bisofeyr][/b]
+
+The Issue
+During a meeting on the national budget, a crazed scientist bursts into the room bringing news of a scientific breakthrough.
+
+The Debate
+1. "Dàguó has figured out quantum computing!" wheezes the pearly-haired boffin, failing to introduce themself. After muttering some gobbledygook on what that means, they cut to the chase: "They claim to have breached Brancaland's encryption and have already posted their secret maple syrup recipe for the world to see! We don't know what they will do next, but if we want to safeguard our state secrets, we must combat their quantum computers by developing our own. We need to vastly increase funding to this technology and bring together our governmental and academic researchers to declare global dominance in quantum physics!"
+
+*2. "I'm sorry, but who decided the government was best equipped to support science?" questions @@RANDOM_NAME@@, a corporate representative from a major technology company invited to attend the meeting. "It is well-known that government funding actually crowds out private investment, which is much more efficient than the bureaucratic nightmare of government-led research. I say @@NAME@@ gets out of the science business and support professionals by cutting red tape and throwing corporate labs some cash to perform targeted research. Then you'll see us enter the quantum realm!" [[color=blue]Must have private industry[/color]]
+
+*3. "I'm sorry, but who decided the government was best equipped to support science?" questions @@RANDOM_NAME@@, an exhausted bureaucrat responsible for approving government science grants. "It is well-known that government funding actually crowds out private investment, which is much more efficient than the bureaucratic nightmare of government-run research. I say @@NAME@@ gets out of the science business and support quantum researchers by reinstating private industry. Then you'll see us enter the quantum realm!" [[color=red]Must not have private industry[/color]]
+
+**4a. "Woah woah woah, did you say q-q-quantum?" stutters your ever-nervous personal assistant. "My papa always told me to avoid witchcraft, and I believe that's what this here is. If we want to not be hacked with these mystic methods, just take all our government's information offline. That's the best protection we have, given to us by the grace of Violet herself." [[color=purple]Scientific advancement < 50-60[/color] AND [color=blue]Violetism is legal[/color]]
+
+**4b. "Woah woah woah, did you say q-q-quantum?" stutters your ever-nervous personal assistant. "My papa always told me to avoid witchcraft, and I believe that's what this here is. If we want to not be hacked with these mystic methods, just take all our government's information offline. That's the best protection we have, given to us by the grace of the heavens." [[color=purple]Scientific advancement < 50-60[/color] AND [color=red]Violetism is not legal[/color]]
+
+**5. "More realistically, this is an advancement in classical codebreaking than anything else," lays out your personal assistant, who you've recently learned was a particle physicist before taking this job. "The hype around 'quantum'-anything is just that — hype. The odds of any meaningful computing technology resulting from quantum mechanics are slim to none, and I'd bet Dàguó is just using this hype to obfuscate their actual advancements. We ought to increase science funding across the board — especially in traditional science — and propel our nation forward using the technologies we already know work!" [[color=purple]Scientific advancement > 50-60[/color]]
+
+6. "Dàguó? I thought we bombed them already," rages your Minister of Wartime Solutions @@RANDOM_NAME@@, who was about to present @@HIS@@ budget proposal for the next fiscal year. "That's a good way to stop 'em from hacking us. Blow their tech sites to smithereens! Ska-doosh!"
+
+[hr][/hr]
+[b][anchor=1861]#1861[/anchor]: Record-Breaking Industry [Gigantias; ed: Millenhaal][/b]
+
+The Issue
+Growing bad blood between Kayla Smith and her record company culminated in the dramatic announcement that she would be walking out on her contract. When she did this, she was shocked to learn that she didn't own any of the music she had recorded over the years with the label.
+
+The Debate
+1a. "It's insane! Like, that's literally my voice, my words, my songs!" whines the lachrymose lyricist, "But just because I was made to agree to a bogus contract, they're getting away with stealing all of my music! Now I'll have to go home with only a quarter of my royalties! The government should, like, make sure that artists are protected from these big, predatory labels. Speak now, and make sure that we tortured poets have full rights to whatever we've recorded evermore! Good talk, but I have a private jet waiting to take me to the spa. Being oppressed is totes bad for your skin!" [[color=blue]Aircrafts are legal[/color]]
+
+1b. "It's insane! Like, that's literally my voice, my words, my songs!" whines the lachrymose lyricist, "But just because I was made to agree to a bogus contract, they're getting away with stealing all of my music! Now I'll have to go home with only a quarter of my royalties! The government should, like, make sure that artists are protected from these big, predatory labels. Speak now, and make sure that we tortured poets have full rights to whatever we've recorded evermore! Good talk, but I have a chauffeur waiting to take me to the spa. Being oppressed is totes bad for your skin!" [[color=red]Aircrafts are not legal[/color]]
+
+2. "Ay, buddy, rules is rules! There was a blank space, she wrote her dang name, so we own all the recordings! That's the law, capiche?" opines record executive Toby Alto, notable for also having significant holdings in the waste management business. "It's her own fault for not reading it. Sure, we wrote it in size-6 font, and yeah, maybe we spilled coffee on it, and we might have rushed the negotiation process just a teensy-tiny bit. But these master recordings are simply how we make money! If our artists just decide to up and leave, we get jack-squat for all we gave 'em if we don't have rights to their music. I tell you what, if the government could slide some dough our way, we could maybe offer better royalty deals to our artists. With the extra moolah, we wouldn't need to be so cut-throat... not that we cut throats or nothin'... not literally. Well, not in this case."
+
+3aa. "Like, why are we even selling music, man?" says your cousin, smoking a funny looking cigarette. "Music is the soul of the human experience, it's like the thing that unites us all, an idea that we share through vibrations in the air. How can you own something like that?" Taking another puff, he continues. "Music should be free for anyone with ears to listen, and for anyone with hearts to appreciate. Create a place for anybody to access every music recording ever made without paying anything. Like, a library, but for music. Woah, is that why my music app calls it a library? Craaaaazy." [[color=blue]Smoking is legal[/color] AND [color=blue]Internet is legal[/color]]
+
+3ab. "Like, why are we even selling music, man?" says your cousin, smoking a funny looking cigarette. "Music is the soul of the human experience, it's like the thing that unites us all, an idea that we share through vibrations in the air. How can you own something like that?" Taking another puff, he continues. "Music should be free for anyone with ears to listen, and for anyone with hearts to appreciate. Create a place for anybody to access every music recording ever made without paying anything. Like, a library, but for music. Woah, is that why my music collection is called a library? Craaaaazy." [[color=blue]Smoking is legal[/color] AND [color=red]Internet is not legal[/color]]
+
+3ba. "Like, why are we even selling music, man?" says your cousin, reclining on a bean-bag chair he brought from home. "Music is the soul of the human experience, it's like the thing that unites us all, an idea that we share through vibrations in the air. How can you own something like that?" Adjusting his posture, he continues. "Music should be free for anyone with ears to listen, and for anyone with hearts to appreciate. Create a place for anybody to access every music recording ever made without paying anything. Like, a library, but for music. Woah, is that why my music app calls it a library? Craaaaazy." [[color=red]Smoking is not legal[/color] AND [color=blue]Internet is legal[/color]]
+
+3bb. "Like, why are we even selling music, man?" says your cousin, reclining on a bean-bag chair he brought from home. "Music is the soul of the human experience, it's like the thing that unites us all, an idea that we share through vibrations in the air. How can you own something like that?" Adjusting his posture, he continues. "Music should be free for anyone with ears to listen, and for anyone with hearts to appreciate. Create a place for anybody to access every music recording ever made without paying anything. Like, a library, but for music. Woah, is that why my music collection is called a library? Craaaaazy." [[color=red]Smoking is not legal[/color] AND [color=red]Internet is not legal[/color]]
+
+[hr][/hr]
+[b][anchor=1862]#1862[/anchor]: Emperor's New Move [Kractero; ed: Kractero][/b]
+
+The Issue
+The recent defeat of the Merovingian dictator and megalomaniac Napleslion Bonesapart by a large international coalition has culminated in a diplomatic summit in @@CAPITAL@@, which was chosen to host due to @@NAME@@'s neutrality in the conflict. Foreign dignitaries are lobbying @@LEADER@@ to choose their country to serve as Bonesapart's place of exile.
+
+The Debate
+1. "One may find it difficult to conceive a more sensible location than Albionia," suggests the Albionian diplomat, passing you a cup of tea. "We've been staring at the water long as we can remember. While the other lesser powers in our coalition languished and toiled under occupation, we never surrendered and carried on the struggle. We are intimately acquainted with every turn he takes, every trail he tracks, every path he makes. Imprisonment on an island would make his hopes for any escape short-lived. After all, Albionia rules the waves."
+
+2. "Merovingians still revere him as their Emperor," states the representative from Ausonia, gesturing wildly while swiftly replacing your teacup with coffee. "I fear exiling him to a country he fought against would make him a martyr and increase their patriotic fervor. It would make sense to keep him close enough to monitor all while avoiding looking vindictive. Perhaps we can allocate him a small principality on one of our islands, and have the Merovingian successor government pay him a small stipend. Ilba would work perfectly. When the sun hits that ridge just right, the island sings."
+
+3. "HAH, boom baby!" yells the general of the United Federation military after kicking your door down. "These snobbish tea and coffee drinkers think that their pathetic paper boats and toy armies can contain him? Face the facts — they lost six wars against this dwarf before we came to throw off his groove. To top it all off, they're concerned about the Merovingians? Why even care about what those losers think? Leave him to us, and we'll throw him into our top-security prison, Azkatraz. We'll even occupy Merovingia militarily until the people forget he ever existed."
+
+4. "I'm sure that Bonesapart didn't really mean what he did," apologizes the statesman from Brancaland, shaking your hand profusely. "Locking him up forever would simply be unacceptable. With proper care and rehabilitation, we believe that he can once again become a respectable member of society — a statesman who can stand as tall as his peers. If Merovingia is to embrace liberty, equality, and fraternity, Bonesapart's transformation can show Merovingia — nay, the world — what it means to reform an ancient regime. Let him be our guest, and put our service to the test."
+
+*5a. "If we're already here, why not just execute him?" questions chief executioner @@RANDOM_NAME@@. "Disconnecting his head from his body would be a permanent solution to this problem." @@HE@@ pulls out a map, pointing to it. "These incompetents somehow needed seven wars to defeat him. By all accounts, it doesn't make sense. Clearly, we can rely on nobody but ourselves to control the rhythm in which he lives his life, his pattern of behavior." [[color=blue]Must have Capital Punishment[/color]]
+
+*5b. "If we're already here, why not just imprison him?" questions warden @@RANDOM_NAME@@. "Making sure he never sees the light of day would be a permanent solution to this problem." He pulls out a map, pointing to it. "These incompetents somehow needed seven wars to defeat him. By all accounts, it doesn't make sense. Clearly, we can rely on nobody but ourselves to control the rhythm in which he lives his life, his pattern of behavior." [[color=red]Must not have Capital Punishment[/color], [color=blue]Must have Prisons[/color]]
+
+**6. "Oh, this fine man would make the perfect sacrifice," declares @@RANDOM_NAME@@, Grand High Poobah of the Order of Violet. "It has been so long since we've been able to sacrifice anybody to Violet, let alone a person with such fine noble pedigree and stature. We must have him converted to Violetism at once, and once you allow us to sacrifice in our Mistress's honor once more, we will smash him with a hammer in the name of Violet! It's brilliant, brilliant, brilliant, I tell you! Genius, I say!" [[color=blue]Must allow Violetism[/color], [color=red]Must not have Human Sacrifice[/color]]
+
+**7. "Oh, this fine man would make the perfect sacrifice," declares @@RANDOM_NAME@@, Grand High Poobah of the Order of Violet. "It has been so long since such a person with such fine noble pedigree and stature like this has been sacrificed to our deity. We must have him converted to Violetism at once, then smash him with a hammer in the name of Violet! It's brilliant, brilliant, brilliant, I tell you! Genius, I say!" [[color=blue]Must allow Violetism[/color], [color=blue]Must have Human Sacrifice[/color]]
+
+8a. "Just give him back to Merovingia," states your advisor Bonk. "Of course, he needs to be shown a lesson first. Flog him until he has a llama face, and publicize it to as many Merovingians as possible. Let his people know he's being let go. That he's part of an outplacement. That they're going in a different direction. That he's no more than just citizen Napleslion Bonesapart. Take your pick. Oh yeah, it's all coming together." His eyes suddenly go wide as the smell of smoke wafts into the room. "My spinach puffs!" he exclaims, darting out of the room. [[color=blue]Must have Corporal Punishment[/color]]
+
+8b. "Just give him back to Merovingia," states your advisor Bonk. "Of course, he needs to be shown a lesson first. Make Napleslion renounce his rule and admit to fabricated crimes, and publicize it to as many Merovingians as possible. Let his people know he's being let go. That he's part of an outplacement. That they're going in a different direction. That he's no more than just citizen Napleslion Bonesapart. Take your pick. Oh yeah, it's all coming together." His eyes suddenly go wide as the smell of smoke wafts into the room. "My spinach puffs!" he exclaims, darting out of the room. [[color=red]Must not have Corporal Punishment[/color]]
+
+[hr][/hr]
+[b][anchor=1863]#1863[/anchor]: Liar Liar [West Barack and East Obama; ed: Raionitu][/b]
+
+The Issue
+Up and coming defence lawyer Mick Dross, known for winning his first twenty cases, was recently exposed for falsely claiming to have legal credentials despite having no legal qualifications whatsoever.
+
+The Debate
+1. "This conman isn't even the first to try this trick, there's been many such cases!" fumes @@RANDOM_NAME@@, the Chair of the Bar Council, as a thick coat of @@HIS@@ wig powder gets all over your desk. "These grifters make a mockery of our justice system, waste valuable resources, and fail the people they represent by providing legal advice the layman may mistake for expert — all for a quick buck! Have this disgraceful hustler and anyone else like him imprisoned. Then we can prevent future cases by requiring strict paperwork from anyone who claims to be a lawyer during trial."
+
+2. "Or maybe we should consider why people are turning to these methods of practicing law in the first place!" proclaims @@RANDOM_NAME@@, an aspiring barrister who turned barista after failing the bar exam three times in a row. "Perhaps it's because law school is too expensive, or getting a degree means brown-nosing snobs who wouldn't know a creative mind if it slapped them in the face. Or perhaps it's because a degree is a useless waste of time! Mr. Dross sure as hell didn't have one, and yet he managed to beat a bunch of people who did. You should allow everyone to choose whoever they want to represent them in court, even if that representation isn't considered 'qualified' by stuffy old judges."
+
+3. "We obviously can't let posers run amok in our courthouses, but we also can't let great legal minds slip away because they didn't have the required credentials," your Minister of Compromises says while attempting to balance your erasers on a model pair of scales. "What if we offered everyone a chance at being a lawyer? Allow aspiring attorneys to take on a maximum of five cases without a degree. If they prove themselves to be worthy with their practical skills, we can offer them subsidised legal education and let them take a test to become accredited. If they don't show potential, well, tough luck. This way, we can sieve out the bad from the good and maintain a healthy workforce of qualified lawyers."
+
+[hr][/hr]
+[b][anchor=1864]#1864[/anchor]: Don't Objectify Me! [Ankuran; ed: Electrum][/b]
+
+The Issue
+Automotive manufacturer Testless, Inc. found itself in hot water yesterday after a leaked video showed one of its self-driving cars accelerating into a Bigtopian family. Thankfully, the car was undamaged — and no one was seriously injured. You pull up to the office this morning to find a swarm of people waiting for you before you've even had a chance to get out of your self-driving car.
+
+The Debate
+*1. "It's the software's fault," explains your empathy consultant, the one hired by your team to help improve your people skills, as @@HE@@ opens your door and reaches in to turn off the news report about the Bigtopian family playing on the car's touchscreen. "The image recognition in other cars is so primitive that they can barely read street signs, let alone tell the difference between trees or people on the sidewalk! You wouldn't let a blind person behind the wheel, would you? In the name of public safety, you should force car companies to upgrade and retest their older models to a new standard." [[color=red]Must not have AI Personhood[/color]]
+
+*2. "It's not our fault!" objects your car's AI through the Dogstar XM radio, cutting off the news report about the Bigtopian family playing on the car's touchscreen. "The image recognition in other cars is so primitive that they can barely read street signs, let alone tell the difference between trees or people on the sidewalk! You wouldn't let a blind human behind the wheel, would you? In the name of public safety, you should force car companies to upgrade and retest their older models to a new standard." [[color=blue]Must have AI Personhood[/color]]
+
+3. You hear a knock on the driver's side window and turn to see Testless, Inc. CEO Ebony Dusk pressing a remote to roll the window down. "The car is working as intended. Pedestrians are clearly not meant to be on the road when the traffic light is green, even if they're Bigtopian. Honestly, you should be paying us to send dashcam footage every time our sensors detect a pedestrian doing the wrong thing. You'll have a new source of fine revenue and we'll finally have the money to develop the Testless Virtualtruck."
+
+4. As Dusk leaves, she is quickly replaced by Bigtopian equality activist @@RANDOM_NAME@@, whom your car's sensor has identified as being a particularly loud mailbox shouting directly into your open window. "This accident is a symptom of the systemic racism that pervades our society. The quality of image recognition is based on the quality of the inputs, and we all know how this training data contains algorithmic biases against minority groups. We will not allow ourselves to be objectified by computers! These self-driving cars must go!"
+
+[hr][/hr]
+[b][anchor=1865]#1865[/anchor]: Hostile Takeover [Cretox State; ed: Ostrovskiy][/b]
+
+The Issue
+A joint McRonalds-Fizer strike team breached a Moonbucks office complex in a daring late-night raid, successfully apprehending a dangerous corporate spy and recovering a cache of stolen proprietary formulas.
+
+The Debate
+1. "Justice was served at our signature low low prices!" boasts Johnny McRonalds, Director of Marketing, who personally gave the order to terminate his former employee's generous severance package. "However, breaching the brand traitor's clandestine conference room bunker took almost as long as the wait time on a Moonbucks customer support call, and our brave affiliates were nearly repelled by a squad of interns armed with cutting-edge office supplies. Giving us bulk discounts on military surplus gear and greater authority to act would be a real efficiency boost for our strategic vision and the law enforcement sector. You're lovin it!"
+
+2. "Here at Moonbucks, the rules of engagement are some of our top priorities this quarter!" exclaims the muffled voice of Chief Acquisitions Officer Guy Moon from behind a thick wall of lawyers and body doubles. "We were circling back on negotiating an arbitration agreement to resolve the matter peacefully at minimal risk to shareholder value, which McRonalds violently seized along with my end-of-year bonus. You need to impose strict limits on corporate uses of force before more of our peer companies follow McRonalds' example and ruin consumer confidence."
+
+3. "Corporate militaries could be onboarded directly to match the passion points of @@DEMONYM_NOUN_PLURAL@@," suggests General Jessica Government-Queen, who your advisors suspect might have a side hustle consulting for Burger Queen's elite Meal Team Six. "By integrating them into the chain of command in exchange for a whopper of financial incentives, you could leverage the private sector to bolster @@DEMONYM_ADJECTIVE@@ security while holding them accountable to our national brand. The value will be almost as good as Burger Queen's award-eligible combo deals!"
+
+4. "If you ask me, this whole thing's a loss leader," rambles your secretary, hurriedly stuffing a briefcase into one of your desk drawers. "We need to ban these insane private forces and beef up the actual military before something really crazy hap-" Meal Team Six suddenly rappels in through your office window and absconds with both your secretary and your desk.
+
+[hr][/hr]
+[b][anchor=1866]#1866[/anchor]: First Past the Deal [Chan Island; ed: Southland][/b]
+
+The Issue
+The by-election in @@CAPITAL@@ Old Town, one of the biggest opposition strongholds in the country, has taken an unexpected turn with the rising success of an independent challenger. While your party is running its own candidate, who has already been campaigning, polls show the independent is a few points short of winning. Party insiders are now seriously considering pressuring your party's candidate to withdraw, or at least stop seriously contesting the race.
+
+The Debate
+1. "The opposition is fielding yet another firebrand, and to be blunt there's no realistic path to victory. The people of @@CAPITAL@@ Old Town have shown for decades that they'd elect roadkilled dog over a candidate running under our name," explains parliamentary leader @@RANDOM_NAME@@. "But we could really work with this independent if they're elected. They agree with us on most of the major issues, and they share your taste in bathroom interior decorations. All we need to do is drop out of the race. The local party chapter won't like it, our candidate will hate it, but this is the right strategy. Better to help elect someone we can work with than hand the seat back to the opposition."
+
+2. "If you think that lone wolf crank is so reasonable, ask them their views on democracy," demands @@RANDOM_NAME_2@@, your party's candidate in the race, while brandishing a "Still like @@RANDOM_FIRST_NAME_2@@" foam finger. "Fact is, I'm representing our party, and we still have thousands of supporters in this district who deserve to have their votes go to what they actually agree with. Not to mention, even tough bids like this help us by gaining our staffers and volunteers valuable experience. So I say we fight harder, even with the odds against us. Give us the funding to fight this properly, and I can deliver this thing!"
+
+3. "There is a middle way here," says party staffer @@RANDOM_NAME@@, awkwardly shuffling from behind a life-size cardboard cut-out of you. "We field something called a 'paper candidate'. We stay on the ballot, but we withdraw all our funding and advertising. That way our loyalist diehards can still vote for us if they want, but we stop pouring effort into a race we are unlikely to win when the independent actually might. There's no guarantee that the vote won't remain split, and we'll be accused of abandoning our supporters, but it's making the best out of a bad situation." @@HE@@ then slinks back behind your cut-out.
+
+4. "This is why I hate first past the post so much!" shouts intern @@RANDOM_NAME@@, pushing the single-paged poll survey off the table for dramatic effect. "Under this crummy voting system, nothing is about policy or ideas, only horse trading and strategising and skullduggery. No wonder our loyal and dedicated followers in these districts always feel too disillusioned to turn out and vote. We need to reform the electoral system to a proportional one instead! We owe it to our supporters to feel like they're heard no matter where they live, and they'll reward us by turning out in droves I'm sure."
+
+[hr][/hr]
+[b][anchor=1867]#1867[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1868]#1868[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1869]#1869[/anchor]: TBD[/b]

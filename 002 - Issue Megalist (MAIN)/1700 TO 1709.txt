@@ -65,7 +65,7 @@ The Debate
 [b][anchor=1704]#1704[/anchor]: Rainbow Disconnections [Ostrovskiy; ed: The Ankhalic Vaspriot][/b]
 
 The Issue
-It's election year in Brancaland, a country which has a significant amount of trade with @@NAME@@. The incumbent president has made a promise to support rights for homosexuals abroad, and as they scramble to secure a second term, their administration has threatened sanctions on War Dogs XI due to your laws against homosexuality.
+It's election year in Brancaland, a country which has a significant amount of trade with @@NAME@@. The incumbent president has made a promise to support rights for homosexuals abroad, and as they scramble to secure a second term, their administration has threatened sanctions on @@NAME@@ due to your laws against homosexuality.
 
 The Debate
 1. "Look, @@LEADER@@, Brancaland doesn't want a trade war," begins the Brancalandian ambassador, replacing the miniature flag on your desk with a rainbow version. "All we're asking you to do is simply nix your anachronistic laws criminalizing homosexuality. If that's done, we won't impose any sanctions and your industries won't suffer any damage. If it isn't, well, you've brought this on yourself."

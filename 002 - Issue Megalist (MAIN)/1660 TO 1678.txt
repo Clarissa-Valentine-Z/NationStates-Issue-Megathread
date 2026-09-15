@@ -178,7 +178,7 @@ The Debate
 [b][anchor=1671]#1671[/anchor]: No Good Deed? [Paffnia; ed: Klaus Devestatorie][/b]
 
 The Issue
-One of your rare relaxing walks around quiet Northwest Utopia was interrupted by a group of people arguing on the lawn of a house with a "For Sale" sign. The dispute, you learn, is that the deed to the house and all others in the area forbid them from being sold to anyone of Bigtopian descent.
+One of your rare relaxing walks around quiet Northwest @@CAPITAL@@ was interrupted by a group of people arguing on the lawn of a house with a "For Sale" sign. The dispute, you learn, is that the deed to the house and all others in the area forbid them from being sold to anyone of Bigtopian descent.
 
 The Debate
 1. "There's a reason our neighborhood character is so idyllic," asserts retired Rear Admiral @@RANDOM_NAME@@, knocking on the lawn's white picket fence for emphasis. "It's because only the right elements of society are allowed to buy homes here. It's been that way since before I was a boy. Everyone here now bought their houses knowing and agreeing that the deeds have reasonable restrictions to preserve our property values. No renting to rowdy college kids, no running a business, and no selling to — well, you know. These private contract and deed arrangements work, and the government should let individuals set whatever rules we see fit."
@@ -187,7 +187,7 @@ The Debate
 
 3. Realtor @@RANDOM_NAME@@ glances awkwardly at both before handing you a glossy brochure of nearby homes for sale. "Look, I'd love to sell to any buyer with the money," @@HE@@ says. "Yet like it or not, if just any riff raff can move here and do what they want, property values will drop. But I have a solution! In exchange for changing the terms of the deed and allowing our Bigtopian friends to buy, our lucky new residents should compensate nearby neighbors for their lost home value. And maybe also realtors for their lower commissions? A win-win-win!"
 
-4. "I couldn't help but notice this dispute," chimes in @@RANDOM_NAME@@, who until now had been watching the fracas through binoculars from @@HIS@@ window. "Instead of fussy deeds or complicated real estate arrangements, why don't you divide the suburbs into townships, and let local authorities handle property disputes? That would let forward-thinking residents make rules on the important economic and nuisance issues in our area. Like banning small yappy dogs like the al-Assad family has! Or making Crispin down the street repaint his porch from its ugly puce to a nice fuchsia!"
+4. "I couldn't help but notice this dispute," chimes in @@RANDOM_NAME@@, who until now had been watching the fracas through binoculars from @@HIS@@ window. "Instead of fussy deeds or complicated real estate arrangements, why don't you divide the suburbs into townships, and let local authorities handle property disputes? That would let forward-thinking residents make rules on the important economic and nuisance issues in our area. Like banning small yappy dogs like the @@RANDOM_LAST_NAME@@ family has! Or making @@RANDOM_LAST_NAME@@ down the street repaint his porch from its ugly puce to a nice fuchsia!"
 
 [hr][/hr]
 [b][anchor=1672]#1672[/anchor]: Tourists Flood Murder Victims' House [Poopoopeepeestan; ed: Raionitu][/b]

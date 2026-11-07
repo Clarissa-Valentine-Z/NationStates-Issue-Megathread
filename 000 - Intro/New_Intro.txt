@@ -1802,11 +1802,11 @@ Also, some options have varients or are not available to certain nations. Here's
 [size=200][color=#3DC0FF][b][i]Hotlinks for Post-Editing (for OP Use)[/i][/b][/color][/size]
 [hr][/hr]This is for when I am doing a large-scale post editing.
 [spoiler]Section 1 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=768
-Section 2 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32527763
-Section 3 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=24683039
+Section 2 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=24683039
+Section 3 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32521309
 Section 4 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32527532
-Section 5 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32521309
-Section 6 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32527535
+Section 5 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32527535
+Section 6 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32527763
 0000 TO 0025.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=769
 0026 TO 0050.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=770
 0051 TO 0075.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=771
@@ -1822,13 +1822,13 @@ Section 6 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32527535
 0301 TO 0319.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=783
 0320 TO 0339.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=84572
 0340 TO 0359.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=111088
-0360 TO 0379.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956763
-0380 TO 0399.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956764
-0400 TO 0419.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956766
-0420 TO 0439.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956767
-0440 TO 0459.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956768
-0460 TO 0479.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956769
-0480 TO 0499.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956296
+0360 TO 0379.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956296
+0380 TO 0399.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956763
+0400 TO 0419.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956764
+0420 TO 0439.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956766
+0440 TO 0459.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956767
+0460 TO 0479.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956768
+0480 TO 0499.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=19956769
 0500 TO 0519.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=28989624
 0520 TO 0539.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=28990964
 0540 TO 0559.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=28990970
@@ -1905,4 +1905,5 @@ Section 6 - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=32527535
 1840 TO 1849.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138675
 1850 TO 1859.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138676
 1860 TO 1869.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138677
+1870 TO 1879.txt - https://forum.nationstates.net/posting.php?mode=edit&f=13&p=35138678
 [/spoiler]

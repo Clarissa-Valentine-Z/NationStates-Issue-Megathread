@@ -1,0 +1,90 @@
+[b][anchor=1870]#1870[/anchor]: Legally Binned [Rudastan; ed: Kractero][/b]
+
+The Issue
+While enjoying a long walk on the outskirts of @@CAPITAL@@, you hear an explosion from a nearby recycling facility. The facility's officer is quick to show you boxes of fizzing and leaking 'recyclables', exposing a quiet trade by local and foreign firms to exploit @@NAME@@'s lax recyclable and scrap import laws to smuggle in and dump hazardous waste within national borders.
+
+The Debate
+1. Your personal secretary, pale and overworked, adjusts @@HIS@@ glasses and smiles like @@HE@@'s going to get ignored again. "N-no need for alarm, hehe. This is merely a misunderstanding between administrative cultures. These poor foreign shippers have simply been left without — ah — adequate labeling guidance. Once we provide unambiguous labels, foreign carriers and our more — erm — imaginative domestic companies will have no choice but to put things in the proper category. I'm sure that if we translate words like 'recyclable', 'biohazard', and 'highly explosive' into the relevant languages, Dàguó and friends will stop sending over... whatever the muck in that pizza box is supposed to be."
+
+2. "Ach, don't be daft, there's plenty tae see here, and none o' it good," insists the officer, standing ankle-deep in something that presumably used to be liquid. "@@LEADER@@, they're takin' us fer fools. The law is the law, darn it! It's always the dastardly Dàguórens, or the rest o' that lot sniffin' aboot our ports. Our companies wouldn't be needin' tae break a single rule if ootsiders weren't floodin' the place with filth and abusin' loopholes. How can we tell who's been honest wi' us and who 'asn't? Jus' shut the gates an' ban all imported trash!"
+
+3. "You didn't hear this from me," confides a damp-haired customs contractor, pausing to flick his toothpick into something that hisses on impact. "But these barrels are rolling in either way. Today it's labeled industrial solvent, tomorrow it's fertilizer, and everybody gets paid except the people with the stamp. You ain't stopping it, so put a proper name on it. Special handling, restricted disposal. Whatever makes the clerks feel clean. We stamp it at the docks and move the stuff worth selling, and the rest disappears quiet — there's always someone Bigtopia ready to breathe poison for a living. Trust me, @@LEADER@@, you don't have a waste problem. You have a revenue problem."
+
+4. "Oh, that's beautiful. That's just beautiful," groans a sanitation worker on the scene, wringing out a mop that dissolves halfway through the process. "I'm pullin' doubles, my crew's quittin', and now we got imported sludge of the apocalypse? They feel like shippin' us their junk? Fine. We ship it back, with interest! The brass want their next miracle weapon? Tell 'em to stop polishin' their missiles and start fillin' 'em. Strap this stuff into shells, load it on drones, and send the whole toxic, corrosive, flammable mess their way! Oughta scare the hell outta anyone caught underneath it."
+
+[hr][/hr]
+[b][anchor=1871]#1871[/anchor]: Thief Rex [Dexterra; ed: Southland][/b]
+
+The Issue
+A disgruntled employee at a highly-classified dinosaur cloning facility broke into the labs and stole frozen embryos to sell to the United Federation for military use. Fortunately, he was eaten by a [i]T. rex[/i] that ran loose after security was disabled. As you visit the facility to assess the situation, a monstrous debate around safety has begun to devour @@NAME@@'s dinosaur cloning program.
+
+The Debate
+1. "Can you imagine the unchecked dinosaur proliferation if he had succeeded? The United Federation would have stockpiled their own dinosaur army!" cries head of security @@RANDOM_NAME@@, pacing around in circles as @@HE@@ tears out patches of @@HIS@@ hair. "That's not even the worst of it. Reassessing our past incidents, I found countless instances of possible spies, anti-cloning saboteurs, and that ever-wiley problem-solving [i]Allosaurus[/i] Kevin testing his enclosures for weaknesses. We need 'round the clock surveillance with more security guards, extensive background checks, fingerprint locks, and electrified fences on the enclosures."
+
+2. "Just take better care of the employees," suggests game warden Bob Dulmoon, as he struggles to coax a [i]Velociraptor[/i] named Cuddles back into a busted-open pen. "Do you have the slightest idea how dangerous our jobs are? These 'clever girls' tried to chew off my leg three times this morning alone! Need I also remind that we're handling highly sensitive information, and doing groundbreaking work that only a few nations are capable of? If we were paid living wages, had better hours, and maybe the eggheads were given more research funding, this wouldn't happen. We should be treated like supersta—" Dulmoon runs screaming as Cuddles chases him.
+
+3. "The United Federation is onto something. We should be the first to have dinos of mass destruction!" asserts general Dina Millie-Terry, drinking rather unnervingly from an [i]Archaeopteryx[/i] skull cup. "Just imagine: our troops riding on cavalries of [i]T. rexes[/i], trained [i]Ichthyosauruses[/i] attacking submarines, and air superiority achieved with a fleet of Pterosaurs. We can even conquer Blackacre and feed their Supreme Leader to your specially-designed [i]Barryosaurus[/i]!" She leans in and whispers, "Besides, if the U.F. do end up developing their own military dinos, we can just develop bigger and better dinos. Nothing drives innovation, or defense spending, like a good old-fashioned arms race."
+
+*4a. "No, dinosaur cloning must remain an instrument of peace!" interjects Ron Hammond, a wealthy industrialist who has a habit of showing up to dinosaur-related meetings uninvited. "The best way to showcase that is opening a dinosaur zoo. With 'Mesozoic Park', we will become a world leader in science, and a new generation of peace-loving paleontologists, geneticists, and biologists will be born amongst the tons of visitors. Not to mention the boatloads of @@CURRENCY_PLURAL@@ I'll—I mean we'll be making. As for security, knowing the public's safety's in our hands will surely be the incentive needed to bring them up to code." [[color=blue]Must have Dinosaur Zoos[/color] AND [color=blue]Must have Private industry[/color]]
+
+*4b. "No, dinosaur cloning must remain an instrument of peace!" interjects Ron Hammond, a senior economic planner who has a habit of showing up to dinosaur-related meetings uninvited. "The best way to showcase that is opening a dinosaur zoo. With 'Mesozoic Park', we will become a world leader in science, and a new generation of peace-loving paleontologists, geneticists, and biologists will be born amongst the tons of visitors. Not to mention the boatloads of @@CURRENCY_PLURAL@@ I'll—I mean we'll be making. As for security, knowing the public's safety's in our hands will surely be the incentive needed to bring them up to code." [[color=blue]Must have Dinosaur Zoos[/color] AND [color=red]Must not have Private industry[/color]]
+
+5. "This is a sign that we should just stop cloning dinosaurs," pleads Ani Malcolm, of the outspoken anti-dinosaur cloning group Free Rex. "Cloning dinosaurs has been an interesting experiment, but extinct means extinct. We have no moral right to resurrect long dead species. Look at the cloning facility right now!" She points over to a screaming Dulmoon, still running for his life from Cuddles. "Your scientists were so preoccupied with whether or not they could, they didn't... well, you know where I'm going with this. We should euthanize these terrible lizards and shutter the cloning program."
+
+[hr][/hr]
+[b][anchor=1872]#1872[/anchor]: Instruments of Destruction [The Realizer; ed: Nardin][/b]
+The Issue
+After you plucked up the courage to buy musical instruments for every child in @@NAME@@, swathes of forests are being flattened to keep up with demand, which has struck a chord with a chorus of people who've descended upon your office to take the stand and voice their opinions.
+
+The Debate
+1. Noteworthy conservationist @@RANDOM_FIRST_NAME@@ Da Capo waltzes into the room with a violin. "If we keep cutting down trees at this rate, sooner or later we'll have none left!" @@HE@@ composes @@HIM@@self. "@@LEADER@@, we must establish some long-term reserve forests for instrument building in order to preserve our environment. In the meantime, let's fine-tune regulations on how many trees can be cut down to scale back the destruction of our forests. It may dampen the industry's tempo somewhat, but it's the only way to keep our forests safe and sound!"
+
+2. TBD
+
+3. "No need to fret, there's always another solution," pitches sharply-dressed sound engineer @@RANDOM_FIRST_NAME@@ Largo, speaking in a thick accent very slowly whilst struggling to hoist a double bass. "The key to both protecting our forests and enhancing the music industry is carbon fiber! We can go back to the drawing board and string together some new designs for instruments to be made with acoustic enhancing polymers. Hey presto! There's no need to harp on the details — subsidizing carbon fiber manufacturers would be instrumental for the amplification of our baroque-n music industry!"
+
+4. "Our instrument building techniques are rooted in tradition," notes master craftsman Fred Choppin, wielding an axe-shaped guitar. "Improvising instrument composition would rock the foundations of our whole profession. What we really need is to expand production! Why stop at children? [i]Every[/i] citizen deserves an instrument... or two, even! Let's branch out to the forests of northern @@NAME@@, cut down every tree in sight and drum up more excitement for classical music!"
+
+5. "NO!" barks an aide from the environment ministry, popping into your office accompanied by a trombonist. "This would be a major mistake that undoes YEARS of my department's work! That said, we have to sustain this cultural boom. I notice Brancaland's trees have some lovely timbre. Why don't we gather the military brass and slide across the border to conduct a minor logging operation? It would wind them up and close a few diplomatic valves but it's necessary if we're to get a handle on this new demand for instruments," she says as the musician drones out the national anthem.
+
+**6. "This whole scheme's been nothing but treble," sarcastically slurs sports coach Barry Toner, simultaneously sipping a flat Eckie-Cola and straining to get noise out of a broken kazoo. "I'm not one to blow my own trumpet, but it's always been clear that our nation's forte isn't music — it's sport. Buy a @@ANIMAL@@ball for every child in @@NAME@@ and organize intramural sports tournaments so we can encourage some more natural talent in our youth and help them find their rhythm. Now [i]that[/i] would be music to my ears!" [[color=blue]Sports must be legal; TBC[/color]]
+
+**7. "This whole scheme's been nothing but treble," sarcastically slurs gym teacher Barry Toner, simultaneously sipping a flat Eckie-Cola and straining to get noise out of a broken kazoo. "I'm not one to blow my own trumpet, but I've always said that our nation's forte isn't music — it's physical prowess. Legalize sports, buy a @@ANIMAL@@ball for every child in @@NAMe@@, and organize field trips to major league games so we can encourage natural talent in our youth and help them find their rhythm. Now [i]that[/i] would be music to my ears!" [[color=red]Sports must not be legal[/color]]
+
+[hr][/hr]
+[b][anchor=1873]#1873[/anchor]: When We All Fall Asleep, Where Do We Go? [Merethin, General TN; ed: Kractero][/b]
+
+The Issue
+During a late-night outing with @@HIS_1@@ friends, a teenager in rural @@NAME@@ fell into a coma after a severe allergic reaction. Without @@HIS_1@@ EbiMarker, @@HE_1@@ had to be rushed to the distant @@CAPITAL@@ Trauma Hospital for care as the only pharmacy in the area was closed for the day.
+
+The Debate
+1. "We're here to take care of our actual patients," complains doctor Greg Home, massaging his leg. "You know, the ones with cancer, chronic illnesses, or on their deathbeds — not to waste our time on something preventable just because a couple of employees were too lazy to work at night! Ever heard of caffeine? Pharmacies should be open around the clock." The doctor reaches into his pocket and pulls out an unlabeled pill bottle. "Now, if you'll excuse me."
+
+2. "24/7 operations? Where are companies like us supposed to get that kind of money?" interjects pharmaceutical CEO @@RANDOM_NAME_2@@, quickly removing @@HIS_2@@ gold-plated watch and necklace. "Hiring and training new staff to work under the cover of darkness? I shudder at the thought of putting our beloved family through this. If you are to even consider this proposal, the government should help us poor small businesses cover the costs and give us generous tax breaks." [must be capitalist?]
+
+3. "What if someone gets bitten by a venomous snake? What if someone falls off a ladder trying to figure out how many people it takes to change a lightbulb?" stutters your Minister of Worst-Case Scenarios. "Anyone could need immediate medical care that the nearest pharmacy cannot provide. We must expand the urgent care infrastructure across the nation and ensure we have enough professionals to staff it, even if they have to skip a few classes in medical school. Make sure any @@DEMONYM@@ can be seen within minutes. It'll be costly, but can you put a cost on saving a life?"
+
+4. @@RANDOM_NAME_3@@, an alternative medicine researcher, hands you a flyer titled [i]Tapeworms and Me[/i] before commenting, "Why not get rid of these pesky reactions altogether? Luckily, my scientists may have found a solution — parasitic worms! We've found that they produce chemicals that inhibit your immune system just enough to prevent allergies and other autoimmune diseases. All we need are some golden coins, a couple of test subjects, and your endorsement. Think of how glorious it'll be to ship @@LEADER@@'s Therapeutic Tapeworms all over not just @@NAME@@, but @@REGION@@!"
+
+[hr][/hr]
+[b][anchor=1874]#1874[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1875]#1875[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1876]#1876[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1877]#1877[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1878]#1878[/anchor]: TBD[/b]
+
+
+[hr][/hr]
+[b][anchor=1879]#1879[/anchor]: TBD[/b]
